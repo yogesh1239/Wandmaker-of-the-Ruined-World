@@ -11,6 +11,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 2 | サバイバル、魔法を添えて | Survival, with a Side of Magic | updated |
 | 3 | 青の魔女 | The Blue Witch | updated |
 | 4 | オーバーテクノロジー | Overtechnology | updated |
+| 5 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | updated |
 
 ## Known issues / decisions
 - None.

@@ -41,6 +41,7 @@
 | 博田伝次郎 | Hakata Denjiro | Denjiro Hakata, Hakata Denjirou, Denjirou Hakata | Male |
 | 財前金太郎 | Zaizen Kintaro | Kintaro Zaizen, Zaizen Kintarou, Kintarou Zaizen | Male |
 | 中村 | Nakamura |  | Aoyama family's neighbor |
+| オッペンハイマー | Oppenheimer |  | physicist invoked as a nuclear-weapons analogy |
 | 鵜田川聖愛 | Utagawa Maria | Maria Utagawa | Female / Shirokarasu's real name |
 | 白鴉 | Shirokarasu | Shirogarasu, White Crow | Female / leader of Watarigarasu |
 | モエカ | Moeka |  | Unknown / Watarigarasu enforcer |
@@ -66,6 +67,7 @@
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
+| 大氷河魔法 | Great Glacier magic | great-glacier magic | Blue Witch's maximum-power wide-area freezing magic |
 | 君よ、氷河に沈め。永久凍土に眠れ | You, sink beneath the glacier. Sleep in the permafrost! |  | Blue Witch's strongest freezing incantation |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
@@ -109,12 +111,17 @@
 | オーパーツ | out-of-place artifact | OOPArt, OOPArts | object seemingly beyond its era's technology |
 | オーバーテクノロジー | overtechnology | over-technology, advanced technology | technology beyond the surrounding era's capabilities |
 | 封印鎖 | sealing chains | seal chains | Hachioji Witch's binding magic |
+| 凍裂 | frost cracking | freeze cracking, frost splitting | low-temperature splitting of moisture-bearing wood |
+| 全乾材 | oven-dry wood | oven-dried wood, moisture-free wood | wood dried to zero-percent moisture content |
+| 棍棒外交 | Big Stick diplomacy | big-stick diplomacy | coercive diplomacy backed by military force |
+| 武力均衡 | balance of power | military balance | strategic equilibrium among armed powers |
 | 魔法少女ロジカル☆アインシュタイン | Magical Girl Logical☆Einstein | Logical Einstein | fictional magical-girl anime |
 | アイちゃん | Ai-chan | Ai | character featured on a limited-edition music box |
 | ヒューマニティ・ダイヤモンド | Humanity Diamond | Humanity Gem | decorative gem on Ai-chan's costume |
 | 青魔杖キュアノス | Blue Wand Cyanos | Blue Magic Wand Cyanos | Aoyama Hiyori's seven-layer magic-stone wand |
 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | Dragon Furnace Carved Seven Layer Blue Wand Cyanos | full formal name of Cyanos / title-map term |
 | キュアノス | Cyanos | Kyanos | shortened wand name |
+| キュアノスＶｅｒ・２ | Cyanos Ver. 2 | Cyanos Version 2 | frost-resistant rebuilt Cyanos |
 | 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Ohinata Kei's safety-lock wand |
 | アレイスター | Aleister | Alastair | shortened wand name |
 | メビウス連環錫杖ハリティ | Moebius-linked khakkhara Hariti |  | Hell Witch's seven-loop magic-stone staff |
@@ -143,6 +150,7 @@
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 羽村 | Hamura |  | city frozen during the giant-kaiju battle |
 | 文京区 | Bunkyo Ward | Bunkyou Ward | ward governed by Foresight Mage |
 | 港区 | Minato Ward | Minato-ku | former domain of Bloodsucking Mage |
 | 品川区 | Shinagawa Ward | Shinagawa-ku | ward governed by Flame Witch |

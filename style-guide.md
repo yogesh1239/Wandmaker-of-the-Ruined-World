@@ -26,3 +26,6 @@ After Ori met the territorial Blue Witch in Ome, Hiyori explained the post-Greml
 
 ### Volume 1, Chapter 4 — Overtechnology
 Hiyori tested Cyanos's amplification while patrolling Ome, but the Eyeball Witch called her to the emergency after the Bloodsucking Mage died evacuating civilians from a giant kaiju's landing. Refusing to leave Ome, Hiyori unleashed her strongest freezing magic from afar; Cyanos amplified it enough to freeze the kaiju and surrounding city beneath ice, then left her unconscious.
+
+### Volume 1, Chapter 5 — Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos
+After Hiyori's Great Glacier magic froze the giant kaiju and part of Tokyo, Cyanos's wooden handle frost-cracked from the extreme cold despite causing only magic backlash. Ori remade it as Cyanos Ver. 2 with oven-dry wood, left Hiyori to vet wand customers, and planned regular field-informed maintenance and feedback.
