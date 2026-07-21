@@ -20,3 +20,6 @@ Ori, an isolated Okutama auction artisan, found a meteorite and named its imposs
 
 ### Volume 1, Chapter 2 — Survival, with a Side of Magic
 Over a year of survival after the Crystal Disaster, Ori learned that magical animals grow gemlike magic stones and developed the double-core processing method behind his mass-produced wand, Hendensho. After ending his uneasy food exchange with an unnamed starving schoolgirl by giving her a self-sufficiency kit, dwindling supplies forced him to leave depleted Okutama for a looting run.
+
+### Volume 1, Chapter 3 — The Blue Witch
+After Ori met the territorial Blue Witch in Ome, Hiyori explained the post-Gremlin-collapse world and softened after he repaired her late sister's Ai-chan music box. They arranged for her to sell his anonymous wands in exchange for a custom wand; with her supply and tool deliveries, Ori completed the seven-layer Cyanos.

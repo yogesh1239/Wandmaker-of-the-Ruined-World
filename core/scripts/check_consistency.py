@@ -54,6 +54,16 @@ def honorific_split(en):
     return None
 
 
+def regular_plural_forms(term):
+    if not re.fullmatch(r"[A-Z][a-z]+", term):
+        return set()
+    if term.endswith(("s", "x", "z", "ch", "sh")):
+        return {term + "es"}
+    if term.endswith("y") and term[-2].lower() not in "aeiou":
+        return {term[:-1] + "ies"}
+    return {term + "s"}
+
+
 def check_file(path, entries, violations):
     with io.open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
@@ -68,8 +78,15 @@ def check_file(path, entries, violations):
         for e in entries:
             for alias in e["aliases"]:
                 pattern = r"\b%s\b" % re.escape(alias)
-                m = re.search(pattern, line, re.IGNORECASE)
-                if m:
+                canonical_spans = [
+                    m.span()
+                    for m in re.finditer(
+                        r"\b%s\b" % re.escape(e["en"]), line, re.IGNORECASE
+                    )
+                ]
+                for m in re.finditer(pattern, line, re.IGNORECASE):
+                    if any(start <= m.start() and m.end() <= end for start, end in canonical_spans):
+                        continue
                     violations.append(
                         "%s:%d: banned alias %r used (glossary requires %r)"
                         % (path, lineno, m.group(0), e["en"])
@@ -83,6 +100,8 @@ def check_file(path, entries, violations):
             for e in entries:
                 name = e["en"]
                 if token == name:
+                    continue
+                if token in regular_plural_forms(name):
                     continue
                 ratio = difflib.SequenceMatcher(None, token, name).ratio()
                 if ratio >= DRIFT_RATIO:

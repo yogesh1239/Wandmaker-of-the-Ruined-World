@@ -9,6 +9,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 |-|-|-|-|
 | 1 | そして文明は滅んだ | And Then Civilization Fell | updated |
 | 2 | サバイバル、魔法を添えて | Survival, with a Side of Magic | updated |
+| 3 | 青の魔女 | The Blue Witch | updated |
 
 ## Known issues / decisions
 - None.

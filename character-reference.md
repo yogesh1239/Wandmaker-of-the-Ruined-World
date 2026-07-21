@@ -160,7 +160,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - **First-person pronoun:** 私 — standard self-reference.
 - **Formality level:** Casual and direct.
 - **Speech style:** Involuntarily loud and highly exclamatory, but often friendly, apologetic, and candid.
-- **Address forms:** Calls Hiyori “Blue Witch” (using the source title variant `青梅の魔女`); calls Ori “apprentice-kun” while accepting his cover story.
+- **Address forms:** Calls Hiyori “Witch of Ome” (source `青梅の魔女`); calls Ori “apprentice-kun” while accepting his cover story.
 
 **Example Quotes:**
 - “Don’t be so scared! I’m the Hell Witch! I’m not going to eat you!” (*Vol. 2, Ch. 8, 地獄の魔女*)

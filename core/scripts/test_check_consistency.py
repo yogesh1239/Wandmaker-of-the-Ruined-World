@@ -8,6 +8,9 @@ GLOSSARY = textwrap.dedent("""\
     | 西部戦線 | Western Front | Western Theatre, West Front | place |
     | 田中 | Tanaka-san | | male, teacher |
     | 大鳥 | Ootori | Otori, Ōtori | female |
+    | グレムリン | Gremlin | | term |
+    | 超越者 | Transcendent | | term |
+    | アイちゃん | Ai-chan | Ai | character |
 """)
 
 def run(chapter_text, extra_args=()):
@@ -30,6 +33,18 @@ def test_banned_alias_fails():
 def test_name_drift_fails():
     rc, out = run("Ootorri turned away.")  # close-but-wrong spelling
     assert rc == 1 and "Ootorri" in out
+
+def test_regular_plurals_pass():
+    rc, out = run("Gremlins fought while Transcendents watched.")
+    assert rc == 0, out
+
+def test_alias_inside_its_canonical_term_passes():
+    rc, out = run("The Ai-chan Model sat on the shelf.")
+    assert rc == 0, out
+
+def test_standalone_alias_still_fails():
+    rc, out = run("Ai sat on the shelf.")
+    assert rc == 1 and "banned alias 'Ai'" in out
 
 def test_honorific_mismatch_fails():
     rc, out = run("Tanaka-kun raised a hand.")

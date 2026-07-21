@@ -7,7 +7,7 @@
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
 | 青の魔女 | Blue Witch | Blue Mage, Witch of Blue | Female / Aoyama Hiyori's title |
-| 青梅の魔女 | Blue Witch | Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's title |
+| 青梅の魔女 | Witch of Ome | Blue Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's territorial title |
 | 大日向慧 | Ohinata Kei | Kei Ohinata, Oohinata Kei, Kei Oohinata | Female |
 | 大日向 | Ohinata | Oohinata | Female / surname |
 | 未来視の魔法使い | Foresight Mage | Future-Seer Mage, Seer Mage | Male |
@@ -54,11 +54,13 @@
 | 魔法使い | mage | magician | male Transcendent |
 | 魔術師 | wizard | magician | ordinary person trained in magic |
 | 魔物 | monster | magical creature | magically mutated creature |
+| 怪獣 | kaiju | giant monster | large destructive monster |
 | 魔獣 | magic beast | magical beast | a monster made tame or domestic |
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
 | 魔法語 | magic language | magical language | language of spells |
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
+| 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
 | 豊穣魔法 | fertility magic | abundance magic | magic that increases crop yield |
@@ -92,11 +94,17 @@
 | 電気水晶 | electric crystal | electrical crystal | electricity-eating Gremlin crystal |
 | 固有振動数 | natural frequency | resonant frequency | object-specific resonance frequency |
 | 魔法生物 | magical life-form | magical creature | speculative category for magic-using organisms |
+| 静電気体質 | static-prone constitution | static-electricity constitution, static constitution | physiology associated with becoming a witch or mage |
 | 自活セット | self-sufficiency kit | self-reliance kit, survival kit | package Ori prepared to help the girl live independently |
 | 奥多摩変電所 | Okutama Substation | Okutama Transformer Station | electrical substation where Ori collected crystals |
 | 赤宝石ウサギ | red-gem rabbit | red-jewel rabbit | rabbit with a red magic stone embedded in its body |
 | 兎宝石 | rabbit gemstone | rabbit jewel, rabbit stone | polished red magic stone taken from a red-gem rabbit |
 | 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
+| オーパーツ | out-of-place artifact | OOPArt, OOPArts | object seemingly beyond its era's technology |
+| オーバーテクノロジー | overtechnology | over-technology, advanced technology | technology beyond the surrounding era's capabilities |
+| 魔法少女ロジカル☆アインシュタイン | Magical Girl Logical☆Einstein | Logical Einstein | fictional magical-girl anime |
+| アイちゃん | Ai-chan | Ai | character featured on a limited-edition music box |
+| ヒューマニティ・ダイヤモンド | Humanity Diamond | Humanity Gem | decorative gem on Ai-chan's costume |
 | 青魔杖キュアノス | Blue Wand Cyanos | Blue Magic Wand Cyanos | Aoyama Hiyori's seven-layer magic-stone wand |
 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | Dragon Furnace Carved Seven Layer Blue Wand Cyanos | full formal name of Cyanos / title-map term |
 | キュアノス | Cyanos | Kyanos | shortened wand name |
