@@ -88,6 +88,15 @@
 | シャンタク座流星群 | Shantak Meteor Shower | Shantakid Meteor Shower | meteor shower that brought magic stones |
 | オクタメテオライト | Okutameteorite | Okutama Meteorite | Ori's black meteorite magic stone |
 | ヘンデンショー | Hendensho | Henden-shou, Hendenshou | Ori's mass-produced double-core wand |
+| 水晶災害 | Crystal Disaster | Crystal Catastrophe | collapse event caused by electricity-eating crystals |
+| 電気水晶 | electric crystal | electrical crystal | electricity-eating Gremlin crystal |
+| 固有振動数 | natural frequency | resonant frequency | object-specific resonance frequency |
+| 魔法生物 | magical life-form | magical creature | speculative category for magic-using organisms |
+| 自活セット | self-sufficiency kit | self-reliance kit, survival kit | package Ori prepared to help the girl live independently |
+| 奥多摩変電所 | Okutama Substation | Okutama Transformer Station | electrical substation where Ori collected crystals |
+| 赤宝石ウサギ | red-gem rabbit | red-jewel rabbit | rabbit with a red magic stone embedded in its body |
+| 兎宝石 | rabbit gemstone | rabbit jewel, rabbit stone | polished red magic stone taken from a red-gem rabbit |
+| 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
 | 青魔杖キュアノス | Blue Wand Cyanos | Blue Magic Wand Cyanos | Aoyama Hiyori's seven-layer magic-stone wand |
 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | Dragon Furnace Carved Seven Layer Blue Wand Cyanos | full formal name of Cyanos / title-map term |
 | キュアノス | Cyanos | Kyanos | shortened wand name |
