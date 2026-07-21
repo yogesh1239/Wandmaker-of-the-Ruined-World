@@ -23,3 +23,6 @@ Over a year of survival after the Crystal Disaster, Ori learned that magical ani
 
 ### Volume 1, Chapter 3 — The Blue Witch
 After Ori met the territorial Blue Witch in Ome, Hiyori explained the post-Gremlin-collapse world and softened after he repaired her late sister's Ai-chan music box. They arranged for her to sell his anonymous wands in exchange for a custom wand; with her supply and tool deliveries, Ori completed the seven-layer Cyanos.
+
+### Volume 1, Chapter 4 — Overtechnology
+Hiyori tested Cyanos's amplification while patrolling Ome, but the Eyeball Witch called her to the emergency after the Bloodsucking Mage died evacuating civilians from a giant kaiju's landing. Refusing to leave Ome, Hiyori unleashed her strongest freezing magic from afar; Cyanos amplified it enough to freeze the kaiju and surrounding city beneath ice, then left her unconscious.

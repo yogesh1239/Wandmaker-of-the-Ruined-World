@@ -6,6 +6,7 @@
 | 大利 | Ori | Oori | Male / surname |
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
+| 青ちゃん | Ao-chan | Blue-chan | Eyeball Witch's nickname for Aoyama Hiyori |
 | 青の魔女 | Blue Witch | Blue Mage, Witch of Blue | Female / Aoyama Hiyori's title |
 | 青梅の魔女 | Witch of Ome | Blue Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's territorial title |
 | 大日向慧 | Ohinata Kei | Kei Ohinata, Oohinata Kei, Kei Oohinata | Female |
@@ -13,6 +14,7 @@
 | 未来視の魔法使い | Foresight Mage | Future-Seer Mage, Seer Mage | Male |
 | 目玉の魔女 | Eyeball Witch | Eye Witch, Witch of Eyes | Female |
 | 吸血の魔法使い | Bloodsucking Mage | Vampire Mage | Male |
+| 吸血 | Bloodsucking | Vampire | short title for the Bloodsucking Mage |
 | 竜の魔女 | Dragon Witch | Witch of Dragons | Female |
 | 地獄の魔女 | Hell Witch | Inferno Witch | Female |
 | 花の魔女 | Flower Witch | Floral Witch | Female |
@@ -20,6 +22,7 @@
 | 継火の魔女 | Flame Witch | Rekindling Witch, Fire Witch | Female |
 | 火継の魔女 | Flame Heir Witch | Flamekeeper Witch, Fire-Keeping Witch | Female / human successor to the Flame Witch |
 | 八王子の魔女 | Hachioji Witch | Witch of Hachioji, Hachiouji Witch, Witch of Hachiouji | Female |
+| 世田谷の魔女 | Setagaya Witch | Witch of Setagaya | Female |
 | 人魚の魔女 | Mermaid Witch | Mermaid Mage | Female |
 | さざれ石の魔女 | Pebble Witch | Gravel Witch | Female |
 | 花の魔法使い | Flower Mage | Floral Mage | Male / Transcendent title |
@@ -37,6 +40,7 @@
 | 村雲雁弥 | Murakumo Kariya | Kariya Murakumo | Male |
 | 博田伝次郎 | Hakata Denjiro | Denjiro Hakata, Hakata Denjirou, Denjirou Hakata | Male |
 | 財前金太郎 | Zaizen Kintaro | Kintaro Zaizen, Zaizen Kintarou, Kintarou Zaizen | Male |
+| 中村 | Nakamura |  | Aoyama family's neighbor |
 | 鵜田川聖愛 | Utagawa Maria | Maria Utagawa | Female / Shirokarasu's real name |
 | 白鴉 | Shirokarasu | Shirogarasu, White Crow | Female / leader of Watarigarasu |
 | モエカ | Moeka |  | Unknown / Watarigarasu enforcer |
@@ -54,13 +58,15 @@
 | 魔法使い | mage | magician | male Transcendent |
 | 魔術師 | wizard | magician | ordinary person trained in magic |
 | 魔物 | monster | magical creature | magically mutated creature |
-| 怪獣 | kaiju | giant monster | large destructive monster |
+| 怪獣 | kaiju |  | large destructive monster |
 | 魔獣 | magic beast | magical beast | a monster made tame or domestic |
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
 | 魔法語 | magic language | magical language | language of spells |
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
+| 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
+| 君よ、氷河に沈め。永久凍土に眠れ | You, sink beneath the glacier. Sleep in the permafrost! |  | Blue Witch's strongest freezing incantation |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
 | 豊穣魔法 | fertility magic | abundance magic | magic that increases crop yield |
@@ -102,6 +108,7 @@
 | 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
 | オーパーツ | out-of-place artifact | OOPArt, OOPArts | object seemingly beyond its era's technology |
 | オーバーテクノロジー | overtechnology | over-technology, advanced technology | technology beyond the surrounding era's capabilities |
+| 封印鎖 | sealing chains | seal chains | Hachioji Witch's binding magic |
 | 魔法少女ロジカル☆アインシュタイン | Magical Girl Logical☆Einstein | Logical Einstein | fictional magical-girl anime |
 | アイちゃん | Ai-chan | Ai | character featured on a limited-edition music box |
 | ヒューマニティ・ダイヤモンド | Humanity Diamond | Humanity Gem | decorative gem on Ai-chan's costume |
@@ -127,7 +134,8 @@
 | アルラウネの秘蜜 | alraune secret nectar | alraune nectar | life-extending secretion of the Flower Witch |
 | キノコ病 | mushroom disease | mushroom plague | parasitic magical-fungus epidemic |
 | 魔法的死 | magical death | irreversible death | death through complete loss of magic power |
-| 大怪獣 | giant kaiju | giant monster | massive monster that attacked Tokyo |
+| 大怪獣 | giant kaiju |  | massive monster that attacked Tokyo |
+| 巨大怪獣 | giant kaiju |  | alternate source form for the massive monster that attacked Tokyo |
 | ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Tohoku Association |
 | 銃杖 | gun-wand | gun wand | firearm integrated with a magic wand |
 | 銃杖巨神殺し | gun-wand Giant Slayer |  | anti-Daidarabocchi gun-wand series |
