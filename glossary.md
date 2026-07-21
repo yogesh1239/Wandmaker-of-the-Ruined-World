@@ -29,6 +29,7 @@
 | ゾンビの魔女 | Zombie Witch | Witch of Zombies | Female |
 | 江戸川の魔女 | Edogawa Witch | Witch of Edogawa | Female |
 | 入間の魔法使い | Iruma Mage | Mage of Iruma | Male |
+| 北の魔女 | Northern Witch | Witch of the North | Female / Transcendent title |
 | 大狼[オキヤク] | Okyaku | Ookami, Great Wolf | Male / Tohoku Hunting Association mage |
 | 大熊[イタズ] | Itazu | Ookuma, Great Bear | Male / head of the Tohoku Hunting Association |
 | 氈鹿[アオケラ] | Aokera | Kamoshika, Serow | Male / Tohoku Hunting Association mage |
@@ -65,6 +66,8 @@
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
 | 魔法語 | magic language | magical language | language of spells |
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
+| 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
+| ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
 | 大氷河魔法 | Great Glacier magic | great-glacier magic | Blue Witch's maximum-power wide-area freezing magic |
@@ -103,6 +106,9 @@
 | 固有振動数 | natural frequency | resonant frequency | object-specific resonance frequency |
 | 魔法生物 | magical life-form | magical creature | speculative category for magic-using organisms |
 | 静電気体質 | static-prone constitution | static-electricity constitution, static constitution | physiology associated with becoming a witch or mage |
+| 生体電流 | bioelectric current | biological current | minute electrical current in a living body |
+| 生体電気 | bioelectricity | biological electricity | bodily electricity correlated with magic power |
+| 帯電体質 | electrically charged constitution | charged constitution | physiology generating exceptional magic power |
 | 自活セット | self-sufficiency kit | self-reliance kit, survival kit | package Ori prepared to help the girl live independently |
 | 奥多摩変電所 | Okutama Substation | Okutama Transformer Station | electrical substation where Ori collected crystals |
 | 赤宝石ウサギ | red-gem rabbit | red-jewel rabbit | rabbit with a red magic stone embedded in its body |
@@ -143,6 +149,7 @@
 | 魔法的死 | magical death | irreversible death | death through complete loss of magic power |
 | 大怪獣 | giant kaiju |  | massive monster that attacked Tokyo |
 | 巨大怪獣 | giant kaiju |  | alternate source form for the massive monster that attacked Tokyo |
+| 大怪獣氷漬け事件 | giant kaiju freezing incident | giant-kaiju freezing incident | project-original event descriptor |
 | ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Tohoku Association |
 | 銃杖 | gun-wand | gun wand | firearm integrated with a magic wand |
 | 銃杖巨神殺し | gun-wand Giant Slayer |  | anti-Daidarabocchi gun-wand series |

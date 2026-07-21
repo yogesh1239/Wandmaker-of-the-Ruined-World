@@ -12,6 +12,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 3 | 青の魔女 | The Blue Witch | updated |
 | 4 | オーバーテクノロジー | Overtechnology | updated |
 | 5 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | updated |
+| 6 | 魔女がいる暮らし | Life with a Witch | updated |
 
 ## Known issues / decisions
 - None.

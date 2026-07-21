@@ -26,7 +26,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
 **Japanese Name:** 青山ヒヨリ／青の魔女  
 **Gender:** Female  
-**Role:** Tokyo Witches' Council powerhouse; Ori’s protector, courier, and friend.
+**Role:** Tokyo Witches' Council powerhouse who senses magic power; Ori’s protector, courier, and friend.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — direct, neutral feminine self-reference.
@@ -39,7 +39,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Powerful, vigilant, and easily embarrassed by sincere intimacy; fond of small animals.
-- **Arc state:** Her friendship with Ori is explicit, but she remains wary of the fire salamanders born from her connection to the Flame Witch.
+- **Arc state:** Her friendship with Ori is explicit; she remains wary of fire salamanders tied to the Flame Witch.
 
 ### Ohinata Kei (大日向慧)
 **Japanese Name:** 大日向慧  

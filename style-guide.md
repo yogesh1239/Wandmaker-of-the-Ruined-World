@@ -29,3 +29,6 @@ Hiyori tested Cyanos's amplification while patrolling Ome, but the Eyeball Witch
 
 ### Volume 1, Chapter 5 — Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos
 After Hiyori's Great Glacier magic froze the giant kaiju and part of Tokyo, Cyanos's wooden handle frost-cracked from the extreme cold despite causing only magic backlash. Ori remade it as Cyanos Ver. 2 with oven-dry wood, left Hiyori to vet wand customers, and planned regular field-informed maintenance and feedback.
+
+### Volume 1, Chapter 6 — Life with a Witch
+Three months after the giant kaiju freezing incident, Ori farmed and fished with magic while the leading account held that Gremlins reacting to bioelectric current give people magic power; bioelectricity correlates with it, while an electrically charged constitution brings exceptional power, Transcendent mutation, and destructive internal Gremlin crystallization. Hiyori killed the turtle monster occupying Ori's wild wasabi patch with one kick, then taught him the basic freezing spell `Freeze` / `Vaa-ra` and the model by which magic language assigns meaning to magical pronunciations. She promised him incantation-research materials after the next Tokyo Witches' Council meeting, in five days.
