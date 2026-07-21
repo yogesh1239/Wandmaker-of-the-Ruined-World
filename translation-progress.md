@@ -13,6 +13,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 4 | オーバーテクノロジー | Overtechnology | updated |
 | 5 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | updated |
 | 6 | 魔女がいる暮らし | Life with a Witch | updated |
+| 7 | 東京魔女集会 | Tokyo Witches' Council | updated |
 
 ## Known issues / decisions
 - None.

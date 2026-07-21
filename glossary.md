@@ -150,6 +150,9 @@
 | 大怪獣 | giant kaiju |  | massive monster that attacked Tokyo |
 | 巨大怪獣 | giant kaiju |  | alternate source form for the massive monster that attacked Tokyo |
 | 大怪獣氷漬け事件 | giant kaiju freezing incident | giant-kaiju freezing incident | project-original event descriptor |
+| 大怪獣侵攻事件 | giant kaiju invasion incident | giant-kaiju invasion incident | project-original event descriptor |
+| 未曾有の大飢饉 | unprecedented great famine | unprecedented famine, historic great famine | projected nationwide food crisis |
+| 農林水産改革 | agriculture, forestry, and fisheries reforms | food-sector reform program | food-production recovery program |
 | ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Tohoku Association |
 | 銃杖 | gun-wand | gun wand | firearm integrated with a magic wand |
 | 銃杖巨神殺し | gun-wand Giant Slayer |  | anti-Daidarabocchi gun-wand series |
@@ -158,6 +161,11 @@
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
 | 羽村 | Hamura |  | city frozen during the giant-kaiju battle |
+| 新宿 | Shinjuku |  | Tokyo district where the Council meets |
+| あきる野市 | Akiruno | Akiruno City | western Tokyo city |
+| 葛飾区 | Katsushika Ward | Katsushika, Katsushika-ku | eastern Tokyo ward |
+| 埼玉 | Saitama |  | neighboring prefecture |
+| 千葉 | Chiba |  | neighboring prefecture |
 | 文京区 | Bunkyo Ward | Bunkyou Ward | ward governed by Foresight Mage |
 | 港区 | Minato Ward | Minato-ku | former domain of Bloodsucking Mage |
 | 品川区 | Shinagawa Ward | Shinagawa-ku | ward governed by Flame Witch |

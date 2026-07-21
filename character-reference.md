@@ -586,7 +586,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 ## ORGANIZATIONS
 
-- **Tokyo Witches' Council (東京魔女集会):** Political and emergency-response council for Tokyo’s Transcendent population; the Eyeball Witch coordinated meetings and outside cooperation. (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
+- **Tokyo Witches' Council (東京魔女集会):** Eyeball Witch-founded council coordinating territory, aid, and supplies; after the Bloodsucking Mage's death, 19 remain, only six attend. (*Vol. 1, Ch. 7, 東京魔女集会*)
 - **Tokyo Magic University (東京魔法大学):** Tokyo’s magical research and education institution, led by Ohinata Kei; it collaborated on magic language, ritual magic, and reconstruction research. (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
 - **Tohoku Hunting Association (東北狩猟組合):** Sendai-based survivor community centered on a blood-related hunter family plus Iwatsura; it shared survival techniques and fielded four mages and one witch against Daidarabocchi. (*Vol. 3, Chs. 2 and 15, 東北狩猟組合の秘伝; 英雄の証*)
 - **Hokkaido Magic Beast Farm (北海道魔獣農場):** Hokkaido survivor community that developed breeding and taming practices for magic beasts. (*Vol. 3, Ch. 8, 北海道魔獣農場の秘伝*)
