@@ -11,6 +11,7 @@
 | 青梅の魔女 | Witch of Ome | Blue Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's territorial title |
 | 大日向慧 | Ohinata Kei | Kei Ohinata, Oohinata Kei, Kei Oohinata | Female |
 | 大日向 | Ohinata | Oohinata | Female / surname |
+| 大日向聡一 | Ohinata Soichi | Soichi Ohinata, Oohinata Souichi | Male / Kei's father |
 | 未来視の魔法使い | Foresight Mage | Future-Seer Mage, Seer Mage | Male |
 | 目玉の魔女 | Eyeball Witch | Eye Witch, Witch of Eyes | Female |
 | 吸血の魔法使い | Bloodsucking Mage | Vampire Mage | Male |
@@ -63,9 +64,18 @@
 | 怪獣 | kaiju |  | large destructive monster |
 | 魔獣 | magic beast | magical beast | a monster made tame or domestic |
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
+| 獣人 | beastkin | beast person, therianthrope | human retaining animal traits after transformation |
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
 | 魔法語 | magic language | magical language | language of spells |
+| 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
+| 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
+| 発音不可音 | unpronounceable sound | impossible sound, unpronounceable phoneme | magic-language sound a human throat cannot produce |
+| 吉田予想 | Yoshida Conjecture | Yoshida Prediction | hypothesis that twelve unpronounceable sounds exist |
+| 基幹単語 | core word | root word, foundational word | fixed basic spell term within a magic school |
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
+| 改造呪文 | modified spell | altered spell | experimentally restructured incantation |
+| 改造詠唱 | modified incantation | altered incantation | experimentally restructured incantation |
+| デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
 | ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
@@ -74,7 +84,9 @@
 | 君よ、氷河に沈め。永久凍土に眠れ | You, sink beneath the glacier. Sleep in the permafrost! |  | Blue Witch's strongest freezing incantation |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
+| 豊穣魔法迂回詠唱 | fertility-magic bypass incantation | fertility magic detour incantation | human-pronounceable fertility spell |
 | 豊穣魔法 | fertility magic | abundance magic | magic that increases crop yield |
+| 幽界捕食者 | spirit-world predator | Otherworld Eater, otherworld predator | unknown referent in the Flower Witch's fertility-magic incantation |
 | 儀式魔法 | ritual magic | chorus magic | cooperative high-output magic |
 | 儀式魔法十三祭具 | Thirteen Ritual Implements | Thirteen Ritual Magic Implements | ritual-magic wand set |
 | 吹奏儀式魔法七祭具 | Seven Wind-Instrument Ritual Implements | Seven Wind Ritual Implements | wind-instrument ritual-magic set |
@@ -85,6 +97,7 @@
 | 魔力逆流防止機構 | backlash-prevention mechanism | magic-backflow prevention mechanism | wand mechanism reducing magic backlash |
 | 融解再凝固グレムリン | melt-recast Gremlin | remelted Gremlin | inert Gremlin material used for magic resistance |
 | 正十二面体フラクタル | dodecahedral fractal | twelve-sided fractal | safety-lock Gremlin structure |
+| 発動待機状態 | activation-standby state | activation waiting state, armed state | first-incantation state before spell activation |
 | メビウスの輪 | Moebius ring | Mobius ring | stable loop-shaped Gremlin structure |
 | 双子グレムリン | twin Gremlins | paired Gremlins | identically cut Gremlins from one parent crystal |
 | グレムリン工学 | Gremlin engineering | Gremlin studies | field covering Gremlin processing and applications |
@@ -97,6 +110,7 @@
 | 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis wand for Flame Witch |
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
+| エーテル溶媒 | ether solvent | aether solvent | experimental Gremlin-processing liquid |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |
 | シャンタク座流星群 | Shantak Meteor Shower | Shantakid Meteor Shower | meteor shower that brought magic stones |
 | オクタメテオライト | Okutameteorite | Okutama Meteorite | Ori's black meteorite magic stone |
@@ -111,6 +125,7 @@
 | 帯電体質 | electrically charged constitution | charged constitution | physiology generating exceptional magic power |
 | 自活セット | self-sufficiency kit | self-reliance kit, survival kit | package Ori prepared to help the girl live independently |
 | 奥多摩変電所 | Okutama Substation | Okutama Transformer Station | electrical substation where Ori collected crystals |
+| 横浜火力発電所 | Yokohama Thermal Power Plant | Yokohama Power Plant | source of Ori's 28 mm Gremlin |
 | 赤宝石ウサギ | red-gem rabbit | red-jewel rabbit | rabbit with a red magic stone embedded in its body |
 | 兎宝石 | rabbit gemstone | rabbit jewel, rabbit stone | polished red magic stone taken from a red-gem rabbit |
 | 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
@@ -130,6 +145,7 @@
 | キュアノスＶｅｒ・２ | Cyanos Ver. 2 | Cyanos Version 2 | frost-resistant rebuilt Cyanos |
 | 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Ohinata Kei's safety-lock wand |
 | アレイスター | Aleister | Alastair | shortened wand name |
+| アレイスター・クロウリー | Aleister Crowley |  | twentieth-century occultist referenced in naming Aleister |
 | メビウス連環錫杖ハリティ | Moebius-linked khakkhara Hariti |  | Hell Witch's seven-loop magic-stone staff |
 | ハリティ | Hariti |  | shortened staff name |
 | ブラッドムーン | Blood Moon | Bloodmoon | blood magic stone once held by Bloodsucking Mage |
@@ -166,6 +182,7 @@
 | 葛飾区 | Katsushika Ward | Katsushika, Katsushika-ku | eastern Tokyo ward |
 | 埼玉 | Saitama |  | neighboring prefecture |
 | 千葉 | Chiba |  | neighboring prefecture |
+| 愛知 | Aichi |  | Ori's home prefecture |
 | 文京区 | Bunkyo Ward | Bunkyou Ward | ward governed by Foresight Mage |
 | 港区 | Minato Ward | Minato-ku | former domain of Bloodsucking Mage |
 | 品川区 | Shinagawa Ward | Shinagawa-ku | ward governed by Flame Witch |
@@ -173,3 +190,5 @@
 | 杉並区 | Suginami Ward | Suginami-ku | ward governed by Pebble Witch |
 | 台東区 | Taito Ward | Taitou Ward | Flower Witch's domain |
 | 荒川区 | Arakawa Ward | Arakawa-ku | Flower Witch's domain |
+| ケモナー | furry | animal-person fan | person attracted to anthropomorphic animal traits |
+| ヒトナー | human-lover | human fan | Ori's joking inverse of `furry` |

@@ -56,7 +56,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “I’m Ohinata Kei. It’s a pleasure to meet you, Mokutan-san.” (*Vol. 3, Ch. 12, 新時代の新通貨*)
 
 #### Personality
-- Sociable, enthusiastic, and academically serious; her warmth puts strangers at ease.
+- Sociable, enthusiastic, and academically serious; her warmth puts strangers at ease, and she inherited her late father's magic-linguistics research.
 - **Arc state:** She is working closely with Ori and Hiyori while advancing magical-language research and public reconstruction projects.
 
 ## SUPPORTING CHARACTERS
