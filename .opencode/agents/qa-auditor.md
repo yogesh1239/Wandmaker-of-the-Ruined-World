@@ -25,7 +25,7 @@ One report file, written to the path the dispatch names, in the format of `core/
 </grounding_rules>
 
 <workflow>
-1. Read `novel.config.md` (the locked register and `qa_major_threshold`), `glossary.md`, `character-reference.md`, and `character-voices.md` — the standards you audit against.
+1. Read `novel.config.md` for the locked register and `qa_major_threshold`. Derive lookup keys from the sampled JP/EN lines and `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and relevant filed chapters. Read the complete row/profile/summary around each hit; always inspect the narrator ceiling, kill-list, and applicable style conventions. Search variants before reporting a term as unlocked, and do not read `reference-archive.md`.
 2. Read `core/guides/qa-audit-guide.md` and draw your sample by its rules.
 3. For every sampled line, read the JP source and the English rendering side by side and run the guide's per-line checks and JP→EN failure classes.
 4. Log every finding as one row with its MQM category and severity, per `core/schemas/qa-report-schema.md`.

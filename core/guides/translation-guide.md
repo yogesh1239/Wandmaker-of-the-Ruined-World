@@ -202,6 +202,7 @@ source's plain statement.
   full true title is written once as an in-file `#` heading so nothing is lost.
 - Footnotes use `[^N]` inline + a `## Translator Notes` section at the end —
   see `footnote-guide.md`.
-- Romanization uses the **no-macron** convention (vowel-doubling: *Tarou*,
-  *Yuusuke*, *senpai*), enforced by `normalize_romaji.py`. Never emit macrons
-  (ō, ū) in prose.
+- Romanization follows the project lock in `novel.config.md` and the exact
+  renderings in `glossary.md`. Never emit macrons (ō, ū) in prose. A project
+  may double long vowels or leave them unmarked; do not normalize away from
+  its configured convention.

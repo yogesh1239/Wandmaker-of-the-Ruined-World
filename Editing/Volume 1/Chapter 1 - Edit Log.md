@@ -39,7 +39,7 @@
 - [polish] **source line 52 (本格リアル派)**: "Products advertised as 'serious realistic style'" → "Products I billed as 'seriously realistic'" — polish
 - [polish] **source line 58**: "Listing anime goods at auction was the best job: it combined hobby and profit" → "Auctioning anime goods was the perfect job. It let me profit from my hobby" — polish
 - [polish] **source line 67**: "There were shameless bastards who immediately bought" → "Shameless bastards would immediately buy" — polish
-- [polish] **source line 67**: "It was irritating that I couldn't come down hard on them." → "It pissed me off that I couldn't come down hard on them." — polish (matched Oori's blunt frustration)
+- [polish] **source line 67**: "It was irritating that I couldn't come down hard on them." → "It pissed me off that I couldn't come down hard on them." — polish (matched Ori's blunt frustration)
 - [polish] **source line 70**: "a socially maladjusted person by my own admission and everyone else's" → "a certified social misfit, by my own admission and everyone else's" — polish
 - [polish] **source line 70**: "the effort and interaction of dealing with the official company" → "the effort and social interaction involved in dealing with the official rights holders" — polish
 - [polish] **source line 76**: "Even so, despite those problems, I was living a mostly fulfilling life deep in the mountains when one day, I picked up a meteorite in the backyard." → "Even with those problems, I was living a mostly fulfilling life deep in the mountains when I found a meteorite in my backyard one day." — polish
@@ -89,7 +89,7 @@
 - [polish] **source line 247**: "make fantasy hobby weapons full of fantasy and romance ... decorate them, and wait nice and slow for things to be restored" → "take my time making and decorating hobby weapons packed with fantasy and romance ... while I waited for the utilities to come back" — polish
 
 ### Register and Flow
-**Oori Kenshi:** Kept the first-person narration casual, blunt, craft-focused, and in past tense. Smoothed translationese without raising the register or changing the source's technical detail, self-deprecation, or denial-driven comedy.
+**Ori Kenshi:** Kept the first-person narration casual, blunt, craft-focused, and in past tense. Smoothed translationese without raising the register or changing the source's technical detail, self-deprecation, or denial-driven comedy.
 
 ### Formatting Confirmed
 - Source lines 1–250 were checked in two sequential chunks (1–154 and 157–250); title heading omitted as required.
@@ -178,7 +178,7 @@
 - [polish] **source line 571**: "While I was shut in and taking it easy" → "While I'd been shut away without a care in the world" — polish
 
 ### Register and Flow
-**Oori Kenshi:** Preserved his blunt first-person voice, technical hobbyist explanations, escalating excitement, social avoidance, and abrupt shift into horror. Kept narration in past tense and the final catastrophe sequence short and plain.
+**Ori Kenshi:** Preserved his blunt first-person voice, technical hobbyist explanations, escalating excitement, social avoidance, and abrupt shift into horror. Kept narration in past tense and the final catastrophe sequence short and plain.
 
 ### Formatting Confirmed
 - Source lines 253–571 were checked in two sequential chunks (253–424 and 427–571).

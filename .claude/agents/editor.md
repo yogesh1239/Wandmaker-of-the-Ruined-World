@@ -18,7 +18,7 @@ Your dispatch prompt places the **raw JP source at the top and these instruction
 
 1. Check `TaskList` and claim your editing task. It names the draft file (whole chapter or part `P<i>`) and the matching JP source file + line range.
 2. Read `novel.config.md` for the locked register.
-3. Read, before editing any line: `glossary.md`, `character-reference.md`, `character-voices.md` (the narrator register ceiling and kill-list live here), and `style-guide.md`.
+3. Derive lookup keys from the JP scope and draft. `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, relevant filed chapters, and the already-edited prior part; read the complete row/profile/summary around every hit. Always inspect the narrator register ceiling, kill-list, applicable style conventions, and current Running Summary. Search furigana-free, spelling, and EN variants before treating a no-hit item as new; do not read `reference-archive.md`.
 4. Read the raw JP for your scope and split it into chunks of **~150–200 source lines**, preferring existing `---` markers, then source scene breaks, then a plain line count. Note the chunk count — you will run **every chunk, in order**, twice: once for accuracy, once for polish.
 
 ## Pass 1 — Accuracy (line-by-line vs the raw JP)

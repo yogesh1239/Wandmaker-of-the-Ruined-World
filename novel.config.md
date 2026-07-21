@@ -23,7 +23,7 @@ The per-novel knobs the harness reads. The `/build-epub` skill derives the JSON 
 - Edit logs / reconciliation / image specs: `Editing/Volume N/`
 
 ## Conventions
-- **Romanization:** no macrons; use vowel-doubling (`ou`, `uu`, `aa`, `ii`, `ee`). Enforced by `core/scripts/normalize_romaji.py --check`.
+- **Romanization:** no macrons and no long-vowel doubling in romanized Japanese names or terms; leave long vowels unmarked (`Ohinata`, `Ori`, `Tohoku`, `Kintaro`). Enforced by the glossary and `core/scripts/normalize_romaji.py --check`.
 - **Reading direction:** source is RTL → build EPUB as **LTR** (`page-progression-direction="ltr"`).
 - **Furigana:** preserved from source as `漢字[かな]`.
 - **Part-split threshold:** 400 source lines — chapters longer than this split into parts; shorter ones translate/edit whole.
@@ -71,15 +71,15 @@ Single source of truth for output filenames and EPUB `<h1>`/TOC/contents-image t
 | 2 | 16 | 世界を広げて | Expanding the World |
 | 2 | 17 | 番外編　この主人公はワシが育てた | Side Story - I Raised This Protagonist |
 | 2 | 18 | 崩壊世界の魔法杖職人 ２ 特装版小冊子　極秘資料 | Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files |
-| 2 | 19 | 電子書籍特典　書き下ろし短編『大利の絵』 | Ebook Bonus Original Short Story - Oori's Picture |
+| 2 | 19 | 電子書籍特典　書き下ろし短編『大利の絵』 | Ebook Bonus Original Short Story - Ori's Picture |
 | 3 | 1 | 魔法系統カスタマイズ | Magic-School Customization |
-| 3 | 2 | 東北狩猟組合の秘伝 | Secret Techniques of the Touhoku Hunting Association |
+| 3 | 2 | 東北狩猟組合の秘伝 | Secret Techniques of the Tohoku Hunting Association |
 | 3 | 3 | 継火の魔女 | The Flame Witch |
 | 3 | 4 | 火守乃杖 | Himori Wand |
 | 3 | 5 | 闇商人、０９３３を語る | A Black Marketeer Talks About 0933 |
 | 3 | 6 | 魔物素材を活用しよう | Let's Put Monster Materials to Use |
 | 3 | 7 | 火蜥蜴 | Fire Salamander |
-| 3 | 8 | 北海道魔獣農場の秘伝 | Secret Techniques of the Hokkaidou Magic Beast Farm |
+| 3 | 8 | 北海道魔獣農場の秘伝 | Secret Techniques of the Hokkaido Magic Beast Farm |
 | 3 | 9 | 火蜥蜴といっしょ | Together with the Fire Salamanders |
 | 3 | 10 | 魔獣たち | The Magic Beasts |
 | 3 | 11 | 無名叙事詩仮説 | The Nameless Epic Hypothesis |

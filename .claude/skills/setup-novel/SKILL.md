@@ -29,6 +29,8 @@ Output: `Source/Volume 1/<JP chapter>.md` (furigana preserved as `漢字[かな]
 
 Scan the split Volume 1 source and create/seed these four files, each to its schema in `core/schemas/`. Write the data only into these files — never duplicate it into a guide:
 
+Derive JP/base, romaji, and proposed EN lookup keys for every candidate name, title, place, organization, term, and recurring phrase. When live references or prior filed prose already exist, `Grep` all four reference files and relevant English chapters, read the complete surrounding hit, and search spelling/furigana variants before adding anything. One no-hit search does not prove novelty; never use `reference-archive.md` as live context.
+
 - `glossary.md` — per `core/schemas/glossary-schema.md`; characters, places, organizations, recurring terms.
 - `character-reference.md` — names, genders, roles, speech patterns, example quotes.
 - `character-voices.md` — per-character voice profiles per `core/guides/voice-building-guide.md` and `core/schemas/character-voices-schema.md`, plus the `## Narrator` block with its **Register ceiling** line and the `### Elevation kill-list` table. This file gates the whole setup (see step 6), so build the kill-list deliberately: at least five rows of real over-elevation traps drawn from this novel's register, each written as a wrong→right pair (elevated phrasing in the left column, the plain form you want in the right).
@@ -46,7 +48,7 @@ Using the register framework in `core/guides/translation-guide.md` (Casual/Comed
 
 ## 5. Fill the rest of novel.config.md
 
-Populate the remaining knobs per `core/schemas/novel-config-schema.md`: source ebooks + per-volume mapping, `Source/` / `English/` paths, romanization convention (no-macron, vowel-doubling), reading direction (source RTL → build LTR), part-split threshold, and EPUB metadata (title, series, per-volume titles).
+Populate the remaining knobs per `core/schemas/novel-config-schema.md`: source ebooks + per-volume mapping, `Source/` / `English/` paths, an explicit no-macron romanization convention (including whether long vowels are doubled or unmarked), reading direction (source RTL → build LTR), part-split threshold, and EPUB metadata (title, series, per-volume titles).
 
 ## 6. Verify the hard gate, then close
 

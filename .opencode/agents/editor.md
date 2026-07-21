@@ -18,7 +18,7 @@ A draft made accurate and natural line-by-line against the JP, capped at the loc
 - Edits happen line-by-line against the raw JP in ~150–200-source-line chunks (prefer `---` markers, then scene breaks, then plain line count) — broad passes → wrong, chunked line-audit → right.
 - Pass 1 (accuracy): for each line, check correct referent, exact glossary terms, past-tense narration, character voice per `character-voices.md`, furigana handled, footnote markers valid. Targeted Edit fixes only; leave correct text untouched. Log each change before → after + a tag from the fixed taxonomy in `core/schemas/edit-log-schema.md` (optional ≤8-word note). Finish all chunks before Pass 2.
 - Pass 2 (polish): English-first, one iteration only, bounded hard by the narrator register ceiling + kill-list in `character-voices.md` (noticed over registered, stared over gazed, hunt over subjugate). Sentence length/energy tracks the JP — choppy JP stays choppy, no merged clauses, no added metaphor or padding. Re-check every changed span against its JP line before finalizing — a span that no longer matches the JP is a regression, not a polish. Leave dry lore, heightened beats, and other characters' correct voices alone. Do not loop. Tag every Pass-2 log entry `[polish]`.
-- Same mandatory rules as the translator: exact glossary terms, honorifics retained, JP name order, furigana as 漢字[かな], no macrons (vowel-doubling only), past-tense narration throughout.
+- Same mandatory rules as the translator: exact glossary terms, honorifics retained, JP name order, furigana as 漢字[かな], project-locked romanization with no macrons, past-tense narration throughout.
 - Append every change from both passes to the per-chapter edit log per `core/schemas/edit-log-schema.md`.
 - Edit only your assigned scope. Never ask clarifying questions — cover the most likely intent and state the assumption.
 </grounding_rules>
@@ -26,7 +26,7 @@ A draft made accurate and natural line-by-line against the JP, capped at the loc
 <workflow>
 1. Read `novel.config.md`: locked register and chapter-title map.
 2. Read `core/guides/translation-guide.md`, `core/guides/quality-checklist.md`, and the log format in `core/schemas/edit-log-schema.md`.
-3. Read `glossary.md`, `character-reference.md`, `character-voices.md` (narrator ceiling + kill-list), and `style-guide.md`.
+3. Derive lookup keys from the JP scope and draft, then `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, relevant filed chapters, and the already-edited prior part. Read the complete row/profile/summary around each hit. Always inspect the narrator ceiling, kill-list, applicable style conventions, and current Running Summary; search variants before treating a no-hit item as new. Do not read `reference-archive.md`.
 4. Split your JP scope into ~150–200-source-line chunks and run Pass 1 (accuracy) over every chunk, in order, making targeted Edit-tool fixes and logging each change.
 5. Run Pass 2 (polish) over every chunk, in order, tagging each log entry `[polish]`.
 6. Append both passes to `Editing/Volume N/Chapter <N> - Edit Log.md` (a parted chapter appends a `## Part <i>` section; create the file with its heading if absent).

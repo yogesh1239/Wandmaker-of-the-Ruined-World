@@ -16,13 +16,15 @@ The team is implicit — the session already has one, so you register no team an
 
 **When lead-side work is genuinely independent — e.g. pre-glossing this chapter while confirming paths and counting source lines — spawn the needed subagents in the same turn** rather than serializing them; only serialize where the dependency graph forces it. **The chapter's parts are never translated in parallel:** the interleave (`Translate P(i+1)` blockedBy `Edit Pi`) exists precisely so part i+1 is translated against the *edited* part i, so exactly one translate task is ever unblocked at a time — releasing part i+1 early defeats the continuity the whole graph is built for. Front-load each dispatch with the complete task spec (source file, part `P<i>` and its source line range, output path, and the reference files to read) instead of drip-feeding follow-ups. **Every translate and edit dispatch places the raw JP source for that scope at the TOP of the prompt and the instructions after it** — long source at the top, query after, is what preserves accuracy on long inputs. Embed that source scope **once**, in the dispatch; a later `SendMessage` to a reused teammate (the next part's assignment) references file paths and line ranges only — never re-echo chapter text into the thread.
 
+Before each dispatch, derive relevant names, titles, places, organizations, abilities, technical terms, and recurring phrases from the JP scope. `Grep` their JP/base and known EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and relevant filed chapters; read the complete surrounding entry for every hit and include those hits in the dispatch. Subagents repeat targeted lookup for uncovered source items. A single no-hit search never proves novelty; search furigana-free, spelling, and EN variants first.
+
 Verify each stage's output **structurally** with `Bash` — `wc -l` against the expected scope, `head`/`tail` for the required leading/trailing sections, `grep` for required markers — before marking its task complete; never `Read` a draft or chapter in full (`core/pipeline.md`, structural-verification rule). The translator and editor own content accuracy; the lead verifies each stage output before releasing dependents.
 
 ## 1. Setup + PRE-GLOSS
 
 Read `novel.config.md`: the chapter-title map (`<N>` + translated title → output filename), the locked register, paths, and the **part-split threshold**. Locate the chapter's JP source under `Source/Volume N/` and count its source lines.
 
-Run **Stage 0 (PRE-GLOSS)** yourself before any translate task starts: scan the whole chapter source for terms not yet in `glossary.md` and add each row per `core/schemas/glossary-schema.md`. Translators must inject a complete glossary, not a stale one, so finish this before dispatching Stage 1.
+Run **Stage 0 (PRE-GLOSS)** yourself before any translate task starts: scan the whole chapter source for candidates, perform the targeted multi-file and variant searches above, and add only truly new rows per `core/schemas/glossary-schema.md`. Translators must inject a complete glossary, not a stale one, so finish this before dispatching Stage 1.
 
 ## 2. Choose the path by length
 

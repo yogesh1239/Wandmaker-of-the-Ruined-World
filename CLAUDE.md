@@ -50,7 +50,7 @@ Each skill runs as lead of the session's team, spawning `.claude/agents/` teamma
 4. JP name order — family name first.
 5. Glossary terms are mandatory — exact matches from `glossary.md`.
 6. Furigana preserved from source as `漢字[かな]`.
-7. Romanization: no macrons — vowel-doubling (ō→ou, ū→uu, ā→aa, ī→ii, ē→ee); enforced by `core/scripts/normalize_romaji.py --check`.
+7. Romanization: follow `novel.config.md` and exact glossary forms; never use macrons. This novel leaves long vowels unmarked (`Ohinata`, not `Oohinata`); enforced by `core/scripts/normalize_romaji.py --check` and the consistency gate.
 8. Editors edit line-by-line against the raw Japanese, not broad passes.
 9. Consistency gates — `core/scripts/check_consistency.py` runs per-chapter, and again with `--all` over the whole unit after every Update, because a glossary revision back-propagates to already-filed chapters in that unit. For light novels the unit is usually a volume; for webnovels it may be `main`, an arc, or another project-defined grouping.
 10. Teammate lifetime is one chapter — translator/editor are reused across a chapter's parts and retired at chapter end; cross-chapter continuity is file-borne only.

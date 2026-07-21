@@ -30,7 +30,7 @@ Japanese-specific rules — each applies throughout the chapter:
 - Ruby readings written as 漢字[かな] or 漢字（かな）: translate the meaning; keep the special reading only when the author is deliberately playing reading against kanji (then it earns a note).
 - Onomatopoeia: naturalize into English sound or action ("her heart pounded"), do not romanize.
 - Thoughts in *italics*. Scene breaks become a centered ---.
-- When a word stays romanized Japanese: no macrons — double the vowel instead (ou, uu, aa, ii, ee).
+- When a word stays romanized Japanese: leave long vowels unmarked (`Ohinata`, `Tohoku`, `Kintaro`), never doubled or macronized.
 - The first English rendering you choose for any name or recurring term is locked for the rest of the chapter.
 
 Notes: at most three one-line entries under a final "Notes:" heading, only for cultural references or wordplay the prose cannot carry. Most chapters need none.
@@ -53,7 +53,7 @@ Reads as if originally written in English, in the author's own register — plai
 - Keigo → register mapping: polite/humble speech reads measured and formal; casual speech uses contractions.
 - Ruby readings (漢字[かな]): translate the meaning; preserve a special reading only when it is a deliberate double meaning.
 - Onomatopoeia naturalized into English, never romanized. Thoughts in *italics*. Scene breaks → centered ---.
-- Romanized Japanese words: no macrons — vowel doubling (ou, uu, aa, ii, ee).
+- Romanized Japanese words leave long vowels unmarked (`Ohinata`, `Tohoku`, `Kintaro`), never doubled or macronized.
 - First rendering of any name or recurring term is locked for the chapter.
 </hard_constraints>
 

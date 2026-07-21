@@ -2,14 +2,14 @@
 
 | JP | EN | Aliases/Banned | Gender/Context |
 |-|-|-|-|
-| 大利賢師 | Oori Kenshi | Kenshi Oori | Male |
-| 大利 | Oori |  | Male / surname |
+| 大利賢師 | Ori Kenshi | Kenshi Ori, Oori Kenshi, Kenshi Oori | Male |
+| 大利 | Ori | Oori | Male / surname |
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
 | 青の魔女 | Blue Witch | Blue Mage, Witch of Blue | Female / Aoyama Hiyori's title |
-| 青梅の魔女 | Blue Witch | Witch of Oume | Female / Aoyama Hiyori's title |
-| 大日向慧 | Oohinata Kei | Kei Oohinata | Female |
-| 大日向 | Oohinata |  | Female / surname |
+| 青梅の魔女 | Blue Witch | Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's title |
+| 大日向慧 | Ohinata Kei | Kei Ohinata, Oohinata Kei, Kei Oohinata | Female |
+| 大日向 | Ohinata | Oohinata | Female / surname |
 | 未来視の魔法使い | Foresight Mage | Future-Seer Mage, Seer Mage | Male |
 | 目玉の魔女 | Eyeball Witch | Eye Witch, Witch of Eyes | Female |
 | 吸血の魔法使い | Bloodsucking Mage | Vampire Mage | Male |
@@ -19,24 +19,24 @@
 | 煙草の魔女 | Tobacco Witch | Cigarette Witch | Female |
 | 継火の魔女 | Flame Witch | Rekindling Witch, Fire Witch | Female |
 | 火継の魔女 | Flame Heir Witch | Flamekeeper Witch, Fire-Keeping Witch | Female / human successor to the Flame Witch |
-| 八王子の魔女 | Hachiouji Witch | Witch of Hachiouji | Female |
+| 八王子の魔女 | Hachioji Witch | Witch of Hachioji, Hachiouji Witch, Witch of Hachiouji | Female |
 | 人魚の魔女 | Mermaid Witch | Mermaid Mage | Female |
 | さざれ石の魔女 | Pebble Witch | Gravel Witch | Female |
 | 花の魔法使い | Flower Mage | Floral Mage | Male / Transcendent title |
 | ゾンビの魔女 | Zombie Witch | Witch of Zombies | Female |
 | 江戸川の魔女 | Edogawa Witch | Witch of Edogawa | Female |
 | 入間の魔法使い | Iruma Mage | Mage of Iruma | Male |
-| 大狼[オキヤク] | Okyaku | Ookami, Great Wolf | Male / Touhoku Hunting Association mage |
-| 大熊[イタズ] | Itazu | Ookuma, Great Bear | Male / head of the Touhoku Hunting Association |
-| 氈鹿[アオケラ] | Aokera | Kamoshika, Serow | Male / Touhoku Hunting Association mage |
-| イワツラ | Iwatsura |  | Female / Touhoku Hunting Association witch |
+| 大狼[オキヤク] | Okyaku | Ookami, Great Wolf | Male / Tohoku Hunting Association mage |
+| 大熊[イタズ] | Itazu | Ookuma, Great Bear | Male / head of the Tohoku Hunting Association |
+| 氈鹿[アオケラ] | Aokera | Kamoshika, Serow | Male / Tohoku Hunting Association mage |
+| イワツラ | Iwatsura |  | Female / Tohoku Hunting Association witch |
 | 半田作之助 | Handa Sakunosuke | Sakunosuke Handa | Male |
-| 京極大和 | Kyougoku Yamato | Yamato Kyougoku | Male |
+| 京極大和 | Kyogoku Yamato | Yamato Kyogoku, Kyougoku Yamato, Yamato Kyougoku | Male |
 | 垂田紀見 | Dareda Kimi | Kimi Dareda | Male |
-| 佐貫野伴造 | Sanukino Banzou | Banzou Sanukino | Male |
+| 佐貫野伴造 | Sanukino Banzo | Banzo Sanukino, Sanukino Banzou, Banzou Sanukino | Male |
 | 村雲雁弥 | Murakumo Kariya | Kariya Murakumo | Male |
-| 博田伝次郎 | Hakata Denjirou | Denjirou Hakata | Male |
-| 財前金太郎 | Zaizen Kintarou | Kintarou Zaizen | Male |
+| 博田伝次郎 | Hakata Denjiro | Denjiro Hakata, Hakata Denjirou, Denjirou Hakata | Male |
+| 財前金太郎 | Zaizen Kintaro | Kintaro Zaizen, Zaizen Kintarou, Kintarou Zaizen | Male |
 | 鵜田川聖愛 | Utagawa Maria | Maria Utagawa | Female / Shirokarasu's real name |
 | 白鴉 | Shirokarasu | Shirogarasu, White Crow | Female / leader of Watarigarasu |
 | モエカ | Moeka |  | Unknown / Watarigarasu enforcer |
@@ -79,19 +79,19 @@
 | 固有色グレムリン | personal-color Gremlin | personal-colour Gremlin | recast Gremlin colored with an individual's blood |
 | マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color Gremlin with magic-recovery effect |
 | 御守り | amulet | charm | accessory that improves magic-power recovery |
-| 自己血鞣し | self-blood tanning | blood tanning | Touhoku method preserving magical monster materials |
+| 自己血鞣し | self-blood tanning | blood tanning | Tohoku method preserving magical monster materials |
 | マモノバサミ | Monster Trap | monster clamp, Mamono Trap | time-stasis trap magic tool |
 | 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis wand for Flame Witch |
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |
 | シャンタク座流星群 | Shantak Meteor Shower | Shantakid Meteor Shower | meteor shower that brought magic stones |
-| オクタメテオライト | Okutameteorite | Okutama Meteorite | Oori's black meteorite magic stone |
-| ヘンデンショー | Hendenshou | Henden-shou | Oori's mass-produced double-core wand |
+| オクタメテオライト | Okutameteorite | Okutama Meteorite | Ori's black meteorite magic stone |
+| ヘンデンショー | Hendensho | Henden-shou, Hendenshou | Ori's mass-produced double-core wand |
 | 青魔杖キュアノス | Blue Wand Cyanos | Blue Magic Wand Cyanos | Aoyama Hiyori's seven-layer magic-stone wand |
 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | Dragon Furnace Carved Seven Layer Blue Wand Cyanos | full formal name of Cyanos / title-map term |
 | キュアノス | Cyanos | Kyanos | shortened wand name |
-| 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Oohinata Kei's safety-lock wand |
+| 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Ohinata Kei's safety-lock wand |
 | アレイスター | Aleister | Alastair | shortened wand name |
 | メビウス連環錫杖ハリティ | Moebius-linked khakkhara Hariti |  | Hell Witch's seven-loop magic-stone staff |
 | ハリティ | Hariti |  | shortened staff name |
@@ -99,8 +99,8 @@
 | 血杖ヴァンピール | blood wand Vampir |  | Blood Moon wand used in Minato Ward operation |
 | ヴァンピール | Vampir | Vampire | shortened wand name |
 | メテオフレイム | Meteoflame | Meteor Flame | Dragon Witch's claimed name for Blood Moon |
-| 東北狩猟組合 | Touhoku Hunting Association | Tohoku Hunting Association | northeastern hunter organization |
-| 北海道魔獣農場 | Hokkaidou Magic Beast Farm | Hokkaido Magic Beast Farm | northern monster-livestock community |
+| 東北狩猟組合 | Tohoku Hunting Association | Touhoku Hunting Association | northeastern hunter organization |
+| 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
 | 渡鴉[ワタリガラス] | Watarigarasu | Watari, Raven | Shirokarasu's Suginami underworld organization |
@@ -111,17 +111,17 @@
 | キノコ病 | mushroom disease | mushroom plague | parasitic magical-fungus epidemic |
 | 魔法的死 | magical death | irreversible death | death through complete loss of magic power |
 | 大怪獣 | giant kaiju | giant monster | massive monster that attacked Tokyo |
-| ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Touhoku Association |
+| ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Tohoku Association |
 | 銃杖 | gun-wand | gun wand | firearm integrated with a magic wand |
 | 銃杖巨神殺し | gun-wand Giant Slayer |  | anti-Daidarabocchi gun-wand series |
 | 封印弾 | sealing round | seal bullet | projectile carrying a sealing spell |
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
-| 青梅 | Oume | Ome | city governed by Blue Witch |
-| 奥多摩 | Okutama | Oku-Tama | Oori's mountain home region |
-| 文京区 | Bunkyou Ward | Bunkyo Ward | ward governed by Foresight Mage |
+| 青梅 | Ome | Oume | city governed by Blue Witch |
+| 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 文京区 | Bunkyo Ward | Bunkyou Ward | ward governed by Foresight Mage |
 | 港区 | Minato Ward | Minato-ku | former domain of Bloodsucking Mage |
 | 品川区 | Shinagawa Ward | Shinagawa-ku | ward governed by Flame Witch |
 | 足立区 | Adachi Ward | Adachi-ku | former Hell Witch domain |
 | 杉並区 | Suginami Ward | Suginami-ku | ward governed by Pebble Witch |
-| 台東区 | Taitou Ward | Taito Ward | Flower Witch's domain |
+| 台東区 | Taito Ward | Taitou Ward | Flower Witch's domain |
 | 荒川区 | Arakawa Ward | Arakawa-ku | Flower Witch's domain |

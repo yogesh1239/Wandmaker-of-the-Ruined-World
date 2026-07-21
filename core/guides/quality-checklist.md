@@ -67,6 +67,6 @@ checklist is series-agnostic; the specifics it points at live in
       mid-chapter reset); every `[^N]` has a matching note and vice versa.
 
 ## Romanization
-- [ ] **No macrons** — no-macron / vowel-doubling convention throughout
-      (*Tarou*, *Yuusuke*, *senpai*; never ō/ū). `normalize_romaji.py --check`
+- [ ] **Romanization lock** — no macrons; long-vowel treatment matches `novel.config.md` and exact glossary forms
+      (use the configured doubled or unmarked forms; never ō/ū). `normalize_romaji.py --check`
       passes.

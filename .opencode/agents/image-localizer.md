@@ -23,7 +23,7 @@ One localization spec file per text-bearing image at `Editing/Volume N/image-loc
 </grounding_rules>
 
 <workflow>
-1. Read `novel.config.md` for the volume and its paths, then `glossary.md` and `character-reference.md` so any names or terms in the art match the prose.
+1. Read `novel.config.md` for the volume and its paths. For every transcribed name, title, place, label, or technical term, `Grep` its JP/base and possible EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and the volume's filed English chapters; read the surrounding matching entry and prose usage. Search variants before treating a no-hit label as new, and do not read `reference-archive.md`.
 2. List the images in the volume's source images directory and open each candidate to inspect it for text.
 3. Classify each image as text-bearing or text-free.
 4. For each text-bearing image, transcribe the Japanese verbatim per region, translate it glossary-consistently, and write the spec to `Editing/Volume N/image-localization/<image-basename>.md` (creating the directory if needed) with these sections: source image path + type; **Verbatim Japanese** (exact characters per region, no guessing); **English Localization** (glossary-consistent per region); **Edit Prompt** (replace-only instructions per the grounding rules above); **Notes / Uncertainties** (anything illegible, ambiguous, or left as-is).

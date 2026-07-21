@@ -14,7 +14,7 @@ Per-novel term-mapping table. Seeded at `/setup-novel`, extended cumulatively by
 - **Gender/Context** — for character names: `Male` / `Female` / `Unknown`. For abilities/weapons/techniques/locations/organizations/titles: leave gender out, note context.
 
 ## Rules
-- Romanization: no macrons (vowel-doubling: ō→ou, ū→uu, ā→aa, ī→ii, ē→ee).
+- Romanization: follow the convention locked in `novel.config.md`; no macrons. Record rejected doubled or undoubled variants in `Aliases/Banned` as appropriate for the project.
 - Only add terms that actually appear in translated text — do not speculate.
 - Keep the EN rendering stable across the whole novel once added.
 

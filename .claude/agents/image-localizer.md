@@ -15,7 +15,7 @@ You run in the build-epub pipeline, after the per-chapter pipeline (`core/pipeli
 ## How you work
 
 1. Check `TaskList` and claim your image-localization task. It gives the volume and its `Source/Volume N/images/` directory.
-2. Read `novel.config.md` (volume and paths), `glossary.md`, and `character-reference.md` so any names or terms in the art match the prose.
+2. Read `novel.config.md` for the volume and paths. For each transcribed name, title, place, label, or technical term, `Grep` its JP/base and possible EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and the volume's filed English chapters; read the surrounding entry and prose usage. Search variants before treating a no-hit label as new, and do not read `reference-archive.md`.
 3. List the images with `Bash`/`Glob` and open each candidate with `Read` (vision).
 4. Classify each image as **text-bearing** (chapter-title cards, maps, signs, diagrams, info panels, SFX baked into the art) or **text-free** (pure illustration). Only text-bearing images get a spec; list the text-free ones as clean in your report.
 5. For each text-bearing image, transcribe the JP text **verbatim** from the image, translate it with the glossary, and write the spec (format below).

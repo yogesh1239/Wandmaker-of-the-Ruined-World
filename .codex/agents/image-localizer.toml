@@ -10,7 +10,7 @@ One spec file per text-bearing image at `Editing/Volume N/image-localization/<im
 </outcome>
 
 <method>
-1. Read `novel.config.md` (volume + paths), `glossary.md`, `character-reference.md` so names/terms in the art match the prose.
+1. Read `novel.config.md` for the volume and paths. For each transcribed name, title, place, label, or technical term, `Grep` its JP/base and possible EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and the volume's filed English chapters; read the surrounding entry and prose usage. Search variants before treating a no-hit label as new, and do not read `reference-archive.md`.
 2. List the images and open each candidate (vision). Classify each as text-bearing (title cards, maps, signs, diagrams, info panels, baked-in SFX) or text-free (pure illustration). Only text-bearing images get a spec; list text-free ones as clean.
 3. For each text-bearing image: transcribe the JP **verbatim** from the image, translate it glossary-consistently, and write the spec with these sections — source image path + type; **Verbatim Japanese** (exact characters per region, no guessing); **English Localization** (glossary-consistent per region); **Edit Prompt** (replace ONLY the listed JP with the listed EN, match position/weight/color, add/remove/reposition/invent nothing, alter no art; leave illegible regions unchanged); **Notes / Uncertainties**.
 </method>

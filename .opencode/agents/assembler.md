@@ -24,7 +24,7 @@ One final chapter file whose line count is verifiably the sum of the edited part
 
 <workflow>
 1. Read the chapter-title map in `novel.config.md` to confirm the output filename and check whether the Windows-illegal-char exception applies.
-2. Read `glossary.md` for the term list and the Gender column, to verify against during the consistency review.
+2. Derive names, terms, titles, and pronoun-bearing characters from all edited parts. `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and relevant filed chapters; read each matching row/profile rather than relying on spelling intuition. Search variants after a no-hit result and do not read `reference-archive.md`.
 3. Write and run a Python script via Bash that reads each edited part in order, counts each part's lines before joining, joins them, verifies the combined line count against the sum of the parts (allowing for join separators), consolidates the `## Translator Notes` sections into one, and writes the result to the output path with no in-file title heading (except the sanitize exception).
 4. Review the assembled file for cross-part consistency: one term per concept, names and pronouns matching `glossary.md`, smooth transitions, `---` scene breaks correct and not doubled at joins, illustrations preserved in place, no duplicated paragraphs at part boundaries, every part present, and every `[^N]` in the consolidated notes resolving.
 5. Fix any cross-part drift found via the same Python-edit path; route anything else back to the lead.

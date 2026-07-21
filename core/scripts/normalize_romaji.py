@@ -1,27 +1,43 @@
 #!/usr/bin/env python3
-# Normalize romanization to the no-macron (wapuro vowel-doubling) convention.
-# Strips macrons: o->ou u->uu a->aa i->ii e->ee (e.g. Ootori, Toukyou, Juurou).
-# Novel-agnostic: no hardcoded series names.
+# Normalize romanization to the no-macron convention in novel.config.md.
+# Projects may double Japanese long vowels or leave them unmarked.
+# Novel-agnostic: no hardcoded series names or terms.
 # Usage: python normalize_romaji.py [--check] file1 file2 ...
 #   (no flag) rewrites each file in place; --check reports counts without writing.
 import sys, io
+from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-MACRON = {
+DOUBLED = {
     "ā": "aa", "ē": "ee", "ī": "ii", "ō": "ou", "ū": "uu",  # a e i o u
     "Ā": "Aa", "Ē": "Ee", "Ī": "Ii", "Ō": "Ou", "Ū": "Uu",
 }
-MACRON_CHARS = set(MACRON)
+UNMARKED = {
+    "ā": "a", "ē": "e", "ī": "i", "ō": "o", "ū": "u",
+    "Ā": "A", "Ē": "E", "Ī": "I", "Ō": "O", "Ū": "U",
+}
+MACRON_CHARS = set(DOUBLED)
 
 
-def strip_macrons(s):
-    return "".join(MACRON.get(c, c) for c in s)
+def configured_mapping():
+    try:
+        config = Path("novel.config.md").read_text(encoding="utf-8").lower()
+    except OSError:
+        return DOUBLED
+
+    for line in config.splitlines():
+        if "romanization" not in line:
+            continue
+        if "unmarked" in line or "no long-vowel doubling" in line:
+            return UNMARKED
+        if "vowel-doubling" in line or "vowel doubling" in line:
+            return DOUBLED
+    return DOUBLED
 
 
-def normalize(text):
-    # Ōtori->Ootori, Fū-kun->Fuu-kun, Fūrinkazan->Fuurinkazan, ...
-    return strip_macrons(text)
+def normalize(text, mapping):
+    return "".join(mapping.get(c, c) for c in text)
 
 
 def main():
@@ -34,6 +50,7 @@ def main():
         sys.exit(2)
 
     any_residual = False
+    mapping = configured_mapping()
     for path in files:
         try:
             with io.open(path, "r", encoding="utf-8") as f:
@@ -43,7 +60,7 @@ def main():
             any_residual = True
             continue
 
-        new = normalize(orig)
+        new = normalize(orig, mapping)
         residual_macrons = sum(orig.count(c) for c in MACRON_CHARS)
 
         if check:

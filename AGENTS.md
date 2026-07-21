@@ -13,7 +13,7 @@ These hold on every line of translated output, at every stage. They are not styl
 - **JP name order** — family name first.
 - **Glossary is mandatory.** Use the exact EN rendering in `glossary.md` for every listed term. A term's banned aliases (its listed wrong renderings) never appear in output.
 - **Furigana notation** — preserve source furigana as `漢字[かな]`.
-- **No macrons.** Romanize by vowel-doubling: ō→ou, ū→uu, ā→aa, ī→ii, ē→ee. Enforced by `core/scripts/normalize_romaji.py --check`.
+- **Romanization lock.** Follow the convention in `novel.config.md` and exact forms in `glossary.md`; never use macrons. This novel leaves Japanese long vowels unmarked (`Ohinata`, not `Oohinata`). Enforced by `core/scripts/normalize_romaji.py --check` and the consistency gate.
 - **No in-file title heading.** The final chapter file starts directly with prose; `## Translator Notes` (if any) goes at the end. Titles come from the `novel.config.md` chapter-title map. Sole exception: a title containing a Windows-illegal char (`< > : " / \ | ? *`) → sanitize the filename and write the full true title once as a single leading `#` heading.
 </non_negotiables>
 

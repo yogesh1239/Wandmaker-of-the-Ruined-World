@@ -110,7 +110,7 @@ def check_file(path, entries, violations):
         for ch in line:
             if ch in MACRON_CHARS:
                 violations.append(
-                    "%s:%d: macron character %r found (romanize with vowel-doubling instead)"
+                    "%s:%d: macron character %r found (follow novel.config.md and glossary.md romanization)"
                     % (path, lineno, ch)
                 )
 

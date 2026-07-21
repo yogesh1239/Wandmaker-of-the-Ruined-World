@@ -24,6 +24,8 @@ python core/scripts/split_ebook.py "<Vol 1 source ebook>" Source --volume 1
 
 Scan the split source and seed each file to its schema in `core/schemas/`; write data only into these files, never into a guide:
 
+Derive JP/base, romaji, and proposed EN lookup keys for every candidate name, title, place, organization, term, and recurring phrase. When live references or prior filed prose already exist, `Grep` all four reference files and relevant English chapters, read the complete surrounding hit, and search spelling/furigana variants before adding anything. One no-hit search does not prove novelty; never use `reference-archive.md` as live context.
+
 - `glossary.md` — `glossary-schema.md`; characters, places, organizations, recurring terms.
 - `character-reference.md` — names, genders, roles, speech patterns, example quotes.
 - `character-voices.md` — per-character profiles per `core/guides/voice-building-guide.md` and `character-voices-schema.md`, plus the `## Narrator` block with its **Register ceiling** line and an `### Elevation kill-list` table of **at least five** wrong→right rows drawn from this novel's real over-elevation traps. This file gates setup (step 6) — build the kill-list deliberately.
@@ -41,7 +43,7 @@ Using the register framework in `core/guides/translation-guide.md`, classify thi
 
 ## 5. Fill the rest of novel.config.md
 
-Populate the remaining knobs per `core/schemas/novel-config-schema.md`: source→volume map, `Source/`/`English/`/`Editing/` paths, romanization (no-macron, vowel-doubling), reading direction (source RTL → build LTR), part-split threshold, `qa_major_threshold`, and EPUB metadata.
+Populate the remaining knobs per `core/schemas/novel-config-schema.md`: source→volume map, `Source/`/`English/`/`Editing/` paths, an explicit no-macron romanization lock (including whether long vowels are doubled or unmarked), reading direction (source RTL → build LTR), part-split threshold, `qa_major_threshold`, and EPUB metadata.
 
 ## 6. Hard gate, then close
 

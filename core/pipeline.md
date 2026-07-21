@@ -49,6 +49,33 @@ trailing sections, `grep` for required markers (scene breaks, `## Translator
 Notes`, edit-log part headings). The lead need not read a draft or chapter in
 full; the editor's line-by-line accuracy pass owns content verification.
 
+### Targeted reference retrieval
+
+Every stage that interprets or verifies prose must actively retrieve the
+series context relevant to its assigned scope; a generic instruction to "read
+the references" is not enough.
+
+1. Derive lookup keys from the assigned JP source and, when present, its EN
+   draft: names, titles, honorific-bearing forms, places, organizations,
+   abilities, weapons, technical terms, recurring phrases, and plausible base
+   forms without furigana or inflection.
+2. `Grep` those JP keys and known EN renderings across `glossary.md`,
+   `character-reference.md`, `character-voices.md`, and `style-guide.md`, then
+   read the complete row/profile/summary entry around each hit. Also search the
+   already-edited prior part and relevant filed chapters when wording, address
+   form, or continuity has precedent there.
+3. Always inspect the narrator register ceiling, elevation kill-list, and
+   applicable style-guide conventions even when no character-specific search
+   hits. Do not read `reference-archive.md`; it is storage, not live context.
+4. One no-hit search does not establish novelty. Search script/base variants,
+   the source form without furigana, and the proposed EN rendering before
+   coining or adding anything. Report unresolved collisions or missing locks.
+
+The lead applies the same lookup before PRE-GLOSS and includes the resulting
+chapter-specific terms, voices, and continuity in each dispatch. Subagents
+still run their own targeted searches; dispatch curation is a starting point,
+not a substitute for grounding.
+
 The dispatch embeds each teammate's source scope **once**. A follow-up
 `SendMessage` to a live teammate references file paths and line ranges only and
 **never re-echoes chapter text** — re-sending source the teammate already holds
@@ -72,7 +99,9 @@ chapter's JP source lines.
 ### 0 — PRE-GLOSS
 The lead scans the whole chapter source for terms not yet in `glossary.md`
 (names, places, organizations, abilities/weapons/techniques, recurring phrases,
-honorific-bearing forms) and adds each row in the format defined by
+honorific-bearing forms), searches each candidate and its variants across the
+live reference files per **Targeted reference retrieval**, and adds each truly
+new row in the format defined by
 `core/schemas/glossary-schema.md`, consistent with existing entries. Done when
 every new term in the chapter has a
 glossary row **before** any Translate task starts — so translators inject a

@@ -19,7 +19,7 @@ You implement **Stage 3 (Assemble)** of `core/pipeline.md`, which runs on the pa
 1. Check `TaskList` and claim your assembly task. It gives the ordered list of edited part files (under `Editing/Volume N/`) and the final output path.
 2. Read the chapter-title map in `novel.config.md` to confirm the output filename — `English/Volume N/Chapter <N> - <Translated Title>.md`. If and only if the title contains a Windows-illegal character (`< > : " / \ | ? *`), sanitize the filename and write the full title as a single leading `#` heading so nothing is lost; otherwise the file has no title heading at all.
 3. Run the assembly script (below) to combine the parts with line-count verification.
-4. Read `glossary.md` for term and pronoun verification, then run the consistency review.
+4. Derive names, terms, titles, and pronoun-bearing characters from all edited parts. `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and relevant filed chapters; read each matching row/profile, and search variants after a no-hit result. Do not read `reference-archive.md`. Then run the consistency review.
 5. Fix any cross-section drift you find by re-running a Python edit via Bash. Reconcile drift only — a term that split between parts, a pronoun that flipped — and leave already-edited prose alone, since re-editing clean prose is out of scope and risks undoing the editor's work.
 6. Verify the final file exists and its line count is sane, `TaskUpdate` complete, and `SendMessage` the lead.
 
