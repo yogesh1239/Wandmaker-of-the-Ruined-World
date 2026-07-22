@@ -20,6 +20,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 11 | 竜の魔女 | The Dragon Witch | updated |
 | 12 | 番外編　ペットロス | Side Story - Pet Loss | updated |
 | 13 | 崩壊世界の魔法杖職人 １ 特装版小冊子　極秘資料 | Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files | updated |
+| 14 | 電子書籍特典　書き下ろし短編『【晶雨】』 | Ebook Bonus Original Short Story - Crystal Rain | updated |
 
 ## Known issues / decisions
 - None.

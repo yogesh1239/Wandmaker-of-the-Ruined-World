@@ -136,6 +136,7 @@
 | 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis wand for Flame Witch |
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
+| 鱗リス | scale squirrel | scaled squirrel, scaly squirrel | Ori's nickname for a squirrel-like monster that gathers scattered Gremlins |
 | ペットロス | pet loss | pet-loss grief | grief caused by the death of a pet / title-map term |
 | エーテル溶媒 | ether solvent | aether solvent | experimental Gremlin-processing liquid |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |

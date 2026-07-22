@@ -53,3 +53,6 @@ In a side story set when Kei was twelve, she persuaded Ao-san to trade excess pr
 
 ### Volume 1, Chapter 13 — Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files
 The configured artifact was the special-edition dossier booklet, with character, wand, setting, timeline, chapter-commentary, Tokyo-status, and short-story image sections. Image-text localization remained an EPUB-build concern. The Japanese legal colophon remained preserved.
+
+### Volume 1, Chapter 14 — Ebook Bonus Original Short Story - Crystal Rain
+In this Ori-narrated ebook bonus, crystal rain is explained as Gremlin crystals replacing lightning, damaging crops, roofs, drainage, and urban areas. Okutama fares better because nocturnal scale squirrels gather scattered Gremlins, though prolonged storms still require manual cleanup and leave riverbed accumulation that may harm the ecosystem.
