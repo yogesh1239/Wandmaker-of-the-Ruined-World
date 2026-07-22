@@ -20,7 +20,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “That’s not true. I like the Blue Witch.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Highly capable and curious about wand-making, but socially awkward and unusually candid.
+- Highly capable, curious, and solo-preferring; technically exacting at wand-making and material appraisal, but socially awkward and unusually candid.
 - **Arc state:** He has accepted Hiyori as a friend, keeps the three fire salamanders, and is expanding his work beyond Okutama.
 
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
@@ -38,7 +38,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “...That no-guard, one-hundred-percent-honest way you talk isn’t something I hate. Stay as you are, Ori.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Powerful, vigilant, and easily embarrassed by sincere intimacy; fond of small animals.
+- Powerful, vigilant, quietly guilt-burdened, and easily embarrassed by sincere intimacy; fond of small animals, with practical care that includes research help and material sourcing.
 - **Arc state:** Her friendship with Ori is explicit; she remains wary of fire salamanders tied to the Flame Witch.
 
 ### Ohinata Kei (大日向慧)

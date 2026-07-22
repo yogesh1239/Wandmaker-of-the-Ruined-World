@@ -55,6 +55,7 @@
 | 魔石 | magic stone | mana stone, magic gem | high-grade magical crystal |
 | 魔法杖 | magic wand | magic staff | spellcasting medium |
 | 魔法杖職人 | Wand Maker | wandmaker, wand craftsman | magic-wand artisan |
+| 魔法杖加工学 | magic-wand processing studies | wand-processing studies | proposed university research field |
 | 魔力 | magic power | mana, magical energy | magical resource |
 | 魔力逆流 | magic backlash | mana backlash, magical backlash | feedback from uncontrolled magic power |
 | 超越者 | Transcendent | superhuman, transcender | collective term for witches and mages |
@@ -70,6 +71,11 @@
 | 魔法語 | magic language | magical language | language of spells |
 | 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
 | 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
+| 魔法増幅率 | amplification ratio | amplification rate | measured spell-amplification performance |
+| 魔力励起 | magic excitation | magical excitation | activation response induced by magic power or an incantation |
+| 魔力励起状態 | magic-excitation state | magical-excitation state | active state in which a Gremlin responds to sound |
+| 吸音性 | sound absorption | sound-absorbing property | Gremlin property correlated with amplification ratio |
+| 吸音状態 | sound-absorption state | sound absorbing state | Gremlin state induced by magic excitation |
 | 発音不可音 | unpronounceable sound | impossible sound, unpronounceable phoneme | magic-language sound a human throat cannot produce |
 | 吉田予想 | Yoshida Conjecture | Yoshida Prediction | hypothesis that twelve unpronounceable sounds exist |
 | 基幹単語 | core word | root word, foundational word | fixed basic spell term within a magic school |
@@ -81,6 +87,7 @@
 | 撃て[ア゙ー] | Fire[ア゙ー] | Fire[ー], Shoot[ー] | shooting-magic core spell; the reading begins with katakana `ア` plus dakuten |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
 | ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
+| 凍結魔法 | freezing magic |  | Blue Witch's freezing school |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
 | 大氷河魔法 | Great Glacier magic | great-glacier magic | Blue Witch's maximum-power wide-area freezing magic |
@@ -104,7 +111,10 @@
 | メビウスの輪 | Moebius ring | Mobius ring | stable loop-shaped Gremlin structure |
 | 双子グレムリン | twin Gremlins | paired Gremlins | identically cut Gremlins from one parent crystal |
 | グレムリン工学 | Gremlin engineering | Gremlin studies | field covering Gremlin processing and applications |
+| グレムリン鑑定 | Gremlin appraisal | Gremlin assessment | appraisal of Gremlin material and performance |
+| グレムリン品質鑑定 | Gremlin quality appraisal | Gremlin quality assessment | practical appraisal of Gremlin quality |
 | 励起魔力感応吸音鑑定法 | magic-excitation acoustic appraisal | resonant sound appraisal | quality appraisal by activated Gremlin sound response |
+| 球形研磨加工 | spherical polishing |  | polishing Gremlins into spheres to raise amplification |
 | 固有色グレムリン | personal-color Gremlin | personal-colour Gremlin | recast Gremlin colored with an individual's blood |
 | マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color Gremlin with magic-recovery effect |
 | 御守り | amulet | charm | accessory that improves magic-power recovery |

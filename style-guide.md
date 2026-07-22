@@ -41,3 +41,6 @@ Professor Ohinata Kei, a twelve-year-old stoat-transformed magic-linguistics pro
 
 ### Volume 1, Chapter 9 — Tokyo Magic University
 Foresight, an exhausted former office worker, learned that the completed fertility-magic research had averted the famine future, then founded Tokyo Magic University as Ohinata’s reward and a safe dissemination hub. Its first cohort selected 30 from more than 6,000 applicants to multiply instruction; soothed by his secretary’s support, he embraced the future and renewed his goal of early retirement to country farming.
+
+### Volume 1, Chapter 10 — Magic-Excitation Acoustic Appraisal
+Correspondence with Professor Ohinata brought Ori city research news as the fertility-magic bypass incantation freed capacity for Tokyo Magic University, but he refused its magic-wand processing studies post to work alone. With Hiyori's help, he found impurities and uneven coloration caused about a 5% amplification-ratio gap, then proved magic-excitation acoustic appraisal in a blind test through activation-induced sound absorption and fingertip vibration. Hiyori gave him six carry cases of Gremlins, taking on material support for his work.

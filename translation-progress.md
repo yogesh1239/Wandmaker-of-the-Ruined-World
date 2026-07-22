@@ -16,6 +16,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 7 | 東京魔女集会 | Tokyo Witches' Council | updated |
 | 8 | 魔法言語学 | Magic Linguistics | updated |
 | 9 | 東京魔法大学 | Tokyo Magic University | updated |
+| 10 | 励起魔力感応吸音鑑定法 | Magic-Excitation Acoustic Appraisal | updated |
 
 ## Known issues / decisions
 - None.
