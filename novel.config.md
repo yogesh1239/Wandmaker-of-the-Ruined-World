@@ -26,7 +26,7 @@ The per-novel knobs the harness reads. The `/build-epub` skill derives the JSON 
 - **Romanization:** no macrons and no long-vowel doubling in romanized Japanese names or terms; leave long vowels unmarked (`Ohinata`, `Ori`, `Tohoku`, `Kintaro`). Enforced by the glossary and `core/scripts/normalize_romaji.py --check`.
 - **Reading direction:** source is RTL → build EPUB as **LTR** (`page-progression-direction="ltr"`).
 - **Furigana:** preserved from source as `漢字[かな]`.
-- **Part-split threshold:** 400 source lines — chapters longer than this split into parts; shorter ones translate/edit whole.
+- **Part-split threshold:** 400 source lines — chapters at or below this translate/edit whole. Longer chapters target roughly 400 source lines per part, cutting at the nearest appropriate scene, POV, or paragraph boundary rather than at an exact line count. A short final remainder should be rebalanced or merged when practical. The editor's smaller audit chunks are not translation parts.
 - **qa_major_threshold:** 3 — QA fails if a chapter has more than three major findings, or any critical finding.
 
 ## Register lock

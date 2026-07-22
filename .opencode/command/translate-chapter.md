@@ -26,7 +26,7 @@ Read `novel.config.md`: chapter-title map (`<N>` + translated title → filename
 
 ## 2. Choose the path by length
 
-- **Source lines > threshold → PARTED:** split the source into parts P1…Pn at natural scene breaks; run translate/edit interleaved per the graph; then assemble.
+- **Source lines > threshold → PARTED:** target roughly one threshold-sized source scope per translation part. Around each target line, choose the nearest appropriate boundary: prefer an explicit `---`, then a scene or POV break, then a paragraph break. Never cut a scene merely to hit the exact line count. If the final remainder would be much smaller than the other parts, move the preceding boundary earlier or merge it when practical. Do not split at the editor's ~150–200-line audit-chunk boundaries. Run translate/edit interleaved per the graph; then assemble.
 - **Source lines ≤ threshold → WHOLE:** one translate, one edit; the editor finalizes the chapter file itself after its two passes (no assemble stage — `core/pipeline.md`, Stage 2 "Whole-path finalization").
 
 ## 3. Drive the pipeline (gated ordering)

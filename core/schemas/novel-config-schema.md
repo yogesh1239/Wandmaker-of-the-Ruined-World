@@ -16,7 +16,14 @@ The single per-novel knob file. Every field the harness reads lives here. `core/
 - **Romanization convention** — no macrons; explicitly lock whether Japanese long vowels are doubled or left unmarked. Exact names and terms remain controlled by `glossary.md`; macrons are rejected by `core/scripts/normalize_romaji.py --check`.
 - **Reading direction** — source RTL → build EPUB LTR (`page-progression-direction`).
 - **Furigana** — preserved as `漢字[かな]`.
-- **Part-split threshold** — integer source-line count; chapters longer split into parts, shorter translate/edit whole. Default 400.
+- **Part-split threshold** — positive integer source-line count; chapters at or
+  below it translate/edit whole. For longer chapters it is the target size of a
+  translation part, not a hard maximum. Choose the nearest appropriate narrative
+  boundary around each target interval (explicit scene marker, scene/POV break,
+  then paragraph break), never cutting a scene solely to hit the number. Avoid a
+  much smaller final remainder by moving the preceding boundary or merging the
+  remainder when practical. Default 400. The editor's smaller audit chunks do
+  not affect translation-part boundaries.
 - **Register lock** — the locked register + one-line justification. `UNSET` until `/setup-novel`; holds for the whole novel once set.
 - **Chapter-title map** — the legacy table `| Vol | N | JP title | EN title |`
   remains required for volume-based projects and EPUB builds. The chapter gate

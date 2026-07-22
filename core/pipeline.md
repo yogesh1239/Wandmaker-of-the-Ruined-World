@@ -87,9 +87,15 @@ Read the **part-split threshold** (integer source-line count; default per
 `core/schemas/novel-config-schema.md`) from `novel.config.md`. Count the
 chapter's JP source lines.
 
-- **Source lines > threshold → PARTED path.** Split the source into parts
-  P1…Pn at natural scene breaks; run Translate/Edit interleaved per the graph
-  above; then Assemble.
+- **Source lines > threshold → PARTED path.** Treat the threshold as the target
+  size of one translation part, not a hard cutoff. Starting near each successive
+  threshold-sized interval, choose the closest appropriate narrative boundary
+  (prefer an explicit `---`, then a scene or POV break, then a paragraph break).
+  Keep parts around the target, but never cut a scene merely to hit an exact line
+  count. If the final remainder would be much smaller than the other parts,
+  move the preceding boundary earlier or merge the remainder when practical.
+  Do not turn the editor's ~150–200-line audit chunks into translation-part
+  boundaries. Run Translate/Edit interleaved per the graph above; then Assemble.
 - **Source lines ≤ threshold → WHOLE path.** One Translate, one Edit; there is
   no Assemble stage, so **the editor finalizes** — after its two passes it writes
   the final chapter file itself (Stage 2, "Whole-path finalization").
@@ -122,8 +128,10 @@ register fidelity**; naturalness is the editor's polish pass, not this stage.
 ### 2 — Edit P*i*
 Editor works in two sub-passes over the draft, one teammate (see
 `core/guides/translation-guide.md` and `quality-checklist.md`):
-1. **Accuracy pass** — line-by-line against the raw JP in ~150–200-line chunks;
-   targeted edits only; every change logged before→after + a taxonomy tag (see
+1. **Accuracy pass** — line-by-line against the raw JP in ~150–200-line audit
+   chunks within the assigned whole chapter or translation part; these audit
+   chunks do not create additional translation parts. Targeted edits only;
+   every change logged before→after + a taxonomy tag (see
    `core/schemas/edit-log-schema.md`).
 2. **Polish pass** — reads the English first, chunk by chunk, and lifts it to
    read as native-authored prose, capped by the register ceiling and kill-list
