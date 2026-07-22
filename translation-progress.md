@@ -26,7 +26,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | Ch | JP title | EN title | Status |
 |-|-|-|-|
 | 1 | 便利魔法を覚えよう | Let's Learn Useful Magic | updated |
-| 2 | 奥多摩の山奥に、ＵＭＡを見た！ | I Saw a UMA Deep in the Okutama Mountains! | not-started |
+| 2 | 奥多摩の山奥に、ＵＭＡを見た！ | I Saw a UMA Deep in the Okutama Mountains! | updated |
 | 3 | 煙草の魔女 | The Tobacco Witch | not-started |
 | 4 | 融解再凝固グレムリン | Melt-Recast Gremlin | not-started |
 | 5 | 魔力逆流防止機構 | Backlash-Prevention Mechanism | not-started |

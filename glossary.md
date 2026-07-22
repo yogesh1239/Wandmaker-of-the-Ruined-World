@@ -64,6 +64,12 @@
 | 魔法使い | mage | magician | male Transcendent |
 | 魔術師 | wizard | magician | ordinary person trained in magic |
 | 魔物 | monster | magical creature | magically mutated creature |
+| 魔物素材 | monster material | monster-derived material, monster part | material harvested from a monster; project-original |
+| 魔物肉 | monster meat | monster flesh | meat from a monster, inedible to ordinary humans; project-original |
+| キメラ型 | chimera type | chimera-type monster | monster body-type category; project-original |
+| 獣型 | beast type | beast-type monster | monster body-type category; project-original |
+| 植物型 | plant type | plant-type monster | monster body-type category; project-original |
+| 幽霊型 | ghost type | ghost-type monster | monster body-type category; project-original |
 | 怪獣 | kaiju |  | large destructive monster |
 | 魔獣 | magic beast | magical beast | a monster made tame or domestic |
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
@@ -72,8 +78,11 @@
 | 使い魔召喚 | familiar summoning | summon familiar | magically summoning a familiar; project-original |
 | 使い魔召喚魔法 | familiar-summoning magic | familiar summoning magic, familiar-summoning spell | Eyeball Witch's spell creating an eyeball familiar; project-original |
 | 目玉の使い魔 | eyeball familiar | eye familiar | flying observation-and-communication familiar; project-original |
+| 白狼 | white wolf | whitewolf | docile blue-Gremlin wolf monster; project-original |
+| ニホンザル | Japanese macaque | Japanese monkey | Japan's native monkey species |
 | 魔法語 | magic language | magical language | language of spells |
 | 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
+| 魔物学 | monster studies | monsterology | academic study of monsters; project-original |
 | 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
 | 大日向研究室 | Ohinata Laboratory | Ohinata Lab | magic-language research group; project-original |
 | 死者従属魔法 | dead-subordination magic | undead magic, necromancy, corpse-control magic | Zombie Witch's magic; affects the brain-dead even while the heart beats |
@@ -144,6 +153,18 @@
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
 | 鱗リス | scale squirrel | scaled squirrel, scaly squirrel | Ori's nickname for a squirrel-like monster that gathers scattered Gremlins |
+| 未確認生物[Unidentified Mysterious Animal] | unidentified mysterious animal[Unidentified Mysterious Animal] | cryptid | source's pseudo-English expansion of `UMA`; preserve the ruby notation |
+| ＵＭＡ | UMA | U.M.A., cryptid | Japanese pseudo-English acronym for an unidentified mysterious animal |
+| 妖怪 | yokai | supernatural creature, apparition | category of beings from Japanese folklore |
+| ビッグフット | Bigfoot | Big Foot | legendary hairy humanoid and Ori's provisional name for the mutated macaque |
+| ネッシー | Nessie | Loch Ness Monster | legendary Scottish lake monster |
+| ツチノコ | Tsuchinoko | tsuchinoko | legendary Japanese snake-like creature |
+| チュパカブラ | Chupacabra | chupacabra | legendary blood-drinking creature |
+| 河童 | kappa | Kappa | Japanese river yokai |
+| 唐傘オバケ | karakasa-obake | umbrella ghost, karakasa obake | Japanese umbrella yokai |
+| ネコマタ | nekomata | Nekomata | Japanese cat yokai |
+| 九尾の狐 | nine-tailed fox | nine tail fox | legendary fox spirit |
+| カマイタチ | kamaitachi | Kamaitachi | Japanese weasel yokai |
 | ペットロス | pet loss | pet-loss grief | grief caused by the death of a pet / title-map term |
 | エーテル溶媒 | ether solvent | aether solvent | experimental Gremlin-processing liquid |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |
@@ -192,6 +213,8 @@
 | 東北狩猟組合 | Tohoku Hunting Association | Touhoku Hunting Association | northeastern hunter organization |
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
+| 交換市 | barter market | exchange market, trade fair | recurring market where goods are exchanged without currency; project-original |
+| 鯨油 | whale oil | whale-oil | oil from whale blubber |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
 | キャラクター紹介 | Character Profiles | Character Introductions | booklet section heading |
 | 作品設定 | Setting Notes | Work Setting | booklet section heading |
@@ -227,6 +250,8 @@
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 多摩川 | Tama River | Tamagawa River | major river running from Okutama through Tokyo |
+| 奥多摩湖 | Lake Okutama | Okutama Lake | reservoir in western Tokyo |
 | 武蔵村山 | Musashimurayama | Musashi Murayama, Musashi-Murayama | city in Dragon Witch's three-city territory |
 | 東大和 | Higashiyamato | Higashi Yamato, Higashi-Yamato | city containing Dragon Witch's nest |
 | 東村山 | Higashimurayama | Higashi Murayama, Higashi-Murayama | city in Dragon Witch's three-city territory |
@@ -250,3 +275,9 @@
 | ケモナー | furry | animal-person fan | person attracted to anthropomorphic animal traits |
 | ヒトナー | human-lover | human fan | Ori's joking inverse of `furry` |
 | 絶対音感 | absolute pitch | perfect pitch | ability to identify or reproduce a pitch without a reference tone |
+| ジェムマ | Gemma | Jemma | trading-card game known to Hiyori; project-original |
+| ギャザ | Gath | Gather | Ori's trading-card game; project-original abbreviation |
+| 共生 | symbiosis | coexistence | close ecological relationship between different species |
+| 相利共生 | mutualism | mutual symbiosis | symbiosis benefiting both species |
+| 片利共生 | commensalism | commensal symbiosis | symbiosis benefiting one species without affecting the other |
+| 寄生 | parasitism | parasitic symbiosis | relationship benefiting one species while harming the other |

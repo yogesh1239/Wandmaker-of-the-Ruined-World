@@ -59,3 +59,6 @@ In this Ori-narrated ebook bonus, crystal rain is explained as Gremlin crystals 
 
 ### Volume 2, Chapter 1 — Let's Learn Useful Magic
 After Hiyori rescued Ori from the Dragon Witch, they explicitly accepted their friendship as she began planning better defenses for his Okutama home. Kei taught Ori familiar-summoning magic, letting him summon an eyeball familiar for scouting and communication; the Blood Moon remained with the Tokyo Witches' Council under the Bloodsucking Mage's will pending civilian magical training and Minato Ward's protection.
+
+### Volume 2, Chapter 2 — I Saw a UMA Deep in the Okutama Mountains!
+With his rice harvest doubled by fertility magic and Hiyori's supplies, Ori prepared to winter in Okutama with a year's food and spent their first leisurely day together as friends. They learned that monster materials rapidly deteriorated except for Gremlins, which Ori could turn into wands, then found a mutated Japanese macaque rejected by its troop and a white wolf defending it; Hiyori called the pair friends while Ori insisted on a more complicated symbiosis theory.
