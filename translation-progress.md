@@ -15,6 +15,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 6 | 魔女がいる暮らし | Life with a Witch | updated |
 | 7 | 東京魔女集会 | Tokyo Witches' Council | updated |
 | 8 | 魔法言語学 | Magic Linguistics | updated |
+| 9 | 東京魔法大学 | Tokyo Magic University | updated |
 
 ## Known issues / decisions
 - None.

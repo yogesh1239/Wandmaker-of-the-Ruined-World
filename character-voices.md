@@ -51,11 +51,11 @@
   - 「私は自分の手で父の研究を完成させたいんです」 → "I want to finish my father's research with my own hands." (*Vol. 1, “Magic Linguistics”*)
 
 ## Foresight Mage
-- **Pronoun:** 俺 (*ore*) — a weary adult man's casual self-reference; English is gruff but not macho.
+- **Pronoun:** 俺 (*ore*) — a weary former office worker's casual self-reference; English is gruff but not macho.
 - **Register:** mostly plain and conversational, with fast, data-heavy speech when explaining policy. He uses dry sarcasm and sounds exhausted even when being helpful.
-- **Address / honorifics:** generally uses titles such as "Blue Witch" and "Flame Witch-sama"; he addresses Ohinata as "Ohinata-kun." Keep source-specific titles and honorifics.
+- **Address / honorifics:** uses titles such as "Blue Witch" and "Flame Witch-sama"; calls Ohinata "Ohinata-kun" and the Bloodsucking Mage "Bloodsucking." Keep source forms.
 - **Tics / particles:** dry sarcasm, weary pauses, and a recurring "unfortunately" used with bitter humor. Under severe magic backlash he switches from 俺 (*ore*) to 僕 (*boku*) and regresses into slurred, childlike simplicity; preserve the abrupt contrast without adding baby talk beyond the source.
-- **Vocabulary / contrast:** food supply, logistics, projections, numbers, administration, and future consequences. His normal fatigue turns into an urgent flood of facts when lives are at risk; private insecurity should sound like a tired man talking himself down, not melodrama.
+- **Vocabulary / contrast:** food supply, logistics, projections, numbers, administration, and future consequences. His fatigue turns into an urgent flood of facts when lives are at risk; privately, he craves praise, dreams of retirement farming, and talks himself down rather than becoming melodramatic.
 - **Samples:**
   - 「いる。残念ながら」 → "I'm here. Unfortunately." (*Vol. 1, “Tokyo Witches' Council”*)
   - 「パワーが要るんだ。火力でもいい、マンパワーでもいい、未知の新エネルギーでもいい、なんでもいい。」 → "We need power. Firepower, manpower, some unknown new energy source—anything." (*Vol. 1, “Tokyo Witches' Council”*)

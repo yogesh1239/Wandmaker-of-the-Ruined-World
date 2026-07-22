@@ -38,3 +38,6 @@ At a remote Tokyo Witches' Council meeting, Hiyori learned the Eyeball Witch had
 
 ### Volume 1, Chapter 8 — Magic Linguistics
 Professor Ohinata Kei, a twelve-year-old stoat-transformed magic-linguistics professor, explained that the Magic Language Analysis Team died pursuing dangerous bypass incantations; Hiyori then asked Ori to help solve the Tokyo-region food crisis without risking Kei. Ori turned a dodecahedral fractal experiment into Aleister, a safety wand whose low output and two-step activation made Kei's trials effectively harmless. With Aleister, Kei finished the fertility-magic bypass incantation, partially returned to human form, and she and Ori resolved their technical exchange as a pen-pal arrangement.
+
+### Volume 1, Chapter 9 — Tokyo Magic University
+Foresight, an exhausted former office worker, learned that the completed fertility-magic research had averted the famine future, then founded Tokyo Magic University as Ohinata’s reward and a safe dissemination hub. Its first cohort selected 30 from more than 6,000 applicants to multiply instruction; soothed by his secretary’s support, he embraced the future and renewed his goal of early retirement to country farming.

@@ -105,14 +105,14 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 #### Speech Patterns
 - **First-person pronoun:** Normally 俺 — casual masculine self-reference; switches to 僕 during magic-backlash-induced regression.
 - **Formality level:** Plain.
-- **Speech style:** Terse and burdened in private; his dialogue is direct rather than ceremonious.
-- **Address forms:** Calls the Bloodsucking Mage “Bloodsucking” without an honorific; Ohinata addresses him as “Foresight-san.”
+- **Speech style:** Terse, burdened, and praise-hungry in private; direct rather than ceremonious.
+- **Address forms:** Calls the Bloodsucking Mage “Bloodsucking” and Ohinata “Ohinata-kun”; Ohinata calls him “Foresight-san.”
 
 **Example Quotes:**
 - “No, calm down. I’m doing well. I’m fine.” (*Vol. 1, Ch. 9, 東京魔法大学*)
 
 #### Personality
-- Exhausted and self-critical, but persistent; reports also attribute covert, severe security work to him.
+- Former office worker; exhausted, self-critical, praise-hungry, and persistent; pursues food relief and retirement farming, while reports also attribute covert, severe security work to him.
 - **Arc state:** He remained central to Tokyo’s security and reconstruction despite severe magic-backlash strain.
 
 ### Flame Witch (継火の魔女)
@@ -222,6 +222,23 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 #### Personality
 - Survival hardened him and left him guilt-ridden; at the university he valued peaceful, trusted work and defended academically motivated experimentation.
 - **Arc state:** He became Tokyo Magic University’s Gremlin-engineering professor.
+
+### Matsuo (松尾)
+**Japanese Name:** 松尾
+**Gender:** Male
+**Role:** Minato refugee and Bunkyo Food Team administrator.
+
+#### Speech Patterns
+- **Speech style:** Rapid administrative speech; skeptical of policy.
+- **Address forms:** “Foresight-sama”; “Bloodsucking-sama.”
+
+**Example Quotes:**
+- “Bloodsucking-sama would've made an exception.” (*Vol. 1, Ch. 9, 東京魔法大学*)
+- “You aren't using foresight magic as cover to force through a mistake in the plan, are you?” (*Vol. 1, Ch. 9, 東京魔法大学*)
+
+#### Personality
+- Capable, Bunkyo-focused, rule-bending, and disrespectful toward Foresight.
+- **Arc state:** Foresight kept him employed after the secretary's reprimand.
 
 ### Okyaku (大狼[オキヤク])
 **Japanese Name:** 大狼[オキヤク]（本名：郷家卓次[ごうけたくじ]）  
