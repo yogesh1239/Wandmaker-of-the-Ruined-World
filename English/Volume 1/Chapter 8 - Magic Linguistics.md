@@ -732,11 +732,7 @@ Judging by the empty bento boxes stacked in the corner, I'd spent three full day
 
 I'd sleep after testing this piece. I'd gotten way too absorbed in processing.
 
-"
-
-![image_rsrc507.jpg](images/image_rsrc507.jpg)
-
-—!"
+"Aaaagh!"
 
 A little unsteady, I held up the fractal-processed test piece and recited my usual natural frequency incantation, but something was off.
 
@@ -758,11 +754,7 @@ And that was all I knew. It wasn't getting hot or vibrating. It was just flashin
 
 I couldn't figure it out, so I just shouted again.
 
-"
-
-![image_rsrc507.jpg](images/image_rsrc507.jpg)
-
-—!"
+"Aaaagh!"
 
 This time, a thin white beam shot out, hit the target on the wall, and faded away feebly without even stirring the paper target.
 

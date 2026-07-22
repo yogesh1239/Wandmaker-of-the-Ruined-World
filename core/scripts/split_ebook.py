@@ -50,7 +50,23 @@ IMG_EXTS = (".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp")
 # Shared XHTML -> markdown conversion
 # --------------------------------------------------------------------------
 
-def ruby_to_furigana(xhtml):
+def _img_attr(tag, name):
+    match = re.search(rf'\b{name}=["\']([^"\']*)["\']', tag)
+    return match.group(1) if match else ""
+
+
+def _gaiji_text(tag, images_dir_name="images"):
+    alt = _img_attr(tag, "alt").strip()
+    if alt:
+        voiced = re.fullmatch(r"(.+)濁点", alt)
+        return voiced.group(1) + "\u3099" if voiced else alt
+
+    src = _img_attr(tag, "src")
+    filename = src.split("/")[-1]
+    return f"![{filename}]({images_dir_name}/{filename})"
+
+
+def ruby_to_furigana(xhtml, images_dir_name="images"):
     """Convert <ruby>漢字<rt>かな</rt></ruby> (and rb/rp variants) to 漢字[かな].
 
     Handles:
@@ -64,6 +80,13 @@ def ruby_to_furigana(xhtml):
         inner = m.group(1)
         # Drop <rp> parenthesis hints entirely.
         inner = re.sub(r"<rp\b[^>]*>.*?</rp>", "", inner, flags=re.DOTALL)
+        # EPUBs sometimes use image gaiji for uncommon ruby glyphs. Preserve
+        # their alt text, or an inline marker when the publisher supplies none.
+        inner = re.sub(
+            r"<img\b[^>]*?/?>",
+            lambda image: _gaiji_text(image.group(0), images_dir_name),
+            inner,
+        )
         # Collect the readings, then remove the <rt> elements from the base.
         reading = "".join(re.findall(r"<rt\b[^>]*>(.*?)</rt>", inner, flags=re.DOTALL))
         reading = re.sub(r"<[^>]+>", "", reading).strip()
@@ -88,7 +111,14 @@ def xhtml_to_markdown(xhtml_content, images_dir_name="images"):
     content = body_match.group(1) if body_match else xhtml_content
 
     # 1. Furigana first, while the <ruby>/<rt> structure is still intact.
-    content = ruby_to_furigana(content)
+    # Resolve inline gaiji before ordinary images become block markers.
+    content = re.sub(
+        r'<img\b[^>]*\bclass=["\'][^"\']*gaiji[^"\']*["\'][^>]*?/?>',
+        lambda image: _gaiji_text(image.group(0), images_dir_name),
+        content,
+    )
+
+    content = ruby_to_furigana(content, images_dir_name)
 
     # 2. Images (raster <img>) -> markdown image links.
     def img_to_md(match):

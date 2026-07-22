@@ -307,8 +307,14 @@
 ### Formatting Confirmed
 - Pass 1 audited source lines 901–1063 and 1066–1230 in order; Pass 2 rechecked the same chunks once.
 - Verified 300 wands; 2×/3×/up-to-100× ratios; 1/1000; 1/2–1/3; 7+5=12; 28 mm; 300+ prior wands; levels 1/100; three full days; two-incantation activation; and the 120 cm handle.
-- Both identical `![image_rsrc507.jpg](images/image_rsrc507.jpg)` markers remain separately in place. `Vaa-ra` carries the spoken form while the written meaning `Freeze` is stated in prose, so no `[^3]` note was needed.
+- Recovered primary EPUB evidence established that both former `image_rsrc507.jpg` blocks were text gaiji, not illustrations; Part 4 now retains the two identical shooting-magic utterances as `"Aaaagh!"`. Chapter 8's only true illustrations are `image_rsrc506.jpg` in Part 1 and `image_rsrc508.jpg` in Part 6.
 - Part 4 retains Aleister Crowley marker `[^2]` and its matching note; Part 1 retains `[^1]`.
+
+### Post-Finalization Correction — Recovered EPUB Gaiji
+- **current source line 1105 (old line 1107)**: multiline `"` / `![image_rsrc507.jpg](images/image_rsrc507.jpg)` / `—!"` → `"Aaaagh!"` — accuracy (primary EPUB text gaiji)
+- **current source line 1138 (old line 1144)**: multiline `"` / `![image_rsrc507.jpg](images/image_rsrc507.jpg)` / `—!"` → `"Aaaagh!"` — accuracy (primary EPUB text gaiji)
+- **Primary-source evidence:** Each original XHTML paragraph was `「<gaiji/>ーッ！」`; the shared 128×128 resource depicts katakana `ア` with dakuten, now extracted as `「ア゙ーッ！」`. Both occurrences are the same harsh voiced sustained shooting-magic incantation, not images.
+- No footnote was added; Chapter 9 owns the explanatory note for written `Fire[ア゙ー]`.
 
 ## Part 5
 

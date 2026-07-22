@@ -277,8 +277,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - Pragmatic, emotionally restrained, and quick to adapt to harsh realities; the dossier described him as otherwise fairly ordinary.
 - **Arc state:** An active Association combatant in the Daidarabocchi operation.
 
-### Iwatsura (イワツラ)
-**Japanese Name:** イワツラ（本名：郷家舞音[ごうけまいん]）  
+### Iwatsura (兎[イワツラ])
+**Japanese Name:** 兎[イワツラ]（本名：郷家舞音[ごうけまいん]）
 **Gender:** Female  
 **Role:** Rabbit-eared witch and the Tohoku Hunting Association’s only female, non-blood-related member.
 

@@ -34,7 +34,7 @@
 | 大狼[オキヤク] | Okyaku | Ookami, Great Wolf | Male / Tohoku Hunting Association mage |
 | 大熊[イタズ] | Itazu | Ookuma, Great Bear | Male / head of the Tohoku Hunting Association |
 | 氈鹿[アオケラ] | Aokera | Kamoshika, Serow | Male / Tohoku Hunting Association mage |
-| イワツラ | Iwatsura |  | Female / Tohoku Hunting Association witch |
+| 兎[イワツラ] | Iwatsura |  | Female / Tohoku Hunting Association witch |
 | 半田作之助 | Handa Sakunosuke | Sakunosuke Handa | Male |
 | 京極大和 | Kyogoku Yamato | Yamato Kyogoku, Kyougoku Yamato, Yamato Kyougoku | Male |
 | 垂田紀見 | Dareda Kimi | Kimi Dareda | Male |
@@ -43,6 +43,7 @@
 | 博田伝次郎 | Hakata Denjiro | Denjiro Hakata, Hakata Denjirou, Denjirou Hakata | Male |
 | 財前金太郎 | Zaizen Kintaro | Kintaro Zaizen, Zaizen Kintarou, Kintarou Zaizen | Male |
 | 中村 | Nakamura |  | Aoyama family's neighbor |
+| 松尾 | Matsuo |  | Male / Bunkyo Ward Food Team administrator and Minato Ward refugee |
 | オッペンハイマー | Oppenheimer |  | physicist invoked as a nuclear-weapons analogy |
 | 鵜田川聖愛 | Utagawa Maria | Maria Utagawa | Female / Shirokarasu's real name |
 | 白鴉 | Shirokarasu | Shirogarasu, White Crow | Female / leader of Watarigarasu |
@@ -76,6 +77,8 @@
 | 改造呪文 | modified spell | altered spell | experimentally restructured incantation |
 | 改造詠唱 | modified incantation | altered incantation | experimentally restructured incantation |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
+| 射撃魔法 | shooting magic | projectile magic | basic ranged magic school |
+| 撃て[ア゙ー] | Fire[ア゙ー] | Fire[ー], Shoot[ー] | shooting-magic core spell; the reading begins with katakana `ア` plus dakuten |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
 | ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
@@ -156,6 +159,8 @@
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
+| 一期生 | first cohort |  | Tokyo Magic University's first student intake |
+| 二期生 | second cohort |  | Tokyo Magic University's second student intake |
 | 渡鴉[ワタリガラス] | Watarigarasu | Watari, Raven | Shirokarasu's Suginami underworld organization |
 | 白指 | White Fingers | white-fingered artisans | mark of wand artisans using fine Gremlin abrasive |
 | 無名叙事詩 | Nameless Epic | Anonymous Epic | hypothesized source text of all spell quotations |
@@ -176,6 +181,9 @@
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 東京湾 | Tokyo Bay |  | bay adjoining Tokyo |
+| 旧東京メトロ丸の内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | rail route planned for charcoal-powered transport |
+| 旧東京メトロ丸ノ内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | alternate source spelling of the rail route |
 | 羽村 | Hamura |  | city frozen during the giant-kaiju battle |
 | 新宿 | Shinjuku |  | Tokyo district where the Council meets |
 | あきる野市 | Akiruno | Akiruno City | western Tokyo city |
