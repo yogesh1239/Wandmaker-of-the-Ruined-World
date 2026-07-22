@@ -69,9 +69,13 @@
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
 | 獣人 | beastkin | beast person, therianthrope | human retaining animal traits after transformation |
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
+| 使い魔召喚 | familiar summoning | summon familiar | magically summoning a familiar; project-original |
+| 使い魔召喚魔法 | familiar-summoning magic | familiar summoning magic, familiar-summoning spell | Eyeball Witch's spell creating an eyeball familiar; project-original |
+| 目玉の使い魔 | eyeball familiar | eye familiar | flying observation-and-communication familiar; project-original |
 | 魔法語 | magic language | magical language | language of spells |
 | 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
 | 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
+| 大日向研究室 | Ohinata Laboratory | Ohinata Lab | magic-language research group; project-original |
 | 死者従属魔法 | dead-subordination magic | undead magic, necromancy, corpse-control magic | Zombie Witch's magic; affects the brain-dead even while the heart beats |
 | 傀儡魔法 | puppetry magic | puppet magic, marionette magic | Iruma Mage's magic; ceases to affect a creature after cardiac arrest |
 | 蘇生魔法 | resurrection magic | revival magic, reanimation magic | hypothetical magic inferred from magic-language distinctions around death |
@@ -94,6 +98,7 @@
 | 裏を渡り、蔡を吐けば、窮鼠も白獣 | Cross the underside, spit out the divination tortoise, and even a cornered rat becomes a white beast |  | stoat-transformation incantation; `蔡` has multiple dictionary senses, so this rendering is provisional |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
 | 射撃魔法 | shooting magic | projectile magic | basic ranged magic school |
+| 射撃魔法基幹呪文 | shooting-magic core spell | shooting magic core spell, projectile-magic core spell | basic spell of shooting-magic school; project-original |
 | 撃て[ア゙ー] | Fire[ア゙ー] | Fire[ー], Shoot[ー] | shooting-magic core spell; the reading begins with katakana `ア` plus dakuten |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
 | ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
@@ -115,6 +120,8 @@
 | 焦点杖 | focus wand | focal wand | wand that determines ritual magic's target |
 | 呪殺魔法 | death-curse magic | killing curse | curse that kills targets with insufficient magic power |
 | 迷子の霧 | Lost Mist | Mist of Lost Travelers | disorienting defensive mist |
+| 仮死状態 | suspended animation | apparent-death state, deathlike state | magic state difficult to sense; project-original |
+| 目玉[クンヌム] | Eyeball[クンヌム] | Eye[クンヌム] | eyeball-familiar core word; project-original |
 | 魔法系統カスタマイズ | magic-school customization | magic-system customization | wand tuning for one spell school |
 | 魔力逆流防止機構 | backlash-prevention mechanism | magic-backflow prevention mechanism | wand mechanism reducing magic backlash |
 | 融解再凝固グレムリン | melt-recast Gremlin | remelted Gremlin | inert Gremlin material used for magic resistance |

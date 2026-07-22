@@ -56,3 +56,6 @@ The configured artifact was the special-edition dossier booklet, with character,
 
 ### Volume 1, Chapter 14 — Ebook Bonus Original Short Story - Crystal Rain
 In this Ori-narrated ebook bonus, crystal rain is explained as Gremlin crystals replacing lightning, damaging crops, roofs, drainage, and urban areas. Okutama fares better because nocturnal scale squirrels gather scattered Gremlins, though prolonged storms still require manual cleanup and leave riverbed accumulation that may harm the ecosystem.
+
+### Volume 2, Chapter 1 — Let's Learn Useful Magic
+After Hiyori rescued Ori from the Dragon Witch, they explicitly accepted their friendship as she began planning better defenses for his Okutama home. Kei taught Ori familiar-summoning magic, letting him summon an eyeball familiar for scouting and communication; the Blood Moon remained with the Tokyo Witches' Council under the Bloodsucking Mage's will pending civilian magical training and Minato Ward's protection.

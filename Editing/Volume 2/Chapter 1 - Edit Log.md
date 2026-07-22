@@ -1,0 +1,136 @@
+# Chapter 1 — Edit Log
+
+### Accuracy Fixes
+- **source line 31 (Ome invitation)**: “Move over there.” → “Move here.” — referent
+- **source line 31 (verified destination correction)**: “Move here.” → “Move to Ome.” — referent
+- **source line 49 (protective priorities)**: “the things you want to protect aren't the same” → “the things you each want to protect aren't the same” — referent
+- **source line 55 (apples)**: “share some apples” → “share some apples with you” — accuracy
+- **source line 61 (kidnapping clues)**: “I'd left some pretty easy-to-understand clues” → “there had been some pretty obvious clues left behind” — referent
+- **source line 64 (ruby joke)**: “Thank God the culprit was a Dragon Witch[idiot]” → “Good thing the culprit was a Dragon Witch[idiot]” — accuracy
+- **source line 76 (Blue Witch's reaction)**: “stopped worrying and started getting angry instead” → “worry gave way to anger” — accuracy
+- **source line 130 (time transition)**: “The next day, past noon.” → “The next morning—well past noon.” — accuracy
+- **source line 184 (five seconds)**: “give me at least five seconds” → “keep it up for at least five seconds” — accuracy
+- **source line 187 (friendship)**: “If this kind of person I can talk to without holding back is what you call a friend, that's not bad.” → “If this is what it's like to have a friend I can talk to without holding back, it's not bad.” — accuracy
+- **source line 244 (magic-power measure)**: “in the number of consecutive uses of the shooting-magic core spell” → “in terms of the shooting-magic core spell's consecutive-use equivalent” — accuracy
+- **source line 265 (detection)**: “detecting you with their five senses and magic power” → “detecting you with their five senses or through magic power” — accuracy
+- **source line 280 (incantation)**: “If I could know my son is safe, I would gouge out this eye” → “If it meant knowing my son was safe, I'd be willing to gouge out this eye” — accuracy
+- **source line 289 (gouging agency)**: “it doesn't gouge it out” → “you don't gouge anything out” — referent
+- **source line 295 (maximum magic power)**: “The amount of magic power you use when casting it is deducted from the user's maximum magic power and won't recover” → “The user's maximum magic power stays reduced by the amount the spell consumed, and that amount won't recover while the familiar exists” — accuracy
+- **source line 313 (Eyeball Witch range)**: “Eyeball Witch-san has a radius of 180 km” → “Eyeball Witch-san has a communication radius of 180 km” — accuracy
+- **source line 319 (20 km range)**: “It reached from Okutama to Ome.” → “A 20 km radius reached from Okutama to Ome.” — accuracy
+- **source line 361 (learned magic)**: “being taught the eyeball-familiar magic” → “learning the magic for summoning an eyeball familiar” — glossary
+- **source line 379 (Bloodsucking Mage's stock)**: “the more highly I thought of him” → “the more his stock rose with me” — accuracy
+- **source line 382 (Dragon Witch's stock)**: “my opinion of the Dragon Witch ... kept dropping” → “the Dragon Witch's stock kept falling” — accuracy
+- **source line 394 (final resolve)**: “I'll reach in ... and make use of those achievements!” → “I was gonna reach in ... and make use of those achievements!” — tense
+- [polish] **source line 4 (opening)**: “One and a half years ago ... took electricity” → “A year and a half earlier ... had taken electricity” — polish
+- [polish] **source line 7 (civilization)**: “The scientific civilization that had thrived” → “Scientific civilization, which had thrived” — polish
+- [polish] **source line 7 (things appearing)**: “Monsters and witches and whatever else” → “Monsters, witches, and all kinds of other things” — polish
+- [polish] **source line 10 (chaos cooling)**: “the chaos melted down in that crucible had cooled and was starting to take shape as time passed” → “as time passed, the chaos melted in that crucible cooled, solidified, and began to take shape” — polish
+- [polish] **source line 13 (reconstruction)**: “riding the chaos that had been scattered everywhere and getting new things out of it” → “riding the chaos scattered everywhere and taking new things from it” — polish
+- [polish] **source line 16 (reconstruction symbols)**: “the defeat ... and the prevention ... were events that symbolized reconstruction” → “defeating ... and preventing ... had come to symbolize reconstruction” — polish
+- [polish] **source line 16 (Ori's pride)**: “Giving magic wands ... was a point of pride for me.” → “I was proud to have given magic wands ... who pulled off both.” — polish
+- [polish] **source line 19 (conceit)**: “That wasn't conceit.” → “I wasn't being conceited.” — polish
+- [polish] **source line 25 (return to Okutama)**: “My friend the Blue Witch ... delivered the stuff she had gotten back ... to Okutama with me.” → “My friend, the Blue Witch, had just saved me ... She helped me haul the stuff she'd recovered ... back to Okutama.” — polish
+- [polish] **source line 28 (unloading)**: “She stopped the cart ... all while stubbornly trying to convince me.” → “As she parked the cart ... the Blue Witch kept pressing me.” — polish
+- [polish] **source line 34 (Ori's life)**: “I like my life now.” → “I like my life the way it is.” — polish
+- [polish] **source line 37 (stray dragon)**: “that doesn't mean a wild dragon won't come” → “another stray dragon could still show up” — polish
+- [polish] **source line 37 (lucky kidnapping)**: “you were lucky it only ended in kidnapping” → “you were lucky kidnapping was all it did” — polish
+- [polish] **source line 52 (checking on Ori)**: “a huge help to me ... to check that I'm okay” → “a huge help ... to make sure I'm okay” — polish
+- [polish] **source line 52 (rescue)**: “You saved me this time too because you came.” → “You saved me this time by showing up, after all.” — polish
+- [polish] **source line 55 (abandoned harvest)**: “your rice paddy had been abandoned halfway through harvesting” → “the rice harvest in your paddy had been abandoned halfway through” — polish
+- [polish] **source line 55 (hurried to nest)**: “I ran to that piece of trash's nest.” → “I hurried to that piece of trash's nest.” — polish
+- [polish] **source line 61 (kidnapping site)**: “It had been a pretty blatant kidnapping scene.” → “The kidnapping scene couldn't have been much more blatant.” — polish
+- [polish] **source line 67 (Ori's expression)**: “making that spaced-out face” → “wearing that carefree look” — polish
+- [polish] **source line 79 (verbal slip)**: “Crap, my mouth slipped.” → “Crap. That slipped out.” — polish
+- [polish] **source line 82 (Ori's fault)**: “I was careless.” → “I'd been careless.” — polish
+- [polish] **source line 82 (blame)**: “I wanted her not to forget that the Dragon Witch was the most at fault” → “she needed to remember that the Dragon Witch was the one most at fault” — polish
+- [polish] **source line 85 (lecture and sigh)**: “giving me an earful about being security-conscious ... pretending to listen without seriously listening, and let out” → “lecturing me for a while about defending myself ... only pretending to listen, and she heaved” — polish
+- [polish] **source line 88 (dangerous times)**: “this is a dangerous time where you can't be too careful” → “these times are so dangerous, no amount of caution is enough” — polish
+- [polish] **source line 88 (security response)**: “Fine, I understand. I'll think of something on my end about security.” → “Fine. I get it. I'll come up with security measures on my end.” — polish
+- [polish] **source line 88 (danger warning)**: “If something feels dangerous” → “If you sense danger” — polish
+- [polish] **source line 94 (solo play)**: “Playing a one-man fake match while taking both roles was one thing, but battling the Blue Witch sounded more fun.” → “Playing against the Blue Witch sounded more fun than running a fake match by myself and playing both sides.” — polish
+- [polish] **source line 100 (stopping Blue Witch)**: “called out to stop ... she answered with” → “called after ... to stop her from leaving, she gave me” — polish
+- [polish] **source line 106 (trading cards)**: “Obviously not.” → “No shit.” — polish
+- [polish] **source line 106 (rules)**: “If you don't know it” → “If you don't know how to play” — polish
+- [polish] **source line 115 (danger awareness)**: “look like I had that little sense of danger? I didn't get it.” → “look that oblivious to danger? Beats me.” — polish
+- [polish] **source line 118 (precautions list)**: “carried Hendensho to stay armed ... didn't go near cliffs ... made sure not to go near mountains or rivers” → “carried Hendensho so I'd be armed ... stayed away from cliffs ... avoided the mountains and rivers” — polish
+- [polish] **source line 118 (carefulness)**: “I was careful, even if this didn't look like it.” → “I did take precautions, even if it didn't look like it.” — polish
+- [polish] **source line 121 (different standards)**: “the level of danger awareness was different between me ... and the Blue Witch” → “the Blue Witch and I had different standards for danger” — polish
+- [polish] **source line 121 (Okutama contrast)**: “where there were way fewer and weaker monsters than other areas and no messy human relationships” → “where monsters were far fewer and weaker than elsewhere and there was no messy interpersonal drama” — polish
+- [polish] **source line 124 (Reiwa reflection)**: “Thinking again that the Reiwa era had been a peaceful time” → “Thinking about how peaceful the Reiwa era really had been” — polish
+- [polish] **source line 124 (evening routine)**: “made some small items here and there ... went to bed early without staying up late” → “made a few odds and ends ... turned in early instead of staying up late” — polish
+- [polish] **source line 136 (visitors' clothes)**: “ragged black clothes ... stylish autumn clothes” → “ragged black robes ... a stylish autumn outfit” — polish
+- [polish] **source line 139 (beckoning)**: “For now, I beckoned” → “First, I beckoned” — polish
+- [polish] **source line 142 (accusation)**: “Are you messing with me?” → “Are you screwing with me?” — polish
+- [polish] **source line 145 (phonetic incantations)**: “If I write ... and send it to you, Ori, it'll take you forever to learn it, right?” → “You have trouble learning incantations sent in phonetic symbols, Ori.” — polish
+- [polish] **source line 145 (direct lesson)**: “Learning directly from Kei-chan is fastest.” → “Learning straight from Kei-chan will be fastest.” — polish
+- [polish] **source line 148 (facts)**: “Quit punching me with facts.” → “Quit hitting me with facts.” — polish
+- [polish] **source line 151 (extrovert smile)**: “When I glanced ... she held up a basket with a fragrant, delicious smell, wearing a full-on bright-extrovert smile so dazzling it could rival” → “I glanced ... She held up a basket giving off a warm, mouthwatering smell and flashed me a full-on extrovert smile bright enough to rival” — polish
+- [polish] **source line 154 (gift reaction)**: “Damn! She's a kid, but she's such a good kid that she doesn't forget a gift!” → “Gah! She was just a kid, yet she was nice enough to remember a gift!” — polish
+- [polish] **source line 154 (shortcomings)**: “made me feel like my own shortcomings were being rubbed in my face” → “reminded me of all my own shortcomings” — polish
+- [polish] **source line 157 (compatibility)**: “No, she's a good kid. A good kid, but still. This wasn't about hating her; we were just a bad match.” → “No, she was a good kid. She really was. This wasn't about disliking her. We just didn't click.” — polish
+- [polish] **source line 163 (picture frame trip)**: “Before the apparently impromptu magic lecture about to start ... I went back inside and came back with” → “Before the impromptu magic lesson that was apparently about to begin ... I ducked inside, grabbed ... and came back” — polish
+- [polish] **source line 166 (frame design)**: “worked that kind of thing into the design” → “worked those into the design” — polish
+- [polish] **source line 169 (blacked-out photos)**: “Deep darkness.” → “Seriously dark.” — polish
+- [polish] **source line 172 (displaying photo)**: “putting the pictures in a frame and displaying them was an option” → “moving a picture to the frame and putting it on display seemed like a decent option” — polish
+- [polish] **source line 175 (Blue Witch freezes)**: “took the picture frame I gave her, she went completely still” → “took the picture frame from me, she didn't move a muscle” — polish
+- [polish] **source line 175 (quiet voice)**: “a trembling voice that was nearly too quiet to hear” → “a faint, trembling voice” — polish
+- [polish] **source line 187 (easy friendship)**: “what it's like to have a friend I can talk to without holding back, it's not bad” → “what having a friend I can talk to this easily is like, it's not half bad” — polish
+- [polish] **source line 202 (open approach)**: “left behind with me, warmly and without reserve started talking to me, even though I was pretty uncomfortable being left alone with her” → “now alone with me, spoke warmly and openly despite how awkward I felt” — polish
+- [polish] **source line 208 (encouraging fist)**: “gripped her fist” → “clenched a fist” — polish
+- [polish] **source line 211 (Ori's panic)**: “That's what's bad about you being organized like this, thinking about how I feel, and cheerfully being there for me!” → “That was the problem: she was organized, took my feelings into account, and cheerfully supported me!” — polish
+- [polish] **source line 211 (desired distance)**: “I'd like you to be more mechanical ... but I can't just throw ... kindness back in her face. That's exactly it (losing it).” → “I wanted her to act more mechanical ... but I couldn't reject ... kindness. That was exactly the problem (I was losing it).” — polish
+- [polish] **source line 214 (living-room lecture)**: “Is a lecture in the living room okay?” → “Is the living room okay for the lecture?” — polish
+- [polish] **source line 217 (hash browns)**: “Have them for dinner or something!” → “Please have them with dinner!” — polish
+- **source line 217 (verified dinner offer)**: “Please have them with dinner!” → “Please have them for dinner!” — accuracy
+- [polish] **source line 223 (return home)**: “took Professor Ohinata back to my house” → “brought Professor Ohinata home with me” — polish
+- [polish] **source line 226 (eating during lecture)**: “Figuring they would taste better warm, I took ... lecture while snacking ... with plain hot water.” → “Since they'd taste better warm, I snacked ... with hot water while ... gave me ... lecture.” — polish
+- [polish] **source line 229 (assessment)**: “Holding a list ... the professor first began by asking me questions.” → “With a list ... in one hand, Professor Ohinata began her assessment.” — polish
+- [polish] **source line 232 (lecture opening)**: “So.” → “Well then.” — polish
+- [polish] **source line 235 (magic-power limits)**: “there are limits based on your amount of magic power” → “your amount of magic power limits the options” — polish
+- [polish] **source line 238 (advanced spells)**: “Magic that consumes a lot of magic power is advanced, and it often contains” → “Spells with high magic-power costs are advanced and often contain” — polish
+- [polish] **source line 241 (lesson choice)**: “among useful magic ... let's learn one or two spells you can use” → “let's choose one or two useful spells ... that you can cast” — polish
+- [polish] **source line 247 (confused response)**: “What was what?” → “What's a what now?” — polish
+- [polish] **source line 259 (three options)**: “answer by feeling ... ‘make Lost Mist,’ or ‘enter suspended animation’” → “go by instinct ... ‘creating Lost Mist,’ or ‘entering suspended animation’” — polish
+- [polish] **source line 262 (two choices)**: “Out of those, it's basically two choices” → “That really leaves two choices” — polish
+- [polish] **source line 271 (suspended animation use)**: “If it was called ... I guessed ... if I used it to let enemies pass by” → “If they called it ... I figured ... for hiding until an enemy passed” — polish
+- [polish] **source line 274 (interest)**: “familiar summoning interests me most” → “familiar summoning sounds the most interesting” — polish
+- [polish] **source line 283 (incantation reaction)**: “That's scary, though.” → “Okay, that's scary.” — polish
+- [polish] **source line 286 (eye question)**: “Does this magic gouge out your own eye?” → “Does this magic make you gouge out your own eye?” — polish
+- [polish] **source line 289 (casting wording)**: “recite the magic” → “recite the spell” — polish
+- [polish] **source line 295 (familiar example)**: “But, for example” → “For example” — polish
+- [polish] **source line 301 (communication device)**: “I could have a communication device” → “Did that mean I could have a communication device” — polish
+- [polish] **source line 304 (information advantage)**: “get all the information advantage” → “rack up all the information advantage” — polish
+- [polish] **source line 304 (verified idiom correction)**: “rack up all the information advantage I wanted” → “get as much of an information advantage as I wanted” — polish (targeted correction only)
+- [polish] **source line 313 (control skill)**: “depends on magic-power control technique” → “depends on your magic-power control skills” — polish
+- [polish] **source line 313 (Kei's radius)**: “when I used it, mine was 20 km” → “mine was 20 km when I tried it” — polish
+- [polish] **source line 319 (range coverage)**: “A 20 km radius reached from Okutama to Ome.” → “A 20 km radius covered the distance from Okutama to Ome.” — polish
+- [polish] **source line 325 (drone)**: “I can use it as a drone too. I'm learning this.” → “So it works as a drone too. I'm learning this one.” — polish
+- [polish] **source line 328 (other options)**: “the other magic ... the Lost Mist magic” → “the other spells ... Lost Mist” — polish
+- [polish] **source line 334 (internet potential)**: “if I got enough of them ... This was magic that should spread” → “with enough of them ... This spell deserved to spread” — polish
+- [polish] **source line 334 (low magic power)**: “It would be hard because you couldn't use it with little magic power” → “That would be hard when people with little magic power couldn't use it” — polish
+- [polish] **source line 343 (practice incantation)**: “If I could know my son is safe” → “If it meant knowing my son was safe” — polish
+- [polish] **source line 379 (stock idiom)**: “the more his stock rose with me” → “the more his stock went up in my book” — polish
+- [polish] **source line 382 (absent Dragon Witch)**: “stock kept falling even though she wasn't here, all because she'd swiped ... and stuffed” → “stock kept dropping even when she wasn't around, thanks to swiping ... and stuffing” — polish
+- [polish] **source line 385 (kill judgment)**: “it would have been better to kill her” → “it would've been better to kill her” — polish
+- [polish] **source line 385 (next offense)**: “If she pulled something again despite being taught a lesson ... without me having to say anything” → “If that lesson didn't stick and she tried something again ... for good, with no prompting from me” — polish
+- [polish] **source line 388 (research lineage)**: “research of Ohinata Laboratory, initiated ... and taken over” → “research at Ohinata Laboratory, started ... and carried on” — polish
+- [polish] **source line 391 (gratitude)**: “Poking at ... I gave thanks for the unbroken human will passed down through time, and what it had achieved.” → “I poked at ... and felt grateful for the unbroken chain of human will and everything it had achieved.” — polish
+- [polish] **source line 394 (outsider payoff)**: “make use of those achievements” → “help myself to those achievements” — polish
+- [polish] **source line 49 (past-tense recheck)**: “the things you each want to protect aren't the same? I dunno, though.” → “the things they each wanted to protect weren't the same? Not that I knew.” — polish
+- [polish] **source line 115 (past-tense recheck)**: “Beats me.” → “I couldn't make sense of it.” — polish
+- [polish] **source line 283 (past-tense recheck)**: “Okay, that's scary.” → “Okay, that was scary.” — polish
+- [polish] **source line 304 (past-tense recheck)**: “That's sick!” → “Sick!” — polish
+
+### Register and Flow
+**Ori:** kept casual, anxious, snarky, and past-tense; retained abrupt reactions, gaming language, the Dragon Witch[idiot] ruby joke, and the final outsider punchline.
+
+**Blue Witch:** kept terse and protective; retained “Ori” and “Kei-chan.”
+
+**Professor Ohinata:** kept bright, polite, and methodical; retained “Ori-san,” “Ao-san,” and “Eyeball Witch-san.”
+
+### Formatting Confirmed
+- Accuracy pass and one bounded polish pass covered both source chunks (lines 1–199 and 200–394).
+- Scene break `---`, inline image `![p018.jpg](images/p018.jpg)`, incantation readings, measurements, past-tense narration, and exact glossary terms verified.
+- One guide-compliant Reiwa footnote remained in the single final `## Translator Notes` section.
+- Three verified post-review corrections were applied without another general polish pass.
