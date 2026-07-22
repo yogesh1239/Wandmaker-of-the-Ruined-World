@@ -68,3 +68,6 @@ In spring, Hiyori rejected the Tobacco Witch's Strongest Transcendent Tournament
 
 ### Volume 2, Chapter 4 — Melt-Recast Gremlin
 After using his completed reverberatory furnace to melt and recast Gremlins, Ori found that the inert product doubled magic-power consumption but could be recolored with monster blood components. Meanwhile, charcoal-vehicle freight trains resumed on the former Marunouchi Line and fertility magic neared food self-sufficiency; seeking a way out of a wand-making slump, he received Professor Ohinata's request for a backlash-prevention magic wand.
+
+### Volume 2, Chapter 5 — Backlash-Prevention Mechanism
+Tokyo Magic University faced a fuel problem because ordinary wizards could not safely use low-cost fire magic, and Hiyori explained that backlash entered through the body part nearest the magic stone, giving Ori a handle-based route. Using melt-recast Gremlin, Ori built Cyanos prototypes that topped out at roughly 85% backlash reduction, recalled the university's general-purpose wands for refitting, and realized that a wand handle could mitigate feedback rather than merely decorate the core.

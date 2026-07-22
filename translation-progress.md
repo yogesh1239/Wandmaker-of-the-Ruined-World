@@ -29,7 +29,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 2 | 奥多摩の山奥に、ＵＭＡを見た！ | I Saw a UMA Deep in the Okutama Mountains! | updated |
 | 3 | 煙草の魔女 | The Tobacco Witch | updated |
 | 4 | 融解再凝固グレムリン | Melt-Recast Gremlin | updated |
-| 5 | 魔力逆流防止機構 | Backlash-Prevention Mechanism | not-started |
+| 5 | 魔力逆流防止機構 | Backlash-Prevention Mechanism | updated |
 | 6 | グレムリン工学教授、その経歴 | The Gremlin Engineering Professor's Career | not-started |
 | 7 | 白指たち | The White Fingers | not-started |
 | 8 | 地獄の魔女 | The Hell Witch | not-started |

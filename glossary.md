@@ -313,3 +313,18 @@
 | 汎用量産型魔法杖 | general-purpose, mass-produced magic wand | general mass-production wand | standard wand Ori produces for broad use |
 | 魔力逆流防止魔法杖 | backlash-prevention magic wand | magic-backflow-prevention wand | requested wand designed to reduce magic backlash; project-original |
 | 魔法発動媒体 | magic-activation medium | spell medium | material through which magic is activated |
+| 焔よ[ジン・ガ] | Flame[ジン・ガ] | O Flame, Fire[ジン・ガ] | fire-magic core spell; project-original |
+| 魔術師[ウイザード] | wizard[ウイザード] | mage[ウイザード] | ordinary magic-trained human; project-original |
+| 物理火 | natural fire | physical fire, mundane fire | nonmagical fire; project-original |
+| 逆流魔力 | backflowing magic power | reverse-flow magic power | magic power returning to caster; project-original |
+| 魔力抵抗 | magic resistance | mana resistance | resistance to magic-power flow; project-original |
+| 魔力抵抗素材 | magic-resistant material | mana-resistant material | impedes magic-power flow; project-original |
+| 魔力ロス | magic-power loss | mana loss | magic power lost in material; project-original |
+| 木炭貨物列車 | charcoal freight train | charcoal-powered freight train | freight train using charcoal fuel; project-original |
+| 木炭貨物車 | charcoal freight vehicle | charcoal-powered freight car | freight vehicle using charcoal fuel; project-original |
+| 水運 | water transport | waterborne transport | river or waterway freight; project-original |
+| 魔力逆流テスト | magic-backlash test | magic-backflow test | wand backlash test; project-original |
+| 魔力逆流カット率 | magic-backlash reduction rate | magic-backflow cut rate | backlash percentage reduced; project-original |
+| 魔力逆流軽減 | magic-backlash reduction | magic-backflow mitigation | reduced backflowing magic power; project-original |
+| 汎用魔法杖 | general-purpose magic wand | generic magic wand | standard broad-use wand; project-original |
+| 魔力逆流防止加工 | backlash-prevention modification | magic-backflow-prevention processing | wand modification reducing backlash; project-original |
