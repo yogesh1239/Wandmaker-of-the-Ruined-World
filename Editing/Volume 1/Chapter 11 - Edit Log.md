@@ -172,6 +172,7 @@
 - [polish] **custom design promise**: "design it however you order" → "design it to your specifications" — polish
 - [polish] **checking the nameplate**: "stretched its neck over" → "craned its neck all the way over" — polish
 - [polish] **Dragon Witch's unilateral decision**: "Satisfied with her own decision at her own pace, Dragon Witch" → "Having reached her own conclusion at her own pace, the Dragon Witch" — polish
+- [polish] **Dragon Witch's takeoff**: "grabbed me in a foreleg and took off into the sky with a rumble through the ground" → "grabbed me with one foreleg and took off, shaking the ground as she rose into the sky" — corrected the foreleg preposition and made the ground-shaking action idiomatic without changing the source meaning.
 - [polish] **takeoff**: "accelerated hard ... ground quickly got farther away" → "shot forward ... ground rapidly fell away" — polish
 - [polish] **terror in flight**: "My blood drained ... at a level of fear that made roller coasters look like nothing" → "Roller coasters had nothing on this. All the blood drained from my body" — polish
 - [polish] **Ori's aerial panic**: "Haaaah!" → "Aaaaaah!" — polish

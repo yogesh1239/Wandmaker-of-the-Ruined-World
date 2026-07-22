@@ -26,7 +26,7 @@ The Dragon Witch blinked.
 
 “Huh?”
 
-Having reached her own conclusion at her own pace, the Dragon Witch grabbed me in a foreleg and took off into the sky with a rumble through the ground.
+Having reached her own conclusion at her own pace, the Dragon Witch grabbed me with one foreleg and took off, shaking the ground as she rose into the sky.
 
 With just one flap of her wings, she shot forward, and the ground rapidly fell away.
 

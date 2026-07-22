@@ -105,15 +105,17 @@ def main():
     # 2. manifest / spine
     opf = z.read(opf_path).decode("utf-8")
     opf_dir = os.path.dirname(opf_path)
+    opf_base = (opf_dir + "/") if opf_dir else ""
     items = dict(re.findall(r'<item [^>]*id="([^"]+)"[^>]*href="([^"]+)"', opf))
     missing_href = [h for h in items.values()
-                    if (opf_dir + "/" + h).replace("\\", "/") not in nameset]
+                    if (opf_base + h).replace("\\", "/") not in nameset]
     check("2a all manifest hrefs exist", not missing_href, str(missing_href[:5]))
     spine_ids = re.findall(r'idref="([^"]+)"', opf)
     missing_spine = [s for s in spine_ids if s not in items]
     check("2b all spine idrefs in manifest", not missing_spine, str(missing_spine))
-    nav_href = re.search(r'<item [^>]*properties="[^"]*nav[^"]*"[^>]*href="([^"]+)"', opf)
-    nav_full = (opf_dir + "/" + nav_href.group(1)).replace("\\", "/") if nav_href else None
+    nav_match = re.search(r'<item\b(?=[^>]*\bproperties="[^"]*\bnav\b[^"]*")[^>]*/?>', opf)
+    nav_href = re.search(r'href="([^"]+)"', nav_match.group(0)) if nav_match else None
+    nav_full = (opf_base + nav_href.group(1)).replace("\\", "/") if nav_href else None
     check("2c nav reachable", bool(nav_full) and nav_full in nameset, str(nav_full))
     check("2d spine ltr", 'page-progression-direction="ltr"' in opf)
     check("2e dc:language present", "<dc:language>" in opf)
@@ -133,7 +135,7 @@ def main():
         for cid in chapter_ids:
             href = items.get(cid)
             if href:
-                chapter_files.append((opf_dir + "/" + href).replace("\\", "/"))
+                chapter_files.append((opf_base + href).replace("\\", "/"))
             else:
                 hits = [n for n in xhtml_dir_files if n.rsplit("/", 1)[-1] == cid + ".xhtml"]
                 chapter_files.extend(hits)
@@ -160,15 +162,27 @@ def main():
     check("4 zero macrons in chapter docs", not macron_hits, str(macron_hits))
 
     # 5. CJK in prose vs. notes
-    prose_hits, notes_hits, interpunct = {}, {}, {}
+    prose_hits, notes_hits, notation_hits, interpunct = {}, {}, {}, {}
     for n in chapter_files:
         t = read(n)
         mm = re.search(r'<section class="notes">', t)
         prose = t[:mm.start()] if mm else t
         notes = t[mm.start():] if mm else ""
-        p = [c for c in CJK.findall(prose) if c != INTERPUNCT]
+        # Bracketed magic-language readings and explicit 漢字[かな] furigana are
+        # required source-preserving notation, not untranslated prose. Report
+        # them separately and exclude them from the stray-CJK gate.
+        notation = re.findall(r'[^\s<]*[\[［][^\]］]*[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ][^\]］]*[\]］]', prose)
+        notation += re.findall(r'`[^`]*[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ][^`]*`', prose)
+        scrubbed = re.sub(r'[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ]+(?=[\[［][^\]］]*[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ])',
+                          '', prose)
+        scrubbed = re.sub(r'[\[［][^\]］]*[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ][^\]］]*[\]］]',
+                          '', scrubbed)
+        scrubbed = re.sub(r'`[^`]*[぀-ヿ㐀-䶿一-鿿ｦ-ﾟ][^`]*`', '', scrubbed)
+        p = [c for c in CJK.findall(scrubbed) if c != INTERPUNCT]
         if p:
             prose_hits[n.split("/")[-1]] = "".join(sorted(set(p)))
+        if notation:
+            notation_hits[n.split("/")[-1]] = len(notation)
         ip = prose.count(INTERPUNCT)
         if ip:
             interpunct[n.split("/")[-1]] = ip
@@ -176,6 +190,7 @@ def main():
         if nh:
             notes_hits[n.split("/")[-1]] = "".join(sorted(set(nh)))
     check("5 zero untranslated CJK in story prose", not prose_hits, str(prose_hits))
+    print("INFO source-preserved furigana/magic-language notation:", notation_hits)
     print("INFO benign '・' interpunct per chapter:", interpunct)
     print("INFO Translator's-Notes JP citations (expected, benign):", list(notes_hits.keys()))
 
@@ -209,24 +224,32 @@ def main():
     # 7. optional swapped-image dimension check
     swaps = cfg.get("image_swaps", {})
     if swaps:
-        if Image is None:
-            check("7 swapped image dims", False, "Pillow not installed")
-        else:
-            img_prefix = next((n.rsplit("/", 1)[0] + "/" for n in names
-                               if re.search(r"/(image|images)/", n) and n.endswith(".jpg")),
-                              "item/image/")
-            dims_ok, dd = True, []
-            for stem, (w, h) in swaps.items():
-                key = "%s%s.jpg" % (img_prefix, stem)
-                if key not in nameset:
-                    dims_ok = False
-                    dd.append("%s missing" % stem)
-                    continue
+        dims_ok, dd = True, []
+        identify = shutil.which("identify")
+        for stem, (w, h) in swaps.items():
+            hits = [n for n in names if os.path.splitext(os.path.basename(n))[0] == stem
+                    and n.lower().endswith((".jpg", ".jpeg", ".png", ".gif", ".webp"))]
+            key = hits[0] if len(hits) == 1 else None
+            if key not in nameset:
+                dims_ok = False
+                dd.append("%s missing" % stem)
+                continue
+            if Image is not None:
                 im = Image.open(io.BytesIO(z.read(key)))
-                if im.size != (w, h):
-                    dims_ok = False
-                    dd.append("%s=%s want %s" % (stem, im.size, (w, h)))
-            check("7 swapped images at configured dims", dims_ok, "; ".join(dd))
+                got = im.size
+            elif identify:
+                run = subprocess.run([identify, "-format", "%wx%h", "-"],
+                                     input=z.read(key), capture_output=True)
+                try:
+                    got = tuple(int(x) for x in run.stdout.decode().split("x"))
+                except (ValueError, UnicodeDecodeError):
+                    got = None
+            else:
+                got = None
+            if got != (w, h):
+                dims_ok = False
+                dd.append("%s=%s want %s" % (stem, got, (w, h)))
+        check("7 swapped images at configured dims", dims_ok, "; ".join(dd))
 
     # 8. epubcheck if available
     ec = shutil.which("epubcheck")

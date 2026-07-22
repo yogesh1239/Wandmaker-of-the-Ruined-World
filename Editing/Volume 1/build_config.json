@@ -1,0 +1,184 @@
+{
+  "source_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/崩壊世界の魔法杖職人１ - 黒留 ハガネ.epub",
+  "chapters_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 1",
+  "out_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Wand Maker of the Ruined World v01 (EN).epub",
+  "localized_images_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 1/localized-images",
+  "src_xhtml_prefix": "OEBPS/",
+  "src_image_prefix": "",
+  "src_style_prefix": "",
+  "opf_path": "content.opf",
+  "img_href_base": "",
+  "css_links": [
+    "../stylesheet.css",
+    "../page_styles.css",
+    "../english.css"
+  ],
+  "metadata": {
+    "title": "Wand Maker of the Ruined World, Vol. 1",
+    "file_as": "Wand Maker of the Ruined World 1",
+    "language": "en",
+    "identifier": "urn:uuid:4ec87dc9-060d-4e38-bb8d-d2ef5e94b495",
+    "modified": "2026-07-22T00:00:00Z",
+    "cover_image_id": "cover",
+    "creators": [
+      {
+        "name": "Kurodome Hagane",
+        "role": "aut"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "md": "Chapter 1 - And Then Civilization Fell.md",
+      "title": "And Then Civilization Fell"
+    },
+    {
+      "id": "chapter-2",
+      "md": "Chapter 2 - Survival, with a Side of Magic.md",
+      "title": "Survival, with a Side of Magic"
+    },
+    {
+      "id": "chapter-3",
+      "md": "Chapter 3 - The Blue Witch.md",
+      "title": "The Blue Witch"
+    },
+    {
+      "id": "chapter-4",
+      "md": "Chapter 4 - Overtechnology.md",
+      "title": "Overtechnology"
+    },
+    {
+      "id": "chapter-5",
+      "md": "Chapter 5 - Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos.md",
+      "title": "Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos"
+    },
+    {
+      "id": "chapter-6",
+      "md": "Chapter 6 - Life with a Witch.md",
+      "title": "Life with a Witch"
+    },
+    {
+      "id": "chapter-7",
+      "md": "Chapter 7 - Tokyo Witches' Council.md",
+      "title": "Tokyo Witches' Council"
+    },
+    {
+      "id": "chapter-8",
+      "md": "Chapter 8 - Magic Linguistics.md",
+      "title": "Magic Linguistics"
+    },
+    {
+      "id": "chapter-9",
+      "md": "Chapter 9 - Tokyo Magic University.md",
+      "title": "Tokyo Magic University"
+    },
+    {
+      "id": "chapter-10",
+      "md": "Chapter 10 - Magic-Excitation Acoustic Appraisal.md",
+      "title": "Magic-Excitation Acoustic Appraisal"
+    },
+    {
+      "id": "chapter-11",
+      "md": "Chapter 11 - The Dragon Witch.md",
+      "title": "The Dragon Witch"
+    },
+    {
+      "id": "chapter-12",
+      "md": "Chapter 12 - Side Story - Pet Loss.md",
+      "title": "Side Story - Pet Loss"
+    },
+    {
+      "id": "chapter-13",
+      "md": "Chapter 13 - Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files.md",
+      "title": "Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files",
+      "truncate_after_image": "image_rsrc51V.jpg"
+    },
+    {
+      "id": "chapter-14",
+      "md": "Chapter 14 - Ebook Bonus Original Short Story - Crystal Rain.md",
+      "title": "Ebook Bonus Original Short Story - Crystal Rain"
+    }
+  ],
+  "toc": [
+    {"label": "Cover", "href": "titlepage.xhtml"},
+    {"label": "Contents", "href": "OEBPS/c2B.xhtml"},
+    {"label": "And Then Civilization Fell", "href": "OEBPS/chapter-1.xhtml"},
+    {"label": "Survival, with a Side of Magic", "href": "OEBPS/chapter-2.xhtml"},
+    {"label": "The Blue Witch", "href": "OEBPS/chapter-3.xhtml"},
+    {"label": "Overtechnology", "href": "OEBPS/chapter-4.xhtml"},
+    {"label": "Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos", "href": "OEBPS/chapter-5.xhtml"},
+    {"label": "Life with a Witch", "href": "OEBPS/chapter-6.xhtml"},
+    {"label": "Tokyo Witches' Council", "href": "OEBPS/chapter-7.xhtml"},
+    {"label": "Magic Linguistics", "href": "OEBPS/chapter-8.xhtml"},
+    {"label": "Tokyo Magic University", "href": "OEBPS/chapter-9.xhtml"},
+    {"label": "Magic-Excitation Acoustic Appraisal", "href": "OEBPS/chapter-10.xhtml"},
+    {"label": "The Dragon Witch", "href": "OEBPS/chapter-11.xhtml"},
+    {"label": "Side Story - Pet Loss", "href": "OEBPS/chapter-12.xhtml"},
+    {"label": "Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files", "href": "OEBPS/chapter-13.xhtml"},
+    {"label": "Ebook Bonus Original Short Story - Crystal Rain", "href": "OEBPS/chapter-14.xhtml"},
+    {"label": "Colophon", "href": "OEBPS/c4WM.xhtml"}
+  ],
+  "front_matter": [
+    {"id": "front-cover", "source": "titlepage.xhtml", "href": "titlepage.xhtml"},
+    {"id": "front-title", "source": "OEBPS/c9.xhtml", "href": "OEBPS/c9.xhtml"},
+    {"id": "front-color-1", "source": "OEBPS/cM.xhtml", "href": "OEBPS/cM.xhtml"},
+    {"id": "front-color-2", "source": "OEBPS/cX.xhtml", "href": "OEBPS/cX.xhtml"},
+    {"id": "front-color-3", "source": "OEBPS/c16.xhtml", "href": "OEBPS/c16.xhtml"},
+    {"id": "front-decorative", "source": "OEBPS/c1F.xhtml", "href": "OEBPS/c1F.xhtml"},
+    {"id": "front-monochrome", "source": "OEBPS/c1S.xhtml", "href": "OEBPS/c1S.xhtml"},
+    {"id": "front-caution", "source": "OEBPS/c21.xhtml", "href": "OEBPS/c21.xhtml"},
+    {"id": "front-contents", "source": "OEBPS/c2B.xhtml", "href": "OEBPS/c2B.xhtml"}
+  ],
+  "caution_page_id": "front-caution",
+  "back_matter": [
+    {"id": "back-colophon-1", "source": "OEBPS/c4WM.xhtml", "href": "OEBPS/c4WM.xhtml"},
+    {"id": "back-colophon-2", "source": "OEBPS/c4XR.xhtml", "href": "OEBPS/c4XR.xhtml"},
+    {"id": "back-logo", "source": "OEBPS/c4Y6.xhtml", "href": "OEBPS/c4Y6.xhtml"}
+  ],
+  "image_swaps": {
+    "cover": [1350, 1920],
+    "image_rsrc4ZW": [1350, 1920],
+    "image_rsrc4ZX": [1920, 1381],
+    "image_rsrc4ZY": [1920, 1381],
+    "image_rsrc4ZZ": [1920, 1381],
+    "image_rsrc500": [1350, 1920],
+    "image_rsrc501": [1350, 1920],
+    "image_rsrc502": [1350, 1920],
+    "image_rsrc50S": [1350, 1920],
+    "image_rsrc50T": [1350, 1920],
+    "image_rsrc50U": [1350, 1920],
+    "image_rsrc50V": [1350, 1920],
+    "image_rsrc50W": [1350, 1920],
+    "image_rsrc50X": [1350, 1920],
+    "image_rsrc50Y": [1350, 1920],
+    "image_rsrc50Z": [1350, 1920],
+    "image_rsrc510": [1350, 1920],
+    "image_rsrc511": [1350, 1920],
+    "image_rsrc512": [1350, 1920],
+    "image_rsrc513": [1350, 1920],
+    "image_rsrc514": [1350, 1920],
+    "image_rsrc515": [1350, 1920],
+    "image_rsrc516": [1350, 1920],
+    "image_rsrc517": [1350, 1920],
+    "image_rsrc518": [1350, 1920],
+    "image_rsrc519": [1350, 1920],
+    "image_rsrc51A": [1350, 1920],
+    "image_rsrc51B": [1350, 1920],
+    "image_rsrc51C": [1350, 1920],
+    "image_rsrc51D": [1350, 1920],
+    "image_rsrc51E": [1350, 1920],
+    "image_rsrc51F": [1350, 1920],
+    "image_rsrc51G": [1350, 1920],
+    "image_rsrc51H": [1350, 1920],
+    "image_rsrc51J": [1350, 1920],
+    "image_rsrc51K": [1350, 1920],
+    "image_rsrc51M": [1350, 1920],
+    "image_rsrc51N": [1350, 1920],
+    "image_rsrc51P": [1350, 1920],
+    "image_rsrc51R": [1350, 1920],
+    "image_rsrc51S": [1350, 1920],
+    "image_rsrc51T": [1350, 1920],
+    "image_rsrc51V": [1920, 1365]
+  }
+}

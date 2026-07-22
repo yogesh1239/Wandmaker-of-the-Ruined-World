@@ -81,6 +81,9 @@ import json
 import uuid
 import zipfile
 import argparse
+import shutil
+import subprocess
+import tempfile
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -156,9 +159,11 @@ def apply_fnrefs(text, ch_id):
     return FNREF_RE.sub(repl, text)
 
 
-def ornament(img_href_base):
-    return ('<p class="gap-mark"><img class="ornament" src="%su273f.png" alt="*"/></p>'
-            % img_href_base)
+def ornament(img_href_base, filename=None):
+    if filename:
+        return ('<p class="gap-mark"><img class="ornament" src="%s%s" alt="*"/></p>'
+                % (img_href_base, html.escape(filename)))
+    return '<p class="gap-mark">* * *</p>'
 
 
 def build_chapter(ch, md_path, cfg):
@@ -167,7 +172,8 @@ def build_chapter(ch, md_path, cfg):
     title = ch["title"]
     img_base = cfg["img_href_base"]
     drop = set(ch.get("drop_images", []))
-    orn = ornament(img_base)
+    truncate_after_image = ch.get("truncate_after_image")
+    orn = ornament(img_base, cfg.get("ornament_image"))
 
     raw = open(md_path, encoding="utf-8").read()
     body_md, notes_md = raw, ""
@@ -206,6 +212,8 @@ def build_chapter(ch, md_path, cfg):
                 continue
             out.append('<div class="illust"><img src="%s%s" alt=""/></div>'
                        % (img_base, html.escape(fn)))
+            if fn == truncate_after_image:
+                break
             continue
         if s == "---":
             flush()
@@ -280,9 +288,12 @@ def build(cfg, out_override=None):
     names = set(z.namelist())
 
     detected = detect_prefixes(names)
-    xhtml_prefix = cfg.get("src_xhtml_prefix") or detected["xhtml"] or "item/xhtml/"
-    image_prefix = cfg.get("src_image_prefix") or detected["image"] or "item/image/"
-    style_prefix = cfg.get("src_style_prefix") or detected["style"] or "item/style/"
+    xhtml_prefix = (cfg["src_xhtml_prefix"] if "src_xhtml_prefix" in cfg
+                    else (detected["xhtml"] or "item/xhtml/"))
+    image_prefix = (cfg["src_image_prefix"] if "src_image_prefix" in cfg
+                    else (detected["image"] or "item/image/"))
+    style_prefix = (cfg["src_style_prefix"] if "src_style_prefix" in cfg
+                    else (detected["style"] or "item/style/"))
     cfg.setdefault("img_href_base", "../image/")
     cfg.setdefault("css_links", ["../style/english.css"])
 
@@ -304,9 +315,13 @@ def build(cfg, out_override=None):
         chapter_notes[ch["id"]] = note_ids
 
     # --- keep a source page verbatim, inject english.css ---
-    def keep(pid):
-        t = z.read("%s%s.xhtml" % (xhtml_prefix, pid)).decode("utf-8")
-        link = '<link rel="stylesheet" type="text/css" href="../style/english.css"/>'
+    english_css_path = "%senglish.css" % style_prefix
+
+    def keep(source_path):
+        t = z.read(source_path).decode("utf-8")
+        css_href = os.path.relpath(english_css_path, os.path.dirname(source_path) or ".")
+        css_href = css_href.replace("\\", "/")
+        link = '<link rel="stylesheet" type="text/css" href="%s"/>' % css_href
         if link not in t and "</head>" in t:
             i = t.find("</head>")
             t = t[:i] + link + "\n" + t[i:]
@@ -319,20 +334,23 @@ def build(cfg, out_override=None):
     spine = []
     rel_xhtml = xhtml_prefix[len(item_root):] if xhtml_prefix.startswith(item_root) else "xhtml/"
 
-    def add_page(pid):
-        href = "%s%s.xhtml" % (rel_xhtml, pid)
+    def add_page(page):
+        pid = page["id"]
+        source_path = page.get("source", "%s%s.xhtml" % (xhtml_prefix, pid))
+        href = page.get("href", source_path[len(item_root):]
+                        if source_path.startswith(item_root) else source_path)
         if pid == caution_id and caution_doc:
             spine.append((pid, href, caution_doc))
         else:
-            spine.append((pid, href, keep(pid)))
+            spine.append((pid, href, keep(source_path)))
 
     for fm in cfg.get("front_matter", []):
-        add_page(fm["id"])
+        add_page(fm)
     for ch in cfg["chapters"]:
         href = "%s%s.xhtml" % (rel_xhtml, ch["id"])
         spine.append((ch["id"], href, chapter_docs[ch["id"]]))
     for bm in cfg.get("back_matter", []):
-        add_page(bm["id"])
+        add_page(bm)
 
     # --- manifest ---
     manifest = ['<item media-type="application/xhtml+xml" id="toc" '
@@ -349,14 +367,19 @@ def build(cfg, out_override=None):
                     % rel_style)
 
     rel_image = image_prefix[len(item_root):] if image_prefix.startswith(item_root) else "image/"
-    img_files = sorted(n.split("/")[-1] for n in names
-                       if n.startswith(image_prefix) and not n.endswith("/"))
+    image_exts = (".jpg", ".jpeg", ".png", ".gif", ".webp")
+    img_files = sorted(n for n in names
+                       if n.startswith(image_prefix) and n.lower().endswith(image_exts))
     for f in img_files:
-        iid = f.rsplit(".", 1)[0]
-        mt = "image/png" if f.lower().endswith(".png") else "image/jpeg"
+        base = os.path.basename(f)
+        iid = base.rsplit(".", 1)[0]
+        href = f[len(item_root):] if f.startswith(item_root) else f
+        ext = f.lower().rsplit(".", 1)[-1]
+        mt = {"png": "image/png", "gif": "image/gif", "webp": "image/webp"}.get(
+            ext, "image/jpeg")
         extra = ' properties="cover-image"' if iid == cover_id else ""
         manifest.append('<item media-type="%s" id="img-%s" href="%s%s"%s/>'
-                        % (mt, iid, rel_image, f, extra))
+                        % (mt, iid, "", href, extra))
 
     for idref, href, _ in spine:
         manifest.append('<item media-type="application/xhtml+xml" id="%s" href="%s"/>'
@@ -427,30 +450,60 @@ def build(cfg, out_override=None):
     ) % (html.escape(md["title"]), toc_li, first_href)
 
     # --- images (with swaps) ---
-    image_bytes = {}
-    for n in names:
-        if n.startswith(image_prefix) and not n.endswith("/"):
-            image_bytes[n] = z.read(n)
+    image_bytes = {n: z.read(n) for n in img_files}
 
     swaps = cfg.get("image_swaps", {})
     if swaps:
-        if Image is None:
-            raise SystemExit("ERROR: Pillow is required for image_swaps. pip install Pillow")
         loc_dir = cfg.get("localized_images_dir")
         if not loc_dir:
             raise SystemExit("ERROR: image_swaps set but localized_images_dir missing in config")
         for stem, dims in swaps.items():
             w, h = dims
-            png = os.path.join(loc_dir, stem + ".png")
-            im = Image.open(png).convert("RGB").resize((w, h), Image.LANCZOS)
-            buf = io.BytesIO()
-            im.save(buf, "JPEG", quality=92)
-            image_bytes["%s%s.jpg" % (image_prefix, stem)] = buf.getvalue()
+            candidates = [os.path.join(loc_dir, stem + ext)
+                          for ext in (".png", ".jpg", ".jpeg")]
+            localized = next((p for p in candidates if os.path.isfile(p)), None)
+            if not localized:
+                raise SystemExit("ERROR: localized image not found for swap %s" % stem)
+            targets = [n for n in img_files
+                       if os.path.splitext(os.path.basename(n))[0] == stem]
+            if len(targets) != 1:
+                raise SystemExit("ERROR: image swap %s matched %d source assets: %r"
+                                 % (stem, len(targets), targets))
+            target = targets[0]
+            target_ext = os.path.splitext(target)[1].lower()
+            if Image is not None:
+                im = Image.open(localized).convert("RGB").resize((w, h), Image.LANCZOS)
+                buf = io.BytesIO()
+                im.save(buf, "JPEG" if target_ext in (".jpg", ".jpeg") else "PNG",
+                        quality=92)
+                image_bytes[target] = buf.getvalue()
+            else:
+                convert = shutil.which("convert") or shutil.which("magick")
+                if not convert:
+                    raise SystemExit("ERROR: image swaps require Pillow or ImageMagick")
+                suffix = ".jpg" if target_ext in (".jpg", ".jpeg") else ".png"
+                tmp = tempfile.NamedTemporaryFile(suffix=suffix, delete=False)
+                tmp.close()
+                try:
+                    cmd = [convert, localized, "-filter", "Lanczos", "-resize",
+                           "%dx%d!" % (w, h)]
+                    if suffix == ".jpg":
+                        cmd += ["-quality", "92"]
+                    cmd.append(tmp.name)
+                    run = subprocess.run(cmd, capture_output=True)
+                    if run.returncode:
+                        raise SystemExit("ERROR: ImageMagick swap failed for %s: %s"
+                                         % (stem, run.stderr.decode("utf-8", "replace")))
+                    with open(tmp.name, "rb") as f:
+                        image_bytes[target] = f.read()
+                finally:
+                    if os.path.exists(tmp.name):
+                        os.remove(tmp.name)
 
     # --- styles ---
     style_bytes = {}
     for n in names:
-        if n.startswith(style_prefix) and not n.endswith("/"):
+        if n.startswith(style_prefix) and n.lower().endswith(".css"):
             style_bytes[n] = z.read(n)
     style_bytes["%senglish.css" % style_prefix] = ENGLISH_CSS.encode("utf-8")
 
