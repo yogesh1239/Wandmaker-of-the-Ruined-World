@@ -47,3 +47,6 @@ Correspondence with Professor Ohinata brought Ori city research news as the fert
 
 ### Volume 1, Chapter 11 — The Dragon Witch
 Kei’s letter distinguished magical death from brain death and cardiac arrest and used Ao-san, while Ori’s harvest was interrupted when the Dragon Witch kidnapped him to work in her nest. Hiyori rescued him, called him a friend, and—after Zaizen and the territory’s residents pleaded for the Dragon Witch—spared her life but tore off a leg; the Chapter 2 schoolgirl was revealed safely employed on the Food Team.
+
+### Volume 1, Chapter 12 — Side Story - Pet Loss
+In a side story set when Kei was twelve, she persuaded Ao-san to trade excess preserved food for Council-guaranteed farmland and asked her to identify a stalker who followed only Kei’s stoat form. The stalker proved to be grieving his ferret Fu-chan; absolute pitch and unusually high magic power let him immediately use Kei’s unstable stoat-transformation magic, giving him a strange outlet for his loss.

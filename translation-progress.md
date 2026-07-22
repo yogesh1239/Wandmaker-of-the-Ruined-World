@@ -18,6 +18,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 9 | 東京魔法大学 | Tokyo Magic University | updated |
 | 10 | 励起魔力感応吸音鑑定法 | Magic-Excitation Acoustic Appraisal | updated |
 | 11 | 竜の魔女 | The Dragon Witch | updated |
+| 12 | 番外編　ペットロス | Side Story - Pet Loss | updated |
 
 ## Known issues / decisions
 - None.

@@ -87,6 +87,11 @@
 | 詠唱 | incantation | chant, spell chant | spoken spell text |
 | 改造呪文 | modified spell | altered spell | experimentally restructured incantation |
 | 改造詠唱 | modified incantation | altered incantation | experimentally restructured incantation |
+| 焔魔法 | fire magic | flame magic | fire spell school originating with the Flame Witch |
+| 焔魔法基幹呪文 | fire-magic core spell | flame-magic core spell | basic spell of the fire-magic school |
+| 変身魔法 | transformation magic | shapeshifting magic | magic that transforms the caster's body |
+| オコジョ変身魔法 | stoat-transformation magic | stoat transformation spell | unstable self-only transformation magic used by Ohinata Kei |
+| 裏を渡り、蔡を吐けば、窮鼠も白獣 | Cross the underside, spit out the divination tortoise, and even a cornered rat becomes a white beast |  | stoat-transformation incantation; `蔡` has multiple dictionary senses, so this rendering is provisional |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
 | 射撃魔法 | shooting magic | projectile magic | basic ranged magic school |
 | 撃て[ア゙ー] | Fire[ア゙ー] | Fire[ー], Shoot[ー] | shooting-magic core spell; the reading begins with katakana `ア` plus dakuten |
@@ -131,6 +136,7 @@
 | 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis wand for Flame Witch |
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
+| ペットロス | pet loss | pet-loss grief | grief caused by the death of a pet / title-map term |
 | エーテル溶媒 | ether solvent | aether solvent | experimental Gremlin-processing liquid |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |
 | シャンタク座流星群 | Shantak Meteor Shower | Shantakid Meteor Shower | meteor shower that brought magic stones |
@@ -167,6 +173,8 @@
 | 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Ohinata Kei's safety-lock wand |
 | アレイスター | Aleister | Alastair | shortened wand name |
 | アレイスター・クロウリー | Aleister Crowley |  | twentieth-century occultist referenced in naming Aleister |
+| ふーちゃん | Fu-chan | Fuu-chan | deceased pet ferret mourned by the unnamed stalker |
+| ふーちゃんさん | Fu-chan-san | Fuu-chan-san | Ohinata Kei's respectful address for Fu-chan |
 | メビウス連環錫杖ハリティ | Moebius-linked khakkhara Hariti |  | Hell Witch's seven-loop magic-stone staff |
 | ハリティ | Hariti |  | shortened staff name |
 | ブラッドムーン | Blood Moon | Bloodmoon | blood magic stone once held by Bloodsucking Mage |
@@ -227,3 +235,4 @@
 | 荒川区 | Arakawa Ward | Arakawa-ku | Flower Witch's domain |
 | ケモナー | furry | animal-person fan | person attracted to anthropomorphic animal traits |
 | ヒトナー | human-lover | human fan | Ori's joking inverse of `furry` |
+| 絶対音感 | absolute pitch | perfect pitch | ability to identify or reproduce a pitch without a reference tone |
