@@ -185,6 +185,12 @@
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
+| キャラクター紹介 | Character Profiles | Character Introductions | booklet section heading |
+| 作品設定 | Setting Notes | Work Setting | booklet section heading |
+| １巻時点での年表 | Timeline as of Volume 1 | Volume 1 Timeline | booklet section heading |
+| １巻の各話解説 | Volume 1 Chapter Commentary | Volume 1 Chapter Explanations | booklet section heading |
+| 東京都内状況 | Current Situation in Tokyo | Tokyo Status | booklet section heading |
+| ショートストーリー | Short Stories | Short Story | booklet section heading |
 | 回収班 | Recovery Team | Retrieval Team, Salvage Team, recovery squad | team recovering precious metals, gems, and sometimes medicine from ruins |
 | 鯨の解体班 | Whale Butchering Team | Whale Dismantling Team, whale-processing squad | local team processing whale meat, oil, and bone |
 | 食料班 | Food Team | food squad | local team responsible for food distribution |

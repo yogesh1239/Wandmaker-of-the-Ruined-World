@@ -19,6 +19,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 10 | 励起魔力感応吸音鑑定法 | Magic-Excitation Acoustic Appraisal | updated |
 | 11 | 竜の魔女 | The Dragon Witch | updated |
 | 12 | 番外編　ペットロス | Side Story - Pet Loss | updated |
+| 13 | 崩壊世界の魔法杖職人 １ 特装版小冊子　極秘資料 | Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files | updated |
 
 ## Known issues / decisions
 - None.

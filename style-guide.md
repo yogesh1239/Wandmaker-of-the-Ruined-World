@@ -50,3 +50,6 @@ Kei’s letter distinguished magical death from brain death and cardiac arrest a
 
 ### Volume 1, Chapter 12 — Side Story - Pet Loss
 In a side story set when Kei was twelve, she persuaded Ao-san to trade excess preserved food for Council-guaranteed farmland and asked her to identify a stalker who followed only Kei’s stoat form. The stalker proved to be grieving his ferret Fu-chan; absolute pitch and unusually high magic power let him immediately use Kei’s unstable stoat-transformation magic, giving him a strange outlet for his loss.
+
+### Volume 1, Chapter 13 — Wand Maker of the Ruined World 1 Special Edition Booklet - Top Secret Files
+The configured artifact was the special-edition dossier booklet, with character, wand, setting, timeline, chapter-commentary, Tokyo-status, and short-story image sections. Image-text localization remained an EPUB-build concern. The Japanese legal colophon remained preserved.
