@@ -65,3 +65,6 @@ With his rice harvest doubled by fertility magic and Hiyori's supplies, Ori prep
 
 ### Volume 2, Chapter 3 — The Tobacco Witch
 In spring, Hiyori rejected the Tobacco Witch's Strongest Transcendent Tournament, which Foresight opposed and which was delayed for ten years, while she and Ori began building a reverberatory furnace from handmade firebrick. By the rainy season they had reached its halfway point, and the Tobacco Witch's proposed Strongest Mahjong[マージヤン] Tournament highlighted her persistent morale-building ventures and hatred of gloom.
+
+### Volume 2, Chapter 4 — Melt-Recast Gremlin
+After using his completed reverberatory furnace to melt and recast Gremlins, Ori found that the inert product doubled magic-power consumption but could be recolored with monster blood components. Meanwhile, charcoal-vehicle freight trains resumed on the former Marunouchi Line and fertility magic neared food self-sufficiency; seeking a way out of a wand-making slump, he received Professor Ohinata's request for a backlash-prevention magic wand.

@@ -133,7 +133,7 @@
 | 目玉[クンヌム] | Eyeball[クンヌム] | Eye[クンヌム] | eyeball-familiar core word; project-original |
 | 魔法系統カスタマイズ | magic-school customization | magic-system customization | wand tuning for one spell school |
 | 魔力逆流防止機構 | backlash-prevention mechanism | magic-backflow prevention mechanism | wand mechanism reducing magic backlash |
-| 融解再凝固グレムリン | melt-recast Gremlin | remelted Gremlin | inert Gremlin material used for magic resistance |
+| 融解再凝固グレムリン | melt-recast Gremlin | remelted Gremlin, melted-and-resolidified Gremlin | inert Gremlin material used for magic resistance |
 | 正十二面体フラクタル | dodecahedral fractal | twelve-sided fractal | safety-lock Gremlin structure |
 | 発動待機状態 | activation-standby state | activation waiting state, armed state | first-incantation state before spell activation |
 | メビウスの輪 | Moebius ring | Mobius ring | stable loop-shaped Gremlin structure |
@@ -298,3 +298,18 @@
 | 麻雀[マージヤン] | mahjong[マージヤン] |  | game name with source reading preserved |
 | 麻雀 | mahjong |  | Japanese tile game |
 | 過剰性能[オーバースペツク] | overpowered[オーバースペツク] | overspecced, over-specced | Hiyori's description of Cyanos's excessive capability |
+| 材料工学 | materials science | materials engineering | study of material properties and processing |
+| 魔法火 | magical fire | magic fire | fire produced by magic |
+| 自然火 | natural fire | mundane fire, physical fire | nonmagical fire |
+| グレムリン融解合成実験 | Gremlin melt-synthesis experiment | Gremlin fusion experiment | early attempt to combine Gremlins through melting; project-original |
+| グレムリン融解染色実験 | Gremlin melt-dyeing experiment | Gremlin coloring experiment | Ori's experiment coloring molten Gremlins; project-original |
+| 登り窯 | climbing kiln | ascending kiln | high-temperature multichamber kiln built on a slope |
+| 坩堝 | crucible | melting pot | heat-resistant vessel for melting materials |
+| 金属化合物 | metal compound | metallic compound | compound containing a metal element |
+| 非金属化合物 | nonmetal compound | non-metal compound | compound without a metal element |
+| 基礎研究 | basic research | fundamental research | research pursued without immediate practical application |
+| 血中成分 | blood component | blood constituent | substance present in blood |
+| 木炭自動車 | charcoal-powered vehicle | charcoal car | vehicle powered by charcoal-derived gas |
+| 汎用量産型魔法杖 | general-purpose, mass-produced magic wand | general mass-production wand | standard wand Ori produces for broad use |
+| 魔力逆流防止魔法杖 | backlash-prevention magic wand | magic-backflow-prevention wand | requested wand designed to reduce magic backlash; project-original |
+| 魔法発動媒体 | magic-activation medium | spell medium | material through which magic is activated |
