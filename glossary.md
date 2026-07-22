@@ -281,3 +281,20 @@
 | 相利共生 | mutualism | mutual symbiosis | symbiosis benefiting both species |
 | 片利共生 | commensalism | commensal symbiosis | symbiosis benefiting one species without affecting the other |
 | 寄生 | parasitism | parasitic symbiosis | relationship benefiting one species while harming the other |
+| 瑞穂[みずほ]町 | Mizuho Town | Mizuho | town governed by Tobacco Witch; project-original |
+| 横田基地 | Yokota Air Base | Yokota Base | air base whose runway became Tobacco Witch's horse pasture |
+| 三鷹[みたか] | Mitaka | Mitaka City | shorthand for a Transcendent tournament entrant; project-original |
+| 超越者最強決定戦 | Strongest Transcendent Tournament | Strongest Transcendent Championship | Tobacco Witch's proposed combat tournament; project-original |
+| 麻雀[マージヤン]最強決定戦 | Strongest Mahjong[マージヤン] Tournament | Strongest Mahjong Championship | Tobacco Witch's proposed mahjong tournament; project-original |
+| 反射炉 | reverberatory furnace | reflecting furnace | high-temperature furnace Ori builds for metal and Gremlin work |
+| 耐火煉瓦 | firebrick | refractory brick, fire brick | heat-resistant brick used to build the reverberatory furnace |
+| シャモット | chamotte | grog | crushed fired clay used in firebrick |
+| 耐火粘土 | fire clay | refractory clay | heat-resistant clay fired to produce chamotte |
+| 焼成 | firing | baking, calcination | high-temperature processing of clay |
+| 国立国会図書館 | National Diet Library | National Congressional Library | Japan's national library |
+| 入間クーデター | Iruma coup | Iruma Coup | past uprising led by Iruma Mage; project-original |
+| 東京競馬場 | Tokyo Racecourse | Tokyo Racetrack | racecourse where Tobacco Witch rescued horses |
+| 純米大吟醸 | junmai daiginjo | pure-rice daiginjo | premium sake grade |
+| 麻雀[マージヤン] | mahjong[マージヤン] |  | game name with source reading preserved |
+| 麻雀 | mahjong |  | Japanese tile game |
+| 過剰性能[オーバースペツク] | overpowered[オーバースペツク] | overspecced, over-specced | Hiyori's description of Cyanos's excessive capability |

@@ -62,3 +62,6 @@ After Hiyori rescued Ori from the Dragon Witch, they explicitly accepted their f
 
 ### Volume 2, Chapter 2 — I Saw a UMA Deep in the Okutama Mountains!
 With his rice harvest doubled by fertility magic and Hiyori's supplies, Ori prepared to winter in Okutama with a year's food and spent their first leisurely day together as friends. They learned that monster materials rapidly deteriorated except for Gremlins, which Ori could turn into wands, then found a mutated Japanese macaque rejected by its troop and a white wolf defending it; Hiyori called the pair friends while Ori insisted on a more complicated symbiosis theory.
+
+### Volume 2, Chapter 3 — The Tobacco Witch
+In spring, Hiyori rejected the Tobacco Witch's Strongest Transcendent Tournament, which Foresight opposed and which was delayed for ten years, while she and Ori began building a reverberatory furnace from handmade firebrick. By the rainy season they had reached its halfway point, and the Tobacco Witch's proposed Strongest Mahjong[マージヤン] Tournament highlighted her persistent morale-building ventures and hatred of gloom.
