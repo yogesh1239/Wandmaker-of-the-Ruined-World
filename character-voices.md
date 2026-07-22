@@ -94,6 +94,15 @@
   - 「まあ、住めば都と言いますし」 → "Well, as they say, home is where you make it." (*Vol. 1, “The Dragon Witch”*)
   - 「大利さんも何かありましたら、まず私に話を通して下さい。竜の魔女様は……ちょっとアレなので」 → "Ori-san, if anything comes up, please speak to me first. Dragon Witch-sama is... a little difficult." (*Vol. 1, “The Dragon Witch”*)
 
+## Food Team girl (project-original label)
+- **Pronoun:** 私 (*watashi*) — young, timid self-reference.
+- **Register:** hesitant but polite.
+- **Address / honorifics:** “Ori-san”; “Zaizen-san.”
+- **Tics / particles:** “um,” stammers, repetition, and earnest thanks.
+- **Samples:**
+  - 「あ、ありがとう……」 → “Um, thank you...” (*Vol. 1, “Survival, with a Side of Magic”*)
+  - 「私に、私に、盗まないで生きてくやり方を教えてくれてありがとう……！」 → “Thank you for teaching me—teaching me how to live without stealing...!” (*Vol. 1, “The Dragon Witch”*)
+
 ### Distinguishing markers
 | Speaker | Fastest English tells |
 |-|-|

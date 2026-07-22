@@ -44,3 +44,6 @@ Foresight, an exhausted former office worker, learned that the completed fertili
 
 ### Volume 1, Chapter 10 — Magic-Excitation Acoustic Appraisal
 Correspondence with Professor Ohinata brought Ori city research news as the fertility-magic bypass incantation freed capacity for Tokyo Magic University, but he refused its magic-wand processing studies post to work alone. With Hiyori's help, he found impurities and uneven coloration caused about a 5% amplification-ratio gap, then proved magic-excitation acoustic appraisal in a blind test through activation-induced sound absorption and fingertip vibration. Hiyori gave him six carry cases of Gremlins, taking on material support for his work.
+
+### Volume 1, Chapter 11 — The Dragon Witch
+Kei’s letter distinguished magical death from brain death and cardiac arrest and used Ao-san, while Ori’s harvest was interrupted when the Dragon Witch kidnapped him to work in her nest. Hiyori rescued him, called him a friend, and—after Zaizen and the territory’s residents pleaded for the Dragon Witch—spared her life but tore off a leg; the Chapter 2 schoolgirl was revealed safely employed on the Food Team.

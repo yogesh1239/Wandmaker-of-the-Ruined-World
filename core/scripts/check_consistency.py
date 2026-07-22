@@ -69,9 +69,14 @@ def check_file(path, entries, violations):
         lines = f.readlines()
 
     known_terms = set()
+    allowed_honorifics = {}
     for e in entries:
         known_terms.add(e["en"])
         known_terms.update(e["aliases"])
+        split = honorific_split(e["en"])
+        if split:
+            base, honorific = split
+            allowed_honorifics.setdefault(base, set()).add(honorific)
 
     for lineno, line in enumerate(lines, start=1):
         # (1) banned-alias hit: case-insensitive whole-word/phrase match.
@@ -111,18 +116,18 @@ def check_file(path, entries, violations):
                     )
                     break
 
-        # (3) honorific mismatch: glossary "Base-honorific" vs "Base-<other honorific>" in text.
-        for e in entries:
-            split = honorific_split(e["en"])
-            if not split:
-                continue
-            base, honorific = split
+        # (3) honorific mismatch: text uses an honorific not allowed for that glossary base.
+        for base, honorifics in allowed_honorifics.items():
             pattern = r"\b%s-(%s)\b" % (re.escape(base), "|".join(HONORIFICS))
             for m in re.finditer(pattern, line):
-                if m.group(1) != honorific:
+                if m.group(1) not in honorifics:
+                    allowed = ", ".join(
+                        repr("%s-%s" % (base, honorific))
+                        for honorific in sorted(honorifics)
+                    )
                     violations.append(
-                        "%s:%d: honorific mismatch %r (glossary specifies %r)"
-                        % (path, lineno, m.group(0), e["en"])
+                        "%s:%d: honorific mismatch %r (glossary allows %s)"
+                        % (path, lineno, m.group(0), allowed)
                     )
 
         # (4) macron characters.

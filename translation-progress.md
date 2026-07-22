@@ -17,6 +17,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 8 | 魔法言語学 | Magic Linguistics | updated |
 | 9 | 東京魔法大学 | Tokyo Magic University | updated |
 | 10 | 励起魔力感応吸音鑑定法 | Magic-Excitation Acoustic Appraisal | updated |
+| 11 | 竜の魔女 | The Dragon Witch | updated |
 
 ## Known issues / decisions
 - None.

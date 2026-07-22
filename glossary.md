@@ -7,6 +7,7 @@
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
 | 青ちゃん | Ao-chan | Blue-chan | Eyeball Witch's nickname for Aoyama Hiyori |
+| 青さん | Ao-san | Blue-san | Ohinata Kei's respectful nickname for Aoyama Hiyori |
 | 青の魔女 | Blue Witch | Blue Mage, Witch of Blue | Female / Aoyama Hiyori's title |
 | 青梅の魔女 | Witch of Ome | Blue Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's territorial title |
 | 大日向慧 | Ohinata Kei | Kei Ohinata, Oohinata Kei, Kei Oohinata | Female |
@@ -71,6 +72,10 @@
 | 魔法語 | magic language | magical language | language of spells |
 | 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
 | 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
+| 死者従属魔法 | dead-subordination magic | undead magic, necromancy, corpse-control magic | Zombie Witch's magic; affects the brain-dead even while the heart beats |
+| 傀儡魔法 | puppetry magic | puppet magic, marionette magic | Iruma Mage's magic; ceases to affect a creature after cardiac arrest |
+| 蘇生魔法 | resurrection magic | revival magic, reanimation magic | hypothetical magic inferred from magic-language distinctions around death |
+| 身体強化魔法 | self-enhancement magic | body-enhancement magic, physical-enhancement magic, strengthening magic | magic that physically enhances its user |
 | 魔法増幅率 | amplification ratio | amplification rate | measured spell-amplification performance |
 | 魔力励起 | magic excitation | magical excitation | activation response induced by magic power or an incantation |
 | 魔力励起状態 | magic-excitation state | magical-excitation state | active state in which a Gremlin responds to sound |
@@ -91,6 +96,8 @@
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
 | 大氷河魔法 | Great Glacier magic | great-glacier magic | Blue Witch's maximum-power wide-area freezing magic |
+| 君よ[ゼィ] | You[ゼィ] | Ze'i[ゼィ], Zei[ゼィ] | living-addressee form in magic language |
+| 君よ[クケッフッ] | You[クケッフッ] | Kukehu[クケッフッ], Kukeffu[クケッフッ] | dead-addressee form in magic language |
 | 君よ、氷河に沈め。永久凍土に眠れ | You, sink beneath the glacier. Sleep in the permafrost! |  | Blue Witch's strongest freezing incantation |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
@@ -114,6 +121,7 @@
 | グレムリン鑑定 | Gremlin appraisal | Gremlin assessment | appraisal of Gremlin material and performance |
 | グレムリン品質鑑定 | Gremlin quality appraisal | Gremlin quality assessment | practical appraisal of Gremlin quality |
 | 励起魔力感応吸音鑑定法 | magic-excitation acoustic appraisal | resonant sound appraisal | quality appraisal by activated Gremlin sound response |
+| 不純物[インクルージヨン] | inclusions |  | gemological inclusions; preserve the source ruby notation |
 | 球形研磨加工 | spherical polishing |  | polishing Gremlins into spheres to raise amplification |
 | 固有色グレムリン | personal-color Gremlin | personal-colour Gremlin | recast Gremlin colored with an individual's blood |
 | マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color Gremlin with magic-recovery effect |
@@ -169,6 +177,10 @@
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
+| 回収班 | Recovery Team | Retrieval Team, Salvage Team, recovery squad | team recovering precious metals, gems, and sometimes medicine from ruins |
+| 鯨の解体班 | Whale Butchering Team | Whale Dismantling Team, whale-processing squad | local team processing whale meat, oil, and bone |
+| 食料班 | Food Team | food squad | local team responsible for food distribution |
+| 財宝管理官 | treasure custodian | treasure manager, treasure administrator | position Dragon Witch proposes for Ori |
 | 一期生 | first cohort |  | Tokyo Magic University's first student intake |
 | 二期生 | second cohort |  | Tokyo Magic University's second student intake |
 | 渡鴉[ワタリガラス] | Watarigarasu | Watari, Raven | Shirokarasu's Suginami underworld organization |
@@ -177,7 +189,9 @@
 | 無名叙事詩仮説 | Nameless Epic Hypothesis | Anonymous Epic Hypothesis | linguistic hypothesis / title-map term |
 | アルラウネの秘蜜 | alraune secret nectar | alraune nectar | life-extending secretion of the Flower Witch |
 | キノコ病 | mushroom disease | mushroom plague | parasitic magical-fungus epidemic |
-| 魔法的死 | magical death | irreversible death | death through complete loss of magic power |
+| 魔法的死 | magical death |  | death through complete loss of magic power |
+| 不可逆の死 | irreversible death | irrevocable death, permanent death | explicit alternate expression for magical death |
+| 大いなる死 | great death | greater death, grand death | explicit alternate expression for magical death |
 | 大怪獣 | giant kaiju |  | massive monster that attacked Tokyo |
 | 巨大怪獣 | giant kaiju |  | alternate source form for the massive monster that attacked Tokyo |
 | 大怪獣氷漬け事件 | giant kaiju freezing incident | giant-kaiju freezing incident | project-original event descriptor |
@@ -191,6 +205,9 @@
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 武蔵村山 | Musashimurayama | Musashi Murayama, Musashi-Murayama | city in Dragon Witch's three-city territory |
+| 東大和 | Higashiyamato | Higashi Yamato, Higashi-Yamato | city containing Dragon Witch's nest |
+| 東村山 | Higashimurayama | Higashi Murayama, Higashi-Murayama | city in Dragon Witch's three-city territory |
 | 東京湾 | Tokyo Bay |  | bay adjoining Tokyo |
 | 旧東京メトロ丸の内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | rail route planned for charcoal-powered transport |
 | 旧東京メトロ丸ノ内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | alternate source spelling of the rail route |

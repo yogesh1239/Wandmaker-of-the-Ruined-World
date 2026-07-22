@@ -13,10 +13,10 @@ GLOSSARY = textwrap.dedent("""\
     | アイちゃん | Ai-chan | Ai | character |
 """)
 
-def run(chapter_text, extra_args=()):
+def run(chapter_text, extra_args=(), glossary=GLOSSARY):
     d = tempfile.mkdtemp()
     g = os.path.join(d, "glossary.md"); c = os.path.join(d, "ch.md")
-    open(g, "w", encoding="utf-8").write(GLOSSARY)
+    open(g, "w", encoding="utf-8").write(glossary)
     open(c, "w", encoding="utf-8").write(chapter_text)
     p = subprocess.run([sys.executable, SCRIPT, "--glossary", g, c, *extra_args],
                        capture_output=True, text=True)
@@ -49,6 +49,16 @@ def test_standalone_alias_still_fails():
 def test_honorific_mismatch_fails():
     rc, out = run("Tanaka-kun raised a hand.")
     assert rc == 1 and "Tanaka-kun" in out
+
+def test_multiple_glossary_honorifics_for_same_base_pass():
+    glossary = GLOSSARY + "| 青ちゃん | Ao-chan | | nickname |\n| 青さん | Ao-san | | nickname |\n"
+    rc, out = run("Ao-chan waved to Ao-san.", glossary=glossary)
+    assert rc == 0, out
+
+def test_unlisted_honorific_fails_once_with_multiple_allowed_forms():
+    glossary = GLOSSARY + "| 青ちゃん | Ao-chan | | nickname |\n| 青さん | Ao-san | | nickname |\n"
+    rc, out = run("Ao-kun waved.", glossary=glossary)
+    assert rc == 1 and out.count("honorific mismatch") == 1, out
 
 def test_macron_fails():
     rc, out = run("Ōtori is banned anyway, but ō alone must flag too.")

@@ -21,7 +21,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Highly capable, curious, and solo-preferring; technically exacting at wand-making and material appraisal, but socially awkward and unusually candid.
-- **Arc state:** He has accepted Hiyori as a friend, keeps the three fire salamanders, and is expanding his work beyond Okutama.
+- **Arc state:** He accepts Hiyori's friendship, keeps the three fire salamanders, and expands his work beyond Okutama.
 
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
 **Japanese Name:** 青山ヒヨリ／青の魔女  
@@ -35,6 +35,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - **Address forms:** “Ori”; calls Kei “Kei-chan.”
 
 **Example Quotes:**
+- “He's my friend.” (*Vol. 1, Ch. 11, 竜の魔女*)
 - “...That no-guard, one-hundred-percent-honest way you talk isn’t something I hate. Stay as you are, Ori.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
@@ -91,11 +92,12 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - **Address forms:** Calls Ori “Ori” without an honorific.
 
 **Example Quotes:**
-- “I did it! Easy job! I don’t want tea. Call me again if there’s more tasty work!” (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
+- “You're going to make treasure in my nest.” (*Vol. 1, Ch. 11, 竜の魔女*)
+- “Call me again if there’s tasty work!” (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
 
 #### Personality
 - Immensely capable but impulsive and easily motivated by payment or food.
-- **Arc state:** She remains an essential long-range ally, including for operations beyond ordinary human reach.
+- **Arc state:** Spared after kidnapping Ori, she remains an essential long-range ally for distant operations.
 
 ### Foresight Mage (未来視の魔法使い)
 **Japanese Name:** 未来視の魔法使い  
@@ -370,20 +372,40 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Zaizen Kintaro (財前金太郎)
 **Japanese Name:** 財前金太郎  
 **Gender:** Male  
-**Role:** Administrative assistant in the Dragon Witch’s territory.
+**Role:** Dragon Witch territory administrator.
 
 #### Speech Patterns
 - **First-person pronoun:** 私.
 - **Formality level:** Polite.
 - **Speech style:** Hesitant and deferential.
-- **Address forms:** Not established.
+- **Address forms:** “Dragon Witch-sama”; “Blue Witch-sama”; “Ori-san.”
 
 **Example Quotes:**
-- “I’m Zaizen Kintaro. I handle something like the administrative work in the Dragon Witch’s territory.” (*Vol. 1, Ch. 11, 竜の魔女*)
+- “I’m Zaizen Kintaro.” (*Vol. 1, Ch. 11, 竜の魔女*)
+- “We owe her. Please, could you at least spare her life?” (*Vol. 1, Ch. 11, 竜の魔女*)
 
 #### Personality
 - Practical survivor, adapting to the Dragon Witch’s unpredictable rule.
-- **Arc state:** He remains a civilian administrator after surviving the Dragon Witch’s abduction and proving compliant.
+- **Arc state:** He administers her territory after surviving her abduction and proving compliant.
+
+### Food Team girl (project-original label)
+**Japanese Name:** 食料班の少女 (unnamed)
+**Gender:** Female
+**Role:** Former thief; Food Team courier.
+
+#### Speech Patterns
+- **First-person pronoun:** 私 — timid.
+- **Formality level:** Hesitant but polite.
+- **Speech style:** Nervous and earnest.
+- **Address forms:** “Ori-san”; “Zaizen-san.”
+
+**Example Quotes:**
+- “Um, thank you...” (*Vol. 1, Ch. 2, サバイバル、魔法を添えて*)
+- “Thank you for teaching me—teaching me how to live without stealing...!” (*Vol. 1, Ch. 11, 竜の魔女*)
+
+#### Personality
+- Shy and grateful.
+- **Arc state:** She took Ori’s self-sufficiency kit, stopped stealing, and joined the Food Team.
 
 ### Shirokarasu / Utagawa Maria (白鴉／鵜田川聖愛)
 **Japanese Name:** 白鴉[しろからす]／鵜田川聖愛[うたがわまりあ]  
