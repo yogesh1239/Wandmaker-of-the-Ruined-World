@@ -38,7 +38,7 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 11 | 港区奪還作戦 | Minato Ward Recapture Operation | updated |
 | 12 | バイオハザード・パンデミック | Biohazard Pandemic | updated |
 | 13 | 花の魔女 | The Flower Witch | updated |
-| 14 | 三歩進んで二歩下がる | Three Steps Forward, Two Steps Back | updated |
+| 14 | 三歩進んで二歩下がる | Three Steps Forward, Two Steps Back | translating |
 | 15 | アミュレット | Amulet | not-started |
 | 16 | 世界を広げて | Expanding the World | not-started |
 | 17 | 番外編　この主人公はワシが育てた | Side Story - I Raised This Protagonist | not-started |
