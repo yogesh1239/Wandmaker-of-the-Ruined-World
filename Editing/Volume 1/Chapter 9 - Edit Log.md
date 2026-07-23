@@ -201,3 +201,14 @@
 - Verified the single future rumor instigator, fabricated charge and advance imprisonment, levee, foresight as cover, feudal bow demand, full prostration, contemptuous `That one`, and the retirement/decentralization goal.
 - `Information Division's Letterpress Printing Section` remained a natural one-off rendering and was not glossary-promoted.
 - No title heading or scene break was present; the final image marker appeared exactly once after the final prose, followed by one terminal `## Translator Notes` block where marker `[^1]` resolves exactly once.
+
+## Independent Corpus Tense/Referent Audit
+
+### Accuracy Fixes
+- **source lines 451–595 (Foresight Mage's secretary)**: “their / they / them” → “her / she” — referent (female dossier lock)
+
+### Register and Flow
+**Foresight Mage's secretary:** Locked female pronouns from the Volume 1 booklet profile identifying her as `文京区役所で未来視の魔法使いの秘書を務める女性`; retained her gentle professional manner and forceful reprimand.
+
+### Formatting Confirmed
+- Final chapter and editable Part 2 draft use female pronouns consistently for the secretary.

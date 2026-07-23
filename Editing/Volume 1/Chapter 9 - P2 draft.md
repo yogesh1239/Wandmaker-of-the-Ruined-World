@@ -82,7 +82,7 @@ His secretary, who was sorting documents at another desk with black-stained fing
 
 Being able to nod off at all was good enough. Wanting to lie down in a soft bed was asking too much.
 
-While he and his secretary discussed that day's schedule in his office, Matsuo walked in looking cheerful. The Foresight Mage flinched, and when his secretary saw it, their smile froze.
+While he and his secretary discussed that day's schedule in his office, Matsuo walked in looking cheerful. The Foresight Mage flinched, and when his secretary saw it, her smile froze.
 
 Matsuo was a capable man. But he tended to look down on the Foresight Mage, who found him hard to deal with.
 
@@ -106,13 +106,13 @@ Matsuo's words stung. The Foresight Mage clutched his chest and fell silent. His
 
 "This. Way."
 
-The secretary said it a second time in a gentle, calm voice that left no room to argue. Matsuo reluctantly followed them out of the office.
+The secretary said it a second time in a gentle, calm voice that left no room to argue. Matsuo reluctantly followed her out of the office.
 
 The moment the office door shut, two loud, slap-like sounds came from outside, as if an enraged secretary had struck an adult man's cheeks with full force.
 
 "!?"
 
-The Foresight Mage flinched, his eyes darting in shock, as he heard the secretary, who always wore a gentle, graceful smile in front of him, shout furiously at Matsuo. Their voice was so loud there had been no point in stepping outside. It came straight through the door, every word reaching him.
+The Foresight Mage flinched, his eyes darting in shock, as he heard the secretary, who always wore a gentle, graceful smile in front of him, shout furiously at Matsuo. Her voice was so loud there had been no point in stepping outside. It came straight through the door, every word reaching him.
 
 The secretary's furious lecture ended in less than a minute.
 
@@ -126,7 +126,7 @@ Matsuo came back half in tears, both cheeks bright red and badly swollen, with a
 
 "Eek."
 
-Seeing the secretary smile and lightly wave their hand, Matsuo was completely terrified. He got down on all fours, pressed his forehead against the floor, and fully prostrated himself.
+Seeing the secretary smile and lightly wave her hand, Matsuo was completely terrified. He got down on all fours, pressed his forehead against the floor, and fully prostrated himself.
 
 "I am terribly sorry. I did not know my place. I will never be disrespectful again."
 
@@ -142,7 +142,7 @@ The Foresight Mage didn't need foresight magic to know what would happen. Matsuo
 
 "No need. He did it because he was thinking about the future in his own way. If he'd said it out of malice, I would've fired him long ago."
 
-The secretary opened their mouth, but ultimately said nothing. They bowed and returned to their desk.
+The secretary opened her mouth, but ultimately said nothing. She bowed and returned to her desk.
 
 After they quietly worked through documents together for a while, the Foresight Mage finally put the thought that had been stuck in his throat into words.
 
@@ -166,7 +166,7 @@ The secretary looked the Foresight Mage straight in the eye and said with fierce
 
 "..."
 
-The secretary had idolized the Foresight Mage ever since he saved them from monsters one year ago. They were always on his side. That was exactly why he should not take their words at face value.
+The secretary had idolized the Foresight Mage ever since he saved her from monsters one year ago. She was always on his side. That was exactly why he should not take her words at face value.
 
 He knew that in his head, but the secretary's direct words went straight to his heart.
 

@@ -30,9 +30,9 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 3 | 煙草の魔女 | The Tobacco Witch | updated |
 | 4 | 融解再凝固グレムリン | Melt-Recast Gremlin | updated |
 | 5 | 魔力逆流防止機構 | Backlash-Prevention Mechanism | updated |
-| 6 | グレムリン工学教授、その経歴 | The Gremlin Engineering Professor's Career | not-started |
-| 7 | 白指たち | The White Fingers | not-started |
-| 8 | 地獄の魔女 | The Hell Witch | not-started |
+| 6 | グレムリン工学教授、その経歴 | The Gremlin Engineering Professor's Career | updated |
+| 7 | 白指たち | The White Fingers | updated |
+| 8 | 地獄の魔女 | The Hell Witch | updated |
 | 9 | 村を襲う悪い鬼 | The Bad Oni Who Attacked the Village | not-started |
 | 10 | 儀式魔法十三祭具 | The Thirteen Ritual Implements | not-started |
 | 11 | 港区奪還作戦 | Minato Ward Recapture Operation | not-started |

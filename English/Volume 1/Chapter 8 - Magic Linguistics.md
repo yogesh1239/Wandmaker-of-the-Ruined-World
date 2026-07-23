@@ -4,13 +4,13 @@ Since a magic wand supported and strengthened magic cast through magic language,
 
 Making magic wands without knowing magic language was like having a CEO who knew nothing about the shop floor lead a manufacturing business. You could do it, sure, but it wouldn't go well.
 
-I had a hunch that studying magic language was essential to understanding and advancing the structural theory of magic wands.
+I have a hunch that studying magic language is essential to understanding and advancing the structural theory of magic wands.
 
-Besides, I was just interested in magic language.
+Besides, I'm just interested in magic language.
 
-My motivation was night and day compared to when I'd been forced to study English in school.
+My motivation is night and day compared to when I was forced to study English in school.
 
-It was magic language, after all. Magic! Anybody would be interested.
+It's magic language, after all. Magic! Anybody would be interested.
 
 And five days later, my eager expectations of a bundle of magic language materials from the Blue Witch were dashed.
 
@@ -40,19 +40,19 @@ The ferret—no, the stoat—said that, then zipped down the Blue Witch's body t
 
 I had no idea what the gesture meant, but a beat later, I caught on, crouched down, and shook its paw.
 
-Its paw was tiny! I was shaking hands with a talking stoat. This was more fairy tale than fantasy.
+Its paw is tiny! I'm shaking hands with a talking stoat. This is more fairy tale than fantasy.
 
 Hmph. Funny little creature.
 
 But setting that aside, I had ordered magic language materials.
 
-What was going on, delivery lady? This wasn't what I ordered. Had she brought me the wrong package?
+What's going on, delivery lady? This isn't what I ordered. Did she bring me the wrong package?
 
 "What about the magic language materials? Was the delivery late? I was so excited to get them today, and then you brought a stoat instead. What a letdown."
 
 ![image_rsrc506.jpg](images/image_rsrc506.jpg)
 
-I was having enough trouble taking care of myself. I couldn't keep a pet.
+I'm having enough trouble taking care of myself. I can't keep a pet.
 
 When I complained to the Blue Witch, she answered, sounding unusually happy.
 
@@ -62,7 +62,7 @@ When I complained to the Blue Witch, she answered, sounding unusually happy.
 
 I was genuinely happy for her.
 
-I knew well that the Blue Witch was fixated on protecting Ome and its residents.
+I know well that the Blue Witch is fixated on protecting Ome and its residents.
 
 If someone from Ome, where everyone had been thought dead, had turned up safe, then whatever form she was in, that was good news.
 
@@ -72,7 +72,7 @@ If someone from Ome, where everyone had been thought dead, had turned up safe, t
 
 With that, Ohinata the stoat threw both short little arms up in the air.
 
-She was so cute! I found myself grinning.
+She's so cute! I found myself grinning.
 
 I hated those TV shows that dubbed animal voices, but an animal that really spoke human language was seriously cute.
 
@@ -128,15 +128,15 @@ I thought we had agreed to hide my existence: I didn't want to meet people, and 
 
 I glanced at the fairy-tale animal watching a butterfly from a little ways away.
 
-Well, Ohinata didn't look human at all. She wasn't human, either.
+Well, Ohinata doesn't look human at all. She isn't human, either.
 
-She looked exactly like a talking little animal. If I was scared of a stoat that was so obviously weak and cute, I'd have to be scared of every living thing.
+She looks exactly like a talking little animal. If I'm scared of a stoat that's so obviously weak and cute, I'll have to be scared of every living thing.
 
-I was the one who had dumped all outside negotiations on the Blue Witch... If she'd decided Professor Ohinata was trustworthy, then, well, I guess it was fine?
+I'm the one who dumped all outside negotiations on the Blue Witch... If she's decided Professor Ohinata is trustworthy, then, well, I guess it's fine?
 
-Getting the magic language materials on paper would have been best, but a talking stoat wasn't bad either.
+Getting the magic language materials on paper would've been best, but a talking stoat isn't bad either.
 
-It was good that she wasn't human. It was good that her magic had gone wrong and turned her into a stoat. Please stay that way forever.
+Good thing she isn't human. Good thing her magic went wrong and turned her into a stoat. Please stay that way forever.
 
 I finished interrogating the Blue Witch, went back to the stoat, and welcomed her.
 
@@ -152,13 +152,13 @@ When I bowed, Professor Ohinata put her little paws together in front of her che
 
 Hmm?
 
-For a professor who researched magic language, her voice and gestures seemed young.
+For a professor who researches magic language, her voice and gestures seem young.
 
-Maybe she looked like a stoat, but inside she was really a middle-aged woman acting young?
+Maybe she looks like a stoat, but inside she's really a middle-aged woman acting young?
 
 No, wait.
 
-The word "professor" had made me imagine someone middle-aged to elderly, but that wasn't necessarily true.
+The word "professor" made me imagine someone middle-aged to elderly, but that isn't necessarily true.
 
 I decided to ask, just in case.
 
@@ -166,7 +166,7 @@ I decided to ask, just in case.
 
 "Last month, I turned twelve!"
 
-Hmph! So she was just a kid!
+Hmph! So she's just a kid!
 
 Want some candy!?
 
@@ -210,9 +210,9 @@ Mm-hmm. Ask me anything.
 
 "Wow! You've tried all kinds of things! That's amazing!"
 
-I was a little put off by the praise from the energetic little animal.
+I'm a little put off by the praise from the energetic little animal.
 
-This stoat came on strong. She seemed like she had lots of friends, and I felt a wall between us.
+This stoat comes on strong. She seems like she has lots of friends, and I feel a wall between us.
 
 "Ori-san, you're smart. Do you come up with all these experiments yourself?"
 
@@ -234,9 +234,9 @@ This stoat came on strong. She seemed like she had lots of friends, and I felt a
 
 At first, I thought she was asking questions because she was interested in a magic wand workshop, but something seemed a little off. She kept throwing out topics that seemed related but weren't.
 
-Why was she digging into my private life this much? It had nothing to do with magic wands or magic language. Was she trying to figure out who I was?
+Why is she digging into my private life this much? It has nothing to do with magic wands or magic language. Is she trying to figure out who I am?
 
-But she was a kid. Would a twelve-year-old kid do that?
+But she's a kid. Would a twelve-year-old kid do that?
 
 "What's with you? Why've you been prying into everything? What are you after?"
 
@@ -252,27 +252,27 @@ It was hard to tell from an animal face, but Professor Ohinata seemed to be shyl
 
 The words were Japanese, but my brain refused to understand them, and I couldn't tell what she was saying.
 
-What was she even talking about?
+What is she even talking about?
 
-You didn't become friends with someone by trying to become friends, did you?
+You don't become friends with someone by trying to become friends, do you?
 
-Trying to get along in order to become friends made no sense.
+Trying to get along in order to become friends makes no sense.
 
-If you clicked, you inevitably got along, and before you knew it, you were friends. That was how it was supposed to work.
+If you click, you inevitably get along, and before you know it, you're friends. That's how it's supposed to work.
 
-Putting in effort to get along so you could become friends? That was warped. It went against human nature.
+Putting in effort to get along so you can become friends? That's warped. It goes against human nature.
 
-So even if you hated someone, you hid how you really felt and tried to get along, and if that shallow "We're friends, right?" act worked, that made you friends!?
+So even if you hate someone, you hide how you really feel and try to get along, and if that shallow "We're friends, right?" act works, that makes you friends!?
 
-Man, this kid didn't understand the first thing about friendship.
+Man, this kid doesn't understand the first thing about friendship.
 
-I had never made a single friend in my life, but even I knew that much.
+I've never made a single friend in my life, but even I know that much.
 
-...I did!
+...I do!
 
 I clicked my tongue loudly. Professor Ohinata apparently took the message as total rejection. She flinched, let her little tail droop, and looked dejected.
 
-Damn kid didn't know how harsh society was. There were guys in this world who got so rattled just from being invited to karaoke that they couldn't speak clearly. Choose your friends more carefully!
+Damn kid doesn't know how harsh society is. There are guys in this world who get so rattled just from being invited to karaoke that they can't speak clearly. Choose your friends more carefully!
 
 "Forget that stuff. Hurry up and teach me about magic language. That's why I called you."
 
@@ -368,21 +368,21 @@ The Blue Witch had warned me about it too. Accidentally making magic go boom was
 
 "Oh..."
 
-Right. So that was the snag.
+Right. So that's the snag.
 
-Then it was no good. Too many incantations were only for witches and mages. It meant nothing to research them if you could not recite them.
+Then it's no good. Too many incantations are only for witches and mages. It means nothing to research them if you cannot recite them.
 
 "That is why we are researching and developing bypass incantations. We analyze magic language, avoid unpronounceable sounds, and reconstruct an incantation using words with the same meaning that humans can pronounce. The goal is to create a human-pronounceable spell with the same effect."
 
 "Oh!"
 
-So there was a point after all.
+So there is a point after all.
 
-Now I got it! That really was work only a linguist could do.
+Now I get it! That really is work only a linguist can do.
 
-Linguistics was freaking amazing!
+Linguistics is freaking amazing!
 
-I stared at Professor Ohinata with respect. Linguists were killing it. My magic wands could change the world, but linguists like her could decide the world's fate too. Seriously, major respect, Professor!!!
+I stared at Professor Ohinata with respect. Linguists are killing it. My magic wands can change the world, but linguists like her can decide the world's fate too. Seriously, major respect, Professor!!!
 
 "And during this research, the research team members died one after another in accidental magic activations. Everyone, including my father, died. Now I alone have taken over the research."
 
@@ -390,7 +390,7 @@ I stared at Professor Ohinata with respect. Linguists were killing it. My magic 
 
 She dropped that shocking fact so casually that I freaked out.
 
-Accidental magic activation could kill people? No, people really had died. Lots of them. What was going on? Where were the safety measures!?
+Accidental magic activation can kill people? No, people really have died. Lots of them. What's going on? Where are the safety measures!?
 
 "Is research into magic language really that dangerous? Dangerous enough to kill people?"
 
@@ -398,11 +398,11 @@ Accidental magic activation could kill people? No, people really had died. Lots 
 
 "Eek."
 
-I'd mindlessly thought Professor Ohinata was cute, but after hearing the circumstances, this was no joke.
+I'd mindlessly thought Professor Ohinata was cute, but after hearing the circumstances, this is no joke.
 
-That was the result of taking a dangerous gamble!?
+That's the result of taking a dangerous gamble!?
 
-A twelve-year-old kid shouldn't be doing this! No number of lives would be enough if she kept doing that research.
+A twelve-year-old kid shouldn't be doing this! No number of lives will be enough if she keeps doing that research.
 
 "Why not leave the research to witches and mages, who can avoid accidental magic activations?"
 
@@ -508,7 +508,7 @@ I thought as I said it.
 
 The easy answer was to lend Cyanos to the Foresight Mage and have him blast out ultra-amplified fertility magic. But apparently the Iruma Mage had left behind one hell of a disastrous precedent, and given the risk of history repeating itself, the Blue Witch said she absolutely could not lend it to him.
 
-Well, I didn't know the Foresight Mage at all.
+Well, I don't know the Foresight Mage at all.
 
 If the Blue Witch said she wanted to trust him but couldn't trust him completely, then that was probably how it was.
 
@@ -516,7 +516,7 @@ If the Blue Witch said she wanted to trust him but couldn't trust him completely
 
 I figured it out before the Blue Witch could answer.
 
-So using Cyanos was out. The same went for Okutameteorite.
+So using Cyanos is out. The same goes for Okutameteorite.
 
 "What about sheer manpower? I've got roughly 300 general-purpose dual-layer magic wands made from Gremlins sitting in storage. I only made them to kill time, not for anything like this. Teach fertility magic to ordinary people, then have 300 people go around using it little by little."
 
@@ -538,7 +538,7 @@ Oh, so Professor Ohinata would solve the problem even if we left her alone! My r
 
 Every idea I threw out got shot down, and I was about to snap.
 
-Then what was I supposed to do!?
+Then what am I supposed to do!?
 
 "We're screwed, aren't we?"
 
@@ -546,9 +546,9 @@ Then what was I supposed to do!?
 
 "Can't."
 
-I was just your average legendary Wand Maker, you know?
+I'm just your average legendary Wand Maker, you know?
 
-If professors smarter than me and politicians with more social skills than a million of me put together couldn't solve this problem, then there was no way I could either.
+If professors smarter than me and politicians with more social skills than a million of me put together can't solve this problem, then there's no way I can either.
 
 Naturally, I gave up, but the Blue Witch stubbornly kept asking.
 
@@ -560,11 +560,11 @@ Naturally, I gave up, but the Blue Witch stubbornly kept asking.
 
 The Blue Witch bowed, visibly relieved.
 
-I wanted to stay shut in as a legendary Wand Maker and enjoy watching from the sidelines. That was why I had dumped all negotiations with the outside world on the Blue Witch.
+I want to stay shut in as a legendary Wand Maker and enjoy watching from the sidelines. That's why I've dumped all negotiations with the outside world on the Blue Witch.
 
 Don't make me carry Japan's future on my shoulders. Please. Seriously.
 
-If all I had to do was think about it, then fine, I guess. Still, it weighed on me.
+If all I have to do is think about it, then fine, I guess. Still, it weighs on me.
 
 We had talked for quite a while before I remembered I'd left Professor Ohinata alone while we were on break. We were supposed to have a question-and-answer session afterward.
 
@@ -576,9 +576,9 @@ S-So cute...!
 
 Without thinking, I reached out a finger to pet her, and while still asleep, she licked my fingertip with her tiny tongue.
 
-What was with this shamelessly cute creature!?
+What is with this shamelessly cute creature!?
 
-She was human inside, so she didn't need training. She could prepare her own food, and she wasn't noisy. Was she the ultimate creature?
+She's human inside, so she doesn't need training. She can prepare her own food, and she isn't noisy. Is she the ultimate creature?
 
 "..."
 
@@ -586,11 +586,11 @@ As I let her lick my finger as much as she liked with that warmer-than-expected 
 
 Right.
 
-At this rate, this adorable little animal would go through with reckless experiments and die.
+At this rate, this adorable little animal will go through with reckless experiments and die.
 
-I didn't want that. It would be sad.
+I don't want that. It'll be sad.
 
-Maybe I'd actually give this some serious thought.
+Maybe I'll actually give this some serious thought.
 
 About a way to solve Japan's food problem and prevent the stoat professor from dying in an accident.
 
@@ -612,9 +612,9 @@ Once a fertility-magic bypass incantation anyone could recite was complete, the 
 
 Even unprocessed Gremlins worked as magic-activation media, though not very efficiently. Worst case, if there weren't enough wands, all we had to do was spread the wording of the fertility-magic bypass incantation. Then we could use sheer manpower to cast low-output fertility magic over and over and solve the food problem.
 
-So how could I lower the death rate of magic-language experiments?
+So how can I lower the death rate of magic-language experiments?
 
-It was a hard problem, but my one talent was world-champion dexterity. No one could touch me at making magic wands. I should play to my strengths and make a magic wand that lowered the death rate of magic-language experiments.
+It's a hard problem, but my one talent is world-champion dexterity. No one can touch me at making magic wands. I should play to my strengths and make a magic wand that lowers the death rate of magic-language experiments.
 
 I'd heard about several failed magic-language experiments that had killed people, and in many cases, lowering the power would've prevented those deaths.
 
@@ -624,19 +624,19 @@ If the spell that increased someone's blood so fast their body burst apart had b
 
 Even the stoat transformation might've stopped at stoat ears or a tail if the power had been lower.
 
-Every magic wand I'd made until then had increased power. Even the weakest doubled it compared to an unprocessed piece. Cyanos's amplification ratio was so high that we still didn't know the exact figure—the Blue Witch said it might even reach 100 times.
+Every magic wand I'd made until then had increased power. Even the weakest doubled it compared to an unprocessed piece. Cyanos's amplification ratio was so high that we still don't know the exact figure—the Blue Witch said it might even reach 100 times.
 
 So I flipped the idea around.
 
-If processing could increase magic's power, could it lower it too?
+If processing can increase magic's power, can it lower it too?
 
-The problem was amplification ratios of two or three times. If I could make a magic wand with a ratio of 1/1000, for example, even a magic-language experiment gone wrong shouldn't be enough to kill someone.
+The problem is amplification ratios of two or three times. If I can make a magic wand with a ratio of 1/1000, for example, even a magic-language experiment gone wrong shouldn't be enough to kill someone.
 
-I would make a magic wand with a negative amplification ratio. That was the goal.
+I'll make a magic wand with a negative amplification ratio. That's the goal.
 
-Once I had set a goal, the rest was my specialty.
+Once I've set a goal, the rest is my specialty.
 
-I just had to develop a processing method like that and make it.
+I just have to develop a processing method like that and make it.
 
 I stared down my drafting board for a whole day and night, going back and forth over processing methods. The floor filled with discarded sheets covered in scribbles. At some point, Uber Blue Witch hung a bento from the workshop doorknob. I ate it while I thought and groaned.
 
@@ -644,9 +644,9 @@ The simple logic was this: processing a Gremlin into a sphere raised its amplifi
 
 But the opposite of a sphere...?
 
-Was there even an opposite of a sphere...?
+Is there even an opposite of a sphere...?
 
-Maybe a mathematician who specialized in geometry could think of something, but I had no clue.
+Maybe a mathematician who specializes in geometry can think of something, but I have no clue.
 
 Still, it seemed like I needed a geometrical approach, so I dug out the math textbooks I had used in high school and university from the closet and looked for a good idea.
 
@@ -662,7 +662,7 @@ I tried carving Gremlins into spirals and squares as ideas came to me, but both 
 
 I threw away another design sheet, then a column about fractal structures in my math reference book caught my eye.
 
-Fractals. A geometric concept where a shape's parts and whole were self-similar...?
+Fractals. A geometric concept where a shape's parts and whole are self-similar...?
 
 Reading the definition did not make it click for me, but one look at the illustration beside it told me exactly what it was.
 
@@ -670,15 +670,15 @@ Oh.
 
 Oh, oh, oh!
 
-You could make fractals in 3D too, not just flat shapes.
+You can make fractals in 3D too, not just flat shapes.
 
-And they were recursive.
+And they're recursive.
 
-Fractal structures appeared in nature in trees, coastlines, cumulonimbus clouds, and snow crystals... Hmm, hmm, hmm.
+Fractal structures appear in nature in trees, coastlines, cumulonimbus clouds, and snow crystals... Hmm, hmm, hmm.
 
-It was just a feeling, but this fractal thing seemed like a "magical" shape.
+It's just a feeling, but this fractal thing seems like a "magical" shape.
 
-I didn't understand it in my head, but after precisely working and handling hundreds of magic stones, my godlike hands itched to try a fractal shape.
+I don't understand it in my head, but after precisely working and handling hundreds of magic stones, my godlike hands itch to try a fractal shape.
 
 I traced the dodecahedral fractal shown in the reference book's illustration with my fingertip and saw magical meaning in it.
 
@@ -694,17 +694,17 @@ Twelve unpronounceable sounds.
 
 A dodecahedral fractal.
 
-Both were twelve. Coincidence or inevitability?
+Both are twelve. Coincidence or inevitability?
 
-Hmm. I'd thought about it so hard I was losing track of what made sense.
+Hmm. I've thought about it so hard I'm losing track of what makes sense.
 
-Maybe I just wanted them to be connected, and that wish was making me connect two completely unrelated things.
+Maybe I just want them to be connected, and that wish is making me connect two completely unrelated things.
 
-Then again, maybe I'd reached the truth through research, prototypes, and thought experiments.
+Then again, maybe I've reached the truth through research, prototypes, and thought experiments.
 
-Whatever. I'd carve one and see if I could actually make a dodecahedral fractal.
+Whatever. I'll carve one and see if I can actually make a dodecahedral fractal.
 
-The illustration in the reference book made it look dizzyingly complicated and delicate, but trying it cost nothing.
+The illustration in the reference book makes it look dizzyingly complicated and delicate, but trying it costs nothing.
 
 This would be more complex than anything I'd ever processed, so I used the biggest and easiest-to-process Gremlin I owned: a 28 mm specimen collected from Yokohama Thermal Power Plant.
 
@@ -726,11 +726,11 @@ C-Crap, that was close. I almost dropped and broke the test piece I'd worked so 
 
 The fractal-processed test Gremlin had been hollowed out inside and become very fragile. I had to handle it carefully.
 
-Later, I'd fill the gaps with resin to reinforce it. Even if the test piece failed, I wanted to keep it as a memento of all that work.
+Later, I'll fill the gaps with resin to reinforce it. Even if the test piece fails, I want to keep it as a memento of all that work.
 
 Judging by the empty bento boxes stacked in the corner, I'd spent three full days focused on processing. No wonder I was sleepy. My stomach was full, but my brain had hit its limit.
 
-I'd sleep after testing this piece. I'd gotten way too absorbed in processing.
+I'll sleep after testing this piece. I've gotten way too absorbed in processing.
 
 "Aaaagh!"
 
@@ -744,9 +744,9 @@ I'd hoped for it, but I hadn't really expected anything to happen.
 
 My sleepiness vanished, and I examined the fractal that had caused the strange phenomenon.
 
-But I did not know...!
+But I don't know...!
 
-I had no idea what was happening!
+I have no idea what's happening!
 
 Measuring it with a metronome showed that the fractal's white flashes repeated at regular intervals.
 
@@ -758,7 +758,7 @@ I couldn't figure it out, so I just shouted again.
 
 This time, a thin white beam shot out, hit the target on the wall, and faded away feebly without even stirring the paper target.
 
-Whoa!? It was weak!? The power was seriously reduced! I did not know why it had bugged out the first time, but the power was seriously reduced!
+Whoa!? It's weak!? The power is seriously reduced! I don't know why it bugged out the first time, but the power is seriously reduced!
 
 Could this work!?
 
@@ -770,7 +770,7 @@ But it failed to activate again, and the fractal began blinking pale blue.
 
 Hmm?
 
-This was...
+This is...
 
 "Vaa-ra. Aha, just as I thought. An activation-standby state? Vaa-ra, Vaa-ra, Vaa-ra, Vaa-ra. Looks like it. Then Vaa-raaa... no response at all."
 
@@ -786,7 +786,7 @@ Either feature alone would've been amazing, and it had both.
 
 I trembled at my own genius. It was even better than the ideal I had aimed for.
 
-Lately, I'd thought of myself as the world's greatest genius Wand Maker, but maybe I was the greatest in the universe.
+Lately, I've thought of myself as the world's greatest genius Wand Maker, but maybe I'm the greatest in the universe.
 
 Giddy, I got to work finishing the invention of the century.
 
@@ -794,17 +794,17 @@ I poured resin into the gaps in the structure and let it harden, protected the w
 
 In the end, it looked like a white dodecahedral fractal floated inside a transparent diamond-shaped crystal.
 
-Pretty cool, right? It looked good!
+Pretty cool, right? It looks good!
 
 For the wand handle, I splurged on a long, 120 cm piece of paulownia. Paulownia was a soft material that developed a beautiful shine when polished, and it was Japan's lightest wood, so even a huge wand wouldn't feel heavy. It was less sturdy than Cyanos and had no anti-freezing measures, but this was for laboratory use, not combat, so it would be fine.
 
-Lightweight or not, it was still 120 cm long. The wand was far too big for its stoat owner, but that was not a problem.
+Lightweight or not, it is still 120 cm long. The wand is far too big for its stoat owner, but that is not a problem.
 
-I liked small creatures holding huge weapons!
+I like small creatures holding huge weapons!
 
-Little girls swinging around huge-ass hammers were totally my thing too.
+Little girls swinging around huge-ass hammers are totally my thing too.
 
-I wanted her to carry a giant wand far too big for her with all her might. Just imagining it made me grin.
+I want her to carry a giant wand far too big for her with all her might. Just imagining it makes me grin.
 
 For the design carved into the handle, I incorporated the crest of the university where her father had taught. Professor Ohinata seemed like a daddy's girl, so I figured she'd like it.
 
@@ -842,9 +842,9 @@ The Blue Witch flinched when the door was suddenly flung open from inside.
 
 Sorry for being a genius!
 
-I was a man whose only real talent was working with my hands.
+I'm a man whose only real talent is working with my hands.
 
-But I'd solve everything with those hands alone!
+But I'll solve everything with those hands alone!
 
 I gave in to overwhelming sleepiness and passed out on the floor without even making it to my bed. I'd gone to sleep in the evening, but when I woke up, it was still evening.
 
@@ -886,9 +886,9 @@ No way!
 
 I had meant to give Professor Ohinata a polite "Glad to hear it," but my real feelings slipped out.
 
-Why had you turned back into a human, Professor!?
+Why did you turn back into a human, Professor!?
 
-I told you I was bad with people!
+I told you I'm bad with people!
 
 No, no, no! I liked you better as a stoat!
 
@@ -978,9 +978,9 @@ The fact that this wasn't cosplay was unreal.
 
 For the generation born after the Gremlin Disaster, unusual magic wands and witches like these would probably be an ordinary part of life.
 
-It was strange. To me, it was exciting fantasy, but to children of the new generation, it would be something normal that had been there since they were born.
+It's strange. To me, it's exciting fantasy, but to children of the new generation, it'll be something normal that's been there since they were born.
 
-So this was how generation gaps happened.
+So this is how generation gaps happen.
 
 "I'm glad there were no problems using it. It's got a pretty delicate structure, so if anything goes wrong, tell me right away. I'll do maintenance. It's hardened with resin, so it shouldn't just chip during normal use."
 
@@ -998,9 +998,9 @@ So this was how generation gaps happened.
 
 I was so shocked my brain took a second to catch up.
 
-No freaking way! It'd only been a day!
+No freaking way! It's only been a day!
 
-Did that mean the horrible prediction that Japan would be struck by an unprecedented great famine—one for the history books—had been overturned in a single day!?
+Does that mean the horrible prediction that Japan would be struck by an unprecedented great famine—one for the history books—has been overturned in a single day!?
 
 She'd reversed her transformation and modified fertility magic, all in one day!?
 
@@ -1008,9 +1008,9 @@ S-So amazing. Too amazing!
 
 Amazing, but scary!
 
-Now I was scared!
+Now I'm scared!
 
-Professor Ohinata was such a genius she'd gone right past amazing and become scary!
+Professor Ohinata is such a genius she's gone right past amazing and become scary!
 
 "Professor Ohinata really is amazing. I am impressed."
 
@@ -1032,9 +1032,9 @@ As I panicked and wondered what had happened, I heard a small sob.
 
 O-Oh crap. I made her cry.
 
-Had bringing up her dead father been a land mine for a daddy's girl?
+Was bringing up her dead father a land mine for a daddy's girl?
 
-Damn it. This was why I hated talking to people. When you wrote, you had time to reread and check it before giving it to someone, so you could avoid careless remarks. Human conversation was way too hard.
+Damn it. This is why I hate talking to people. When you write, you have time to reread and check it before giving it to someone, so you can avoid careless remarks. Human conversation is way too hard.
 
 "S-Sorry. That was insensitive."
 
@@ -1048,13 +1048,13 @@ As I apologized, panicking so hard my stomach hurt, Professor Ohinata tried to a
 
 The Blue Witch gave a little laugh and summed it up in a way I could understand.
 
-Huh. Was that so...? Professor Ohinata was still crying, but she nodded at the Blue Witch's words, so I guessed that was how it was.
+Huh. Is that so...? Professor Ohinata is still crying, but she nodded at the Blue Witch's words, so I guess that's how it is.
 
-I didn't get it at all.
+I don't get it at all.
 
 Oh well.
 
-If they said to stay as I was, I would stay as I was.
+If they say to stay as I am, I'll stay as I am.
 
 I pulled myself together and continued the conversation. It looked like Professor Ohinata had mostly stopped crying too.
 
@@ -1070,7 +1070,7 @@ She agreed so readily that I ended up learning the improved fertility magic whil
 
 I'd asked on the off chance, figuring they might not teach me magic important enough to be a state secret. But come to think of it, they were about to spread it far and wide across Japan anyway.
 
-No problem if I learned it a little ahead of everyone else.
+No problem if I learn it a little ahead of everyone else.
 
 "Um. So, do you just want to memorize the spell? Or do you want to know how it was put together too?"
 
@@ -1078,7 +1078,7 @@ No problem if I learned it a little ahead of everyone else.
 
 In the last lecture, I'd only learned the basics of magic language.
 
-How had the fertility-magic bypass incantation, the culmination of magic-language research, come together? As a magic-language beginner, I wanted to hear about the cutting edge.
+How did the fertility-magic bypass incantation, the culmination of magic-language research, come together? As a magic-language beginner, I want to hear about the cutting edge.
 
 "Then I'll explain. Don't worry, I won't talk about anything you can't understand with the knowledge you have now, Ori-san.
 
@@ -1112,7 +1112,7 @@ Her explanation made sense.
 
 Even seeing one second into the future would make you unbeatable in sports or martial arts. Of course it was advanced.
 
-That meant no amount of magic-linguistics trickery could let an ordinary human use foresight magic. It was a Transcendent-only spell. Unfair.
+That means no amount of magic-linguistics trickery can let an ordinary human use foresight magic. It's a Transcendent-only spell. Unfair.
 
 "In the original incantation, 'The season of crystals comes around[グリスタ・ヒアーズイ]. May the spirit-world predator's blessing be upon us[ほにゃららウエウエント],' 'The season of crystals comes around' is pronounceable and already a separate clause, so there's no need to change it. The core word can't be changed, so 'May blessings be upon us' is fixed too. All we need to do is rephrase 'spirit-world predator' using sounds humans can pronounce, but that's the hard part.
 
@@ -1138,7 +1138,7 @@ Professor Ohinata nodded knowingly at my immediate answer.
 
 Jeez. No wonder the research had been such a pain.
 
-It was like trying to have a business conversation with no loanwords allowed and your vocabulary limited to words even a kindergartener knew, right? I couldn't believe they'd managed to cobble together a bypass incantation. Of course it ended up wordy.
+It's like trying to have a business conversation with no loanwords allowed and your vocabulary limited to words even a kindergartener knows, right? I can't believe they managed to cobble together a bypass incantation. Of course it ended up wordy.
 
 "I have to memorize something this long? Eesh."
 
@@ -1154,7 +1154,7 @@ After that, a sixth-grade girl gave me pronunciation lessons and stuck a finger 
 
 While we were working on the incantation, the Blue Witch silently made not just dinner but a late-night snack too. She was a good woman. A convenient woman, even. That was a huge help.
 
-Well, more than half of what she made was probably meant to help Professor Ohinata grow up big and strong, not for me. The curry was mild, after all.
+Well, more than half of what she made is probably meant to help Professor Ohinata grow up big and strong, not for me. The curry is mild, after all.
 
 By the time Professor Ohinata gave me the okay, it was already deep into the night.
 
@@ -1178,11 +1178,11 @@ Professor Ohinata looked a little dissatisfied, but she obediently held the Blue
 
 She made a logical case for the benefits of meeting again, but I flatly refused.
 
-Stoat mode was welcome, but animal-eared mode was not.
+Stoat mode is welcome, but animal-eared mode is not.
 
-Professor Ohinata was a kid, but she was a good kid. Her stories were interesting too.
+Professor Ohinata is a kid, but she's a good kid. Her stories are interesting too.
 
-But her super sociable, bright personality made my instincts flat-out reject her. Even if she hid her face behind a mask like the Blue Witch, my body probably still would've rejected her.
+But her super sociable, bright personality makes my instincts flat-out reject her. Even if she hides her face behind a mask like the Blue Witch, my body will probably still reject her.
 
 The Blue Witch bristled with killing intent at my full-force, completely immature rejection of a kid, so I hurriedly offered a compromise before she turned me into an ice statue.
 
@@ -1198,11 +1198,11 @@ Delighted by my full-throttle socially awkward proposal, Professor Ohinata waved
 
 Watching them go, I wiped off my sweat, cold sweat and all. Phew. That was tiring.
 
-If she was already like that at twelve, what would she be like when she grew up?
+If she's already like that at twelve, what's she going to be like when she grows up?
 
-I wouldn't even be surprised if she started speaking bird language or fish language someday.
+I won't even be surprised if she starts speaking bird language or fish language someday.
 
-I'd quietly watch over Professor Ohinata's future.
+I'll quietly watch over Professor Ohinata's future.
 
 ## Translator Notes
 

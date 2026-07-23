@@ -8,9 +8,9 @@ Humanity had entered the reconstruction phase, riding the chaos scattered everyw
 
 In particular, defeating the giant kaiju and preventing an unprecedented great famine by developing the fertility-magic bypass incantation had come to symbolize reconstruction. I was proud to have given magic wands to the witch and stoat who pulled off both.
 
-I was an amazing Wand Maker. I wasn't being conceited.
+I'm an amazing Wand Maker. I'm not being conceited.
 
-I was so amazing that a dragon kidnapped me and nearly locked me away in its nest as one of its treasures. Didn't that mean I could call myself a Living National Treasure?
+I'm so amazing that a dragon kidnapped me and nearly locked me away in its nest as one of its treasures. Doesn't that mean I can call myself a Living National Treasure?
 
 My friend, the Blue Witch, had just saved me from that bad dragon. She helped me haul the stuff she'd recovered from its nest back to Okutama.
 
@@ -28,7 +28,7 @@ As she parked the cart in front of my house and helped me unload, the Blue Witch
 
 The Blue Witch groaned in frustration.
 
-Probably because the things they each wanted to protect weren't the same? Not that I knew.
+Probably because the things they each want to protect aren't the same? Not that I know.
 
 “Well, it'd be a huge help if you just came by now and then to make sure I'm okay. Don't worry about it so much. You saved me this time by showing up, after all. More importantly, how did you know I was being held prisoner in the dragon's nest?”
 
@@ -36,7 +36,7 @@ Probably because the things they each wanted to protect weren't the same? Not th
 
 “I see.”
 
-Now that she mentioned it, there had been some pretty obvious clues left behind. The kidnapping scene couldn't have been much more blatant.
+Now that she mentions it, there are some pretty obvious clues left behind. The kidnapping scene couldn't be much more blatant.
 
 Good thing the culprit was a Dragon Witch[idiot] without the cunning to hide her crime~!
 
@@ -50,7 +50,7 @@ The Blue Witch's worry gave way to anger.
 
 Crap. That slipped out.
 
-Well, that part was my fault. I'd been careless. But she needed to remember that the Dragon Witch was the one most at fault, and that nobody got hurt in the end (except the Dragon Witch).
+Well, that part is my fault. I've been careless. But she needs to remember that the Dragon Witch is the one most at fault, and that nobody got hurt in the end (except the Dragon Witch).
 
 After lecturing me for a while about defending myself, the Blue Witch seemed to notice I was only pretending to listen, and she heaved a huge sigh.
 
@@ -58,9 +58,9 @@ After lecturing me for a while about defending myself, the Blue Witch seemed to 
 
 “Roger, Mom. Ah!!! Right, I forgot. Since we're friends now, wanna play a card game sometime? I've got decks at my place. I've only ever played online matches, but I bought physical cards too, so I've got them.”
 
-Playing against the Blue Witch sounded more fun than running a fake match by myself and playing both sides.
+Playing against the Blue Witch sounds more fun than running a fake match by myself and playing both sides.
 
-I'd never once wanted to make friends in my whole life, but I had thought having friends seemed handy because then I wouldn't have trouble finding opponents for games.
+I've never once wanted to make friends in my whole life, but having friends seems handy because then I won't have trouble finding opponents for games.
 
 When I called after the Blue Witch to stop her from leaving, she gave me a thoroughly exasperated look.
 
@@ -72,11 +72,11 @@ When I called after the Blue Witch to stop her from leaving, she gave me a thoro
 
 The Blue Witch went back to Ome, looking over her shoulder worriedly again and again.
 
-Hmm. Did I really look that oblivious to danger? I couldn't make sense of it.
+Hmm. Do I really look that oblivious to danger? I can't make sense of it.
 
-I always carried Hendensho so I'd be armed, kept a compact first-aid kit with painkillers, disinfectant, and bandages in my pocket, stayed away from cliffs in the mountains, and avoided the mountains and rivers the day after rain. I did take precautions, even if it didn't look like it.
+I always carry Hendensho so I'm armed, keep a compact first-aid kit with painkillers, disinfectant, and bandages in my pocket, stay away from cliffs in the mountains, and avoid the mountains and rivers the day after rain. I do take precautions, even if it doesn't look like it.
 
-Maybe the Blue Witch and I had different standards for danger: I lived peacefully in Okutama, where monsters were far fewer and weaker than elsewhere and there was no messy interpersonal drama, while she'd apparently overcome some seriously tragic past.
+Maybe the Blue Witch and I have different standards for danger: I live peacefully in Okutama, where monsters are far fewer and weaker than elsewhere and there is no messy interpersonal drama, while she's apparently overcome some seriously tragic past.
 
 Thinking about how peaceful the Reiwa era[^1] really had been, I followed her advice: I locked up properly, put a blue tarp over the broken wall as a temporary fix, made a few odds and ends, ate dinner, and turned in early instead of staying up late.
 
@@ -98,9 +98,9 @@ First, I beckoned the Blue Witch over and grilled her in a low voice.
 
 I glanced at Professor Ohinata. She held up a basket giving off a warm, mouthwatering smell and flashed me a full-on extrovert smile bright enough to rival the clear autumn sky.
 
-Gah! She was just a kid, yet she was nice enough to remember a gift! But that only made my stomach hurt more. Talking to Professor Ohinata in human form reminded me of all my own shortcomings, and it stressed me out.
+Gah! She's just a kid, yet she's nice enough to remember a gift! But that only makes my stomach hurt more. Talking to Professor Ohinata in human form reminds me of all my own shortcomings, and it stresses me out.
 
-No, she was a good kid. She really was. This wasn't about disliking her. We just didn't click.
+No, she's a good kid. She really is. This isn't about disliking her. We just don't click.
 
 “Oh, right, before I forget. Wait a second.”
 
@@ -110,7 +110,7 @@ Before the impromptu magic lesson that was apparently about to begin squeezed my
 
 I knew the Blue Witch carried a mini album with her little sister's pictures in it (the parts that probably showed her parents and childhood friend had been blacked out. Seriously dark).
 
-The mini album was already pretty beat-up, and moving a picture to the frame and putting it on display seemed like a decent option.
+The mini album is already pretty beat-up, and moving a picture to the frame and putting it on display seems like a decent option.
 
 When the Blue Witch took the picture frame from me, she didn't move a muscle. Then, just as I started wondering if someone had cast petrification magic on her, she spoke in a faint, trembling voice.
 
@@ -136,7 +136,7 @@ Professor Ohinata, now alone with me, spoke warmly and openly despite how awkwar
 
 Professor Ohinata clenched a fist in front of her chest and encouraged me.
 
-Aaaah! Scary! That was the problem: she was organized, took my feelings into account, and cheerfully supported me! I wanted her to act more mechanical and businesslike, without a shred of humanity, but I couldn't reject Professor Ohinata's kindness. That was exactly the problem (I was losing it).
+Aaaah! Scary! That's the problem: she's organized, takes my feelings into account, and cheerfully supports me! I want her to act more mechanical and businesslike, without a shred of humanity, but I can't reject Professor Ohinata's kindness. That's exactly the problem (I'm losing it).
 
 “Ah, then, let's do this in the workshop... No, the workshop's wrecked right now. Is the living room okay for the lecture?”
 
@@ -176,7 +176,7 @@ When I asked again because I couldn't keep up, Professor Ohinata kindly rephrase
 
 “That's useful.”
 
-If they called it suspended animation, I figured I wouldn't be able to move, but it seemed super handy for hiding until an enemy passed. It felt like weakling magic for getting through things without fighting.
+If they call it suspended animation, I figure I won't be able to move, but it seems super handy for hiding until an enemy passes. It feels like weakling magic for getting through things without fighting.
 
 “Still, familiar summoning sounds the most interesting.”
 
@@ -184,7 +184,7 @@ If they called it suspended animation, I figured I wouldn't be able to move, but
 
 Professor Ohinata wrote the ominous Japanese sentence “If it meant knowing my son was safe, I'd be willing to gouge out this eye[ヨモホロゲジュヤ・タケタテェエ、クンヌム・ワーア]” in large letters on a blank sheet of loose-leaf paper and showed it to me.
 
-Okay, that was scary.
+Okay, that's scary.
 
 “Wait a second. Does this magic make you gouge out your own eye?”
 
@@ -196,9 +196,9 @@ The feature of this magic is that once you cast it, you can leave it out until i
 
 “So it's basically a video call.”
 
-What she was saying was nuts. Did that mean I could have a communication device in a world where electricity and communication networks had been destroyed?
+What she's saying is nuts. Does that mean I can have a communication device in a world where electricity and communication networks have been destroyed?
 
-Sick! From what I heard, it seemed usable for scouting too. I could get as much of an information advantage as I wanted!
+Sick! From what I hear, it seems usable for scouting too. I can get as much of an information advantage as I want!
 
 “Exactly. It consumes a lot of magic power, so few humans can use it, but you should be able to manage summoning just one, Ori-san.”
 
@@ -208,7 +208,7 @@ Sick! From what I heard, it seemed usable for scouting too. I could get as much 
 
 “20 km...”
 
-I pulled out a map while eating hash browns and checked. A 20 km radius covered the distance from Okutama to Ome. That was enough.
+I pulled out a map while eating hash browns and checked. A 20 km radius covers the distance from Okutama to Ome. That's enough.
 
 “Also, it can carry things up to around 2–3 kg, and while it has no combat function, it can serve as a decoy.”
 
@@ -218,7 +218,7 @@ I pulled out a map while eating hash browns and checked. A 20 km radius covered 
 
 “No, I'm going with the eyeball. It's crazy useful however you look at it.”
 
-The potential to bring back the internet and online shopping with enough of them also left a good impression on me. This spell deserved to spread throughout the whole world. That would be hard when people with little magic power couldn't use it, though.
+The potential to bring back the internet and online shopping with enough of them also leaves a good impression on me. This spell deserves to spread throughout the whole world. That'll be hard when people with little magic power can't use it, though.
 
 “It really is very useful. All right!
 
@@ -244,21 +244,21 @@ Apparently, once magic-language research progressed and ordinary people with hig
 
 It seemed the Bloodsucking Mage had felt there were limits to rule by witches and mages, and had planned to strengthen ordinary people and, by extension, advance their participation in politics.
 
-Smart. If humanity's technology and ability as a whole were brought up, we wouldn't have to let people with power but trash personalities, like the Dragon Witch, run wild.
+Smart. If humanity's technology and ability as a whole are brought up, we won't have to let people with power but trash personalities, like the Dragon Witch, run wild.
 
-Rather than giving magic stones to witches and mages who were already strong and making them even stronger, it made way more sense to give magic stones to ordinary people who had learned magic and give them a leg up.
+Rather than giving magic stones to witches and mages who are already strong and making them even stronger, it makes way more sense to give magic stones to ordinary people who have learned magic and give them a leg up.
 
-I only learned about the Bloodsucking Mage after he died, but the more I learned about him, the more his stock went up in my book.
+I only learned about the Bloodsucking Mage after he died, but the more I learn about him, the more his stock goes up in my book.
 
-Meanwhile, the Dragon Witch's stock kept dropping even when she wasn't around, thanks to swiping the magic stone and stuffing it in her pocket against the Bloodsucking Mage's will.
+Meanwhile, the Dragon Witch's stock keeps dropping even when she isn't around, thanks to swiping the magic stone and stuffing it in her pocket against the Bloodsucking Mage's will.
 
-I still thought it would've been better to kill her. If that lesson didn't stick and she tried something again, the Blue Witch would probably go finish her off for good, with no prompting from me.
+I still think it would've been better to kill her. If that lesson doesn't stick and she tries something again, the Blue Witch will probably go finish her off for good, with no prompting from me.
 
 Anyway, the magic-language research at Ohinata Laboratory, started by the Bloodsucking Mage and carried on by the Foresight Mage, was steadily bearing fruit.
 
 I poked at the softly floating eyeball familiar I'd finally managed to summon after so much pronunciation practice and felt grateful for the unbroken chain of human will and everything it had achieved.
 
-I was gonna reach in from just outside the circle of human bonds and help myself to those achievements!
+I'm gonna reach in from just outside the circle of human bonds and help myself to those achievements!
 
 ## Translator Notes
 

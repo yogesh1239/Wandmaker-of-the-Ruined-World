@@ -57,6 +57,6 @@ Extend it to consolidate `## Translator Notes` as described.
 
 ## Consistency review
 
-Check the assembled file for, across all parts: one term per concept (no "Western Front" vs "Western Theatre" split), character names spelled identically and matching `glossary.md`, gender pronouns matching the glossary Gender column, smooth part transitions, `---` scene breaks correctly placed and not doubled at joins, `![xxx](images/xxx)` illustrations preserved and in place, no duplicated paragraphs at part boundaries, every part present and complete, and exactly one `## Translator Notes` with every `[^N]` resolving.
+Check the assembled file for, across all parts: one term per concept (no "Western Front" vs "Western Theatre" split), character names spelled identically and matching `glossary.md`, gender pronouns matching the glossary Gender column, the narrative/direct-thought tense distinction preserved across joins, smooth part transitions, `---` scene breaks correctly placed and not doubled at joins, `![xxx](images/xxx)` illustrations preserved and in place, no duplicated paragraphs at part boundaries, every part present and complete, and exactly one `## Translator Notes` with every `[^N]` resolving. Never normalize a valid natural-tense immediate thought into past during assembly.
 
 When the lead sends a reconciliation message (for example a pronoun fix to propagate), apply it via the same Python-edit path. Done when the assembled line count matches the sum of edited parts (minus intentional notes de-duplication) and the review is clean.

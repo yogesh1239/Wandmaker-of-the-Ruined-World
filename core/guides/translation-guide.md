@@ -35,15 +35,24 @@ polish pass to do the smoothing.
 
 ## Narrative Tense
 
-ALL narration is past tense. Dialogue stays in natural speech tense.
+Narrative action, description, and indirect/reported thought stay in past tense.
+Dialogue stays in natural speech tense.
 
 - Wrong: "She walks in and sees him sitting there."
 - Right: "She walked in and saw him sitting there."
 
-Internal thoughts follow past tense in narration: "She thought…" not
-"She thinks…" Present-tense narration is acceptable only if the source itself
-is deliberately written in a historical-present style and the register lock
-records that exception.
+Clearly direct, immediate internal monologue—an unspoken line the POV character
+addresses to themself or another person while reacting to the current moment—
+uses natural speech tense, often present. For example: "That's an ogre. Am I
+really going to fight that?" Indirect or reported thought remains past: "I
+wondered whether I was really going to fight it."
+
+Do not classify every rhetorical question, parenthetical aside, current-looking
+observation, or free-indirect comment as direct thought. Do not mix past and
+present inside one immediate thought unless the source meaning requires it.
+Present-tense narrative action remains acceptable only if the source itself is
+deliberately written in a historical-present style and the register lock records
+that exception.
 
 ## Register Framework
 
@@ -134,14 +143,21 @@ Recurring filler expressions vary by context — don't lock one English phrase:
 
 ## Internal Thoughts
 
-The source marks unspoken thought and telepathic/"heard" inner voice with
-bracket pairs. Render both as *italics* (no quotation marks):
+The source may mark unspoken thought and telepathic/"heard" inner voice with
+bracket pairs. When a bracketed line unmistakably functions as a discrete
+thought or mind-voice, render it as *italics* (no quotation marks):
 
-- `（…）` parenthetical thought → *italics*
+- `（…）` discrete parenthetical thought → *italics*
 - `《…》` mind-voice / emphasized inner line → *italics*
 
 Do not wrap italicized thoughts in quotation marks, and do not add a "she
-thought" tag unless the source has one.
+thought" tag unless the source has one. A parenthetical qualification, example,
+correction, or comic aside is not automatically thought and keeps its source
+function instead of being italicized.
+
+Unmarked direct thought stays in roman type with no quotation marks or added
+italics. Its tense follows the direct-thought rule above; typography and tense
+are separate decisions.
 
 ## Scene Breaks
 

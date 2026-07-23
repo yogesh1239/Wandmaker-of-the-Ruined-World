@@ -30,7 +30,7 @@ Run **Stage 0 (PRE-GLOSS)** yourself before any translate task starts: scan the 
 
 Compare the chapter's source-line count to the part-split threshold (`core/pipeline.md`, "Path by length"):
 
-- **Source lines > threshold → PARTED path.** Target roughly one threshold-sized source scope per translation part. Around each target line, choose the nearest appropriate boundary: prefer an explicit `---`, then a scene or POV break, then a paragraph break. Never cut a scene merely to hit the exact line count. If the final remainder would be much smaller than the other parts, move the preceding boundary earlier or merge it when practical. Do not use the editor's ~150–200-line audit chunks as translation-part boundaries. Then build and drive the full dependency graph.
+- **Source lines > threshold → evaluate natural scopes.** Target roughly one threshold-sized source scope per translation part. Around each target line, choose the nearest appropriate boundary: prefer an explicit `---`, then a scene or POV break, then a paragraph break. Never cut a scene merely to hit the exact line count. If the final remainder would be much smaller, move the preceding boundary earlier or merge it. When that merge leaves the complete chapter as one scope still reasonably close to the threshold, use the WHOLE path rather than creating undersized parts; otherwise use the PARTED path. Do not use the editor's ~150–200-line audit chunks as translation-part boundaries. Then build and drive the full dependency graph.
 - **Source lines ≤ threshold → WHOLE path.** One Translate, one Edit; the editor finalizes the chapter file itself after its two passes (no Assemble stage — `core/pipeline.md`, Stage 2 "Whole-path finalization").
 
 ## 3. Build the task graph

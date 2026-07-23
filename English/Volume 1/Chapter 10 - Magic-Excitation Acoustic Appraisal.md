@@ -64,7 +64,7 @@ Hmm?
 
 The Blue Witch tried to come up with some sort of explanation, but all she produced was empty speculation.
 
-Hmm. I didn't really get it.
+Hmm. I don't really get it.
 
 With gemstones, color came from the elements they contained. Gemstones contained all kinds of elements, like copper, aluminum, and silicon, so they came in all kinds of shades.
 
@@ -96,7 +96,7 @@ Gremlins that contained fine debris also had a slightly lower amplification rati
 
 Even among Gremlins of exactly the same size and spherical shape, there was about a 5% gap in amplification ratio between "no uneven coloration and no impurities" and "uneven coloration and impurities."
 
-There was a performance difference after all!
+There is a performance difference after all!
 
 It was a tiny difference, the kind you couldn't see unless you prepared a huge number of Gremlins, controlled the conditions, and compared them.
 
@@ -148,7 +148,7 @@ When I made a wisecrack at the humanoid superweapon that had killed a giant kaij
 
 "O-Okay."
 
-That got gloomy all of a sudden, huh? This woman kept giving me glimpses of darkness every so often. I couldn't believe she was the same person who had been all excited with the stoat on her shoulder.
+That got gloomy all of a sudden, huh? This woman keeps giving me glimpses of darkness every so often. I can't believe she's the same person who was all excited with the stoat on her shoulder.
 
 Gremlin quality appraisal wasn't something you could learn overnight, and over the following week, I increased my knowledge with help from the Blue Witch, who dutifully went along with my verification experiments.
 
@@ -222,17 +222,17 @@ When I offered to help carry them, the Blue Witch shook her head.
 
 The Blue Witch said that like she had no attachment to them at all. Talk about bighearted. More like big-bellied—give it up for the 200 cm waist!
 
-Then again, if she got attached to something, she'd probably carry even a pebble close at all times. Well, whatever the reason, if she was giving them to me, I'd gratefully take them. Nothing was cheaper than free.
+Then again, if she gets attached to something, she'll probably carry even a pebble close at all times. Well, whatever the reason, if she's giving them to me, I'll gratefully take them. Nothing is cheaper than free.
 
-I was a genius Wand Maker, but without materials to process, I was just some guy. If the Blue Witch would handle not just promotion and negotiations but sourcing materials too, that would be a huge help.
+I'm a genius Wand Maker, but without materials to process, I'm just some guy. If the Blue Witch will handle not just promotion and negotiations but sourcing materials too, that'll be a huge help.
 
-I wouldn't have to trek to power plants looking for large Gremlins while cowering at every sign of a monster anymore.
+I won't have to trek to power plants looking for large Gremlins while cowering at every sign of a monster anymore.
 
 "Seriously, this helps. Want me to make you something in return? You went along with the experiments too, so it can double as thanks for that."
 
 "Don't casually make more nuclear weapons. One is enough."
 
-The Blue Witch said that, lightly tapping her shoulder with Cyanos. But that wasn't what this was about. Cyanos was a product, wasn't it? I was talking about a thank-you gift, not a promotional piece.
+The Blue Witch said that, lightly tapping her shoulder with Cyanos. But that's not what this is about. Cyanos is a product, isn't it? I'm talking about a thank-you gift, not a promotional piece.
 
 "Not a wand. Maybe a Gremlin accessory, like a necklace or earrings. This blue one might suit you if I set it in a ring."
 
@@ -242,7 +242,7 @@ I took the Blue Witch's hand and compared the size of her finger to the Gremlin,
 
 "Huh?"
 
-What was with this witch? She had suddenly jumped to a creepy conclusion.
+What is with this witch? She had suddenly jumped to a creepy conclusion.
 
 "I told you it's a thank-you, damn it. Got Gremlins stuffed in your ears? Just how pretty do you think you are? Assuming every man wants to hit on you is pretty damn conceited."
 
@@ -250,13 +250,13 @@ What was with this witch? She had suddenly jumped to a creepy conclusion.
 
 The Blue Witch faltered as she denied it, but that was what she was saying.
 
-If just asking, "How about an accessory?" counted as hitting on someone, then every clerk at an accessory shop was one hell of a pickup artist.
+If just asking, "How about an accessory?" counts as hitting on someone, then every clerk at an accessory shop is one hell of a pickup artist.
 
-That was ridiculous, right? Right?
+That's ridiculous, right? Right?
 
 "Well, you do have a stupidly pretty face, so I bet guys hit on you all the time. I guess it isn't being full of yourself... Wait, no, it isn't, is it?"
 
-I realized it as I said it. Of course a beautiful woman would talk like being beautiful was a given, right? I talked like my insane dexterity was a given too.
+I realized it as I said it. Of course a beautiful woman talks like being beautiful is a given, right? I talk like my insane dexterity is a given too.
 
 I slid the Blue Witch's mask aside a little and peeked underneath with narrowed eyes. A peerlessly beautiful girl stared back, dumbfounded. I slid the mask right back into place. Yep, that settled it.
 
@@ -270,7 +270,7 @@ If she looked that good, I guessed it couldn't be helped if she assumed every ma
 
 The utterly confused Blue Witch looked slightly put off.
 
-Why were you the one put off? I was the one who should've been totally creeped out.
+Why are you the one put off? I'm the one who should be totally creeped out.
 
 I'd never offer her accessories again. No way was I putting up with another creepy misunderstanding like that.
 

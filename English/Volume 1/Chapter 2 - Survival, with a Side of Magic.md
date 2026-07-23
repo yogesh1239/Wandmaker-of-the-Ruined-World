@@ -1,10 +1,10 @@
-People could live if they had clothing, food, and shelter. In other words: clothes, food, and a house.
+People can live if they have clothing, food, and shelter. In other words: clothes, food, and a house.
 
-Even if the electricity was gone, my clothes and house weren't going anywhere, so that part wasn't a problem.
+Even if the electricity is gone, my clothes and house aren't going anywhere, so that part isn't a problem.
 
-Food was the problem.
+Food is the problem.
 
-I knew some kind of disaster was happening, but I'd assumed food deliveries would start up again sooner or later. But without electricity, delivery services stopped too. Sitting around at home wasn't going to replenish my food supply.
+I knew some kind of disaster was happening, but I'd assumed food deliveries would start up again sooner or later. But without electricity, delivery services stop too. Sitting around at home isn't going to replenish my food supply.
 
 "Starving to death," something I'd never even thought about in my life, suddenly became a very real problem. I panicked and started living by hunting and gathering to secure food. Fishing, trapping, and picking wild mountain vegetables.
 
@@ -26,11 +26,11 @@ In that hard life with no end in sight, as my rice and canned food slowly dwindl
 
 Today, once again, I'd gotten venison thanks to Okutameteorite. Carrying the deer made every step down the mountain heavy, but my heart was as light as if it had grown wings.
 
-My cute, cute magic wand-chan, my treasured possession, served as a medium for casting magic. By singing at its natural frequency, I could make it fire a white beam.
+My cute, cute magic wand-chan, my treasured possession, serves as a medium for casting magic. By singing at its natural frequency, I can make it fire a white beam.
 
-This beam was about as thick as an elephant's leg—pretty damn thick—and it flew straight along the line between my mouth and Okutameteorite.
+This beam is about as thick as an elephant's leg—pretty damn thick—and it flies straight along the line between my mouth and Okutameteorite.
 
-It was powerful enough to make a small car shake hard with one shot.
+It's powerful enough to make a small car shake hard with one shot.
 
 I'd made the magic wand Okutameteorite as a hobby and carried it around for self-defense, but it was incredibly useful for hunting.
 
@@ -46,9 +46,9 @@ I drained the blood and removed the guts on the spot to make it lighter, but a w
 
 I set the deer down on the veranda and grinned as I imagined how many tens of kilos of meat I'd get out of it.
 
-There was too much to eat all at once. It was early spring, but with the fridge not working, it'd rot if I left it at room temperature. I had to slice it thin and sun-dry it.
+There's too much to eat all at once. It's early spring, but with the fridge not working, it'll rot if I leave it at room temperature. I have to slice it thin and sun-dry it.
 
-My sun-drying plan had already worked with pale chub I'd caught in the Tama River. If it worked with fish, it should work with meat too...
+My sun-drying plan has already worked with pale chub I caught in the Tama River. If it works with fish, it should work with meat too...
 
 "...Huh?"
 
@@ -66,25 +66,25 @@ I'd been careless. Until that exact moment, I hadn't even considered that someth
 
 If civilization collapsed and production and distribution stopped, the food sitting in convenience stores and supermarkets would disappear in no time.
 
-Stealing food when you were short was actually a perfectly reasonable idea in a collapsed society.
+Stealing food when you're short is actually a perfectly reasonable idea in a collapsed society.
 
-In the middle of a collapsed society where you didn't even know if you'd be safe tomorrow, I was probably the odd one out for casually starting to fish, trap, and work a field.
+In the middle of a collapsed society where you don't even know if you'll be safe tomorrow, I'm probably the odd one out for casually starting to fish, trap, and work a field.
 
 I was pissed at the bastard who'd stolen my precious food, and I kept searching all around the house for a while, but I couldn't find them. The culprit had run off ages ago.
 
 Apparently, someone besides me was still in Okutama, even though I'd thought all signs of human life were gone. Then again, if I was still here, it wasn't strange for others to be around too.
 
-The 110 emergency number I'd normally rely on at a time like this was useless now. I had no choice but to take the loss.
+The 110 emergency number I'd normally rely on at a time like this is useless now. I have no choice but to take the loss.
 
-Looking on the bright side, I was probably still managing to live on my own. Even without turning to looting, I was tilling fields and catching deer to keep myself fed.
+Looking on the bright side, I'm probably still managing to live on my own. Even without turning to looting, I'm tilling fields and catching deer to keep myself fed.
 
-I was covering what I lacked by digging into my stockpile, so it probably couldn't last forever. Even so, I hadn't sunk so low that I'd take someone else's food.
+I'm covering what I lack by digging into my stockpile, so it probably can't last forever. Even so, I haven't sunk so low that I'd take someone else's food.
 
-I was holding my own against this ruined world. I was doing great. Admirable.
+I'm holding my own against this ruined world. I'm doing great. Admirable.
 
 No matter how much I told myself that, it wouldn't bring back the food I'd lost. Still, my anger and panic calmed down a little.
 
-From now on, I'd be careful not to let anyone take my food...
+From now on, I'll be careful not to let anyone take my food...
 
 ---
 
@@ -114,7 +114,7 @@ At first glance, it looked like an ordinary wild rabbit.
 
 But there was a red gem embedded in its forehead.
 
-A tumor? A parasite? No. That wasn't it.
+A tumor? A parasite? No. That's not it.
 
 When I touched the thing, which was the size of my pinkie's nail, it felt hard like stone.
 
@@ -122,25 +122,25 @@ It was a mineral.
 
 The term "magical life-form" crossed my mind.
 
-If there were magic stones and magic, wouldn't there be magical life-forms too...?
+If there are magic stones and magic, wouldn't there be magical life-forms too...?
 
-This world had gotten pretty fantasy-like in just three months.
+This world has gotten pretty fantasy-like in just three months.
 
 I carefully took the dead, deformed wild rabbit home and put it on the workbench in my workroom to inspect it.
 
 The first thing my inspection showed was that the wild rabbit itself was mostly an ordinary rabbit.
 
-I wasn't a veterinarian, so it wasn't like I knew rabbit anatomy well. But in just under two months, I'd gotten pretty used to butchering animals. At least, I could tell it didn't have any major abnormalities—two hearts, no brain, unknown organs, that kind of thing. It looked safe to eat.
+I'm not a veterinarian, so it isn't like I know rabbit anatomy well. But in just under two months, I've gotten pretty used to butchering animals. At least, I can tell it doesn't have any major abnormalities—two hearts, no brain, unknown organs, that kind of thing. It looks safe to eat.
 
 I set the rabbit I'd dissected aside for the moment, then moved on to inspecting the gem the size of my pinkie nail that had been embedded in its forehead.
 
 The gem was a slightly misshapen sphere, red like a ruby.
 
-It wasn't unheard of for living things to produce minerals or mineral-like things.
+It isn't unheard of for living things to produce minerals or mineral-like things.
 
 Akoya pearl oysters made pearls, and ivory was prized as a material for art. Tortoiseshell, made from the shell of a kind of sea turtle, was prettier than plenty of gems and fetched a high price.
 
-But I'd never heard of rabbits producing gems like this.
+But I've never heard of rabbits producing gems like this.
 
 After thinking for a bit, I tried scratching the red gem with a small piece of industrial diamond.
 
@@ -152,21 +152,21 @@ Could this be a magic stone too!?
 
 I went into the backyard and sang at the red gem's natural frequency. It was way weaker than Okutameteorite, but a thin white beam limply sputtered out.
 
-It was a freaking magic stone! There wasn't just one magic stone!
+It's a freaking magic stone! There isn't just one magic stone!
 
 I got excited to discover something new for the first time in ages.
 
 I'd thought only Okutameteorite, which I'd carved out of a meteorite, was special.
 
-But that wasn't the case.
+But that isn't the case.
 
-If that was the case, then...
+If that's the case, then...
 
 I gathered up electric crystals that had fallen from the sky with the heavy rain and were still lying by the roadside. I sang at the natural frequency of those bead-sized crystals. Nothing happened. No beam, no resonance.
 
 Yeah, of course. If electric crystals fired beams too, all the random electric crystals scattered around on the ground would've sprayed beams everywhere whenever I played with my magic wand.
 
-I knew an object's natural frequency varied with its size and shape even when the material was the same, so it made sense that singing the note that resonated with Okutameteorite wouldn't make another gem resonate.
+I know an object's natural frequency varies with its size and shape even when the material is the same, so it makes sense that singing the note that resonates with Okutameteorite wouldn't make another gem resonate.
 
 But what if causing resonance wasn't important, and a particular sound was? What if Okutameteorite's natural frequency had just happened to match that sound?
 
@@ -176,9 +176,9 @@ I carefully ground the tiny, oddly shaped electric crystal into a sphere, workin
 
 When I sang at the tiny electric-crystal sphere's natural frequency—I'd probably never find it again if I dropped it—a feeble white beam trickled out like it had wet itself.
 
-It really fired a beam! You were a magic stone too!?
+It fires a beam! You're a magic stone too!?
 
-Well, I guess that made sense? Did it?
+Well, I guess that makes sense? Does it?
 
 Once I knew the result, it did seem reasonable enough.
 
@@ -186,17 +186,17 @@ The day Okutameteorite fell into my backyard was the same day electric crystals 
 
 My otaku spirit burst into flames.
 
-Electric crystals were everywhere. Magic-wand materials were everywhere.
+Electric crystals are everywhere. Magic-wand materials are everywhere.
 
-I could mass-produce magic wands with this.
+I can mass-produce magic wands with this.
 
-Amazing. This was amazing!
+Amazing. This is amazing!
 
 Wahahahahaha!
 
-I was a world-class Wand Maker!
+I'm a world-class Wand Maker!
 
-I was gonna make them! I was gonna make magic wands! Tons and tons of them!
+I'm gonna make them! I'm gonna make magic wands! Tons and tons of them!
 
 ...Though I had nowhere to sell them.
 
@@ -208,13 +208,13 @@ My heart jumped, and I froze.
 
 I listened closely. Someone was definitely there.
 
-You got caught by my alarm trap, looter! This time, I was ready for you!
+You got caught by my alarm trap, looter! This time, I'm ready for you!
 
 I gripped an iron pipe, crept down the hallway, and peeked outside through a gap in the shutters.
 
 If it was a group, I couldn't win. I'd have to take the loss again. But if it was one person, I'd beat them up and drive them away.
 
-I was gonna do it. I was gonna do it...!
+I'm gonna do it. I'm gonna do it...!
 
 I looked around the veranda in the faint moonlight. There was only one person there.
 
@@ -228,9 +228,9 @@ She was so small and weak that she looked like she'd break if I hit her with an 
 
 I was stunned.
 
-I'd been scared of this visibly weak little brat who'd stolen my food?
+I'm scared of this visibly weak little brat who stole my food?
 
-Little brat. She had some nerve looking down on an adult...!
+Little brat. She has some nerve looking down on an adult...!
 
 I rushed back to the living room, filled a plastic bag with homemade pickled daikon, and tied up some salty dried meat and smoked fish with string.
 
@@ -246,9 +246,9 @@ Hmph. Little brat!
 
 Don't underestimate adults!
 
-A sensible adult could give food to a child with her whole future ahead of her, even in a crisis.
+A sensible adult can give food to a child with her whole future ahead of her, even in a crisis.
 
-How do you like that? Huh? A little shit who could only keep herself alive by looting could never do that.
+How do you like that? Huh? A little shit who can only keep herself alive by looting can never do that.
 
 As I praised myself in my head for my extraordinary social skills, I heard quick little footsteps. Then, from right on the other side of the shutter, I heard a timid child's voice.
 
@@ -258,7 +258,7 @@ As I praised myself in my head for my extraordinary social skills, I heard quick
 
 Talking to another person for the first time in months was bad for my heart. I yelled desperately as my legs gave out and I staggered backward. Luckily, the terrifying brat who'd attacked me with the weapon called conversation went away.
 
-Damn it, this was why kids were such a pain. Didn't her mother teach her not to talk to strangers!? Don't talk to me! It's bad for my stomach!
+Damn it, this is why kids are such a pain. Didn't her mother teach her not to talk to strangers!? Don't talk to me! It's bad for my stomach!
 
 ---
 
@@ -270,11 +270,11 @@ In return, she'd leave little items she'd apparently gathered somewhere else, li
 
 Apparently, she meant them as a thank-you gift.
 
-But I didn't need them. Her choice of gifts was way too girly, and they were useless to me, both practically and for my hobbies.
+But I don't need them. Her choice of gifts is way too girly, and they're useless to me, both practically and for my hobbies.
 
 I let her steal food without saying anything for a while, but even with only me to feed, my food kept dwindling. I couldn't keep giving her handouts forever.
 
-Then again, she was so thin she was headed straight for starvation if I didn't share my food, and I'd feel guilty just abandoning her. If I went out one morning to find her starved to death at my front door, I'd never get another good night's sleep.
+Then again, she's so thin she's headed straight for starvation if I don't share my food, and I'd feel guilty just abandoning her. If I went out one morning to find her starved to death at my front door, I'd never get another good night's sleep.
 
 So I gave the girl a self-sufficiency kit and asked her to leave.
 
@@ -286,9 +286,9 @@ I hadn't handed it to her directly, just left it on the veranda, so I didn't kno
 
 But the self-sufficiency kit I'd left on the veranda was gone the next morning, and I stopped hearing noises at night after that.
 
-The little looter who'd posed a low-key threat to my way of life was gone. She'd probably do well somewhere far from my house.
+The little looter who'd posed a low-key threat to my way of life was gone. She'll probably do well somewhere far from my house.
 
-If she couldn't make it after all I'd done to set her up, then she'd just die. I'd probably starve to death too if I couldn't make it from here on, so let's call it even.
+If she can't make it after all I've done to set her up, then she'll just die. I'll probably starve to death too if I can't make it from here on, so let's call it even.
 
 ---
 
@@ -316,25 +316,25 @@ When fishing, I learned when to set the hook on a bite. I also reinforced the fe
 
 But come spring, after I finally made it through that harsh winter, I found myself at a loss before an empty rice bin, a pile of empty cans, and a completely empty salt jar.
 
-Survival was way too hard. How did people in prehistoric times manage to live on hunting and gathering alone? I seriously respected them.
+Survival is way too hard. How did people in prehistoric times manage to live on hunting and gathering alone? I seriously respect them.
 
 My daily routine had stabilized, and I had a way to drive off danger, but there was nothing I could do about the food shortage.
 
 I'd dug up and restored a nearby abandoned rice paddy, so in a few months I could harvest rice that fall.
 
-It was amateur work, but I'd played a rice-growing game before and read a rice-farming handbook I'd found at the agricultural cooperative, so I could expect a decent harvest.
+It's amateur work, but I've played a rice-growing game before and read a rice-farming handbook I found at the agricultural cooperative, so I can expect a decent harvest.
 
-But that didn't solve my immediate food problem.
+But that doesn't solve my immediate food problem.
 
-The few months until I could harvest rice. I had to somehow keep myself fed until then.
+The few months until I can harvest rice. I have to somehow keep myself fed until then.
 
-Fishing, trapping, and hunting with a magic wand just weren't enough, no matter what.
+Fishing, trapping, and hunting with a magic wand just aren't enough, no matter what.
 
-Magic wands were useful, but they couldn't solve everything.
+Magic wands are useful, but they can't solve everything.
 
-I'd enshrined my dependable partner, Okutameteorite-chan, as the guardian deity of my home. Lately, I carried a mass-produced magic wand instead.
+I've enshrined my dependable partner, Okutameteorite-chan, as the guardian deity of my home. Lately, I carry a mass-produced magic wand instead.
 
-This magic wand, Hendensho-kun, was one I'd carved with a new processing method from electric crystals I'd collected on a trip to Okutama Substation during the winter. It was pretty capable.
+This magic wand, Hendensho-kun, was one I'd carved with a new processing method from electric crystals I'd collected on a trip to Okutama Substation during the winter. It's pretty capable.
 
 The processing principle was inspired by the red-gem rabbits.
 
@@ -344,9 +344,9 @@ They were downright "magical."
 
 There were deer that let out a cry, wrapped themselves in lightning, and ran away at super speed, and raccoon dogs that cried out, paralyzed me with a glare, then ran off while I was stuck. They used some surprising moves.
 
-They always cried out when they used magic, so they were probably using their cries to cast magic from their gems, just like I did by shouting in my stupidly loud voice.
+They always cry out when they use magic, so they're probably using their cries to cast magic from their gems, just like I do by shouting in my stupidly loud voice.
 
-Well, I didn't really know the details. I'd never managed to bring down a wild animal that escaped using magic, so I couldn't observe one up close or catch one and analyze it. The red-gem rabbit was the only sample I had.
+Well, I don't really know the details. I've never managed to bring down a wild animal that escaped using magic, so I can't observe one up close or catch one and analyze it. The red-gem rabbit is the only sample I have.
 
 When I examined that red gem closely, I discovered it had a double-layered structure. It consisted of two layers, with an outer layer of gemstone surrounding the gemstone core.
 
@@ -362,7 +362,7 @@ First, I carved a fairly large electric crystal into a sphere and split it in ha
 
 In theory, this should have increased the power, but it didn't. It only produced the power of the electric crystal I used for the central core.
 
-Apparently, once a magic stone was broken, it lost its magical properties. My plan to cobble together tiny fragments into a giant crystal had failed too, so this approach probably wouldn't work.
+Apparently, once a magic stone is broken, it loses its magical properties. My plan to cobble together tiny fragments into a giant crystal failed too, so this approach probably won't work.
 
 So I decided to use the ship-in-a-bottle approach.
 
@@ -378,9 +378,9 @@ On top of that, the small hole I'd made to carve out the inside of the sphere be
 
 And that was how I completed the general-purpose, mass-produced magic wand Hendensho.
 
-With Hendensho in hand, I was going to head down the mountain and into town.
+With Hendensho in hand, I'm going to head down the mountain and into town.
 
-Then I'd come back with food, medical supplies, and whatever else I could recover!
+Then I'll come back with food, medical supplies, and whatever else I can recover!
 
 Up to now, I'd rejected thieving and looting as things people weren't supposed to do.
 
@@ -388,14 +388,14 @@ Part of it was simply that I was scared of running into other looters, and I'd k
 
 But I couldn't afford to be picky anymore.
 
-I couldn't survive anymore unless I took from others.
+I can't survive anymore unless I take from others.
 
-Okutama had already run out of supplies, so I needed to leave Okutama and search elsewhere.
+Okutama has already run out of supplies, so I need to leave Okutama and search elsewhere.
 
-I'd throw away my stupid pride.
+I'll throw away my stupid pride.
 
-I had no idea what things were like in the city center now.
+I have no idea what things are like in the city center now.
 
-Maybe it was in ruins, or maybe, surprisingly, a survivor community was still going strong and living a stable life.
+Maybe it's in ruins, or maybe, surprisingly, a survivor community is still going strong and living a stable life.
 
-Either way, I could only pray I wouldn't run into anyone during my looting run for supplies.
+Either way, I can only pray I won't run into anyone during my looting run for supplies.

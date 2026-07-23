@@ -7,6 +7,7 @@ The single per-novel knob file. Every field the harness reads lives here. `core/
 - **Identity** — Title (JP), Title (EN), Type, Genre/setting, Author *(set by /setup-novel)*.
 - **Source → volume map** — table `| Vol | Source file | Format | Extraction |` mapping each volume to its source ebook and extraction path (epub direct vs. azw3 via vendored KindleUnpack). Consumed by `split_ebook.py` and `derive_build_config.py`.
 - **Paths** — `Source/Volume N/`, `English/Volume N/`, `Editing/Volume N/`.
+- **Narrative/direct-thought tense** — under `## Conventions`, record that narrative action, description, and indirect/reported thought stay past while clearly direct, immediate internal monologue uses natural speech tense; also record the novel's marked/unmarked thought typography and any source-specific false-positive guard such as parenthetical asides.
 - **Unit paths** — optional table `| Unit | Source path | English path | Editing path |`.
   Use this for webnovels or any project whose release unit is not a numbered
   volume when running chapter gates. If absent, scripts retain the legacy
@@ -22,8 +23,10 @@ The single per-novel knob file. Every field the harness reads lives here. `core/
   boundary around each target interval (explicit scene marker, scene/POV break,
   then paragraph break), never cutting a scene solely to hit the number. Avoid a
   much smaller final remainder by moving the preceding boundary or merging the
-  remainder when practical. Default 400. The editor's smaller audit chunks do
-  not affect translation-part boundaries.
+  remainder when practical; if that merge leaves the complete chapter as one
+  scope still reasonably close to the target, keep it on the whole path rather
+  than creating two undersized parts. Default 400. The editor's smaller audit
+  chunks do not affect translation-part boundaries.
 - **Register lock** — the locked register + one-line justification. `UNSET` until `/setup-novel`; holds for the whole novel once set.
 - **Chapter-title map** — the legacy table `| Vol | N | JP title | EN title |`
   remains required for volume-based projects and EPUB builds. The chapter gate

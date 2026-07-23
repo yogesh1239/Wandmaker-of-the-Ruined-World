@@ -12,9 +12,9 @@ Parts of the houses had been gouged out and blown away, like they'd been swept a
 
 They looked seriously dangerous. Even if public safety had collapsed and rioters had run wild, things wouldn't end up like that.
 
-Maybe a real kaiju had shown up. Magic was real. Kaiju were possible too.
+Maybe a real kaiju showed up. Magic is real. Kaiju are possible too.
 
-There were deer and raccoon dogs that used magic, so if there were bears or lions that used magic, they could probably blow houses away without much trouble.
+There are deer and raccoon dogs that use magic, so if there are bears or lions that use magic, they can probably blow houses away without much trouble.
 
 Too scary.
 
@@ -36,13 +36,13 @@ There wasn't much food inside, but I still got a fair amount of unopened canned 
 
 The front door of the house next door was open, and a note for the family saying, "We're evacuating to the General Medical Center," was stuck there. The date written alongside it was from last year.
 
-An added note saying, "Be more careful of monsters than people," bothered me. Did monsters mean those magic-using animals? I had magic too, and I could manage monsters like rabbits or mice, but... were lions or rhinos that escaped from the zoo wandering around after all?
+An added note saying, "Be more careful of monsters than people," bothered me. Do monsters mean those magic-using animals? I have magic too, and I can manage monsters like rabbits or mice, but... are lions or rhinos that escaped from the zoo wandering around after all?
 
 The evacuees from Okutama should have come to Ome, but there was no sign of people at all, and I didn't know what was going on. Once I'd looted what I could, I'd hurry home.
 
-There was no food at all in the second house, but I found strawberry and edamame seeds in the storage room that I could grow in planters. I didn't have either in my home garden. This was huge.
+There was no food at all in the second house, but I found strawberry and edamame seeds in the storage room that I could grow in planters. I didn't have either in my home garden. This is huge.
 
-There wasn't anything else in particular. The only thing was an aquarium where all the water had evaporated, leaving dried-up goldfish lying on the gravel. It made me feel weirdly sad. The end of the world sure was depressing.
+There wasn't anything else in particular. The only thing was an aquarium where all the water had evaporated, leaving dried-up goldfish lying on the gravel. It made me feel weirdly sad. The end of the world sure is depressing.
 
 I crept along, thrilled that my hiking backpack was starting to get heavy, and eagerly headed for the third house. Then someone suddenly called down to me. My heart stopped.
 
@@ -130,7 +130,7 @@ When she said strange words with a weird, unfamiliar intonation, an ice spear as
 
 "Huh?"
 
-M-Magic!? That's awesome! It looked like higher-level magic than the white beams I always used!
+M-Magic!? That's awesome! It looks like higher-level magic than the white beams I always use!
 
 How'd you do that!? What you just said was an incantation, right!?
 
@@ -240,7 +240,7 @@ Yeah. I'd wanted information like this the whole time. It would've been better i
 
 "I see."
 
-So they were like invasive alien species.
+So they're like invasive alien species.
 
 Like bluegill released into a lake that quickly ate up the native fish and multiplied everywhere.
 
@@ -256,13 +256,13 @@ When I raised my hand and said that, the Blue Witch nodded.
 
 "Ah..."
 
-That was a chilling story.
+That's a chilling story.
 
 Really, it was good that I'd holed up at home. If I'd evacuated, I would've been done for. It worked out in the end.
 
-But hearing all this, it felt like humanity was definitely headed for extinction.
+But hearing all this, it feels like humanity is definitely headed for extinction.
 
-With electricity shut down, firearms factories couldn't operate, so they'd run out of ammunition soon, right? Aren't we done for?
+With electricity shut down, firearms factories can't operate, so they'll run out of ammunition soon, right? Aren't we done for?
 
 But one thing still bothered me.
 
@@ -290,7 +290,7 @@ The Blue Witch narrowed her eyes at the memory and sighed.
 
 A sudden disaster threw the world into chaos, but a beautiful high-school girl awakened superpowers and saved everyone!
 
-Awesome. I felt like I'd seen that kind of plot in anime before. How hype was that?
+Awesome. I feel like I've seen that kind of plot in anime before. How hype is that?
 
 "But there aren't any signs of people in Ome now."
 
@@ -316,7 +316,7 @@ Monsters ran rampant, public safety collapsed, and corpses piled up everywhere.
 
 Now witches and mages who awakened special powers kept the peace in their own territories.
 
-That was how it was. I mostly got it.
+That's how it is. I mostly get it.
 
 As I nodded in understanding, the Blue Witch tapped a finger against the magic wand Hendensho-kun lying on the table, leaned forward, and spoke.
 
@@ -352,9 +352,9 @@ When I mimed using a carving knife, the Blue Witch shook her head.
 
 Huh?
 
-I mean, what was I supposed to say to that?
+I mean, what am I supposed to say to that?
 
-There wasn't any secret method.
+There isn't any secret method.
 
 "I'm dexterous."
 
@@ -410,23 +410,23 @@ While I planned an escape route for emergencies and scanned for the back door, I
 
 Wait, huh!?
 
-Was that the second-season, limited-edition, made-to-order music box—the Ai-chan Model—from Magical Girl Logical☆Einstein!?
+Is that the second-season, limited-edition, made-to-order music box—the Ai-chan Model—from Magical Girl Logical☆Einstein!?
 
-S-Seriously!? I'd never seen one before! It was one of those ultra-rare music boxes—only 50 existed in the whole world!
+S-Seriously!? I've never seen one before! It's one of those ultra-rare music boxes—only 50 exist in the whole world!
 
-It wasn't a knockoff, was it?
+It isn't a knockoff, is it?
 
 I rushed over and looked at it up close. Since it was a made-to-order item that sold out immediately, its amazing quality showed in every little detail.
 
-Oh, ohhhh. The lace on the skirt was this fine! This was hand-sewn, wasn't it? Real craftsmanship! Could the Humanity Diamond on her chest actually be a real diamond? You don't use something like that on little girls' merchandise! This was totally merch for grown-up fans!
+Oh, ohhhh. The lace on the skirt is this fine! This is hand-sewn, isn't it? Real craftsmanship! Could the Humanity Diamond on her chest actually be a real diamond? You don't use something like that on little girls' merchandise! This is totally merch for grown-up fans!
 
 I tried to wind the music box so I could hear it, but the key wouldn't turn. When I put some strength into it, I felt it catch in a way that told me something inside was broken.
 
-Seriously? It was broken?
+Seriously? It's broken?
 
 It made me want to click my tongue.
 
-What was the Blue Witch even doing? This was a rare, expensive masterpiece that had set a new record for the highest-priced piece of official made-to-order anime merch. If it was broken, she should get it repaired. Did she know what this was worth? Idiot!
+What is the Blue Witch even doing? This is a rare, expensive masterpiece that set a new record for the highest-priced piece of official made-to-order anime merch. If it's broken, she should get it repaired. Does she know what this is worth? Idiot!
 
 Good grief. Guess it was time for me to lend a hand.
 
@@ -452,9 +452,9 @@ The Blue Witch had said, "Don't touch anything."
 
 And I'd gone and touched it anyway.
 
-This was bad.
+This is bad.
 
-She was going to kill me!
+She's going to kill me!
 
 Covered in cold sweat, I turned around slowly so I wouldn't provoke a wild beast.
 
@@ -462,11 +462,11 @@ I opened my eyes just a sliver and checked her expression. Contrary to what I ex
 
 Instead, a single tear ran down her cheek while her eyes stayed closed.
 
-Huh? What? What kind of emotion was that?
+Huh? What? What kind of emotion is that?
 
 The Blue Witch was listening intently to the music box. Whatever she felt about the opening song of this little girls' anime was way too heavy.
 
-D-Did you like this song that much? I liked it too, but she had me beat.
+D-Do you like this song that much? I like it too, but she has me beat.
 
 Eventually, the music box wound down, and the song stopped. The Blue Witch turned away and wiped her tears, then thanked me, her expression and voice gentle in a way they hadn't been before.
 
@@ -512,9 +512,9 @@ Glad we'd cleared up that misunderstanding.
 
 The Blue Witch said she wanted to thank me, then proposed an outrageous penalty, so I firmly shook my head.
 
-I was enjoying the glorious solo life. Why would I move somewhere where there were other people?
+I'm enjoying the glorious solo life. Why would I move somewhere where there are other people?
 
-Living alone deep in the mountains was hard, but living alone deep in the mountains itself was an advantage that wiped out every other disadvantage and then some. I was absolutely not moving.
+Living alone deep in the mountains is hard, but living alone deep in the mountains itself is an advantage that wipes out every other disadvantage and then some. I'm absolutely not moving.
 
 I went into full refusal mode, but the Blue Witch kept going, full of unnecessary concern.
 
@@ -542,7 +542,7 @@ I thought I probably cleared it up.
 
 The Blue Witch apparently had never met a social misfit like me before, and it took a lot of work to make her understand that I didn't hate her—I was just bad with people in general.
 
-I didn't dislike her or anything. But I'd be happy if she kept the right distance, sort of.
+I don't dislike her or anything. But I'd be happy if she kept the right distance, sort of.
 
 "..."
 
@@ -554,11 +554,11 @@ Then she went to the corner of the room and, without saying anything, gestured t
 
 When I said that, the Blue Witch seemed relieved.
 
-Sorry for making her do something so annoying. But thanks to her, I could finally breathe deeply again.
+Sorry for making her do something so annoying. But thanks to her, I can finally breathe deeply again.
 
 Once her skin was covered and her human outline blurred, it didn't matter how beautiful she was underneath.
 
-It was reassuring, like there wasn't a human in front of me. I wasn't scared anymore.
+It's reassuring, like there isn't a human in front of me. I'm not scared anymore.
 
 I'd gotten seriously sidetracked, but it was time to get back to the point.
 
@@ -586,7 +586,7 @@ No questions? Great. I got right to processing it.
 
 With nothing to hold it in place, shaving down a Gremlin the size of a grain of rice as it rolled around on the table with the tip of my knife seriously wore on my nerves. I should've at least brought tweezers.
 
-But being dexterous was my only good point.
+But being dexterous is my only good point.
 
 Even with inadequate tools. After a few minutes, I ended up with something I was really proud of.
 
@@ -608,7 +608,7 @@ Her letters were cute and round, the kind of girly handwriting that didn't match
 
 I'd just shown off some processing I normally did to kill time and keep my hands busy, but she was taking it dead seriously. That scared me.
 
-Wasn't she being a little dramatic? Sure, I called myself the world's greatest Wand Maker, but presidents and billionaires aside, would anybody really come after a craftsperson?
+Isn't she being a little dramatic? Sure, I call myself the world's greatest Wand Maker, but presidents and billionaires aside, would anybody really come after a craftsperson?
 
 When I looked doubtful, the Blue Witch flipped to a new page and wrote some more.
 
@@ -618,23 +618,23 @@ When I looked doubtful, the Blue Witch flipped to a new page and wrote some more
 
 It only really started sinking in once she gave me a concrete example.
 
-This was something that could change the world. Way too dangerous. If people found out who I was and what I could do, getting kidnapped and locked up would be a sure thing!
+This is something that could change the world. Way too dangerous. If people find out who I am and what I can do, getting kidnapped and locked up will be a sure thing!
 
-...But having the power to change the world was exciting, wasn't it?
+...But having the power to change the world is exciting, isn't it?
 
 Honestly, I wanted to make tons of overtechnology magic wands that only I could make, sell tons of them, and show off.
 
-The electricity could stay off for all I cared, so couldn't just online auctions come back? I wanted to grin as I watched the bids for my magic wands climb higher and higher!
+The electricity can stay off for all I care, so couldn't just online auctions come back? I want to grin as I watch the bids for my magic wands climb higher and higher!
 
-But it was an impossible wish. Online auctions were gone and would never come back.
+But it's an impossible wish. Online auctions are gone and will never come back.
 
-I couldn't make it in a regressed business world where I had to use my own legs and mouth to sell products.
+I can't make it in a regressed business world where I have to use my own legs and mouth to sell products.
 
-Just hearing the words "sales pitch" gave me goosebumps.
+Just hearing the words "sales pitch" gives me goosebumps.
 
-Was I really stuck living quietly and keeping my head down, like the Blue Witch said?
+Am I really stuck living quietly and keeping my head down, like the Blue Witch said?
 
-That was too sad. Wasn't there any way to stay hidden, never meet anyone, and still make my work—the finest of the age—known to the world?
+That's too sad. Isn't there any way to stay hidden, never meet anyone, and still make my work—the finest of the age—known to the world?
 
 > Thanks for your help today. I'll take you to Okutama. If you run into any trouble, I'll help.
 
@@ -650,29 +650,29 @@ More than anything, though, I was mentally exhausted. She seemed to be giving a 
 
 When I asked permission, the Blue Witch nodded without a word.
 
-All right. As long as I got that promise, everything was okay.
+All right. As long as I've got that promise, everything is okay.
 
-I'd make sure not to run into her from now on, and she would probably do the same. We probably wouldn't ever meet again.
+I'll make sure not to run into her from now on, and she'll probably do the same. We probably won't ever meet again.
 
-It helped that she'd taught me all kinds of things today.
+It helps that she taught me all kinds of things today.
 
-It felt like there wasn't much point in exchanging information when my conclusion after learning it was that living more or less as I had before was best. Still, I was at least free from the anxiety of having no idea what was going on around me.
+It feels like there isn't much point in exchanging information when my conclusion after learning it is that living more or less as I did before is best. Still, I'm at least free from the anxiety of having no idea what is going on around me.
 
-I could see a way to solve my food problem, and now that I knew I couldn't hope for electricity to be restored, improving my living conditions any further would probably be really hard.
+I can see a way to solve my food problem, and now that I know I can't hope for electricity to be restored, improving my living conditions any further will probably be really hard.
 
-I knew what things were like now, and I could kind of see where I was headed too.
+I know what things are like now, and I can kind of see where I'm headed too.
 
-Surely, every day from here on out would be the same, forever and ever.
+Surely, every day from here on out will be the same, forever and ever.
 
-To keep dangerous people from noticing me, I'd leave all the great magic wands I'd made sitting in storage, keep my head down every day, grow old, and eventually quietly die.
+To keep dangerous people from noticing me, I'll leave all the great magic wands I've made sitting in storage, keep my head down every day, grow old, and eventually quietly die.
 
-Dying alone was more than welcome.
+Dying alone is more than welcome.
 
-But I couldn't help regretting that I'd never be able to show my work to the world.
+But I can't help regretting that I'll never be able to show my work to the world.
 
-Ah, man! So life didn't let everything work out, huh?
+Ah, man! So life doesn't let everything work out, huh?
 
-Well, I guess I could be satisfied that my dream of dying alone was looking more realistic.
+Well, I guess I can be satisfied that my dream of dying alone is looking more realistic.
 
 ...
 
@@ -690,9 +690,9 @@ The Blue Witch.
 
 She was dutifully going along with my full-blown social-misfit refusal to communicate.
 
-Maybe she thought fixing the music box was a huge favor, but it looked like she might agree to a few unreasonable requests.
+Maybe she thinks fixing the music box was a huge favor, but it looks like she might agree to a few unreasonable requests.
 
-It was free to ask, wasn't it?
+It's free to ask, isn't it?
 
 I stood there frozen for several whole minutes, worrying whether a rude request would upset her, whether it was too pushy to ask on the day we met, and what I'd do if she turned me down and got angry.
 
@@ -720,25 +720,25 @@ When I bought things, delivery companies came to the front of my house and left 
 
 I never met anyone face-to-face, but my online-auction business worked with help from all kinds of companies.
 
-I'd have the Blue Witch do the job those companies did.
+I'll have the Blue Witch do the job those companies did.
 
-I'd stay shut in and make magic wands.
+I'll stay shut in and make magic wands.
 
-The Blue Witch would collect the finished works, keep their source hidden, advertise them, negotiate with customers, sell them, and bring the proceeds—supplies—to me.
+The Blue Witch will collect the finished works, keep their source hidden, advertise them, negotiate with customers, sell them, and bring the proceeds—supplies—to me.
 
-That way, I could stay shut in at home and obsess over my hobby!!!
+That way, I can stay shut in at home and obsess over my hobby!!!
 
 The flaw in this genius idea was that the Blue Witch had no reason to take on such an insanely tedious errand. But on the condition that I make her own magic wand for free, she gladly agreed.
 
-That was a perfect deal for me too.
+That's a perfect deal for me too.
 
-When famous people used your products, it was seriously great advertising!
+When famous people use your products, it's seriously great advertising!
 
-The Blue Witch was presumably famous: she governed the city of Ome alone and apparently had connections with other witches. If I made her a wand, every time she did something impressive, the wand's reputation would rise too. Just carrying it around would have an advertising effect.
+The Blue Witch is presumably famous: she governs the city of Ome alone and apparently has connections with other witches. If I make her a wand, every time she does something impressive, the wand's reputation will rise too. Just carrying it around will have an advertising effect.
 
-I didn't want my face or name to get around, but I wanted the greatness of my wands to spread farther and farther.
+I don't want my face or name to get around, but I want the greatness of my wands to spread farther and farther.
 
-For that, I was going to make a top-of-the-line magic wand worthy of the Blue Witch.
+For that, I'm going to make a top-of-the-line magic wand worthy of the Blue Witch.
 
 ---
 
@@ -752,7 +752,7 @@ But the blue magic stone I'd received this time was palm-sized. It was smaller t
 
 The rough stone was pretty misshapen too, but it was mostly a sphere, so there wouldn't be much loss while carving it down.
 
-With this, I could go six layers... no, all the way to seven!
+With this, I can go six layers... no, all the way to seven!
 
 By candlelight, I kept working day and night.
 
@@ -788,7 +788,7 @@ I put a lot into the design too. I inlaid silver to highlight shallow, Celtic-in
 
 Every bit of the design and decoration was arranged to bring out the beautiful blue gem at the end of the handle. I even mixed blue dye into the bonding material so the whole thing would match.
 
-No Wand Maker besides me could make a better magic wand. How do you like that?
+No Wand Maker besides me can make a better magic wand. How do you like that?
 
 The Blue Wand Cyanos, which I'd left at the front door with a delivery specification sheet, was gone by the next morning.
 

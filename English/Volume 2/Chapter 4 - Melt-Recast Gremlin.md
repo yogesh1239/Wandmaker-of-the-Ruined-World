@@ -6,15 +6,15 @@ Long ago, blacksmiths set up workshops near mines and iron-sand-producing areas 
 
 By understanding materials and using good ones, craftsmen boosted the quality of their work.
 
-I was the world's most dexterous man, but when it came to materials science, I had to admit I was only a little better than an amateur.
+I'm the world's most dexterous man, but when it comes to materials science, I have to admit I'm only a little better than an amateur.
 
-Going forward, as the self-proclaimed one and only—and greatest—Wand Maker in the world, I had to become thoroughly familiar not just with how to process my materials, magic stones and Gremlins, but with their properties too.
+Going forward, as the self-proclaimed one and only—and greatest—Wand Maker in the world, I have to become thoroughly familiar not just with how to process my materials, magic stones and Gremlins, but with their properties too.
 
-I didn't let my guard down. Even after making Cyanos and Aleister, I still had a long way to go in honing my skills.
+I don't let my guard down. Even after making Cyanos and Aleister, I still have a long way to go in honing my skills.
 
 Even when I made money listing anime goods on online auctions, inferior copies of my work (apparently made with a 3D printer) had started circulating and taken market share from me.
 
-Right now, no Wand Maker was better than me.
+Right now, no Wand Maker is better than me.
 
 But if I got complacent, newcomers would copy my techniques, overtake me, and sneer, “That guy used to be amazing, but look at him now, lol.”
 
@@ -128,43 +128,43 @@ For example, the Gremlin from the rabbit monster I got long ago was red. The whi
 
 Colored Gremlins performed no differently from milky-white Gremlins, but just having color made them feel special somehow, and that was really nice.
 
-Melting and recasting Gremlins would help get at the secret of these colored Gremlins.
+Melting and recasting Gremlins will help get at the secret of these colored Gremlins.
 
 Could I color them by adding a metal compound, like glass?
 
-Or did I need to add a nonmetal compound?
+Or do I need to add a nonmetal compound?
 
 What color would I get if I mixed a red Gremlin with a milky-white Gremlin?
 
-There were all kinds of things I could do with melting experiments using the reverberatory furnace.
+There are all kinds of things I can do with melting experiments using the reverberatory furnace.
 
-Learning all about dyeing Gremlins didn't have any particular benefit, but that was only true right now.
+Learning all about dyeing Gremlins doesn't have any particular benefit, but that's only true right now.
 
-Research I couldn't see any use for right now might be useful as hell somewhere someday. Or it might never be useful at all. That was basic research—the kind of materials science a craftsman needed.
+Research I can't see any use for right now might be useful as hell somewhere someday. Or it might never be useful at all. That's basic research—the kind of materials science a craftsman needs.
 
-A craftsman with a mountain of interesting but useless knowledge gave off this real hotshot vibe. That was cool too.
+A craftsman with a mountain of interesting but useless knowledge gives off this real hotshot vibe. That's cool too.
 
-Unlike Professor Ohinata, who could only do research that was “immediately useful” because her funding from the Foresight Mage—and by extension, the Tokyo Witches' Council—came with strings attached, I was free. I could research whatever I wanted for as long as I wanted.
+Unlike Professor Ohinata, who can only do research that is “immediately useful” because her funding from the Foresight Mage—and by extension, the Tokyo Witches' Council—comes with strings attached, I'm free. I can research whatever I want for as long as I want.
 
-Going solo had plenty of downsides and inconveniences, but at times like this, I was glad I liked being alone.
+Going solo has plenty of downsides and inconveniences, but at times like this, I'm glad I like being alone.
 
 I reread all the research history and thoughts in my notebook, but the reverberatory furnace still hadn't come anywhere close to heating all the way up.
 
-At this pace, I had to keep pumping the bellows and sending in air for another two hours.
+At this pace, I have to keep pumping the bellows and sending in air for another two hours.
 
-Magical fire would've heated it up right away. But because of the nature of the experiment, it sucked that I had to struggle to raise the temperature with natural fire like this.
+Magical fire would've heated it up right away. But because of the nature of the experiment, it sucks that I have to struggle to raise the temperature with natural fire like this.
 
-I kept working the bellows while wiping away sweat. This was tougher than I expected. I was gonna throw out my back.
+I kept working the bellows while wiping away sweat. This is tougher than I expected. I'm gonna throw out my back.
 
 Two hours later, exhausted after all that dull heavy labor, I finally confirmed that the Gremlins packed into the crucible inside the furnace had melted into a thick liquid, and I started slowly lowering the furnace's temperature.
 
-Gremlins seemed crystalline, so they would probably crack when they solidified if I dropped the temperature too fast. I would gradually reduce the fire over time, then once it went out, seal the furnace vents with dirt and wait a full day for the temperature to come down naturally.
+Gremlins seem crystalline, so they'll probably crack when they solidify if I drop the temperature too fast. I'll gradually reduce the fire over time, then once it goes out, seal the furnace vents with dirt and wait a full day for the temperature to come down naturally.
 
 I spent three hours gradually reducing the fire until it went out. After a total of six hours tending it, I was wiped out and went home to take a bath. Between the heat, sweat, and soot, I was all smoky and my throat was dry. What a mess.
 
 Throwing charcoal into the furnace to add fuel had been hard work too, in its own dull way.
 
-Well, I got a good sweat out of it. If I did this job regularly, I might build some muscle.
+Well, I got a good sweat out of it. If I do this job regularly, I might build some muscle.
 
 ---
 
@@ -180,11 +180,11 @@ While doing the coloring experiments, I also learned something that was all down
 
 Seriously useless, but if I made a prison or something from melt-recast Gremlin, it might interfere with prisoners using magic. Maybe. Probably.
 
-Magic-power consumption only doubled, so if they used twice as much magic power, they could cast magic normally. That made it pretty unreliable as a way to prevent magic.
+Magic-power consumption only doubles, so if they use twice as much magic power, they can cast magic normally. That makes it pretty unreliable as a way to prevent magic.
 
-Well, this experimental data would be useful someday too. Probably.
+Well, this experimental data will be useful someday too. Probably.
 
-The principle behind coloring Gremlins wasn't useful for my main job of making magic wands, but it did help with my side job making accessories. Looked at that way, it wasn't bad at all.
+The principle behind coloring Gremlins isn't useful for my main job of making magic wands, but it does help with my side job making accessories. Looked at that way, it isn't bad at all.
 
 Now then.
 
@@ -196,13 +196,13 @@ They weren't sleek metal boxes, though. They were freight trains made by linking
 
 Even so, the return of public transportation gave the public a huge ray of hope. Professor Ohinata had attended the opening ceremony, and apparently half the people were in tears while the other half were celebrating.
 
-For real, that was amazing. I got that it was possible in theory, but actually pulling it off in such a short time, with so few supplies and so little labor, was seriously amazing.
+For real, that's amazing. I get that it's possible in theory, but actually pulling it off in such a short time, with so few supplies and so little labor, is seriously amazing.
 
 Bringing freight trains back only two and a half years after the Gremlin Disaster really let Japan live up to its reputation as a technological powerhouse.
 
-Just as Tokyo had risen from the ashes after World War II ended, this convinced me it would surely rise from the Gremlin Disaster like a phoenix too.
+Just as Tokyo had risen from the ashes after World War II ended, this convinces me it will surely rise from the Gremlin Disaster like a phoenix too.
 
-The next big reconstruction story after the trains had to be the spread of fertility magic, which had kept moving forward since last year.
+The next big reconstruction story after the trains has to be the spread of fertility magic, which has kept moving forward since last year.
 
 The fertility-magic bypass incantation had spread rapidly over the past year.
 
@@ -212,13 +212,13 @@ They apparently made it a rule not to teach children 11 or younger, out of conce
 
 This year's food production had reached 98% of the needed amount, and estimates said that next year, along with expanded farmland, the food self-sufficiency rate would reach 102%.
 
-That was an unbelievably rapid improvement, considering that through last year people had been crying, “Impossible. We're headed for starvation hell.”
+That's an unbelievably rapid improvement, considering that through last year people had been crying, “Impossible. We're headed for starvation hell.”
 
-But when I thought about it calmly, it was nuts that even with bugged magic that could instantly more than double crop yields, the self-sufficiency rate was still around 100%. Without magic, simple math put it at 50%. No wonder things would turn into a hellscape.
+But when I think about it calmly, it's nuts that even with bugged magic that can instantly more than double crop yields, the self-sufficiency rate is still around 100%. Without magic, simple math puts it at 50%. No wonder things would turn into a hellscape.
 
-Even I, enjoying a carefree bachelor life out in the country, had been helped a ton when the yields from my fields and rice paddies doubled, so people in the cities who had been rationing food must've shed so many tears of joy they'd dried themselves out.
+Even I, enjoying a carefree bachelor life out in the country, have been helped a ton by the yields from my fields and rice paddies doubling, so people in the cities who had been rationing food must've shed so many tears of joy they'd dried themselves out.
 
-As a tech guy myself, I knew full well that brutal effort and impossible demands lay behind that flashy reconstruction story.
+As a tech guy myself, I know full well that brutal effort and impossible demands lie behind that flashy reconstruction story.
 
 I manufactured and shipped general-purpose, mass-produced magic wands for Tokyo Magic University, which had started trialing a one-year curriculum, and in return, I got priority access to sugar, soy sauce, miso, seafood, clothes, other supplies I couldn't get easily on my own, and luxuries.
 
@@ -230,22 +230,22 @@ The Blue Witch, who had the overtechnology Blue Wand Cyanos with nuclear-bomb-cl
 
 There was also a rumor that the Dragon Witch had kidnapped an Ome resident, and the Blue Witch had torn off one of the Dragon Witch's legs.
 
-Anyone who didn't suspect Ome after all that was an idiot.
+Anyone who doesn't suspect Ome after all that is an idiot.
 
-Actually, I was the Wand Maker in question, living the easy craftsman life in Okutama next door to Ome. No way anyone could figure that out.
+Actually, I'm the Wand Maker in question, living the easy craftsman life in Okutama next door to Ome. No way anyone can figure that out.
 
-Thanks to the Blue Witch and Professor Ohinata protecting my secret and my safety (and the Dragon Witch being forced by the Blue Witch's threats to keep my secret), I got to live alone in this collapsed world just like I wanted. But I had a complaint too. Magic-wand making had been getting kind of stale lately.
+Thanks to the Blue Witch and Professor Ohinata protecting my secret and my safety (and the Dragon Witch being forced by the Blue Witch's threats to keep my secret), I get to live alone in this collapsed world just like I want. But I have a complaint too. Magic-wand making has been getting kind of stale lately.
 
-For the last year, I had only obsessed over wand details, and I hadn't made any progress on improving performance or developing new features. I did occasionally run useless experiments, with melt-recast Gremlin at the top of the list, but I couldn't think of any good ideas to push wands forward. It was a kind of slump.
+For the last year, I've only obsessed over wand details, and I haven't made any progress on improving performance or developing new features. I do occasionally run useless experiments, with melt-recast Gremlin at the top of the list, but I can't think of any good ideas to push wands forward. It's a kind of slump.
 
-At times like this, the thing to do was ask customers for feedback.
+At times like this, the thing to do is ask customers for feedback.
 
 I wrote to Professor Ohinata, a heavy user of magic wands, asking, “Is there any kind of magic wand you'd like to have?” I got a reply in no time, packed with detailed requirements for a backlash-prevention magic wand.
 
-The request was more specific than I expected, and it got me interested.
+The request is more specific than I expected, and it has me interested.
 
-At the cutting edge of magic research and application, it seemed my magic wands still had plenty of shortcomings.
+At the cutting edge of magic research and application, it seems my magic wands still have plenty of shortcomings.
 
-Nice. This—this was what I wanted. A craftsman had to come through when a customer said, “I want this!”
+Nice. This—this is what I wanted. A craftsman has to come through when a customer says, “I want this!”
 
-All right! The next wand I'd make would be a backlash-prevention magic wand!
+All right! The next wand I'll make is a backlash-prevention magic wand!

@@ -139,6 +139,13 @@ Identify the narration mode before translating each chapter:
 Record the mode and (if rotating) the active-narrator detection signals in
 `character-voices.md`.
 
+The narrator block must also preserve the shared tense distinction: narrative
+action, description, and indirect/reported thought stay past; clearly direct,
+immediate internal monologue uses natural speech tense, often present. Apply
+this only after identifying the line as a discrete inner utterance. Do not turn
+every rhetorical question, parenthetical aside, or free-indirect comment into
+present tense, and do not add quotation marks or italics to unmarked thought.
+
 ## Part 3 — Keeping Characters Distinguishable
 
 When a line has no dialogue tag, identify the speaker before translating — in

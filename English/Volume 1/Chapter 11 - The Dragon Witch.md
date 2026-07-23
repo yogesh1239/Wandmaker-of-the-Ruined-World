@@ -44,15 +44,15 @@ Ohinata Kei』
 
 I tossed the letter I'd finished reading into the letter case and wolfed down the pumpkin cookies wrapped in oil paper.
 
-Hmm, so-so! They didn't seem to contain any butter or sugar, so they weren't nearly sweet enough. 50 points.
+Hmm, so-so! They don't seem to contain any butter or sugar, so they aren't nearly sweet enough. 50 points.
 
 But for cookies baked while food rationing was still in effect? 120 points. Mmm, tasty.
 
-Professor Ohinata included sweets with every letter, so it kind of felt like she was taming me with food.
+Professor Ohinata includes sweets with every letter, so it kind of feels like she's taming me with food.
 
-Well, I sometimes sent her Gremlin accessories I'd made by carving Gremlins in return. Kid or not, I honestly appreciated getting critiques from a woman's perspective.
+Well, I sometimes send her Gremlin accessories I've made by carving Gremlins in return. Kid or not, I honestly appreciate getting critiques from a woman's perspective.
 
-The capabilities of magic wands inevitably put limits on their distribution, but pretty little accessories didn't have that problem. I wanted to hone my skills with her feedback and sell some here and there as a side business alongside my work as a Wand Maker.
+The capabilities of magic wands inevitably put limits on their distribution, but pretty little accessories don't have that problem. I want to hone my skills with her feedback and sell some here and there as a side business alongside my work as a Wand Maker.
 
 After stuffing myself with cookies to take the edge off my hunger, I put on my straw hat, hung a hand towel around my neck, stuck Hendensho through my belt, put my water bottle in my back pocket, slung my sickle over my shoulder, and headed out to harvest.
 
@@ -68,13 +68,13 @@ A soft, sparkling wave rolled out of the wand and spread in a fan.
 
 The rice heads showered with sparkles suddenly swelled a size larger, and the stalks that could no longer support them snapped one after another. The rice fell over as if a strong wind had flattened it.
 
-Mm, good. Harvesting had just gotten harder, but the yield was more than double. Seriously broken magic.
+Mm, good. Harvesting just got harder, but the yield is more than double. Seriously broken magic.
 
 I cast fertility magic over the whole 2-are (200 m²) rice paddy in four rounds, then got straight to harvesting. By my calculations, that would get me four koku of rice, enough to feed four adults for a year.
 
 I'd grown two koku worth of rice, expecting losses from animal damage, disease, and poor growth (there was no way a beginner like me could suddenly take care of a huge rice paddy, so I kept the planting to a reasonable amount). Even accounting for how much those damn birds had eaten because the harvest was two days late, I was more than satisfied with the result.
 
-Praise be, praise be. I had to build a shrine to Ohinata Daimyojin-sama[^1], god of farming.
+Praise be, praise be. I have to build a shrine to Ohinata Daimyojin-sama[^1], god of farming.
 
 Singing a rice song I'd learned in a rice-growing game, I happily cut the rice and hung it on wooden drying racks. So what if my hands and back hurt? Every bit of hard work meant more food. Nothing could make me happier.
 
@@ -112,7 +112,7 @@ Civilization had declined since the Gremlin Disaster, but being able to use free
 
 Overhead were white clouds, a clear blue sky, and a bird circling slowly.
 
-Man, it was peaceful.
+Man, it's peaceful.
 
 ............
 
@@ -144,15 +144,15 @@ It was a ridiculously strong monster humans couldn't beat, the kind the Blue Wit
 
 As I held my breath, cold sweat pouring down my face, a light tremor shook the ground as it landed nearby.
 
-No, it was close. Really close. Didn't it land really close? Was it okay to keep hiding? Should I make a full-speed run for it and hope for the best?
+No, it's close. Really close. Didn't it land really close? Is it okay to keep hiding? Should I make a full-speed run for it and hope for the best?
 
 When I nervously peeked through the weeds growing on the paddy ridge, the dragon was standing in front of my house, of all places.
 
-N-Noooo! This was the worst!
+N-Noooo! This is the worst!
 
 Seeing it beside my house made the dragon's size clear. It stood about 7 m tall, a little lower than the roof of a two-story house. Its total length, tail included, was even longer. It was a solidly built Western-style dragon with a pair of wings, and the sharp, blade-like tip of its tail flashed in the sunlight. A big gem like compressed fire was embedded in its chest.
 
-The wind carried the smell of something scorched, and it put me on edge. Hey, it wasn't going to start a forest fire, right?
+The wind carried the smell of something scorched, and it put me on edge. Hey, it isn't going to start a forest fire, right?
 
 The dragon pressed its reptile face against the wall of my house and sniffed at it for a while. Then it suddenly slammed its tail down and blew off one corner of the house.
 
@@ -160,7 +160,7 @@ Aah!? Y-You bastard! What the hell are you doing to my house!?
 
 I nearly shouted, but managed to hold it in.
 
-Calm down. Think positive. If it played with the house, wrecked it, left satisfied, and went home, that was fine. Better the house than my life.
+Calm down. Think positive. If it plays with the house, wrecks it, leaves satisfied, and goes home, that's fine. Better the house than my life.
 
 I held my breath and watched.
 
@@ -174,13 +174,13 @@ I shook with anger.
 
 Y-You bastard! Thief! Robber! Looter!
 
-Dragons loved treasure. It was a standard trait for dragons in fantasy.
+Dragons love treasure. It's a standard trait for dragons in fantasy.
 
-True to type, this dragon apparently loved shiny things. It diligently ransacked my house and stole one work after another that I had collected and made.
+True to type, this dragon apparently loves shiny things. It diligently ransacked my house and stole one work after another that I had collected and made.
 
-I-I couldn't let this slide. No way. I wanted to go punch it right now.
+I-I can't let this slide. No way. I want to go punch it right now.
 
-But if I ran out now, it would kill me. I had no choice but to hold back and wait for the storm to pass.
+But if I run out now, it'll kill me. I have no choice but to hold back and wait for the storm to pass.
 
 As I clenched my teeth and endured, the dragon let out an especially loud happy cry. It clamped my ultimate treasure, Okutameteorite, in its jaws and shook its tail wildly.
 
@@ -190,9 +190,9 @@ You... what?
 
 Hey.
 
-No. That was too far.
+No. That's too far.
 
-I'd hit my limit.
+I've hit my limit.
 
 I jumped to my feet, readied Hendensho, and shouted.
 
@@ -208,9 +208,9 @@ I'd known that would happen, but it had done absolutely nothing. Less than a mos
 
 Its face practically said, “Did you just do something?”
 
-Damn it! Fine, screw it. I'd get close, shove the wand into its mouth, and fire at point-blank range this time! If I attacked inside its body, where it had no scales, it might at least hurt a little. I'd use that opening to take back Okutameteorite, then run away and hide.
+Damn it! Fine, screw it. I'll get close, shove the wand into its mouth, and fire at point-blank range this time! If I attack inside its body, where it has no scales, it might at least hurt a little. I'll use that opening to take back Okutameteorite, then run away and hide.
 
-Okay! That was the plan. I didn't care what else it stole, but I wouldn't hand over Okutameteorite. It was my treasure!
+Okay! That's the plan. I don't care what else it steals, but I won't hand over Okutameteorite. It's my treasure!
 
 “Uooooooh!”
 
@@ -220,7 +220,7 @@ Okay! That was the plan. I didn't care what else it stole, but I wouldn't hand o
 
 I was rushing at the dragon with Hendensho ready and prepared to die, but when it spoke to me in a puzzled tone, I skidded to a stop.
 
-I-It talked? Even though it was a monster. Monsters weren't supposed to talk!
+I-It talked? Even though it's a monster. Monsters aren't supposed to talk!
 
 The vicious-looking dragon had fierce golden eyes, but it continued in a young woman's voice that didn't suit its appearance.
 
@@ -297,7 +297,7 @@ With just one flap of her wings, she shot forward, and the ground rapidly fell a
 
 Roller coasters had nothing on this. All the blood drained from my body.
 
-Aaaaaah! Why was this happening!? I was just harvesting rice!
+Aaaaaah! Why is this happening!? I'm just harvesting rice!
 
 “H-Help me!”
 
@@ -347,9 +347,9 @@ When I shook my leg to show her it was chained to the statue, the Dragon Witch c
 
 When I refused her order, the Dragon Witch bared her fangs and glared at me with vicious eyes.
 
-Scary. But to her, I was a valuable treasure maker. She probably wouldn't squish me with a pop just because I'd annoyed her a little. I should stand my ground.
+Scary. But to her, I'm a valuable treasure maker. She probably won't squish me with a pop just because I've annoyed her a little. I should stand my ground.
 
-Even if my opponent was a dragon, I could act tough if it wasn't human.
+Even if my opponent is a dragon, I can act tough if it isn't human.
 
 “Quit with the cutesy sentence endings. Nobody wants a dragon talking like that.”
 
@@ -361,9 +361,9 @@ Even if my opponent was a dragon, I could act tough if it wasn't human.
 
 “Scary.”
 
-It was seriously creepy to picture. Like an evil witch from an old story.
+It's seriously creepy to picture. Like an evil witch from an old story.
 
-Well, she really was a witch. I almost forgot because the Blue Witch I knew best looked like an ordinary woman in a mask.
+Well, she really is a witch. I almost forget because the Blue Witch I know best looks like an ordinary woman in a mask.
 
 Wait, yeah.
 
@@ -393,11 +393,11 @@ When I brought up the Blue Witch's name to the Dragon Witch, who showed no sign 
 
 My only bargaining chip got laughed off, and my confidence wavered.
 
-Maybe she was right.
+Maybe she's right.
 
-If Professor Ohinata were kidnapped, the Blue Witch seemed like she'd freeze all of Tokyo to save her. But me? I was only her business partner for selling magic wands. The Blue Witch had no obligation to save me.
+If Professor Ohinata were kidnapped, the Blue Witch seems like she'd freeze all of Tokyo to save her. But me? I'm only her business partner for selling magic wands. The Blue Witch has no obligation to save me.
 
-She had wanted to keep my identity hidden and stop my technology from getting out... Hmm. Would she save me even if it meant becoming enemies with another witch?
+She wants to keep my identity hidden and stop my technology from getting out... Hmm. Will she save me even if it means becoming enemies with another witch?
 
 “No matter what you say, I'm not letting you go, so give up. If you can process magic stones, start by processing one. Cut it all shiny and sparkly!”
 
@@ -405,7 +405,7 @@ She had wanted to keep my identity hidden and stop my technology from getting ou
 
 “What's that? Magic stones are pretty. They're the most beautiful gems in the world. I want you to make their beauty stand out. A whole lot!”
 
-Aha. This woman seriously had nothing but treasure on the brain. For someone who claimed to be around thirty, she seemed to have a pretty primitive brain.
+Aha. This woman seriously has nothing but treasure on the brain. For someone who claims to be around thirty, she seems to have a pretty primitive brain.
 
 She had said her sentence endings changed when she became a witch, so maybe her brain mutated and made her dumber too.
 
@@ -441,19 +441,19 @@ The Dragon Witch said proudly.
 
 “That's a false accusation. This is Meteoflame. I found it in Minato Ward and put it under my protection.”
 
-Talk about putting a spin on things. She'd definitely looted it during the chaos.
+Talk about putting a spin on things. She definitely looted it during the chaos.
 
 Minato Ward was the area the late Bloodsucking Mage had governed.
 
 It was easy to picture her ransacking the Bloodsucking Mage's home after he was gone, just like she'd ransacked mine, and stealing the magic stone. Or maybe she'd pried it off the Bloodsucking Mage's corpse.
 
-She was one hell of a thief, but putting that aside, the red magic stone in front of me was seriously interesting.
+She's one hell of a thief, but putting that aside, the red magic stone in front of me is seriously interesting.
 
-It was huge.
+It's huge.
 
-It was bigger than Cyanos's magic stone. Bigger than fist-sized Okutameteorite. It was as big as a small melon.
+It's bigger than Cyanos's magic stone. Bigger than fist-sized Okutameteorite. It's as big as a small melon.
 
-There were quite a lot of inclusions inside it, but reflected light made its insides flicker like living flames.
+There are quite a lot of inclusions inside it, but reflected light makes its insides flicker like living flames.
 
 Interesting!
 
@@ -461,9 +461,9 @@ Its shape was closer to an oval or a rectangular prism than a sphere.
 
 Hmm. If I made this into a necklace, would a baguette cut or an emerald cut suit it?
 
-The standard practice was to cut a gemstone so its inclusions[インクルージヨン] were hidden or hard to see. With this magic stone, though, showing them off would probably make it more beautiful.
+The standard practice is to cut a gemstone so its inclusions[インクルージヨン] are hidden or hard to see. With this magic stone, though, showing them off will probably make it more beautiful.
 
-With something this big, the stone setting would need some extra thought too. A design that suited a small gem would probably look mismatched at this size. I'd need to draw several blueprints, make full-size wooden models, and...
+With something this big, the stone setting will need some extra thought too. A design that suits a small gem would probably look mismatched at this size. I'll need to draw several blueprints, make full-size wooden models, and...
 
 As I held the red magic stone and thought it over, I noticed the Dragon Witch staring hard at me and snapped out of it.
 
@@ -489,11 +489,11 @@ Time to escape!
 
 It sounded interesting to freely process the gold, silver, and treasure stored in this nest, but being chained up and forced to work like a slave was just plain unpleasant.
 
-The problem with escaping was the handcuffs.
+The problem with escaping is the handcuffs.
 
-The statue handcuffed to my leg was pretty heavy. I could just about carry it, but I couldn't escape while staggering around with a statue in my arms.
+The statue handcuffed to my leg is pretty heavy. I can just about carry it, but I can't escape while staggering around with a statue in my arms.
 
-But I had a special skill.
+But I have a special skill.
 
 I borrowed a hairpin from the wig of a mannequin in a fancy dress half-buried in the treasure pile and picked the handcuffs open in no time.
 
@@ -501,7 +501,7 @@ Hmph, idiot!
 
 You underestimated my dexterity. I had the dexterity to conquer the world.
 
-Handcuffs were useless, you moron!
+Handcuffs are useless, you moron!
 
 Savoring my victory, I kept my footsteps quiet and tried to sneak out of the nest.
 
@@ -515,7 +515,7 @@ I backed up to where I had been and put the handcuffs back on my leg.
 
 When I shook the handcuffs to show her, the dragon closed her eyes and started snoring again.
 
-This was hopeless. Was it wild instinct? No way I was getting out.
+This is hopeless. Is it wild instinct? No way I'm getting out.
 
 Help me, Blue Witch!
 
@@ -560,13 +560,13 @@ With that, the slightly plump man explained all sorts of things to the poor capt
 
 The slightly plump man... Zaizen-san had apparently been kidnapped by the Dragon Witch before too. She had brought him here for the stupid reason that “his name sounds lucky,” and like me, he had been chained up in the nest. But after he had obediently behaved for about one month, she let him go.
 
-Was I going to stay chained up for one month if nobody came to save me? Give me a break.
+Am I going to stay chained up for one month if nobody comes to save me? Give me a break.
 
 “Dragon Witch-sama governs a region spanning the three cities of Musashimurayama, Higashiyamato, and Higashimurayama. Dragons are very powerful monsters, you see. Weak monsters do not approach territory steeped in Dragon Witch-sama's scent. Any weak monsters that appear inside the cities flee as well. Dragon Witch-sama also hunts powerful monsters that appear despite the scent.”
 
 “Huh.”
 
-She actually did a decent job maintaining public safety? Even though she'd kidnapped me.
+She actually does a decent job maintaining public safety? Even though she kidnapped me.
 
 “She does not mediate disputes or crimes between people, leaving them to self-government, so less damage from monsters does not mean the area is peaceful.
 
@@ -574,17 +574,17 @@ But our district's biggest advantage is definitely meat. Compared to other distr
 
 “Y-Yeah. The only time I get good meat is when I bag a deer. So does that mean livestock farming has survived around here...?”
 
-Securing feed and caring for livestock had to be a huge hassle too.
+Securing feed and caring for livestock has to be a huge hassle too.
 
 “No. Dragon Witch-sama brings us whales.”
 
 “Whales.”
 
-Oh, I got it. That was big. Literally.
+Oh, I get it. That's big. Literally.
 
-Whales were enormous sea creatures. One alone could provide meat for hundreds or even thousands of people.
+Whales are enormous sea creatures. One alone can provide meat for hundreds or even thousands of people.
 
-It was on a different scale from trapping rabbits one by one or wandering the mountains for hours to bring down a single deer. That was big-game hunting only a huge magical life-form like a dragon could pull off.
+It's on a different scale from trapping rabbits one by one or wandering the mountains for hours to bring down a single deer. That's big-game hunting only a huge magical life-form like a dragon can pull off.
 
 “We have organized a Whale Butchering Team. Besides the meat, we take the oil and bones and use them as resources. They are popular goods at barter markets.”
 
@@ -594,9 +594,9 @@ It was on a different scale from trapping rabbits one by one or wandering the mo
 
 I almost answered honestly, but closed my mouth just in time.
 
-The dragon already knew about my processing skills. But Zaizen-san didn't yet.
+The dragon already knows about my processing skills. But Zaizen-san doesn't yet.
 
-It felt a little late to worry about that, but the Blue Witch had repeatedly told me not to show off dangerous technology to outsiders. Better to keep it secret.
+It feels a little late to worry about that, but the Blue Witch has repeatedly told me not to show off dangerous technology to outsiders. Better to keep it secret.
 
 I left out as much as I could without creating any contradictions when Zaizen-san spoke with the dragon.
 
@@ -618,23 +618,23 @@ But their rations increase accordingly, they get to live in better homes, and th
 
 Zaizen-san trailed off.
 
-Hmm. They called it territory governed by the Dragon Witch, but this guy was the one actually running its domestic affairs.
+Hmm. They call it territory governed by the Dragon Witch, but this guy is the one actually running its domestic affairs.
 
 Witches and mages had originally been ordinary people too. Not all of them could've been former politicians or company managers who knew how to bring people together.
 
-I doubted the Dragon Witch had thought that far ahead, but a system where a powerful witch sat at the top and left domestic affairs to someone good at them seemed pretty solid.
+I doubt the Dragon Witch has thought that far ahead, but a system where a powerful witch sits at the top and leaves domestic affairs to someone good at them seems pretty solid.
 
-On the other hand, a territory where a meathead witch with no political sense insisted on running domestic affairs herself sounded awful.
+On the other hand, a territory where a meathead witch with no political sense insists on running domestic affairs herself sounds awful.
 
-Just as Zaizen-san had said, the Dragon Witch's territory seemed “not so bad.”
+Just as Zaizen-san said, the Dragon Witch's territory seems “not so bad.”
 
 Even so.
 
-This wasn't my utopia.
+This isn't my utopia.
 
-This place reeked of people. From the nest, I could see them wandering around the residential neighborhood like normal. Nope.
+This place reeks of people. From the nest, I can see them wandering around the residential neighborhood like normal. Nope.
 
-I wanted to go back to Okutama. To my paradise, without another soul as far as I could see.
+I want to go back to Okutama. To my paradise, without another soul as far as I can see.
 
 “Um, this is hard to say, but still, I was kidnapped, and I want to go back home. I'll escape on my own, so could you maybe pretend you didn't see...?”
 
@@ -646,11 +646,11 @@ Dragon Witch-sama has an incredible sense of smell. Even if I let you escape, I 
 
 “Ah.”
 
-That made sense.
+That makes sense.
 
-She had sniffed out Okutameteorite with that treasure sense when she passed over Okutama. If she could smell it from high in the sky while it was inside my house, there was no avoiding her.
+She sniffed out Okutameteorite with that treasure sense when she passed over Okutama. If she can smell it from high in the sky while it's inside my house, there's no avoiding her.
 
-A selfish personality with dragon specs was seriously nasty.
+A selfish personality with dragon specs is seriously nasty.
 
 No, maybe getting dragon specs made her selfish? Either way, same difference.
 
@@ -658,17 +658,17 @@ No, maybe getting dragon specs made her selfish? Either way, same difference.
 
 Zaizen-san promised to arrange for food and gem-working tools to be brought over, then left, saying he had other work to do.
 
-Damn it. He didn't seem like a bad person, and he didn't seem all that loyal to the Dragon Witch, but he also didn't seem to owe me enough to help me.
+Damn it. He doesn't seem like a bad person, and he doesn't seem all that loyal to the Dragon Witch, but he also doesn't seem to owe me enough to help me.
 
-Even if I escaped while the dragon was away, I couldn't get away if she tracked me down by scent like a police dog. I didn't know the geography around here, and Ome was far away. There was no way I could make it to the Blue Witch's home before the Dragon Witch noticed my escape and caught me.
+Even if I escape while the dragon is away, I can't get away if she tracks me down by scent like a police dog. I don't know the geography around here, and Ome is far away. There's no way I can make it to the Blue Witch's home before the Dragon Witch notices my escape and catches me.
 
-Ughhh. Was I going to be worked to the bone here for the rest of my life?
+Ughhh. Am I going to be worked to the bone here for the rest of my life?
 
-Judging by Zaizen-san, who'd once been in the same situation as me, I probably wouldn't be treated horribly. But wasn't that Stockholm syndrome? The thing where a victim started trusting their kidnapper. Hell no.
+Judging by Zaizen-san, who'd once been in the same situation as me, I probably won't be treated horribly. But isn't that Stockholm syndrome? The thing where a victim starts trusting their kidnapper. Hell no.
 
-She was a goddamn robber-kidnapper-jailer dragon! Don't forget it. Don't forgive her.
+She's a goddamn robber-kidnapper-jailer dragon! Don't forget it. Don't forgive her.
 
-Now that my chances of escaping on my own were gone, my only hope was that the Blue Witch would come save me.
+Now that my chances of escaping on my own are gone, my only hope is that the Blue Witch will come save me.
 
 There was nothing I could do myself, so I lay there half-hidden in a jagged pile of treasure, spacing out. About one hour after Zaizen-san left, a food cart rolled in.
 
@@ -694,7 +694,7 @@ The sheer terror made a scream burst from my mouth on its own.
 
 “Aah!?”
 
-Idiot! Didn't your mom teach you that the only times you can touch strangers are when you hand over change at a convenience store and when you show a lost kid the way!? Was she out of her mind!?
+Idiot! Didn't your mom teach you that the only times you can touch strangers are when you hand over change at a convenience store and when you show a lost kid the way!? Is she out of her mind!?
 
 Just having a person right in front of me made me lose my appetite, and the attempted physical contact instantly maxed out my stress gauge.
 
@@ -702,7 +702,7 @@ Just having a person right in front of me made me lose my appetite, and the atte
 
 “!? ...I've been told that before.”
 
-Huh? Were there other socially awkward people like me? The world was doomed!
+Huh? Are there other socially awkward people like me? The world is doomed!
 
 “Get lost! Thanks for delivering the food, that really helped! Now shut up and go somewhere!”
 
@@ -710,7 +710,7 @@ Huh? Were there other socially awkward people like me? The world was doomed!
 
 Listen when people talk. I said shut up and go somewhere.
 
-Damn brat. You only came here to deliver food, so why were you trying to have a pointless conversation outside the job? Leave the food and go somewhere already!
+Damn brat. You only came here to deliver food, so why are you trying to have a pointless conversation outside the job? Leave the food and go somewhere already!
 
 “U-Um! Thank you for teaching me—teaching me how to live without stealing...!”
 
@@ -718,17 +718,17 @@ The girl bowed while saying something I couldn't make sense of. Instead of just 
 
 Once she had disappeared completely, I started breathing again and took a moment to recover.
 
-Terrifying. What was with that kid? She spouted nonsense like some crazy person. She said three days' worth, but left a mountain of food that looked like about ten days' worth.
+Terrifying. What is with that kid? She spouted nonsense like some crazy person. She said three days' worth, but left a mountain of food that looks like about ten days' worth.
 
-Had civilization collapsed before she could get lessons in Japanese or math? Poor thing...
+Did civilization collapse before she could get lessons in Japanese or math? Poor thing...
 
 Feeling sorry for the girl, who should've been right in the middle of compulsory education but was working in the Food Team alongside adults, I opened a lunchbox right away. No matter what happened, I still got hungry.
 
 The lunchbox held what looked like grilled whale meat and vegetables covered in insect bites. The colors weren't exactly appetizing, but it tasted okay. More than anything, the food was fresh, and there was plenty of it.
 
-The food situation in the Dragon Witch's territory really did seem good.
+The food situation in the Dragon Witch's territory really does seem good.
 
-That they could afford to give this much to a prisoner who'd tried to escape said a lot about their food-production system. I could barely manage to feed myself────
+That they can afford to give this much to a prisoner who's tried to escape says a lot about their food-production system. I can barely manage to feed myself────
 
 “...Huh? ...Ah...”
 
@@ -740,19 +740,19 @@ The Blue Witch was refusing to let people settle in neighboring Ome.
 
 It wouldn't be strange if she had drifted all the way here and settled down in the Dragon Witch's territory. It wasn't close to Okutama, but given time, it was still close enough for a kid to walk.
 
-Oh, right. She had stopped living by thieving and was working in the Food Team. Was the extra food meant as thanks? Pretty admirable for a kid.
+Oh, right. She stopped living by thieving and is working in the Food Team. Is the extra food meant as thanks? Pretty admirable for a kid.
 
-Whatever the case, I was glad she was alive.
+Whatever the case, I'm glad she's alive.
 
 It would have been better if she hadn't shown up in front of me.
 
-From now on, I really wanted her to eat until she was full and live happily wherever I didn't know about. Don't show your face to me again.
+From now on, I really want her to eat until she's full and live happily wherever I don't know about. Don't show your face to me again.
 
 After that unexpected, unwanted reunion, I spent the rest of the morning fiddling with the red magic stone and waiting for the Blue Witch, but she didn't come.
 
 She didn't visit Okutama every day, so it wouldn't be strange if she took a while to notice I'd been kidnapped. But as the one waiting, I couldn't stop worrying.
 
-Please, seriously. Come, Blue Witch. I had never prayed to someone this much.
+Please, seriously. Come, Blue Witch. I've never prayed to someone this much.
 
 But my prayers went unanswered. The one who came around noon was not the Blue Witch but that damn dragon.
 
@@ -778,9 +778,9 @@ Meanwhile, I was overjoyed.
 
 Yeeeeessss!
 
-She was here!
+She's here!
 
-The Blue Witch was here!!!!!
+The Blue Witch is here!!!!!
 
 The Blue Witch had turned the ground white and brought an early winter. She came running at incredible speed.
 
@@ -788,24 +788,24 @@ I spotted her beyond the houses, and the next moment she charged in like a black
 
 With sparkling diamond dust in the sunlight behind her, Blue Witch looked unreal. Her familiar ragged black clothes, mask, and Cyanos all looked ridiculously cool.
 
-M-My heart was pounding. What was this feeling...!?
+M-My heart is pounding. What is this feeling...!?
 
-I did my best to calmly diagnose the bug in my head. So this was why couples got together so easily under the suspension-bridge effect. Then the Blue Witch suddenly wrapped both arms around me and squeezed me tight. In a trembling voice, she said,
+I did my best to calmly diagnose the bug in my head. So this is why couples get together so easily under the suspension-bridge effect. Then the Blue Witch suddenly wrapped both arms around me and squeezed me tight. In a trembling voice, she said,
 
 “You're alive...!”
 Her voice overflowed with joy, but she sounded like a lost child about to cry.
 
 Normally, being held this close and restrained would have scared me out of my mind, but the arms hugging me were shaking so helplessly that pity beat out fear.
 
-I got it.
+I get it.
 
-Of course. She had been scared.
+Of course. She's scared.
 
 I knew the Blue Witch had once lost everyone under her protection when that piece of trash, the Iruma Mage, kidnapped them all. My kidnapping must've hit her trauma dead-on and badly shaken her.
 
-She wasn't a hero who had come to save a princess.
+She isn't a hero who's come to save a princess.
 
-This was a mother rushing over because she was worried about her kidnapped child. Mom!
+This is a mother rushing over because she's worried about her kidnapped child. Mom!
 
 As we shared our emotional reunion hug, the oblivious dragon visibly tried to back away.
 
@@ -835,9 +835,9 @@ If it was this bad for me, the Dragon Witch, who was directly facing that killin
 
 Hit with two completely sincere questions, the Blue Witch put a hand to her head like she was holding back a headache.
 
-What was with that reaction? Friend? That was news to me.
+What is with that reaction? Friend? That's news to me.
 
-Did she get my permission before saying that? Was she my mom or my friend? Make up your mind!
+Did she get my permission before saying that? Is she my mom or my friend? Make up your mind!
 
 “Dragon Witch. There is no room for leniency with you. This incident alone deserves ten thousand deaths, but you have a mountain of other crimes—”
 
@@ -847,7 +847,7 @@ Did she get my permission before saying that? Was she my mom or my friend? Make 
 
 She sounded seriously annoyed, so I obediently zipped my mouth.
 
-Fair enough. I wanted the Blue Witch's opinion on the claim that friendship between men and women couldn't exist, but it probably wasn't the time to ask.
+Fair enough. I want the Blue Witch's opinion on the claim that friendship between men and women can't exist, but it probably isn't the time to ask.
 
 The Blue Witch leveled Cyanos at her hip and delivered an absolute-zero declaration.
 
@@ -859,7 +859,7 @@ It wasn't a threat. I knew at once from her voice that she seriously meant to ki
 
 Despite her huge body, the Dragon Witch moved fast. She snatched up Okutameteorite and the red magic stone[Meteoflame], one in each hand, and took off with a rumble through the ground.
 
-That bitch was trying to run!
+That bitch is trying to run!
 
 The wind pressure from her takeoff alone knocked me over, but the Blue Witch didn't budge.
 
@@ -883,7 +883,7 @@ Heh. Serves her right. Sensei, please finish her off like that!
 
 A rapid shot of ice-spear magic punched clean through the Dragon Witch's jaw as she tried to recite an incantation and put up a last struggle, shutting her up.
 
-Amazing. It was the same spell I used, but the power was in a whole different league. Even accounting for Cyanos's amplification, she was insanely strong.
+Amazing. It's the same spell I use, but the power is in a whole different league. Even accounting for Cyanos's amplification, she's insanely strong.
 
 “Uegh... S-Stop. I give up...”
 
@@ -891,7 +891,7 @@ The Dragon Witch's jaw rattled so badly she could barely talk. The Blue Witch sn
 
 During the fight—or rather, punishment—a crowd had started gathering from the residential neighborhood.
 
-No, not rubberneckers. Was this an emergency security response? Everyone had crossbows or metal bats and wore leather vests reinforced with metal plates. Some farmers were mixed in too, armed with hoes and plows.
+No, not rubberneckers. Is this an emergency security response? Everyone has crossbows or metal bats and is wearing leather vests reinforced with metal plates. Some farmers are mixed in too, armed with hoes and plows.
 
 “Hey, what happened? What's going on? What kind of monster is it?”
 
@@ -909,7 +909,7 @@ No, not rubberneckers. Was this an emergency security response? Everyone had cro
 
 Even after seeing the disaster-like violence of inhuman magic, the crowd stayed on guard but stood firm.
 
-Man, people who survived the Gremlin Disaster really had different guts. It was probably only the gutsiest fighters who had rushed over, but even so, they had some damn nerve.
+Man, people who survived the Gremlin Disaster really have different guts. It's probably only the gutsiest fighters who rushed over, but even so, they have some damn nerve.
 
 Before the crowd that had rushed over only to end up helplessly watching from afar, the half-frozen Dragon Witch begged pathetically for her life.
 
@@ -951,13 +951,13 @@ The crowd whispered together for a bit, but they all nodded. The Food Team girl 
 
 They didn't nod right away, but the fact they eventually did said a lot about the Dragon Witch's usual behavior.
 
-U-Umm. Even a goddamn robber-kidnapper-jailer dragon had people who respected her, huh? Thinking about the Food Team girl, she apparently took in refugees who drifted in from other areas too. I could see why people liked her.
+U-Umm. Even a goddamn robber-kidnapper-jailer dragon has people who respect her, huh? Thinking about the Food Team girl, she apparently takes in refugees who drift in from other areas too. I can see why people like her.
 
-No, even factoring that in, I thought it would be better to kill her here. If they let her live, she'd just get up to no good again.
+No, even factoring that in, I think it would be better to kill her here. If they let her live, she'll just get up to no good again.
 
 I was on team kill her, but the Blue Witch was the executioner. As an idiot who had gotten kidnapped so easily and needed her to come rescue me, I couldn't tell her what to decide.
 
-The Dragon Witch's fate was entirely up to the Blue Witch.
+The Dragon Witch's fate is entirely up to the Blue Witch.
 
 The Dragon Witch got cocky now that she had people on her side. As the Blue Witch thought it over, the Dragon Witch said with a beaming face,
 
@@ -979,9 +979,9 @@ Having lost her allies, the dragon screamed as the executioner came closer one s
 
 I watched the Blue Witch use self-enhancement magic to rip off the dragon's leg by brute force, bit by bit, while the dragon screamed and sobbed with none of her dignity left.
 
-Heh, served her right. But it was a little gross. No wonder the Blue Witch was feared when she could do this splatter stuff so calmly.
+Heh, serves her right. But it's a little gross. No wonder the Blue Witch is feared when she can do this splatter stuff so calmly.
 
-I'd make sure never to make her mad...
+I'll make sure never to make her mad...
 
 ---
 
@@ -993,7 +993,7 @@ The Blue Witch was fast, and watching the scenery whip past from the cart was pr
 
 She could go faster with self-enhancement magic, but self-enhancement magic from the Bloodsucking Mage consumed blood as well as magic power. Apparently, even a witch would collapse from anemia if she overused it, so she couldn't rely on it too often.
 
-Nice. Even with the risk, I was jealous. I wanted to get instantly ripped too.
+Nice. Even with the risk, I'm jealous. I want to get instantly ripped too.
 
 “Ori, I'm checking one more time. They didn't abuse you, right? You got food too, right?”
 
@@ -1007,25 +1007,25 @@ The Blue Witch looked back worriedly as she ran, pulling the cart. I waved a han
 
 “If that's true, good...”
 
-I gave a wry smile to the Blue Witch, who still couldn't stop worrying. If anything, I felt like I'd eaten more luxuriously than usual. You didn't get many chances to eat whale meat even if you wanted to.
+I gave a wry smile to the Blue Witch, who still couldn't stop worrying. If anything, I feel like I've eaten more luxuriously than usual. You don't get many chances to eat whale meat even if you want to.
 
-Thinking about it, the food situation had gotten way better lately. For over one month now, I hadn't touched canned food, cup noodles, hardtack, or other food relics produced before the disaster.
+Thinking about it, the food situation has gotten way better lately. For over one month now, I haven't touched canned food, cup noodles, hardtack, or other food relics produced before the disaster.
 
-Without scavenging supplies through rubble and ruins, we could now produce new food and keep ourselves fed.
+Without scavenging supplies through rubble and ruins, we can now produce new food and keep ourselves fed.
 
-The spread of fertility magic really was incredible. The era of looting and eating through the old world's leftovers was over.
+The spread of fertility magic really is incredible. The era of looting and eating through the old world's leftovers is over.
 
-Even in my insanely tiny social circle, I knew someone who had stopped looting and started working in production. That had to mean looting as a job was becoming outdated across society as a whole.
+Even in my insanely tiny social circle, I know someone who has stopped looting and started working in production. That has to mean looting as a job is becoming outdated across society as a whole.
 
 Something brushed my cheek, and I looked up. Gremlins were falling from the cloudy sky with the light rain, sparkling like fine snow.
 
 I held up a framed painting from the cart as an umbrella against the rain of crystals—crystal rain—and enjoyed the beautiful, unreal sight of spirits of light falling from the sky.
 
-I would never forget it.
+I'll never forget it.
 
 When civilization had collapsed and I was caught in crystal rain for the first time, the falling Gremlins had looked like symbols of the end of humanity's age and despair.
 
-But now it was different. All I saw was a beautiful rain blessing the earth with magic crystals.
+But now it's different. All I see is a beautiful rain blessing the earth with magic crystals.
 
 “The world's changing, huh. I thought humanity was over, but reconstruction is moving along better than I expected. It looks like things might get back to normal pretty soon.”
 
@@ -1039,7 +1039,7 @@ The Blue Witch gave a pessimistic reply, glanced back, and pointed her thumb at 
 
 When I looked where she pointed, I could indeed see a hellish, ominous, supernatural reddish-black cloud. Rain clouds dropped beautiful crystals, but the air was stagnant only under the reddish-black cloud.
 
-It looked seriously bad. The story was that without fertility magic, there would be hunger hell in two years, but did that mean there would be the real deal hell in thirty years?
+It looks seriously bad. The story was that without fertility magic, there would be hunger hell in two years, but does that mean there will be the real deal hell in thirty years?
 
 “We also do not know much about what has become of land outside the capital region. The Dragon Witch is gathering information around the country while transporting wizards who have learned fertility magic, but she is the Dragon Witch. I cannot trust her if she says, ‘Everything's fine!’ It would not be strange if some unbelievable danger that would finish off battered humanity were sleeping somewhere in Japan.”
 
@@ -1049,17 +1049,17 @@ When she put it that seriously, I started thinking maybe she was right.
 
 In fact, Tokyo alone had nearly been destroyed twice: by the giant kaiju landing and the Iruma coup (which I only knew as a rumor). Three times if I counted the food crisis. Four if I counted the Gremlin Disaster that started it all. Way too many world-ending crises kept casually coming at us. I wanted them to cut it out already.
 
-If this many crises were happening just around Tokyo, there had to be more across Japan and the whole world. Who knew what horrifying things were happening in faraway places where communication was cut off?
+If this many crises are happening just around Tokyo, there have to be more across Japan and the whole world. Who knows what horrifying things are happening in faraway places where communication is cut off?
 
 “Well, it'll work out somehow.”
 
-The brutal era of looting and echoes was over.
+The brutal era of looting and echoes is over.
 
-Surely from now on, an exciting era of reconstruction and magic would begin.
+Surely from now on, an exciting era of reconstruction and magic will begin.
 
-No matter what crisis humanity faced, it would stubbornly survive and rise again.
+No matter what crisis humanity faces, it will stubbornly survive and rise again.
 
-I believed that.
+I believe that.
 
 ## Translator Notes
 

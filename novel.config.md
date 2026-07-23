@@ -23,10 +23,11 @@ The per-novel knobs the harness reads. The `/build-epub` skill derives the JSON 
 - Edit logs / reconciliation / image specs: `Editing/Volume N/`
 
 ## Conventions
+- **Narrative/direct-thought tense:** Narrative action, description, and indirect/reported thought stay in past tense. Clearly direct, immediate internal monologue uses natural speech tense, often present. Unmarked direct thought stays roman without quotation marks or added italics; italicize only a discrete thought or mind-voice unmistakably marked as such in the source. Ori's parenthetical asides and rhetorical questions are not automatically direct thought. Do not mix tenses within one immediate thought without a source-driven reason.
 - **Romanization:** no macrons and no long-vowel doubling in romanized Japanese names or terms; leave long vowels unmarked (`Ohinata`, `Ori`, `Tohoku`, `Kintaro`). Enforced by the glossary and `core/scripts/normalize_romaji.py --check`.
 - **Reading direction:** source is RTL → build EPUB as **LTR** (`page-progression-direction="ltr"`).
 - **Furigana:** preserved from source as `漢字[かな]`.
-- **Part-split threshold:** 400 source lines — chapters at or below this translate/edit whole. Longer chapters target roughly 400 source lines per part, cutting at the nearest appropriate scene, POV, or paragraph boundary rather than at an exact line count. A short final remainder should be rebalanced or merged when practical. The editor's smaller audit chunks are not translation parts.
+- **Part-split threshold:** 400 source lines — chapters target roughly 400 source lines per translation scope, cutting at appropriate scene, POV, or paragraph boundaries rather than exact counts. A short final remainder should be rebalanced or merged; if the merged complete chapter remains reasonably close to 400 lines, keep it whole rather than creating undersized parts. The editor's smaller audit chunks are not translation parts.
 - **qa_major_threshold:** 3 — QA fails if a chapter has more than three major findings, or any critical finding.
 
 ## Register lock

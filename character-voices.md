@@ -1,7 +1,7 @@
 # Character Voices — Wand Maker of the Ruined World
 
 ## Narrator
-- **Register ceiling:** casual, punchy past-tense narration; contemporary and plain, never more literary or formal than the source passage.
+- **Register ceiling:** casual, punchy narration; contemporary and plain, never more literary or formal than the source passage. Narrative action, description, and indirect thought stay past; clearly direct, immediate internal monologue uses natural speech tense, often present.
 - **Mode:** mixed: Ori's chapters use first-person narration, while alternate chapters and sections use close third-person with rotating focal characters.
 - **Active-viewpoint guide:** Identify the viewpoint from the chapter opening, first-person self-reference, named focal character, territory/work, and limits of knowledge. Ori's first-person narration is anxious, snarky, craft-obsessed, and full of abrupt comic reactions. Close-third passages stay in the narrator's plain register while tracking the focal character's knowledge and emotional emphasis; do not turn them into first-person character narration.
 
@@ -26,7 +26,6 @@
 - **Samples:**
   - 俺は世界一の魔法杖職人[ワンドメーカー]だ。 → "I'm the world's greatest Wand Maker." (*Vol. 2, “The White Fingers”*)
   - 「うわっ！　い、いいからそれ持ってあっち行け！　失せろ話しかけんな！　しっしっ！」 → "Whoa! J-Just take that and go! Get lost! Don't talk to me! Shoo!" (*Vol. 1, “Survival, with a Side of Magic”*)
-  - 「これが俺が作った足踏み動力式の研磨機。こうやって椅子に座って、足元のクランクペダルを踏むだろ？」 → "This is the pedal-powered grinder I built. You sit here and step on the crank pedal at your feet, see?" (*Vol. 2, “The White Fingers”*)
 
 ## Aoyama Hiyori / Blue Witch
 - **Pronoun:** 私 (*watashi*) — controlled and neutral; English should stay spare and firm rather than feminine-coded.
@@ -71,6 +70,15 @@
   - 「緊急事態よ」 → "It's an emergency." (*Vol. 1, “Overtechnology”*)
   - 「ねえ青ちゃん、こっちに来てくれない？　お願いよ、一人でも戦力が欲しいの！」 → "Ao-chan, could you come over here? Please. We need every fighter we can get!" (*Vol. 1, “Overtechnology”*)
   - 「何も話さなくていいから、会議の話を聞いてくれてるだけでも良いのよ？」 → "You don't have to say anything. Couldn't you at least listen to the meeting?" (*Vol. 1, “Tokyo Witches' Council”*)
+
+## Hell Witch
+- **Pronoun:** 私 — neutral.
+- **Register:** casual, direct, apologetic.
+- **Address / honorifics:** “Witch of Ome”; “apprentice-kun.”
+- **Tics / particles:** Loud, exclamatory.
+- **Samples:**
+  - "I'm the Hell Witch!! I'm not going to eat you!!"
+  - "I only eat real bad guys!!"
 
 ## Dragon Witch
 - **Pronoun:** 私 (*watashi*) — self-reference remains adult, while her transformed speech pattern gives the English its childish, possessive flavor.

@@ -52,7 +52,7 @@ Apparently, if they couldn't find a way to make fire magic usable, they would wo
 
 After all, the Tama River ran through mountainous Okutama, then through urban Tokyo and into Tokyo Bay, making it an ideal waterway for shipping.
 
-If I sat around carefree, loggers would pour into Okutama and noisily start cutting down trees in my peaceful refuge. There was even a risk they'd build a logging base.
+If I sit around carefree, loggers will pour into Okutama and noisily start cutting down trees in my peaceful refuge. There's even a risk they'll build a logging base.
 
 I hated that way too much.
 
@@ -60,11 +60,11 @@ Professor Ohinata's letter was full of considerate words like, "If you have time
 
 I could tell from bits and pieces that they were pretty much at a dead end, so I decided to get myself fired up and lend a hand.
 
-Even if the magic-linguistics approach was stuck, a processing-studies approach might solve it pretty easily.
+Even if the magic-linguistics approach is stuck, a processing-studies approach might solve it pretty easily.
 
 First, I asked the Blue Witch—who'd been building a deck with a card box on her lap while I pored over the delivered letter—what she thought about magic backlash.
 
-I only knew about magic backlash in theory. I really wanted to hear from a witch who had actually experienced it and knew how to control it to some extent.
+I only know about magic backlash in theory. I really want to hear from a witch who has actually experienced it and knows how to control it to some extent.
 
 When I showed the Blue Witch Professor Ohinata's letter and asked what she thought, she added details only a witch with firsthand experience of magic backlash could have given me.
 
@@ -74,7 +74,7 @@ When I showed the Blue Witch Professor Ohinata's letter and asked what she thoug
 
 "There is. Hold it like this... No, would it be easier to understand if I drew it?"
 
-The Blue Witch held up Cyanos to explain, then thought better of it and drew two diagrams for comparison on a sheet of paper. I looked at them. She wasn't very good at drawing.
+The Blue Witch held up Cyanos to explain, then thought better of it and drew two diagrams for comparison on a sheet of paper. I looked at them. She isn't very good at drawing.
 
 "Seriously? Stick figures?"
 
@@ -88,7 +88,7 @@ The Blue Witch held up Cyanos to explain, then thought better of it and drew two
 
 ![p072.jpg](images/p072.jpg)
 
-So the route magic power took into a magic stone or Gremlin was different from the route it took when it backflowed.
+So the route magic power takes into a magic stone or Gremlin is different from the route it takes when it backflows.
 
 Going by that logic...
 
@@ -96,7 +96,7 @@ No...
 
 Could it... work...?
 
-It seemed like it could work in theory. Should I ask her?
+It seems like it could work in theory. Should I ask her?
 
 "Hey, do you think magic backlash would be reduced if I gave the handle magic resistance like this? Just go with your gut."
 
@@ -128,11 +128,11 @@ The Blue Witch turned the paper into a thin sheet of ice, then opened and closed
 
 It made me laugh that melt-recast Gremlin, which I'd written off as a shelved research result that wasn't worth shit, already looked useful. By the time I needed the research, it was already done.
 
-As expected of a genius. I really was the world's greatest Wand Maker...!
+As expected of a genius. I really am the world's greatest Wand Maker...!
 
 I had come up with this instant solution based on the work of Professor Ohinata and a Gremlin-melting experiment team whose name I didn't even know, so it wasn't all thanks to my genius. Still, even I trembled at how good my own ideas were.
 
-Digging up useless experimental data and putting it to good use. This was how a first-rate technician used his brain! My flashes of inspiration were different from just any creator's. Different, I tell you.
+Digging up useless experimental data and putting it to good use. This is how a first-rate technician uses his brain! My flashes of inspiration are different from just any creator's. Different, I tell you.
 
 I immediately got to work modifying Cyanos according to my new theory.
 
@@ -144,11 +144,11 @@ The Blue Witch's gut feeling was, "There's a gap between the melt-recast Gremlin
 
 Prototype two worked, reducing magic backlash by around 50%, just as the theory predicted (by the Blue Witch's estimate).
 
-That was a huge success for only two prototypes. If I reported the theory and results to Professor Ohinata, she'd be overjoyed that her problem had been solved so quickly.
+That's a huge success for only two prototypes. If I report the theory and results to Professor Ohinata, she'll be overjoyed that her problem has been solved so quickly.
 
-But I wasn't stopping there. I still had more in me! I could raise the magic-backlash reduction rate even higher!
+But I'm not stopping there. I still have more in me! I can raise the magic-backlash reduction rate even higher!
 
-If one melt-recast Gremlin meant doubled magic-power consumption and a 50% cut, then with four, magic-power consumption would double, then double again, then double again, then double again. Two to the fourth power: 16 times! That would mean an incredible 93.75% reduction in backflowing magic power!
+If one melt-recast Gremlin means doubled magic-power consumption and a 50% cut, then with four, magic-power consumption will double, then double again, then double again, then double again. Two to the fourth power: 16 times! That means an incredible 93.75% reduction in backflowing magic power!
 
 Or so I thought, but even when I bundled four rod-shaped melt-recast Gremlins together and installed them in the handle, the observed magic-backlash reduction was only around 85%.
 
@@ -158,32 +158,32 @@ Even when I reduced it to a bundle of three, the magic-backlash reduction was ab
 
 In other words, magic-backlash reduction using melt-recast Gremlin hit a ceiling at 85%.
 
-It seemed like I could push it a little further, but I couldn't think of a better processing idea right then, so I'd call it finished for now.
+It seems like I can push it a little further, but I can't think of a better processing idea right now, so I'll call it finished for now.
 
 In the same letter where I told Professor Ohinata, "I can do backlash-prevention modification now!" I offered to recall the general-purpose magic wands Tokyo Magic University was using.
 
-I wanted to collect all of them for now and refit their handles with a backlash-prevention mechanism.
+I want to collect all of them for now and refit their handles with a backlash-prevention mechanism.
 
-The refitting would be a pain, but if a magic-backlash accident happened with one of my magic wands, I'd hate for it to look like the wand was to blame.
+The refitting will be a pain, but if a magic-backlash accident happens with one of my magic wands, I'll hate for it to look like the wand is to blame.
 
-Rather than hearing, "I used a magic wand, but it couldn't prevent a magic-backlash accident," I wanted to hear praise like, "Thanks to a magic wand, I prevented a magic-backlash accident, got a girlfriend, made the starting lineup for my club, and my grades went up! It's all thanks to magic wands!" Five-star reviews only, please.
+Rather than hearing, "I used a magic wand, but it couldn't prevent a magic-backlash accident," I want to hear praise like, "Thanks to a magic wand, I prevented a magic-backlash accident, got a girlfriend, made the starting lineup for my club, and my grades went up! It's all thanks to magic wands!" Five-star reviews only, please.
 
 Professor Ohinata accepted the recall, promptly collected the general-purpose magic wands, and had the Blue Witch deliver them to me with a personal thank-you letter and an official letter of appreciation from Tokyo Magic University. She praised the hell out of me for solving the problem in one day. That was embarrassing.
 
-No, Professor, you were pretty amazing too for improving fertility magic and reversing your own transformation in one day. Both of our ultra-fast solutions were built on the groundwork of basic research, so we hadn't really done them in one day. Let's just keep praising each other.
+No, Professor, you're pretty amazing too for improving fertility magic and reversing your own transformation in one day. Both of our ultra-fast solutions are built on the groundwork of basic research, so we haven't really done them in one day. Let's just keep praising each other.
 
 Professor Ohinata had given me the challenge, and the Blue Witch had served as my tester. I saw huge potential for further development in the new version of the magic wand that resulted.
 
-Until now, only the core magic stone or Gremlin in each wand I made had served a purpose.
+Until now, only the core magic stone or Gremlin in each wand I've made has served a purpose.
 
-Honestly, it was enough to hold a processed magic stone directly. Handles and carvings were all just fashionable decorations.
+Honestly, it's enough to hold a processed magic stone directly. Handles and carvings are all just fashionable decorations.
 
-But now the magic-wand handle had a proper role too.
+But now the magic-wand handle has a proper role too.
 
-The core gem at the tip amplified magic, and the handle reduced feedback damage.
+The core gem at the tip amplifies magic, and the handle reduces feedback damage.
 
-Wasn't that a beautiful structural collaboration?
+Isn't that a beautiful structural collaboration?
 
-If I kept researching, maybe I could give the protective material around the gem part, the metal that strengthened the handle, and even carvings on the handle proper magical roles. The possibilities were opening up.
+If I keep researching, maybe I can give the protective material around the gem part, the metal that strengthens the handle, and even carvings on the handle proper magical roles. The possibilities are opening up.
 
-Magic wands still had plenty of room for improvement. I was going to keep evolving them.
+Magic wands still have plenty of room for improvement. I'm going to keep evolving them.

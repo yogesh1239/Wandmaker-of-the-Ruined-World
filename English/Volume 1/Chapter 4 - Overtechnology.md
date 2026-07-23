@@ -20,31 +20,31 @@ The magic wand sales agreement with Okutama's strange creature suited the Blue W
 
 After all, it was practically the same as getting exclusive distribution rights for the strongest weapon by a mile.
 
-From now on, small clashes with other witches and mages would be easy to settle. If she wanted, she could even use magic wands as bait to move people and control the balance of power in different places.
+From now on, small clashes with other witches and mages will be easy to settle. If she wants, she can even use magic wands as bait to move people and control the balance of power in different places.
 
 The Blue Witch was based in Ome, in northwestern Tokyo.
 
 Having failed to save any of the citizens she was supposed to protect, the Blue Witch hunted the monsters that damaged the city. At least she could protect the hollow remnants of her memories.
 
-What was the point of protecting houses with no one left to return to them?
+What is the point of protecting houses with no one left to return to them?
 
-There was nothing beyond that.
+There's nothing beyond that.
 
 Even so, the Blue Witch stayed in Ome like a mother wolf who kept watch forever over a nest that had lost its pups. She could not help it.
 
-With a magic wand, Ome's defenses would be stronger.
+With a magic wand, Ome's defenses will be stronger.
 
 She owed Ori. In days when everything broke down, rotted, and disappeared, one broken memory from the peaceful days had come back to her. How happy that had made her!
 
 As her benefactor had asked, the Blue Witch had started vetting customers to sell magic wands to.
 
-She would sell to friendly factions and not sell to hostile ones. That alone would let her shape the balance of power to suit herself.
+She will sell to friendly factions and not sell to hostile ones. That alone will let her shape the balance of power to suit herself.
 
 The Blue Witch intended to make full use of the broker role that had fallen into her lap. She was not good at politics, but if the payoff was big enough, it was worth considering.
 
-If magic wands made a name for themselves as important weapons that changed the balance of power, Ori would be satisfied. If the balance of power changed and Ome's defenses became stronger, the Blue Witch would be satisfied too.
+If magic wands make a name for themselves as important weapons that change the balance of power, Ori will be satisfied. If the balance of power changes and Ome's defenses become stronger, the Blue Witch will be satisfied too.
 
-Now that was Win-Win.
+Now that's Win-Win.
 
 Gripping the magic wand Cyanos, the Blue Witch went out to patrol the city again today.
 
@@ -176,29 +176,29 @@ As the Blue Witch started to lose her nerve, the feel of the magic wand in her h
 
 Right.
 
-She could not run.
+She cannot run.
 
-Ome lay in the monster's path.
+Ome lies in the monster's path.
 
-No matter what kind of monster it was, the Blue Witch would protect the streets that still held memories of peaceful days. If she couldn't even do that, she would break.
+No matter what kind of monster it is, the Blue Witch will protect the streets that still hold memories of peaceful days. If she cannot even do that, she will break.
 
-There was hope.
+There is hope.
 
-Her old self would never have stood a chance, but now she had the magic wand Cyanos.
+Her old self would never have stood a chance, but now she has the magic wand Cyanos.
 
-If she poured every bit of her magic power into her strongest magic and amplified it with Cyanos, she would surely hurt it. She could at least hope that would make it change course.
+If she pours every bit of her magic power into her strongest magic and amplifies it with Cyanos, she will surely hurt it. She can at least hope that will make it change course.
 
-Monsters had originally been ordinary animals. She didn't know what animal it had once been, but it couldn't be an exception.
+Monsters were originally ordinary animals. She doesn't know what animal it once was, but it cannot be an exception.
 
 They didn't live to destroy things.
 
 Like wild animals, monsters ran away if they were hurt or felt threatened.
 
-She probably could not defeat it.
+She probably cannot defeat it.
 
-But if she could hurt it and drive it away...
+But if she can hurt it and drive it away...
 
-As long as she defended Ome at all costs, she didn't care if the kaiju changed course and went wild somewhere else.
+As long as she defends Ome at all costs, she doesn't care if the kaiju changes course and goes wild somewhere else.
 
 The Blue Witch took a deep breath and readied Cyanos on the roof.
 
@@ -206,11 +206,11 @@ The kaiju looked far away, but its strides were so big that it closed the distan
 
 Once the kaiju entered the range of her magic, the pillar of fire and the chains wrapped around it vanished. It looked like they had started withdrawing as she'd instructed.
 
-At full power, her magic was hard to control.
+At full power, her magic is hard to control.
 
-With a magic wand's amplification on top of that, control would become almost impossible.
+With a magic wand's amplification on top of that, control will become almost impossible.
 
-Even so, all she had to do was fire straight ahead. With a target that huge, she couldn't miss.
+Even so, all she has to do is fire straight ahead. With a target that huge, she cannot miss.
 
 The Blue Witch gathered the magic power surging through her body and began pouring it into the wand.
 
@@ -228,15 +228,15 @@ The signs of the magic alone froze her house before it even activated. Icicles s
 
 Heavy, cold air sank into her lungs and stabbed the Blue Witch's body from the inside, though she was supposed to be resistant to cold.
 
-There was no way she could limit the area of damage.
+There is no way she can limit the area of damage.
 
-All she could do was point the wand forward and fire it in the kaiju's direction.
+All she can do is point the wand forward and fire it in the kaiju's direction.
 
-But that was enough.
+But that is enough.
 
 With the charge complete, the Blue Witch gripped the wand's handle with fingers coated in frost and beginning to freeze. She breathed out a white cloud and smiled.
 
-If this didn't work, nobody could defeat that monster.
+If this doesn't work, nobody can defeat that monster.
 
 So with all her strength, every last bit of it.
 
@@ -268,7 +268,7 @@ Quiet white snow fell over Tokyo, trampled by the kaiju and on the verge of bein
 
 A tranquil silence mercifully enveloped the world. The Blue Witch let out a dry laugh at the sight her own magic had created.
 
-Who had asked for this much?
+Who asked for this much?
 
 Now she was the monster that would destroy the world.
 

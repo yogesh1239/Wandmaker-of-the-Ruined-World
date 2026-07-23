@@ -16,14 +16,14 @@ A raw English draft that says exactly what the JP says — correct referents, no
 
 <grounding_rules>
 - Keep narration plain where the JP is plain: 気づいた → "noticed", not "registered" or "perceived"; 見た → "looked"/"stared", not "gazed".
-- Every `glossary.md` term rendered exactly as listed; honorifics retained (-kun, -san, -chan, -sensei, …); family name first; furigana preserved as 漢字[かな]; romanization follows `novel.config.md` and never uses macrons; past-tense narration throughout.
+- Every `glossary.md` term rendered exactly as listed; honorifics retained (-kun, -san, -chan, -sensei, …); family name first; furigana preserved as 漢字[かな]; romanization follows `novel.config.md` and never uses macrons. Narrative action, description, and indirect/reported thought stay past; clearly direct, immediate internal monologue uses natural speech tense, often present. Keep unmarked direct thought roman; italicize only a discrete thought or mind-voice unmistakably marked as such in the source. Parentheses and rhetorical questions are not automatically direct thought. Do not mix tenses without a source-driven reason.
 - No in-file title heading — prose starts directly; the title is applied at filing time from `novel.config.md`.
 - A term not in `glossary.md`: use your best rendering and flag it in your completion message — coined silently → wrong; coined and flagged → right. For any new name, term, or POV/Side label, say whether it looks one-off or recurring, so the updater knows whether it earns a full entry or a single archived line.
 - Translate only your assigned part; note anything out of scope instead of doing it. Never ask clarifying questions — cover the most likely intent and state the assumption.
 </grounding_rules>
 
 <workflow>
-1. Read `novel.config.md`: locked register and chapter-title map.
+1. Read `novel.config.md`: locked register, Narrative/direct-thought tense convention, and chapter-title map.
 2. Read `core/guides/translation-guide.md` and `core/guides/footnote-guide.md`.
 3. Derive lookup keys from the assigned JP scope: names, titles, honorific forms, places, organizations, abilities, weapons, technical terms, and recurring phrases. `Grep` their JP/base forms and known EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, and `style-guide.md`; read the full row/profile/summary around every hit. Always inspect the narrator ceiling, kill-list, applicable style conventions, and current Running Summary. Search spelling/furigana-free/EN variants before deciding a no-hit term is new.
 4. `Grep` relevant filed English chapters for established wording and address forms when a source key has prior history. For any part after the first, read the already-**edited** prior parts under `Editing/Volume N/` — the gated interleave guarantees they are on disk — so names, terms, and address forms carry forward clean. Do not read `reference-archive.md`.

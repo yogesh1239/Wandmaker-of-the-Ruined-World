@@ -32,7 +32,7 @@ Gremlins were products of magic. I was sure there were still plenty of uses no o
 
 If someone figured out a good way to use them, crystal rain could literally become a blessing from heaven.
 
-But for now, it was nothing but crappy weather that gave me more fieldwork and roof repairs to do. I mean, it was pretty, though, watching Gremlins sparkle as they fell from the sky like this.
+But for now, it's nothing but crappy weather that gives me more fieldwork and roof repairs to do. I mean, it's pretty, though, watching Gremlins sparkle as they fall from the sky like this.
 
 Pretty roses had thorns, and pretty weather had its hazards. Even as I watched the beautiful magical weather, I got depressed thinking about all the work waiting for me once the rain stopped.
 

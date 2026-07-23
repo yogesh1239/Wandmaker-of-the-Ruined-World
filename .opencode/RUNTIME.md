@@ -4,13 +4,12 @@ You are running under **OpenCode** (session model: whatever the operator configu
 
 ## Dispatch
 
-- Per-stage subagents live in `.opencode/agents/` — `translator`, `editor`, `assembler`, `qa-auditor`, `updater`, `image-localizer`, `epub-builder`. Invoke them **by name** with the task tool. Each inherits the session model; none pins its own.
+- Per-stage subagents live in `.opencode/agents/` — `translator`, `editor`, `assembler`, `updater`, `image-localizer`, `epub-builder`. Invoke them **by name** with the task tool. Each inherits the session model; none pins its own.
 - Pipeline commands live in `.opencode/command/` — `/setup-novel`, `/translate-chapter <N>`, `/build-epub <N>`.
 - `core/pipeline.md` owns stages, ordering, file contracts, and done-criteria. Commands and agents cite it; when anything disagrees with it, `core/pipeline.md` wins.
 
 ## Runtime rules
 
-1. The **qa-auditor always runs as its own fresh subagent** per audit — independent context is the point; the context that edited a chapter cannot audit it. It never edits chapter files (its `edit` permission is denied); it writes only its QA report.
 2. The per-part interleave is a **gated handoff**: never translate a chapter's parts in parallel, and do not start part i+1 until part i's edit is verified on disk.
 3. Dispatch at most **6 subagents concurrently**.
 4. **Front-load every dispatch** with the complete spec, and place the raw JP source for the scope at the **top** of the prompt, instructions after — long source first preserves accuracy on long inputs.

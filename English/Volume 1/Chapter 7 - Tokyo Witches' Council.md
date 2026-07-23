@@ -218,9 +218,9 @@ While the Council witches who had silently listened to the exchange whispered am
 
 Before keeping the conversation going got her dragged into a messy political drama, the Blue Witch cut it off and tossed the eyeball familiar relaying the meeting out the window.
 
-The food problem was serious. But if she asked Ori, he would surely come up with something.
+The food problem is serious. But if she asks Ori, he'll surely come up with something.
 
-After all, he was the man who had made the magic wand Cyanos, which held the power to transform the world.
+After all, he's the man who made the magic wand Cyanos, which holds the power to transform the world.
 
 ## Translator Notes
 

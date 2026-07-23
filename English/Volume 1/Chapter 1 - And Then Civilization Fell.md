@@ -54,7 +54,7 @@ Overjoyed, I picked up the meteorite and immediately took it home.
 
 Making fantasy weapons had started out as work to make money, but as my skills improved, it became more fun and turned into my life's work. A magic weapon forged from a meteorite... Nothing could have been more packed with fantasy and romance.
 
-I could make it a wand. I could make it a sword. Would making it a gun be trying too hard to be weird?
+I can make it a wand. I can make it a sword. Would making it a gun be trying too hard to be weird?
 
 When I examined the meteorite closely, I found a clear, gemlike crystal at the center of an outer shell made from a mixture of metal and rock.
 
@@ -78,15 +78,15 @@ The sun had set and it was getting dark, so I tried to turn on the lights, but t
 
 I was more suspicious than anxious.
 
-The power was out...?
+The power's out...?
 
-Had some disaster happened down at the foot of the mountain? There hadn't been any typhoon-like wind or rain, and I hadn't felt any earthquake tremors. It was spring, so this wasn't even the season for power shortages.
+Did some disaster happen down at the foot of the mountain? There hadn't been any typhoon-like wind or rain, and I hadn't felt any earthquake tremors. It's spring, so this isn't even the season for power shortages.
 
-It was a little strange, but well, it wasn't anything to panic about.
+It's a little strange, but well, it isn't anything to panic about.
 
-Disaster recovery was fast in Japan. At the earliest, the power would be back tomorrow. At the absolute latest, it would take a few weeks.
+Disaster recovery is fast in Japan. At the earliest, the power will be back tomorrow. At the absolute latest, it'll take a few weeks.
 
-Because I lived alone as a shut-in deep in the mountains, I kept a huge food stockpile. My first-aid kit was fully stocked too. It hurt not being able to use online auctions, but I wasn't so short on money that missing a few weeks of listings would leave me broke.
+Because I live alone as a shut-in deep in the mountains, I keep a huge food stockpile. My first-aid kit is fully stocked too. It hurts not being able to use online auctions, but I'm not so short on money that missing a few weeks of listings will leave me broke.
 
 I tried to keep investigating the gem by the light of my emergency flashlight, but it wouldn't turn on either.
 
@@ -94,9 +94,9 @@ Well, it was a flashlight that came with the rental house and looked older than 
 
 With no other choice, I used a match to light an aromatherapy candle I'd planned to put up for sale and got some light that way.
 
-Having no electricity or internet was inconvenient, but I just had to tough it out for a few days.
+Having no electricity or internet is inconvenient, but I just have to tough it out for a few days.
 
-I'd take my time investigating this amazing gem from space while I waited for the utilities to come back.
+I'll take my time investigating this amazing gem from space while I wait for the utilities to come back.
 
 ---
 
@@ -104,11 +104,11 @@ Over seven days, I examined and processed the gem from the meteorite.
 
 This gem, which I named "Okutameteorite" after Okutama, where I found it, had a Mohs hardness of 11. Its refractive index was 1.55, its specific gravity was 7.7, and it weighed 2,300 g. Its color was dark bluish gray.
 
-In other words, it was a black, fist-sized gem harder than diamond, glittering like quartz, and about as heavy as iron.
+In other words, it's a black, fist-sized gem harder than diamond, glittering like quartz, and about as heavy as iron.
 
 I carved this Okutameteorite into a sphere, taking extreme care, and polished it.
 
-A mineral could be very hard and difficult to scratch but still have low strength and break easily. It resisted scratches, but not impacts like a whack from a hammer.
+A mineral can be very hard and difficult to scratch but still have low strength and break easily. It resists scratches, but not impacts like a whack from a hammer.
 
 So first, I carved the rough stone into a sphere with a chisel and carving knife.
 
@@ -132,41 +132,41 @@ I'd gotten lost in polishing it, but come to think of it, the power was still ou
 
 For that matter, the water supply had been out for a few days too, and now I was relying on the old well in my backyard.
 
-I had plenty of rice and instant food stocked up. I could harvest vegetables in the backyard. If I gathered firewood in the mountains, I could light the dust-covered fireplace even if the gas was out.
+I have plenty of rice and instant food stocked up. I can harvest vegetables in the backyard. If I gather firewood in the mountains, I can light the dust-covered fireplace even if the gas is out.
 
-So I was totally fine for at least another month.
+So I'm totally fine for at least another month.
 
 Still, I was starting to wonder.
 
-If the power still hadn't been restored after seven days, a massive disaster must have happened.
+If the power still hasn't been restored after seven days, a massive disaster must have happened.
 
-I wanted to believe restoration was at least making progress around the city center, but it would probably take a little longer to reach mountainous Okutama—a backwater despite being part of Tokyo.
+I want to believe restoration is at least making progress around the city center, but it'll probably take a little longer to reach mountainous Okutama—a backwater despite being part of Tokyo.
 
-I wondered what had happened and what was going on out there. A localized earthquake? A tornado? It couldn't be terrorism or a missile strike, could it?
+I wonder what happened and what's going on out there. A localized earthquake? A tornado? It couldn't be terrorism or a missile strike, could it?
 
-I wanted to know what was going on. I did, but leaving the house to find out felt like a pain.
+I want to know what's going on. I do, but leaving the house to find out feels like a pain.
 
 To buy a newspaper, I'd have to endure the terrifying experience of meeting a store clerk and paying at the register, and going into town to stop someone and ask what was happening would take more courage than bungee jumping.
 
-I didn't want to meet anyone, and I didn't want to talk to anyone. That was the whole reason I lived quietly in a detached house deep in the mountains.
+I don't want to meet anyone, and I don't want to talk to anyone. That's the whole reason I live quietly in a detached house deep in the mountains.
 
-Well, I was worried and uneasy, but there was probably no need to take it that seriously.
+Well, I'm worried and uneasy, but there's probably no need to take it that seriously.
 
-The electricity and internet had only been out for seven days.
+The electricity and internet have only been out for seven days.
 
-Japan might have been disaster-prone, but expecting them to completely restore everything out in a remote place deep in the mountains in seven days was asking way too much.
+Japan might be disaster-prone, but expecting them to completely restore everything out in a remote place deep in the mountains in seven days is asking way too much.
 
-There was no need to panic or make a fuss. I could just take it easy and wait.
+There's no need to panic or make a fuss. I can just take it easy and wait.
 
-Japan's government was pretty competent, all things considered. If I was a good boy and waited quietly, they would definitely give me my old life back. It wasn't like I was living in dire straits anyway.
+Japan's government is pretty competent, all things considered. If I'm a good boy and wait quietly, they'll definitely give me my old life back. It isn't like I'm living in dire straits anyway.
 
-I'd take my time making and decorating hobby weapons packed with fantasy and romance using this beautiful gem, Okutameteorite, while I waited for the utilities to come back.
+I'll take my time making and decorating hobby weapons packed with fantasy and romance using this beautiful gem, Okutameteorite, while I wait for the utilities to come back.
 
 ---
 
 Another seven days passed. I stood there holding Okutameteorite up in both hands, dumbfounded by the crack in my wall.
 
-I could've sworn some kind of beam had just shot out of Okutameteorite and slammed into the wall...?
+I could swear some kind of beam just shot out of Okutameteorite and slammed into the wall...?
 
 It had started with my investigation into Okutameteorite's properties.
 
@@ -176,11 +176,11 @@ It wasn't like I was investigating it for any particular purpose. Pretending to 
 
 As part of my investigation, I was looking into Okutameteorite's natural frequency.
 
-A natural frequency was exactly what it sounded like: the frequency unique to an object.
+A natural frequency is exactly what it sounds like: the frequency unique to an object.
 
 It was closely related to the phenomenon known as resonance. For example, playing a sound at a wineglass's natural frequency could shatter the glass with sound alone, without anyone touching it.
 
-Even short of that, sometimes when music was blasting, dishes, tables, or windowpanes started buzzing. That was resonance too, caused when the natural frequency of the dishes or table happened to line up perfectly with the wavelength of the sound.
+Even short of that, sometimes when music is blasting, dishes, tables, or windowpanes start buzzing. That's resonance too, caused when the natural frequency of the dishes or table happens to line up perfectly with the wavelength of the sound.
 
 Using whatever tools I had on hand, I ran experiments and calculations until I pinned down Okutameteorite's natural frequency.
 
@@ -228,7 +228,7 @@ It wasn't normal tiredness. An unpleasant sensation kept growing: my body felt f
 
 I thought I'd tired myself out from getting too excited, but then I reconsidered. Could it be something like running out of magic power?
 
-It was a common trope that magic consumed magic power.
+It's a common trope that magic consumes magic power.
 
 If you swung a sword around, you used physical strength. If you used your brain, you got mentally tired.
 
@@ -236,13 +236,13 @@ If you swung a sword around, you used physical strength. If you used your brain,
 
 Using magic probably consumed some kind of resource too... something I might as well call magic power.
 
-I must've been tired from using magic power.
+I must be tired from using magic power.
 
-Now things were getting interesting!
+Now things are getting interesting!
 
-No, it had been plenty interesting already, but fantasy that had fallen from space was bound to get me excited.
+No, it's been plenty interesting already, but fantasy that fell from space is bound to get me excited.
 
-That settled it. This magic wand, Okutameteorite, would become my family treasure! I'd never sell it. No matter how hard things got, I wouldn't part with it.
+That settles it. This magic wand, Okutameteorite, will become my family treasure! I'll never sell it. No matter how hard things get, I won't part with it.
 
 ...Oh yeah, speaking of having trouble getting by.
 
@@ -258,25 +258,25 @@ But even this deep in the mountains, far from the city center, could restoration
 
 How long did recovery from the Great East Japan Earthquake[^1] and the Noto Peninsula Earthquake[^2] take again?
 
-Hmm. Something didn't add up.
+Hmm. Something doesn't add up.
 
 What if the restoration work had actually finished ages ago, but my house alone had been forgotten because of some mistake?
 
-...No, no. There was no reason for them to freeze me out like that[^3].
+...No, no. There's no reason for them to freeze me out like that[^3].
 
-Sure, my social skills were shot, but I paid my taxes properly. There was no way the country would single me out and ignore me.
+Sure, my social skills are shot, but I pay my taxes properly. There's no way the country would single me out and ignore me.
 
 It made me uneasy, but going to the government office to complain directly sounded like a pain too.
 
-If the only way my life could get better was by talking to people, I'd choose the inconvenient life, hands down. Don't underestimate me.
+If the only way my life can get better is by talking to people, I'll choose the inconvenient life, hands down. Don't underestimate me.
 
-Well, I still didn't need to panic. Maybe tomorrow, everything would snap back on like nothing had happened.
+Well, I still don't need to panic. Maybe tomorrow, everything will snap back on like nothing happened.
 
-It wasn't like I'd been left alone for a whole year. It had only been fourteen days. If the disaster covered a wide area, it made sense that a remote place deep in the mountains with barely any residents would be left until later.
+It isn't like I've been left alone for a whole year. It's only been fourteen days. If the disaster covers a wide area, it makes sense that a remote place deep in the mountains with barely any residents would be left until later.
 
-I had to stay calm.
+I have to stay calm.
 
-I'd take my time investigating this strange magic stone while I waited for the utilities to come back.
+I'll take my time investigating this strange magic stone while I wait for the utilities to come back.
 
 ---
 
@@ -284,7 +284,7 @@ Another seven days passed.
 
 The infrastructure was still out.
 
-I didn't want to go outside or talk to anyone, but I wanted information about the outside world.
+I don't want to go outside or talk to anyone, but I want information about the outside world.
 
 I remembered that a radio—the dream item that could grant such a selfish wish—was sleeping in my junk box. By sheer chance, I'd found the key to learning what was causing the disaster.
 
@@ -308,7 +308,7 @@ Sure enough, my prediction was right.
 
 Every electrical appliance I examined had been destroyed inside by crystals growing out of its power supply and live components.
 
-I couldn't believe this was some weird phenomenon happening only inside my house.
+I can't believe this is some weird phenomenon happening only inside my house.
 
 I worked up the courage to leave the house and headed for the public phone at a general store a ten-minute walk away.
 
@@ -320,15 +320,15 @@ The streetlights, vending machines, even the abandoned mini truck—everything! 
 
 A chill ran down my spine, as if horror had suddenly invaded the peaceful everyday life I'd been living.
 
-This phenomenon probably wasn't limited to Okutama. If it had only happened in Okutama, rescue teams would have come a long time ago.
+This phenomenon probably isn't limited to Okutama. If it had only happened in Okutama, rescue teams would have come a long time ago.
 
-Since that hadn't happened, it meant this was happening on a much larger scale, and enough chaos had broken out that rescue was impossible.
+Since that hasn't happened, it means this is happening on a much larger scale, and enough chaos has broken out that rescue is impossible.
 
 All of Japan?
 
 Maybe the whole world?
 
-Humanity was weak when its electrical devices were destroyed.
+Humanity is weak when its electrical devices are destroyed.
 
 Infrastructure down. Communications down. Coordination cut off.
 
@@ -340,7 +340,7 @@ If agricultural tractors and sprinklers stopped, food production would suffer de
 
 Airplanes must have crashed. Nuclear power plants might have exploded.
 
-If electricity was lost, everything was lost.
+If electricity is lost, everything is lost.
 
 Raindrops began pattering against my cheeks as I stood there stunned.
 
@@ -356,11 +356,11 @@ Dark storm clouds filled the sky, and before long, hail started to fall.
 
 No...
 
-...This wasn't hail.
+...This isn't hail.
 
 I was speechless when I saw a small milky-white crystal roll to my feet, splashing mud.
 
-Lightning was large-scale static electricity inside clouds.
+Lightning is large-scale static electricity inside clouds.
 
 Static electricity.
 
@@ -368,13 +368,13 @@ Electricity.
 
 This crystal grew by eating electricity.
 
-The rain clouds in this changed world no longer sent down lightning.
+The rain clouds in this changed world no longer send down lightning.
 
-Instead, they had started dropping crystals.
+Instead, they've started dropping crystals.
 
-If crystals had spread not only across the earth where humanity flourished, but even into the sky, then this phenomenon had to have spread across the entire world.
+If crystals have spread not only across the earth where humanity flourishes, but even into the sky, then this phenomenon must have spread across the entire world.
 
-It was all over.
+It's all over.
 
 While I'd been shut away without a care in the world, human civilization had collapsed.
 

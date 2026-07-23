@@ -46,5 +46,5 @@ Append a **≤ 8-word note** after the tag only when the tag alone would mislead
 **Haibara:** kept polite-casual; no elevation.
 
 ### Formatting Confirmed
-- Scene breaks (◇), inline images, past-tense narration, glossary terms verified.
+- Scene breaks (◇), inline images, narrative/direct-thought tense distinction, glossary terms verified.
 ```

@@ -79,17 +79,29 @@ def check_file(path, entries, violations):
             allowed_honorifics.setdefault(base, set()).add(honorific)
 
     for lineno, line in enumerate(lines, start=1):
-        # (1) banned-alias hit: case-insensitive whole-word/phrase match.
+        # (1) banned-alias hit: whole-word/phrase match with proper-title case handling.
         for e in entries:
             for alias in e["aliases"]:
                 pattern = r"\b%s\b" % re.escape(alias)
+                # A title-cased single-word alias for a proper-name canonical
+                # (for example game title Gather -> Gath) must not flag the
+                # ordinary lowercase verb "gather". Multiword and common-term
+                # aliases retain the historical case-insensitive behavior.
+                alias_flags = (
+                    0
+                    if " " not in alias
+                    and alias.istitle()
+                    and e["en"]
+                    and e["en"][0].isupper()
+                    else re.IGNORECASE
+                )
                 canonical_spans = [
                     m.span()
                     for m in re.finditer(
                         r"\b%s\b" % re.escape(e["en"]), line, re.IGNORECASE
                     )
                 ]
-                for m in re.finditer(pattern, line, re.IGNORECASE):
+                for m in re.finditer(pattern, line, alias_flags):
                     if any(start <= m.start() and m.end() <= end for start, end in canonical_spans):
                         continue
                     violations.append(

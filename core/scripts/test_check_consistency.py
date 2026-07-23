@@ -46,6 +46,16 @@ def test_standalone_alias_still_fails():
     rc, out = run("Ai sat on the shelf.")
     assert rc == 1 and "banned alias 'Ai'" in out
 
+def test_titlecase_alias_does_not_flag_lowercase_common_word():
+    glossary = GLOSSARY + "| ギャザ | Gath | Gather | game title |\n"
+    rc, out = run("They gather materials, then play Gath.", glossary=glossary)
+    assert rc == 0, out
+
+def test_titlecase_alias_still_fails_at_matching_case():
+    glossary = GLOSSARY + "| ギャザ | Gath | Gather | game title |\n"
+    rc, out = run("They played Gather after dinner.", glossary=glossary)
+    assert rc == 1 and "banned alias 'Gather'" in out
+
 def test_honorific_mismatch_fails():
     rc, out = run("Tanaka-kun raised a hand.")
     assert rc == 1 and "Tanaka-kun" in out

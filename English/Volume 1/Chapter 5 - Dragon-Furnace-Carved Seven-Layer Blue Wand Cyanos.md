@@ -4,19 +4,19 @@ That morning, I was washing my face with well water when I saw an ice statue of 
 
 I dropped my foam-covered toothbrush.
 
-What was that?
+What is that?
 
-Tokyo Snow Festival? It was summer, though?
+Tokyo Snow Festival? It's summer, though?
 
 It was too huge to tell what it was... It was too huge to tell what it was.
 
-What? What was it?
+What? What is it?
 
-Was it a monster? Was it something somebody made? Was it real? An illusion?
+Is it a monster? Is it something somebody made? Is it real? An illusion?
 
 As I stared blankly at the kaiju ice statue, I felt eyes on me. I noticed the masked Blue Witch peeking out from behind my front gate and jumped.
 
-That scared the hell out of me! If you were here, you should've said something! Why were you looking at me without making a sound or giving any sign you were there!?
+That scared the hell out of me! If you're here, you should've said something! Why are you looking at me without making a sound or giving any sign you're there!?
 
 "At least say something! My heart stopped!"
 
@@ -74,13 +74,13 @@ I tilted my head at her tone, as if something bad had happened.
 
 The whole deal was supposed to be that the Blue Witch would advertise and sell the magic wands I made.
 
-If she'd used Cyanos to take down a giant kaiju attacking Tokyo in such a flashy way, it should've been great news. It was perfect advertising!
+If she used Cyanos to take down a giant kaiju attacking Tokyo in such a flashy way, that should be great news. It's perfect advertising!
 
 The Blue Witch sighed at my confusion.
 
 "There are limits to advertising. If you made guns, you could sell them. Even if you made missiles, you could sell them if you chose who to sell to. But once they're on the level of nuclear bombs, you can't sell them. You've become Oppenheimer, Ori."
 
-The Blue Witch said it so seriously that I nodded solemnly, but I didn't really get what she was trying to say. What was Oppenheimer?
+The Blue Witch said it so seriously that I nodded solemnly, but I didn't really get what she was trying to say. What is Oppenheimer?
 
 "The other witches pressed me about where this overtechnology came from. I managed to dodge their questions and shake them off."
 
@@ -92,7 +92,7 @@ As I tilted my head even more, the Blue Witch clutched her head.
 
 I could tell I was saying something weird, but I didn't know what was weird about it.
 
-It was a wand that could use magic on the level of a nuclear bomb, so we couldn't sell it...? Why? She'd been able to freeze that kaiju and take it down thanks to my wand, hadn't she? Everyone would want one, right? We should sell them.
+It's a wand that can use magic on the level of a nuclear bomb, so we can't sell it...? Why? She was able to freeze that kaiju and take it down thanks to my wand, wasn't she? Everyone will want one, right? We should sell them.
 
 When I asked her all that straight out, the Blue Witch explained, completely fed up with me.
 
@@ -104,35 +104,35 @@ N-No way. That's awful!
 
 I just wanted to make awesome magic wands and show off.
 
-I got why low-performance wands wouldn't sell, but could a wand really be too good to sell?
+I get why low-performance wands wouldn't sell, but can a wand really be too good to sell?
 
 But once I understood, the Blue Witch's point made sense.
 
-Right. It wasn't like everyone would use my magic wands for the right purpose. When I thought about it, it was obvious.
+Right. It isn't like everyone will use my magic wands for the right purpose. When I think about it, it's obvious.
 
-This wasn't the same as selling fan-made anime merch. What I'd made was a weapon that could easily destroy the world.
+This isn't the same as selling fan-made anime merch. What I've made is a weapon that can easily destroy the world.
 
-Of course there'd be people who misused it. They'd threaten people, kill them, control them.
+Of course there'll be people who misuse it. They'll threaten people, kill them, control them.
 
-I'd hate it if a disaster happened with a wand I made. I wanted my wands to have a reputation, just not a bad one.
+I'd hate it if a disaster happened with a wand I made. I want my wands to have a reputation, just not a bad one.
 
 NO! Controversy marketing!
 
 I crossed my arms and thought about how serious this was for a while, then I noticed the Blue Witch was thinking just as seriously too.
 
-The Blue Witch said my magic wand was a nuclear weapon, but she'd used it properly, hadn't she?
+The Blue Witch says my magic wand is a nuclear weapon, but she used it properly, didn't she?
 
-She was a hero who'd taken down the kaiju destroying Tokyo.
+She's a hero who took down the kaiju destroying Tokyo.
 
-People always said it wasn't the tools that were bad—it was the people using them.
+People always say it isn't the tools that are bad—it's the people using them.
 
 Wouldn't simply choosing who we sold to be enough?
 
-No, we could even give them away for free.
+No, we can even give them away for free.
 
 A magic wand with tremendous power, granted to someone with a righteous heart!
 
-That was so hype. It sounded better than scattering them around for high prices.
+That's so hype. It sounds better than scattering them around for high prices.
 
 "Hey."
 
@@ -148,7 +148,7 @@ When I made the suggestion, the Blue Witch looked troubled enough that I could t
 
 "That's true. But there's no point comparing me to someone with zero points in interpersonal skills."
 
-Wow, rude! But zero points was going too far! I had about three points!
+Wow, rude! But zero points is going too far! I have about three points!
 
 "Come on. I don't want the magic wands I worked so hard to make just sitting in storage. A piece only matters once it's in someone's hands, right? As long as they don't misuse them, we could sell them to people who just want one for display, or as a stage prop, or whatever."
 
@@ -166,13 +166,13 @@ Even my parents, who'd gotten fed up with how badly I fit into society, had only
 
 "No, it can't be helped, right? If we sell them off at random and a huge disaster happens, it's our fault. But if we carefully check out the buyers and a huge disaster still happens, that's not our fault."
 
-If I took responsibility for everything that happened because of me, I'd never be able to do anything.
+If I take responsibility for everything that happens because of me, I'll never be able to do anything.
 
-The Blue Witch had this gloomy air about her, like she'd been through all kinds of painful things, but I didn't think she had to be so pessimistic.
+The Blue Witch has this gloomy air about her, like she's been through all kinds of painful things, but I don't think she has to be so pessimistic.
 
-There were lots of bad people in the world, but lots of good people too. It'd work out. Let's just say it would.
+There are lots of bad people in the world, but lots of good people too. It'll work out. Let's just say it will.
 
-If I never made magic wands again, the whole question of whether to sell them would disappear, but I wanted to make them and sell them, so it couldn't be helped.
+If I never make magic wands again, the whole question of whether to sell them will disappear, but I want to make them and sell them, so it can't be helped.
 
 I tried hard to persuade the Blue Witch for my own selfish reasons, but if I actually pulled it off, I'd have to give back my title as a social misfit.
 
@@ -184,13 +184,13 @@ The Blue Witch reluctantly nodded and gave a noncommittal answer.
 
 She was definitely never going to sell any.
 
-This was no good. It didn't look like we'd sell a single wand.
+This is no good. It doesn't look like we'll sell a single wand.
 
-I'd have to give up for now and patiently wait for the Blue Witch to change her mind.
+I'll have to give up for now and patiently wait for the Blue Witch to change her mind.
 
-It wasn't like there was a reason we had to sell them in a hurry. As long as the Blue Witch kept using Cyanos, my cowardly pride and arrogant shame would be soothed for now.
+It isn't like there's a reason we have to sell them in a hurry. As long as the Blue Witch keeps using Cyanos, my cowardly pride and arrogant shame will be soothed for now.
 
-I was the one making the magic wands. There was no point worrying about promotion and sales strategy too. I should focus on my work as a professional, as a craftsman.
+I'm the one making the magic wands. There's no point worrying about promotion and sales strategy too. I should focus on my work as a professional, as a craftsman.
 
 As I wrapped up the conversation on my own and nodded to myself, the Blue Witch cleared her throat and spoke in a more serious tone.
 
@@ -204,7 +204,7 @@ As I wrapped up the conversation on my own and nodded to myself, the Blue Witch 
 
 Cyanos, which the Blue Witch held out looking guilty, was a spectacularly cracked-up mess.
 
-I'd thought it looked like she was trying to hide Cyanos behind her back. So this was why?
+I thought it looked like she was trying to hide Cyanos behind her back. So this is why?
 
 "Sorry. I thought I was taking good care of it, but..."
 
@@ -224,7 +224,7 @@ I nodded at the worried Blue Witch.
 
 "Frost cracking?"
 
-I couldn't help doing a double take at the Blue Witch tilting her head. Seriously? She used ice magic. She should at least know about frost cracking. It was her specialty.
+I couldn't help doing a double take at the Blue Witch tilting her head. Seriously? She uses ice magic. She should at least know about frost cracking. It's her specialty.
 
 The Blue Witch was a former high school girl who used freezing magic but knew nothing about freezing phenomena, so I reluctantly explained it to her.
 
@@ -242,11 +242,11 @@ As I explained while showing her Cyanos's handle with its huge crack, the Blue W
 
 I snapped at the Blue Witch, who was getting dejected for the wrong reason.
 
-I knew the Blue Witch used ice-type magic, but I hadn't even considered frost cracking. That was my fault.
+I knew the Blue Witch used ice-type magic, but I hadn't even considered frost cracking. That's my fault.
 
 Dammit. Humiliating. I'd thought I'd finished it perfectly before giving it to her.
 
-At least it hadn't caused a product accident. The Blue Witch didn't look injured. If my product's defect had injured my best advertisement, I'd never stop regretting it.
+At least it hasn't caused a product accident. The Blue Witch doesn't look injured. If my product's defect had injured my best advertisement, I'd never stop regretting it.
 
 The Blue Witch seemed guilty for the wrong reason. Rather than sit and wait quietly in the living room, she said she'd go wipe out every monster in Okutama.
 
@@ -260,7 +260,7 @@ Okutama was a peaceful land where strong monsters didn't show up for some reason
 
 The Blue Witch set out looking confident, fully intending to wipe every monster out of Okutama before I finished my repair.
 
-Cocky, wasn't she? But she shouldn't underestimate me, either. I was a dexterous man. Fixing a broken wand would take no time at all.
+Cocky, isn't she? But she shouldn't underestimate me, either. I'm a dexterous man. Fixing a broken wand will take no time at all.
 
 After seeing the Blue Witch off, I rolled up my sleeves and immediately got to work replacing Cyanos's handle in the workshop.
 
@@ -284,7 +284,7 @@ Just as I took Cyanos Ver. 2 to the living room, I heard footsteps from the hall
 
 We came face-to-face, and both of us were shocked.
 
-What? What was going on? Only about an hour had passed. Even if she'd said she was going to hunt the monsters in Okutama, it should've taken quite a while just to find them. There was no way she could've finished clearing them out so quickly.
+What? What's going on? Only about an hour has passed. Even if she said she was going to hunt the monsters in Okutama, it should take quite a while just to find them. There's no way she could've finished clearing them out so quickly.
 
 "Did you just take a quick look around my house?"
 
@@ -292,7 +292,7 @@ What? What was going on? Only about an hour had passed. Even if she'd said she w
 
 With that, the Blue Witch emptied a clattering pile of Gremlins smeared with slightly fishy-smelling blood from her pouch onto the table. More and more came out of her coat pockets, breast pocket, and pants pockets too.
 
-Eek. Was she for real? Did she hunt this many monsters in one hour? Witches were way more monstrous than I'd thought.
+Eek. Is she for real? Did she hunt this many monsters in one hour? Witches are way more monstrous than I thought.
 
 As I stood there both impressed and terrified, the Blue Witch gave Cyanos in my hand a suspicious look.
 
@@ -312,8 +312,8 @@ She ran her fingers along the handle, gave it a light swing, then stared at the 
 
 After spending a while half exasperated and half impressed, the Blue Witch thanked me properly, collected the Gremlins and Cyanos, and went home.
 
-Hmm. I'd never seen how witches fought. If I got the Blue Witch's on-the-ground perspective, impressions from actual use, and feedback, I might find improvements I couldn't see from a craftsman's perspective.
+Hmm. I've never seen how witches fight. If I get the Blue Witch's on-the-ground perspective, impressions from actual use, and feedback, I might find improvements I can't see from a craftsman's perspective.
 
-I'd get her to let me do regular maintenance checks from now on.
+I'll get her to let me do regular maintenance checks from now on.
 
-I had to keep honing my skills to make better and better magic wands.
+I have to keep honing my skills to make better and better magic wands.

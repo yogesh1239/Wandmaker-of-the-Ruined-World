@@ -2,25 +2,25 @@ After harvesting, threshing, and hulling the rice, I packed the resulting white 
 
 Last year, as it got colder, I stopped catching fish and animals stopped getting caught in my traps, so I had to dip into my meager stores. It was nerve-racking, but this year was different.
 
-I had plenty of rice. The Blue Witch would send some canned food and dried noodles my way too.
+I have plenty of rice. The Blue Witch will send some canned food and dried noodles my way too.
 
-I could eat my fill every day without worrying about my remaining food. Could there be any greater happiness?
+I can eat my fill every day without worrying about my remaining food. Can there be any greater happiness?
 
-Good thing I took up rice farming. Good thing the fertility-magic bypass incantation was complete. I was grateful for everything.
+Good thing I took up rice farming. Good thing the fertility-magic bypass incantation was complete. I'm grateful for everything.
 
-Still, there were things I should've done better. I doubled the rice harvest with fertility magic, sure, but it only doubled. It wasn't like the quality went up.
+Still, there are things I should've done better. I doubled the rice harvest with fertility magic, sure, but it only doubled. It isn't like the quality went up.
 
-The rice grains from my first rice crop were a little skinny. They were slimmer and smaller than the rice that had been on the market before civilization collapsed. The variety I was growing was a standard one, so I probably hadn't grown it right.
+The rice grains from my first rice crop are a little skinny. They're slimmer and smaller than the rice that had been on the market before civilization collapsed. The variety I'm growing is a standard one, so I probably didn't grow it right.
 
-Obviously a first-year rice farmer couldn't make top-quality rice right away, but it still bugged me.
+Obviously a first-year rice farmer can't make top-quality rice right away, but it still bugs me.
 
-Also, getting kidnapped by a dragon had left me scrambling and pushed back the harvest schedule, so sparrows had eaten quite a bit of it. I was gonna start hating creatures with wings. Unforgivable.
+Also, getting kidnapped by a dragon had left me scrambling and pushed back the harvest schedule, so sparrows had eaten quite a bit of it. I'm gonna start hating creatures with wings. Unforgivable.
 
-But it didn't taste bad, and I'd grown extra expecting a bad harvest, so even after accounting for all kinds of mistakes, I'd harvested more than enough to live on for the next year.
+But it doesn't taste bad, and I'd grown extra expecting a bad harvest, so even after accounting for all kinds of mistakes, I've harvested more than enough to live on for the next year.
 
-I caught fish and dried them, made smoked venison, and asked the Blue Witch to buy sugar and whale oil at the barter market. This year, I could sit back and watch the snow paint the mountains white from my window. Everything was completely different from last year's desperate early winter.
+I caught fish and dried them, made smoked venison, and asked the Blue Witch to buy sugar and whale oil at the barter market. This year, I can sit back and watch the snow paint the mountains white from my window. Everything is completely different from last year's desperate early winter.
 
-Since I had so much breathing room, I decided to invite the Blue Witch over. This year, I didn't need to go into the mountains looking for scraps of food or force myself to sleep longer to conserve energy. I could just do what I liked and have fun! That was how much breathing room I had.
+Since I had so much breathing room, I decided to invite the Blue Witch over. This year, I don't need to go into the mountains looking for scraps of food or force myself to sleep longer to conserve energy. I can just do what I like and have fun! That's how much breathing room I have.
 
 “Hello, Blue Witch? Wanna come by my place right now? Let's play a card game!”
 
@@ -46,11 +46,11 @@ I listened to the Blue Witch's halfhearted responses as I carefully explained th
 
 With that, the Blue Witch hung up.
 
-Was there anything sad in what I just said? She was a weird one. I really didn't get her.
+Is there anything sad in what I just said? She's a weird one. I really don't get her.
 
 I made three pickled-plum rice balls and set out some pickled daikon and brown-rice tea too. As I put charcoal in the kotatsu[^1], the Blue Witch arrived with snow in her hair.
 
-It had to be cold outside, but the front of her black coat was open and her thighs were totally bare. Yikes, just looking at her made me feel chilly.
+It has to be cold outside, but the front of her black coat is open and her thighs are totally bare. Yikes, just looking at her makes me feel chilly.
 
 “Hey. Aren't you cold?”
 
@@ -94,7 +94,7 @@ As she gathered up the cards scattered over the table and put them away, the Blu
 
 I imagined the Lovely Stoat Professor (beast form) and nodded deeply. True.
 
-Professor Ohinata wasn't a monster, but there was no question she was a blessing the Gremlin Disaster brought to the world, the incarnation of cuteness. Wasn't her returning to human form a loss for humanity?
+Professor Ohinata isn't a monster, but there's no question she's a blessing the Gremlin Disaster brought to the world, the incarnation of cuteness. Isn't her returning to human form a loss for humanity?
 
 “Cute monsters are fun just to look at. Sometimes I just drive harmless cute monsters away.”
 
@@ -102,7 +102,7 @@ Professor Ohinata wasn't a monster, but there was no question she was a blessing
 
 “I kill them.”
 
-The Blue Witch's answer was short and merciless. Well, right. You'd throw killing intent around even when the other guy was human. Of course you'd do that. Sca-ry.
+The Blue Witch's answer was short and merciless. Well, right. You throw killing intent around even when the other guy is human. Of course you do that. Sca-ry.
 
 After lunch, we decided to spend the afternoon taking a walk to look for monsters.
 
@@ -110,7 +110,7 @@ We'd spent all morning playing the game I'd suggested and working our brains, so
 
 I bundled up in heavy cold-weather clothes and put on winter boots in the entryway, but the Blue Witch dressed light, not even changing her half-assed outfit that left her hot in summer and cold in winter.
 
-I held up my spare fluffy earmuffs and waved them at her, but she raised a palm and firmly refused. You really didn't mind the cold, did you?
+I held up my spare fluffy earmuffs and waved them at her, but she raised a palm and firmly refused. You really don't mind the cold, do you?
 
 “All right. Ready to go. Let's go!”
 
@@ -206,7 +206,7 @@ Even if you risked your life to defeat a monster, you couldn't eat its meat, and
 
 I got sick of listening to the Blue Witch go on and on about “Everything Wrong with Monster Materials!”
 
-They were pests while they were alive, and killing them had no upside. Monsters were totally hopeless.
+They're pests while they're alive, and killing them has no upside. Monsters are totally hopeless.
 
 “So killing monsters doesn't do you any good...”
 
@@ -224,13 +224,13 @@ Confused, I pointed at myself. The Blue Witch gave a little smile.
 
 “...Sorry.”
 
-In the end, it came back to that.
+In the end, it comes back to that.
 
-There were things to gain from monsters. But they weren't worth the risk.
+There are things to gain from monsters. But they aren't worth the risk.
 
-That was the point.
+That's the point.
 
-For the sake of the people risking their lives to fight monsters, I had to make even higher-performance magic wands.
+For the sake of the people risking their lives to fight monsters, I have to make even higher-performance magic wands.
 
 Make better wands.
 
@@ -256,9 +256,9 @@ We still hadn't found the cute monster the Blue Witch was after.
 
 The Blue Witch clenched and unclenched both hands wistfully, then sighed.
 
-This girl really liked animals. I got the stoat thing, but were wolves cute...? Weren't they more cool than cute?
+This girl really likes animals. I get the stoat thing, but are wolves cute...? Aren't they more cool than cute?
 
-We walked along the shore of Lake Okutama for a while, but we didn't see the white wolf. All we found was a turtle monster with an absurdly long neck swimming through ripples kicked up by the cold wind. It was kind of funny seeing several little turtles looking around from on top of its huge 2 m shell. Were they a parent and its kids?
+We walked along the shore of Lake Okutama for a while, but we didn't see the white wolf. All we found was a turtle monster with an absurdly long neck swimming through ripples kicked up by the cold wind. It was kind of funny seeing several little turtles looking around from on top of its huge 2 m shell. Are they a parent and its kids?
 
 I wished monsters would quit reminding me that they weren't mysterious horrors, but living creatures doing their best to get by every day. That just made them harder to kill.
 
@@ -302,7 +302,7 @@ But even after I told her all about Bigfoot, the Blue Witch was skeptical.
 
 “No, no, who knows? Maybe monsters had been hiding on Earth all along, and the Gremlin Disaster made them show themselves.”
 
-Like kappa, karakasa-obake, and stuff. Who could say that old-school, homegrown supernatural beings weren't mixed in among the monsters running rampant?
+Like kappa, karakasa-obake, and stuff. Who can say that old-school, homegrown supernatural beings aren't mixed in among the monsters running rampant?
 
 As I argued passionately enough to melt the piled-up snow, the Blue Witch seemed to get into it too. She leaned forward, looking excited.
 
@@ -312,9 +312,9 @@ As I argued passionately enough to melt the piled-up snow, the Blue Witch seemed
 
 The Blue Witch was suddenly all in, so the two of us started tracking the footprints of our provisional Bigfoot.
 
-Hell yeah! We were UMA hunters!
+Hell yeah! We're UMA hunters!
 
-If we could prove Bigfoot was real, there'd be hope that other UMAs and yokai were real too.
+If we can prove Bigfoot is real, there'll be hope that other UMAs and yokai are real too.
 
 This could be the discovery of a new species with a huge impact on both monster studies and biology!
 
@@ -328,11 +328,11 @@ The Blue Witch led the way along the footprints. She glanced back, waited for me
 
 “...True.”
 
-I hated meeting people, but if someone was that weird, I kind of wanted to see him just once.
+I hate meeting people, but if someone is that weird, I kind of want to see him just once.
 
 Finding Bigfoot would be good. Finding a weird old guy would be good too.
 
-Either way, this expedition was a guaranteed win.
+Either way, this expedition is a guaranteed win.
 
 The snowfall gradually got heavier, and a blizzard seemed likely. But before the snow completely blocked our view, we got what we were after.
 
@@ -356,7 +356,7 @@ It was a humanoid about 3 m tall. Its huge, shaggy body was covered in gray fur,
 
 It was there.
 
-Bigfoot was really there!
+Bigfoot is really there!
 
 ...But that excitement only lasted a moment.
 
@@ -380,9 +380,9 @@ It was a monkey that had mutated into a monster. It may have looked worthy of th
 
 Even though it no longer looked like its companions, it was still trying to return to their troop, only to be rejected.
 
-S-sad. Was there even a monster this sad?
+S-sad. Is there even a monster this sad?
 
-Don't do this to me. I'm the kind of guy who watches some sappy animal documentary and bawls his eyes out over it. Even if it was a hairy, stinky, huge monkey, seeing it look that sad made my chest hurt.
+Don't do this to me. I'm the kind of guy who watches some sappy animal documentary and bawls his eyes out over it. Even if it is a hairy, stinky, huge monkey, seeing it look that sad makes my chest hurt.
 
 “...Maybe I'm still pretty lucky. Even though I'm no longer human, I can still live in human society.”
 
@@ -390,7 +390,7 @@ Don't do this to me. I'm the kind of guy who watches some sappy animal documenta
 
 The Blue Witch was hurting for a different reason than I was.
 
-We'd come to look for a cute, fluffy white wolf, and this was one hell of a surprise. This wasn't what I wanted to see.
+We came to look for a cute, fluffy white wolf, and this is one hell of a surprise. This isn't what I wanted to see.
 
 As my mood darkened, thick, gloomy clouds hung low overhead as if to pile on, and the snow finally started coming down hard.
 
@@ -420,7 +420,7 @@ And so the monsters' little scene on the snowy mountain ended with a small measu
 
 When I summed up the unusual thing we'd just seen and muttered in admiration, the Blue Witch made a sound like she'd heard an unfamiliar foreign language.
 
-Huh? The Blue Witch didn't understand symbiosis? You used to be a high school girl. Did you even pay attention in biology class?
+Huh? The Blue Witch doesn't understand symbiosis? You used to be a high school girl. Did you even pay attention in biology class?
 
 “The word symbiosis means living things of different species living together and affecting each other. When both sides benefit, that's mutualism. When only one side benefits, that's commensalism. When one side benefits while making the other suffer, that's parasitism. Going by what we just saw, the white wolf helped Bigfoot, so at least it wasn't parasitism, and—”
 
@@ -436,7 +436,7 @@ Friends? That mutt and that ape? There's even a saying that dogs and monkeys don
 
 After I laid out my theory, the Blue Witch let out her biggest sigh of the day.
 
-Come on. Had I said anything wrong?
+Come on. Did I say anything wrong?
 
 “Ugh, fine, fine. I'll listen to your annoying friendship theory all you want. Now let's hurry down the mountain. The blizzard's setting in.”
 

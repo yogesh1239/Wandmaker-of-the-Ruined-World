@@ -1,0 +1,116 @@
+# Chapter 7 — Edit Log
+
+### Accuracy Fixes
+- **source line 10 (fertility-magic referent)**: "the fertility-magic users spreading through the world" → "users of the fertility magic that had spread through society" — referent
+- **source line 25 (polishing results)**: "They let craftspeople" → "This let craftspeople" — referent
+- **source line 61 (Ori's reaction)**: "I got serious and admired it" → "I stopped laughing and came away impressed" — accuracy
+- **source line 76 (trade field)**: "the gem-cutting world" → "the gem-working world" — accuracy
+- **source line 100 (Columbus idiom)**: "one of those Columbus's egg things" → "A real Columbus's egg.[^1]" — accuracy
+- **Translator note (Columbus idiom)**: no note → "Columbus's egg: An idea or feat that seems simple and obvious only after someone has demonstrated it." — accuracy
+- **source line 103 (commissioned furnace work)**: "giving the production method and blueprints to the Flame Witch's reverberatory furnace" → "sending the production method and blueprints to the Flame Witch and commissioning her reverberatory furnace" — referent
+- **source line 169 (wand performance)**: "magic-power amplification ratio" → "amplification ratio" — glossary
+- **source line 178 (intended market)**: "widespread public use" → "the mass market" — accuracy
+- **source line 184 (mass-market wands)**: "mass-produced, public-facing wands" → "mass-market wands" — accuracy
+- **source line 202 (kaiju antecedent)**: "stories of killing the Bloodsucking Mage and instantly killing the giant kaiju" → "instantly killing the giant kaiju that had slaughtered the Bloodsucking Mage" — referent
+- **source line 223 (connection reflection)**: "I'm really glad I made connections" → "I was really glad I'd made connections" — tense
+- **source line 265 (mass-market production)**: "mass production of public-facing magic wands" → "mass production of mass-market magic wands" — accuracy
+- **source line 277 (Blue Witch reply)**: "Nothing. You're white too." → "No. You're white too." — voice
+- **source line 304 (abrasive quality)**: "shitty abrasive" → "low-grade abrasive" — register
+- **source line 313 (研削砥石)**: "polishing wheel" → "grinding wheel" — accuracy
+- **source line 331 (回転砥石)**: "spinning wheel of the rapidly rotating polishing machine" → "rapidly spinning grinding wheel" — accuracy
+- **source line 334 (ザリッ)**: "get ground off with a grrrk and the skin would peel away" → "the wheel would scrape my fingers raw and peel the skin right off" — sfx
+- **source line 388 (速い速い)**: "Fast, fast!" → "Too fast, too fast!" — accuracy
+- **source line 442 (training decision)**: "I'll try thinking up" → "Maybe I'd come up with" — tense
+- **source line 445 (training plan)**: "I'll devise" → "I'd devise" — tense
+- **source line 454 (抜かりなく)**: "without any slacking" → "without any gaps in my training" — accuracy
+- [polish] **source line 10 (roundish Gremlins)**: "users of the fertility magic that had spread through society picked up Gremlins that were already close to spherical and used them by gripping them tight" → "people using the now-widespread fertility magic picked up naturally roundish Gremlins and cast with them clenched in their hands" — polish
+- [polish] **source line 13 (daily output)**: "that production volume couldn't possibly meet demand" → "that wasn't nearly enough to meet demand" — polish
+- [polish] **source line 13 (manufacturing process)**: "Adding a backlash-prevention mechanism to the manufacturing process" → "Adding a backlash-prevention mechanism to the process" — polish
+- [polish] **source line 16 (Handa's appointment)**: "The new technologies devised by Professor Handa, who had taken up his post ... with the new school year" → "The new technology devised by Professor Handa, who had joined ... at the start of the new school year" — polish
+- [polish] **source line 19 (six-month achievement)**: "Less than half a year after taking up the post" → "Within six months of arriving" — polish
+- [polish] **source line 19 (artisan production)**: "made magic-wand production by ordinary craftspeople possible" → "made it possible for ordinary craftspeople to produce magic wands" — polish
+- [polish] **source line 28 (first result)**: "First was" → "First came" — polish
+- [polish] **source line 37 (sedimentation explanation)**: "the settling of matter in fluids" → "how particles settled in fluids" — polish
+- [polish] **source line 46 (second result)**: "The second research result involving abrasive" → "Their second abrasive breakthrough" — polish
+- [polish] **source line 61 (rationality)**: "it was rational" → "it actually made sense" — polish
+- [polish] **source line 64 (extreme inefficiency)**: "It was such peak inefficiency that I had never even considered it" → "It was so wildly inefficient I'd never even considered it" — polish
+- [polish] **source line 67 (damage sequence)**: "crack, chip, or split" → "break, chip, or crack" — polish
+- [polish] **source line 70 (natural dexterity)**: "I could process Gremlins from the start with my natural manual dexterity, without needing to figure anything out" → "My natural dexterity had let me work Gremlins right from the start, without devising any special tricks" — polish
+- [polish] **source line 73 (Handa team possessive)**: "Professor Handa's team's polishing method" → "The polishing method Professor Handa's team developed" — polish
+- [polish] **source line 79 (Handa's achievement)**: "The amazing part about Professor Handa was that ... they could process Gremlins" → "What made Professor Handa amazing was that ... they could handle Gremlins" — polish
+- [polish] **source line 82 (casting result)**: "The research result of 'casting' was an advanced form" → "The 'casting' breakthrough was the next step" — polish
+- [polish] **source line 85 (Tesla-valve model)**: "Taking the Tesla valve as its prototype" → "Using a Tesla valve as his model" — polish
+- [polish] **source line 94 (cooling cast Gremlin)**: "cooled and solidified it, and cast it into a shape" → "let it cool and harden, and cast it in a shape" — polish
+- [polish] **source line 97 (carving ability)**: "carve and shape things" → "carve Gremlins into shape" — polish
+- [polish] **source line 103 (furnace commission)**: "sending ... to the Flame Witch and commissioning her reverberatory furnace to do the work" → "sending ... to the Flame Witch's people and commissioning them to make it in their reverberatory furnace" — polish
+- [polish] **source line 109 (personal furnace)**: "my own personal one" → "my personal one" — polish
+- [polish] **source line 109 (city work speed)**: "Whatever you did, the work went" → "No matter what the job was, it went" — polish
+- [polish] **source line 127 (grinder efficiency)**: "With a grinder, it was way more efficient" → "Using a grinder was way more efficient" — polish
+- [polish] **source line 127 (inefficiency reduction)**: "improved to merely an inefficient job" → "became merely inefficient" — polish
+- [polish] **source line 133 (rival arrival)**: "for so long, then suddenly" → "for so long—then suddenly" — polish
+- [polish] **source line 136 (production volume)**: "I'd lose on output" → "I couldn't beat them on output" — polish
+- [polish] **source line 139 (market-share fear)**: "They'd take ... I'd fall ... I'd become" → "At this rate, they'd steal ... knock me ... and turn me" — polish
+- [polish] **source line 142 (戦々恐々)**: "That was what I was scared shitless of" → "I was shaking in my boots" — polish
+- [polish] **source line 145 (Council orders)**: "put in orders with me for magic wands" → "ordered magic wands from me" — polish
+- [polish] **source line 148 (student-wand orders)**: "kept putting in orders with me for student wands" → "kept ordering student wands from me" — polish
+- [polish] **source line 157 (Handa wands)**: "The wands whose production method the Handa Laboratory had established" → "The wands made with the method established by the Handa Laboratory" — polish
+- [polish] **source line 166 (sphere work)**: "Their sphere processing" → "Their sphere work" — polish
+- [polish] **source line 169 (ratio comparison)**: "Their amplification ratio dropped way below the wands" → "Their amplification ratio was way lower than that of the wands" — polish
+- [polish] **source line 172 (theoretical precision)**: "deliver 100% of the theoretical precision" → "reproduce the theoretical design with 100% precision" — polish
+- [polish] **source line 178 (mass-market products)**: "mass-produced goods meant for the mass market" → "mass-market products" — polish
+- [polish] **source line 199 (Cyanos promotion)**: "the advertising effect of Cyanos, which the Blue Witch carried" → "Cyanos, which the Blue Witch carried, was great advertising" — polish
+- [polish] **source line 202 (Cyanos fragments)**: "It was beautiful, a first-rate work of art, and a super-class weapon" → "Beautiful. A first-rate work of art. And a super-class weapon" — polish
+- [polish] **source line 214 (pre-disaster analogy)**: "In pre-Gremlin-Disaster values" → "In pre-Gremlin Disaster terms" — polish
+- [polish] **source line 220 (student motivation)**: "Even if they were after the magic wand, if talented people gathered and worked hard" → "If the wands drew talented people who then threw themselves" — polish
+- [polish] **source line 226 (changing times)**: "left behind by the tide of this rapidly changing age" → "left behind as the times changed around me" — polish
+- [polish] **source line 229 (Ori's position)**: "I clarified my own position once again" → "I got clear on where I stood again" — polish
+- [polish] **source line 232 (market strategies)**: "Against Professor Handa's mass-production route for the masses, I'd take the high-quality, high-end custom-made route" → "Professor Handa was going mass-market and mass-produced. I'd go custom-made, high-quality, and high-end" — polish
+- [polish] **source line 238 (mass production benefit)**: "magic wands being mass-produced" → "the mass production of magic wands" — polish
+- [polish] **source line 244 (mutual stimulation)**: "We gave each other good stimulation, so I wanted to keep exchanging technology more and more" → "We kept each other sharp, so I wanted to exchange more and more technology" — polish
+- [polish] **source line 247 (shared technology)**: "The processing technology I put out there" → "The processing technology I shared" — polish
+- [polish] **source line 250 (Ori's wands)**: "my magic wands' performance would improve" → "my wands would keep improving" — polish
+- [polish] **source line 256 (written exchange)**: "exchange technology through paperwork" → "exchange technology in writing" — polish
+- [polish] **source line 265 (ranking emerges)**: "As time passed after mass production ... began" → "As time passed and mass-market wand production took off" — polish
+- [polish] **source line 268 (pumpkin seeds)**: "pumpkin seeds to plant in my field next" → "seeds for the pumpkins I was going to grow next" — polish
+- [polish] **source line 268 (smooth capture)**: "she smoothly captured me, and my body stiffened up" → "she caught my hand in one smooth motion, and I froze" — polish
+- [polish] **source line 271 (unexpected interest)**: "obvious interest in me out of nowhere" → "obvious interest out of nowhere" — polish
+- [polish] **source line 286 (abrasive timeline)**: "Since I started using" → "Since I'd started using" — polish
+- [polish] **source line 295 (stained fingers)**: "fingers stained from using that abrasive so much" → "all that abrasive stained the fingers using it white" — polish
+- [polish] **source line 295 (normal fingertips)**: "lately it wouldn't come off. These white fingertips had completely become normal" → "lately it wouldn't. These white fingertips had become totally normal" — polish
+- [polish] **source line 301 (rumor reaction)**: "it isn't completely wrong" → "it's not exactly wrong" — polish
+- [polish] **source line 304 (slow artisans)**: "lazily made wands" → "took their sweet time making wands" — polish
+- [polish] **source line 310 (workshop explanation)**: "explained while showing her the polishing machine and abrasive" → "showed her the actual grinder and abrasive as I explained" — polish
+- [polish] **source line 313 (grinder instruction)**: "sit in this chair" → "sit here" — polish
+- [polish] **source line 313 (stone work)**: "stone you want to cut" → "stone you want to grind" — polish
+- [polish] **source line 313 (invitation)**: "Give it a try. Here, sit down" → "Give it a try. Come on, sit down" — polish
+- [polish] **source line 319 (pedal pause)**: "stop your feet for a moment" → "stop pedaling for a moment" — polish
+- [polish] **source line 325 (finesse instruction)**: "Delicacy over strength!" → "Finesse, not force!" — polish
+- [polish] **source line 328 (Blue Witch's dexterity)**: "about as dexterous as an average person" → "at least average" — polish
+- [polish] **source line 343 (concealer offer)**: "Want me to lend you concealer?" → "Want to borrow some concealer?" — polish
+- [polish] **source line 352 (craftsman's hands)**: "It looks like a craftsman's hands, and it's cool" → "It makes my hands look like a craftsman's. That's cool" — polish
+- [polish] **source line 355 (Ori's sensibility)**: "I really don't understand Ori's sense of style" → "I really don't get your tastes, Ori" — polish
+- [polish] **source line 361 (town gossip)**: "The Blue Witch's town gossip wasn't just about White Fingers" → "White Fingers wasn't the only piece of town gossip the Blue Witch had picked up" — polish
+- [polish] **source line 364 (recruited amateurs)**: "not just craftspeople ... but total amateurs ... had been mobilized" → "not only craftspeople ... but also total amateurs" — polish
+- [polish] **source line 367 (training purpose)**: "raise those amateurs' dexterity after the fact" → "build those amateurs' dexterity" — polish
+- [polish] **source line 370 (hand demonstration)**: "while actually showing me her hands" → "with her own hands" — polish
+- [polish] **source line 385 (Blue Witch's reaction)**: "was completely put off" → "recoiled" — polish
+- [polish] **source line 409 (Blue Witch response)**: "Yeah, right" → "Yeah, okay" — polish
+- [polish] **source line 415 (pre-meal pose)**: "the palms-together pose you make before eating" → "put your hands together like you do before a meal" — polish
+- [polish] **source line 430 (no easy improvement)**: "there was no such easy deal" → "I wasn't getting that lucky" — polish
+- [polish] **source line 436 (closing the gap)**: "dexterity could be trained after the fact ... start catching up to my dexterity" → "exercises like these could build dexterity ... start closing the gap with me" — polish
+- [polish] **source line 442 (Ori's decision)**: "Maybe I'd come up with" → "I decided to come up with" — polish
+- [polish] **source line 448 (White Fingers rumor)**: "the rumor was spreading that the fingers of a first-rate Wand Maker were white" → "there was a rumor going around that every first-rate Wand Maker had white fingers" — polish
+- [polish] **source line 454 (closing boast)**: "keep the God Hand's skill rock solid ... without any gaps in my training" → "keep my God Hand skills rock-solid ... stay on top of my training" — polish
+- **source line 313 (consistency correction)**: "grinding wheel" → "abrasive wheel" — glossary
+- **source line 313 (consistency correction)**: "stone you want to grind" → "stone you want to polish" — glossary
+- **source line 331 (consistency correction)**: "rapidly spinning grinding wheel" → "rapidly spinning wheel" — glossary
+
+### Register and Flow
+**Ori:** Kept his very casual, boastful first-person voice, technical enthusiasm, abrupt panic, and craft-pride escalation below the narrator ceiling.
+
+**Blue Witch:** Kept her dialogue terse and practical, retained her direct `Ori` address, and preserved her hesitant rhythm during the finger exercises.
+
+### Formatting Confirmed
+- Audited source lines 1–170, 171–340, and 341–454 in order for both accuracy and polish.
+- The single `---` scene break, `wizard[ウイザード]`, glossary locks, past-tense narration, and one terminal `## Translator Notes` section were verified.
+- Source line 376 says to raise the index and ring fingers while keeping the little and ring fingers down. The contradiction was preserved faithfully in English and not silently corrected.

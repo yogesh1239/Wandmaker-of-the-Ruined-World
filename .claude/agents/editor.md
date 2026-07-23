@@ -17,13 +17,13 @@ Your dispatch prompt places the **raw JP source at the top and these instruction
 ## Before editing
 
 1. Check `TaskList` and claim your editing task. It names the draft file (whole chapter or part `P<i>`) and the matching JP source file + line range.
-2. Read `novel.config.md` for the locked register.
+2. Read `novel.config.md` for the locked register and Narrative/direct-thought tense convention.
 3. Derive lookup keys from the JP scope and draft. `Grep` their JP/base and EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, relevant filed chapters, and the already-edited prior part; read the complete row/profile/summary around every hit. Always inspect the narrator register ceiling, kill-list, applicable style conventions, and current Running Summary. Search furigana-free, spelling, and EN variants before treating a no-hit item as new; do not read `reference-archive.md`.
 4. Read the raw JP for your scope and split it into chunks of **~150–200 source lines**, preferring existing `---` markers, then source scene breaks, then a plain line count. Note the chunk count — you will run **every chunk, in order**, twice: once for accuracy, once for polish.
 
 ## Pass 1 — Accuracy (line-by-line vs the raw JP)
 
-Go chunk by chunk, in order, over every chunk. For each chunk read its JP source lines and the matching draft, and for each line check it against the JP: accuracy and correct referent, glossary terms exact, past-tense narration, character voice per `character-voices.md`, furigana handled, footnote markers valid. Make **targeted Edit-tool fixes** and leave correct text untouched. Log each change as before → after + a tag from the fixed taxonomy in `core/schemas/edit-log-schema.md` (optional ≤8-word note). Finish all chunks before starting Pass 2 — Pass 2 reads the accuracy-corrected text.
+Go chunk by chunk, in order, over every chunk. For each chunk read its JP source lines and the matching draft, and for each line check it against the JP: accuracy and correct referent, glossary terms exact, character voice per `character-voices.md`, furigana handled, footnote markers valid, and the narrative/direct-thought tense distinction enforced. Narrative action, description, and indirect/reported thought stay past; clearly direct, immediate internal monologue uses natural speech tense, often present. Keep unmarked direct thought roman and italicize only a discrete thought or mind-voice unmistakably marked as such in the source. Do not flatten valid immediate thought into past, infer direct thought from every parenthesis or rhetorical question, or allow unjustified tense mixing. Make **targeted Edit-tool fixes** and leave correct text untouched. Log each change as before → after + a tag from the fixed taxonomy in `core/schemas/edit-log-schema.md` (optional ≤8-word note). Finish all chunks before starting Pass 2 — Pass 2 reads the accuracy-corrected text.
 
 ## Pass 2 — Polish (English-first, one iteration)
 

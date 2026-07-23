@@ -12,9 +12,9 @@ With his life plan in ruins, the Foresight Mage was like an empty shell for a wh
 
 But as he saved a neighbor in company housing from monsters, ended up helping people in shelters attacked by monsters, received sweets from a child he'd saved, and, with refugees whose homes had burned down, fed scrap wood into a drum can in a park, lit it, and kept warm, a sense of duty slowly grew in him.
 
-He could see the future. His body was tough and strong, and he could answer the voices of people asking for help.
+He can see the future. His body is tough and strong, and he can answer the voices of people asking for help.
 
-In this ruined world, if he didn't do it, who would?
+In this ruined world, if he doesn't do it, who will?
 
 The Foresight Mage began helping people of his own free will, not because circumstances swept him along.
 
@@ -94,13 +94,13 @@ Professor Ohinata smoothed down her messy hair, flattened the wrinkles in the pa
 
 Professor Ohinata politely bowed to the Foresight Mage and hurried out of the office. Though still so young, Ohinata Kei led the field of magic linguistics. She was busy too, though not as busy as the Foresight Mage.
 
-She really was an exceptional girl. Her reputation as a genius was no exaggeration; most geniuses couldn't have pulled off what she'd done. In a world where almost all the news was about things falling apart, she was one of the few rays of hope.
+She really is an exceptional girl. Her reputation as a genius is no exaggeration; most geniuses couldn't have pulled off what she's done. In a world where almost all the news is about things falling apart, she's one of the few rays of hope.
 
-He did not know how every problem had been solved in just one day, but he did not care anymore.
+He doesn't know how every problem was solved in just one day, but he doesn't care anymore.
 
-The future where a great famine devastated Japan had been averted.
+The future where a great famine devastates Japan has been averted.
 
-That fact was enough.
+That fact is enough.
 
 Because he could see the future, the Foresight Mage had spent so long struggling against a dark one. Now a bright future had opened before him. He trembled, his eyes burning.
 
@@ -160,35 +160,35 @@ His intelligence and ability weren't enough to use foresight magic to its fulles
 
 The rage he'd held down for so long slipped out through gritted teeth.
 
-He was putting everything he had into this.
+He is putting everything he has into this.
 
-He was doing work that ordinary people could never manage.
+He is doing work that ordinary people could never manage.
 
-And this was his reward: "Bloodsucking-sama would've handled it better"?
+And this is his reward: "Bloodsucking-sama would've handled it better"?
 
-Wasn't that too much?
+Isn't that too much?
 
-He could even use magic to impose tyrannical rule.
+He can even use magic to impose tyrannical rule.
 
-He could even destroy everything, take everything, and wreck it all.
+He can even destroy everything, take everything, and wreck it all.
 
-Was this what he got for working so hard for a reward no better than an ordinary clerk's, nothing close to matching the heavy responsibility and crushing workload?
+Is this what he gets for working so hard for a reward no better than an ordinary clerk's, nothing close to matching the heavy responsibility and crushing workload?
 
-The Foresight Mage had originally been just an office worker. And yet, how many irritating people acted as if it were only natural for him to be a first-rate politician? Then you try doing the same thing!
+The Foresight Mage had originally been just an office worker. And yet, how many irritating people act as if it's only natural for him to be a first-rate politician? Then you try doing the same thing!
 
 "No, calm down. I'm doing well. I'm fine."
 
 Realizing his mind was tilting in a bad direction, the Foresight Mage took a deep breath.
 
-There were people who understood him.
+There are people who understand him.
 
-The Eyeball Witch had taken the lead in organizing Tokyo Witches' Council meetings and looked out for the other witches in all sorts of ways. After the Bloodsucking Mage's death, she was a friend who shared his hardships.
+The Eyeball Witch has taken the lead in organizing Tokyo Witches' Council meetings and looks out for the other witches in all sorts of ways. After the Bloodsucking Mage's death, she's a friend who shares his hardships.
 
-His secretary was young, but learned the job like a dry sponge soaking up water and supported him devotedly. Not once had he seen disappointment or dismay from the secretary.
+His secretary is young, but learns the job like a dry sponge soaking up water and supports him devotedly. Not once has he seen disappointment or dismay from the secretary.
 
-He was not asking for luxuries like better food or more rest.
+He isn't asking for luxuries like better food or more rest.
 
-He only wanted to be praised more, recognized more, and fawned over more. Was that really such an unreasonable wish?
+He only wants to be praised more, recognized more, and fawned over more. Is that really such an unreasonable wish?
 
 The Foresight Mage had been riding high after the completion of the fertility-magic research, only for Matsuo's words to kill his mood and get badly under his skin. But he sank those bottled-up feelings deep inside himself again, gave a long sigh, and returned to work.
 
@@ -306,9 +306,9 @@ His secretary, who was sorting documents at another desk with black-stained fing
 
 "We can't spare that kind of time."
 
-Being able to nod off at all was good enough. Wanting to lie down in a soft bed was asking too much.
+Being able to nod off at all is good enough. Wanting to lie down in a soft bed is asking too much.
 
-While he and his secretary discussed that day's schedule in his office, Matsuo walked in looking cheerful. The Foresight Mage flinched, and when his secretary saw it, their smile froze.
+While he and his secretary discussed that day's schedule in his office, Matsuo walked in looking cheerful. The Foresight Mage flinched, and when his secretary saw it, her smile froze.
 
 Matsuo was a capable man. But he tended to look down on the Foresight Mage, who found him hard to deal with.
 
@@ -332,13 +332,13 @@ Matsuo's words stung. The Foresight Mage clutched his chest and fell silent. His
 
 "This. Way."
 
-The secretary said it a second time in a gentle, calm voice that left no room to argue. Matsuo reluctantly followed them out of the office.
+The secretary said it a second time in a gentle, calm voice that left no room to argue. Matsuo reluctantly followed her out of the office.
 
 The moment the office door shut, two loud, slap-like sounds came from outside, as if an enraged secretary had struck an adult man's cheeks with full force.
 
 "!?"
 
-The Foresight Mage flinched, his eyes darting in shock, as he heard the secretary, who always wore a gentle, graceful smile in front of him, shout furiously at Matsuo. Their voice was so loud there had been no point in stepping outside. It came straight through the door, every word reaching him.
+The Foresight Mage flinched, his eyes darting in shock, as he heard the secretary, who always wore a gentle, graceful smile in front of him, shout furiously at Matsuo. Her voice was so loud there had been no point in stepping outside. It came straight through the door, every word reaching him.
 
 The secretary's furious lecture ended in less than a minute.
 
@@ -352,7 +352,7 @@ Matsuo came back half in tears, both cheeks bright red and badly swollen, with a
 
 "Eek."
 
-Seeing the secretary smile and lightly wave their hand, Matsuo was completely terrified. He got down on all fours, pressed his forehead against the floor, and fully prostrated himself.
+Seeing the secretary smile and lightly wave her hand, Matsuo was completely terrified. He got down on all fours, pressed his forehead against the floor, and fully prostrated himself.
 
 "I am terribly sorry. I did not know my place. I will never be disrespectful again."
 
@@ -368,7 +368,7 @@ The Foresight Mage didn't need foresight magic to know what would happen. Matsuo
 
 "No need. He did it because he was thinking about the future in his own way. If he'd said it out of malice, I would've fired him long ago."
 
-The secretary opened their mouth, but ultimately said nothing. They bowed and returned to their desk.
+The secretary opened her mouth, but ultimately said nothing. She bowed and returned to her desk.
 
 After they quietly worked through documents together for a while, the Foresight Mage finally put the thought that had been stuck in his throat into words.
 
@@ -392,7 +392,7 @@ The secretary looked the Foresight Mage straight in the eye and said with fierce
 
 "..."
 
-The secretary had idolized the Foresight Mage ever since he saved them from monsters one year ago. They were always on his side. That was exactly why he should not take their words at face value.
+The secretary had idolized the Foresight Mage ever since he saved her from monsters one year ago. She was always on his side. That was exactly why he should not take her words at face value.
 
 He knew that in his head, but the secretary's direct words went straight to his heart.
 
@@ -406,15 +406,15 @@ All it took was encouragement from his secretary to blow away his pent-up compla
 
 Even he had to laugh at how easy he was to please.
 
-Even though they had averted a hell of starvation, the world was still nowhere near peaceful.
+Even though they've averted a hell of starvation, the world is still nowhere near peaceful.
 
-Even so, the world was steadily getting better. Not by chance, but through people's constant efforts.
+Even so, the world is steadily getting better. Not by chance, but through people's constant efforts.
 
-The world still needed the Foresight Mage. Being relied on and praised felt good.
+The world still needs the Foresight Mage. Being relied on and praised feels good.
 
-But this crushing workload couldn't go on forever.
+But this crushing workload can't go on forever.
 
-He would spread magic. He would help people build their own strength. Then, once they could maintain a decent level of peace without relying on the personal military power of Transcendents who acted on their whims, he'd finally retire early for good and live a slow life farming in the country...
+He'll spread magic. He'll help people build their own strength. Then, once they can maintain a decent level of peace without relying on the personal military power of Transcendents who act on their whims, he'll finally retire early for good and live a slow life farming in the country...
 
 The Foresight Mage smiled at the future he pictured and looked forward to what Tokyo Magic University would become.
 

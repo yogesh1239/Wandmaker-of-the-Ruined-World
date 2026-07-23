@@ -19,7 +19,7 @@ Each block must give: first-person **pronoun** (+ what it signals), **register**
 ## Filled example
 
 ## Narrator
-- **Register ceiling:** plain past-tense narration, conversational; no literary/archaic diction.
+- **Register ceiling:** plain conversational narration; narrative/indirect thought past, direct immediate thought in natural speech tense; no literary/archaic diction.
 - **Mode:** fixed first-person (protagonist).
 
 ### Elevation kill-list

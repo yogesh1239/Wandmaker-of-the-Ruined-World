@@ -1,0 +1,130 @@
+# Chapter 6 — Edit Log
+
+### Accuracy Fixes
+- **source line 10 (ammunition exhausted)**: “they were swallowed up by monster violence” → “the whole region was swallowed up by monster violence” — referent
+- **source line 19 (Handa's age and work)**: “Handa, in the middle of his thirties and working at a plumbing shop in the prime of his career, lost” → “Handa was in his mid-thirties, in the prime of his working life, and employed at a plumbing shop. He lost” — accuracy
+- **source line 34 (rumors of salvation)**: “the fleeting wish that there might be salvation somewhere” → “the fleeting wish that each one might offer salvation” — accuracy
+- **source line 109 (ways out of the district)**: “If he had power, status, or could negotiate, he would not have to” → “If he had power. If he had status. If he negotiated. Then he would not have to” — accuracy
+- **source line 139 (foresight as payment)**: “his biggest card” → “his greatest bargaining chip” — accuracy
+- **source line 202 (Zombie Witch's cleanup)**: “turning them into zombies and collecting their corpses had great meaning for protecting the living” → “turning the corpses into zombies and gathering them up had great value in protecting the living” — accuracy
+- **source line 208 (written/read wordplay)**: “a corpse reverse harem[necrophilia]” → “a corpse reverse harem.[^1]” — accuracy
+- **source line 208 (wordplay note)**: “no translator note” → “[^1]: The Japanese writes ‘corpse reverse harem’ but gives it the reading ‘necrophilia.’” — accuracy
+- **source line 229 (giant frog)**: “cleanly smashed through its head” → “punched clean through its skull” — accuracy
+- **source line 256 (university's purpose)**: “to train technology and people so that would not happen” → “to develop the technology and personnel needed to keep that from happening” — accuracy
+- **source line 280 (mechanism material)**: “passed through rod-shaped melt-recast Gremlin” → “passed through a rod of melt-recast Gremlin” — accuracy
+- **source line 298 (straight-pipe flow)**: “flow straight and hard” → “flow straight through at full force” — accuracy
+- **source line 313 (machining time)**: “In a matter of seconds” → “Within a few dozen seconds” — accuracy
+- **source line 361 (Ohinata thinking)**: “worrying aloud” → “humming as she thought” — accuracy
+- **source line 370 (professorship offer)**: “the professor of the Gremlin engineering department we will establish next year” → “the professor of Gremlin engineering when we establish it next year” — glossary
+- **source line 394 (conversation's turn)**: “the conversation was becoming ridiculous” → “the conversation had taken an unbelievable turn” — accuracy
+- **source line 442 (final appointment)**: “a professor in Tokyo Magic University's Department of Gremlin Engineering” → “a professor in the Department of Gremlin Engineering at Tokyo Magic University” — glossary
+- **source line 214 (witch sensibilities)**: “even he could not understand the witches” → “even he could not understand the witches' sensibilities” — accuracy (restore omitted object)
+- **source line 265 (wand recall)**: “After the recall” → “After the commotion over the recall” — accuracy
+- **source line 271 (conditional understanding)**: “Even after he understood” → “Even if he understood” — accuracy
+- **source line 334 (time spent worrying)**: “for about an hour” → “for nearly an hour” — accuracy
+- **source line 310 (banned alias collision)**: “superhuman processing used for” → “processing beyond human understanding seen in” — glossary
+- [polish] **source line 10 (region overrun)**: “the whole region was swallowed up by monster violence” → “the monsters' violence swallowed the whole region” — polish
+- [polish] **source line 25 (survival looting)**: “had kept himself alive through unavoidable looting” → “had no choice but to keep himself alive by looting” — polish
+- [polish] **source line 28 (conscience)**: “Even if he were attacked and killed by a monster on the way, it would be far better than continuing a life that trampled on his conscience, one where he stole” → “Even if a monster attacked and killed him on the way, that would be far better than trampling his conscience by stealing” — polish
+- [polish] **source line 34 (cut-off world)**: “information and communication had been cut off” → “communications had been cut off” — polish
+- [polish] **source line 34 (many rumors)**: “There were mountains of similar rumors, and they had all been” → “There were countless similar rumors, all” — polish
+- [polish] **source line 40 (refugee intake)**: “underwent several interviews” → “went through several screenings” — polish
+- [polish] **source line 67 (district feature)**: “The Flower Witch's district's biggest feature was that its residents' corpses became nourishment for the Flower Witch. The Flower Witch did not allow people trying to escape the district” → “The defining feature of the Flower Witch's district was that its residents' corpses became nourishment for her. She did not allow people to escape the district” — polish
+- [polish] **source line 76 (only downside)**: “But looked at the other way” → “On the other hand” — polish
+- [polish] **source line 82 (aerial defense)**: “the guard had to fight them back” → “the guards had to fight them back” — polish
+- [polish] **source line 85 (basic laws)**: “like do not steal, do not kill, and do not deceive, and did not interfere excessively” → “like ‘don't steal,’ ‘don't kill,’ and ‘don't deceive,’ and did not interfere too much” — polish
+- [polish] **source line 94 (corpse nourishment)**: “She only used corpses as nourishment. She did not actively make corpses in order to nourish herself.” → “She merely used corpses as nourishment. She did not actively make them for that purpose.” — polish
+- [polish] **source line 97 (Flower Witch's domain)**: “beneath the Flower Witch's roots” → “in the Flower Witch's domain” — polish
+- [polish] **source line 109 (negotiation fragment)**: “If he negotiated.” → “If he could negotiate.” — polish
+- [polish] **source line 112 (wanting more)**: “After spending several months more peacefully than he had spent the preceding year by far, Handa had started wanting things.” → “After spending several months far more peacefully than the year before, Handa had begun to want more.” — polish
+- [polish] **source line 115 (better life)**: “he wanted to do that” → “he wanted it” — polish
+- [polish] **source line 118 (uncleared rubble)**: “city rubble whose removal was progressing only slowly because heavy equipment did not work” → “city rubble that had barely been cleared because the heavy machinery no longer worked” — polish
+- [polish] **source line 118 (winning favor)**: “built up her favor” → “scored points with her” — polish
+- [polish] **source line 124 (promise to return)**: “He would definitely return.” → “He promised he would return.” — polish
+- [polish] **source line 130 (Flower Witch's warning)**: “When I send you off from here, you won't come back even after graduating, will you? Magic University is that comfortable, isn't it?” → “If I let you leave, I hear you won't come back even after you graduate. Magic University must be very comfortable, mustn't it?” — polish
+- [polish] **source line 139 (deal's price)**: “Certainly” → “Of course” — polish
+- [polish] **source line 142 (Flower Witch steps away)**: “pulled back and moved away, then giggled as if his reaction amused her” → “stepped back, then giggled at his reaction” — polish
+- [polish] **source line 145 (permission)**: “But all right. I will permit it. It is not bad to make connections at Magic University. Even after you go there, write and send me a letter once in a while” → “But very well. I'll permit it. Establishing ties with Magic University isn't a bad idea. Even while you're there, send me the occasional letter” — polish
+- [polish] **source line 148 (leaving her presence)**: “without feeling alive” → “feeling more dead than alive” — polish
+- [polish] **source line 151 (remembering names)**: “He only realized after finishing Magic University's entrance ceremony that” → “It was not until after Magic University's entrance ceremony that he realized” — polish
+- [polish] **source line 154 (single department)**: “had only one department, magic linguistics, so Handa naturally enrolled in the Department of Magic Linguistics” → “had only the Department of Magic Linguistics, so Handa naturally enrolled there” — polish
+- [polish] **source line 178 (piled corpses)**: “piled up somewhere together” → “piled up somewhere” — polish
+- [polish] **source line 181 (classmate)**: “a classmate who had always lived in Bunkyo Ward” → “a lifelong Bunkyo Ward resident in his class” — polish
+- [polish] **source line 184 (Zombie Witch's route)**: “walked all over Tokyo” → “roamed all over Tokyo” — polish
+- [polish] **source line 196 (classmate's reaction)**: “He nodded, thinking it was an efficient way to deal with them, and his classmate frowned and moved away from Handa as if he were creepy.” → “He nodded, thinking it was an efficient way to deal with them. His classmate frowned at him and edged away in disgust.” — polish
+- [polish] **source line 205 (disrespect)**: “Handa got irritated at the disrespectful attitude toward” → “Handa was pissed off by the disrespect shown toward” — polish
+- [polish] **source line 205 (later details)**: “heard the details from another source” → “heard the details from someone else” — polish
+- [polish] **source line 211 (Handa recoils)**: “Even Handa was seriously put off.” → “Even Handa was seriously creeped out.” — polish
+- [polish] **source line 214 (warped sensibilities)**: “His sense of things had shifted beyond recovery after a year of extreme living, but even he could not understand witches' sensibilities.” → “A year of extreme survival had warped Handa's sensibilities beyond repair, but even he could not understand the witches.” — polish
+- [polish] **source line 220 (apocalyptic traces)**: “The remnants of the apocalypse were still strong” → “Signs of the apocalypse were still everywhere” — polish
+- [polish] **source line 223 (barter oddballs)**: “there were odd people” → “there were oddballs” — polish
+- [polish] **source line 223 (trading cards)**: “high-priced trading cards” → “valuable trading cards” — polish
+- [polish] **source line 226 (rations)**: “stable and colorful. There was not much of them” → “stable and varied. The portions were small” — polish
+- [polish] **source line 229 (manhole response)**: “hurry up while looking at a pocket watch in front of a manhole” → “hurry over to a manhole while checking a pocket watch” — polish
+- [polish] **source line 229 (frog emerges)**: “jumped out of it” → “jumped out” — polish
+- [polish] **source line 232 (reassurance)**: “made him incredibly dependable” → “made him seem incredibly dependable” — polish
+- [polish] **source line 241 (crowded bath)**: “Even in a packed bathhouse like a potato-washing tub” → “Even when the bathhouse was packed wall to wall” — polish
+- [polish] **source line 247 (resident's gratitude)**: “As a ward resident, Handa could not be more grateful” → “Handa could not have been more grateful as a ward resident” — polish
+- [polish] **source line 247 (repeated name)**: “every time Handa saw him” → “every time he saw him” — polish
+- [polish] **source line 250 (Bunkyo's pillar)**: “Bunkyo Ward's main pillar was, in name and reality, without doubt the Foresight Mage.” → “The Foresight Mage was undeniably the backbone of Bunkyo Ward.” — polish
+- [polish] **source line 253 (Minato's ruin)**: “had become empty land” → “had been razed” — polish
+- [polish] **source line 256 (speech lands)**: “sank into Handa's heart, now that he had fully settled into Bunkyo Ward” → “hit home for Handa, who had fully settled into Bunkyo Ward” — polish
+- [polish] **source line 262 (receiving benefits)**: “he only received Bunkyo Ward's benefits, but he began to want to repay them” → “he was only benefiting from Bunkyo Ward, but he began to want to repay it” — polish
+- [polish] **source line 265 (dorm-room examination)**: “was examining” → “examined” — polish
+- [polish] **source line 265 (dorm room)**: “in his student-dorm room” → “in his room at the student dorm” — polish
+- [polish] **source line 268 (class timing)**: “At the start of class today” → “At the start of that day's class” — polish
+- [polish] **source line 271 (stance aside)**: “Never mind the way of holding it, even if he understood” → “The stance was one thing. Even after he understood” — polish
+- [polish] **source line 274 (plumbing knowledge)**: “knowledge that looked useful for work but was not, so he had a fair amount of knowledge about” → “knowledge that sounded useful on the job but was not, so he knew a fair amount about” — polish
+- [polish] **source line 289 (forbidden disassembly)**: “the magic wand he was forbidden to disassemble” → “the magic wand he had been forbidden to disassemble” — polish
+- [polish] **source line 307 (testing method)**: “to actually try it” → “to try it” — polish
+- [polish] **source line 310 (Aleister processing)**: “It was not as if he planned to do freakish processing beyond human understanding like” → “He was not trying to pull off the freakishly intricate, superhuman processing used for” — polish
+- [polish] **source line 313 (Handa's skills)**: “Thinking he should be able to do at least that much with his own processing skill” → “Thinking his own machining skills should be enough for that much” — polish
+- [polish] **source line 313 (broken pieces)**: “several large and small pieces” → “several pieces of different sizes” — polish
+- [polish] **source line 316 (first cut)**: “He had felt like he got the feel of it when he cut the first piece.” → “The first cut had made him think he had gotten the hang of it.” — polish
+- [polish] **source line 316 (crack spreads)**: “it cracked for some inexplicable reason, and the crack spread” → “it cracked for some inexplicable reason. The crack spread” — polish
+- [polish] **source line 328 (known difficulty)**: “known as a matter of knowledge that it was difficult” → “known it was difficult” — polish
+- [polish] **source line 334 (confession)**: “Handa honestly went” → “Handa did the honest thing and went” — polish
+- [polish] **source line 337 (possible cover-up)**: “would have chosen to cover it up well” → “would have tried to hide it successfully” — polish
+- [polish] **source line 337 (hiding mistake)**: “trying to hide his mistake” → “trying to cover up his mistake” — polish
+- [polish] **source line 340 (troubled pose)**: “She folded her arms with an obvious troubled look.” → “She folded her arms, looking plainly troubled.” — polish
+- [polish] **source line 349 (Ohinata reassures)**: “Ah, it is all right. I will do something about it.” → “Oh, it's all right. I'll take care of it.” — polish
+- [polish] **source line 349 (academic curiosity)**: “out of academic curiosity, for an experiment, not as a prank, correct?” → “for an experiment, out of academic curiosity rather than as a prank, correct?” — polish
+- [polish] **source line 349 (head's duty)**: “To blame you for that would be something a head of a school must never do.” → “As the head of a place of learning, I must never fault you for that.” — polish
+- [polish] **source line 352 (Handa's apology)**: “excuse me” → “pardon me” — polish
+- [polish] **source line 355 (Ohinata's answer)**: “I am.” → “I am, though.” — polish
+- [polish] **source line 358 (youthful appearance)**: “tilted her head with cuteness fitting her age” → “looked as cute as any girl her age when she tilted her head” — polish
+- [polish] **source line 364 (new idea)**: “All right, how about this” → “Let's see. How about this” — polish
+- [polish] **source line 382 (Handa's idea)**: “your idea is theoretical and wonderful, one that even professional Wand Makers had not thought of” → “your idea is theoretically sound and wonderful. Not even professional Wand Makers thought of it” — polish
+- [polish] **source line 382 (available tools)**: “With improvised tools, too.” → “With whatever tools you had on hand, too.” — polish
+- [polish] **source line 382 (first encounter)**: “To do that the first time you ever saw it is truly, truly amazing!” → “Doing that on your first encounter with the material is truly, truly amazing!” — polish
+- [polish] **source line 382 (other applicants)**: “Among the applicants for the Gremlin engineering professor position we are recruiting for now, no one else has been able to do the same thing.” → “None of the applicants for the Gremlin engineering professor position we're recruiting for could do the same thing.” — polish
+- [polish] **source line 385 (one success)**: “But only once.” → “But it was only once.” — polish
+- [polish] **source line 391 (Handa's background)**: “No, even if you say that, I only used to work at a plumbing shop.” → “But still, I only ever worked at a plumbing shop.” — polish
+- [polish] **source line 391 (useful knowledge)**: “This time, it was just that the knowledge I got there happened to be useful, or that I tried to make use of it.” → “It just so happened that something I learned there was useful this time—or rather, that I tried to make it useful.” — polish
+- [polish] **source line 397 (trying to decline)**: “tried to shrink back and refuse” → “lost his nerve and tried to decline” — polish
+- [polish] **source line 400 (expectations)**: “telling you to give perfect classes or lead students immediately” → “asking you to give perfect classes or guide your students from day one” — polish
+- [polish] **source line 403 (reproducible knowledge)**: “anyone can imitate with a certain amount of aptitude or enthusiasm” → “anyone with some aptitude or enthusiasm can reproduce” — polish
+- [polish] **source line 403 (academic field)**: “as an academic field, we must research Gremlin engineering” → “we must research Gremlin engineering as an academic field” — polish
+- [polish] **source line 406 (Ohinata's certainty)**: “it is you” → “it's you” — polish
+- [polish] **source line 412 (new university)**: “It is a newborn university. Please take it easy, thinking that you will grow from zero alongside the university.” → “It was only just born. Think of yourself as growing from zero alongside it, and don't put too much pressure on yourself.” — polish
+- [polish] **source line 412 (permission to quit)**: “If you feel you absolutely cannot do it” → “If you decide you absolutely cannot do it” — polish
+- [polish] **source line 424 (pleading look)**: “Asked with an upturned gaze” → “Faced with her pleading, upward look” — polish
+- [polish] **source line 427 (lower expectations)**: “But please really do not expect too much.” → “But please, don't expect too much of me.” — polish
+- [polish] **source line 430 (expectation and trust)**: “If you do not want me to expect things from you, I will not, but I will trust you” → “If you don't want me to expect anything, I won't, but I will trust you” — polish
+- [polish] **source line 430 (Ohinata noticed)**: “I know very well that you were not interested in classes at first, but you became interested and began taking them seriously, Handa-san.” → “I know you weren't interested in class at first, but then you got interested and started working hard. I noticed, Handa-san!” — polish
+- [polish] **source line 430 (professor work)**: “I believe your professor work will be the same!” → “I believe you'll do the same with your work as a professor!” — polish
+- [polish] **source line 436 (sincerity)**: “when Professor Ohinata said them, they could only sound like her honest feelings” → “from Professor Ohinata, they sounded completely sincere” — polish
+- [polish] **source line 439 (answering trust)**: “He wanted to live up to trust. Especially in a world where trust was precious.” → “Trust made him want to live up to it. Especially in a world where it was precious.” — polish
+
+### Register and Flow
+**Handa Sakunosuke:** Kept his close-third narration survival-hardened, practical, and plain; his dialogue remained polite, hesitant, and modest.
+
+**Professor Ohinata:** Preserved polite youthful enthusiasm, structured academic phrasing, `Handa-san`, and her bright persuasive energy.
+
+**Flower Witch:** Kept her composed, feminine, possessive voice without raising it above the Casual / Comedy ceiling.
+
+### Formatting Confirmed
+- Audited source lines 1–200, then 201–442 in the accuracy pass; repeated the same two chunks once in the polish pass.
+- Past-tense close-third narration, exact glossary forms, JP name order, honorifics, and romanization verified.
+- `死体逆ハーレム[ネクロフイリア]` was resolved as readable prose with one concise note in a single terminal `## Translator Notes` section.
+- `![p093.jpg](images/p093.jpg)` was preserved exactly; no title heading or scene break was added.

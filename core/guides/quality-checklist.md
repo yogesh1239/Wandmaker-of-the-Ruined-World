@@ -16,9 +16,10 @@ checklist is series-agnostic; the specifics it points at live in
 - [ ] Documented voice/address shifts (arc beats) land clearly in English.
 
 ## Grammar & Tense
-- [ ] ALL narration in past tense.
-- [ ] Internal thoughts in past tense in narration ("she thought…" not "she
-      thinks…").
+- [ ] Narrative action, description, and indirect/reported thought stay in past tense.
+- [ ] Clearly direct, immediate internal monologue uses natural speech tense,
+      often present; parentheses and rhetorical questions are not assumed direct.
+- [ ] No unjustified past/present mixing inside one immediate thought.
 - [ ] Dialogue stays in natural speech tense.
 
 ## Register & Style
@@ -38,7 +39,9 @@ checklist is series-agnostic; the specifics it points at live in
 ## Formatting
 - [ ] Sound effects / onomatopoeia naturalized, not transliterated.
 - [ ] Scene breaks (✿ / ☆ / ■ / ◇ / etc.) rendered as `---`.
-- [ ] Internal thoughts （…）/《…》 rendered as *italics* (no quotation marks).
+- [ ] Source-marked discrete thoughts/mind-voices rendered as *italics* (no quotation marks).
+- [ ] Unmarked direct thoughts remain roman, with no added quotation marks or italics.
+- [ ] Parenthetical qualifications, examples, corrections, and asides are not automatically italicized.
 - [ ] Inline images preserved exactly: `![filename](images/filename)`.
 - [ ] No furigana `[かな]` brackets left in the English prose.
 - [ ] No in-file title heading (unless the sanitized-filename exception applies).

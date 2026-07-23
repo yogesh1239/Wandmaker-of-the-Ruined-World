@@ -4,9 +4,9 @@ I was still living as a shut-in in Okutama. Thanks to the Blue Witch's diligent 
 
 There were still canned goods and preserved food left from before civilization collapsed. Ironically, because the population had dropped so much, consumption was down, and the food left in the cities hadn't been eaten up.
 
-But they'd run out someday. Securing a stable food supply was a major challenge.
+But they'll run out someday. Securing a stable food supply is a major challenge.
 
-If this rice paddy worked out, it would at least solve my own food problem. I'd had enough of year-old and two-year-old rice. I wanted fresh rice.
+If this rice paddy works out, it'll at least solve my own food problem. I've had enough of year-old and two-year-old rice. I want fresh rice.
 
 I'd found some chickens living wild in the mountains after escaping from who-knew-where, and I tried raising them, but they escaped again. So that failed. When I found a feather stuck to the top of my 2-meter fence, I despaired.
 
@@ -14,23 +14,23 @@ They'd looked like their wings were too stunted for them to fly, but the bastard
 
 Some things had worked out, though.
 
-My fishing methods had improved a lot. Before, I'd fished with a rod or set traps; now, I'd learned to catch fish with magic.
+My fishing methods have improved a lot. Before, I fished with a rod or set traps; now, I've learned to catch fish with magic.
 
-When I spotted a big fish silhouette, I blasted it with a magic beam. Then it floated up stunned, and I scooped it up in a net. That was it.
+When I spot a big fish silhouette, I blast it with a magic beam. Then it floats up stunned, and I scoop it up in a net. That's it.
 
-It was simple, but effective.
+It's simple, but effective.
 
 According to the Blue Witch, I apparently had quite a lot of magic power. It was about 1/200 to 1/250 of the Blue Witch's.
 
 After the Gremlin Disaster that collapsed human civilization, every human had come to possess at least some magic power.
 
-One theory held that magic power had always existed and had merely become observable, but the leading theory was that people gained it when Gremlins reacted to bioelectric current.
+One theory holds that magic power has always existed and has merely become observable, but the leading theory is that people gain it when Gremlins react to bioelectric current.
 
-Every human had a bioelectric current. It was an extremely tiny amount of electricity, but there was a clear link between the amount of bioelectricity and the amount of magic power.
+Every human has a bioelectric current. It's an extremely tiny amount of electricity, but there is a clear link between the amount of bioelectricity and the amount of magic power.
 
-Apparently, an electrically charged constitution like the Blue Witch's generated huge amounts of magic power and mutated its owner into a Transcendent. The trade-off was that Gremlins crystallized inside the body and destroyed it from within. I was lucky to have only a moderate amount of magic power.
+Apparently, an electrically charged constitution like the Blue Witch's generates huge amounts of magic power and mutates its owner into a Transcendent. The trade-off is that Gremlins crystallize inside the body and destroy it from within. I'm lucky to have only a moderate amount of magic power.
 
-I could see the appeal of having magic power on a witch's level, but not if getting it meant risking my life.
+I can see the appeal of having magic power on a witch's level, but not if getting it means risking my life.
 
 Anyway.
 
@@ -38,7 +38,7 @@ I spent my days farming and learning about the world that had turned fantastical
 
 Then one day, the Blue Witch came over for Cyanos's regular maintenance. I asked her about a monster that had moved into the wild wasabi patch along the stream, and she readily agreed to kill it.
 
-She'd taken down a giant kaiju bigger than a building when it came ashore in Tokyo, so some small-fry monster causing pest damage out in the country probably wasn't a problem for her.
+She'd taken down a giant kaiju bigger than a building when it came ashore in Tokyo, so some small-fry monster causing pest damage out in the country probably isn't a problem for her.
 
 Even so, she didn't hesitate. It was probably because she was strong, but she approached combat differently too. Three months ago, she'd wiped out Okutama's monsters at insane speed, and it was obvious she'd gotten completely used to fighting for her life—something that should've been alien to a modern Japanese person.
 
@@ -56,17 +56,17 @@ When it hadn't rained for a while, the little stream dwindled until it disappear
 
 But the Blue Witch was apparently using some kind of magic, because being near her felt nice and cool.
 
-Just what you'd expect from an ice-type witch. I wanted to keep her around all summer in place of my dead AC-kun.
+Just what you'd expect from an ice-type witch. I want to keep her around all summer in place of my dead AC-kun.
 
 After walking along the stream for about ten minutes, we reached its source. Clear spring water seeped from a crack in a small cliff and made a little pond, where bright green wasabi plants spread their leaves.
 
-The days when you could buy tubes of wasabi online were long gone. Now this wild wasabi patch was a source of a rare spice. I wasn't about to let a monster take it from me.
+The days when you could buy tubes of wasabi online are long gone. Now this wild wasabi patch is a source of a rare spice. I'm not about to let a monster take it from me.
 
 "Not here? No, it's hiding somewhere."
 
 The monster occupying this place looked like a wild-dog-sized turtle with an abnormally developed tail. The last time I'd seen it, it had been sunning itself by the water. The instant it spotted me, it let out a shriek and tried to control the pond water and slam it into me. Even when I fired magic at it, its tough shell held up. It was a pain I couldn't beat.
 
-No matter how many monsters you killed or drove off, more kept popping up. Ordinary animals could mutate into monsters overnight, so they were a real pain. Even so, killing one took care of the immediate problem.
+No matter how many monsters you kill or drive off, more keep popping up. Ordinary animals can mutate into monsters overnight, so they're a real pain. Even so, killing one takes care of the immediate problem.
 
 I searched for the monster that had to be lurking somewhere, wand ready as I carefully watched the area.
 
@@ -108,11 +108,11 @@ The monster had made an ordinary Wand Maker throw in the towel, and the Blue Wit
 
 Since she was a woman called a witch, somewhere in the back of my mind I'd expected her to show me a fantasy battle where she wielded a magic wand with style and fought smart.
 
-But this was what I'd gotten.
+But this is what I've gotten.
 
-It was smart not to waste magic power, but I still couldn't quite accept it.
+It's smart not to waste magic power, but I still can't quite accept it.
 
-I mean, that was some serious meathead brute force. Is Blue Witch-sama perhaps a forest sage[^1]?
+I mean, that is some serious meathead brute force. Is Blue Witch-sama perhaps a forest sage[^1]?
 
 "What's with that face? I killed the monster like you asked."
 
@@ -128,7 +128,7 @@ When I told her how I really felt, the Blue Witch seemed to get it.
 
 I tried to steer us toward communicating in writing by explaining how useful it would be to reread later or pass along to other people, but the Blue Witch couldn't be bothered to write and organize it all.
 
-Why did people insist on getting things done face-to-face? I didn't get it, but the person teaching said an oral lesson was easier, so it couldn't be helped.
+Why do people insist on getting things done face-to-face? I don't get it, but the person teaching says an oral lesson is easier, so it can't be helped.
 
 I didn't want to annoy the Blue Witch and have her stop teaching me magic, so the moment we came down the mountain, I set up a target for shooting practice in the backyard and obediently took my teacher's lesson.
 
@@ -204,17 +204,17 @@ She didn't sound like she knew much about it herself. Then again, she'd said it 
 
 The Blue Witch chanted lightly, like a chirping bird, and put her palm on the log she was sitting on. The log kept its shape but transformed entirely into ice.
 
-Seriously? Holy crap! That wasn't alchemy—it was ice-chemy!
+Seriously? Holy crap! That isn't alchemy—it's ice-chemy!
 
 "Ah. Sorry, was this a log for firewood?"
 
 "No, it's fine, it's fine. Don't worry about it. That's amazing!"
 
-Now that was something worth seeing. When I gave her a big round of applause, she looked a little proud this time.
+Now that's something worth seeing. When I gave her a big round of applause, she looked a little proud this time.
 
-So that was it. Witch-only incantations, huh? Lucky.
+So that's it. Witch-only incantations, huh? Lucky.
 
-But I had an original incantation—or rather, an original scream—too.
+But I have an original incantation—or rather, an original scream—too.
 
 "Does my Okutameteorite natural frequency incantation mean something in magic linguistics too?"
 
@@ -232,11 +232,11 @@ But I had an original incantation—or rather, an original scream—too.
 
 I nodded at the Blue Witch's suggestion without a second thought.
 
-Knowledge of magic language was bound to be good inspiration for making magic wands.
+Knowledge of magic language is bound to be good inspiration for making magic wands.
 
 "All right. It'll be after the next Witches' Council meeting before I can bring it, so... wait five days."
 
-Score! I couldn't wait for five days from now!
+Score! I can't wait for five days from now!
 
 ## Translator Notes
 

@@ -7,7 +7,7 @@ The pipeline itself — stages, dependency graph, file contracts, per-stage done
 <non_negotiables>
 These hold on every line of translated output, at every stage. They are not stylistic preferences; a violation is a defect.
 
-- **Past-tense narration** — always.
+- **Narrative/direct-thought tense lock.** Narrative action, description, and indirect/reported thought stay in past tense. Clearly direct, immediate internal monologue—an unspoken line the POV character addresses to themself or another person while reacting to the current moment—uses natural speech tense, often present. Keep unmarked direct thought in roman type with no quotation marks or added italics; italicize only a discrete thought or mind-voice explicitly marked as such in the source. Parentheses and rhetorical questions are not automatically direct thought, and past and present must not mix inside one immediate thought unless the source meaning requires it.
 - **Register is locked.** Read the locked register from `novel.config.md` (Register Lock) and never elevate a line above the source's own ceiling. The Narrator ceiling + kill-list in `character-voices.md` are a hard cap.
 - **Honorifics retained** — `-kun`, `-san`, `-chan`, `-sensei`, `onee-san`, etc.
 - **JP name order** — family name first.

@@ -117,6 +117,19 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - Former office worker; exhausted, self-critical, praise-hungry, and persistent; pursues food relief and retirement farming, while reports also attribute covert, severe security work to him.
 - **Arc state:** He remained central to Tokyo’s security and reconstruction despite severe magic-backlash strain.
 
+### Foresight Mage's Secretary (未来視の魔法使いの秘書)
+**Japanese Name:** 未来視の魔法使いの秘書
+**Gender:** Female
+**Role:** Young Bunkyo Ward Office secretary who supports the Foresight Mage.
+
+#### Speech Patterns
+- **Formality level:** Polite.
+- **Speech style:** Gentle and composed with the Foresight Mage; quietly forceful when enforcing office discipline.
+
+#### Personality
+- Devoted, capable, and strong-willed; the Foresight Mage rescued her from monsters after the Gremlin Disaster.
+- **Arc state:** She became indispensable to the Foresight Mage's work.
+
 ### Flame Witch (継火の魔女)
 **Japanese Name:** 継火の魔女  
 **Gender:** Female  
@@ -156,7 +169,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Hell Witch (地獄の魔女)
 **Japanese Name:** 地獄の魔女  
 **Gender:** Female  
-**Role:** Powerful roaming witch; former ruler of Adachi Ward.
+**Role:** Three-mouthed witch; former Adachi Ward college student.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — standard self-reference.
@@ -168,8 +181,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “Don’t be so scared! I’m the Hell Witch! I’m not going to eat you!” (*Vol. 2, Ch. 8, 地獄の魔女*)
 
 #### Personality
-- Dangerous and transformed by magic, yet capable of intervening to help others.
-- **Arc state:** She is travelling outside Tokyo after receiving an unusual wand.
+- Eats evil people yet helps the good; accepts eventual judgment.
+- **Arc state:** Having ended runaway magic, she left Tokyo with Hariti.
 
 ### Flower Witch (花の魔女)
 **Japanese Name:** 花の魔女  

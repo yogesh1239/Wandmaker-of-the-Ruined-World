@@ -44,7 +44,7 @@ Each skill runs as lead of the session's team, spawning `.claude/agents/` teamma
 
 ## Critical rules (non-negotiable)
 
-1. Past-tense narration — always.
+1. Narrative/direct-thought tense lock — narrative action, description, and indirect/reported thought stay past; clearly direct, immediate internal monologue uses natural speech tense, often present. Unmarked direct thought stays roman; only source-marked discrete thought or mind-voice is italicized. Parentheses and rhetorical questions are not automatically direct thought, and unjustified tense mixing is a defect.
 2. Register is locked — read it from `novel.config.md`; never elevate past the source's ceiling.
 3. Honorifics retained — -kun, -san, -chan, -sensei, onee-san, etc.
 4. JP name order — family name first.

@@ -328,3 +328,38 @@
 | 魔力逆流軽減 | magic-backlash reduction | magic-backflow mitigation | reduced backflowing magic power; project-original |
 | 汎用魔法杖 | general-purpose magic wand | generic magic wand | standard broad-use wand; project-original |
 | 魔力逆流防止加工 | backlash-prevention modification | magic-backflow-prevention processing | wand modification reducing backlash; project-original |
+| さいたま市 | Saitama City | Saitama city | city in Saitama Prefecture; project-original |
+| 流体力学 | fluid mechanics | fluid dynamics | technical field used to improve backlash prevention; project-original |
+| テスラバルブ | Tesla valve | Tesla Valve | one-way valveless conduit used as the model for a backlash-prevention design; project-original |
+| グレムリン工学科 | Department of Gremlin Engineering | Gremlin Engineering Department, Gremlin engineering department | Tokyo Magic University department; project-original |
+| 魔法言語学科 | Department of Magic Linguistics | Magic Linguistics Department, magic linguistics department | Tokyo Magic University department; project-original |
+| 半田研究室 | Handa Laboratory | Handa Lab | Gremlin-engineering research group; project-original |
+| 研磨剤 | abrasive | polishing powder, abrasive powder | Gremlin powder used for polishing; project-original |
+| 研磨 | polishing | grinding | Gremlin-processing method; project-original |
+| 鋳造 | casting | molding | Gremlin-processing method; project-original |
+| 機械加工 | machining | machine processing | Gremlin-processing method; project-original |
+| 魔力逆流力学 | magic-backlash dynamics | magic-backflow dynamics | design principles governing backflowing magic power; project-original |
+| 研削盤[グラインダー] | grinder | grinding machine | mechanically powered Gremlin-processing tool; preserve the source ruby notation |
+| 足踏み動力式の研磨機 | pedal-powered grinder | foot-powered polishing machine | Ori's manually powered Gremlin-processing machine; project-original |
+| 一般魔法杖 | standard magic wand | general magic wand, ordinary magic wand | mass-market wand produced by ordinary artisans; project-original |
+| 荒川 | Arakawa River |  | major river through Tokyo; project-original |
+| 隅田川 | Sumida River | Sumidagawa River | major river through Tokyo; project-original |
+| 運指トレーニング | finger-dexterity training | fingering training | exercise; project-original; LOCK: source fingers conflict |
+| 雨樋式地上水道網 | rain-gutter-style surface water network | aboveground gutter-pipe water network, rain-gutter aboveground water network | post-disaster replacement for underground waterworks; project-original |
+| 鴉 | Crow |  | deceased Tokyo Transcendent named in the Iruma coup account; project-original |
+| 流星 | Meteor |  | deceased Tokyo Transcendent named in the Iruma coup account; project-original |
+| 立川の魔法使い | Tachikawa Mage | Mage of Tachikawa | Male / deceased Tokyo mage; project-original |
+| 荒川の魔法使い | Arakawa Mage | Mage of Arakawa | Male / former Arakawa Ward mage; project-original |
+| お弟子くん | apprentice-kun |  | Hell Witch's address for Ori under his apprentice cover; project-original |
+| 魔法暴走 | runaway magic | magic rampage, berserk magic | uncontrolled continuing spell effect; project-original |
+| 同時詠唱 | simultaneous incantation | simultaneous casting, concurrent incantation | casting multiple spells at once; project-original |
+| 異常震動 | abnormal vibration | anomalous vibration | destructive vibration during simultaneous incantation; project-original |
+| メビウス加工 | Moebius processing | Mobius processing | Gremlin processing into a Moebius-ring shape; project-original |
+| 錫杖 | khakkhara | pilgrim's staff, monk's staff | ringed Buddhist staff; project-original |
+| 菩提樹 | bodhi tree | sacred fig | wood associated with the Buddha's enlightenment; project-original |
+| 鬼子母神 | Kishimojin |  | Japanese Buddhist form of Hariti; project-original |
+| 池上 | Ikegami |  | Male / isolated village elder; project-original |
+| 水喰い | Water Eater | Water-Eater, Water Eater monster | giant catfish monster that drinks water and produces gold; project-original |
+| 青の魔女便 | Blue Witch delivery | Blue Witch courier service | Ori's label for deliveries made through the Blue Witch; project-original |
+| 浦島太郎 | Urashima Taro | Urashima Tarou | Japanese folktale figure who returned home after time passed without him; project-original |
+| マップ兵器 | map-wide weapon | map weapon, area weapon | game slang for magic affecting a broad area; project-original |

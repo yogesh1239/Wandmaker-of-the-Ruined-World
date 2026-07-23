@@ -87,13 +87,16 @@ Read the **part-split threshold** (integer source-line count; default per
 `core/schemas/novel-config-schema.md`) from `novel.config.md`. Count the
 chapter's JP source lines.
 
-- **Source lines > threshold → PARTED path.** Treat the threshold as the target
+- **Source lines > threshold → evaluate natural scopes.** Treat the threshold as the target
   size of one translation part, not a hard cutoff. Starting near each successive
   threshold-sized interval, choose the closest appropriate narrative boundary
   (prefer an explicit `---`, then a scene or POV break, then a paragraph break).
   Keep parts around the target, but never cut a scene merely to hit an exact line
   count. If the final remainder would be much smaller than the other parts,
   move the preceding boundary earlier or merge the remainder when practical.
+  If merging a short final remainder leaves the complete chapter as one scope
+  still reasonably close to the target, use the **WHOLE path** rather than
+  manufacturing two undersized parts.
   Do not turn the editor's ~150–200-line audit chunks into translation-part
   boundaries. Run Translate/Edit interleaved per the graph above; then Assemble.
 - **Source lines ≤ threshold → WHOLE path.** One Translate, one Edit; there is
@@ -115,7 +118,7 @@ complete glossary, not a stale one.
 
 ### 1 — Translate P*i*
 Translator produces a raw English draft against the JP source, following
-`core/guides/translation-guide.md` (register lock, past tense, honorifics, name
+`core/guides/translation-guide.md` (register lock, narrative/direct-thought tense, honorifics, name
 order, furigana, SFX) and the voice profiles + kill-list in
 `character-voices.md`. For *i* > 1 it reads the already-**edited** prior parts
 and `style-guide.md` for continuity. The translate stage optimizes **accuracy +
