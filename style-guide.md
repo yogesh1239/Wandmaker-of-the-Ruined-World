@@ -15,24 +15,6 @@
 
 ## Running Summary
 
-### Volume 1, Chapter 3 — The Blue Witch
-After Ori met the territorial Blue Witch in Ome, Hiyori explained the post-Gremlin-collapse world and softened after he repaired her late sister's Ai-chan music box. They arranged for her to sell his anonymous wands in exchange for a custom wand; with her supply and tool deliveries, Ori completed the seven-layer Cyanos.
-
-### Volume 1, Chapter 4 — Overtechnology
-Hiyori tested Cyanos's amplification while patrolling Ome, but the Eyeball Witch called her to the emergency after the Bloodsucking Mage died evacuating civilians from a giant kaiju's landing. Refusing to leave Ome, Hiyori unleashed her strongest freezing magic from afar; Cyanos amplified it enough to freeze the kaiju and surrounding city beneath ice, then left her unconscious.
-
-### Volume 1, Chapter 5 — Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos
-After Hiyori's Great Glacier magic froze the giant kaiju and part of Tokyo, Cyanos's wooden handle frost-cracked from the extreme cold despite causing only magic backlash. Ori remade it as Cyanos Ver. 2 with oven-dry wood, left Hiyori to vet wand customers, and planned regular field-informed maintenance and feedback.
-
-### Volume 1, Chapter 6 — Life with a Witch
-Three months after the giant kaiju freezing incident, Ori farmed and fished with magic while the leading account held that Gremlins reacting to bioelectric current give people magic power; bioelectricity correlates with it, while an electrically charged constitution brings exceptional power, Transcendent mutation, and destructive internal Gremlin crystallization. Hiyori killed the turtle monster occupying Ori's wild wasabi patch with one kick, then taught him the basic freezing spell `Freeze` / `Vaa-ra` and the model by which magic language assigns meaning to magical pronunciations. She promised him incantation-research materials after the next Tokyo Witches' Council meeting, in five days.
-
-### Volume 1, Chapter 7 — Tokyo Witches' Council
-At a remote Tokyo Witches' Council meeting, Hiyori learned the Eyeball Witch had kept the weakened Council functioning after the Bloodsucking Mage's death, despite attendance collapsing to six regulars. Foresight forecast an unprecedented great famine in two years, citing crippled farming, imports, fertilizer, transport, fisheries, and agricultural know-how; he needed Cyanos to spread amplified fertility magic, but Hiyori refused because of the Iruma/Edogawa precedent. She promised to find another solution while hiding Ori’s role, trusted him to solve the food crisis, and Foresight's future-sight backlash abruptly regressed his `ore` to `boku` speech.
-
-### Volume 1, Chapter 8 — Magic Linguistics
-Professor Ohinata Kei, a twelve-year-old stoat-transformed magic-linguistics professor, explained that the Magic Language Analysis Team died pursuing dangerous bypass incantations; Hiyori then asked Ori to help solve the Tokyo-region food crisis without risking Kei. Ori turned a dodecahedral fractal experiment into Aleister, a safety wand whose low output and two-step activation made Kei's trials effectively harmless. With Aleister, Kei finished the fertility-magic bypass incantation, partially returned to human form, and she and Ori resolved their technical exchange as a pen-pal arrangement.
-
 ### Volume 1, Chapter 9 — Tokyo Magic University
 Foresight, an exhausted former office worker, learned that the completed fertility-magic research had averted the famine future, then founded Tokyo Magic University as Ohinata’s reward and a safe dissemination hub. Its first cohort selected 30 from more than 6,000 applicants to multiply instruction; soothed by his secretary’s support, he embraced the future and renewed his goal of early retirement to country farming.
 
@@ -74,3 +56,21 @@ Professor Handa's laboratory made ordinary wand production possible through poli
 
 ### Volume 2, Chapter 8 — The Hell Witch
 Adachi's Hell Witch revealed that three mouths let her cast three spells at once; a past triple casting had left her suppressing runaway magic for two and a half years until the Eyeball Witch delivered Ori's gift wand. Professor Ohinata's experiments led Ori to Moebius processing, enabling a seven-loop khakkhara, Hariti, which he gave the Hell Witch before she left Tokyo to help survivors on the road.
+
+### Volume 2, Chapter 9 — The Bad Oni Who Attacked the Village
+After the Hell Witch found Ikegami starving an isolated village of water to profit from the Water Eater's gold, she killed him, restored the spring, and relocated the monster to a separately supplied reservoir. She left the villagers a scroll for accessible magic and accepted their belief that the oni had murdered their protector, putting their well-being before her reputation.
+
+### Volume 2, Chapter 10 — The Thirteen Ritual Implements
+As Handa-style manufacturing spread general-purpose magic wands through a recovering Tokyo, Hiyori gave Ori one of her giant kaiju's 80 mm Gremlins for experimentation. Ori cut twelve identical Moebius rings and a larger comparison ring from it; his synchronized casting with Hiyori worked, sending one spell from the larger ring and establishing a practical ritual-magic prototype to send to Professor Ohinata.
+
+### Volume 2, Chapter 11 — Minato Ward Recapture Operation
+Dareda Kimi, a displaced Minato Ward guard and self-taught monster researcher repeatedly rejected by Tokyo Magic University, joined the operation as a ritual-magic power source. When beast mantises ambushed the force at Tokyo Tower and seized Vampir, Dareda took the focus wand, cast death-curse magic, and saved Vampir for Kyogoku. The team then secured the tower and recaptured Minato Ward at the cost of several lives.
+
+### Volume 2, Chapter 12 — Biohazard Pandemic
+The mushroom disease pandemic emerged from spores shed by the Iruma Mage's mushroom monsters; people with prior magic-power-depletion fainting became critically ill, including Ohinata and Hiyori. Hiyori discovered the visible mushroom was only the surface of invasive mycelium, failed to warn Ori, and collapsed into a coma after he found her.
+
+### Volume 2, Chapter 13 — The Flower Witch
+Racing the comatose Hiyori through mushroom-disease-stricken Tokyo, Ori reached the Flower Witch at Tokyo Bunka Kaikan and freed her trapped daughter plant. In return, she supplied a pail of essential oil—the scalable mushroom-disease antidote for Tokyo—and forced three drops of life-extending alraune secret nectar down Ori’s throat without identifying it.
+
+### Volume 2, Chapter 14 — Three Steps Forward, Two Steps Back
+After Ori delivered the Flower Witch's antidote to Bunkyo, Foresight and Ohinata survived, and he nursed Hiyori to a full recovery with a special nutrient tonic; she briefly feigned weakness to keep him doing housework. The pandemic emergency was contained and antidote distribution spread nationwide, but a projected 500,000–700,000 people died in Tokyo—including the Itabashi, Sumida, and Hachioji Witches—while the residual symptom-onset chain reaction required continued vigilance.

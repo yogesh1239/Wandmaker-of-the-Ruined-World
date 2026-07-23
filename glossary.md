@@ -183,6 +183,7 @@
 | 奥多摩変電所 | Okutama Substation | Okutama Transformer Station | electrical substation where Ori collected crystals |
 | 横浜火力発電所 | Yokohama Thermal Power Plant | Yokohama Power Plant | source of Ori's 28 mm Gremlin |
 | 赤宝石ウサギ | red-gem rabbit | red-jewel rabbit | rabbit with a red magic stone embedded in its body |
+| ヤマメ | yamame trout | yamame, landlocked masu salmon | freshwater trout kept by Ori; project-original |
 | 兎宝石 | rabbit gemstone | rabbit jewel, rabbit stone | polished red magic stone taken from a red-gem rabbit |
 | 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
 | オーパーツ | out-of-place artifact | OOPArt, OOPArts | object seemingly beyond its era's technology |
@@ -358,8 +359,41 @@
 | 錫杖 | khakkhara | pilgrim's staff, monk's staff | ringed Buddhist staff; project-original |
 | 菩提樹 | bodhi tree | sacred fig | wood associated with the Buddha's enlightenment; project-original |
 | 鬼子母神 | Kishimojin |  | Japanese Buddhist form of Hariti; project-original |
-| 池上 | Ikegami |  | Male / isolated village elder; project-original |
+| 池上 | Ikegami |  | Male / isolated village notable; project-original |
 | 水喰い | Water Eater | Water-Eater, Water Eater monster | giant catfish monster that drinks water and produces gold; project-original |
+| 半田式製造法 | Handa-style manufacturing method | Handa method, Handa manufacturing method | mass-production method for general-purpose magic wands; project-original |
+| 合唱 | chorus | cooperative chant | Ohinata's term for synchronized cooperative incantation; project-original |
+| 堅パン | hardtack | hard bread | hard preserved biscuit; established translation |
+| 港区自治警備隊 | Minato Ward Civilian Guard | Minato Ward Self-Governing Guard | local civilian security force before Minato Ward fell; project-original |
+| 魔物分類表 | monster classification table | monster classification chart | operational monster danger and weakness guide; project-original |
+| 獣カマキリ | beast mantis | animal mantis, beast-mantis | chimera monster combining beast and mantis traits; project-original |
+| 小金井の魔女 | Koganei Witch | Witch of Koganei | deceased early-disaster witch; project-original |
+| 板橋の魔女 | Itabashi Witch | Witch of Itabashi | deceased Tokyo Council witch; project-original |
+| 墨田の魔女 | Sumida Witch | Witch of Sumida | deceased Tokyo witch; project-original |
+| 大田区 | Ota Ward | Ota-ku | southern Tokyo ward |
+| 稲城市 | Inagi City | Inagi | western Tokyo city |
+| 変異学科 | Department of Mutation Studies | Mutation Studies Department, mutation studies department | Tokyo Magic University department; project-original |
+| 戦闘学科 | Department of Combat Studies | Combat Studies Department, combat studies department | Tokyo Magic University department; project-original |
+| 渋谷区 | Shibuya Ward | Shibuya, Shibuya-ku | central Tokyo ward |
+| 起点 | origin | starting point | ritual-magic focus caller; project-original |
+| 君を愛している[ナトウ・ヤウエ] | I love you[ナトウ・ヤウエ] |  | death-curse magic incantation; project-original |
+| でも僕は悪魔だから[デンニエクララバアイエン] | But I'm a devil[デンニエクララバアイエン] |  | death-curse magic incantation; project-original |
+| これが僕の愛の形なんだよ[フクシツワクララフイフイ・ヤウエ] | This is what my love looks like[フクシツワクララフイフイ・ヤウエ] |  | death-curse magic incantation; project-original |
+| 魔力欠乏失神 | magic-power-depletion fainting | magic-power deficiency fainting | loss of consciousness from depleted magic power; project-original |
+| 菌糸 | mycelium | fungal threads | invasive fungal network of mushroom disease; project-original |
+| キノコの魔物 | mushroom monster | mushroom creature | parasitic fungal monster; project-original |
+| 特効薬 | antidote | cure-all, specific remedy | Flower Witch's mushroom-disease treatment; project-original |
+| 浄化班 | Purification Squad | purification team | civilian group burning infected sites; project-original |
+| 精油 | essential oil | essential oils | Flower Witch's antifungal secretion; project-original |
+| 子株 | daughter plant | offshoot, child plant | Flower Witch's plant child; project-original |
+| アルラウネ | alraune |  | Flower Witch's species; project-original |
+| 潜伏期 | incubation stage | latent stage | mushroom-disease stage without symptoms; project-original |
+| 発症前段階 | pre-onset stage | pre-symptom stage | mushroom-disease stage with draining onset; project-original |
+| 発症後段階 | post-onset stage | post-symptom stage | mushroom-disease stage with visible growth; project-original |
+| 軽症型 | mild type | mild form | mushroom-disease form cured by removing the mushroom; project-original |
+| 劇症型 | severe type | severe form | fatal mushroom-disease form after magic-power depletion; project-original |
+| 東京文化会館 | Tokyo Bunka Kaikan | Tokyo Culture Hall | former concert venue housing the Flower Witch; project-original |
+| 魔法菌 | magical fungi | magic fungi | magical fungal organisms; project-original |
 | 青の魔女便 | Blue Witch delivery | Blue Witch courier service | Ori's label for deliveries made through the Blue Witch; project-original |
 | 浦島太郎 | Urashima Taro | Urashima Tarou | Japanese folktale figure who returned home after time passed without him; project-original |
 | マップ兵器 | map-wide weapon | map weapon, area weapon | game slang for magic affecting a broad area; project-original |

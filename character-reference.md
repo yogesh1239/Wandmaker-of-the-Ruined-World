@@ -21,7 +21,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Highly capable, curious, and solo-preferring; technically exacting at wand-making and material appraisal, but socially awkward and unusually candid.
-- **Arc state:** Accepts Hiyori's friendship; keeps three fire salamanders; uses eyeball familiars for scouting/contact; expands beyond Okutama.
+- **Arc state:** Saved Hiyori; unknowingly drank life-extending alraune secret nectar.
 
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
 **Japanese Name:** 青山ヒヨリ／青の魔女  
@@ -40,7 +40,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Powerful, vigilant, quietly guilt-burdened, and easily embarrassed by sincere intimacy; fond of small animals, with practical care that includes research help and material sourcing.
-- **Arc state:** Ori's explicit friend; wary of the Flame Witch's fire salamanders; patrols local monsters and plans Ori's security.
+- **Arc state:** Fully recovered with no lasting effects.
 
 ### Ohinata Kei (大日向慧)
 **Japanese Name:** 大日向慧  
@@ -58,7 +58,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Sociable, enthusiastic, and academically serious; her warmth puts strangers at ease, and she inherited her late father's magic-linguistics research.
-- **Arc state:** Now fourteen, she works closely with Ori and Hiyori while advancing magical-language research and public reconstruction projects; this side story records her as twelve.
+- **Arc state:** Critically ill after mushroom disease became severe following magic-power-depletion fainting.
 
 ## SUPPORTING CHARACTERS
 
@@ -115,7 +115,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Former office worker; exhausted, self-critical, praise-hungry, and persistent; pursues food relief and retirement farming, while reports also attribute covert, severe security work to him.
-- **Arc state:** He remained central to Tokyo’s security and reconstruction despite severe magic-backlash strain.
+- **Arc state:** Survived severe mushroom disease after receiving the antidote.
 
 ### Foresight Mage's Secretary (未来視の魔法使いの秘書)
 **Japanese Name:** 未来視の魔法使いの秘書
@@ -182,7 +182,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Eats evil people yet helps the good; accepts eventual judgment.
-- **Arc state:** Having ended runaway magic, she left Tokyo with Hariti.
+- **Arc state:** With Hariti, she freed villagers and accepted their blame.
 
 ### Flower Witch (花の魔女)
 **Japanese Name:** 花の魔女  
@@ -200,7 +200,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Powerful, formidable, and essential to feeding survivors.
-- **Arc state:** Her fertility magic continues to sustain communities despite her monster-like lower-body transformation.
+- **Arc state:** Her essential oil became an antidote after Ori saved her daughter plant.
 
 ### Tobacco Witch (煙草の魔女)
 **Japanese Name:** 煙草の魔女  
@@ -218,7 +218,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Hated gloomy moods and seeing gloomy faces; sociable, persistent, and fond of loud communal entertainment.
-- **Arc state:** Her practical ventures supported transport, medicine, alcohol production, and morale, while her tobacco remained a valuable trade good.
+- **Arc state:** Survived mushroom disease; mourning her trusted subordinates.
 
 ### Handa Sakunosuke (半田作之助)
 **Japanese Name:** 半田作之助  
@@ -544,7 +544,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Treacherous and destructive, based on the coup and its aftermath.
-- **Arc state:** Dead, but the consequences of his magic still endanger survivors.
+- **Arc state:** Dead; his mushroom monsters' spores caused a pandemic threatening Tokyo.
 
 ### Bloodsucking Mage (吸血の魔法使い)
 **Japanese Name:** 吸血の魔法使い  
@@ -580,7 +580,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Insufficient evidence for a broad personality profile; she fought beside the Flame Witch and later organized surviving meteorologists to restore weather forecasting.
-- **Arc state:** An active Council defender contributing both battlefield restraint and long-term reconstruction.
+- **Arc state:** Dead after mushroom-disease treatment arrived too late.
 
 ### Tsubaki (ツバキ)
 **Japanese Name:** ツバキ  

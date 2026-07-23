@@ -33,12 +33,12 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 6 | グレムリン工学教授、その経歴 | The Gremlin Engineering Professor's Career | updated |
 | 7 | 白指たち | The White Fingers | updated |
 | 8 | 地獄の魔女 | The Hell Witch | updated |
-| 9 | 村を襲う悪い鬼 | The Bad Oni Who Attacked the Village | not-started |
-| 10 | 儀式魔法十三祭具 | The Thirteen Ritual Implements | not-started |
-| 11 | 港区奪還作戦 | Minato Ward Recapture Operation | not-started |
-| 12 | バイオハザード・パンデミック | Biohazard Pandemic | not-started |
-| 13 | 花の魔女 | The Flower Witch | not-started |
-| 14 | 三歩進んで二歩下がる | Three Steps Forward, Two Steps Back | not-started |
+| 9 | 村を襲う悪い鬼 | The Bad Oni Who Attacked the Village | updated |
+| 10 | 儀式魔法十三祭具 | The Thirteen Ritual Implements | updated |
+| 11 | 港区奪還作戦 | Minato Ward Recapture Operation | updated |
+| 12 | バイオハザード・パンデミック | Biohazard Pandemic | updated |
+| 13 | 花の魔女 | The Flower Witch | updated |
+| 14 | 三歩進んで二歩下がる | Three Steps Forward, Two Steps Back | updated |
 | 15 | アミュレット | Amulet | not-started |
 | 16 | 世界を広げて | Expanding the World | not-started |
 | 17 | 番外編　この主人公はワシが育てた | Side Story - I Raised This Protagonist | not-started |

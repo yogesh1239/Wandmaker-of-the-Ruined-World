@@ -121,3 +121,4 @@
 | Eyeball Witch | warm mediator; soft requests; "Ao-chan" |
 | Dragon Witch | possessive treasure talk; childish insistence; casual threats |
 | Zaizen Kintaro | deferential hedges; administrative precision; calm diplomacy |
+| Dareda Kimi (Vol. 2, Ch. 11 only) | close-third: earnest, data-minded; panic sharpens into clipped commands |
