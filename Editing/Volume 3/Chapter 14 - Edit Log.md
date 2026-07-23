@@ -1,0 +1,117 @@
+# Chapter 14 — Edit Log
+
+### Accuracy Fixes
+- **source line 16 (Sun Tzu)**: "As Sun Tzu said,[^1]" → "As Sun Tzu said," — punct
+- **source line 28 (神事)**: "an old sacred rite" → "a traditional rite" — accuracy
+- **source line 73 (東京で買い付けた)**: "the custom weapon Tokyo had supplied" → "the custom weapon purchased in Tokyo" — accuracy
+- **source line 73 (銃杖巨神殺し)**: "gun-wand Giant Slayer" → "Gun-Wand Giant Slayer" — glossary
+- **source line 136 (東北の重鎮)**: "a Tohoku elder" → "one of Tohoku's leading figures" — referent
+- **source line 154 (足元にも及ばん)**: "before it could even compare to 0933's magic wand firepower" → "before it could even come close to the firepower of 0933's magic wand" — accuracy
+- **source line 178 (銃杖巨神殺し)**: "gun-wand Giant Slayers" → "Gun-Wand Giant Slayers" — glossary
+- **source line 178 (低練度武器)**: "weapons they had barely trained with" → "weapons they had little training with" — accuracy
+- **source line 181 (お気持ち表明)**: "Sanukino's declarations of feeling" → "Sanukino air his grievances" — accuracy
+- **source line 184 (銃杖巨神殺し)**: "the gun-wand Giant Slayer customized for Okyaku" → "the Gun-Wand Giant Slayer customized for him" — glossary
+- **source line 190 (堅物の大熊)**: "the stubborn Itazu" → "the straitlaced Itazu" — accuracy
+- **source line 196 (その程度の男)**: "that was the kind of man he was" → "that was all he amounted to" — accuracy
+- **source line 199 (銃杖巨神殺し)**: "Gun-wand Giant Slayer No. 4" → "Gun-Wand Giant Slayer No. 4" — glossary
+- **source line 205 (銃杖巨神殺し)**: "the gun-wand Giant Slayer" → "the Gun-Wand Giant Slayer" — glossary
+- **source line 208 (強度が高い)**: "The strength is high. Ridiculously high." → "It's strong. Ridiculously strong." — accuracy
+- **source line 208 (魔物の骨材)**: "Are you using monster bones as material?" → "Did they use monster bone as structural material?" — accuracy
+- **source line 217 (たまげた熱処理)**: "It's been heat-treated like crazy." → "That's some astonishing heat treatment." — accuracy
+- **source line 238 (魔法使いにだって)**: "Could even a mage do something like this?" → "Not even a mage could do something like this." — accuracy
+- **source line 250 (作品の使い手)**: "the person using their own work" → "the user of their own work" — accuracy
+- **source line 259 (勢い余って)**: "it also looked like he had lost more than his drive" → "perhaps the swing had gone so far that he had lost his spirit too" — accuracy
+- **source line 319 (初めての死者)**: "the Association's first death in this hunt" → "the Association's first-ever casualty" — accuracy
+- **terminal notes**: "Sun Tzu[^1] / frog[^2]" → "frog[^1]" — punct (removed unnecessary note)
+- [polish] **source line 4 (星が瞬き)**: "stars had started blinking" → "stars had begun twinkling" — polish
+- [polish] **source line 10 (tent work)**: "hammering back in tent pegs" → "driving back in tent pegs" — polish
+- [polish] **source line 10 (緊張感)**: "a proper amount of tension" → "a healthy tension" — polish
+- [polish] **source line 10 (watchtower reports)**: "Information from each watchtower was coming in without delay" → "Reports from each watchtower were coming in smoothly" — polish
+- [polish] **source line 10 (response readiness)**: "if there were any" → "if any arose" — polish
+- [polish] **source line 25 (battle uncertainty)**: "the unknowable depths of mountain monsters" → "the unfathomable nature of mountain monsters" — polish
+- [polish] **source line 25 (preparations)**: "complete preparations" → "perfect preparations" — polish
+- [polish] **source line 31 (prayer and fate)**: "traditional prayers like that, but he understood the feeling" → "traditional rites like that, but he understood the urge" — polish
+- [polish] **source line 37 (sleep choice)**: "the sure, practical choice" → "the safe, practical choice" — polish
+- [polish] **source line 40 (entering tent)**: "was thinking that he might... when he tried to enter" → "was thinking he might... when he was about to enter" — polish
+- [polish] **source line 46 (booming introduction)**: "shouted in a booming voice" → "boomed out the words" — polish
+- [polish] **source line 49 (industry leadership)**: "kept leading the magic-item-making industry that used monster materials" → "kept him at the forefront of the monster-material magic-item industry" — polish
+- [polish] **source line 55 (Sanukino)**: "I won't take much of your time. It'll be over quick. The moment you see it" → "won't take but a minute. Be over quick. One look" — polish
+- [polish] **source line 58 (eager Sanukino)**: "Sanukino, leaning forward eagerly, did not listen" → "the overeager Sanukino would not listen" — polish
+- [polish] **source line 58 (背負い籠)**: "backpack basket... tried to take out" → "pack basket... started taking out" — polish
+- [polish] **source line 64 (old demeanor)**: "never asserted himself much, and steadily worked away" → "rarely asserted himself, and worked away in silence" — polish
+- [polish] **source line 100 (Okyaku)**: "did I not?... There was no intention at all" → "didn't I?... We had no intention" — polish
+- [polish] **source line 100 (comparison)**: "compared your weapon and 0933's weapon" → "compared your weapon with 0933's" — polish
+- [polish] **source line 103 (Sanukino gratitude)**: "I know that... every one of us. I believe that" → "I know that much... all of us. I trust you" — polish
+- [polish] **source line 103 (gratitude close)**: "I'm truly grateful" → "I'm truly grateful for that" — polish
+- [polish] **source line 112 (Tokyo history)**: "They've got a record!" → "They've done it before!" — polish
+- [polish] **source line 112 (hidden flaw)**: "who knows what kind of trap it has" → "who knows what kind of trap's hidden in it" — polish
+- [polish] **source line 115 (argument)**: "argued hard enough to spray spit" → "made his case forcefully enough to spray spit" — polish
+- [polish] **source line 118 (fault-finding)**: "picking faults" → "picking holes" — polish
+- [polish] **source line 127 (一理と道理)**: "having a point did not overturn what was right" → "one valid point did not overturn the truth" — polish
+- [polish] **source line 130 (anger and resentment)**: "could hunt Daidarabocchi... would do that too" → "could bring Daidarabocchi down... would use them too" — polish
+- [polish] **source line 133 (Okyaku)**: "there is simply too large a gap" → "the gap... is simply too large" — polish
+- [polish] **source line 136 (careful refusal)**: "turn down... carefully while respecting him" → "refuse... without slighting him" — polish
+- [polish] **source line 136 (背負い籠)**: "backpack basket" → "pack basket" — polish
+- [polish] **source line 139 (rapid explanation)**: "started rattling on at top speed" → "launched into a rapid-fire explanation" — polish
+- [polish] **source line 145 (interrupting)**: "the shoulder of the Sanukino whose explanation would not stop" → "the still-talking Sanukino on the shoulder" — polish
+- [polish] **source line 148 (outline)**: "just from hearing the outline" → "From the bare outline alone" — polish
+- [polish] **source line 166 (Sanukino firearms speech)**: "The Self-Defense Forces' machine guns. Remember" → "The Self-Defense Forces' machine guns—remember" — polish
+- [polish] **source line 166 (Sanukino certainty)**: "The conclusion's already there" → "That's already settled" — polish
+- [polish] **source line 166 (Sanukino rustic voice)**: "hundreds of years of history. Their reliability is different" → "hundreds of years behind 'em. That's a whole different level of reliability" — polish
+- [polish] **source line 169 (Okyaku explanation)**: "physical damage from guns... magic is the main weapon" → "Bullets don't work... magic is our main weapon" — polish
+- [polish] **source line 172 (Sanukino refusal)**: "I can't accept it" → "I ain't accepting that" — polish
+- [polish] **source line 175 (argument ends)**: "no longer felt like continuing the argument" → "lost all desire to keep arguing" — polish
+- [polish] **source line 202 (mockery)**: "Amateur's shallow thinking" → "Amateur thinking" — polish
+- [polish] **source line 214 (hammer test)**: "tapped it several times while changing positions" → "tried several different spots" — polish
+- [polish] **source line 217 (zero deformation)**: "Not a dent, not even any warping. Perfect zero" → "Not a dent or even a trace of warping. Absolutely zero" — polish
+- [polish] **source line 220 (craftsman's eyes)**: "eyes had lost all their prejudice and now held the light of a craftsman" → "eyes held none of his earlier prejudice. A craftsman's focus had taken its place" — polish
+- [polish] **source line 220 (inspection)**: "furrowed his brow so he would not miss a single thing" → "Frowning in concentration" — polish
+- [polish] **source line 220 (sigh)**: "a sigh of admiration" → "an admiring sigh" — polish
+- [polish] **source line 223 (metalwork)**: "this is master craftsmanship" → "whoever made this is a master craftsman" — polish
+- [polish] **source line 223 (wasted talent)**: "too good a hand to waste as a Wand Maker" → "Talent like this is wasted on a Wand Maker" — polish
+- [polish] **source line 223 (wand function)**: "putting a needless wand function" → "stick a needless wand function" — polish
+- [polish] **source line 226 (wand inspection)**: "moving his eyes to the wand portion" → "turning his attention to the wand portion" — polish
+- [polish] **source line 229 (panic)**: "why is this... electricity can't be used... You made this" → "why's this... they can't use electricity... They did this" — polish
+- [polish] **source line 232 (frenzy)**: "got carried away on his own" → "worked himself into such a frenzy" — polish
+- [polish] **source line 238 (Sanukino alarm)**: "What are you... The Tokyo Wand Maker isn't human" → "What're you... That Tokyo Wand Maker ain't human" — polish
+- [polish] **source line 241 (repetition)**: "Scary, scary" → "Scary. Scary" — polish
+- [polish] **source line 241 (sacred treasure)**: "as though it were" → "as though handling" — polish
+- [polish] **source line 247 (Okyaku)**: "Have you accepted it?" → "Convinced now?" — polish
+- [polish] **source line 250 (Sanukino concession)**: "It pains me to say it... my eyes were the clouded ones" → "Hate to admit it... I was the one who couldn't see straight" — polish
+- [polish] **source line 250 (craft judgment)**: "Something's wrong with anyone who doesn't trust" → "You'd have to be a fool not to trust" — polish
+- [polish] **source line 250 (Sanukino aside)**: "Though they don't seem human, I guess?" → "Though they don't seem human, mind you" — polish
+- [polish] **source line 250 (maker's integrity)**: "the maker... the user of their own work" → "No maker... the one using their work" — polish
+- [polish] **source line 256 (dejection)**: "began slowly putting... into his backpack basket with a dejected look" → "slowly began putting... into his pack basket" — polish
+- [polish] **source line 256 (lost energy)**: "energy he had had" → "energy he had shown" — polish
+- [polish] **source line 259 (lost spirit)**: "perhaps the swing had gone so far" → "he had lost his spirit along with his momentum" — polish
+- [polish] **source line 265 (Tokyo population)**: "said it would have" → "said it had" — polish
+- [polish] **source line 265 (possible prodigy)**: "there could be a monster" → "there might be a monster" — polish
+- [polish] **source line 268 (regional comparison)**: "stood behind Tokyo" → "lagged behind Tokyo" — polish
+- [polish] **source line 274 (Sanukino's posture)**: "whose big back had curled up small" → "as the big man hunched in on himself" — polish
+- [polish] **source line 277 (encouragement)**: "Do not get down" → "Don't let it get you down" — polish
+- [polish] **source line 277 (continued support)**: "has always been supported by you... It will be from now on" → "has depended on you all this time... will keep depending on you" — polish
+- [polish] **source line 280 (Sanukino response)**: "Those are kind words... Haah" → "I'm glad to hear it" — polish
+- [polish] **source line 280 (retirement)**: "Maybe it's time for me to retire" → "Maybe it's time I retired" — polish
+- [polish] **source line 283 (remaining ability)**: "You can still do plenty" → "You still have plenty left in you" — polish
+- [polish] **source line 283 (sincere support)**: "This is not comfort or sympathy" → "I'm not saying this to console you or out of sympathy" — polish
+- [polish] **source line 289 (centralization)**: "Putting everything in one place makes you weak" → "Concentrating everything in one place makes us weak" — polish
+- [polish] **source line 289 (0933 contingency)**: "0933 goes under" → "something happens to them" — polish
+- [polish] **source line 289 (mass technique)**: "a skill ordinary people can use and spread widely" → "a practical craft that can spread far and wide" — polish
+- [polish] **source line 289 (comparison)**: "In one sense... far more valuable" → "In a sense... far more useful" — polish
+- [polish] **source line 292 (old era)**: "In the old era before... guns weaker than nuclear bombs had remained" → "Before... far weaker guns remained" — polish
+- [polish] **source line 298 (other weapons)**: "they would drive every weapon... out" → "every weapon... would be driven" — polish
+- [polish] **source line 304 (departure)**: "put on his backpack basket" → "shouldered his pack basket" — polish
+- [polish] **source line 313 (self-doubt)**: "given a sermon with the face of someone who understood everything" → "preached as if he had it all figured out" — polish
+- [polish] **source line 313 (ability)**: "how much he himself could truly manage" → "how much of it he could actually pull off" — polish
+- [polish] **source line 325 (evacuation)**: "split up and taken in... somehow" → "somehow split up... between Tokyo and Hokkaido" — polish
+- [polish] **source line 325 (bad blood)**: "it would be better... to be as small as possible" → "the less bad blood... the better" — polish
+- [polish] **source line 328 (defeat planning)**: "avoid thinking about what would happen" → "ignore what would happen" — polish
+
+### Register and Flow
+**Okyaku:** Kept restrained, practical, and deliberate without stiff translationese.
+
+**Sanukino Banzo:** Restored a light rustic cadence, roughening only his emphatic lines and keeping his technical fluency intact.
+
+### Formatting Confirmed
+- No title heading or scene/image markers required; narrative tense, exact glossary locks, honorifics, and romanization verified.
+- One necessary terminal note retained; marker and definition pair verified.

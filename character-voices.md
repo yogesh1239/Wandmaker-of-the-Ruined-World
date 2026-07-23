@@ -111,6 +111,13 @@
   - 「あ、ありがとう……」 → “Um, thank you...” (*Vol. 1, “Survival, with a Side of Magic”*)
   - 「私に、私に、盗まないで生きてくやり方を教えてくれてありがとう……！」 → “Thank you for teaching me—teaching me how to live without stealing...!” (*Vol. 1, “The Dragon Witch”*)
 
+**Flame Witch**
+- **Pronoun:** 私 (*watashi*) — polite.
+- **Register:** soft; breathless when afraid or grateful.
+- **Address:** “Okyaku-san”; Hiyori, “Ao-chan-san.”
+- **Tics:** hesitates and stammers under embarrassment.
+- **Samples:** “Please, could you do this?”; “I... got horny.”
+
 ### Distinguishing markers
 | Speaker | Fastest English tells |
 |-|-|
@@ -122,3 +129,5 @@
 | Dragon Witch | possessive treasure talk; childish insistence; casual threats |
 | Zaizen Kintaro | deferential hedges; administrative precision; calm diplomacy |
 | Dareda Kimi (Vol. 2, Ch. 11 only) | close-third: earnest, data-minded; panic sharpens into clipped commands |
+| Hinonoya Takuo (Vol. 2, Ch. 17 only) | close-third: fandom-heavy and blunt; excitement becomes breathless repetition and smug boasting |
+| Murakumo Kariya (Vol. 3, Ch. 15 only) | close-third: fearful, self-reproachful; resolve becomes terse |

@@ -1,0 +1,88 @@
+# Chapter 16 — Edit Log
+
+### Accuracy Fixes
+- **source line 34 (正論パンチ)**: "The punch of hard truth was so strong it felt like my face had caved in." → "The punch of hard truth was so strong it practically caved my face in." — accuracy
+- **source line 40 (謝罪文)**: "an apology letter from Professor Ohinata that looked genuinely sorry" → "a deeply apologetic letter from Professor Ohinata" — accuracy
+- **source line 91 (固有色)**: "became personal-color Gremlins according to the blood components mixed into them" → "took on a personal color based on the blood components mixed into them" — accuracy
+- **source line 94 (野生動物)**: "Gremlins made with wild-animal blood did not become colored" → "wild-animal blood did not color them" — accuracy
+- **source line 109 (魔物)**: "magical life-forms that animals had mutated into" → "magical life-forms created when animals mutated" — accuracy
+- **source line 112 (飼育していた牛)**: "A cow being raised" → "A domesticated cow" — accuracy
+- **source line 118 (選別してあらかじめ処分)**: "sorted out and disposed of in advance" → "screened out and culled in advance" — accuracy
+- **source line 124 (話を聞いているだけで)**: "Just from hearing about it" → "Just from hearing the reports" — accuracy
+- **source line 136 (涙を呑んで)**: "swallowed her tears and scaled back" → "reluctantly scaled back" — accuracy
+- **source line 139 (迷える都民)**: "lost Tokyo residents" → "bewildered Tokyo residents" — accuracy
+- **source line 160 (俺の作品)**: "the name recognition and reputation of my work would rise further" → "my creations would gain even more name recognition and a better reputation" — accuracy
+- **source line 166 (協力体制)**: "Cooperation would spread" → "The cooperative network would spread" — accuracy
+- [polish] **source line 16 (brand paragraph)**: "The amulets I'd newly developed" → "The amulets I'd developed" — polish
+- [polish] **source line 16 (ブランド力)**: "the brand strength I'd built up through making and selling magic wands was huge" → "I'd built up some serious brand recognition by making and selling magic wands" — polish
+- [polish] **source line 19 (design confidence)**: "confident about the design side" → "confident in my designs" — polish
+- [polish] **source line 28 (manga request)**: "There had even been a time when I requested to read the continuation" → "I had even asked for the continuation" — polish
+- [polish] **source line 28 (survival check)**: "The manga artist's survival had been checked" → "They checked whether the manga artist was still alive" — polish
+- [polish] **source line 28 (limited serialization)**: "they even approved a limited resumption of serialization" → "even got a limited run of the serialization approved" — polish
+- [polish] **source line 28 (anthology scale)**: "with a print run of 200 copies and four manga series" → "with 200 copies printed and four series included" — polish
+- [polish] **source line 31 (requests)**: "harder to get through" → "harder to get approved" — polish
+- [polish] **source line 34 (medicine request)**: "my request for medicine, made because the pandemic had made me anxious about my household stockpile, was politely refused with" → "they politely refused my request for medicine after the pandemic made me worry about my stockpile at home" — polish
+- [polish] **source line 34 (refusal quote)**: "was politely refused with, ‘We want to prioritize the people who really need it right now.’" → "‘We want to prioritize the people who really need it right now,’ they said." — polish
+- [polish] **source line 37 (sugar)**: "the delivery date for sugar became unknown" → "sugar no longer had an estimated delivery date" — polish
+- [polish] **source line 37 (livestock workers)**: "The people running the already valuable livestock industry" → "The precious few people keeping the livestock industry running" — polish
+- [polish] **source line 43 (population)**: "twenty percent of the total population" → "twenty percent of the population" — polish
+- [polish] **source line 46 (daily disruption)**: "problems showed up everywhere in life" → "problems showed up in every part of daily life" — polish
+- [polish] **source line 49 (technology publication)**: "Making the amulet technology public" → "Publishing the amulet technology" — polish
+- [polish] **source line 52 (recovery amounts)**: "your recovery increased by 500 ... it only increased by 0.05" → "you'd recover an extra 500 ... you'd recover just 0.05 extra" — polish
+- [polish] **source line 52 (minor benefit)**: "an accessory with a minor extra effect that was barely more than peace of mind" → "an accessory with a tiny bonus effect that offered little more than peace of mind" — polish
+- [polish] **source line 55 (post-pandemic capacity)**: "There wasn't enough room in the post-pandemic world for accessories like that to spread." → "The post-pandemic world didn't have the spare capacity for accessories like that to catch on." — polish
+- [polish] **source line 55 (productive capacity)**: "There was no way they could spend productive capacity that had already dropped off sharply on making accessories!" → "Why waste productive capacity that had already plummeted on making accessories?!" — polish
+- [polish] **source line 55 (buyers)**: "That was why only witches and mages wanted them." → "So only witches and mages wanted them." — polish
+- [polish] **source line 58 (research timing)**: "one of the hottest research topics right then" → "one of the hottest research topics around" — polish
+- [polish] **source line 61 (university reopening)**: "finished reorganizing itself and resumed classes in time for the new students entering in April" → "finished reorganizing and resumed classes in time for its new students to enroll in April" — polish
+- [polish] **source line 61 (new department)**: "It newly established the Department of Magic Medicine." → "It had also established the new Department of Magic Medicine." — polish
+- [polish] **source line 61 (department mission)**: "This department had been founded ... bring together the reduced workforce" → "The department was founded ... bring together the dwindling pool of experts" — polish
+- [polish] **source line 61 (admissions)**: "the competition ratio for admission surpassed the Department of Magic Linguistics, which had previously been at the top" → "its admissions competition surpassed the Department of Magic Linguistics, the previous leader" — polish
+- [polish] **source line 61 (危機感)**: "The pandemic had given Tokyo residents that much of a sense of crisis." → "That was how much urgency the pandemic had instilled in Tokyo's residents." — polish
+- [polish] **source line 64 (research sentence)**: "At the Department of Magic Medicine, they were researching" → "The Department of Magic Medicine was researching" — polish
+- [polish] **source line 64 (future disease)**: "measures and prevention in case another unknown magical disease spread again" → "countermeasures and prevention in case another unknown magical disease spread" — polish
+- [polish] **source line 67 (pathology value)**: "From the Department of Magic Medicine's perspective, the marbled Gremlin in the amulet" → "For the Department of Magic Medicine, the amulet's marbled Gremlin" — polish
+- [polish] **source line 67 (research utility)**: "a very useful reference for advancing pathology research" → "very useful for advancing pathology research" — polish
+- [polish] **source line 70 (engineering interest)**: "amulets were also being praised in the Department of Gremlin Engineering" → "amulets were also a hot topic in the Department of Gremlin Engineering" — polish
+- [polish] **source line 73 (reaction)**: "Wait, isn't that guy amazing...?" → "Wait, isn't he amazing...?" — polish
+- [polish] **source line 76 (conditions)**: "we weren't starting under the same conditions" → "we weren't working under the same conditions" — polish
+- [polish] **source line 76 (performance reaction)**: "his skill in improving the performance" → "his skill in improving its performance" — polish
+- [polish] **source line 76 (trial and error)**: "I knew because I had tried all sorts of things to improve its function myself" → "I'd tried all sorts of things to improve it myself, so I knew" — polish
+- [polish] **source line 79 (counterfactual boast)**: "If I hadn't existed, Professor Handa might have become the world's best—no, Japan's best" → "If I weren't around, Professor Handa might've become the world's best—no, at least Japan's best" — polish
+- [polish] **source line 82 (future expectations)**: "there was a lot to look forward to from here" → "I was looking forward to seeing what came next" — polish
+- [polish] **source line 85 (developer pride)**: "I was proud as their developer" → "I was proud of that as their developer" — polish
+- [polish] **source line 97 (sample shortage)**: "a rule I hadn't reached because I lacked samples" → "a rule I'd missed because I didn't have enough samples" — polish
+- [polish] **source line 100 (test finding)**: "Gremlins were colored when blood components came from individuals" → "blood components from individuals ... colored Gremlins" — polish
+- [polish] **source line 100 (negative finding)**: "individuals with no potential to mutate did not color them" → "individuals with no such potential did not" — polish
+- [polish] **source line 109 (monster definition)**: "magical life-forms created when animals mutated" → "animals that had mutated into magical life-forms" — polish
+- [polish] **source line 109 (mutation effects)**: "not only their appearance but their habits and temperament changed too" → "their habits and temperament changed along with their appearance" — polish
+- [polish] **source line 115 (farm destruction)**: "The destruction of the large farm in Katsushika Ward had also been caused by" → "The large farm in Katsushika Ward had also been wiped out when" — polish
+- [polish] **source line 115 (mass escape)**: "escaped in a group" → "escaped en masse" — polish
+- [polish] **source line 118 (test result)**: "But with the latent animal-mutation test that the Department of Monster Studies had discovered this time, it had become possible" → "But thanks to the latent animal-mutation test the Department of Monster Studies had discovered, it was now possible" — polish
+- [polish] **source line 124 (reports)**: "Just from hearing the reports, I could clearly tell" → "The reports alone made it clear" — polish
+- [polish] **source line 133 (recovery work)**: "doing all sorts of things to recover" → "doing all sorts of work to recover" — polish
+- [polish] **source line 139 (tower defense)**: "had been defended to the end through" → "had been held through" — polish
+- [polish] **source line 139 (refuge)**: "one place that took in" → "one of the places taking in" — polish
+- [polish] **source line 142 (workshops)**: "Ordinary magic-wand workshops increased their numbers further and improved the efficiency of their processing steps." → "More ordinary magic-wand workshops opened, and they streamlined their production processes." — polish
+- [polish] **source line 142 (distribution effort)**: "running at full speed so magic wands could spread even a little faster" → "working flat out to get magic wands into people's hands even a little faster" — polish
+- [polish] **source line 145 (outside aid)**: "help was extended from outside Tokyo" → "help came from outside Tokyo" — polish
+- [polish] **source line 148 (Tohoku personnel)**: "People were being sent from the Tohoku Hunting Association ... to help" → "The Tohoku Hunting Association ... was sending personnel to help" — polish
+- [polish] **source line 151 (Council attendance)**: "attend the Tokyo Witches' Council in person" → "attend a Tokyo Witches' Council meeting in person" — polish
+- [polish] **source line 151 (escort duty)**: "in order to protect Professor Ohinata, who would sit in on a Council meeting with a mage from the dispatched Tohoku Hunting Association" → "She would be protecting Professor Ohinata, who was sitting in on the meeting with a mage dispatched by the Tohoku Hunting Association." — polish
+- [polish] **source line 154 (invitation)**: "sounded me out about participating, as a long shot, but of course it was a no. I refused." → "sounded me out about participating on the off chance I'd agree, but of course I couldn't. I turned her down." — polish
+- [polish] **source line 157 (stories)**: "wait for the Blue Witch's stories from the trip" → "wait to hear the Blue Witch's stories about it" — polish
+- [polish] **source line 160 (sales pitch)**: "make a sales pitch for my wands" → "promote my wands" — polish
+- [polish] **source line 160 (reputation)**: "my creations would gain even more name recognition and a better reputation" → "my creations would become even better known and more highly regarded" — polish
+- [polish] **source line 163 (regional contact)**: "restore exchanges with other regions" → "resume contact with other regions" — polish
+- [polish] **source line 166 (cooperation)**: "The cooperative network would spread" → "Cooperation would expand" — polish
+- [polish] **source line 169 (closing question)**: "Just what kind of people were the Tohoku Hunting Association ... that had overcome" → "Just what kind of people make up the Tohoku Hunting Association ... that overcame" — polish
+- [polish] **source line 172 (sales question)**: "would the Blue Witch successfully make a sales pitch for my magic wands?" → "will the Blue Witch manage to sell them on my magic wands?" — polish
+- [polish] **source line 175 (期待大)**: "My hopes were high." → "I can't wait." — polish
+
+### Register and Flow
+**Ori Kenshi:** Kept his casual, technical first-person voice, blunt punchlines, contractions, and direct closing questions without elevating the serious recovery passages.
+
+### Formatting Confirmed
+- Audited source lines 1–175 in one 175-line chunk for both ordered passes; exact glossary terms, names, places, organizations, and technical measurements were verified.
+- Narrative and indirect thought stayed past; the two clearly immediate closing questions and final reaction use natural speech tense and remain roman.
+- No source images, scene breaks, furigana glosses requiring notes, or footnotes occur; no title heading or Translator Notes section was added.

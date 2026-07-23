@@ -7,7 +7,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Ori Kenshi (大利賢師)
 **Japanese Name:** 大利賢師  
 **Gender:** Male  
-**Role:** Primary first-person protagonist and Wand Maker in Okutama; some chapters use other viewpoints.
+**Role:** First-person Wand Maker.
 
 #### Speech Patterns
 - **First-person pronoun:** 俺 — casual, blunt masculine self-reference.
@@ -20,13 +20,13 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “That’s not true. I like the Blue Witch.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Highly capable, curious, and solo-preferring; technically exacting at wand-making and material appraisal, but socially awkward and unusually candid.
-- **Arc state:** Saved Hiyori; unknowingly drank life-extending alraune secret nectar.
+- Capable, curious, solo-preferring; technically exacting, socially awkward, candid.
+- **Arc state:** Five Giant Slayers, fifteen sealing rounds complete; hunt uncompleted.
 
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
 **Japanese Name:** 青山ヒヨリ／青の魔女  
 **Gender:** Female  
-**Role:** Tokyo Witches' Council powerhouse who senses magic power; Ori’s protector, courier, and friend.
+**Role:** Council powerhouse; Ori’s protector, courier, and friend.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — direct, neutral feminine self-reference.
@@ -39,8 +39,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “...That no-guard, one-hundred-percent-honest way you talk isn’t something I hate. Stay as you are, Ori.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Powerful, vigilant, quietly guilt-burdened, and easily embarrassed by sincere intimacy; fond of small animals, with practical care that includes research help and material sourcing.
-- **Arc state:** Fully recovered with no lasting effects.
+- Powerful, vigilant, guilt-burdened; embarrassed by sincere intimacy, but practically caring.
+- **Arc state:** Her mask and Cyanos were chosen for the planned 50-yen coin.
 
 ### Ohinata Kei (大日向慧)
 **Japanese Name:** 大日向慧  
@@ -58,7 +58,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Sociable, enthusiastic, and academically serious; her warmth puts strangers at ease, and she inherited her late father's magic-linguistics research.
-- **Arc state:** Critically ill after mushroom disease became severe following magic-power-depletion fainting.
+- **Arc state:** Commissioned Ori to make master patterns for the planned shared currency.
 
 ## SUPPORTING CHARACTERS
 
@@ -133,7 +133,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Flame Witch (継火の魔女)
 **Japanese Name:** 継火の魔女  
 **Gender:** Female  
-**Role:** Fire-fairy witch, former guardian of Shinagawa Ward, and elder sister of the Flame Heir Witch.
+**Role:** Sealed fire-fairy; Shinagawa's former guardian.
 
 #### Speech Patterns
 - **First-person pronoun:** 私.
@@ -142,11 +142,11 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - **Address forms:** “Okyaku-san”; calls Hiyori “Ao-chan-san.”
 
 **Example Quotes:**
-- “Please make a magic item to seal me—not one that fails in a few days, but one that will last decades.” (*Vol. 3, Ch. 3, 継火の魔女*)
+- “Could you use that Monster Trap on me?” (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
 
 #### Personality
-- A former combatant who is humble, technically knowledgeable, and frightened of her approaching death.
-- **Arc state:** Ori sealed her in the Himori Wand to preserve her until a cure may exist.
+- Polite and frightened by her unexplained shrinking.
+- **Arc state:** Sealed in Himori Wand; Ori suspects three fire-salamander offspring with the Blue Witch.
 
 ### Flame Heir Witch (火継の魔女)
 **Japanese Name:** 火継の魔女  
@@ -157,14 +157,14 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - **First-person pronoun:** Not established in the prose corpus.
 - **Formality level:** Polite in written correspondence.
 - **Speech style:** No direct spoken line recovered.
-- **Address forms:** Calls the Flame Witch “onee-chan” in her letter.
+- **Address forms:** Not established.
 
 **Example Quotes:**
-- “I’m worried about onee-chan, so I’ll accompany the maintenance.” (*Vol. 3, Ch. 8, 北海道魔獣農場の秘伝; letter*)
+- No spoken line; her letter reports Himori Wand’s inherited fire-magic support. (*Vol. 3, Ch. 4, 火守乃杖*)
 
 #### Personality
-- Responsible and devoted to her sister.
-- **Arc state:** She has inherited the Flame Witch’s position and uses the Himori Wand’s bloodline-compatible fire-magic support.
+- Insufficient evidence for a stable personality profile.
+- **Arc state:** Became Shinagawa Ward’s guardian, inheriting Himori Wand’s bloodline-compatible fire-magic support.
 
 ### Hell Witch (地獄の魔女)
 **Japanese Name:** 地獄の魔女  
@@ -236,7 +236,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Survival hardened him and left him guilt-ridden; at the university he valued peaceful, trusted work and defended academically motivated experimentation.
-- **Arc state:** He became Tokyo Magic University’s Gremlin-engineering professor.
+- **Arc state:** Amulet recovery efficiency now reaches 6%.
 
 ### Matsuo (松尾)
 **Japanese Name:** 松尾
@@ -258,7 +258,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Okyaku (大狼[オキヤク])
 **Japanese Name:** 大狼[オキヤク]（本名：郷家卓次[ごうけたくじ]）  
 **Gender:** Male  
-**Role:** Mage and hunter of the Tohoku Hunting Association; Iwatsura’s fiancé.
+**Role:** Mage and hunter of the Tohoku Hunting Association.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — courteous masculine self-reference.
@@ -270,8 +270,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “You know your stuff. Yes, my grandfather Itazu gave me the name.” (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
 
 #### Personality
-- Conscientious, skeptical, and shaped by hard survival decisions; his dossier described a strong commitment to fairness and the greater good.
-- **Arc state:** He has brought Tohoku techniques to Tokyo and survived the Daidarabocchi operation with Iwatsura.
+- Conscientious, skeptical, and shaped by hard survival decisions.
+- **Arc state:** Survived the Daidarabocchi hunt and remains engaged to Iwatsura.
 
 ### Itazu (大熊[イタズ])
 **Japanese Name:** 大熊[イタズ]（本名：郷家春義[ごうけはるよし]）  
@@ -289,43 +289,25 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Traditional, strict, stubborn, and scrupulously impartial, even when his own family bore the cost.
-- **Arc state:** He authorized Tohoku’s aid to Tokyo and reversed his ban on hunting Daidarabocchi after seeing the imported equipment’s potential.
+- **Arc state:** He authorized Okyaku's Tokyo relief dispatch after Hakata-sensei's appeal.
 
-### Aokera (氈鹿[アオケラ])
-**Japanese Name:** 氈鹿[アオケラ]（本名：郷家平吉[ごうけへいきち]）  
-**Gender:** Male  
-**Role:** Tohoku Hunting Association mage.
+### Iwatsura (兎[イワツラ])
+**Japanese Name:** 兎[イワツラ]（本名：郷家舞音[ごうけまいん]）
+**Gender:** Female  
+**Role:** Tohoku Hunting Association witch.
 
 #### Speech Patterns
-- **First-person pronoun:** Not established in the prose corpus.
+- **First-person pronoun:** Not established in filed chapters.
 - **Formality level:** Not established.
 - **Speech style:** No direct dialogue recovered.
 - **Address forms:** Not established.
 
 **Example Quotes:**
-- No directly attributed dialogue; his wind magic dispersed Daidarabocchi’s toxic gas. (*Vol. 3, Ch. 15, 英雄の証*)
+- No direct dialogue; shares Okyaku's tent before the hunt. (*Vol. 3, Ch. 14, そんな人間、いるわけない*)
 
 #### Personality
-- Pragmatic, emotionally restrained, and quick to adapt to harsh realities; the dossier described him as otherwise fairly ordinary.
-- **Arc state:** An active Association combatant in the Daidarabocchi operation.
-
-### Iwatsura (兎[イワツラ])
-**Japanese Name:** 兎[イワツラ]（本名：郷家舞音[ごうけまいん]）
-**Gender:** Female  
-**Role:** Rabbit-eared witch and the Tohoku Hunting Association’s only female, non-blood-related member.
-
-#### Speech Patterns
-- **First-person pronoun:** Not established in the selected line.
-- **Formality level:** Casual in personal conversation.
-- **Speech style:** Open, bright, and unguarded.
-- **Address forms:** Calls Okyaku by name.
-
-**Example Quotes:**
-- “Okyaku asked me to marry him after we take down Daidarabocchi. We haven’t had the ceremony yet, but I’ve got the ring.” (*Vol. 3, Ch. 15, 英雄の証*)
-
-#### Personality
-- Cheerful, brave, generous, and well-liked; uses enhancement magic for others.
-- **Arc state:** Engaged to Okyaku and committed to the Daidarabocchi hunt despite past injury.
+- Insufficient evidence for a stable personality profile.
+- **Arc state:** Survived the Daidarabocchi hunt and remains engaged to Okyaku.
 
 ### Sanukino Banzo (佐貫野伴造)
 **Japanese Name:** 佐貫野伴造  
@@ -344,25 +326,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Inventive, passionate, and grief-driven; deeply distrustful of Tokyo after his wife died of mushroom disease.
-- **Arc state:** His need to protect Tohoku after losing his wife drives his distrust of Tokyo-made weapons.
-
-### Murakumo Kariya (村雲雁弥)
-**Japanese Name:** 村雲雁弥  
-**Gender:** Male  
-**Role:** Isolated Daidarabocchi watchman with exceptional transformed eyesight.
-
-#### Speech Patterns
-- **First-person pronoun:** 俺 — used in his first-person thought and incantation.
-- **Formality level:** Plain in internal narration; too little ordinary dialogue survives to fix a social register.
-- **Speech style:** Restrained and self-protective in narration, breaking into blunt anger under stress.
-- **Address forms:** Not established.
-
-**Example Quotes:**
-- “Right now, I’m pissed off.” (*Vol. 3, Ch. 15, 英雄の証; internal narration*)
-
-#### Personality
-- Quiet, lonely, and conflict-avoidant; his affection for Iwatsura exposes his self-doubt.
-- **Arc state:** He used his withheld power to save Okyaku during the Daidarabocchi operation.
+- **Arc state:** Recognizes 0933's craft, though distrustful of Tokyo; Daidarabocchi hunt remains pending.
 
 ### Hakata Denjiro (博田伝次郎)
 **Japanese Name:** 博田伝次郎  
@@ -436,7 +400,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Composed, calculating, and exploitative, but used half her illicit income to found and run an orphanage.
-- **Arc state:** She retained control of a violent hostage crisis and recovered the stolen Flame Witch’s wand for return.
+- **Arc state:** Protected Watarigarasu's orphanage, leveraged 0933, returned Flame Witch's wand, and eliminated Mobu's threat.
 
 ### Moeka (モエカ)
 **Japanese Name:** モエカ  
@@ -454,12 +418,12 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Efficient, formidable, and immediately responsive to orders; the source identifies a cute, young-looking face but does not establish gender.
-- **Arc state:** Moeka remained Shirokarasu’s feared enforcer after eliminating the hostage-taker’s immediate threat.
+- **Arc state:** Eliminated Mobu and his orphanage hostage threat.
 
 ### Mermaid Witch (人魚の魔女)
 **Japanese Name:** 人魚の魔女  
 **Gender:** Female  
-**Role:** Aquatic Council witch who hunted and killed the Kraken.
+**Role:** Aquatic Council witch who killed the Kraken.
 
 #### Speech Patterns
 - **First-person pronoun:** Not established.
@@ -472,7 +436,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Determined through action; exceptionally dangerous and capable under water.
-- **Arc state:** Newly able to communicate enough to accept the Kraken-hunting task.
+- **Arc state:** Killed the Kraken after communication let her accept the Council's task.
 
 ### Pebble Witch (さざれ石の魔女)
 **Japanese Name:** さざれ石の魔女  
@@ -585,61 +549,61 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Tsubaki (ツバキ)
 **Japanese Name:** ツバキ  
 **Gender:** Unknown  
-**Role:** Largest and most territorial of Ori’s three fire salamanders.
+**Role:** Largest, bossiest fire salamander; loves camellia oil.
 
 #### Speech Patterns
 - **First-person pronoun:** Not applicable; communicates by cries, posture, and fire.
 - **Formality level:** Not applicable.
-- **Speech style:** Forceful, proud, and confrontational.
+- **Speech style:** Forceful, proud, and energetic.
 - **Address forms:** Not applicable.
 
 **Example Quotes:**
-- No verbal dialogue: Tsubaki proudly presented a miniature wand and tried to fire it. (*Vol. 3, Ch. 18, 番外編　赤いのさんびき、青いのひとり*)
+- No verbal dialogue: Tsubaki follows Ori's commands, breathes fire, and stops on cue. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Bossy, territorial, and quick to challenge intruders.
-- **Arc state:** Tsubaki guarded the reverberatory furnace and showed an aptitude for copying magic-power control, but accidentally burned the miniature wand.
+- Bossy, energetic, and food-motivated.
+- **Arc state:** After training, it obeys commands and controls fire, with camellia oil as its reward.
 
 ### Sekitan (セキタン)
 **Japanese Name:** セキタン  
 **Gender:** Unknown  
-**Role:** Ori’s laid-back pet, one of the three `火蜥蜴`.
+**Role:** Ori’s laid-back, coal-loving fire salamander.
 
 #### Speech Patterns
 - **First-person pronoun:** Not applicable; communicates by cries and behavior.
 - **Formality level:** Not applicable.
-- **Speech style:** Slow, imitative, and easily startled.
+- **Speech style:** Slow, laid-back, and wary of Hiyori.
 - **Address forms:** Not applicable.
 
 **Example Quotes:**
-- No verbal dialogue: Sekitan imitated Ori’s work and tried to prepare a sweet potato. (*Vol. 3, Ch. 18, 番外編　赤いのさんびき、青いのひとり*)
+- No verbal dialogue: Sekitan obeys Ori's commands but warns Hiyori away with fire. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Relaxed, imitative, and strongly attached to Ori.
-- **Arc state:** Sekitan accepted Ori’s care but remained frightened of Hiyori.
+- Relaxed, fire-basking, and food-motivated.
+- **Arc state:** After training, it obeys Ori's commands but still warns Hiyori away with fire.
 
 ### Mokutan (モクタン)
 **Japanese Name:** モクタン  
 **Gender:** Unknown  
-**Role:** Smallest and most affectionate of Ori’s three fire salamanders.
+**Role:** Ori’s curious, people-friendly, charcoal-loving fire salamander.
 
 #### Speech Patterns
 - **First-person pronoun:** Not applicable; communicates by cries and behavior.
 - **Formality level:** Not applicable.
-- **Speech style:** Eager, friendly, and skittish around Hiyori.
+- **Speech style:** Eager, friendly, and responsive to Ori.
 - **Address forms:** Not applicable.
 
 **Example Quotes:**
-- No verbal dialogue: Mokutan answered questions with energetic cries, whether or not the words were understood. (*Vol. 3, Ch. 12, 新時代の新通貨*)
+- No verbal dialogue: Mokutan joins the demonstration and follows Ori's commands. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Curious and affectionate toward Ori, but quick to hide when alarmed.
-- **Arc state:** Mokutan was the most people-friendly of the three with Ori, though Hiyori still caused fear.
+- Curious, people-friendly, and food-motivated.
+- **Arc state:** After training, it follows Ori's assemble, burn, and stop commands.
 
 ## ORGANIZATIONS
 
 - **Tokyo Witches' Council (東京魔女集会):** Eyeball Witch-founded council coordinating territory, aid, and supplies; after the Bloodsucking Mage's death, 19 remain, only six attend. (*Vol. 1, Ch. 7, 東京魔女集会*)
 - **Tokyo Magic University (東京魔法大学):** Tokyo’s magical research and education institution, led by Ohinata Kei; it collaborated on magic language, ritual magic, and reconstruction research. (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
-- **Tohoku Hunting Association (東北狩猟組合):** Sendai-based survivor community centered on a blood-related hunter family plus Iwatsura; it shared survival techniques and fielded four mages and one witch against Daidarabocchi. (*Vol. 3, Chs. 2 and 15, 東北狩猟組合の秘伝; 英雄の証*)
-- **Hokkaido Magic Beast Farm (北海道魔獣農場):** Hokkaido survivor community that developed breeding and taming practices for magic beasts. (*Vol. 3, Ch. 8, 北海道魔獣農場の秘伝*)
-- **Watarigarasu (渡鴉[ワタリガラス]):** Shirokarasu’s Suginami underworld organization; it publicly ran a pawnshop and orphanage, while illicit trade and violent enforcement operated behind that front. (*Vol. 3, Ch. 5, 闇商人、０９３３を語る*)
+- **Tohoku Hunting Association (東北狩猟組合):** Sendai-based, 200,000-person survivor community run by four mages and one witch. (*Vol. 3, Ch. 2, 東北狩猟組合の秘伝*)
+- **Hokkaido Magic Beast Farm (北海道魔獣農場):** Hokkaido sent Tokyo three magic-beast types and training; Tokyo promises wands and magic-linguistics instructors. (*Vol. 3, Ch. 10, 魔獣たち*)
+- **Watarigarasu (渡鴉[ワタリガラス]):** Shirokarasu's Suginami underworld organization; it protects its orphanage while exploiting 0933's wand market. (*Vol. 3, Ch. 5, 闇商人、０９３３を語る*)

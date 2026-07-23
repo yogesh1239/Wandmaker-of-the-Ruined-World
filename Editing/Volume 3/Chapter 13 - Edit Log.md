@@ -1,0 +1,87 @@
+# Chapter 13 — Edit Log
+
+### Accuracy Fixes
+- **source line 7**: "the city had announced that the new currency would be issued" → "an announcement had gone out in the city that the new currency would be issued" — accuracy
+- **source line 10**: "the new currency would revise the value of money" → "the value of the new currency would be revised" — accuracy
+- **source line 19**: "I did not know much about economics" → "I don't know much about economics" — tense (immediate aside)
+- **source line 34**: "using latent animal-mutation tests through livestock blood draws" → "using livestock blood draws to test for the latent risk of monster mutation" — accuracy
+- **source line 43**: "art materials" → "art reference materials" — accuracy
+- **source line 46**: "if distribution failed" → "if it failed to circulate" — accuracy
+- **source line 55**: "make exchange and trade more active" → "encourage more interaction and trade" — accuracy
+- **source line 94**: "human-sized or bear-sized intruders, or those with high magic power. It noticed them entering" → "anything the size of a human or bear, or anything with high magic power. Then it tried to kill the intruder" — accuracy
+- **source line 106**: "Every land route through the exact middle of the Japanese archipelago being completely impassable would be a serious obstacle to starting trade and exchange from here on out" → "Having every land route through the middle of the Japanese archipelago completely closed was a serious obstacle to increasing trade and interaction" — accuracy
+- **source line 118**: "There was no downside to killing it while they could" → "It was best to kill it while they had the chance" — accuracy
+- **source line 139**: "had taken the matter home once" → "had taken the proposal back with him" — accuracy
+- **source line 148**: "sent in strict packaging, were a weighty gray Killing Stone and a black Starry Sky Stone, like the night sky" → "had arrived securely packaged: a weighty gray Killing Stone and a night-sky-black Starry Sky Stone" — accuracy
+- **source line 160**: "every bit of Gremlin they could take from Daidarabocchi" → "all the Gremlin harvested from Daidarabocchi" — accuracy
+- **source line 169**: "they would make sealing rounds with a miniaturized, more efficient mechanism embedded in them, like a Monster Trap, and snipe Daidarabocchi" → "the plan was for me to make sealing rounds with a miniaturized, more efficient Monster Trap mechanism embedded in them, then for the hunters to use those rounds to snipe Daidarabocchi" — referent
+- **source line 193**: "a magic item that killed a Class A-1 monster" → "a magic item meant to kill a Class A-1 monster" — accuracy
+- **source line 202**: "as reference materials and materials, so I measured them, took them apart, and understood their construction" → "as both references and raw materials, so I measured them, took them apart, and worked out their construction" — accuracy
+- **source line 202**: "I could probably build this into a wand nicely" → "I could probably integrate them into the wands" — accuracy
+- **source line 211**: "let the recoil from firing escape properly" → "dissipate the recoil properly" — accuracy
+- **source line 226**: "I had them let me alter the specifications" → "took the liberty of altering the specifications" — referent
+- **source line 247**: "There should not be any chance I had been needlessly thoughtful" → "I probably had not overthought it and done something unnecessary" — accuracy
+- **source line 289**: "a purely physical blast furnace" → "a purely physical smelting furnace" — accuracy
+- **source line 322**: "magic-backlash-prevention mechanisms" → "backlash-prevention mechanisms" — glossary
+- **source line 334**: "A Giant Slayer wand sounded way better than a Giant-Killer wand" → "The written name ‘Giant God Slayer’ looked way cooler than plain old ‘Giant Slayer’" — accuracy
+- **source line 346**: "I respectfully put" → "I carefully packed" — accuracy
+- **terminal note**: "The name is written with the characters for ‘giant god slayer’ but read as ‘Giant Slayer.’ Ori immediately plays on the contrast between the written ‘god’ and the ordinary word for ‘giant.’" → "The inscription reads ‘Giant Slayer,’ but uses 神 (‘god’) instead of the usual 人 (‘person/giant’); Ori chose the grander-looking kanji." — accuracy
+- [polish] **source line 13**: "the currency-value inflation that would naturally happen from here on out" → "the natural inflation in currency values expected over time" — polish
+- [polish] **source line 16**: "once inflation progressed" → "once inflation took off" — polish
+- [polish] **source line 16**: "reducing the face value to one-tenth" → "reducing the face values to one-tenth" — polish
+- [polish] **source line 31**: "It was like how rice had been the economic foundation of society in the Edo period, so it was expected to work out despite some problems" → "It was much like how rice had formed the economic foundation of society in the Edo period, so people expected it to work despite a few problems" — polish
+- [polish] **source line 37**: "a free-occupation, free-economy system" → "free choice of occupation and a free economy" — polish
+- [polish] **source line 40**: "It was not someone else's problem for me either" → "It affected me too" — polish
+- [polish] **source line 43**: "Value equal to XX days' worth of food guaranteed" → "Guaranteed value equivalent to XX days' worth of food" — polish
+- [polish] **source line 49**: "work hard on some good adjustment around that" → "work out the details somehow" — polish
+- [polish] **source line 58**: "one big wall in the way" → "one major obstacle in the way" — polish
+- [polish] **source line 76**: "100 m-class" → "100-meter-class" — polish
+- [polish] **source line 79**: "handled multiple kinds of magic with its cries" → "could control several kinds of magic with its cries" — polish
+- [polish] **source line 85**: "it was remodeling its territory that way into a place more comfortable for itself" → "that was how it remodeled its territory into a place it found more comfortable" — polish
+- [polish] **source line 88**: "Every seven full-moon nights" → "Every seven full moons" — polish
+- [polish] **source line 88**: "While people had been unable to touch a monster that was too strong, its territory had blocked" → "While no one could take on a monster that strong, its territory had spread until it blocked" — polish
+- [polish] **source line 100**: "had the ecology of expanding its territory about once every 7 months" → "expanded its territory about once every seven months" — polish
+- [polish] **source line 100**: "It would need to be dealt with eventually in the long run, but there had been time" → "It would have to be dealt with in the long run, but there was still time" — polish
+- [polish] **source line 106**: "it was fucking in the way" → "it was a fucking nuisance" — polish
+- [polish] **source line 109**: "If you crossed over its territory at an ultra-high altitude, you could avoid Daidarabocchi noticing you" → "You could cross over its territory at an extremely high altitude without Daidarabocchi noticing" — polish
+- [polish] **source line 115**: "it had a record of killing" → "it had a track record of killing" — polish
+- [polish] **source line 130**: "Provided there were appropriate hunting tools, though" → "Assuming they had the right hunting tools, that is" — polish
+- [polish] **source line 136**: "had tried to pitch magic wands to Okyaku" → "had pitched Okyaku ... on magic wands" — polish
+- [polish] **source line 163**: "because its sharp detection ability sensed magic power in considerable detail, it would be hard to make it step" → "its keen detection ability could sense magic power in fine detail, so getting it to step ... would be difficult" — polish
+- [polish] **source line 166**: "You used a Monster Trap by pouring magic power into it" → "Monster Traps worked by pouring magic power into them" — polish
+- [polish] **source line 175**: "That was the rough outline of the hunt operation" → "In broad strokes, that was the hunt plan" — polish
+- [polish] **source line 178**: "on a body as huge as Daidarabocchi's" → "on something as huge as Daidarabocchi" — polish
+- [polish] **source line 181**: "the higher its magic power was" → "the more magic power it had" — polish
+- [polish] **source line 202**: "I had thought guns were fairly precision weapons" → "I'd thought guns were fairly precision-made weapons" — polish
+- [polish] **source line 205**: "made test versions out of wood" → "made wooden prototypes" — polish
+- [polish] **source line 217**: "and the bullet's shape was consequently almost fixed too" → "which meant the bullet's shape was almost fixed too" — polish
+- [polish] **source line 220**: "they planned to cast detection magic ... then recover and reuse them repeatedly" → "the plan was to cast detection magic ... then recover and reuse them over and over" — polish
+- [polish] **source line 223**: "the bullet heads needed to be strong enough for reuse" → "the projectiles needed to be durable enough for reuse" — polish
+- [polish] **source line 232**: "when they broke, they would not bend or warp. They would come apart instead" → "instead of bending or warping when they broke, I designed them to come apart" — polish
+- [polish] **source line 238**: "so this was best" → "so this was the best approach" — polish
+- [polish] **source line 244**: "Therefore, rounds that were hard to break, simple in structure, and quick to repair even if they broke were what best met the customer's request within what was possible" → "So the best way to meet the customer's request within the limits of what was possible was a round that was hard to break, simple in structure, and quick to repair even when it did break" — polish
+- [polish] **source line 244**: "Even I could not make rounds that could not deform or be destroyed" → "Even I couldn't make rounds that could never deform or be destroyed" — polish
+- [polish] **source line 247**: "I probably had not ... I had understood" → "I probably hadn't ... I'd understood" — polish
+- [polish] **source line 259**: "Now was the time to show what our training had achieved" → "Now's the time to show what our training achieved" — polish
+- [polish] **source line 274**: "scurried over to my feet" → "came scurrying over to my feet" — polish
+- [polish] **source line 280**: "crying mi-mi" → "crying mii-mii" — polish
+- [polish] **source line 283**: "All right, all right. Good kids" → "Good, good. Good kids" — polish
+- [polish] **source line 286**: "work together on fire work" → "work together on jobs involving fire" — polish
+- [polish] **source line 292**: "I changed the metal mixing ratio according to the part, melted it, poured it into molds, and cooled it" → "For each part, I adjusted the metal mix, melted it down, poured it into a mold, and let it cool" — polish
+- [polish] **source line 304**: "So we all win, right?" → "So everyone's a winner, right?" — polish
+- [polish] **source line 307**: "Naturally, it did not all succeed perfectly in one go. A few parts came in below the acceptable level in the strength tests" → "Of course, it wasn't a perfect success on the first try. A few parts failed their strength tests" — polish
+- [polish] **source line 310**: "Thank the fire salamanders. A magical life-form workshop really was the best!" → "I owed it all to the fire salamanders. Magical life-form workshops really are the best!" — polish
+- [polish] **source line 313**: "the skills I had built up until now" → "the techniques I'd developed over the years" — polish
+- [polish] **source line 316**: "Their form was transforming wands equipped with transformation mechanisms" → "Form: transforming wands equipped with transformation mechanisms" — polish
+- [polish] **source line 319**: "I used three-layer magic stones for the cores" → "Cores: three-layer magic stones" — polish
+- [polish] **source line 322**: "Their backlash-prevention mechanisms were the latest type" → "Backlash-prevention mechanisms: the latest type" — polish
+- [polish] **source line 343**: "no creator's name engraved, where only people with a good eye could tell who made them from their quality, were cool and made me tingle too. But hiding a logo was fun and nice as well" → "no maker's name engraved, where only people with a good eye could tell who made them from the quality alone, were seriously cool too. But hiding a logo was fun as well" — polish
+- [polish] **source line 352**: "fly across all Japan" → "spread their wings across Japan" — polish
+- [polish] **source line 358**: "let your name roar across the country" → "make your name ring out" — polish
+
+### Register and Flow
+**Ori Kenshi:** Kept the narration casual, technical, and self-congratulatory; immediate asides remain in natural speech tense, while narrative exposition remains past tense.
+
+### Formatting Confirmed
+- Whole source audited in two chunks (lines 1–178 and 179–358); numerical and product specifications, glossary locks, fire salamander names, footnote marker/note pairing, and narrative/direct-thought tense distinction verified.
+- No scene breaks or inline images occurred in this chapter; one compact `## Translator Notes` section remains at the end.

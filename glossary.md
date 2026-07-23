@@ -7,6 +7,7 @@
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
 | 青ちゃん | Ao-chan | Blue-chan | Eyeball Witch's nickname for Aoyama Hiyori |
+| ひーちゃん | Hii-chan |  | Eyeball Witch's nickname for the Flame Witch; project-original |
 | 青さん | Ao-san | Blue-san | Ohinata Kei's respectful nickname for Aoyama Hiyori |
 | 青の魔女 | Blue Witch | Blue Mage, Witch of Blue | Female / Aoyama Hiyori's title |
 | 青梅の魔女 | Witch of Ome | Blue Witch of Ome, Witch of Oume | Female / Aoyama Hiyori's territorial title |
@@ -21,6 +22,7 @@
 | 地獄の魔女 | Hell Witch | Inferno Witch | Female |
 | 花の魔女 | Flower Witch | Floral Witch | Female |
 | 煙草の魔女 | Tobacco Witch | Cigarette Witch | Female |
+| 蜘蛛の魔女 | Spider Witch | Witch of Spiders | Female / title only; project-original |
 | 継火の魔女 | Flame Witch | Rekindling Witch, Fire Witch | Female |
 | 火継の魔女 | Flame Heir Witch | Flamekeeper Witch, Fire-Keeping Witch | Female / human successor to the Flame Witch |
 | 八王子の魔女 | Hachioji Witch | Witch of Hachioji, Hachiouji Witch, Witch of Hachiouji | Female |
@@ -32,7 +34,8 @@
 | 江戸川の魔女 | Edogawa Witch | Witch of Edogawa | Female |
 | 入間の魔法使い | Iruma Mage | Mage of Iruma | Male |
 | 北の魔女 | Northern Witch | Witch of the North | Female / Transcendent title |
-| 大狼[オキヤク] | Okyaku | Ookami, Great Wolf | Male / Tohoku Hunting Association mage |
+| 大狼[オキヤク] | Okyaku | Great Wolf | Male / Tohoku Hunting Association mage |
+| オオカミさん | Ookami-san |  | Ohinata Kei's source-required address for Okyaku; project-original |
 | 大熊[イタズ] | Itazu | Ookuma, Great Bear | Male / head of the Tohoku Hunting Association |
 | 氈鹿[アオケラ] | Aokera | Kamoshika, Serow | Male / Tohoku Hunting Association mage |
 | 兎[イワツラ] | Iwatsura |  | Female / Tohoku Hunting Association witch |
@@ -40,48 +43,70 @@
 | 京極大和 | Kyogoku Yamato | Yamato Kyogoku, Kyougoku Yamato, Yamato Kyougoku | Male |
 | 垂田紀見 | Dareda Kimi | Kimi Dareda | Male |
 | 佐貫野伴造 | Sanukino Banzo | Banzo Sanukino, Sanukino Banzou, Banzou Sanukino | Male |
-| 村雲雁弥 | Murakumo Kariya | Kariya Murakumo | Male |
+| 村雲雁弥 | Murakumo Kariya | Kariya Murakumo | Male/project-original |
 | 博田伝次郎 | Hakata Denjiro | Denjiro Hakata, Hakata Denjirou, Denjirou Hakata | Male |
 | 財前金太郎 | Zaizen Kintaro | Kintaro Zaizen, Zaizen Kintarou, Kintarou Zaizen | Male |
 | 中村 | Nakamura |  | Aoyama family's neighbor |
+| 日根野谷拓雄 | Hinonoya Takuo | Takuo Hinonoya | Male / surviving patron-family descendant; project-original |
+| 日森 | Himori |  | Flame Witch family's surname; project-original |
+| ＯＫ工房 | OK Workshop | OK Kobo, OK Studio | Ori's anonymous pre-disaster craft handle; project-original |
+| ０９３３ | 0933 |  | Ori's anonymous factory-owner identity; project-original |
+| 青梅の職人 | Craftsman of Ome | Ome craftsman | 0933's former underworld alias; project-original |
 | 松尾 | Matsuo |  | Male / Bunkyo Ward Food Team administrator and Minato Ward refugee |
 | オッペンハイマー | Oppenheimer |  | physicist invoked as a nuclear-weapons analogy |
 | 鵜田川聖愛 | Utagawa Maria | Maria Utagawa | Female / Shirokarasu's real name |
 | 白鴉 | Shirokarasu | Shirogarasu, White Crow | Female / leader of Watarigarasu |
 | モエカ | Moeka |  | Unknown / Watarigarasu enforcer |
-| ツバキ | Tsubaki |  | Unknown / fire salamander |
-| セキタン | Sekitan |  | Unknown / fire salamander |
-| モクタン | Mokutan |  | Unknown / fire salamander |
+| 茂布 | Mobu |  | Male / one-off wand thief; project-original |
+| ツバキ | Tsubaki |  | Unknown / camellia-oil eater |
+| セキタン | Sekitan |  | Unknown / coal eater |
+| モクタン | Mokutan |  | Unknown / charcoal eater |
 | グレムリン | Gremlin |  | magic crystal grown from consumed electricity or found in monsters |
 | 魔石 | magic stone | mana stone, magic gem | high-grade magical crystal |
 | 魔法杖 | magic wand | magic staff | spellcasting medium |
+| マジックアイテム | magic item |  | practical magical device; project-original |
+| 乾留液[パイロリグニアス] | pyroligneous acid[パイロリグニアス] |  | condensed wood/coal distillate; project-original |
+| 無煙火薬[コルダイト] | cordite[コルダイト] |  | smokeless propellant; project-original |
 | 魔法杖職人 | Wand Maker | wandmaker, wand craftsman | magic-wand artisan |
 | 魔法杖加工学 | magic-wand processing studies | wand-processing studies | proposed university research field |
 | 魔力 | magic power | mana, magical energy | magical resource |
+| 魔力保有量 | magic-power capacity | mana capacity | total magic power a person can retain; project-original |
 | 魔力逆流 | magic backlash | mana backlash, magical backlash | feedback from uncontrolled magic power |
-| 超越者 | Transcendent | superhuman, transcender | collective term for witches and mages |
+| 超越者 | Transcendent | transcender | collective term for witches and mages |
 | 魔女 | witch | sorceress | female Transcendent |
 | 魔法使い | mage | magician | male Transcendent |
 | 魔術師 | wizard | magician | ordinary person trained in magic |
 | 魔物 | monster | magical creature | magically mutated creature |
+| 火の妖精 | fire fairy | flame fairy | Flame Witch's species descriptor; project-original |
+| 無知シチュ百合放火ックス | unwitting yuri arson sex |  | Ori's coined gag for Flame Witch's reproductive arson; project-original |
+| 無知シチュ放火ックス | unwitting arson sex |  | shortened form of Ori's reproductive-arson gag; project-original |
 | 魔物素材 | monster material | monster-derived material, monster part | material harvested from a monster; project-original |
 | 魔物肉 | monster meat | monster flesh | meat from a monster, inedible to ordinary humans; project-original |
 | キメラ型 | chimera type | chimera-type monster | monster body-type category; project-original |
 | 獣型 | beast type | beast-type monster | monster body-type category; project-original |
 | 植物型 | plant type | plant-type monster | monster body-type category; project-original |
 | 幽霊型 | ghost type | ghost-type monster | monster body-type category; project-original |
+| 軟泥[スライム] | slime | slime monster | magic-depleted slime becomes durable transparent material; project-original |
 | 怪獣 | kaiju |  | large destructive monster |
 | 魔獣 | magic beast | magical beast | a monster made tame or domestic |
 | 魔獣使い | beast handler | magic-beast handler, monster tamer | person integrated with a beast's Gremlin |
+| 馴致 | taming |  | process of making a monster accustomed to handling; project-original |
+| 家畜化 | monster domestication | monster taming | process of raising monsters as livestock; project-original |
+| 魔獣化 | magic-beastification | magic beast conversion | successful controlled-monster domestication; project-original |
+| グレムリン埋め込み | Gremlin implantation | Gremlin implant | embedding a monster's Gremlin in a handler; project-original |
+| 魔法的アレルギー | magical allergy | magic allergy | adverse reaction to implanted Gremlin; project-original |
 | 獣人 | beastkin | beast person, therianthrope | human retaining animal traits after transformation |
 | 使い魔 | familiar | servant familiar | magically summoned servant creature |
 | 使い魔召喚 | familiar summoning | summon familiar | magically summoning a familiar; project-original |
 | 使い魔召喚魔法 | familiar-summoning magic | familiar summoning magic, familiar-summoning spell | Eyeball Witch's spell creating an eyeball familiar; project-original |
+| 石人形[ゴーレム] | golem | stone doll, stone golem | Gremlin-core semi-autonomous construct of the Pebble Witch; project-original |
 | 目玉の使い魔 | eyeball familiar | eye familiar | flying observation-and-communication familiar; project-original |
 | 白狼 | white wolf | whitewolf | docile blue-Gremlin wolf monster; project-original |
 | ニホンザル | Japanese macaque | Japanese monkey | Japan's native monkey species |
 | 魔法語 | magic language | magical language | language of spells |
 | 魔法言語学 | magic linguistics | magical linguistics | academic study of magic language |
+| 未来視魔法 | foresight magic | future-sight magic | magic school whose backlash damages the brain; project-original |
+| 目玉魔法 | eyeball magic | eye magic | familiar-based magic school whose backlash hurts vision; project-original |
 | 魔物学 | monster studies | monsterology | academic study of monsters; project-original |
 | 魔法言語解析チーム | Magic Language Analysis Team | magic-language analysis team | Ohinata Soichi's research team |
 | 大日向研究室 | Ohinata Laboratory | Ohinata Lab | magic-language research group; project-original |
@@ -89,6 +114,7 @@
 | 傀儡魔法 | puppetry magic | puppet magic, marionette magic | Iruma Mage's magic; ceases to affect a creature after cardiac arrest |
 | 蘇生魔法 | resurrection magic | revival magic, reanimation magic | hypothetical magic inferred from magic-language distinctions around death |
 | 身体強化魔法 | self-enhancement magic | body-enhancement magic, physical-enhancement magic, strengthening magic | magic that physically enhances its user |
+| 付与強化魔法 | enhancement magic | enchantment-enhancement magic | Iwatsura's magic that enhances others; project-original |
 | 魔法増幅率 | amplification ratio | amplification rate | measured spell-amplification performance |
 | 魔力励起 | magic excitation | magical excitation | activation response induced by magic power or an incantation |
 | 魔力励起状態 | magic-excitation state | magical-excitation state | active state in which a Gremlin responds to sound |
@@ -103,14 +129,15 @@
 | 焔魔法 | fire magic | flame magic | fire spell school originating with the Flame Witch |
 | 焔魔法基幹呪文 | fire-magic core spell | flame-magic core spell | basic spell of the fire-magic school |
 | 変身魔法 | transformation magic | shapeshifting magic | magic that transforms the caster's body |
-| オコジョ変身魔法 | stoat-transformation magic | stoat transformation spell | unstable self-only transformation magic used by Ohinata Kei |
+| オコジョ変身魔法 | stoat-transformation magic | stoat transformation spell | self-only transformation magic stabilized by Ohinata Kei |
 | 裏を渡り、蔡を吐けば、窮鼠も白獣 | Cross the underside, spit out the divination tortoise, and even a cornered rat becomes a white beast |  | stoat-transformation incantation; `蔡` has multiple dictionary senses, so this rendering is provisional |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
 | 射撃魔法 | shooting magic | projectile magic | basic ranged magic school |
 | 射撃魔法基幹呪文 | shooting-magic core spell | shooting magic core spell, projectile-magic core spell | basic spell of shooting-magic school; project-original |
 | 撃て[ア゙ー] | Fire[ア゙ー] | Fire[ー], Shoot[ー] | shooting-magic core spell; the reading begins with katakana `ア` plus dakuten |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
-| ヴァアラー | Vaa-ra | Vaara, Vahara | spoken magic-language form of `Freeze` |
+| 凍る[ドウ・] | Freeze[ドウ・] |  | interrupted freezing incantation; preserve source furigana; project-original |
+| ヴァアラー | Vaa-ra | Vaara, Vahara | spoken form; LOCK: furigana ヴアアラー |
 | 凍結魔法 | freezing magic |  | Blue Witch's freezing school |
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
@@ -118,6 +145,7 @@
 | 君よ[ゼィ] | You[ゼィ] | Ze'i[ゼィ], Zei[ゼィ] | living-addressee form in magic language |
 | 君よ[クケッフッ] | You[クケッフッ] | Kukehu[クケッフッ], Kukeffu[クケッフッ] | dead-addressee form in magic language |
 | 君よ、氷河に沈め。永久凍土に眠れ | You, sink beneath the glacier. Sleep in the permafrost! |  | Blue Witch's strongest freezing incantation |
+| 小石にも悩み事ぐらいあるさ[ツププヴイビイデイオーオ] | Even a pebble has its worries[ツププヴイビイデイオーオ] |  | Pebble Witch's basic golem incantation; project-original |
 | 安全音 | safety sound | safety phoneme | non-magical sound preventing accidental activation |
 | 迂回詠唱 | bypass incantation | detour incantation | human-pronounceable reconstructed spell |
 | 豊穣魔法迂回詠唱 | fertility-magic bypass incantation | fertility magic detour incantation | human-pronounceable fertility spell |
@@ -128,10 +156,12 @@
 | 吹奏儀式魔法七祭具 | Seven Wind-Instrument Ritual Implements | Seven Wind Ritual Implements | wind-instrument ritual-magic set |
 | 焦点杖 | focus wand | focal wand | wand that determines ritual magic's target |
 | 呪殺魔法 | death-curse magic | killing curse | curse that kills targets with insufficient magic power |
+| 魔法反射魔法 | magic-reflection magic | magic reflection spell | magic that returns a spell to its caster; project-original |
 | 迷子の霧 | Lost Mist | Mist of Lost Travelers | disorienting defensive mist |
 | 仮死状態 | suspended animation | apparent-death state, deathlike state | magic state difficult to sense; project-original |
 | 目玉[クンヌム] | Eyeball[クンヌム] | Eye[クンヌム] | eyeball-familiar core word; project-original |
-| 魔法系統カスタマイズ | magic-school customization | magic-system customization | wand tuning for one spell school |
+| 魔法系統カスタマイズ | magic-school customization | magic-system customization | wand customization by school; project-original |
+| 多層加工 | multilayer processing | multi-layer processing | layered Gremlin processing that raises magic power; project-original |
 | 魔力逆流防止機構 | backlash-prevention mechanism | magic-backflow prevention mechanism | wand mechanism reducing magic backlash |
 | 融解再凝固グレムリン | melt-recast Gremlin | remelted Gremlin, melted-and-resolidified Gremlin | inert Gremlin material used for magic resistance |
 | 正十二面体フラクタル | dodecahedral fractal | twelve-sided fractal | safety-lock Gremlin structure |
@@ -145,12 +175,17 @@
 | 不純物[インクルージヨン] | inclusions |  | gemological inclusions; preserve the source ruby notation |
 | 球形研磨加工 | spherical polishing |  | polishing Gremlins into spheres to raise amplification |
 | 固有色グレムリン | personal-color Gremlin | personal-colour Gremlin | recast Gremlin colored with an individual's blood |
-| マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color Gremlin with magic-recovery effect |
+| マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color, blood-matched: recovery +5% max. |
 | 御守り | amulet | charm | accessory that improves magic-power recovery |
 | 自己血鞣し | self-blood tanning | blood tanning | Tohoku method preserving magical monster materials |
 | マモノバサミ | Monster Trap | monster clamp, Mamono Trap | time-stasis trap magic tool |
-| 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis wand for Flame Witch |
+| 秘伝のタレ | secret sauce | secret sauce mixture | monster-meat detoxifying sauce of Tohoku; project-original |
+| ドラゴンポート | dragonport | dragon port | central-Tokyo dragon landing facility; project-original |
+| 火守乃杖 | Himori Wand | Firekeeper Wand | long-term stasis lantern-wand for Flame Witch |
 | 火蜥蜴 | fire salamander |  | small fire-breathing monster |
+| フクロスズメ | pouch sparrow |  | cargo-carrying sparrow magic beast; project-original |
+| 鉄鋼羊 | steel sheep | steel-wool sheep | fireproof-wool sheep magic beast; project-original |
+| 砲台鳳仙花 | turret balsam | cannon balsam | defensive seed-shooting plant magic beast; project-original |
 | 晶雨 | crystal rain | crystal hail | weather phenomenon that drops Gremlin crystals |
 | 鱗リス | scale squirrel | scaled squirrel, scaly squirrel | Ori's nickname for a squirrel-like monster that gathers scattered Gremlins |
 | 未確認生物[Unidentified Mysterious Animal] | unidentified mysterious animal[Unidentified Mysterious Animal] | cryptid | source's pseudo-English expansion of `UMA`; preserve the ruby notation |
@@ -200,6 +235,8 @@
 | 竜炉彫七層型青魔杖キュアノス | Dragon-Furnace-Carved Seven-Layer Blue Wand Cyanos | Dragon Furnace Carved Seven Layer Blue Wand Cyanos | full formal name of Cyanos / title-map term |
 | キュアノス | Cyanos | Kyanos | shortened wand name |
 | キュアノスＶｅｒ・２ | Cyanos Ver. 2 | Cyanos Version 2 | frost-resistant rebuilt Cyanos |
+| キュアノスＶｅｒ・２・２ | Cyanos Ver. 2.2 | Cyanos Version 2.2 | magic-school-customized Cyanos; project-original |
+| キュアノスＶｅｒ・２・３ | Cyanos Ver. 2.3 | Cyanos Version 2.3 | slime-filled updated Cyanos; project-original |
 | 正十二面体フラクタル型魔法杖アレイスター | dodecahedral fractal wand Aleister |  | Ohinata Kei's safety-lock wand |
 | アレイスター | Aleister | Alastair | shortened wand name |
 | アレイスター・クロウリー | Aleister Crowley |  | twentieth-century occultist referenced in naming Aleister |
@@ -208,11 +245,15 @@
 | メビウス連環錫杖ハリティ | Moebius-linked khakkhara Hariti |  | Hell Witch's seven-loop magic-stone staff |
 | ハリティ | Hariti |  | shortened staff name |
 | ブラッドムーン | Blood Moon | Bloodmoon | blood magic stone once held by Bloodsucking Mage |
+| 殺生石 | Killing Stone | Sessho-seki | gray Tohoku magic stone used for Giant Slayer; project-original |
+| 星天石 | Starry Sky Stone | Seiten-seki | black, inclusion-speckled Tohoku magic stone; project-original |
 | 血杖ヴァンピール | blood wand Vampir |  | Blood Moon wand used in Minato Ward operation |
 | ヴァンピール | Vampir | Vampire | shortened wand name |
 | メテオフレイム | Meteoflame | Meteor Flame | Dragon Witch's claimed name for Blood Moon |
 | 東北狩猟組合 | Tohoku Hunting Association | Touhoku Hunting Association | northeastern hunter organization |
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
+| 琵琶湖協定 | Lake Biwa Pact | Biwako Pact, Lake Biwa Agreement | large Japanese survivor community; project-original |
+| 荒瀧組 | Arataki Group | Arataki-gumi | large Japanese survivor community; project-original |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 交換市 | barter market | exchange market, trade fair | recurring market where goods are exchanged without currency; project-original |
 | 鯨油 | whale oil | whale-oil | oil from whale blubber |
@@ -229,6 +270,7 @@
 | 財宝管理官 | treasure custodian | treasure manager, treasure administrator | position Dragon Witch proposes for Ori |
 | 一期生 | first cohort |  | Tokyo Magic University's first student intake |
 | 二期生 | second cohort |  | Tokyo Magic University's second student intake |
+| 評価点 | evaluation points | merit points, evaluation score | Tokyo Magic University store-credit system; project-original |
 | 渡鴉[ワタリガラス] | Watarigarasu | Watari, Raven | Shirokarasu's Suginami underworld organization |
 | 白指 | White Fingers | white-fingered artisans | mark of wand artisans using fine Gremlin abrasive |
 | 無名叙事詩 | Nameless Epic | Anonymous Epic | hypothesized source text of all spell quotations |
@@ -246,13 +288,19 @@
 | 農林水産改革 | agriculture, forestry, and fisheries reforms | food-sector reform program | food-production recovery program |
 | ダイダラボッチ | Daidarabocchi |  | colossal territorial monster hunted by Tohoku Association |
 | 銃杖 | gun-wand | gun wand | firearm integrated with a magic wand |
-| 銃杖巨神殺し | gun-wand Giant Slayer |  | anti-Daidarabocchi gun-wand series |
+| 銃杖巨神殺し | gun-wand Giant Slayer |  | LOCK: title-case |
 | 封印弾 | sealing round | seal bullet | projectile carrying a sealing spell |
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
+| 山熊 | Mountain Bear |  | 40-meter Hokkaido giant magic beast; project-original |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
+| 仙台 | Sendai |  | Tohoku Hunting Association's base city; project-original |
+| 吾妻小富士 | Azuma-Kofuji |  | mountain summit by the Daidarabocchi watchtower; project-original |
+| 西吾妻山 | Mount Nishi-Azuma | Nishi-Azuma Mountain | site of Murakumo's Daidarabocchi watchtower; project-original |
+| 仙台東照宮 | Sendai Toshogu |  | Tohoku Hunting Association administrative center; project-original |
 | 多摩川 | Tama River | Tamagawa River | major river running from Okutama through Tokyo |
 | 奥多摩湖 | Lake Okutama | Okutama Lake | reservoir in western Tokyo |
+| 猪苗代湖 | Lake Inawashiro | Inawashiro Lake | Fukushima lake at center of Daidarabocchi territory |
 | 武蔵村山 | Musashimurayama | Musashi Murayama, Musashi-Murayama | city in Dragon Witch's three-city territory |
 | 東大和 | Higashiyamato | Higashi Yamato, Higashi-Yamato | city containing Dragon Witch's nest |
 | 東村山 | Higashimurayama | Higashi Murayama, Higashi-Murayama | city in Dragon Witch's three-city territory |
@@ -298,9 +346,13 @@
 | 純米大吟醸 | junmai daiginjo | pure-rice daiginjo | premium sake grade |
 | 麻雀[マージヤン] | mahjong[マージヤン] |  | game name with source reading preserved |
 | 麻雀 | mahjong |  | Japanese tile game |
+| 新通貨 | new currency | new coinage | shared currency of Tokyo, Tohoku, and Hokkaido; project-original |
 | 過剰性能[オーバースペツク] | overpowered[オーバースペツク] | overspecced, over-specced | Hiyori's description of Cyanos's excessive capability |
 | 材料工学 | materials science | materials engineering | study of material properties and processing |
 | 魔法火 | magical fire | magic fire | fire produced by magic |
+| ドラゴン髄液 | dragon marrow fluid | dragon spinal fluid | high-output liquid propellant for Sanukino's hand cannon; project-original |
+| ハンドカノン | hand cannon | handcannon | Sanukino's heavy firearm; project-original |
+| 凝固スライムアンプル | hardened-slime ampoule | solidified-slime ampoule | hand-cannon propellant container; project-original |
 | 自然火 | natural fire | mundane fire, physical fire | nonmagical fire |
 | グレムリン融解合成実験 | Gremlin melt-synthesis experiment | Gremlin fusion experiment | early attempt to combine Gremlins through melting; project-original |
 | グレムリン融解染色実験 | Gremlin melt-dyeing experiment | Gremlin coloring experiment | Ori's experiment coloring molten Gremlins; project-original |
@@ -314,6 +366,10 @@
 | 汎用量産型魔法杖 | general-purpose, mass-produced magic wand | general mass-production wand | standard wand Ori produces for broad use |
 | 魔力逆流防止魔法杖 | backlash-prevention magic wand | magic-backflow-prevention wand | requested wand designed to reduce magic backlash; project-original |
 | 魔法発動媒体 | magic-activation medium | spell medium | material through which magic is activated |
+| 魔工具 | magic tool | magic-tool | Ori's coined term for monster-material craft tools; project-original |
+| 魔法道具職人 | magic-item maker | magic tool maker, magic-item craftsman | maker of practical magic items; project-original |
+| 編立職人[ニツター] | knitter[ニツター] |  | specialist who knits steel-sheep wool garments; project-original |
+| 原型師 | master pattern maker | model maker, master die maker | craftsperson producing coin-die originals; project-original |
 | 焔よ[ジン・ガ] | Flame[ジン・ガ] | O Flame, Fire[ジン・ガ] | fire-magic core spell; project-original |
 | 魔術師[ウイザード] | wizard[ウイザード] | mage[ウイザード] | ordinary magic-trained human; project-original |
 | 物理火 | natural fire | physical fire, mundane fire | nonmagical fire; project-original |
@@ -327,6 +383,7 @@
 | 魔力逆流テスト | magic-backlash test | magic-backflow test | wand backlash test; project-original |
 | 魔力逆流カット率 | magic-backlash reduction rate | magic-backflow cut rate | backlash percentage reduced; project-original |
 | 魔力逆流軽減 | magic-backlash reduction | magic-backflow mitigation | reduced backflowing magic power; project-original |
+| 魔力回復促進効率 | magic-power-recovery acceleration efficiency | magic recovery efficiency | efficiency of the amulet's recovery effect; project-original |
 | 汎用魔法杖 | general-purpose magic wand | generic magic wand | standard broad-use wand; project-original |
 | 魔力逆流防止加工 | backlash-prevention modification | magic-backflow-prevention processing | wand modification reducing backlash; project-original |
 | さいたま市 | Saitama City | Saitama city | city in Saitama Prefecture; project-original |
@@ -334,6 +391,8 @@
 | テスラバルブ | Tesla valve | Tesla Valve | one-way valveless conduit used as the model for a backlash-prevention design; project-original |
 | グレムリン工学科 | Department of Gremlin Engineering | Gremlin Engineering Department, Gremlin engineering department | Tokyo Magic University department; project-original |
 | 魔法言語学科 | Department of Magic Linguistics | Magic Linguistics Department, magic linguistics department | Tokyo Magic University department; project-original |
+| 魔法医学科 | Department of Magic Medicine | Magic Medicine Department, magic-medicine department | Tokyo Magic University department; project-original |
+| 魔物学科 | Department of Monster Studies | Monster Studies Department, monster-studies department | Tokyo Magic University department; project-original |
 | 半田研究室 | Handa Laboratory | Handa Lab | Gremlin-engineering research group; project-original |
 | 研磨剤 | abrasive | polishing powder, abrasive powder | Gremlin powder used for polishing; project-original |
 | 研磨 | polishing | grinding | Gremlin-processing method; project-original |
@@ -353,7 +412,9 @@
 | 荒川の魔法使い | Arakawa Mage | Mage of Arakawa | Male / former Arakawa Ward mage; project-original |
 | お弟子くん | apprentice-kun |  | Hell Witch's address for Ori under his apprentice cover; project-original |
 | 魔法暴走 | runaway magic | magic rampage, berserk magic | uncontrolled continuing spell effect; project-original |
+| 動物の潜在的変異可能性検査法 | latent animal-mutation test | animal mutation-potential test | screening livestock for potential monster mutation; project-original |
 | 同時詠唱 | simultaneous incantation | simultaneous casting, concurrent incantation | casting multiple spells at once; project-original |
+| 時間加速魔法 | time-acceleration magic | time acceleration spell | Daidarabocchi's spell negating time delay; project-original |
 | 異常震動 | abnormal vibration | anomalous vibration | destructive vibration during simultaneous incantation; project-original |
 | メビウス加工 | Moebius processing | Mobius processing | Gremlin processing into a Moebius-ring shape; project-original |
 | 錫杖 | khakkhara | pilgrim's staff, monk's staff | ringed Buddhist staff; project-original |
@@ -366,6 +427,17 @@
 | 堅パン | hardtack | hard bread | hard preserved biscuit; established translation |
 | 港区自治警備隊 | Minato Ward Civilian Guard | Minato Ward Self-Governing Guard | local civilian security force before Minato Ward fell; project-original |
 | 魔物分類表 | monster classification table | monster classification chart | operational monster danger and weakness guide; project-original |
+| 魔物脅威度早見表 | monster threat-level quick reference | monster threat chart | Tokyo Magic University threat classification guide; project-original |
+| 甲１類 | Class A-1 |  | monster threat classification; project-original |
+| 甲２類 | Class A-2 |  | monster threat classification; project-original |
+| 甲３類 | Class A-3 |  | monster threat classification; project-original |
+| 乙１類 | Class B-1 |  | monster threat classification; project-original |
+| 乙２類 | Class B-2 |  | monster threat classification; project-original |
+| 乙３類 | Class B-3 |  | monster threat classification; project-original |
+| 丙１類 | Class C-1 |  | monster threat classification; project-original |
+| 丙２類 | Class C-2 |  | monster threat classification; project-original |
+| 丙３類 | Class C-3 |  | monster threat classification; project-original |
+| 丙４類 | Class C-4 |  | monster threat classification; project-original |
 | 獣カマキリ | beast mantis | animal mantis, beast-mantis | chimera monster combining beast and mantis traits; project-original |
 | 小金井の魔女 | Koganei Witch | Witch of Koganei | deceased early-disaster witch; project-original |
 | 板橋の魔女 | Itabashi Witch | Witch of Itabashi | deceased Tokyo Council witch; project-original |
@@ -379,6 +451,10 @@
 | 君を愛している[ナトウ・ヤウエ] | I love you[ナトウ・ヤウエ] |  | death-curse magic incantation; project-original |
 | でも僕は悪魔だから[デンニエクララバアイエン] | But I'm a devil[デンニエクララバアイエン] |  | death-curse magic incantation; project-original |
 | これが僕の愛の形なんだよ[フクシツワクララフイフイ・ヤウエ] | This is what my love looks like[フクシツワクララフイフイ・ヤウエ] |  | death-curse magic incantation; project-original |
+| 誰よりもまず自分を愛しなさい[ンシユオンウータツほにやららヤーウエ] | Love yourself before anyone else[ンシユオンウータツほにやららヤーウエ] |  | magic-reflection incantation; project-original |
+| 狩りには三つあれば良い[×××キキレトエウエス・アイヤ]。武器と心構えと[ガルガ×ヲ×]、妻の見送りだ[ロロ・ラア] | A hunt needs only three things[×××キキレトエウエス・アイヤ]: a weapon and resolve[ガルガ×ヲ×], and a wife's farewell[ロロ・ラア] |  | Murakumo's hunting-magic incantation; project-original |
+| 忍び寄る魔物の背後に狩人は忍び寄った[モンノソユマムギスウラツ×××モンワソユ] | Behind the approaching monster, a hunter crept[モンノソユマムギスウラツ×××モンワソユ] |  | Murakumo's stealth-hunting incantation; project-original |
+| 狩るか狩られるか[×××・ポラ・××××] | Hunt or be hunted[×××・ポラ・××××] |  | Murakumo's high-risk hunting incantation; project-original |
 | 魔力欠乏失神 | magic-power-depletion fainting | magic-power deficiency fainting | loss of consciousness from depleted magic power; project-original |
 | 菌糸 | mycelium | fungal threads | invasive fungal network of mushroom disease; project-original |
 | キノコの魔物 | mushroom monster | mushroom creature | parasitic fungal monster; project-original |

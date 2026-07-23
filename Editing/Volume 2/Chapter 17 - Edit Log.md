@@ -1,0 +1,115 @@
+# Chapter 17 — Edit Log
+
+### Accuracy Fixes
+- **source line 10**: "raising and sending famous tea masters, literary greats, designers, singers, and others out into the world" → "nurturing famous tea masters, literary greats, designers, singers, and others and sending them out into the world" — accuracy
+- **source line 22**: "now he was alone too" → "now he was all alone" — accuracy
+- **source line 25**: "for having even one member survive" → "for having even one member carry on the bloodline" — accuracy
+- **source line 34**: "active on online auction sites" → "active on an online auction site" — accuracy
+- **source line 40**: "through dozens of successful auctions" → "through dozens of auctions Takuo had won" — accuracy
+- **source line 40**: "always spoke in rigidly standardized business writing" → "always wrote in rigidly standardized business language" — accuracy
+- **source line 52**: "be living in health and peace of mind" → "be living safely, in good health and at peace" — accuracy
+- **source line 55**: "pile money on his favorite craftsman" → "lavish money on his favorite craftsman" — accuracy
+- **source line 55**: "What a thing!" → "What a nightmare!" — accuracy
+- **source line 58**: "please have survived" → "please still be alive" — tense
+- **source line 70**: "trace the path of OK Workshop, the person whose fate concerned him most" → "track down OK Workshop, the person whose survival concerned him most" — accuracy
+- **source line 73**: "Their safety was completely unknown" → "He had no idea whether they were safe" — accuracy
+- **source line 88**: "the emptiness hollowed out in his chest was healing with time, and he learned firsthand, for better or worse, about the passage of time" → "the gaping hole in his chest was healing with time, making him keenly aware, for better or worse, of what time could do" — accuracy
+- **source line 91**: "his number-one favorite craftsman whom he had been so deeply into" → "the craftsman he had once been utterly obsessed with" — accuracy
+- **source line 106**: "between two feelings: whether to accept" → "between two impulses: to accept" — accuracy
+- **source line 106**: "to live while cherishing the memories of his beloved favorite" → "to live on while treasuring the memories of his number-one favorite" — accuracy
+- **source line 118**: "he could feel civilization declining against his skin" → "he could feel civilization's decline firsthand" — accuracy
+- **source line 121**: "People were plentiful where they were" → "Where there were people, there were plenty of them" — accuracy
+- **source line 124**: "yet truly taking up something new at fifty" → "truly taking up something new at fifty" — accuracy
+- **source line 124**: "among ordinary people" → "among civilians" — accuracy
+- **source line 130**: "Now Accepting Made-to-Order Requests for New Works!" → "Now Taking Made-to-Order Requests for New Works!" — accuracy
+- **source line 136**: "under a distribution system" → "under a rationing system" — glossary
+- **source line 136**: "had so many goods they constantly overflowed with them" → "were always stocked with an overflowing abundance of goods" — accuracy
+- **source line 154**: "the carefully displayed magic wand, complete with a velvet cushion" → "the magic wand carefully displayed on a velvet cushion" — accuracy
+- **source line 160**: "It's OK Workshop!!" → "It's by OK Workshop!!" — accuracy
+- **source line 181**: "What a thing! His chest burned at this miracle, as great as the return of God" → "What a miracle! It was as moving as the Second Coming. His chest grew hot" — accuracy
+- **source line 187**: "grabbed a staff member" → "stopped a staff member" — accuracy
+- **source line 199**: "We are only accepting made-to-order purchases" → "Purchases are only available by made-to-order request" — accuracy
+- **source line 205**: "by attending classes and submitting short papers" → "through classes and by submitting short papers" — accuracy
+- **source line 205**: "the better a life you can live" → "the better your life can be" — accuracy
+- **source line 211**: "desperately managing things behind the scenes" → "desperately making ends meet behind the scenes" — accuracy
+- **source line 214**: "More importantly, though, was not the policy unique to the magic university" → "What mattered now, though, wasn't the magic university's unusual policy" — accuracy
+- **source line 223**: "Could I ask for a barter?" → "Could we arrange a barter?" — accuracy
+- **source line 232**: "Even when he pressed further" → "When he still refused to let it go" — accuracy
+- **source line 232**: "sell to an unspecified number of people with uncertain identities" → "sell indiscriminately to people whose identities they could not verify" — accuracy
+- **source line 238**: "the limited sales as being because" → "that the sales were restricted precisely because" — accuracy
+- **source line 250**: "a hand-knit cover exclusively for microwaves with an excessive obsession with decorative stitching" → "a hand-knit microwave cover with a bizarre fixation on decorative stitching" — accuracy
+- **source line 250**: "a safe robot made by welding safes together" → "a safe robot made from a welded safe" — accuracy
+- **source line 262**: "he had dozens of the works made when this craftsman, who made such outstanding pieces, was still unknown in his home collection" → "his home collection held dozens of works made by this extraordinary craftsman back when no one knew their name" — accuracy
+- **source line 265**: "If a top-class craftsman as skilled as OK Workshop had not received any support at all" → "A top-class craftsman as skilled as OK Workshop surely would have risen to success on their own even without any support" — accuracy
+- **source line 280**: "a craftsman from long ago who had bloomed so greatly" → "from early on, a craftsman who had blossomed so spectacularly" — accuracy
+- **source line 291**: "then came home and just Googled it" → "then came home and Googled it like normal" — accuracy
+- **source line 297**: "were interrupted and did not connect to later culture" → "died out and never connected to later culture" — accuracy
+- **source line 297**: "Now I get it~!" → "That left me feeling like, Ohhh, now I get it!" — accuracy
+- **source line 300**: "an effective afterword" → "a de facto afterword" — accuracy
+- **source line 306**: "muddle through with these vague afterwords" → "fudge it with vague afterwords like this" — accuracy
+- **source line 309**: "Sometime in September 2025" → "One day in September 2025" — accuracy
+- [polish] **source line 4**: "had been a family of patrons" → "had been patrons" — polish
+- [polish] **source line 7**: "This wealthy family had, generation after generation, found people with talent who suffered from poverty" → "Generation after generation, this wealthy family had found talented people trapped by poverty" — polish
+- [polish] **source line 13**: "truly loved excellent art and found joy in helping it and spreading it" → "truly loved great art and found joy in supporting and sharing it" — polish
+- [polish] **source line 43**: "an adult capable of writing properly" → "an adult who knew how to write properly" — polish
+- [polish] **source line 46**: "Their real-life circumstances were unknown" → "He knew nothing about how they lived" — polish
+- [polish] **source line 49**: "The loss was terrifying" → "The sense of loss was terrifying" — polish
+- [polish] **source line 52**: "He did not even ask" → "He didn't even ask" — polish
+- [polish] **source line 55**: "he did not even know" → "he didn't even know" — polish
+- [polish] **source line 55**: "he could not make a bank transfer. He could not send supplies" → "he couldn't make a bank transfer. He couldn't send supplies" — polish
+- [polish] **source line 61**: "for all four years since" → "for the four years since" — polish
+- [polish] **source line 67**: "had countless black lines drawn through them" → "were crossed through with countless black lines" — polish
+- [polish] **source line 76**: "his home's exhibition room" → "the exhibition room at home" — polish
+- [polish] **source line 97**: "the warmth of handwork" → "the warmth of something handmade" — polish
+- [polish] **source line 100**: "the fucking huge feelings" → "the huge-ass feelings" — polish
+- [polish] **source line 103**: "There had already been no new work from OK Workshop for nearly four years" → "OK Workshop hadn't released anything new in nearly four years" — polish
+- [polish] **source line 103**: "there was no new stimulation" → "there was nothing new to excite him" — polish
+- [polish] **source line 112**: "the rumored magic university" → "the magic university he'd heard so much about" — polish
+- [polish] **source line 118**: "as someone who had experienced the population density of the overcrowded city's heyday" → "having lived through the overcrowded city's peak" — polish
+- [polish] **source line 124**: "were well along in years, truly taking up something new at fifty" → "were well into middle age or beyond, taking ‘learning at fifty’ literally" — polish
+- [polish] **source line 127**: "the campus store attached to the university grounds" → "the campus store" — polish
+- [polish] **source line 130**: "Now Taking Made-to-Order Requests for New Works!" → "Now Taking Orders for New Works!" — polish
+- [polish] **source line 136**: "were always stocked with an overflowing abundance of goods" → "had overflowed with goods around the clock" — polish
+- [polish] **source line 139**: "was curious about the banner and twisted his body into the crowd that was pushing and shoving" → "grew curious about the banner and squeezed into the jostling crowd" — polish
+- [polish] **source line 145**: "the front row of the gathered crowd" → "the front of the crowd" — polish
+- [polish] **source line 154**: "popped out from shock" → "popped out in shock" — polish
+- [polish] **source line 169**: "The staff member who had been pushing back people" → "A staff member busy holding back people" — polish
+- [polish] **source line 172**: "he could not restrain his feelings" → "he couldn't hold back his excitement" — polish
+- [polish] **source line 187**: "stopped a staff member who was stocking goods and spoke to them" → "flagged down a staff member who was stocking the shelves" — polish
+- [polish] **source line 199**: "Purchases are only available by made-to-order request" → "It's only available made-to-order" — polish
+- [polish] **source line 205**: "through classes and by submitting short papers" → "for taking classes and submitting short papers" — polish
+- [polish] **source line 205**: "the better things you can buy and the better your life can be" → "the nicer the things you can buy and the better you can live" — polish
+- [polish] **source line 217**: "He wanted to get his hands on the new work of his number-one favorite artist, whom he had met again through a miraculous twist of fate" → "He had to get his hands on this new work by his number-one favorite artist, reunited with him by a miraculous twist of fate" — polish
+- [polish] **source line 217**: "their skill had improved enormously compared with four years ago" → "their craftsmanship had improved over the past four years" — polish
+- [polish] **source line 226**: "we do not barter. The only thing you can use at the campus store is evaluation points" → "we don't barter. The campus store only accepts evaluation points" — polish
+- [polish] **source line 226**: "One hundred sixty evaluation points would be difficult unless you maintained grades a little above the average for your year" → "Earning 160 evaluation points would be tough unless you maintained slightly above-average grades for your year" — polish
+- [polish] **source line 226**: "You are here for the open campus" → "You're here for the open campus" — polish
+- [polish] **source line 229**: "While speaking, the staff member quickly finished stocking the goods, pushed their empty cart away, and headed into the back room" → "As they spoke, the staff member quickly finished stocking the goods, then pushed their empty cart into the back room" — polish
+- [polish] **source line 241**: "moved a little away" → "stepped a short distance away" — polish
+- [polish] **source line 241**: "quietly listened again to ... the awed voices of curious visitors" → "quietly listened to ... the admiring comments from curious visitors" — polish
+- [polish] **source line 244**: "The praise felt as good as if it were for him" → "Hearing the praise felt almost as good as being praised himself" — polish
+- [polish] **source line 253**: "at the cutting edge of the age" → "at the forefront of the new age" — polish
+- [polish] **source line 256**: "As one of their oldest fans, who had known OK Workshop since their earliest days as a skilled restoration specialist" → "Takuo had known OK Workshop since their earliest days as a skilled restoration specialist. As one of their oldest fans" — polish
+- [polish] **source line 259**: "Even if he could not get one himself" → "He might not be able to get one himself, but" — polish
+- [polish] **source line 268**: "He did not know how much Takuo's support" → "He didn't know how much his own support" — polish
+- [polish] **source line 277**: "going around talking up their old career" → "spreading word of their past activities" — polish
+- [polish] **source line 283**: "Unable to hold back his fully smug grin" → "Unable to wipe the utterly smug grin from his face" — polish
+- [polish] **source line 283**: "stood tall before the entire world" → "puffed out his chest at the entire world" — polish
+- [polish] **source line 286**: "Fufufufu...!" → "Heh heh heh heh...!" — polish
+- [polish] **source line 291**: "Manga do not have afterwords" → "Manga don't have afterwords" — polish
+- [polish] **source line 291**: "Movies do not either" → "Movies don't either" — polish
+- [polish] **source line 294**: "The basis is a little uncertain" → "The evidence is a little shaky" — polish
+- [polish] **source line 303**: "I do not write" → "I don't write" — polish
+- [polish] **source line 306**: "That is why" → "That's why" — polish
+
+### Register and Flow
+**Hinonoya Takuo / close-third narrator:** kept contemporary, fandom-heavy, and blunt; retained the source's escalation, profanity, and self-satisfied final boast without elevating the prose.
+
+**Author afterword:** kept the choppy conversational rhythm, the literal trip to the Amazon joke, and the deliberately loose research commentary.
+
+### Formatting Confirmed
+- Full 311-source-line scope audited in two chunks for accuracy, then polished once in the same order.
+- Hinonoya Takuo, OK Workshop, evaluation points, Tokyo Magic University, all four department names, magic wand, hardtack, dodecahedral fractal wand Aleister, Gremlin Disaster, amulet, and Tokyo Witches' Council verified against the glossary.
+- Narrative/direct-thought tense distinction, honorifics/name order, and absence of stray furigana verified; no footnotes required.
+- Literal Amazon travel joke retained; `令和七年九月某日` rendered as `One day in September 2025`.
+- `![p295.jpg](images/p295.jpg)` preserved exactly.

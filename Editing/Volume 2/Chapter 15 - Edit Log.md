@@ -1,0 +1,114 @@
+# Chapter 15 — Edit Log
+
+### Accuracy Fixes
+- **source line 31 (生理的嫌悪)**: "stirred up physiological disgust" → "provoked a visceral disgust response" — accuracy
+- **source line 55 (ムラのある二色の縞模様)**: "made a mottled two-color striped pattern of milky white and gold" → "had uneven stripes of milky white and gold" — accuracy
+- **source line 76 (病み上がりのところ)**: "I apologetically entrusted a letter to the Blue Witch while she was still recovering" → "although I felt bad asking while the Blue Witch was still recovering, I entrusted her with a letter" — referent
+- **source line 184 (染まっていた)**: "had dyed a vivid, beautiful blue" → "had come out a vivid, beautiful blue" — accuracy
+- **source line 190 (次は)**: "Next, I would mix two colors of Gremlin" → "Next, I'll mix two colors of Gremlin" — tense
+- **source line 193 (comparison plan)**: "they would probably lose ... I was sure ... how the marble mixed ... I also thought" → "they'll probably lose ... I'm sure ... how the marbling mixes ... I also think" — tense
+- **source line 220 (キャッツアイ)**: "like jewel cat's-eyes" → "like cat's-eye gemstones" — accuracy
+- **source line 229 (immediate analysis)**: "Eyeballs had blood vessels ... it did not seem strange" → "Eyeballs have blood vessels ... it wouldn't be strange" — tense
+- **source line 256 (摘まんだまま)**: "holding the Gremlin in the tongs" → "holding the Gremlin between her fingers" — referent
+- **source line 277 (回復促進効果があるって？)**: "It had a recovery-boosting effect?" → "It has a recovery-boosting effect?" — tense
+- **source line 331 (全ッ然分かんねぇ)**: "I could not tell at all ... I felt no such thing whatsoever" → "I can't tell at all ... I don't feel a thing" — tense
+- **source line 334 (immediate explanation)**: "she had said ... humans could not ... there was no way I could" → "she says ... humans can't ... there's no way I can" — tense
+- **source line 343 (effect assessment)**: "was not just interesting. It was a valuable effect" → "isn't just interesting. It's a valuable effect" — tense
+- **source line 346 (ガンガン魔法を使える)**: "you could use magic constantly" → "you can keep firing off magic" — voice
+- **source line 349 (気休め)**: "that was barely even a comfort" → "that's barely even a comfort" — tense
+- **source line 352 (ヒビ)**: "the recovery rate was low because the marble had cracks" → "the recovery rate is low because the marbled Gremlin has cracks" — tense
+- **source line 355 (size hypothesis)**: "If I made ... there was ... a Gremlin was" → "If I make ... there's ... a Gremlin is" — tense
+- **source line 358 (ガッカリするにはまだ早い)**: "It was too early to be disappointed" → "It's too early to be disappointed" — tense
+- **source line 361 (足がかりは掴んだ)**: "I had found a foothold" → "I've found a foothold" — tense
+- **source line 364 (data plan)**: "I just needed data ... Then I would see something" → "I just need data ... Then something will become clear" — tense
+- **source line 388 (マーブル)**: "embed marble in a wand" → "embed a marbled Gremlin in a wand" — glossary
+- **source line 415 (魔法使いっぽい)**: "This look was so wizard-like!" → "I look so wizard-like!" — tense
+- **source line 493 (物寂しい)**: "felt a little lonely" → "felt a little underwhelming" — accuracy
+- **source line 496 (prior breakthroughs)**: "multilayer processing's huge magic-amplification increase and an 85% magic-backlash cut" → "multilayer processing vastly amplifying magic and cutting magic backlash by 85%" — accuracy
+- [polish] **source line 4 (enemy maxim)**: "know the enemy" → "know your enemy" — polish
+- [polish] **source line 7 (research purpose)**: "so I could make sure this ... didn't end" → "so this ... wouldn't end" — polish
+- [polish] **source line 10 (disasters)**: "It was obviously far better if there were no" → "Obviously, we'd be far better off without" — polish
+- [polish] **source line 16 (medical research)**: "working hard to understand the principles behind it and prevent it from happening again through autopsies and the like" → "using autopsies and the like to work out the underlying mechanism and keep it from happening again" — polish
+- [polish] **source line 16 (Ori's aim)**: "make this mushroom useful to me" → "put this mushroom to use" — polish
+- [polish] **source line 19 (wand list)**: "make magic sealing wands ... or wands with a self-repair function from the mushrooms" → "use the mushrooms to make magic-sealing wands ... or self-repairing wands" — polish
+- [polish] **source line 31 (human-faced mushroom)**: "the human-faced mushroom that provoked a visceral disgust response" → "the viscerally disgusting human-faced mushroom" — polish
+- [polish] **source line 40 (uncertainty)**: "I didn't know" → "No idea" — polish
+- [polish] **source line 49 (size)**: "an ultra-tiny size smaller than a flea" → "smaller than a flea" — polish
+- [polish] **source line 52 (observation)**: "observed it, I got a good look at what made it unusual" → "examined it, I saw what made it unusual" — polish
+- [polish] **source line 76 (sample request)**: "I couldn't tell from the single mushroom that had grown from my head ... I entrusted her with a letter" → "One mushroom from my head wasn't enough to tell ... I gave her a letter" — polish
+- [polish] **source line 79 (sample halves)**: "Half of them were mushrooms from people ... the other half were mushrooms" → "Half came from people ... the other half from people" — polish
+- [polish] **source line 91 (absorbed amount)**: "the difference in the amount of magic power they sucked up" → "the difference in how much they absorbed" — polish
+- [polish] **source line 91 (size possibility)**: "could have been even bigger" → "could've been even bigger" — polish
+- [polish] **source line 103 (color hypothesis)**: "I guessed that the differences in the marbling's colors" → "I figured the differences in the marbling" — polish
+- [polish] **source line 106 (experiment term)**: "Gremlin melt-recast experiment" → "melt-recast Gremlin experiment" — polish
+- [polish] **source line 127 (solidification)**: "mixed it into melted electricity-grown milky-white Gremlin, and solidified it" → "mixed it into a melted, electricity-grown milky-white Gremlin, and let it solidify" — polish
+- [polish] **source line 145 (self-restraint)**: "I calmed myself down" → "I calmed down" — polish
+- [polish] **source line 151 (elapsed time)**: "It had not even been" → "It hadn't even been" — polish
+- [polish] **source line 154 (blood request)**: "It would not have been strange if she had refused my request ... but she did not particularly mind" → "I couldn't have blamed her for refusing ... but she didn't seem to mind" — polish
+- [polish] **source line 175 (dexterity aside)**: "It was not like I had ... I had only" → "It wasn't like I'd ... I'd only" — polish
+- [polish] **source line 178 (observing process)**: "had her watch the Gremlin melting and recasting work next to me, with blood components mixed in" → "let her watch me melt and recast the Gremlins (with blood components mixed in) from beside me" — polish
+- [polish] **source line 181 (quiet time)**: "did not say anything in particular and really just watched, but a calm ... time passed" → "didn't say anything and really did just watch, but it made for a calm ... time" — polish
+- [polish] **source line 187 (focus)**: "I concentrated instead of going off on a tangent" → "I stayed focused instead of going off on a tangent" — polish
+- [polish] **source line 196 (furnace and Blue Witch)**: "I lit the furnace again ... The Blue Witch ... spoke to me" → "While I lit the furnace again ... the Blue Witch spoke up" — polish
+- [polish] **source line 217 (individual differences)**: "There were individual differences in eyeball-familiar magic" → "Eyeball-familiar magic varied from person to person" — polish
+- [polish] **source line 229 (personal color)**: "the color unique to their magic" → "their personal magical color" — polish
+- [polish] **source line 235 (cooling cracks)**: "rapid cooling had put cracks through them ... white-and-blue marble and ... white-and-gold marble" → "rapid cooling had cracked them ... white-and-blue marbled Gremlin and ... white-and-gold one" — polish
+- [polish] **source line 268 (魔力操作)**: "I was manipulating magic power" → "I was controlling magic power" — polish
+- [polish] **source line 274 (surprise)**: "That surprised me a little" → "I was a little surprised" — polish
+- [polish] **source line 280 (expected discovery)**: "I had done ... I was not surprised" → "I'd done ... I wasn't surprised" — polish
+- [polish] **source line 286 (expectation)**: "That was not what I expected" → "Not what I expected" — polish
+- [polish] **source line 292 (request)**: "Interested, I asked" → "Curious, I asked" — polish
+- [polish] **source line 298 (gesture)**: "traced through the empty air" → "traced a pattern through the empty air" — polish
+- [polish] **source lines 301–304 (technical explanation)**: "there is probably ... cannot ... It is ... I would say ... is not accelerated" → "there's probably ... can't ... It's ... I'd say ... won't speed up" — polish
+- [polish] **source line 304 (Gremlin shorthand)**: "white-and-blue marble ... white-and-gold marble" → "white-and-blue marbled Gremlin ... white-and-gold one" — polish
+- [polish] **source line 307 (summary)**: "having marble mixed with your own blood" → "keeping a marbled Gremlin made with your own blood nearby" — polish
+- [polish] **source line 313 (distance rule)**: "you do not need ... If the marble" → "you don't need ... If the marbled Gremlin" — polish
+- [polish] **source line 325 (certainty)**: "It is slight" → "It's slight" — polish
+- [polish] **source line 328 (certainty tag)**: "stated that with certainty" → "sounded completely certain" — polish
+- [polish] **source line 340 (thinking action)**: "I thought as I rolled" → "I rolled ... and thought" — polish
+- [polish] **source line 361 (benefit)**: "profiting from mushroom disease" → "getting something useful out of mushroom disease" — polish
+- [polish] **source line 367 (sample term)**: "marble samples" → "marbled Gremlin samples" — polish
+- [polish] **source line 370 (statistical result)**: "possessing ... This had nothing to do with the marble's colors" → "having ... Its colors made no difference" — polish
+- [polish] **source line 373 (mixing)**: "how the marble mixed" → "how the marbling mixed" — polish
+- [polish] **source line 376 (visibility)**: "could not be seen" → "couldn't be seen" — polish
+- [polish] **source line 379 (cracks and shape)**: "Cracks in the marble also did not ... it was not ... did not seem ... did not affect" → "Cracks in the marbled Gremlin didn't ... it wasn't ... didn't seem ... didn't affect" — polish
+- [polish] **source line 382 (benefit)**: "increased magic-power recovery speed was not a function that hurt to have" → "faster magic-power recovery couldn't hurt" — polish
+- [polish] **source line 382 (value to Transcendents)**: "it was not something to laugh off" → "it wasn't something to laugh off" — polish
+- [polish] **source line 391 (fit)**: "I did not think it was suited to that" → "It didn't seem like a good fit" — polish
+- [polish] **source line 394 (standalone use)**: "putting marble into a magic wand" → "putting a marbled Gremlin into a magic wand" — polish
+- [polish] **source line 397 (accessories)**: "process the marble into accessories" → "process the marbled Gremlin into accessories" — polish
+- [polish] **source line 400 (converse)**: "did not improve ... meant, conversely" → "didn't improve ... meant, on the flip side" — polish
+- [polish] **source line 403 (rice-cooker joke)**: "It would be a pain if there were rice cookers that connected to the internet and walked on two legs. Functions that should be separated were better off separated" → "An internet-connected rice cooker that walked on two legs would just be a pain. Some functions were better kept separate" — polish
+- [polish] **source line 406 (wearable benefit)**: "Accessories that you could keep on all the time while leaving both hands free were better in that respect too" → "Accessories left both hands free and could be worn constantly, so they were better for that too" — polish
+- [polish] **source line 364 (data refrain)**: "Gather data" → "Collect more of it" — polish
+- [polish] **source line 409 (出発点)**: "had been my starting point" → "had set me on this path" — polish
+- [polish] **source line 418 (not cosplay)**: "It was not just cosplay ... had proper meaning and magic abilities hidden in them" → "It wasn't just cosplay ... served a real purpose and had real magical abilities" — polish
+- [polish] **source line 421 (excitement)**: "That moved me, and it was incredibly stimulating to my excitement circuits" → "That meant a lot to me, and it seriously fired up my excitement circuits" — polish
+- [polish] **source line 424 (selfie)**: "regretted that I could not take a selfie" → "wishing I could take a selfie" — polish
+- [polish] **source line 439 (confusion)**: "When I said that, wondering what was so strange" → "When I asked, confused" — polish
+- [polish] **source line 457 (memory)**: "it was probably just a mistake in memory" → "I'd probably just misremembered" — polish
+- [polish] **source line 466 (acceptance)**: "I have never ... If you will ... I will" → "I've never ... If you'll ... I'll" — polish
+- [polish] **source line 472 (making one)**: "If that was the case, I would be happy to make one" → "In that case, I might as well make her one" — polish
+- [polish] **source line 475 (witch-like look)**: "I also had the desire to make her look like a witch, since she called herself one" → "I also want her to look like a witch if she's going to call herself one" — polish
+- [polish] **source line 478 (equipment gag)**: "now she would have ... had grown up so well" → "now she's going to carry ... has come so far" — polish
+- [polish] **source line 484 (snow-crystal design)**: "A six-petal snow crystal was a shape made as snow crystals grew their ice-tree branches" → "A six-petaled snow crystal took shape as a snowflake grew its icy branches" — polish
+- [polish] **source line 484 (suitability)**: "It was a suitable design ... to wear" → "It was a fitting design" — polish
+- [polish] **source line 490 (success)**: "Good. She liked it" → "Glad it went over well" — polish
+- [polish] **source line 496 (prior breakthroughs)**: "multilayer processing vastly amplifying magic and cutting magic backlash by 85%" → "the vast magic amplification from multilayer processing and an 85% cut in magic backlash" — polish
+- [polish] **source line 499 (normal beginning)**: "Normally, this was how things started" → "That was how things normally started" — polish
+- [polish] **source line 514 (delegation)**: "I would dump" → "I'd dump" — polish
+- [polish] **source line 517 (university's job)**: "was not my job" → "wasn't my job" — polish
+- [polish] **source line 520 (reopening)**: "the university, which had suspended classes, would reopen" → "the university would reopen ... after suspending classes" — polish
+- [polish] **source line 523 (break)**: "I am going to take a break" → "I'm going to take a break" — polish
+
+### Register and Flow
+**Ori Kenshi:** Kept his first-person narration casual, technical, and abrupt; restored present-tense immediate analysis without elevating the surrounding past-tense narrative.
+
+**Blue Witch:** Kept her dialogue terse and controlled, with complete technical explanations and no added fillers.
+
+### Formatting Confirmed
+- Audited source lines 1–526 in three ordered chunks: 1–180, 181–360, and 361–526, first for accuracy and then once for polish.
+- Verified exact glossary forms, narrator ceiling and kill-list, honorific/name conventions, and narrative/direct-thought tense distinction.
+- Preserved `![p271.jpg](images/p271.jpg)` exactly in source order.
+- Retained one matched `[^1]` marker and historical seven-branched-sword note under a single terminal `## Translator Notes` section.
+- Confirmed no in-file title heading, no source furigana brackets in prose, and no added scene break.
