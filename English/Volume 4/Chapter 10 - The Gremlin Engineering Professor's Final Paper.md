@@ -218,7 +218,7 @@ He would carry out his final research as a Magic University professor.
 
 Before the words could sink into the gang boss's brain, the tremendous blast of the dynamite Handa had concealed blew away one professor's life and every thought he had, along with his bitter enemy.
 
-![p196-197.jpg](images/p196-197.jpg)
+![p196-197.jpg](localized-images/p196-197.jpg)
 
 ## Translator Notes
 
