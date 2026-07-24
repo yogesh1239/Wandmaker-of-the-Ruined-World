@@ -3,6 +3,9 @@
 ## Source Image Path + Type
 `Source/Volume 3/images/i-bookwalker.jpg` — retailer logo; text-bearing.
 
+## Shared Typesetting Standard
+Follow `Editing/image-localization-typesetting-style.md`.
+
 ## Verbatim Japanese
 - No Japanese text; visible trademark: `BOOK☆WALKER`
 
