@@ -13,3 +13,10 @@
 - The dense booklet pages `s-p004.jpg`–`s-p034.jpg` (except the explicit headings/labels transcribed in their individual specs) lack an authoritative OCR transcript. Their untranscribed regions are explicitly marked to remain unchanged.
 - Untranscribed small-text regions remain on `allcover-001.jpg`, `kuchie-001.jpg`–`kuchie-004.jpg`, `p010.jpg`, `p011.jpg`, `p292-293.jpg`, `p294-295.jpg`, `s-h1-4.jpg`, and `s-h2.jpg`.
 - `s-h3.jpg` is an intentionally retained Japanese colophon; gaiji assets are isolated glyphs and remain unchanged.
+
+## Coverage audit
+- Source assets inspected: **73**.
+- Text-bearing specs: **65**.
+- Verified clean illustrations: **8**.
+- Inventory result: **73/73 accounted for**, with no missing or multiply classified asset.
+- Existing rendered-output QA and the remaining work queue are recorded in `verification-ledger.md` and `render-queue.md`.
