@@ -3,3 +3,5 @@
 ![Volume 3 design page](localized-images/kuchie-005.png)
 
 ![Volume 3 title page](localized-images/titlepage.png)
+
+![Volume 3 contents](localized-images/toc-001.png)
