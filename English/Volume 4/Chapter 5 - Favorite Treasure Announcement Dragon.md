@@ -84,7 +84,7 @@ Kiwada tried to cut the rock-winged <ruby>gargoyle<rt>rock doll</rt></ruby> that
 
 She quickly pulled back her blade and slashed at it several times, but its crossed arms caught every strike, and it kicked her instead.
 
-![p116.jpg](images/p116.jpg)
+![p116.jpg](localized-images/p116.jpg)
 
 Kiwada caught the kick with her front legs, was blown back several meters, landed heavily on all fours, and cursed.
 
