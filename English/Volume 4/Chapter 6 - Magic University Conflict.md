@@ -382,7 +382,7 @@ Rescue would surely, definitely come.
 
 In agony, Nanase turned her back on the professor she respected and disappeared into the darkness of the school building to carry out the professor's instructions.
 
-![p142.jpg](images/p142.jpg)
+![p142.jpg](localized-images/p142.jpg)
 ## Translator Notes
 
 [^1]: **Yakuza** (ヤクザ): Japan's organized-crime groups; the ruby's upper gloss preserves the written “outlaws.”
