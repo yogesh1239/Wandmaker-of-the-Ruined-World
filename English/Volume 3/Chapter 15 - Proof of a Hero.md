@@ -128,7 +128,7 @@ He hoped the “congratulations” he forced out had sounded normal.
 
 She shone brighter looking at that proof of romance and love than she ever had laughing at one of his jokes or thanking him for a gift.
 
-![p219.jpg](images/p219.jpg)
+![p219.jpg](localized-images/p219.jpg)
 
 After that, Murakumo barely remembered how he had sent <ruby>Iwatsura<rt>Rabbit</rt></ruby> off to fight.
 
