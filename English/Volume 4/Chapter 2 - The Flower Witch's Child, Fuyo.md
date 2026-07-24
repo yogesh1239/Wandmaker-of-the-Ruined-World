@@ -22,7 +22,7 @@ Or rather, even the strength she'd used to hold me hadn't been enough to suggest
 
 R-Right?
 
-![p048.jpg](images/p048.jpg)
+![p048.jpg](localized-images/p048.jpg)
 
 She's not thinking something terrifying like, I'll squeeze my lifesaver to death, kill him, and suck him dry, right?
 
