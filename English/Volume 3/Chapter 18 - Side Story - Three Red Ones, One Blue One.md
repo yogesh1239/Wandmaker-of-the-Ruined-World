@@ -226,7 +226,7 @@ But she was bad at problems that could not be solved by defeating an enemy.
 
 Still, the Blue Witch, who had once been depressed because of that, was not so pessimistic now.
 
-![p284.jpg](images/p284.jpg)
+![p284.jpg](localized-images/p284.jpg)
 
 Ori would do the things she could not do.
 
