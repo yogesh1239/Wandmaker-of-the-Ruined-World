@@ -2,4 +2,4 @@
 
 ![s-h2.jpg](images/s-h2.jpg)
 
-![s-p003.jpg](images/s-p003.jpg)
+![s-p003.png](localized-images/s-p003.png)
