@@ -232,7 +232,7 @@ While drinking after-lunch tea—Professor Ohinata had brought the tea leaves—
 
 “Professor, I get the impression you're busy, but are you free today?”
 
-![p174.jpg](images/p174.jpg)
+![p174.jpg](localized-images/p174.jpg)
 
 “It's okay. I cleared my schedule for the whole day.”
 
