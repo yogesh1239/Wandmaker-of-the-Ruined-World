@@ -20,18 +20,18 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “That’s not true. I like the Blue Witch.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Capable, curious, solo-preferring; technically exacting, socially awkward, candid.
-- **Arc state:** Five Giant Slayers, fifteen sealing rounds complete; hunt uncompleted.
+- Curious, exacting, socially awkward, candid.
+- **Arc state:** In Okutama; gave Hiyori Wise Wand.
 
 ### Aoyama Hiyori / Blue Witch (青山ヒヨリ／青の魔女)
 **Japanese Name:** 青山ヒヨリ／青の魔女  
 **Gender:** Female  
-**Role:** Council powerhouse; Ori’s protector, courier, and friend.
+**Role:** Council powerhouse; Ori's friend with no heart and subfreezing core temperature.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — direct, neutral feminine self-reference.
 - **Formality level:** Plain, with complete but terse sentences.
-- **Speech style:** Blunt and practical; warmth appears through protective action rather than soft phrasing.
+- **Speech style:** Blunt, practical; warmth appears through protective action rather than phrasing.
 - **Address forms:** “Ori”; calls Kei “Kei-chan.”
 
 **Example Quotes:**
@@ -39,8 +39,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - “...That no-guard, one-hundred-percent-honest way you talk isn’t something I hate. Stay as you are, Ori.” (*Vol. 3, Ch. 1, 魔法系統カスタマイズ*)
 
 #### Personality
-- Powerful, vigilant, guilt-burdened; embarrassed by sincere intimacy, but practically caring.
-- **Arc state:** Her mask and Cyanos were chosen for the planned 50-yen coin.
+- Vigilant, guilt-burdened, and practically caring.
+- **Arc state:** At university; Wise Wand/robe wearer.
 
 ### Ohinata Kei (大日向慧)
 **Japanese Name:** 大日向慧  
@@ -58,9 +58,18 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Sociable, enthusiastic, and academically serious; her warmth puts strangers at ease, and she inherited her late father's magic-linguistics research.
-- **Arc state:** Commissioned Ori to make master patterns for the planned shared currency.
+- **Arc state:** Recovered; teaching resumed.
 
 ## SUPPORTING CHARACTERS
+
+### Fuyo (フヨウ)
+**Japanese Name:** フヨウ
+**Gender:** Female
+**Role:** Flower Witch's plant-bodied second daughter; whitewood lumber supplier.
+
+#### Personality
+- Bright, childlike, and Ori-focused.
+- **Arc state:** Rooted in Okutama; roots reach riverbank.
 
 ### Eyeball Witch (目玉の魔女)
 **Japanese Name:** 目玉の魔女  
@@ -78,7 +87,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Peaceable and considerate, but trusted to organize the Council’s response.
-- **Arc state:** She is coordinating Tokyo’s outside cooperation while supporting research into ritual magic.
+- **Arc state:** Freed; received five-layer Witch of Gaze.
 
 ### Dragon Witch (竜の魔女)
 **Japanese Name:** 竜の魔女  
@@ -97,7 +106,26 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Immensely capable but impulsive and easily motivated by payment or food.
-- **Arc state:** Spared after kidnapping Ori, she remains an essential long-range ally for distant operations.
+- **Arc state:** Holds Kiwada Yoko's magic stone and keeps her territory secure.
+
+### Spider Witch (蜘蛛の魔女)
+**Japanese Name:** 蜘蛛の魔女
+**Gender:** Female
+**Role:** Nerima spider witch; controls decoys.
+
+#### Speech Patterns
+- **Pronoun:** 私 — soft.
+- **Formality:** Hesitant casual.
+- **Address forms:** “0933”; “Professor Ohinata”; “Sugoi-san.”
+- **Tics:** Hedges; abrupt refusals.
+
+**Example Quotes:**
+- “Why aren't you scared...?”
+- “No! Please don't be afraid of me.”
+
+#### Personality
+- Reclusive; fear causes appetite.
+- **Arc state:** New Nerima home; hopes male friend visits.
 
 ### Foresight Mage (未来視の魔法使い)
 **Japanese Name:** 未来視の魔法使い  
@@ -115,7 +143,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Former office worker; exhausted, self-critical, praise-hungry, and persistent; pursues food relief and retirement farming, while reports also attribute covert, severe security work to him.
-- **Arc state:** Survived severe mushroom disease after receiving the antidote.
+- **Arc state:** Awake; received unnamed three-layer wand.
 
 ### Foresight Mage's Secretary (未来視の魔法使いの秘書)
 **Japanese Name:** 未来視の魔法使いの秘書
@@ -218,7 +246,16 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Hated gloomy moods and seeing gloomy faces; sociable, persistent, and fond of loud communal entertainment.
-- **Arc state:** Survived mushroom disease; mourning her trusted subordinates.
+- **Arc state:** Trusted again; received Gushiken Stakes.
+
+### Night Witch (夜の魔女)
+**Japanese Name:** 夜の魔女
+**Gender:** Female
+**Role:** Council night-magic witch; her husband named Nyx Cane.
+
+#### Personality
+- Insufficient evidence for a stable personality profile.
+- **Arc state:** Freed; received five-layer Nyx Cane.
 
 ### Handa Sakunosuke (半田作之助)
 **Japanese Name:** 半田作之助  
@@ -236,7 +273,23 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Survival hardened him and left him guilt-ridden; at the university he valued peaceful, trusted work and defended academically motivated experimentation.
-- **Arc state:** Amulet recovery efficiency now reaches 6%.
+- **Arc state:** Died self-detonating; boss survived, Hiyori killed him.
+
+### Nanase Nanami (七瀬七海)
+**Japanese Name:** 七瀬七海
+**Gender:** Female
+**Role:** Magic-linguistics associate professor devoted to Ohinata.
+
+#### Personality
+- Anxious but observant, fiercely protective, and indignant under pressure.
+- **Arc state:** Hidden and depleted; Hiyori carries her university intelligence.
+
+### Onigawara (鬼瓦)
+**Japanese Name:** 鬼瓦
+**Gender:** Male
+**Role:** Tokyo Magic University Combat Studies professor.
+
+- **Arc state:** Led the resistance attack; enemy retaliation devastated his wizard unit.
 
 ### Matsuo (松尾)
 **Japanese Name:** 松尾
@@ -271,7 +324,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Conscientious, skeptical, and shaped by hard survival decisions.
-- **Arc state:** Survived the Daidarabocchi hunt and remains engaged to Iwatsura.
+- **Arc state:** Married to Iwatsura after the Daidarabocchi hunt.
 
 ### Itazu (大熊[イタズ])
 **Japanese Name:** 大熊[イタズ]（本名：郷家春義[ごうけはるよし]）  
@@ -297,17 +350,36 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 **Role:** Tohoku Hunting Association witch.
 
 #### Speech Patterns
-- **First-person pronoun:** Not established in filed chapters.
-- **Formality level:** Not established.
-- **Speech style:** No direct dialogue recovered.
-- **Address forms:** Not established.
+- **First-person pronoun:** Not established.
+- **Formality level:** Polite-casual.
+- **Speech style:** Warm and brief.
+- **Address forms:** “Okyaku”; “Murakumo-san.”
 
 **Example Quotes:**
-- No direct dialogue; shares Okyaku's tent before the hunt. (*Vol. 3, Ch. 14, そんな人間、いるわけない*)
+- “Hey, Okyaku. About mailing the Daidarabocchi Gremlin—” (*Booklet: 俺が先に好きだったのに*)
+- “Were you in the middle of something?” (*Booklet: 俺が先に好きだったのに*)
 
 #### Personality
-- Insufficient evidence for a stable personality profile.
-- **Arc state:** Survived the Daidarabocchi hunt and remains engaged to Okyaku.
+- Warm and courteous.
+- **Arc state:** Married to Okyaku after the Daidarabocchi hunt.
+
+### Murakumo Kariya (村雲雁弥)
+**Japanese Name:** 村雲雁弥
+**Gender:** Male
+**Role:** Association mage; Daidarabocchi watcher.
+
+#### Speech Patterns
+- **First-person pronoun:** 私 — formal.
+- **Speech style:** Guarded aloud; thought turns blunt and jealous.
+- **Address forms:** “Okyaku-san.”
+
+**Example Quotes:**
+- “I'm grateful to hear that, but...” (*Booklet: 俺が先に好きだったのに*)
+- “I'll withdraw my resignation letter.” (*Booklet: 俺が先に好きだったのに*)
+
+#### Personality
+- Cautious; hides power and pain.
+- **Arc state:** Killed Arataki Kotaro to keep him from reaching Iwatsura.
 
 ### Sanukino Banzo (佐貫野伴造)
 **Japanese Name:** 佐貫野伴造  
@@ -326,7 +398,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Inventive, passionate, and grief-driven; deeply distrustful of Tokyo after his wife died of mushroom disease.
-- **Arc state:** Recognizes 0933's craft, though distrustful of Tokyo; Daidarabocchi hunt remains pending.
+- **Arc state:** Accepts 0933's craft despite distrust of Tokyo.
 
 ### Hakata Denjiro (博田伝次郎)
 **Japanese Name:** 博田伝次郎  
@@ -363,7 +435,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 
 #### Personality
 - Practical survivor, adapting to the Dragon Witch’s unpredictable rule.
-- **Arc state:** He administers her territory after surviving her abduction and proving compliant.
+- **Arc state:** His feigned betrayal secured Kiwada Yoko's defeat; he administers her territory.
 
 ### Food Team girl (project-original label)
 **Japanese Name:** 食料班の少女 (unnamed)
@@ -561,8 +633,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - No verbal dialogue: Tsubaki follows Ori's commands, breathes fire, and stops on cue. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Bossy, energetic, and food-motivated.
-- **Arc state:** After training, it obeys commands and controls fire, with camellia oil as its reward.
+- Bossy, territorial, gifted, and food-motivated.
+- **Arc state:** Trained, but music triggers dangerous fire-breathing.
 
 ### Sekitan (セキタン)
 **Japanese Name:** セキタン  
@@ -579,8 +651,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - No verbal dialogue: Sekitan obeys Ori's commands but warns Hiyori away with fire. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Relaxed, fire-basking, and food-motivated.
-- **Arc state:** After training, it obeys Ori's commands but still warns Hiyori away with fire.
+- Relaxed, imitative, and food-motivated.
+- **Arc state:** Killed a four-armed bear alone.
 
 ### Mokutan (モクタン)
 **Japanese Name:** モクタン  
@@ -597,8 +669,8 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 - No verbal dialogue: Mokutan joins the demonstration and follows Ori's commands. (*Vol. 3, Ch. 10, 魔獣たち*)
 
 #### Personality
-- Curious, people-friendly, and food-motivated.
-- **Arc state:** After training, it follows Ori's assemble, burn, and stop commands.
+- Curious, affectionate, and food-motivated.
+- **Arc state:** Trained, but music triggers dangerous fire-breathing.
 
 ## ORGANIZATIONS
 

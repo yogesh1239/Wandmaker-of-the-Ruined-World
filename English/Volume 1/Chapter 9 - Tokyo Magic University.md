@@ -244,7 +244,7 @@ Until then, magic had almost been the exclusive domain of Transcendents and mons
 
 First, incantations were hard to pronounce and included unpronounceable sounds. In other words, they were difficult—and sometimes impossible—to learn.
 
-Second, while the amount varied from person to person, most people had little magic power. Even the shooting-magic core spell `Fire[ア゙ー]`[^1]—written to mean `Fire` but read as `ア゙ー`—used the least magic power of any spell with human-pronounceable sounds, yet a single use drained them and made them faint.
+Second, while the amount varied from person to person, most people had little magic power. Even the shooting-magic core spell <ruby>A゙-<rt>Fire</rt></ruby>[^1]—written to mean `Fire` but read as `ア゙ー`—used the least magic power of any spell with human-pronounceable sounds, yet a single use drained them and made them faint.
 
 Third, many witches kept their own magic secret and didn't want their incantations spread.
 
@@ -262,7 +262,7 @@ The first cohort would be the first 30 in that chain. They needed the intelligen
 
 Next came the magic-power test.
 
-Both the original fertility magic and its bypass incantation were low-cost magic that used about as much magic power as `Fire[ア゙ー]`. But if the first cohort, expected to serve as teachers, fainted after reciting it only once, they couldn't even demonstrate it properly.
+Both the original fertility magic and its bypass incantation were low-cost magic that used about as much magic power as <ruby>A゙-<rt>Fire</rt></ruby>. But if the first cohort, expected to serve as teachers, fainted after reciting it only once, they couldn't even demonstrate it properly.
 
 Recitations that sounded like screaming beavers echoed through the exam hall. Only candidates with enough magic power to recite it at least five times without fainting remained. Those who fainted failed and were carried out of the hall.
 

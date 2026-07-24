@@ -82,13 +82,13 @@ I wanted to give this new custom magic wand a cool name worthy of it too, but if
 
 “Okay. What's your surname?”
 
-“It's 日森[ひもり].”
+“It's Himori.”
 
-“火守[ひもり], huh. That surname fits perfectly.”
+“<ruby>Himori<rt>Firekeeper</rt></ruby>, huh. That surname fits perfectly.”
 
 “Does it...?”
 
-On the wand's handle, I engraved 「火守乃杖[ひもりのつえ]」—Himori Wand—in a Japanese brush-lettering font. So cool~!
+On the wand's handle, I engraved “Himori Wand” in a Japanese brush-lettering font. So cool~!
 
 Names with lots of strokes, like “Scorching Heat Binding-Chain Wand” or “Crimson Lotus Sealing Wand,” were cool too. But when you get to be an expert like me, you can find “style” in this kind of simplicity instead. It's the same principle as how Amaterasu[^1] sounds cooler than “Ultimate Omnipotent Sun God.” I accept objections.
 
@@ -180,7 +180,7 @@ It was interesting data. If I figured out the principle, it seemed like a new fr
 
 Unless a second fire fairy was found, or the Flame Heir Witch kept using Himori Wand and data accumulated over the years, it would be impossible to investigate this fire-magic-buff phenomenon in depth.
 
-As its maker, I was happy that a portable sealing cage (封牢[ふうろう]) had shown the effects of a special wand.
+As its maker, I was happy that a portable sealing cage had shown the effects of a special wand.
 
 I hoped the Flame Heir Witch would keep using Himori Wand and rack up plenty more accomplishments.
 

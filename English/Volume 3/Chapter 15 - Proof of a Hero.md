@@ -84,27 +84,27 @@ Three people had initially been assigned to the Mount Nishi-Azuma watchtower, bu
 
 Monsters feared Daidarabocchi and did not go near its territory. The watchtower on the edge of that territory was mostly safe too. As long as he watched out for the territory expanding once every seven months, there would be no accidents.
 
-Murakumo's safe but lonely life as a watchtower attendant was eased by the monthly supply deliveries and by Iwatsura, the only woman in the Tohoku Hunting Association, who brought them on her regular patrol.
+Murakumo's safe but lonely life as a watchtower attendant was eased by the monthly supply deliveries and by <ruby>Iwatsura<rt>Rabbit</rt></ruby>, the only woman in the Tohoku Hunting Association, who brought them on her regular patrol.
 
-True to her name, Iwatsura was a witch with rabbit-like ears.
+True to her name, <ruby>Iwatsura<rt>Rabbit</rt></ruby> was a witch with rabbit-like ears.
 
 She was a slender, petite woman with pink hair, quick, light movements, and a cute face. Her personality was lively and approachable too, and before he knew it, she had completely captured Murakumo's heart.
 
-Iwatsura was the Tohoku Hunting Association's only woman and the only member not related by blood, yet her natural friendliness seemed to have let her fit smoothly into the organization.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was the Tohoku Hunting Association's only woman and the only member not related by blood, yet her natural friendliness seemed to have let her fit smoothly into the organization.
 
-Of course, the useful enhancement magic she wielded must have counted for a lot. Even so, there was no doubt that Itazu, the coordinator known as a stubborn old man, liked her because of the fine person she was.
+Of course, the useful enhancement magic she wielded must have counted for a lot. Even so, there was no doubt that <ruby>Itazu<rt>Great Bear</rt></ruby>, the coordinator known as a stubborn old man, liked her because of the fine person she was.
 
-Once a month, Iwatsura came with supplies, collected the Daidarabocchi observation log, exchanged small talk with him, and left.
+Once a month, <ruby>Iwatsura<rt>Rabbit</rt></ruby> came with supplies, collected the Daidarabocchi observation log, exchanged small talk with him, and left.
 
-After Murakumo realized how he felt, he made subtle approaches to Iwatsura. He asked about her tastes and tried cooking for her, or gave her a bookmark made from flowers in colors she liked.
+After Murakumo realized how he felt, he made subtle approaches to <ruby>Iwatsura<rt>Rabbit</rt></ruby>. He asked about her tastes and tried cooking for her, or gave her a bookmark made from flowers in colors she liked.
 
 More than once, he had considered telling her that he was a mage so he could get closer to her.
 
-But the words that rose to his throat always retreated whenever he saw the scarf around her neck. The scarf and the scars hidden beneath it always reminded him, whether he liked it or not, of the bloody hunting accident in which Iwatsura's neck had nearly come off.
+But the words that rose to his throat always retreated whenever he saw the scarf around her neck. The scarf and the scars hidden beneath it always reminded him, whether he liked it or not, of the bloody hunting accident in which <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s neck had nearly come off.
 
 Murakumo did not have the courage to throw away his quiet life as a watchtower attendant and jump into a life-or-death battlefield.
 
-She was cheerful, energetic, and bright, a woman who naturally used the power she had awakened for innocent people. If Iwatsura learned that Murakumo had power and was letting it lie unused, she would never think well of him.
+She was cheerful, energetic, and bright, a woman who naturally used the power she had awakened for innocent people. If <ruby>Iwatsura<rt>Rabbit</rt></ruby> learned that Murakumo had power and was letting it lie unused, she would never think well of him.
 
 Murakumo was more comfortable being thought of as an ordinary person with a little extra magic power who could handle himself.
 
@@ -112,25 +112,25 @@ Even if becoming anything more was difficult.
 
 Then the naivete of that thinking was thrown in his face without mercy.
 
-Just as he had been drawn to Iwatsura, why had he not thought that another man might be drawn to her too?
+Just as he had been drawn to <ruby>Iwatsura<rt>Rabbit</rt></ruby>, why had he not thought that another man might be drawn to her too?
 
-One winter day, Iwatsura came to the watchtower fully armed for the Daidarabocchi hunt. A silver ring shone on the ring finger of her left hand.
+One winter day, <ruby>Iwatsura<rt>Rabbit</rt></ruby> came to the watchtower fully armed for the Daidarabocchi hunt. A silver ring shone on the ring finger of her left hand.
 
 It was a wedding ring.
 
-Iwatsura noticed Murakumo staring at the ring in speechless shock, and she smiled shyly.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> noticed Murakumo staring at the ring in speechless shock, and she smiled shyly.
 
-“Oh, this? Okyaku asked me to marry him once we beat Daidarabocchi. We haven't had the ceremony yet. It's just the ring for now.”
+“Oh, this? <ruby>Okyaku<rt>Great Wolf</rt></ruby> asked me to marry him once we beat Daidarabocchi. We haven't had the ceremony yet. It's just the ring for now.”
 
 He hoped the “congratulations” he forced out had sounded normal.
 
-Iwatsura held the ring up to the sun and smiled with genuine happiness. She was more beautiful than he had ever seen her.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> held the ring up to the sun and smiled with genuine happiness. She was more beautiful than he had ever seen her.
 
 She shone brighter looking at that proof of romance and love than she ever had laughing at one of his jokes or thanking him for a gift.
 
 ![p219.jpg](images/p219.jpg)
 
-After that, Murakumo barely remembered how he had sent Iwatsura off to fight.
+After that, Murakumo barely remembered how he had sent <ruby>Iwatsura<rt>Rabbit</rt></ruby> off to fight.
 
 When he came to, he found himself up in the watchtower, standing blankly before the telescope.
 
@@ -156,9 +156,9 @@ I'm pissed off right now.
 
 Murakumo had never seen the actual magic items said to have been imported from the Tokyo Witches' Council for this hunt.
 
-But Itazu had gone so far as to retract his words that Daidarabocchi was not to be touched, so they had to be something extraordinary.
+But <ruby>Itazu<rt>Great Bear</rt></ruby> had gone so far as to retract his words that Daidarabocchi was not to be touched, so they had to be something extraordinary.
 
-Iwatsura's excitement right after last month's operation drill had shown that too. Weapons even better than Sanukino's masterpieces were beyond anything Murakumo could imagine.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby>'s excitement right after last month's operation drill had shown that too. Weapons even better than Sanukino's masterpieces were beyond anything Murakumo could imagine.
 
 In fact, after Daidarabocchi was hit by a special round called a sealing round fired by a sniper, it slowly stood up like a turtle and let out an unnaturally drawn-out roar.
 
@@ -170,7 +170,7 @@ Murakumo's mutated, superhuman vision showed him they were four mages and one wi
 
 Noticing the hunters approaching, Daidarabocchi spewed huge amounts of sickly purple gas from its waist. But a huge whirlwind suddenly sprang up and scattered the gas far into the sky.
 
-It was the magic of Aokera, a member of the Tohoku Hunting Association.
+It was the magic of <ruby>Aokera<rt>Serow</rt></ruby>, a member of the Tohoku Hunting Association.
 
 Even a huge whirlwind strong enough to blow houses away and grind them to pieces had no effect on Daidarabocchi.
 
@@ -190,7 +190,7 @@ Murakumo was sure they would win.
 
 The troublesome armor was destroyed. All that was left was to beat it to a pulp.
 
-*If it weren't for you, Iwatsura and I would surely be together by now.* Murakumo worked himself into an incoherent rage over that, but his excitement gradually cooled, and he started to feel uneasy.
+*If it weren't for you, <ruby>Iwatsura<rt>Rabbit</rt></ruby> and I would surely be together by now.* Murakumo worked himself into an incoherent rage over that, but his excitement gradually cooled, and he started to feel uneasy.
 
 The operation had gone smoothly through the destruction of the armor, but now it was starting to go wrong.
 
@@ -250,31 +250,31 @@ Even so, the hunters were veterans. The instant the five realized the danger, th
 
 The five scattered and fled in five directions.
 
-Having fully regenerated its entire body, Daidarabocchi grabbed a huge boulder from the mountain at its feet and began drawing back to throw it at one of the fleeing hunters—Okyaku.
+Having fully regenerated its entire body, Daidarabocchi grabbed a huge boulder from the mountain at its feet and began drawing back to throw it at one of the fleeing hunters—<ruby>Okyaku<rt>Great Wolf</rt></ruby>.
 
-Even from nearly 20 km away, Murakumo's mutated eyes could clearly see Okyaku's back as he fled without a glance to either side.
+Even from nearly 20 km away, Murakumo's mutated eyes could clearly see <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s back as he fled without a glance to either side.
 
 Something unsettling crossed Murakumo's mind.
 
-Iwatsura was not the one being targeted.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was not the one being targeted.
 
-It was the man who had won Iwatsura's heart while Murakumo had sat on his hands.
+It was the man who had won <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s heart while Murakumo had sat on his hands.
 
 Murakumo pictured something awful.
 
-Iwatsura, grieving after losing the man she had promised to marry. And Murakumo standing beside her, gently comforting her...
+<ruby>Iwatsura<rt>Rabbit</rt></ruby>, grieving after losing the man she had promised to marry. And Murakumo standing beside her, gently comforting her...
 
 ...Having thought that far, Murakumo gave a sharp laugh and raised his hands as if holding a bow and nocking an arrow in the empty air.
 
-Murakumo liked Iwatsura.
+Murakumo liked <ruby>Iwatsura<rt>Rabbit</rt></ruby>.
 
 No matter the reason, I don't want to see her cry.
 
-“A hunt needs only three things[×××キキレトエウエス・アイヤ]: a weapon and resolve[ガルガ×ヲ×], and a wife's farewell[ロロ・ラア].”
+“<ruby>××× Kikireto Euesu Aiya<rt>A hunt needs only three things</rt></ruby>: <ruby>Garuga× O×<rt>a weapon and resolve</rt></ruby>, and <ruby>Roro Raa<rt>a wife's farewell</rt></ruby>.”
 
 He poured in all the magic power he could, just short of runaway magic, and a golden bow and arrow with a soft phosphorescent glow formed in the empty air.
 
-“Behind the approaching monster, a hunter crept[モンノソユマムギスウラツ×××モンワソユ].”
+“<ruby>Monno Soyu Mamugisu Uratsu××× Monwa Soyu<rt>Behind the approaching monster, a hunter crept</rt></ruby>.”
 
 With the next incantation, the golden bow and arrow disappeared, leaving nothing in his hands but the feeling of it drawn taut.
 
@@ -282,7 +282,7 @@ All sound and scent vanished, and even the sense of its magic power grew faint.
 
 Murakumo did not hesitate over the incantation for a third spell he had never used before.
 
-“Hunt or be hunted[×××・ポラ・××××].”
+“<ruby>××× Pora ××××<rt>Hunt or be hunted</rt></ruby>.”
 
 The explosive increase in power came at a price: if he missed his target, the arrow would pierce him.
 
@@ -296,7 +296,7 @@ The killing arrow crossed the 20 km distance in just a few seconds, blew away Da
 
 He had not aimed for its head because he wanted to avoid any chance of missing such a small target.
 
-If he blew away its torso and forced it to spend time regenerating, he could buy Okyaku enough time to escape. Even if Okyaku could not get outside its territory, he could get beyond the range where its thrown rocks were guaranteed to hit.
+If he blew away its torso and forced it to spend time regenerating, he could buy <ruby>Okyaku<rt>Great Wolf</rt></ruby> enough time to escape. Even if <ruby>Okyaku<rt>Great Wolf</rt></ruby> could not get outside its territory, he could get beyond the range where its thrown rocks were guaranteed to hit.
 
 Murakumo had no magic power left to fire a second shot, but he held his follow-through and watched the battle.
 
@@ -336,9 +336,9 @@ Murakumo finally let out a long breath and sank to the floor.
 
 After a long battle of endurance, Daidarabocchi was dead.
 
-Iwatsura was safe.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was safe.
 
-Okyaku was alive too.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> was alive too.
 
 Could there be a happier ending than this?
 

@@ -102,7 +102,7 @@ But that didn't mean, “Everyone's suffering, so it's okay.”
 
 The Hell Witch nodded.
 
-“Sure, but only for a little while!! Even a flower without nectar may still have fragrance[×××エウズニムテイイ・ウエウエントウエスア].”[^1]
+“Sure, but only for a little while!! <ruby>××× Euzu Nimu Teii Ueuento Uesua<rt>Even a flower without nectar may still have fragrance</rt></ruby>.”[^1]
 
 The Hell Witch put her hand on the ground and chanted the incantation, making flowers grow from under the fallen leaves and form a flower crown.
 

@@ -70,3 +70,7 @@
 ### Formatting Confirmed
 - Whole source audited in three sequential chunks (lines 1–150, 151–300, and 301–442) for both accuracy and polish; glossary terms, all technical quantities, narrative/direct-thought tense, furigana handling, and creature cries verified.
 - No source scene breaks or image markers were present. One concise Genghis Khan lamb note remains; its marker, definition, and single terminal `## Translator Notes` section match.
+
+### Post-Migration Corrections
+- **source line 304 (羊肉[ジンギスカン])**: “<ruby>Genghis Khan lamb<rt>mutton</rt></ruby>” → “<ruby>jingisukan<rt>mutton</rt></ruby>” — accuracy
+- **translator note**: “Genghis Khan lamb” → “Jingisukan” — glossary

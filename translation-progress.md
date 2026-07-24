@@ -45,5 +45,52 @@ Status legend: `not-started` · `split` · `translating` · `editing` · `assemb
 | 18 | 崩壊世界の魔法杖職人 ２ 特装版小冊子　極秘資料 | Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files | not-started |
 | 19 | 電子書籍特典　書き下ろし短編『大利の絵』 | Ebook Bonus Original Short Story - Ori's Picture | not-started |
 
+## Volume 3 — 崩壊世界の魔法杖職人３
+| Ch | JP title | EN title | Status |
+|-|-|-|-|
+| 1 | 魔法系統カスタマイズ | Magic-School Customization | updated |
+| 2 | 東北狩猟組合の秘伝 | Secret Techniques of the Tohoku Hunting Association | updated |
+| 3 | 継火の魔女 | The Flame Witch | updated |
+| 4 | 火守乃杖 | Himori Wand | updated |
+| 5 | 闇商人、０９３３を語る | A Black Marketeer Talks About 0933 | updated |
+| 6 | 魔物素材を活用しよう | Let's Put Monster Materials to Use | updated |
+| 7 | 火蜥蜴 | Fire Salamander | updated |
+| 8 | 北海道魔獣農場の秘伝 | Secret Techniques of the Hokkaido Magic Beast Farm | updated |
+| 9 | 火蜥蜴といっしょ | Together with the Fire Salamanders | updated |
+| 10 | 魔獣たち | The Magic Beasts | updated |
+| 11 | 無名叙事詩仮説 | The Nameless Epic Hypothesis | updated |
+| 12 | 新時代の新通貨 | New Currency for a New Era | updated |
+| 13 | 銃杖巨神殺し | Gun-Wand Giant Slayer | updated |
+| 14 | そんな人間、いるわけない | No One Like That Could Exist | updated |
+| 15 | 英雄の証 | Proof of a Hero | updated |
+| 16 | 吹奏儀式魔法七祭具 | The Seven Wind-Instrument Ritual Implements | updated |
+| 17 | 魔力を測ろう！ | Let's Measure Magic Power! | updated |
+| 18 | 番外編　赤いのさんびき、青いのひとり | Side Story - Three Red Ones, One Blue One | updated |
+| 19 | 崩壊世界の魔法杖職人 ３ 小冊子　極秘資料 | Wand Maker of the Ruined World 3 Booklet - Top Secret Files | updated |
+| 20 | 電子書籍特典　書き下ろし短編『フクロスズメ馴致手引き』 | Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide | updated |
+
+## Volume 4 — 崩壊世界の魔法杖職人４
+| Ch | JP title | EN title | Status |
+|-|-|-|-|
+| 1 | 病気と療養 | Illness and Recovery | updated |
+| 2 | 花の魔女の子、フヨウ | The Flower Witch's Child, Fuyo | updated |
+| 3 | 平和を噛みしめる | Savoring Peace | updated |
+| 4 | 一番厄介な敵から潰す | Take Down the Most Troublesome Enemy First | updated |
+| 5 | 好きな財宝発表ドラゴン | Favorite Treasure Announcement Dragon | updated |
+| 6 | 魔法大学抗争 | Magic University Conflict | updated |
+| 7 | 陥落 | The Fall | updated |
+| 8 | 蜘蛛の魔女 | Spider Witch | updated |
+| 9 | 蜘蛛の糸 | The Spider's Thread | updated |
+| 10 | グレムリン工学教授の終止論文 | The Gremlin Engineering Professor's Final Paper | updated |
+| 11 | 最強の魔女 | The Strongest Witch | updated |
+| 12 | 残党狩り | Hunting Down the Remnants | updated |
+| 13 | 鎮まりたまえ | Be Still | updated |
+| 14 | オーリ・ケンシと十個の石 | Ori Kenshi and the Ten Stones | updated |
+| 15 | 磁場変化逆再生式魔力鍛錬法 | Magnetic-Field-Change Reverse-Playback Magic-Power Training Method | updated |
+| 16 | 賢者の杖 | Sage's Wand | updated |
+| 17 | 番外編　魔法建築家 | Side Story - Magic Architect | updated |
+| 18 | 崩壊世界の魔法杖職人 ４ 小冊子　極秘資料 | Wand Maker of the Ruined World 4 Booklet - Top Secret Files | updated |
+| 19 | 電子書籍特典　書き下ろし短編『大利の巣』 | Ebook Bonus Original Short Story - Ori's Nest | updated |
+
 ## Known issues / decisions
 - None.

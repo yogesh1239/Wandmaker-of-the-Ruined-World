@@ -38,7 +38,7 @@ Probably because the things they each wanted to protect weren't the same? Not th
 
 Now that she mentioned it, there had been some pretty obvious clues left behind. The kidnapping scene couldn't have been much more blatant.
 
-Good thing the culprit was a Dragon Witch[idiot] without the cunning to hide her crime~!
+Good thing the culprit was a <ruby>idiot<rt>Dragon Witch</rt></ruby> without the cunning to hide her crime~!
 
 “I'm worried about you, Ori. You were just kidnapped, and you're already wearing that carefree look. You don't have enough sense of danger. Even if you stay in Okutama, you could move to a house closer to Ome...”
 
@@ -164,9 +164,9 @@ To do that, I want to know how much magic power you have. I've heard you have a 
 
 When I asked again because I couldn't keep up, Professor Ohinata kindly rephrased it.
 
-“Um, how many times can you use the easiest magic in a row? You know, the spell where you shout `Fire[ア゙ー]` and shoot a white beam, like a screaming beaver.”
+“Um, how many times can you use the easiest magic in a row? You know, the spell where you shout <ruby>A゙-<rt>Fire</rt></ruby> and shoot a white beam, like a screaming beaver.”
 
-“Oh, that one. Hmm, come to think of it, I've never properly counted. How many? Around 50 or 60? I can fire Freezing Javelin[ドウ・ヴアアラー] three times. Four is impossible.”
+“Oh, that one. Hmm, come to think of it, I've never properly counted. How many? Around 50 or 60? I can fire <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby> three times. Four is impossible.”
 
 “Mm-hmm. Then I guess anything above this is impossible... You can just go by instinct, but which of these three would you like to learn: ‘familiar summoning,’ ‘creating Lost Mist,’ or ‘entering suspended animation’?”
 
@@ -182,7 +182,7 @@ If they called it suspended animation, I figured I wouldn't be able to move, but
 
 “All right. Then let's learn familiar-summoning magic. Um, the incantation goes like this.”
 
-Professor Ohinata wrote the ominous Japanese sentence “If it meant knowing my son was safe, I'd be willing to gouge out this eye[ヨモホロゲジュヤ・タケタテェエ、クンヌム・ワーア]” in large letters on a blank sheet of loose-leaf paper and showed it to me.
+Professor Ohinata wrote the ominous Japanese sentence “<ruby>Yomohoroge Jyuya Taketatee Kunnu-mu Wa-a<rt>If it meant knowing my son was safe, I'd be willing to gouge out this eye</rt></ruby>” in large letters on a blank sheet of loose-leaf paper and showed it to me.
 
 Okay, that was scary.
 
@@ -190,7 +190,7 @@ Okay, that was scary.
 
 “No, you don't gouge anything out. It's okay. The incantation just says that, and when you recite the spell, an eyeball familiar pops out.
 
-This familiar-summoning magic is Eyeball Witch-san's magic. The core word is `Eyeball[クンヌム]`. When you recite it, one eyeball familiar appears, and you can move it freely just by willing it. Besides sharing the familiar's vision, you can hear sounds through it and send your voice through it too. Being able to fly is a big deal too. Its maximum altitude is around 10 m above the ground, though.
+This familiar-summoning magic is Eyeball Witch-san's magic. The core word is <ruby>Kunnu-mu<rt>Eyeball</rt></ruby>. When you recite it, one eyeball familiar appears, and you can move it freely just by willing it. Besides sharing the familiar's vision, you can hear sounds through it and send your voice through it too. Being able to fly is a big deal too. Its maximum altitude is around 10 m above the ground, though.
 
 The feature of this magic is that once you cast it, you can leave it out until it's destroyed or you make it self-destruct. The user's maximum magic power stays reduced by the amount the spell consumed, and that amount won't recover while the familiar exists. For example, if Ao-san carries the familiar Ori-san summoned, you can communicate and call for help anytime in an emergency.”
 
@@ -224,13 +224,13 @@ The potential to bring back the internet and online shopping with enough of them
 
 Then let's practice right away. Okay, together in a loud voice!
 
-If it meant knowing my son was safe[ヨモホロゲジユヤタケタテエエ]!”
+<ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>!”
 
 “ヨモホロゲジュヤタケタテタッ... I tripped over it.”
 
 “Are you okay? Hmm, why don't you try pronouncing it slowly at first? `タケタテェエ` is especially easy to get tongue-tied on, so focus on that part.
 
-Okay, slowly, repeat after me! If I could know[タケタテエエ].”
+Okay, slowly, repeat after me! <ruby>Taketatee<rt>If I could know</rt></ruby>.”
 
 “タケタテーエ. No, that's wrong. タケタテッ, タケタケ... I'm gonna lose it.”
 

@@ -74,6 +74,22 @@ def test_macron_fails():
     rc, out = run("Ōtori is banned anyway, but ō alone must flag too.")
     assert rc == 1 and "macron" in out.lower()
 
+def test_banned_plain_ruby_parts_are_allowed_inside_canonical_ruby():
+    glossary = GLOSSARY + (
+        "| 大狼[オキヤク] | <ruby>Okyaku<rt>Great Wolf</rt></ruby> | "
+        "Okyaku, Great Wolf | name |\n"
+    )
+    rc, out = run("The <ruby>Okyaku<rt>Great Wolf</rt></ruby> arrived.", glossary=glossary)
+    assert rc == 0, out
+
+def test_plain_ruby_baseline_still_fails_term_lock():
+    glossary = GLOSSARY + (
+        "| 大狼[オキヤク] | <ruby>Okyaku<rt>Great Wolf</rt></ruby> | "
+        "Okyaku, Great Wolf | name |\n"
+    )
+    rc, out = run("Okyaku arrived.", glossary=glossary)
+    assert rc == 1 and "banned alias 'Okyaku'" in out, out
+
 if __name__ == "__main__":
     for f in [v for k, v in list(globals().items()) if k.startswith("test_")]:
         f()

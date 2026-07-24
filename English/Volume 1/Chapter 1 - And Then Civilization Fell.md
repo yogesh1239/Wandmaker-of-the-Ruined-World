@@ -198,7 +198,7 @@ I had planned to attach Okutameteorite to the tip of a magic wand and play at be
 
 For that, I'd carved a piece of wood from a Japanese pagoda tree, famous for its power to ward off evil, and carefully engraved it with an original magic pattern of my own. I'd also tinkered with the joint between the gem and handle, the protective resin, and the metal wire. I'd finished all the parts over the past seven days, so I was playing with resonance before putting it together.
 
-Of course, it was all make-believe. I was making the magic wand look convincingly real, but there was no way it could actually cast magic. It was only a cosplay prop, something that added a touch of immersion to the fiction of magic.
+Of course, it was all make-believe. I was making the magic wand look convincingly real, but there was no way it could actually cast magic. It was only a <ruby>cosplay<rt>costume</rt></ruby> prop, something that added a touch of immersion to the fiction of magic.
 
 At least, that was what it should have been.
 

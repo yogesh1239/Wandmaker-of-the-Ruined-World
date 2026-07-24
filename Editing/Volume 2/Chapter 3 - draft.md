@@ -118,7 +118,7 @@ The Blue Witch parroted the words back in shock.
 
 “Yeah, exactly. That's why your help is such a big deal. Seriously, thanks. If the reverberatory furnace is finished, I can move Gremlin research forward and probably raise magic-wand performance too, and I should be able to upgrade Cyanos. That isn't bad for the Blue Witch either, right?”
 
-“Why make Cyanos any more powerful? It's already overpowered[オーバースペツク] as it is. What are you planning to fight, Ori...?”
+“Why make Cyanos any more powerful? It's already overpowered as it is. What are you planning to fight, Ori...?”
 
 Even while grumbling, the Blue Witch didn't stop firing bricks. For all that, you really were a good person.
 
@@ -150,7 +150,7 @@ I-I'd seen this before~! Two months later, it was round two!
 
 I'd heard that the last “Fierce Battle! Strongest Transcendent Tournament!!” had been postponed for ten years due to the Foresight Mage's fierce opposition, which meant it was effectively canceled.
 
-I looked at the flyers to see what she was plotting this time. It was a mahjong tournament billed as “Heated Battle! Strongest Mahjong[マージヤン] Tournament!!!” This idea was tame compared with the last one. Then again, the last one had been way too much.
+I looked at the flyers to see what she was plotting this time. It was a mahjong tournament billed as “Heated Battle! Strongest Mahjong Tournament!!!” This idea was tame compared with the last one. Then again, the last one had been way too much.
 
 The mahjong tournament winner would get three sho[^1] of junmai daiginjo[^2], now a precious luxury, plus a championship trophy and the naming rights for a foal born that spring at the Tobacco Witch's ranch.
 

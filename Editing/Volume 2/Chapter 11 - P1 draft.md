@@ -164,13 +164,13 @@ Research by the Department of Gremlin Engineering had provided enough standard m
 
 Research by the Department of Monster Studies had produced a draft field manual that classified the danger level of monsters and described their traits and weaknesses.
 
-Several wizards[ウイザード] trained in the Department of Combat Studies volunteered for the recapture operation.
+Several wizards trained in the Department of Combat Studies volunteered for the recapture operation.
 
 The Tokyo Witches' Council judged that the time was ripe.
 
 The operation would go like this.
 
-A wizard[ウイザード] carrying a wand made with Blood Moon, the magic stone left behind by the Bloodsucking Mage, would serve as the spearhead and swiftly secure the center of Minato Ward.
+A wizard carrying a wand made with Blood Moon, the magic stone left behind by the Bloodsucking Mage, would serve as the spearhead and swiftly secure the center of Minato Ward.
 
 Using the remains of Tokyo Tower, they would build a watchtower and station a ritual magic group there. From high ground, they would watch all of Minato Ward and use ritual magic to curse every monster they spotted to death.
 

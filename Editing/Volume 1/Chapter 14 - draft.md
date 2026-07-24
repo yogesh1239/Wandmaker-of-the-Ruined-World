@@ -6,7 +6,7 @@ The world had changed drastically after the Gremlin Disaster, but changes in the
 
 Namely, crystal rain.
 
-This new type of weather, crystal rain—晶雨[しょうう]—was a rain of Gremlin crystals that had replaced thunderstorms, and it was a nuisance that dropped Gremlins from the sky. Electricity that should normally have built up inside cumulonimbus clouds and struck the ground as lightning had instead turned into Gremlins and showered down over the earth.
+This new type of weather, crystal rain, was a rain of Gremlin crystals that had replaced thunderstorms, and it was a nuisance that dropped Gremlins from the sky. Electricity that should normally have built up inside cumulonimbus clouds and struck the ground as lightning had instead turned into Gremlins and showered down over the earth.
 
 When it came down hard, it punched through umbrellas and battered roof tiles, causing leaks. It caused a surprising amount of property damage.
 

@@ -104,7 +104,7 @@ The fire salamanders went limp and let me do whatever. Th-This looked bad. It di
 
 “Mii...”
 
-“Wait, I'll light them now. Fire, fire, lighter! No, magic is faster. Flame[ジン・ガ]!”
+“Wait, I'll light them now. Fire, fire, lighter! No, magic is faster. <ruby>Jin Ga<rt>Flame</rt></ruby>!”
 
 I pulled Hendensho from the laundry basket, cast the spell, and relit the flames that had gone out on their tails. The fire salamanders immediately got their energy back.
 

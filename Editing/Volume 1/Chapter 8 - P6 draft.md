@@ -16,7 +16,7 @@ How had the fertility-magic bypass incantation, the culmination of magic-languag
 
 "First, fertility magic belongs to Flower Witch-san, who governs the area spanning Arakawa Ward and Taito Ward in Tokyo. Foresight-san offered her something in exchange for teaching him, and then he taught me.
 
-"The original incantation is 'The season of crystals comes around[グリスタ・ヒアーズイ]. May the spirit-world predator's blessing be upon us[ほにゃららウエウエント].' Humans can't pronounce it.[^3]"
+"The original incantation is '<ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>. <ruby>Honyarara Ueuento<rt>May the spirit-world predator's blessing be upon us</rt></ruby>.' Humans can't pronounce it.[^3]"
 
 "So the honyarara part is the unpronounceable sound?"
 
@@ -26,9 +26,9 @@ I tried to make the sound she described and gave up right away.
 
 There was no way I could pronounce that.
 
-"Every kind of magic has what we call a core word. Put simply, it's the basic spell. For Blue Witch-san, that would be Freeze[Vaa-ra]. Every incantation for every spell Blue Witch-san uses includes Freeze[Vaa-ra].
+"Every kind of magic has what we call a core word. Put simply, it's the basic spell. For Blue Witch-san, that would be <ruby>Vaa-ra<rt>Freeze</rt></ruby>. Every incantation for every spell Blue Witch-san uses includes <ruby>Vaa-ra<rt>Freeze</rt></ruby>.
 
-"When modifying a magic incantation, you can't change this core word. The core word is fixed. Luckily, Flower Witch-san's core word was May blessings be upon us[ウエウエント], so humans could pronounce it."
+"When modifying a magic incantation, you can't change this core word. The core word is fixed. Luckily, Flower Witch-san's core word was <ruby>Ueuento<rt>May blessings be upon us</rt></ruby>, so humans could pronounce it."
 
 "Are there core words you can't pronounce? I've heard that advanced spells have more unpronounceable sounds, but by that logic, a core word that's a basic spell would be the lowest-level spell, right?"
 
@@ -36,7 +36,7 @@ There was no way I could pronounce that.
 
 Professor Ohinata got into it, pretending to push up a pair of glasses that didn't exist as she answered.
 
-"There are cases where the core word itself is an advanced spell, like Foresight-san's 'Revelation[ほにやららクナツク].' Witches and mages who use magic schools built around advanced core words tend to take feedback damage from magic backlash, or lose control of their magic and cause secondary disasters."
+"There are cases where the core word itself is an advanced spell, like Foresight-san's '<ruby>Honiyarara Kunatsuku<rt>Revelation</rt></ruby>.' Witches and mages who use magic schools built around advanced core words tend to take feedback damage from magic backlash, or lose control of their magic and cause secondary disasters."
 
 "Whoa! Yeah, even the simplest kind of foresight seems like an advanced spell."
 
@@ -46,7 +46,7 @@ Even seeing one second into the future would make you unbeatable in sports or ma
 
 That meant no amount of magic-linguistics trickery could let an ordinary human use foresight magic. It was a Transcendent-only spell. Unfair.
 
-"In the original incantation, 'The season of crystals comes around[グリスタ・ヒアーズイ]. May the spirit-world predator's blessing be upon us[ほにゃららウエウエント],' 'The season of crystals comes around' is pronounceable and already a separate clause, so there's no need to change it. The core word can't be changed, so 'May blessings be upon us' is fixed too. All we need to do is rephrase 'spirit-world predator' using sounds humans can pronounce, but that's the hard part.
+"In the original incantation, '<ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>. <ruby>Honyarara Ueuento<rt>May the spirit-world predator's blessing be upon us</rt></ruby>,' 'The season of crystals comes around' is pronounceable and already a separate clause, so there's no need to change it. The core word can't be changed, so 'May blessings be upon us' is fixed too. All we need to do is rephrase 'spirit-world predator' using sounds humans can pronounce, but that's the hard part.
 
 "Ori-san, do you know what a spirit-world predator is?"
 
@@ -62,7 +62,7 @@ Professor Ohinata nodded knowingly at my immediate answer.
 
 "That's right. Of the 15 trial incantations, only one was confirmed to produce the same effect as the original. It goes like this.
 
-"'The season of crystals comes around[グリスタ・ヒアーズイ]. You[ゼイ], from a world different from the world reflected in your eyes[ダダニダオプトラエオオオ・プトラエ], may the blessing of one who is not eaten be upon us[ヒテイヒテイカパジヤウエウエント].'"
+"'<ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>. <ruby>Zei<rt>You</rt></ruby>, <ruby>Dadanidao Putoraeooo Putorae<rt>from a world different from the world reflected in your eyes</rt></ruby>, <ruby>Hitei Hitei Kapaja Ueuento<rt>may the blessing of one who is not eaten be upon us</rt></ruby>.'"
 
 "That's long!!"
 
@@ -76,7 +76,7 @@ It was like trying to have a business conversation with no loanwords allowed and
 
 "Understanding the sentence structure makes it a little easier to remember. But memorizing it should be easy for you, Ori-san.
 
-"Now then! That's enough theory. Let's practice the pronunciation. It's long, so we'll take it one phrase at a time. Repeat after me, and don't forget the safety sound. The season of crystals comes around[グリスタ・ヒアーズイ]."
+"Now then! That's enough theory. Let's practice the pronunciation. It's long, so we'll take it one phrase at a time. Repeat after me, and don't forget the safety sound. <ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>."
 
 "Gurista Hi-a-jui."
 

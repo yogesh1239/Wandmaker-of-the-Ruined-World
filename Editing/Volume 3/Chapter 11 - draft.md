@@ -272,7 +272,7 @@ From this, they had guessed that the many magic incantations might actually be e
 
 There is a type of magic called death-curse magic that curses someone to death. Its incantation goes like this.
 
-‘I love you[ナトウ・ヤウエ]. But I'm a devil[デンニエクララバアイエン]. This is what my love looks like[フクシツワクララフイフイ・ヤウエ].’”
+‘<ruby>Nato Yau-e<rt>I love you</rt></ruby>. <ruby>Dennie Kuraraba Aien<rt>But I'm a devil</rt></ruby>. <ruby>Fukushitsu wa Kurara Fuifui Yau-e<rt>This is what my love looks like</rt></ruby>.’”
 
 As she spoke, the professor wrote the translation of the incantation on a piece of notepaper.
 
@@ -282,7 +282,7 @@ I read the translation and recoiled. Isn't it seriously messed up that this inca
 
 “I had the same thought. Then, the incantation for the magic-reflection magic used by a witch from the Hokkaido Magic Beast Farm goes like this.
 
-‘Love yourself before anyone else[ンシユオンウータツほにやららヤーウエ].’”
+‘<ruby>Nshiyuon U-tatsu honiyarara Ya-ue<rt>Love yourself before anyone else</rt></ruby>.’”
 
 As she spoke, the professor wrote the translation of the reflection incantation beneath the translation of the death-curse incantation.
 

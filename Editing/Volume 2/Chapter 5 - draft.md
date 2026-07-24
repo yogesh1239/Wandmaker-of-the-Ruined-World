@@ -2,7 +2,7 @@ Magic backlash was a phenomenon that occurred when someone used advanced or powe
 
 Magic power that had been poured into a Gremlin or magic stone, or kept suspended in the air (Transcendents only), went out of control, took on the properties of the spell that had been cast, flowed backward into the body, and caused feedback damage.
 
-For example, if magic backlash happened with Freeze[ヴアアラー]-type magic, your body froze. If it happened with foresight magic, your head got wrecked. With eyeball magic, you went blind.
+For example, if magic backlash happened with <ruby>Vaa-ra<rt>Freeze</rt></ruby>-type magic, your body froze. If it happened with foresight magic, your head got wrecked. With eyeball magic, you went blind.
 
 If the backlash was bad, the magic went berserk and killed you in the end. Apparently Katsushika Ward had once been leveled because a mage let powerful magic go berserk. The mage himself supposedly blew apart and turned to dust. Way too scary.
 
@@ -10,7 +10,7 @@ Witches and mages could reduce feedback damage from this magic backlash by contr
 
 But magic-power control had its limits too. The Blue Witch had nearly let her magic go berserk when she froze the giant kaiju, and apparently every time the Foresight Mage looked into the distant future, it wrecked his brain and made him regress to a childlike state.
 
-The problem was ordinary people who couldn't control magic power and had only learned magic... wizards[ウイザード].
+The problem was ordinary people who couldn't control magic power and had only learned magic... wizards.
 
 Tokyo Magic University was currently struggling with this magic-backlash problem.
 
@@ -18,11 +18,11 @@ Even if a spell was pronounceable and you had enough magic power, there were man
 
 The prime example was fire magic.
 
-The Flame Witch's fire-magic core spell, "Flame[ジン・ガ]," cost very little magic power and needed only a short incantation, but fire magic in general was prone to causing magic backlash.
+The Flame Witch's fire-magic core spell, "<ruby>Jin Ga<rt>Flame</rt></ruby>," cost very little magic power and needed only a short incantation, but fire magic in general was prone to causing magic backlash.
 
 Making fire with magic didn't seem all that advanced, but even the simplest fire magic could melt ice from Great Glacier magic, which natural fire couldn't thaw. It probably had some kind of crazy advanced magical bonus effect built in by default.
 
-When an ordinary person used this "Flame[ジン・ガ]," they easily suffered magic backlash and got burned. They could activate the magic itself, but the benefits weren't worth the drawbacks.
+When an ordinary person used this "<ruby>Jin Ga<rt>Flame</rt></ruby>," they easily suffered magic backlash and got burned. They could activate the magic itself, but the benefits weren't worth the drawbacks.
 
 Since fire magic was drawing attention for cooking, heating, and as a fuel substitute, Professor Ohinata was working on magic-backlash prevention research alongside her classes.
 
@@ -44,7 +44,7 @@ Magic, after all.
 
 Magic solved everything.
 
-The fire-magic core spell "Flame[ジン・ガ]" kept burning in place for several minutes unless you waved the wand and fired it off. It was enough for a little cooking, lighting fires, boiling water, or reheating cooked food.
+The fire-magic core spell "<ruby>Jin Ga<rt>Flame</rt></ruby>" kept burning in place for several minutes unless you waved the wand and fired it off. It was enough for a little cooking, lighting fires, boiling water, or reheating cooked food.
 
 Apparently about one person in three had enough magic power to cast this magic, so if things went well, one fire user per household wasn't just a dream. Added up across all of Tokyo, it would make for some amazing fuel savings.
 
@@ -106,7 +106,7 @@ I quickly drew a simple diagram and showed it to the Blue Witch.
 
 "Whoa, you can draw such an accurate circle freehand? Also, Ori, you're using stick figures too."
 
-"Who cares? I can draw photorealistic pictures. You can cut corners when you can. So, what do you think? We send magic power along the black-arrow route, and magic power backflows along the white-arrow route, right? I think we could use a magic-resistant material in the handle of the magic wand[ワンド] between the magic stone and my right hand."
+"Who cares? I can draw photorealistic pictures. You can cut corners when you can. So, what do you think? We send magic power along the black-arrow route, and magic power backflows along the white-arrow route, right? I think we could use a magic-resistant material in the handle of the magic wand between the magic stone and my right hand."
 
 "...Hmm? No, I don't really get what you mean."
 
@@ -118,7 +118,7 @@ I quickly drew a simple diagram and showed it to the Blue Witch.
 
 After the Blue Witch put a hand to her chin and thought for a while, she pressed Cyanos to the paper she'd doodled on and cast a spell.
 
-"Let moonlight and cool breezes alike all become ice[××・××フイフイ・イイヴアアラー]."
+"<ruby>×× ×× Fuifui Ii Vaa-ra<rt>Let moonlight and cool breezes alike all become ice</rt></ruby>."
 
 The Blue Witch turned the paper into a thin sheet of ice, then opened and closed her hand as if checking the feeling and nodded.
 

@@ -40,7 +40,7 @@ Magic language had a very different sound system from Earth's languages. And it 
 
 Ohinata expected teaching him to be a 99.9% waste of time, but her first shock came when the stalker immediately repeated the incantation after hearing it once, without the slightest mistake.
 
-"Cross the underside[イエーヴ・ササ], spit out the divination tortoise[ニムテツトツタナ][^1], and even a cornered rat becomes a white beast[ヤオグ・ヤヨグ・エンイエンシユオア]."
+"<ruby>Ie-vu Sasa<rt>Cross the underside</rt></ruby>, <ruby>Nimutetsutotsutana<rt>spit out the divination tortoise</rt></ruby>[^1], and <ruby>Yaogu Yayogu Enien Shiyuoa<rt>even a cornered rat becomes a white beast</rt></ruby>."
 
 Then Ohinata got her second surprise.
 

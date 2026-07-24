@@ -12,11 +12,11 @@ Regarding the matter you asked about in your last letter, in short, it is likely
 
 Magic language draws very fine distinctions between life and death.
 
-For example, Great Glacier magic uses “You[ゼィ]” when addressing the living. When addressing the dead, “you” is “You[クケッフッ].”
+For example, Great Glacier magic uses “<ruby>Zei<rt>You</rt></ruby>” when addressing the living. When addressing the dead, “you” is “<ruby>Kukeffu<rt>You</rt></ruby>.”
 
 Such distinctions affect the conditions for activating magic.
 
-Zombie Witch-san's dead-subordination magic works on someone who is brain-dead even if their heart is still beating. Iruma Mage's puppetry magic reportedly loses its effect on creatures whose hearts have stopped.
+Zombie Witch-san's dead-control magic works on someone who is brain-dead even if their heart is still beating. Iruma Mage's puppetry magic reportedly loses its effect on creatures whose hearts have stopped.
 
 There is also the concept of “magical death,” with a word that describes never being able to use magic again as “death.”
 
@@ -62,7 +62,7 @@ Clear autumn skies. At last, it was harvest time.
 
 Standing on the ridge of the drained rice paddy, I readied Hendensho and cast fertility magic.
 
-"The season of crystals comes around[グリスタ・ヒアーズイ]. You[ゼイ], from a world different from the world reflected in your eyes[ダダニダオプトラエオオオ・プトラエ], may the blessing of one who is not eaten be upon us[ヒテイヒテイカパジヤウエウエント]."
+"<ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>. <ruby>Zei<rt>You</rt></ruby>, <ruby>Dadanidao Putoraeooo Putorae<rt>from a world different from the world reflected in your eyes</rt></ruby>, <ruby>Hitei Hitei Kapaja Ueuento<rt>may the blessing of one who is not eaten be upon us</rt></ruby>."
 
 A soft, sparkling wave rolled out of the wand and spread in a fan.
 
@@ -104,7 +104,7 @@ It looked like it would take a while before humanity could use fertility magic r
 
 A combine would've finished the rice harvest in no time, but doing it by hand took a while. Once I'd cut about half, I took a break, sat on the paddy ridge, and poured cold-brewed sencha from my water bottle into a cup.
 
-“Freeze[ヴアアラー].”
+“<ruby>Vaa-ra<rt>Freeze</rt></ruby>.”
 
 I drank the green tea I'd chilled ice-cold with magic and let out a satisfied breath.
 
@@ -196,7 +196,7 @@ I've hit my limit.
 
 I jumped to my feet, readied Hendensho, and shouted.
 
-“Draaaagon! Look over here! I'll fucking kill you! Freezing Javelin[ドウ・ヴアアラー]!”
+“Draaaagon! Look over here! I'll fucking kill you! <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>!”
 
 I chanted the strongest attack spell I could use, and a thick spear of ice shot out just as the incantation described. The spell could easily punch through a car door, but when the dragon turned around, the spear struck it between the eyes with a soft smack and fell to the ground.
 
@@ -421,11 +421,11 @@ Breathing hard, her greedy eyes gleaming, the Dragon Witch lumbered to her feet 
 
 I turned around, squeezed my eyes shut tight, and firmly covered them with both hands. After a rustling noise behind me, I heard an incantation.
 
-“Though this body is not human[カーマイカパジヤエンイエンシユオア・ウー], at least let my body be human-like[×××・×ダガド・ミエ・カーマイ].”
+“<ruby>Kamai Kapaja Enien Shiyuoa U<rt>Though this body is not human</rt></ruby>, <ruby>××× × Dagado Mie Kamai<rt>at least let my body be human-like</rt></ruby>.”
 
 Something popped like a balloon, and wind rushed past me. After a short pause, I heard another incantation.
 
-“If it flies through the sky[××××・××] and breathes fire[ニーテツテツタテ], even a lizard is a dragon[ナグ・ナズグ・エンイエンシユオア].”
+“<ruby>×××× ××<rt>If it flies through the sky</rt></ruby> and <ruby>Ni-tetsutetsutate<rt>breathes fire</rt></ruby>, <ruby>Nagu Nazugu Enien Shiyuoa<rt>even a lizard is a dragon</rt></ruby>.”
 
 There was another balloon-pop sound. Then she said, “That's enough. Look over here,” so I stopped covering my eyes and turned around.
 
@@ -461,7 +461,7 @@ Its shape was closer to an oval or a rectangular prism than a sphere.
 
 Hmm. If I made this into a necklace, would a baguette cut or an emerald cut suit it?
 
-The standard practice is to cut a gemstone so its inclusions[インクルージヨン] are hidden or hard to see. With this magic stone, though, showing them off will probably make it more beautiful.
+The standard practice is to cut a gemstone so its inclusions are hidden or hard to see. With this magic stone, though, showing them off will probably make it more beautiful.
 
 With something this big, the stone setting will need some extra thought too. A design that suits a small gem would probably look mismatched at this size. I'll need to draw several blueprints, make full-size wooden models, and...
 
@@ -857,7 +857,7 @@ The Blue Witch leveled Cyanos at her hip and delivered an absolute-zero declarat
 
 It wasn't a threat. I knew at once from her voice that she seriously meant to kill her.
 
-Despite her huge body, the Dragon Witch moved fast. She snatched up Okutameteorite and the red magic stone[Meteoflame], one in each hand, and took off with a rumble through the ground.
+Despite her huge body, the Dragon Witch moved fast. She snatched up Okutameteorite and the <ruby>Meteoflame<rt>red magic stone</rt></ruby>, one in each hand, and took off with a rumble through the ground.
 
 That bitch is trying to run!
 
@@ -865,7 +865,7 @@ The wind pressure from her takeoff alone knocked me over, but the Blue Witch did
 
 She aimed Cyanos at the dragon receding at rocket speed and chanted an incantation.
 
-“The pure white breathed by that monster blankets the world[マムギ×××・×××ヴアアラープトラエケーヤアブ・ト], and a season was added[マタ・ギツタガイダ].”
+“<ruby>Mamugi××× ×××Vaa-ra Putorae Ke-yabu To<rt>The pure white breathed by that monster blankets the world</rt></ruby>, and <ruby>Mata Gitsutagaida<rt>a season was added</rt></ruby>.”
 
 A huge white vortex suddenly appeared in the sky above the dragon, right where Cyanos pointed. It spun violently, swallowed the dragon, and drove her to the ground.
 
@@ -877,9 +877,9 @@ By the time the dragon's nest was covered in white frost and the whole area had 
 
 Heh. Serves her right. Sensei, please finish her off like that!
 
-“Ghk! Even the volcano could not bear that starlight[×××××キアキヤロヲウオリ],”
+“Ghk! <ruby>××××× Kiakiyaro Wouori<rt>Even the volcano could not bear that starlight</rt></ruby>,”
 
-“Freezing Javelin[ドウ・ヴアアラー].”
+“<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>.”
 
 A rapid shot of ice-spear magic punched clean through the Dragon Witch's jaw as she tried to recite an incantation and put up a last struggle, shutting her up.
 
@@ -963,7 +963,7 @@ The Dragon Witch got cocky now that she had people on her side. As the Blue Witc
 
 “That's right! Good job, Zaizen! Say more! Killing me would be a loss for the world!”
 
-“Dragon Witch-sama. I am terribly sorry, but please rest[だまつてろ].[^2]”
+“Dragon Witch-sama. I am terribly sorry, but <ruby>Shut up<rt>Please rest</rt></ruby>.[^2]”
 
 “...Hah. Fine. I'll spare her life, but this one needs to learn her lesson the hard way. I'll rip off one of her legs.”
 
@@ -1064,4 +1064,4 @@ I believe that.
 ## Translator Notes
 
 [^1]: **Daimyojin** (大明神): An exalted Shinto deity title; Ori uses it here to jokingly deify Professor Ohinata.
-[^2]: **Furigana mismatch — 「お休み下さい[だまつてろ]」:** The written text politely says “Please rest,” while the supplied reading says “Shut up.”
+[^2]: The ruby's baseline says “Shut up,” while its upper gloss preserves the politely written “Please rest.”

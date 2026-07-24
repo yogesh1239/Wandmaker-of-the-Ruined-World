@@ -184,7 +184,7 @@ The Blue Witch's words, meant to buy trust while hinting at a trump card and sto
 
 But true to his name, the Foresight Mage could see the future. To look ahead at the result of his choice, he chanted an incantation.
 
-"Tell me[^1], will there be a full moon next month?"
+"<ruby>××× Kunatsuku<rt>Tell me</rt></ruby>[^1], <ruby>Subasuhasu Toshiyachia<rt>will there be a full moon next month?</rt></ruby>"
 
 The Foresight Mage bragged that he could see the future, but nobody except him knew what he could actually see, or how much.
 
@@ -224,4 +224,4 @@ After all, he was the man who had made the magic wand Cyanos, which held the pow
 
 ## Translator Notes
 
-[^1]: The source writes “Tell me, will there be a full moon next month?” but supplies the spoken forms `×××クナツク` and `スバスハス・トシヤーチア`; `×××` redacts an unrenderable sound.
+[^1]: The ruby baselines transliterate the supplied spoken forms; `×××` redacts an unrenderable sound.

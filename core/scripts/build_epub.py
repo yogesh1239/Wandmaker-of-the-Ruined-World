@@ -131,6 +131,8 @@ CAUTION_BODY = (
 IMG_RE = re.compile(r"^!\[[^\]]*\]\(images/([^)]+)\)\s*$")
 HEAD_RE = re.compile(r"^#{1,6}\s+(.*)$")
 FNREF_RE = re.compile(r"\[\^(\d+)\]")
+INLINE_IMG_RE = re.compile(r"!\[([^\]]*)\]\(images/([^)]+)\)")
+RUBY_RE = re.compile(r"<ruby>(.*?)<rt>(.*?)</rt></ruby>", re.DOTALL)
 
 
 # --------------------------------------------------------------------------
@@ -144,10 +146,40 @@ def page_head(title, css_links):
             % (html.escape(title), links))
 
 
-def inline_md(text):
-    text = html.escape(text, quote=False)
+def inline_md(text, img_href_base=None):
+    """Render the deliberately small inline-Markdown subset used by chapters.
+
+    Raw HTML remains escaped except for the project's exact ruby form. Ruby is
+    parsed before escaping so the generated EPUB contains real EPUB3/HTML ruby,
+    not visible ``<ruby>`` source text. Inline gaiji images are also supported
+    inside a ruby base (some source readings contain an unencoded glyph).
+    """
+    img_href_base = img_href_base or "images/"
+    protected = []
+
+    def render_fragment(fragment):
+        fragment = html.escape(fragment, quote=False)
+        return INLINE_IMG_RE.sub(
+            lambda m: '<img class="gaiji" src="%s%s" alt="%s"/>' % (
+                img_href_base, html.escape(m.group(2), quote=True),
+                html.escape(m.group(1), quote=True)),
+            fragment,
+        )
+
+    def protect_ruby(match):
+        token = "\x00RUBY%d\x00" % len(protected)
+        protected.append(
+            "<ruby>%s<rt>%s</rt></ruby>"
+            % (render_fragment(match.group(1)), render_fragment(match.group(2)))
+        )
+        return token
+
+    text = RUBY_RE.sub(protect_ruby, text)
+    text = render_fragment(text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<em>\1</em>", text)
+    for i, ruby in enumerate(protected):
+        text = text.replace("\x00RUBY%d\x00" % i, ruby)
     return text
 
 
@@ -191,7 +223,7 @@ def build_chapter(ch, md_path, cfg):
         para = " ".join(s.strip() for s in block).strip()
         block.clear()
         if para:
-            out.append("<p>%s</p>" % apply_fnrefs(inline_md(para), ch_id))
+            out.append("<p>%s</p>" % apply_fnrefs(inline_md(para, img_base), ch_id))
 
     for line in lines:
         s = line.strip()
@@ -234,7 +266,7 @@ def build_chapter(ch, md_path, cfg):
             if not mm:
                 continue
             num, txt = mm.group(1), mm.group(2).strip()
-            txt = apply_fnrefs(inline_md(txt), ch_id)
+            txt = apply_fnrefs(inline_md(txt, img_base), ch_id)
             note_ids.append(num)
             out.append('<aside epub:type="footnote" id="fn-%s-%s">'
                        '<p><sup>%s</sup> %s '

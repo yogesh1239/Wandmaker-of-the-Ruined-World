@@ -94,7 +94,7 @@ Then I overheard the Blue Witch whispering to her.
 
 "Furry...?"
 
-"Ori is bad with people. I'm sure he has the kind of kink where he can only be attracted to animals."
+"Ori is bad with people. I'm sure he has the kind of kink where he can only be attracted to <ruby>beasts<rt>animals</rt></ruby>."
 
 "I-I see?"
 

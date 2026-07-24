@@ -86,9 +86,9 @@ Assuming they had the right hunting tools, that is.
 
 That was where the story finally involved me.
 
-Previously, Hiyori had pitched Okyaku of the Tohoku Hunting Association on magic wands.
+Previously, Hiyori had pitched <ruby>Okyaku<rt>Great Wolf</rt></ruby> of the Tohoku Hunting Association on magic wands.
 
-Okyaku had taken the proposal back with him and considered it using the product samples we had included free of charge.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> had taken the proposal back with him and considered it using the product samples we had included free of charge.
 
 Then the other day, an order form had finally arrived.
 
@@ -214,11 +214,11 @@ Backlash-prevention mechanisms: the latest type with magic-school customization.
 
 I made 15 sealing rounds by putting the leftover fragments from making the five cores to good use. That worked out to three for each hunter.
 
-Their name, written in Japanese-style cursive script, was “Giant Slayer.”[^1]
+Their name, written in Japanese-style cursive script, was “<ruby>Giant Slayer<rt>Giant-God Slayer</rt></ruby>.”[^1]
 
 I also made sure to number each of the five from No. 1 through No. 5.
 
-Daidarabocchi was called a giant, not a giant god, but I went with god because it sounded cooler. With things like this, whoever says it first wins. The written name “Giant God Slayer” looked way cooler than plain old “Giant Slayer.”
+Daidarabocchi was called a giant, not a giant god, but I went with god because it sounded cooler. With things like this, whoever says it first wins. The written name “Giant-God Slayer” looked way cooler than plain old “Giant Slayer.”
 
 Then, to show respect for the firepower assistants who had helped me, I secretly put a small fire salamander logo on the inside of the grips.
 
@@ -238,4 +238,4 @@ Hunt Daidarabocchi and make your name ring out!
 
 ## Translator Notes
 
-[^1]: **巨神[きよじん]殺し:** The inscription reads “Giant Slayer,” but uses 神 (“god”) instead of the usual 人 (“person/giant”); Ori chose the grander-looking kanji.
+[^1]: **<ruby>Giant Slayer<rt>Giant-God Slayer</rt></ruby>:** The reading means “Giant Slayer,” but the written form uses 神 (“god”) instead of the usual 人 (“person/giant”); Ori chose the grander-looking kanji.

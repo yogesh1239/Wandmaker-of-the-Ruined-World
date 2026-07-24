@@ -47,3 +47,8 @@
 - Exact `---` scene break, single `## Translator Notes`, footnote pair, and no in-file title heading verified.
 - 日森[ひもり] versus 火守[ひもり] and the 火守乃杖[ひもりのつえ] engraving gag verified; 封牢[ふうろう] retained as “sealing cage.”
 - Himori, Himori Wand, Flame Witch, Flame Heir Witch, 0933, magic item, Monster Trap, names, measurements, narrative/direct-thought tense, and source-significant furigana verified.
+
+### Post-Migration Corrections
+- **source line 130 (日森[ひもり])**: “日森[ひもり]” → “Himori” — accuracy (semantically identical reading)
+- **source line 133 (火守[ひもり])**: “火守[ひもり]” → “<ruby>Himori<rt>Firekeeper</rt></ruby>” — accuracy (restore semantic ruby)
+- **source lines 139 and 277**: “火守乃杖[ひもりのつえ] / 封牢[ふうろう]” → “Himori Wand / sealing cage” — glossary

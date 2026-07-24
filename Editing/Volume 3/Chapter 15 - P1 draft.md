@@ -84,27 +84,27 @@ Three people had initially been assigned to the Mount Nishi-Azuma watchtower, bu
 
 Monsters feared Daidarabocchi and did not go near its territory. The watchtower on the edge of that territory was mostly safe too. As long as he watched out for the territory expanding once every seven months, there would be no accidents.
 
-Murakumo's safe but lonely life as a watchtower attendant was eased by the monthly supply deliveries and by Iwatsura, the only woman in the Tohoku Hunting Association, who brought them on her regular patrol.
+Murakumo's safe but lonely life as a watchtower attendant was eased by the monthly supply deliveries and by <ruby>Iwatsura<rt>Rabbit</rt></ruby>, the only woman in the Tohoku Hunting Association, who brought them on her regular patrol.
 
-True to her name, Iwatsura was a witch with rabbit-like ears.
+True to her name, <ruby>Iwatsura<rt>Rabbit</rt></ruby> was a witch with rabbit-like ears.
 
 She was a slender, petite woman with pink hair, quick, light movements, and a cute face. Her personality was lively and approachable too, and before he knew it, she had completely captured Murakumo's heart.
 
-Iwatsura was the Tohoku Hunting Association's only woman and the only member not related by blood, yet her natural friendliness seemed to have let her fit smoothly into the organization.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was the Tohoku Hunting Association's only woman and the only member not related by blood, yet her natural friendliness seemed to have let her fit smoothly into the organization.
 
-Of course, the useful enhancement magic she wielded must have counted for a lot. Even so, there was no doubt that Itazu, the coordinator known as a stubborn old man, liked her because of the fine person she was.
+Of course, the useful enhancement magic she wielded must have counted for a lot. Even so, there was no doubt that <ruby>Itazu<rt>Great Bear</rt></ruby>, the coordinator known as a stubborn old man, liked her because of the fine person she was.
 
-Once a month, Iwatsura came with supplies, collected the Daidarabocchi observation log, exchanged small talk with him, and left.
+Once a month, <ruby>Iwatsura<rt>Rabbit</rt></ruby> came with supplies, collected the Daidarabocchi observation log, exchanged small talk with him, and left.
 
-After Murakumo realized how he felt, he made subtle approaches to Iwatsura. He asked about her tastes and tried cooking for her, or gave her a bookmark made from flowers in colors she liked.
+After Murakumo realized how he felt, he made subtle approaches to <ruby>Iwatsura<rt>Rabbit</rt></ruby>. He asked about her tastes and tried cooking for her, or gave her a bookmark made from flowers in colors she liked.
 
 More than once, he had considered telling her that he was a mage so he could get closer to her.
 
-But the words that rose to his throat always retreated whenever he saw the scarf around her neck. The scarf and the scars hidden beneath it always reminded him, whether he liked it or not, of the bloody hunting accident in which Iwatsura's neck had nearly come off.
+But the words that rose to his throat always retreated whenever he saw the scarf around her neck. The scarf and the scars hidden beneath it always reminded him, whether he liked it or not, of the bloody hunting accident in which <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s neck had nearly come off.
 
 Murakumo did not have the courage to throw away his quiet life as a watchtower attendant and jump into a life-or-death battlefield.
 
-She was cheerful, energetic, and bright, a woman who naturally used the power she had awakened for innocent people. If Iwatsura learned that Murakumo had power and was letting it lie unused, she would never think well of him.
+She was cheerful, energetic, and bright, a woman who naturally used the power she had awakened for innocent people. If <ruby>Iwatsura<rt>Rabbit</rt></ruby> learned that Murakumo had power and was letting it lie unused, she would never think well of him.
 
 Murakumo was more comfortable being thought of as an ordinary person with a little extra magic power who could handle himself.
 
@@ -112,25 +112,25 @@ Even if becoming anything more was difficult.
 
 Then the naivete of that thinking was thrown in his face without mercy.
 
-Just as he had been drawn to Iwatsura, why had he not thought that another man might be drawn to her too?
+Just as he had been drawn to <ruby>Iwatsura<rt>Rabbit</rt></ruby>, why had he not thought that another man might be drawn to her too?
 
-One winter day, Iwatsura came to the watchtower fully armed for the Daidarabocchi hunt. A silver ring shone on the ring finger of her left hand.
+One winter day, <ruby>Iwatsura<rt>Rabbit</rt></ruby> came to the watchtower fully armed for the Daidarabocchi hunt. A silver ring shone on the ring finger of her left hand.
 
 It was a wedding ring.
 
-Iwatsura noticed Murakumo staring at the ring in speechless shock, and she smiled shyly.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> noticed Murakumo staring at the ring in speechless shock, and she smiled shyly.
 
-“Oh, this? Okyaku asked me to marry him once we beat Daidarabocchi. We haven't had the ceremony yet. It's just the ring for now.”
+“Oh, this? <ruby>Okyaku<rt>Great Wolf</rt></ruby> asked me to marry him once we beat Daidarabocchi. We haven't had the ceremony yet. It's just the ring for now.”
 
 He hoped the “congratulations” he forced out had sounded normal.
 
-Iwatsura held the ring up to the sun and smiled with genuine happiness. She was more beautiful than he had ever seen her.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> held the ring up to the sun and smiled with genuine happiness. She was more beautiful than he had ever seen her.
 
 She shone brighter looking at that proof of romance and love than she ever had laughing at one of his jokes or thanking him for a gift.
 
 ![p219.jpg](images/p219.jpg)
 
-After that, Murakumo barely remembered how he had sent Iwatsura off to fight.
+After that, Murakumo barely remembered how he had sent <ruby>Iwatsura<rt>Rabbit</rt></ruby> off to fight.
 
 When he came to, he found himself up in the watchtower, standing blankly before the telescope.
 

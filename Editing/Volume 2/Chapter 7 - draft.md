@@ -78,7 +78,7 @@ Waterwheels had been installed, and were still being added, on the major rivers 
 
 The Handa Laboratory borrowed some of those waterwheels and modified them.
 
-Using gears, pulleys, and weights, they stored the energy from the waterwheels as potential energy. That let them draw stable output from the power source and run a basic grinder[グラインダー] that could stand up to practical use.
+Using gears, pulleys, and weights, they stored the energy from the waterwheels as potential energy. That let them draw stable output from the power source and run a basic grinder that could stand up to practical use.
 
 Using a grinder was way more efficient than doing mind-numbing polishing by hand. A super-duper inefficient job became merely inefficient.
 
@@ -136,7 +136,7 @@ Of course you'd want a wand from the same brand.
 
 The Magic University was the same.
 
-Graduates of the Magic University received one of my magic wands along with the title of wizard[ウイザード].
+Graduates of the Magic University received one of my magic wands along with the title of wizard.
 
 In pre-Gremlin Disaster terms, that was like saying, "A degree from a top university comes with a luxury car."
 

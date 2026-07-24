@@ -8,9 +8,9 @@ I'm pissed off right now.
 
 Murakumo had never seen the actual magic items said to have been imported from the Tokyo Witches' Council for this hunt.
 
-But Itazu had gone so far as to retract his words that Daidarabocchi was not to be touched, so they had to be something extraordinary.
+But <ruby>Itazu<rt>Great Bear</rt></ruby> had gone so far as to retract his words that Daidarabocchi was not to be touched, so they had to be something extraordinary.
 
-Iwatsura's excitement right after last month's operation drill had shown that too. Weapons even better than Sanukino's masterpieces were beyond anything Murakumo could imagine.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby>'s excitement right after last month's operation drill had shown that too. Weapons even better than Sanukino's masterpieces were beyond anything Murakumo could imagine.
 
 In fact, after Daidarabocchi was hit by a special round called a sealing round fired by a sniper, it slowly stood up like a turtle and let out an unnaturally drawn-out roar.
 
@@ -22,7 +22,7 @@ Murakumo's mutated, superhuman vision showed him they were four mages and one wi
 
 Noticing the hunters approaching, Daidarabocchi spewed huge amounts of sickly purple gas from its waist. But a huge whirlwind suddenly sprang up and scattered the gas far into the sky.
 
-It was the magic of Aokera, a member of the Tohoku Hunting Association.
+It was the magic of <ruby>Aokera<rt>Serow</rt></ruby>, a member of the Tohoku Hunting Association.
 
 Even a huge whirlwind strong enough to blow houses away and grind them to pieces had no effect on Daidarabocchi.
 
@@ -42,7 +42,7 @@ Murakumo was sure they would win.
 
 The troublesome armor was destroyed. All that was left was to beat it to a pulp.
 
-*If it weren't for you, Iwatsura and I would surely be together by now.* Murakumo worked himself into an incoherent rage over that, but his excitement gradually cooled, and he started to feel uneasy.
+*If it weren't for you, <ruby>Iwatsura<rt>Rabbit</rt></ruby> and I would surely be together by now.* Murakumo worked himself into an incoherent rage over that, but his excitement gradually cooled, and he started to feel uneasy.
 
 The operation had gone smoothly through the destruction of the armor, but now it was starting to go wrong.
 
@@ -102,31 +102,31 @@ Even so, the hunters were veterans. The instant the five realized the danger, th
 
 The five scattered and fled in five directions.
 
-Having fully regenerated its entire body, Daidarabocchi grabbed a huge boulder from the mountain at its feet and began drawing back to throw it at one of the fleeing hunters—Okyaku.
+Having fully regenerated its entire body, Daidarabocchi grabbed a huge boulder from the mountain at its feet and began drawing back to throw it at one of the fleeing hunters—<ruby>Okyaku<rt>Great Wolf</rt></ruby>.
 
-Even from nearly 20 km away, Murakumo's mutated eyes could clearly see Okyaku's back as he fled without a glance to either side.
+Even from nearly 20 km away, Murakumo's mutated eyes could clearly see <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s back as he fled without a glance to either side.
 
 Something unsettling crossed Murakumo's mind.
 
-Iwatsura was not the one being targeted.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was not the one being targeted.
 
-It was the man who had won Iwatsura's heart while Murakumo had sat on his hands.
+It was the man who had won <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s heart while Murakumo had sat on his hands.
 
 Murakumo pictured something awful.
 
-Iwatsura, grieving after losing the man she had promised to marry. And Murakumo standing beside her, gently comforting her...
+<ruby>Iwatsura<rt>Rabbit</rt></ruby>, grieving after losing the man she had promised to marry. And Murakumo standing beside her, gently comforting her...
 
 ...Having thought that far, Murakumo gave a sharp laugh and raised his hands as if holding a bow and nocking an arrow in the empty air.
 
-Murakumo liked Iwatsura.
+Murakumo liked <ruby>Iwatsura<rt>Rabbit</rt></ruby>.
 
 No matter the reason, I don't want to see her cry.
 
-“A hunt needs only three things[×××キキレトエウエス・アイヤ]: a weapon and resolve[ガルガ×ヲ×], and a wife's farewell[ロロ・ラア].”
+“<ruby>××× Kikireto Euesu Aiya<rt>A hunt needs only three things</rt></ruby>: <ruby>Garuga× O×<rt>a weapon and resolve</rt></ruby>, and <ruby>Roro Raa<rt>a wife's farewell</rt></ruby>.”
 
 He poured in all the magic power he could, just short of runaway magic, and a golden bow and arrow with a soft phosphorescent glow formed in the empty air.
 
-“Behind the approaching monster, a hunter crept[モンノソユマムギスウラツ×××モンワソユ].”
+“<ruby>Monno Soyu Mamugisu Uratsu××× Monwa Soyu<rt>Behind the approaching monster, a hunter crept</rt></ruby>.”
 
 With the next incantation, the golden bow and arrow disappeared, leaving nothing in his hands but the feeling of it drawn taut.
 
@@ -134,7 +134,7 @@ All sound and scent vanished, and even the sense of its magic power grew faint.
 
 Murakumo did not hesitate over the incantation for a third spell he had never used before.
 
-“Hunt or be hunted[×××・ポラ・××××].”
+“<ruby>××× Pora ××××<rt>Hunt or be hunted</rt></ruby>.”
 
 The explosive increase in power came at a price: if he missed his target, the arrow would pierce him.
 
@@ -148,7 +148,7 @@ The killing arrow crossed the 20 km distance in just a few seconds, blew away Da
 
 He had not aimed for its head because he wanted to avoid any chance of missing such a small target.
 
-If he blew away its torso and forced it to spend time regenerating, he could buy Okyaku enough time to escape. Even if Okyaku could not get outside its territory, he could get beyond the range where its thrown rocks were guaranteed to hit.
+If he blew away its torso and forced it to spend time regenerating, he could buy <ruby>Okyaku<rt>Great Wolf</rt></ruby> enough time to escape. Even if <ruby>Okyaku<rt>Great Wolf</rt></ruby> could not get outside its territory, he could get beyond the range where its thrown rocks were guaranteed to hit.
 
 Murakumo had no magic power left to fire a second shot, but he held his follow-through and watched the battle.
 
@@ -188,9 +188,9 @@ Murakumo finally let out a long breath and sank to the floor.
 
 After a long battle of endurance, Daidarabocchi was dead.
 
-Iwatsura was safe.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was safe.
 
-Okyaku was alive too.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> was alive too.
 
 Could there be a happier ending than this?
 

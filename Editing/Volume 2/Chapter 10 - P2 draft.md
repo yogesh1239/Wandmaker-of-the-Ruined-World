@@ -42,7 +42,7 @@ The Blue Witch sighed.
 
 “That's what I mean when I say you don't take danger seriously. What if it misfires? Just in case, let's point our Gremlins in different directions and cast the spell.”
 
-“Okay. Let's do that. We'll use ‘Freeze[ヴアアラー].’ One, two, three, okay? Cast after you say the ‘ee’ in ‘three.’”
+“Okay. Let's do that. We'll use ‘<ruby>Vaa-ra<rt>Freeze</rt></ruby>.’ One, two, three, okay? Cast after you say the ‘ee’ in ‘three.’”
 
 The Blue Witch nodded and aimed her Gremlin somewhere it couldn't possibly hit me.
 
@@ -50,7 +50,7 @@ I aimed mine somewhere it couldn't possibly hit the Blue Witch either.
 
 Then we chanted.
 
-“One, two, three! ‘Freeze[ヴアアラー]’!”
+“One, two, three! ‘<ruby>Vaa-ra<rt>Freeze</rt></ruby>’!”
 
 The experiment's success was obvious right away.
 

@@ -156,11 +156,11 @@ Breathing hard, her greedy eyes gleaming, the Dragon Witch lumbered to her feet 
 
 I turned around, squeezed my eyes shut tight, and firmly covered them with both hands. After a rustling noise behind me, I heard an incantation.
 
-“Though this body is not human[カーマイカパジヤエンイエンシユオア・ウー], at least let my body be human-like[×××・×ダガド・ミエ・カーマイ].”
+“<ruby>Kamai Kapaja Enien Shiyuoa U<rt>Though this body is not human</rt></ruby>, <ruby>××× × Dagado Mie Kamai<rt>at least let my body be human-like</rt></ruby>.”
 
 Something popped like a balloon, and wind rushed past me. After a short pause, I heard another incantation.
 
-“If it flies through the sky[××××・××] and breathes fire[ニーテツテツタテ], even a lizard is a dragon[ナグ・ナズグ・エンイエンシユオア].”
+“<ruby>×××× ××<rt>If it flies through the sky</rt></ruby> and <ruby>Ni-tetsutetsutate<rt>breathes fire</rt></ruby>, <ruby>Nagu Nazugu Enien Shiyuoa<rt>even a lizard is a dragon</rt></ruby>.”
 
 There was another balloon-pop sound. Then she said, “That's enough. Look over here,” so I stopped covering my eyes and turned around.
 
@@ -196,7 +196,7 @@ Its shape was closer to an oval or a rectangular prism than a sphere.
 
 Hmm. If I made this into a necklace, would a baguette cut or an emerald cut suit it?
 
-The standard practice was to cut a gemstone so its inclusions[インクルージヨン] were hidden or hard to see. With this magic stone, though, showing them off would probably make it more beautiful.
+The standard practice was to cut a gemstone so its inclusions were hidden or hard to see. With this magic stone, though, showing them off would probably make it more beautiful.
 
 With something this big, the stone setting would need some extra thought too. A design that suited a small gem would probably look mismatched at this size. I'd need to draw several blueprints, make full-size wooden models, and...
 

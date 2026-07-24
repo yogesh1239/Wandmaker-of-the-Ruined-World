@@ -113,10 +113,14 @@ chosen so they don't collide with the `（）`/`《》` thought markers). Treat 
 bracketed reading as information about pronunciation/intended reading:
 
 - Use it to disambiguate names, coined terms, and unusual readings.
-- When the author furigana-glosses a kanji compound with an unexpected reading
-  (a common LN device — e.g. writing one word but reading it as another), that
-  gap is usually **meaningful**: footnote it.
-- Do not carry the `[かな]` brackets into the English output.
+- When the written form and reading differ semantically, translate or romanize
+  the **reading** as visible baseline text and put the English meaning of the
+  written form above it with actual HTML ruby:
+  `<ruby>BASELINE<rt>UPPER GLOSS</rt></ruby>`.
+- Preserve each source ruby span separately in multi-span incantations. Never
+  flatten several reading/written-form relations into one ruby span.
+- If written form and reading are semantically identical, use plain English.
+- Do not carry source `[かな]` bracket pairs into English prose.
 
 ## Sound Effects / Onomatopoeia
 

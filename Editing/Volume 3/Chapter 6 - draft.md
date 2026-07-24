@@ -1,4 +1,4 @@
-Okyaku, who had come from the Tohoku Hunting Association, brought three new technologies to Tokyo.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby>, who had come from the Tohoku Hunting Association, brought three new technologies to Tokyo.
 
 One was secret sauce. A magic sauce that made monster meat, which you couldn't eat boiled or grilled, edible.
 
@@ -46,7 +46,7 @@ Once the temperature dropped to about room temperature, the processing would be 
 
 Hmm. That had been easier than I expected. It wasn't a difficult job I needed to brace myself for. It was pretty bloody, though.
 
-Since I had nothing to do until it finished cooling, I flipped through the Tohoku Hunting Association's book of secret techniques (a copied booklet compiled by Tokyo Magic University from Mr. Okyaku's oral teachings).
+Since I had nothing to do until it finished cooling, I flipped through the Tohoku Hunting Association's book of secret techniques (a copied booklet compiled by Tokyo Magic University from Mr. <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s oral teachings).
 
 The more I read, the more I thought that how people adapted and responded to the age of magic brought by the Gremlin Disaster really showed the character of the land, or maybe the people.
 
@@ -176,7 +176,7 @@ I'd assumed she knew, but unexpectedly, the Blue Witch shook her head. A witch w
 
 Of course. Until now, the only monster materials Tokyo had used were Gremlins.
 
-“Well, I only know secondhand too. But apparently slime gets hard like glass when all its magic power drains out, so I thought it could be used as a void filler for wand cores.”
+“Well, I only know secondhand too. But apparently <ruby>slime<rt>soft mud</rt></ruby> gets hard like glass when all its magic power drains out, so I thought it could be used as a void filler for wand cores.”
 
 “I see...?”
 

@@ -60,7 +60,7 @@ I'd ordered enough medium-weight yarn for one outfit, top and bottom, and balls 
 
 The steel-sheep yarn was pale gray, fluffy, and light. According to Professor Ohinata, if any of the yarn was exposed to high heat—anything as hot as a campfire or hotter—the whole thing would harden at once. Apparently, it would stay flexible even after hardening. This stuff was way too strong.
 
-“For now, knitter[ニツター]-san turns the steel-sheep yarn into clothing, which is distributed first to important people who are neither witches nor mages. There isn't much of it, so we can't allocate any more than that to you, Ori-san...”
+“For now, knitter-san turns the steel-sheep yarn into clothing, which is distributed first to important people who are neither witches nor mages. There isn't much of it, so we can't allocate any more than that to you, Ori-san...”
 
 “No, that's plenty. Do you have a steel-sheep outfit too, Professor?”
 
@@ -138,7 +138,7 @@ The Hokkaido Magic Beast Farm had the right to design the 100-yen coin, and they
 
 The reference materials included a realistic painting of the Mountain Bear, apparently by a skilled artist, but the scale was clearly wrong. Compared with the Sapporo TV Tower drawn beside it, the beast had to be around 40 m long.
 
-It had a sun-like pattern on its belly, holy rings of light around both wrists, and an absurd guardian-god-of-the-northern-land, kamuy[^3] vibe. Hokkaido is amazing!
+It had a sun-like pattern on its belly, holy rings of light around both wrists, and an absurd <ruby>kamuy<rt>guardian god of the northern land</rt></ruby>[^3] vibe. Hokkaido is amazing!
 
 Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed, so it seemed best to put only the Mountain Bear's face on the front and work the belly pattern in nicely on the back with the number 100.
 
@@ -210,4 +210,4 @@ Let's see you get embarrassed every time you look at a 50-yen coin. Gahaha!
 
 [^2]: **Sendai Toshogu:** A Shinto shrine in Sendai dedicated to Tokugawa Ieyasu. In the story, it serves as the Tohoku Hunting Association's administrative center.
 
-[^3]: **Kamuy:** An Ainu term for a divine spirit or deity; the source gives this reading to “guardian god.”
+[^3]: **Kamuy:** An Ainu term for a divine spirit or deity; the ruby's upper gloss preserves the written “guardian god of the northern land.”

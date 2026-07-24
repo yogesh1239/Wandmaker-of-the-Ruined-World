@@ -1,0 +1,162 @@
+# Chapter 17 — Edit Log
+
+### Accuracy Fixes
+- **glossary (魔物の群衆事故[スタンピード])**: absent → "<ruby>stampede<rt>monster crowd accident</rt></ruby>" — glossary
+- **glossary (さざれ石魔法)**: absent → "chipped-stone magic" — glossary
+- **glossary (スライムガラス)**: absent → "slime glass" — glossary
+- **glossary (労働用ゴーレム)**: absent → "labor golem" — glossary
+- **source line 16**: "making two into one or three into one" → "combining parts from two or three into one" — accuracy
+- **source line 31**: "At the Chofu Witch's direction, Chofu" → "At the witch's direction, Chofu" — referent (remove invented witch title)
+- **source line 61**: "adjusted his priorities so he could" → "rearranged everything to make it his top priority" — accuracy
+- **source line 73**: "the eyeball familiar" → "the <ruby>interphone<rt>eyeball familiar</rt></ruby>" — glossary
+- **source line 85**: "The <ruby>interphone<rt>eyeball familiar</rt></ruby>" → "The eyeball familiar" — accuracy (ruby belongs at source-marked span)
+- **source line 88**: "cost millions" → "cost millions of yen" — accuracy
+- **source line 91**: "the Spider Witch's familiars" → "the Spider Witch's minions" — accuracy
+- **source line 97**: "watched over and helped the people there" → "watched over and helped them" — referent
+- **source line 127**: "she grew a little coffee beans" → "she was growing a few coffee beans" — accuracy
+- **source line 139**: "she had clearly created an atmosphere" → "the mood had clearly become one" — referent (avoid unsupported intent)
+- **source line 160**: "a villa for inviting over one of your witch friends" → "a vacation home for hosting one of your friends—a witch-sama" — address
+- **source line 178**: "She was not fidgeting. She was being bashful." → "She had not been squirming. She had been fidgeting shyly." — accuracy (restore source wordplay)
+- **source line 208**: "land that had been properly prepared" → "site that had been prepared for him" — accuracy
+- **source line 214**: "putting in the water facilities" → "putting in the plumbing" — accuracy
+- **source line 223**: "experimentally bringing back" → "bringing back ... on a trial basis" — accuracy
+- **source line 238**: "the number would only be so large" → "there was a limit to how many they could become" — accuracy
+- **source line 247**: "The chipped-stone school, chipped-stone magic" → "Chipped-stone-school magic, or chipped-stone magic" — glossary
+- **source line 256**: "press-cut ... dimensions were good" → "pre-cut ... dimensions were consistent" — accuracy
+- **source line 295**: "not to get scratched" → "not to wear down" — accuracy
+- **source line 298**: "her choice of furniture and sense for landscaping" → "taste in furniture and landscaping" — accuracy
+- **source line 328**: "He was not so old that the times could leave him behind yet." → "I'm not so old that the times can leave me behind yet." — tense (restore direct thought)
+- [polish] **source line 4**: "it was common knowledge, but new properties" → "it was common knowledge: new properties" — polish
+- [polish] **source line 10**: "would keep holding out for years, stubbornly" → "could stubbornly hold out for years" — polish
+- [polish] **source line 16**: "usable building materials ... fitted them onto" → "usable materials ... fitted them into" — polish
+- [polish] **source line 19**: "carpenters who had lost the benefits of electricity worked tragically less efficiently" → "without electricity, carpenters' efficiency had dropped tragically low" — polish
+- [polish] **source line 19**: "was not impossible, but it was far too inefficient" → "was possible, but far too inefficient" — polish
+- [polish] **source line 22**: "steady work that came regularly and never fell short" → "a steady supply of regular work" — polish
+- [polish] **source line 25**: "were all distributed fairly and equally" → "all reached everyone fairly and equally" — polish
+- [polish] **source line 31**: "fields were made on the cleared lots" → "the cleared lots were turned into fields" — polish
+- [polish] **source line 31**: "all the large amounts of lumber produced by the demolitions in one place" → "the huge volume of lumber from the demolitions" — polish
+- [polish] **source lines 40–43**: "during such peaceful days that he nearly forgot how lucky he was" → "amid a peaceful routine that almost made him forget how lucky he was" — polish
+- [polish] **source line 43**: "the work-assignment order for the beginning of the month ... rubbed his unshaven beard" → "the monthly work-assignment order ... rubbed his stubble" — polish
+- [polish] **source line 49**: "assignment had only one job" → "assignment listed only one job" — polish
+- [polish] **source line 49**: "schedule section" → "schedule" — polish
+- [polish] **source line 55**: "turned back into his house and hurriedly got ready" → "hurried back inside and got ready" — polish
+- [polish] **source line 58**: "directly from the Spider Witch herself" → "from the Spider Witch herself" — polish
+- [polish] **source line 58**: "could not make time" → "couldn't make time" — polish
+- [polish] **source line 64**: "could not fit" → "couldn't fit" — polish
+- [polish] **source line 64**: "moving through former convenience stores, gyms, and other places" → "moving from one former convenience store, gym, and similar place to another" — polish
+- [polish] **source line 67**: "Spiderwebs hung from ... waited quietly and gloomily" → "Spiderwebs covered ... waited silently ... in the gloomy shadows" — polish
+- [polish] **source line 70**: "Feeling creeped out as he sensed the spiders following his movements" → "Sugoi felt his skin crawl as the spiders tracked him" — polish
+- [polish] **source line 73**: "that had been sitting ... with its eye closed woke up" → "beside the doorbell opened its eye and woke up" — polish
+- [polish] **source line 76**: "It has been a while ... Was your schedule okay" → "It's been a while ... Did this work with your schedule" — polish
+- [polish] **source line 79**: "Not at all. Rushing to Witch-sama's summons is my schedule." → "Of course. My schedule is to come running whenever Witch-sama summons me." — polish
+- [polish] **source line 82**: "hallway" → "hall" — polish
+- [polish] **source line 88**: "asleep under dust" → "asleep beneath coats of dust" — polish
+- [polish] **source line 88**: "Spiders that had spun webs ... followed Sugoi" → "Spiders had spun webs ... and they followed Sugoi" — polish
+- [polish] **source line 94**: "lucky omens. In terms of their role" → "good omens. Functionally speaking" — polish
+- [polish] **source line 97**: "For years now ... and they had never harmed" → "For years ... without harming" — polish
+- [polish] **source line 97**: "could not come to like" → "couldn't bring himself to like" — polish
+- [polish] **source line 97**: "He could not help feeling disgusted by them." → "They filled him with instinctive disgust." — polish
+- [polish] **source line 106**: "Like a frog stared down by a snake, Sugoi froze" → "Sugoi froze ... like a frog before a snake" — polish
+- [polish] **source line 109**: "did not eat ... a small animal stared down by a predator" → "didn't eat ... a small animal before a predator" — polish
+- [polish] **source line 118**: "held down the fear rising inside him" → "suppressed his rising fear" — polish
+- [polish] **source line 118**: "in a weary voice" → "in a listless voice" — polish
+- [polish] **source line 121**: "weren't you someone who took it easy" → "weren't you the type to take it easy" — polish
+- [polish] **source line 124**: "Not at all. I just liked morning coffee." → "Not really. I just liked my morning coffee." — polish
+- [polish] **source line 124**: "Since the coffee stock in the city ran out, I have been working early" → "Since the city's coffee ran out, I've been starting work early" — polish
+- [polish] **source line 127**: "a few coffee beans" → "some coffee beans, though not many" — polish
+- [polish] **source line 133**: "It is fine. Increasing the amount we trade" → "It's fine. Increasing our trade" — polish
+- [polish] **source line 133**: "spiders under me ... please do not hold back" → "my spiders ... don't hold back" — polish
+- [polish] **source line 136**: "Sugoi was gently told that ... decided to accept" → "At her gentle urging, Sugoi ... accepted" — polish
+- [polish] **source line 136**: "was terrified of" → "dreaded" — polish
+- [polish] **source line 139**: "the complete opposite of the type who would sweet-talk someone" → "nothing like someone who sweet-talked people" — polish
+- [polish] **source line 139**: "was instead someone who cared about others" → "She was considerate, if anything." — polish
+- [polish] **source line 139**: "he got tense" → "he braced himself" — polish
+- [polish] **source line 142**: "did not seem to intend to make a long stretch of small talk" → "didn't seem interested in a long chat" — polish
+- [polish] **source line 142**: "placing one small cushion in the conversation" → "a little conversational warm-up" — polish
+- [polish] **source line 145**: "build a newly built single-family house" → "build a new house" — polish
+- [polish] **source line 145**: "I really wanted to ask you, Sugoi-san" → "I really wanted to ask you" — polish
+- [polish] **source line 148**: "I am honored ... I think you know this" → "I'm honored ... I'm sure you know" — polish
+- [polish] **source line 151**: "Vanity, maybe. A personal reason" → "Vanity, I guess. It's personal" — polish
+- [polish] **source line 151**: "Maybe a friend will come over someday" → "A friend might come over someday" — polish
+- [polish] **source line 151**: "Inviting them into this nest is a little" → "Inviting them into this nest would be a little" — polish
+- [polish] **source line 154**: "as though embarrassed" → "as if embarrassed" — polish
+- [polish] **source line 157**: "Certainly ... was not suitable for guests, even as a compliment" → "True, even being generous ... couldn't be called suitable for guests" — polish
+- [polish] **source line 160**: "one of your friends—a witch-sama" → "your witch-sama friend" — polish
+- [polish] **source line 163**: "all of them too full of personality" → "all of them far too eccentric" — polish
+- [polish] **source line 166**: "shifted again, and answered with what seemed like a little embarrassment" → "shifted again and answered, seemingly embarrassed" — polish
+- [polish] **source line 169**: "I do not know if he will ... I wonder if he will be" → "I don't know if he'll ... Maybe he'll be" — polish
+- [polish] **source line 178**: "She had not ... She had been" → "She hadn't ... She'd been" — polish
+- [polish] **source line 184**: "A smile slipped out before he knew it." → "He smiled before he knew it." — polish
+- [polish] **source line 193**: "Though she saved ... it only looked as though" → "Though she had saved ... it had only looked like" — polish
+- [polish] **source line 196**: "felt sorry about it" → "felt bad about his reaction" — polish
+- [polish] **source line 202**: "how lovely her personality was" → "how lovely she was on the inside" — polish
+- [polish] **source line 205**: "Sugoi, who had a fear ... could not become close" → "With his fear ... Sugoi couldn't grow close" — polish
+- [polish] **source line 205**: "become her friend ... soothe ... support them by all means" → "befriend her ... ease ... cheer them on" — polish
+- [polish] **source line 211**: "did not function" → "no longer functioned" — polish
+- [polish] **source line 211**: "working while considering ... took too much time and was unrealistic" → "accounting for ... took too much work to be realistic" — polish
+- [polish] **source line 211**: "had become the custom" → "had become customary" — polish
+- [polish] **source line 211**: "both designing and starting construction were quick" → "both the design and the start of construction were quick" — polish
+- [polish] **source line 220**: "waste was collected, gathered in the suburbs" → "waste was collected in the suburbs" — polish
+- [polish] **source line 220**: "bad smells began to waft ... making Tokyo residents suffer" → "foul smells began wafting ... made life miserable for Tokyo residents" — polish
+- [polish] **source line 220**: "the stench from a temporary toilet at a construction site" → "a construction site's portable toilet" — polish
+- [polish] **source line 226**: "used ... as they were, slimes that ate filth" → "used ... unchanged, filth-eating slimes" — polish
+- [polish] **source line 226**: "keeping slimes from appearing through combined measures" → "kept slime outbreaks under control through a combination of measures" — polish
+- [polish] **source line 226**: "bait to lure them in" → "bait to attract them" — polish
+- [polish] **source line 229**: "could not run such a large-scale" → "couldn't operate such a large" — polish
+- [polish] **source line 229**: "household septic tank for sewage treatment" → "household septic tank" — polish
+- [polish] **source line 232**: "newly designed septic tank was a tank buried underground, with" → "new septic tank was buried underground and held" — polish
+- [polish] **source line 232**: "The new slime strain was voracious" → "The strain ate voraciously" — polish
+- [polish] **source line 235**: "too dangerous to do" → "too dangerous" — polish
+- [polish] **source line 238**: "For a single ordinary household ... handling them was easy" → "In one ordinary household ... making them easy to deal with" — polish
+- [polish] **source line 244**: "Up through placing the rebar, it was the same as before. But gravel" → "The rebar went in as usual, but gravel" — polish
+- [polish] **source line 244**: "that gravel" → "the gravel" — polish
+- [polish] **source line 247**: "Chipped-stone-school magic, or chipped-stone magic" → "Chipped-stone magic, of the chipped-stone school" — polish
+- [polish] **source line 247**: "imbue small stones ... slowly grow them, and turn them into rock" → "infuse pebbles ... slowly grow them into rock" — polish
+- [polish] **source line 250**: "some tricks to operating it ... if it was used properly, it could serve as" → "a few tricks to using it ... when handled properly, it made" — polish
+- [polish] **source line 253**: "Once chipped-stone magic was cast and the rock was grown" → "After chipped-stone magic was cast and the rock grew" — polish
+- [polish] **source line 253**: "Then, finally, it was time" → "Then it was finally time" — polish
+- [polish] **source line 259**: "if you neglected the measures against them" → "without proper measures" — polish
+- [polish] **source line 259**: "leave it in ruins" → "reduce it to a crumbling mess" — polish
+- [polish] **source line 262**: "had chemicals soaked into it" → "had been soaked in chemicals" — polish
+- [polish] **source line 262**: "so it was very resistant to termites" → "making it highly termite-resistant" — polish
+- [polish] **source line 262**: "chemistry had declined" → "chemical production had declined" — polish
+- [polish] **source line 262**: "could not be made ... lumber resistant to termites" → "couldn't be made ... termite-resistant lumber" — polish
+- [polish] **source line 265**: "The topping-out ceremony held after the assembly had changed from what it once was." → "The traditional topping-out ceremony after framing had changed form." — polish
+- [polish] **source line 271**: "Though it would be uncouth to complain about what was useless or practical in a ritual." → "Then again, it was uncouth to quibble over whether a ritual was wasteful or practical." — polish
+- [polish] **source line 274**: "the roof was put on, and it was time to bring" → "the roof went on, and ... could be moved" — polish
+- [polish] **source line 277**: "freely spent money and used her connections" → "made free use of her money and connections" — polish
+- [polish] **source line 277**: "metal roof tiles" → "metal tiles" — polish
+- [polish] **source line 280**: "years of being struck by" → "years under" — polish
+- [polish] **source line 283**: "set Spider Witch amulets in place" → "built Spider Witch amulets into the house" — polish
+- [polish] **source line 286**: "The amulets, several of which were built into various places ... after their effect range was calculated" → "Several amulets were built into carefully calculated spots" — polish
+- [polish] **source line 286**: "projected force fields and encouraged" → "Their force fields boosted" — polish
+- [polish] **source line 286**: "wear an amulet on purpose" → "wear an amulet herself" — polish
+- [polish] **source line 289**: "He really wanted to make" → "He would have liked to make" — polish
+- [polish] **source line 289**: "He was uneasy about adopting technology that was still too new" → "The technology was still too new to adopt" — polish
+- [polish] **source line 289**: "what he was building was" → "he was building" — polish
+- [polish] **source line 292**: "carefully listening to the Spider Witch's requests" → "frequently asking what the Spider Witch wanted" — polish
+- [polish] **source line 295**: "a calm beige" → "a muted beige" — polish
+- [polish] **source line 298**: "If the house was going to be one she would not be embarrassed to invite a friend to" → "If she was going to invite a friend over without embarrassment" — polish
+- [polish] **source line 298**: "taste in furniture and landscaping was important" → "tasteful furniture and landscaping mattered" — polish
+- [polish] **source line 298**: "once all the interior work was done ... inspect it, then handed it over" → "once the interior was finished ... inspect the house and handed it over" — polish
+- [polish] **source line 301**: "provided for him and help from others" → "provided and extra help brought in" — polish
+- [polish] **source line 304**: "home backed by ... completed amazingly quickly" → "home personally backed by ... completed impressively fast" — polish
+- [polish] **source line 307**: "received praise ... whose excitement was coming out in her voice" → "received her praise ... Her excitement showed in her voice" — polish
+- [polish] **source line 310**: "It was built so quickly" → "It went up so fast" — polish
+- [polish] **source line 313**: "Not at all, I am ... that is" → "Not at all. I'm ... that's" — polish
+- [polish] **source line 316**: "he will ... It is" → "he'll ... It's" — polish
+- [polish] **source line 319**: "finished the big job of magical construction" → "wrapped up the big magical-construction job" — polish
+- [polish] **source line 325**: "new-era professions kept getting praised" → "it was all new professions for a new era" — polish
+- [polish] **source line 325**: "jobs that had continued ... properly upgrading themselves" → "jobs that had been around ... upgrading" — polish
+- [polish] **source line 328**: "as excited as the excited witch" → "every bit as excited as the witch" — polish
+
+### Register and Flow
+**Sugoi Daiku:** Kept close-third carpenter perspective plain, practical, and past-tense, with the final source-marked first-person thought left as immediate roman direct thought.
+
+**Spider Witch:** Kept hesitant casual dialogue, pauses, hedges, and uncertainty; did not resolve her feelings beyond Sugoi's speculation.
+
+### Formatting Confirmed
+- Source lines 4–330 only were audited in two chunks; author afterword lines 332–431 were excluded.
+- Sugoi Daiku, exact interphone ruby, chipped-stone magic, slime glass, labor golem, and semantic stampede ruby were verified against the glossary.
+- Honorifics, close-third referents, past-tense narration, unmarked direct thought, and the final image marker were verified.
+- No scene breaks or footnotes occur; no title heading or Translator Notes section was introduced.

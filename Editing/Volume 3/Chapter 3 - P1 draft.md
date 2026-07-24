@@ -58,7 +58,7 @@ She governed Shinagawa Ward. Even though she'd only been thirteen when the Greml
 
 As anyone could see, her specialty was fire. She had the special ability to control not only magical fire, but even nearby natural fire to some extent. She could suppress fires, spread her fire magic over a wider area, raise or lower its firepower without spending magic power, burn only specific objects, and generally do almost anything involving fire.
 
-The widely used fire spell Flame[ジン・ガ] had originally been her magic too. Much obliged, as always. I'd used it to make breakfast that very morning.
+The widely used fire spell <ruby>Jin Ga<rt>Flame</rt></ruby> had originally been her magic too. Much obliged, as always. I'd used it to make breakfast that very morning.
 
 That Flame Witch had rapidly weakened over the past year and was about to burn out.
 
@@ -90,11 +90,11 @@ Four years had passed since her mutation, and the Flame Witch, a fire fairy, had
 
 Sitting on the Blue Witch's shoulder, the Flame Witch admitted it miserably, as though her fear were something pathetic.
 
-“I've burned countless enemies to death. I should have known that I would die someday too. But when I realized that time was here, I was scared. So scared. I know it can't be helped because it's my lifespan. I know that, but I'm scared. I don't care what form it takes. If I can keep living, I want to cling to Okyaku-san's magic item.”
+“I've burned countless enemies to death. I should have known that I would die someday too. But when I realized that time was here, I was scared. So scared. I know it can't be helped because it's my lifespan. I know that, but I'm scared. I don't care what form it takes. If I can keep living, I want to cling to <ruby>Okyaku<rt>Great Wolf</rt></ruby>-san's magic item.”
 
 “A customer? Who?”
 
-“It's written with the characters for ‘big wolf’ and read Okyaku. Okyaku is a mage from the Tohoku Hunting Association. The magic item is this, the Monster Trap. It can suspend time for whoever gets caught in it. Don't break it, got that? I only borrowed it. The Witches' Council is holding it in trust.”
+“It's written with the characters for ‘big wolf’ and read <ruby>Okyaku<rt>Great Wolf</rt></ruby>. <ruby>Okyaku<rt>Great Wolf</rt></ruby> is a mage from the Tohoku Hunting Association. The magic item is this, the Monster Trap. It can suspend time for whoever gets caught in it. Don't break it, got that? I only borrowed it. The Witches' Council is holding it in trust.”
 
 With that, the Blue Witch handed me a bear trap.
 
@@ -156,7 +156,7 @@ It'd be hard for me to deal with her if she went back to being outgoing, so I wa
 
 “Well, I get the part about a magic item to seal the Flame Witch. Did you get the order from the Tohoku Hunting Association?”
 
-“I passed on the proposal. Okyaku said he couldn't decide on an order by himself, so he would take it back and put it up for discussion.”
+“I passed on the proposal. <ruby>Okyaku<rt>Great Wolf</rt></ruby> said he couldn't decide on an order by himself, so he would take it back and put it up for discussion.”
 
 “Ah, yeah. That makes sense.”
 
@@ -234,11 +234,11 @@ When I stopped my design work and asked her to teach me, the Flame Witch borrowe
 
 According to her, my reverberatory furnace and charcoal kiln were dumping valuable chemical components straight into the air.
 
-When wood or coal burned, vapor came out. If you collected, cooled, and condensed it, it became pyroligneous acid[パイロリグニアス]. Pyroligneous acid was a mixture of many useful chemical substances.
+When wood or coal burned, vapor came out. If you collected, cooled, and condensed it, it became <ruby>pyroligneous acid<rt>dry-distillation liquid</rt></ruby>. Pyroligneous acid was a mixture of many useful chemical substances.
 
 By modifying the reverberatory furnace and charcoal kiln, I could collect this valuable mixture efficiently instead of letting it needlessly flow out into the atmosphere.
 
-First, the smoke went through pipes and then a thin coiled tube, where cold water cooled it into pyroligneous acid[パイロリグニアス]. The components that did not become liquid even when cooled were a flammable gas called wood gas, which could be used as fuel as is.
+First, the smoke went through pipes and then a thin coiled tube, where cold water cooled it into pyroligneous acid. The components that did not become liquid even when cooled were a flammable gas called wood gas, which could be used as fuel as is.
 
 If left alone, pyroligneous acid separated into a watery upper layer and a thick lower layer.
 
@@ -246,7 +246,7 @@ The watery upper layer was called wood vinegar. If fractionally distilled, it yi
 
 If diluted, acetic acid became vinegar, and it could also be used as a raw material for dyes and disinfectants.
 
-Besides being a cleaning agent, acetone was also necessary to make cordite[コルダイト].
+Besides being a cleaning agent, acetone was also necessary to make <ruby>cordite<rt>smokeless powder</rt></ruby>.
 
 Of course, methanol was fuel.
 

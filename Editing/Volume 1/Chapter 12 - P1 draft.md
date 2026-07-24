@@ -206,7 +206,7 @@ She shuddered, caught her breath, and stopped.
 
 From a stoat's perspective, humans looked huge. Everything looked big and overwhelming, and knowing that this was a man watching and pursuing her made every hair on her body stand on end. His long shadow in the sunset and the expression hidden by the backlight filled her with instinctive fear, as though she had encountered a humanoid monster.
 
-"Freezing Javelin[ドウ・ヴアアラー]!"
+"<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>!"
 
 But the terrifying stalker screamed when an ice spear suddenly flew in and grazed his ear. It pierced through the utility pole, smashed the wall behind it, punched a hole in the house beyond that wall, and only then stopped.
 

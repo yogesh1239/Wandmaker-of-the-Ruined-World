@@ -122,7 +122,7 @@ This strange fire breath was certainly magical, but unlike the Flame Witch's fir
 
 The fire salamanders' fire breath could not melt the ice from the Blue Witch's Great Glacier magic—I had her freeze one abandoned house while holding back its power—and when I roasted a Gremlin, it melted instead of turning to dust.
 
-Among magical fire, only the fire from the Flame[ジン・ガ] line of fire magic seemed special. Fire magic probably came with some weird special effect by default after all.
+Among magical fire, only the fire from the <ruby>Jin Ga<rt>Flame</rt></ruby> line of fire magic seemed special. Fire magic probably came with some weird special effect by default after all.
 
 Gremlin implantation had greatly reduced my magic power, so I was grateful the fire salamanders could take over at least my fire magic. There was a big risk their ecology would change when they grew up, but while they were little, they did not seem to be any danger of starting fires at all.
 
@@ -198,7 +198,7 @@ Their reproductive rate was fairly high too. They were excellent magic beasts th
 
 Steel sheep were monsters mutated from sheep.
 
-Hokkaido was famous for Genghis Khan lamb[^1], but in fact more than 99 percent of it was imported, and fewer than 10,000 sheep were raised within the prefecture.
+Hokkaido was famous for <ruby>jingisukan<rt>mutton</rt></ruby>[^1], but in fact more than 99 percent of it was imported, and fewer than 10,000 sheep were raised within the prefecture.
 
 But sheep—breeds raised as livestock—always mutated into steel sheep when they mutated into monsters, so apparently they had managed to capture, raise, and breed them well.
 
@@ -294,4 +294,4 @@ But humanity was steadily rebuilding the ruined world without giving up.
 
 ## Translator Notes
 
-[^1]: **Genghis Khan lamb (ジンギスカン):** A Hokkaido-style grilled mutton or lamb dish, named after Genghis Khan.
+[^1]: **Jingisukan (ジンギスカン):** A Hokkaido-style grilled mutton or lamb dish, named after Genghis Khan.

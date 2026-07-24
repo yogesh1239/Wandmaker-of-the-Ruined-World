@@ -134,7 +134,7 @@ Even if it profaned the dignity of the dead, turning the corpses into zombies an
 
 Handa was pissed off by the disrespect shown toward the Zombie Witch's great achievement, but a few days later, he heard the details from someone else and understood.
 
-The Zombie Witch kept the best-looking zombies she had collected around her and indulged in a corpse reverse harem.[^1]
+The Zombie Witch kept the best-looking zombies she had collected around her and indulged in a <ruby>necrophilia<rt>corpse reverse harem</rt></ruby>.[^1]
 
 Even Handa was seriously creeped out.
 
@@ -294,4 +294,4 @@ And that was how Handa Sakunosuke became a professor in the Department of Gremli
 
 ## Translator Notes
 
-[^1]: The Japanese writes “corpse reverse harem” but gives it the reading “necrophilia.”
+[^1]: The ruby's baseline is “necrophilia”; its upper gloss preserves the written “corpse reverse harem.”

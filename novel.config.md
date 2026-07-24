@@ -16,6 +16,7 @@ The per-novel knobs the harness reads. The `/build-epub` skill derives the JSON 
 | 1 | `崩壊世界の魔法杖職人１ - 黒留 ハガネ.epub` | epub | `split_ebook.py` direct |
 | 2 | `崩壊世界の魔法杖職人２　小冊子付き特装版【電子特典付き】.epub` | epub | `split_ebook.py` direct |
 | 3 | `崩壊世界の魔法杖職人３【電子特典付き】.epub` | epub | `split_ebook.py` direct |
+| 4 | `崩壊世界の魔法杖職人４【電子特典付き】.epub` | epub | `split_ebook.py` direct |
 
 ## Paths
 - Source (split chapters + images): `Source/Volume N/`
@@ -26,7 +27,7 @@ The per-novel knobs the harness reads. The `/build-epub` skill derives the JSON 
 - **Narrative/direct-thought tense:** Narrative action, description, and indirect/reported thought stay in past tense. Clearly direct, immediate internal monologue uses natural speech tense, often present. Unmarked direct thought stays roman without quotation marks or added italics; italicize only a discrete thought or mind-voice unmistakably marked as such in the source. Ori's parenthetical asides and rhetorical questions are not automatically direct thought. Do not mix tenses within one immediate thought without a source-driven reason.
 - **Romanization:** no macrons and no long-vowel doubling in romanized Japanese names or terms; leave long vowels unmarked (`Ohinata`, `Ori`, `Tohoku`, `Kintaro`). Enforced by the glossary and `core/scripts/normalize_romaji.py --check`.
 - **Reading direction:** source is RTL → build EPUB as **LTR** (`page-progression-direction="ltr"`).
-- **Furigana:** preserved from source as `漢字[かな]`.
+- **Furigana / semantic ruby:** the split JP source preserves ruby as `漢字[かな]`. In English, when the written form and reading differ semantically, translate the reading as the visible baseline and the written-form meaning as `<ruby>BASELINE<rt>UPPER GLOSS</rt></ruby>`; keep each source span separate. If they are semantically identical, use plain English.
 - **Part-split threshold:** 400 source lines — chapters target roughly 400 source lines per translation scope, cutting at appropriate scene, POV, or paragraph boundaries rather than exact counts. A short final remainder should be rebalanced or merged; if the merged complete chapter remains reasonably close to 400 lines, keep it whole rather than creating undersized parts. The editor's smaller audit chunks are not translation parts.
 - **qa_major_threshold:** 3 — QA fails if a chapter has more than three major findings, or any critical finding.
 
@@ -93,6 +94,25 @@ Single source of truth for output filenames and EPUB `<h1>`/TOC/contents-image t
 | 3 | 18 | 番外編　赤いのさんびき、青いのひとり | Side Story - Three Red Ones, One Blue One |
 | 3 | 19 | 崩壊世界の魔法杖職人 ３ 小冊子　極秘資料 | Wand Maker of the Ruined World 3 Booklet - Top Secret Files |
 | 3 | 20 | 電子書籍特典　書き下ろし短編『フクロスズメ馴致手引き』 | Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide |
+| 4 | 1 | 病気と療養 | Illness and Recovery |
+| 4 | 2 | 花の魔女の子、フヨウ | The Flower Witch's Child, Fuyo |
+| 4 | 3 | 平和を噛みしめる | Savoring Peace |
+| 4 | 4 | 一番厄介な敵から潰す | Take Down the Most Troublesome Enemy First |
+| 4 | 5 | 好きな財宝発表ドラゴン | Favorite Treasure Announcement Dragon |
+| 4 | 6 | 魔法大学抗争 | Magic University Conflict |
+| 4 | 7 | 陥落 | The Fall |
+| 4 | 8 | 蜘蛛の魔女 | Spider Witch |
+| 4 | 9 | 蜘蛛の糸 | The Spider's Thread |
+| 4 | 10 | グレムリン工学教授の終止論文 | The Gremlin Engineering Professor's Final Paper |
+| 4 | 11 | 最強の魔女 | The Strongest Witch |
+| 4 | 12 | 残党狩り | Hunting Down the Remnants |
+| 4 | 13 | 鎮まりたまえ | Be Still |
+| 4 | 14 | オーリ・ケンシと十個の石 | Ori Kenshi and the Ten Stones |
+| 4 | 15 | 磁場変化逆再生式魔力鍛錬法 | Magnetic-Field-Change Reverse-Playback Magic-Power Training Method |
+| 4 | 16 | 賢者の杖 | Sage's Wand |
+| 4 | 17 | 番外編　魔法建築家 | Side Story - Magic Architect |
+| 4 | 18 | 崩壊世界の魔法杖職人 ４ 小冊子　極秘資料 | Wand Maker of the Ruined World 4 Booklet - Top Secret Files |
+| 4 | 19 | 電子書籍特典　書き下ろし短編『大利の巣』 | Ebook Bonus Original Short Story - Ori's Nest |
 
 ## EPUB metadata (per volume)
 - **Series:** Wand Maker of the Ruined World

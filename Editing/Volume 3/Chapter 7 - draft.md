@@ -28,7 +28,7 @@ We finished planting before noon and sat together on a mat laid over the ridge b
 
 While stuffing her face with a salted rice ball, the Blue Witch held a hand beneath the kettle and said an incantation.
 
-“Munch munch... Flame[ジン・ガ].”
+“Munch munch... <ruby>Jin Ga<rt>Flame</rt></ruby>.”
 
 Fire flared up, and the kettle soon spewed white steam and let out a shrill whistle.
 
@@ -140,7 +140,7 @@ The fire salamander I had poked and flipped over thrashed around. Seeing that, t
 
 The Blue Witch grabbed me by the collar and forcibly pulled me back.
 
-“Idiot, I told you! Did it burn you? Freeze[ドウ・]────”
+“Idiot, I told you! Did it burn you? <ruby>Do<rt>Freeze</rt></ruby>────”
 
 ![p110.jpg](images/p110.jpg)
 
@@ -182,7 +182,7 @@ And now I'm the one in trouble because of it!
 
 I pulled out the monster threat-level quick reference (third edition), issued by Tokyo Magic University's Department of Monster Studies, from my back pocket, and looked up the classification of the fire salamanders, which were still crying meep meep and threatening us.
 
-Class A-1... Cannot be defeated by one witch. Contact the Tokyo Witches' Council and declare a state of emergency.
+Class A-1... Cannot be defeated by one witch. Contact the Tokyo Witches' Council and issue an emergency declaration.
 
 (Giant kaiju)
 

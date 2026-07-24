@@ -15,62 +15,62 @@
 
 ## Running Summary
 
-### Volume 2, Chapter 15 — Amulet
-Having found mushroom Gremlins were marbled by host blood, Ori made blood-matched samples and established a maximum 5% magic-power-recovery increase, optimized at a 2:8 milky-white-to-personal-color ratio. He turned a star-cut white-and-gold Gremlin into his pendant amulet and, after Hiyori helped test it, made her a six-petaled snow-crystal version she happily wore; he handed further improvement research to Tokyo Magic University.
+### Volume 3, Chapter 20 — Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide
+The Hokkaido Magic Beast Farm guide explains that Gremlin implantation makes a pouch sparrow regard a human as kin, but leadership requires providing the flock’s best nesting materials during a rebuild. Completion triggers the leader-approval ritual, in which every bird gently bites the leader’s belly pouch; a human must wear a belly pocket or risk rejection, after which a recognized leader commands absolute loyalty.
 
-### Volume 2, Chapter 16 — Expanding the World
-Two months after the mushroom pandemic, its losses slowed trade and production—constraining medicine, livestock, sugar distribution, publishing, and Tokyo Magic University payments—without causing society to collapse. Tokyo Magic University reopened with its new Department of Magic Medicine, while Handa’s laboratory raised amulet magic-power-recovery acceleration efficiency from 5% to 6%, and the Department of Monster Studies developed a latent animal-mutation test that can screen at-risk livestock. The Tohoku Hunting Association will send staff to Tokyo for reconstruction, beginning renewed regional cooperation and a possible market for Ori’s wands.
+### Volume 4, Chapter 1
+Ori developed acute appendicitis and was rushed by Hiyori to a Chiyoda Ward hospital, where Ishiya used the Eyeball Witch's clairvoyance-magic bypass incantation to confirm the diagnosis before surgery. He recovered after six days, learned that his extraordinary vision, slow heartbeat, and dexterous hands are nonmagical human traits, and returned to Okutama, where he encountered the Flower Witch's plant-bodied daughter, Fuyo, in the Lost Mist.
 
-### Volume 2, Chapter 17 — Side Story - I Raised This Protagonist
-Hinonoya Takuo, last survivor of a fan-patron family, recognized Ori’s anonymous pre-disaster handle, OK Workshop, in a Tokyo Magic University wand display and learned that the apparently missing craftsman had survived and gained wide recognition. The campus store restricts made-to-order works to enrolled students, who earn separate evaluation points through courses and short papers; unable to barter for the wand, Takuo takes pride in having supported his favorite early.
+### Volume 4, Chapter 2
+Fuyo, the Flower Witch's second daughter, moved to Okutama and took root there after Ori accepted her mother's condition-laden offer; she can help defend the area and supply whitewood wand materials. Her territorial fights with the fire salamanders ended in a tentative reconciliation when Ori showed each side how the other helped make his tools, though he remained unsure whether he had mediated them properly.
 
-### Volume 2, Chapter 18 — Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files
-The configured special-edition booklet artifact contained only the two image markers `s-h1.jpg` and `s-h2.jpg`; it introduced no textual prose, terms, characters, or plot state. Any text within those images remains a future EPUB-localization concern.
+### Volume 4, Chapter 3
+Sekitan led Ori to the waterwheel hut and revealed it had killed a four-armed bear alone; Fuyo's roots now reach the riverbank but still avoid the furnace under the children's truce. Hiyori, holed up after a foretold Cyanos theft, reported that the Foresight Mage issued an emergency declaration and fell unconscious, ordering Ori to remain in Okutama under Fuyo's protection as Tokyo faced another crisis.
 
-### Volume 2, Chapter 19 — Ebook Bonus Original Short Story - Ori's Picture
-Set during Hiyori's recovery, Ori keeps her company while she is bored in bed and sketches her with exacting realism. He argues that art matters for its intent, purpose, and recipient rather than technical skill; Hiyori quietly accepts his praise of her unnamed sister's drawing and drifts into memory.
+### Volume 4, Chapter 4
+Foresight Mage identified two looming dangers: Class A monsters producing black Gremlins and possibly migrating east, and the Arataki Group's invasion, which he expected to erase Bunkyo Ward and strike Tokyo on multiple fronts. He drove himself through more than thirty foresight castings to issue defense orders, including warnings to Dragon Witch and Hiyori; after using self-enhancement magic to remain awake, he collapsed unconscious as the Arataki Group's assault began.
 
-### Volume 3, Chapter 1 — Magic-School Customization
-Preparing samples for the Tohoku Hunting Association, Ori developed magic-school customization: blood-matched personal-color Gremlins further reduce a user's primary-school backlash at the cost of worse backlash for other schools. He installed a freezing-magic version in Cyanos Ver. 2.2 for Hiyori, then matter-of-factly said he liked her as a friend; she accepted his blunt honesty.
+### Volume 4, Chapter 5
+Warned by Foresight, the Dragon Witch consumed Gremlins to enhance herself and fought the Arataki Group's centaur witch Kiwada Yoko, who attacked with a magic stone and sky-walking magic. Zaizen's feigned defection let the security force ambush Kiwada; the Dragon Witch killed her with Gremlin-boosted breath layered with fire magic, took her magic stone, and chose to keep recovering stones one per day.
 
-### Volume 3, Chapter 2 — Secret Techniques of the Tohoku Hunting Association
-On a seven-day reconstruction visit, Okyaku explains that Sendai's Tohoku Hunting Association survived by brutal early triage, later owed Tokyo for fertility magic, and brought secret sauce plus the Monster Trap as aid. Secret sauce makes monster meat edible for ordinary people after a multi-day soak, while the trap slows the target's time and offers a stasis mechanism. The shrinking Flame Witch overhears the demonstration and asks Okyaku to use the trap to seal her.
+### Volume 4, Chapter 6
+Through Nanase's viewpoint, Tokyo Magic University split between all-out resistance and bloodless surrender after the Foresight Mage's emergency warning, while Ohinata tried to negotiate. Onigawara's attack revealed that a carried magic stone could ground a Monster Trap and briefly wounded an enemy Transcendent before the retaliating mage devastated half the wizard unit; Ohinata ordered Nanase to hide and await rescue.
 
-### Volume 3, Chapter 3 — The Flame Witch
-Facing the end of her shortened lifespan, the Flame Witch asks Ori for a decades-long sealing magic item, and he begins developing an improved time-stasis design from the Monster Trap. She shares fire and chemistry expertise that could improve his furnaces, while an awkward disclosure about her fire-setting instinct ends with her and the unaware Blue Witch burning an abandoned house together.
+### Volume 4, Chapter 7
+As Bunkyo fell, Hiyori infiltrated Tokyo Magic University disguised as a civilian and learned that the Arataki Group defeated the Eyeball, Night, and Tobacco Witches with magic-rampage magic; the captives faced torture. Nanase revealed that Ohinata poisoned herself to avoid becoming Hiyori's hostage but survived unconscious, then forced Hiyori to reject her retreat into Ome and commit to finding Ohinata while the gang boss searched for the unidentified Wand Maker.
 
-### Volume 3, Chapter 4 — Himori Wand
-Over three days, Ori turned the Monster Trap idea into Himori Wand, a crystal-lantern double seal that slows the Flame Witch’s time to 1/40,000 while letting her see outside; after she entered it, Hiyori took it to her Shinagawa family. In payment, Ori gained a forty-person Shinagawa metal factory as 0933, and the Flame Heir Witch—her human younger sister—became the ward’s guardian through the wand’s bloodline-specific fire-magic support.
+### Volume 4, Chapter 8
+Defying Hiyori's order, Ori takes his fire salamanders through Tokyo's flooded subway to Bunkyo, where the Spider Witch traps him with a decoy before accepting he is not Arataki Group. She explains that contract magic has forced many at Magic University to obey and that Ohinata lies unconscious and critically ill in Arataki custody; after offering a recovered magic stone, she and Ori agree to make a wand so she can recover the professor.
 
-### Volume 3, Chapter 5 — A Black Marketeer Talks About 0933
-Shirokarasu's Watarigarasu survives in Suginami by protecting its orphanage while profiting from 0933's wand market; she recognizes that stealing the Flame Witch's wand would invite fatal retaliation. After Mobu threatens the orphanage to force a sale, Shirokarasu has Moeka eliminate him and his hostage threat, then returns the stolen wand to the Flame Heir Witch.
+### Volume 4, Chapter 9
+Ori turns the Spider Witch's recovered purple magic stone and Hendensho's Gremlin into Witch of Arachne, a hurried custom wand that lets her control a decoy much farther away. The decoy accepts self-targeting spells and, through an eyeball familiar, can share sight and hearing, shrink, hide, see through walls, and move quickly; it locates unconscious Ohinata but cannot get past the guarded Junior Boss. With the Spider Witch's limited magic power making delay dangerous, they consider a distraction just as someone is dragged into the adjacent interrogation room.
 
-### Volume 3, Chapter 6 — Let's Put Monster Materials to Use
-Ori successfully uses the Tohoku Hunting Association's self-blood tanning to preserve rabbit hide and bone, while secret sauce makes discarded monster meat a major new protein source for Tokyo. He replaces Cyanos's acrylic core filler with slime solution, completing Cyanos Ver. 2.3, and begins developing durable monster-material magic tools for fine wand work.
+### Volume 4, Chapter 10
+Handa, a guilt-ridden former scavenger and Gremlin engineering professor, pretends to cooperate with the Arataki Group but refuses to torture the captive Eyeball Witch, instead attacking his captors and trying to free her. The gang boss beats him, imposes contract magic, and comes close enough to cast it; Handa then detonates concealed dynamite, killing himself and grievously wounding the gang boss before the magic can take hold. The fate of the Eyeball Witch and the other captives remains unconfirmed.
 
-### Volume 3, Chapter 7 — Fire Salamander
-At the abandoned house burned by the Flame Witch and Hiyori, Ori finds three juvenile fire salamanders and speculates—without confirmation—that they are the witches' offspring, based partly on one creature's blue Gremlin. The charcoal-eating trio can melt iron, so Hiyori grants a temporary reprieve under daily observation and immediate disposal if ferocious or carnivorous; Ori nonetheless wants to tame them as furnace firepower despite no proven method.
+### Volume 4, Chapter 11
+Using Handa's blast as her opening, Hiyori killed the bat-faced mage and three witches, then killed the Young Boss and gang boss; the boss survived Handa's detonation but died to Hiyori's blood magic. After the university's students and professors resisted together, Hiyori declared Magic University liberated and the Arataki Group's Tokyo attack effectively ended, although several attacking witches remained elsewhere in Tokyo.
 
-### Volume 3, Chapter 8 — Secret Techniques of the Hokkaido Magic Beast Farm
-After the Mermaid Witch killed the Kraken, the Hokkaido Magic Beast Farm sent Tokyo sixty magic beasts and its hazardous beast-handler method. The method requires allergy testing, Gremlin implantation, and a permanent loss of magic-power capacity; Ori survived the procedure, gained the three juveniles' trust, and made them members of his household, while their parentage remains unconfirmed.
+### Volume 4, Chapter 12
+Arataki Kotaro's plan overwhelmed parts of Tokyo, but Tokyo's counterattack killed every Arataki Group witch and mage, forcing him to flee north after the invasion collapsed. He planned to infiltrate the Tohoku Hunting Association under Kiwada's name, but Murakumo Kariya recognized the danger to Iwatsura and killed him.
 
-### Volume 3, Chapter 9 — Together with the Fire Salamanders
-Ori moves the three fire salamanders' nest into his reverberatory furnace, where their attachment to him creates fire-safety problems: they cannot be caged in metal, their tail flames are usually nonigniting, and they breathe fire when angry or attacking. As they begin responding to his tone and simple commands, he starts observing their individual needs and teaching them safe use of fire.
+### Volume 4, Chapter 13
+After delivering rescued Ohinata to Hiyori at Hatonosu, the Spider Witch leaves Ori at the edge of Okutama because Fuyo's essential-oil barrier is lethal to her. Hiyori furiously rebukes Ori for defying her order to stay home, but the Spider Witch mediates: Hiyori relents after hearing that Ori acted to help both friends, while Ori promises to consult her before leaving again. With the Arataki Group defeated and its magic stones recovered, Ori looks ahead to making wands for Tokyo's rebuilding.
 
-### Volume 3, Chapter 10 — The Magic Beasts
-After two months of hierarchy-and-food training based on Hokkaido Magic Beast Farm methods, Ori's fire salamanders obey commands; their charcoal-, coal-, and camellia-oil preferences name Mokutan, Sekitan, and Tsubaki. Their inherited targeted fire control can melt platinum but still risks accidental sparks; Hiyori agrees to spare them, and Ori plans them as forge staff. Hokkaido sent Tokyo pouch sparrows, steel sheep, and turret balsam in exchange for wand exports and magic-linguistics instructors.
+### Volume 4, Chapter 14
+After the Arataki Group's defeat, Tokyo ended the emergency declaration, recovered ten magic stones, and began rebuilding while Lake Biwa and Fukuoka faced precarious fallout. Ori turned seven Council-assigned stones into three four-layer Lake Biwa wands and named custom wands for the Eyeball Witch, Night Witch, and Tobacco Witch; Hiyori moved to an ice tower at Magic University to guard Kei, and a Mutation Studies paper announced a magic-power training method.
 
-### Volume 3, Chapter 11 — The Nameless Epic Hypothesis
-Ohinata stabilized her transformation magic, letting her switch freely between stoat and beastkin modes; Ori explicitly accepted her as a friend, then began calling Hiyori his best friend. With new incantation samples from Tohoku and Hokkaido, magic linguists proposed the Nameless Epic Hypothesis: spell texts may be excerpts from one unknown epic, a theory supported by the death-curse/reflection exchange.
+### Volume 4, Chapter 15
+Mutation Studies turned three magic-power-capacity-loss phenomena into a safe training method: a rotating magnet coffin plus meditation raises capacity by 0.2 K per day, with at least 1 K presently demonstrated and no known ceiling. Beast handlers instead swell their implanted Gremlins, so Ori will not break his bond with the fire salamanders to train; he plans a meditation room and considers applying the theory to new wands.
 
-### Volume 3, Chapter 12 — New Currency for a New Era
-Tokyo Witches' Council, Tohoku Hunting Association, and Hokkaido Magic Beast Farm agreed to issue a shared six-denomination currency early next year from redesigned reclaimed 1-, 5-, 10-, 50-, 100-, and 500-yen coins. The selected designs are Sendai Toshogu for 10 yen, Mountain Bear for 100 yen, and Bloodsucking Mage for 500 yen; the Council's remaining designs are Dragon Witch (1 yen), Tokyo Magic University (5 yen), and Hiyori's mask/Cyanos (50 yen). Ori began making master patterns for the dies; the currency remains planned, not issued.
+### Volume 4, Chapter 16
+After mass deployment of magic-power-training coffins confirms training can increase capacity indefinitely only at escalating risk, Ori develops a portable wand adaptation. He gives Hiyori the Wise Wand and a custom robe; delighted by the gifts, she hugs him and leaves eager to show Kei-chan.
 
-### Volume 3, Chapter 13 — Gun-Wand Giant Slayer
-As the new currency's rollout tied Tokyo, Tohoku, and Hokkaido closer together, Tohoku committed to hunting Daidarabocchi, a Class A-1 territorial giant blocking land routes across central Japan. Ori fulfilled the commission with five gun-wand Giant Slayers and fifteen reusable sealing rounds built from Killing Stone and Starry Sky Stone; the planned sealing-and-concentrated-fire hunt has not yet occurred.
+### Volume 4, Chapter 17 — Side Story - Magic Architect
+Veteran Nerima Ward carpenter Sugoi Daiku built the Spider Witch a new home from salvaged lumber, with slime-glass windows, heavy-duty flooring, and built-in amulets that boost her magic-power recovery. The normally reclusive Spider Witch wanted a welcoming place for a male friend she hoped might visit, leaving Sugoi encouraged by how much the project delighted her.
 
-### Volume 3, Chapter 14 — No One Like That Could Exist
-On the eve of the Daidarabocchi hunt at Azuma-Kofuji, Okyaku found Sanukino still bitter over his wife's mushroom-disease death and unable to trust Tokyo-made weapons. Sanukino's new hand cannon, fueled by dragon marrow fluid in hardened-slime ampoules, was impressive but far below 0933's Gun-Wand Giant Slayer. Inspecting its craft overturned his judgment of 0933—but not his broader distrust of Tokyo—and the hunt remains scheduled for tomorrow, with defeat and casualties still possible.
+### Volume 4, Chapter 18 — Wand Maker of the Ruined World 4 Booklet - Top Secret Files
+This configured booklet artifact contained only the image markers `s-h1.jpg`, `s-h2.jpg`, and `s-p003.jpg`, all preserved exactly in the final chapter. It added no extractable prose, terms, characters, voice evidence, or plot state.
 
-### Volume 3, Chapter 15 — Proof of a Hero
-Murakumo Kariya, a concealed mage, used his three hunting incantations to save Okyaku and kill Daidarabocchi after its time-acceleration magic overturned the planned attack. Okyaku and Iwatsura survived and remain engaged, while Murakumo keeps his mage identity and decisive role secret.
+### Volume 4, Chapter 19 — Ebook Bonus Original Short Story - Ori's Nest
+During a sweltering Okutama night, Tsubaki, Sekitan, and Mokutan mistook Ori’s bedroom for an underbuilt nest, reinforcing its walls and floor before sealing its windows and door shut. Ori stopped them with the fire extinguisher, banned fire-breathing in the bedroom, and escaped through the door after they burned a small exit hole.

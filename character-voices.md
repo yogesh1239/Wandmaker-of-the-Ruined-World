@@ -3,7 +3,7 @@
 ## Narrator
 - **Register ceiling:** casual, punchy narration; contemporary and plain, never more literary or formal than the source passage. Narrative action, description, and indirect thought stay past; clearly direct, immediate internal monologue uses natural speech tense, often present.
 - **Mode:** mixed: Ori's chapters use first-person narration, while alternate chapters and sections use close third-person with rotating focal characters.
-- **Active-viewpoint guide:** Identify the viewpoint from the chapter opening, first-person self-reference, named focal character, territory/work, and limits of knowledge. Ori's first-person narration is anxious, snarky, craft-obsessed, and full of abrupt comic reactions. Close-third passages stay in the narrator's plain register while tracking the focal character's knowledge and emotional emphasis; do not turn them into first-person character narration.
+- **Active-viewpoint guide:** Identify viewpoint from the opening, self-reference, focal character, territory/work, and knowledge limits. Ori is anxious, snarky, craft-obsessed, and abrupt. Close third person stays plain and focal, never first person.
 
 ### Elevation kill-list
 | Elevated (wrong) | Correct |
@@ -25,7 +25,16 @@
 - **Vocabulary / contrast:** talks like a shut-in hobbyist: online selling, anime, tools, product specs, and overblown comparisons. He is evasive and small-voiced around people, but becomes technical, fluent, and smug about magic wand work; fear produces frantic internal commentary rather than elegant reflection.
 - **Samples:**
   - 俺は世界一の魔法杖職人[ワンドメーカー]だ。 → "I'm the world's greatest Wand Maker." (*Vol. 2, “The White Fingers”*)
-  - 「うわっ！　い、いいからそれ持ってあっち行け！　失せろ話しかけんな！　しっしっ！」 → "Whoa! J-Just take that and go! Get lost! Don't talk to me! Shoo!" (*Vol. 1, “Survival, with a Side of Magic”*)
+   - 「うわっ！　い、いいからそれ持ってあっち行け！　失せろ話しかけんな！　しっしっ！」 → "Whoa! J-Just take that and go! Get lost! Don't talk to me! Shoo!" (*Vol. 1, “Survival, with a Side of Magic”*)
+
+## Fuyo
+- **Pronoun:** 私 (*watashi*)—child.
+- **Register:** Simple, candid, repetitive.
+- **Address:** Ori: "Uncle"; Hiyori: "Blue Witch."
+- **Tics:** Stretches, hearts, big-sister boasts, tantrums.
+- **Samples:**
+  - "I'm a good girl!"
+  - "Because I'm the big sister."
 
 ## Aoyama Hiyori / Blue Witch
 - **Pronoun:** 私 (*watashi*) — controlled and neutral; English should stay spare and firm rather than feminine-coded.
@@ -91,6 +100,16 @@
   - 「脱走禁止なの。えーっと、確かこのへんに……あったの。ほら、手錠なの。」 → "No escaping. Let's see, they should be around here... Found them. Here, handcuffs." (*Vol. 1, “The Dragon Witch”*)
   - 「しつこいの。これは私の物なの。こんなまんまるピカピカでおっきい魔石、お前にはもったいないの」 → "You're so annoying. This is mine. A big, round, shiny magic stone like this is wasted on you." (*Vol. 1, “The Dragon Witch”*)
 
+## Spider Witch
+- **Pronoun:** 私 — soft, neutral.
+- **Register:** hesitant casual.
+- **Address:** “0933,” “Professor Ohinata,” “Blue Witch,” “Sugoi-san.”
+- **Tics:** “um,” hedges, pauses; abrupt refusals under stress.
+- **Contrast:** Fear whets appetite; stay apologetic, never melodramatic.
+- **Samples:**
+  - "Why aren't you scared...?"
+  - "No! Please don't be afraid of me."
+
 ## Zaizen Kintaro
 - **Pronoun:** 私 (*watashi*) — deferential adult male self-reference; English should be courteous, measured, and lightly bureaucratic.
 - **Register:** consistently polite. Use complete sentences, gentle hedges, and apologies; never turn his caution into comic cowardice.
@@ -118,16 +137,46 @@
 - **Tics:** hesitates and stammers under embarrassment.
 - **Samples:** “Please, could you do this?”; “I... got horny.”
 
+## Murakumo Kariya
+- **Pronoun:** 私 (*watashi*) — formal adult male restraint.
+- **Register:** Polite, guarded.
+- **Address / honorifics:** “Okyaku-san.”
+- **Tics / particles:** Pauses and hedges; private close-third is blunt, jealous, self-reproachful.
+- **Samples:**
+  - 「嬉しいお言葉ですが……」 → “I'm grateful to hear that, but...”
+  - 「辞表は取り消します」 → “I'll withdraw my resignation letter.”
+
+## Onigawara
+- **Pronoun:** Unestablished.
+- **Register:** Blunt, combative.
+- **Address:** Unestablished.
+- **Tics:** Refusals; commands.
+- **Samples:** “We refuse!”; “Begin the volley!”
+
+## Nanase Nanami
+- **Pronoun:** 私 (*watashi*) — polite adult.
+- **Register:** Polite; blunt under pressure.
+- **Address:** “Professor Ohinata”; “Blue Witch-sama.”
+- **Tics:** Stammers, requests, then clipped accusations.
+- **Samples:**
+  - “Witch-sama. You're the Blue Witch-sama, aren't you?”
+  - “You have not protected anything at all.”
+
 ### Distinguishing markers
-| Speaker | Fastest English tells |
+| Side label / EN | Fastest English tells |
 |-|-|
+| Nanase Nanami | polite; anxious; sharp rebukes |
 | Ori Kenshi | panicky fragments; anime/crafting analogies; sudden smug technical fluency |
 | Aoyama Hiyori | clipped commands; dry practicality; quiet protective breaks |
 | Ohinata Kei | polite enthusiasm; structured lecture cadence; bright curiosity |
 | Foresight Mage | tired sarcasm; numbers and logistics; urgent fact cascades |
 | Eyeball Witch | warm mediator; soft requests; "Ao-chan" |
 | Dragon Witch | possessive treasure talk; childish insistence; casual threats |
+| Spider Witch | soft hedges; apologetic pauses; abrupt refusals |
 | Zaizen Kintaro | deferential hedges; administrative precision; calm diplomacy |
+| Handa Sakunosuke | formal restraint; guilt turns resolute |
+| gang boss | rough yakuza diction; contractions; no ornate dialect |
+| Arataki Kotaro (Vol. 4, Ch. 12 only) | close-third: blunt, calculating, criminal self-justification; rough yakuza dialogue |
 | Dareda Kimi (Vol. 2, Ch. 11 only) | close-third: earnest, data-minded; panic sharpens into clipped commands |
 | Hinonoya Takuo (Vol. 2, Ch. 17 only) | close-third: fandom-heavy and blunt; excitement becomes breathless repetition and smug boasting |
-| Murakumo Kariya (Vol. 3, Ch. 15 only) | close-third: fearful, self-reproachful; resolve becomes terse |
+| Sugoi Daiku (Vol. 4, Ch. 17 only) | close-third: practical, courteous carpenter; restrained pride becomes upbeat self-assurance |

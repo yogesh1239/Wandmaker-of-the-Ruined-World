@@ -62,7 +62,7 @@ The Blue Witch leveled Cyanos at her hip and delivered an absolute-zero declarat
 
 It wasn't a threat. I knew at once from her voice that she seriously meant to kill her.
 
-Despite her huge body, the Dragon Witch moved fast. She snatched up Okutameteorite and the red magic stone[Meteoflame], one in each hand, and took off with a rumble through the ground.
+Despite her huge body, the Dragon Witch moved fast. She snatched up Okutameteorite and the <ruby>Meteoflame<rt>red magic stone</rt></ruby>, one in each hand, and took off with a rumble through the ground.
 
 That bitch was trying to run!
 
@@ -70,7 +70,7 @@ The wind pressure from her takeoff alone knocked me over, but the Blue Witch did
 
 She aimed Cyanos at the dragon receding at rocket speed and chanted an incantation.
 
-“The pure white breathed by that monster blankets the world[マムギ×××・×××ヴアアラープトラエケーヤアブ・ト], and a season was added[マタ・ギツタガイダ].”
+“<ruby>Mamugi××× ×××Vaa-ra Putorae Ke-yabu To<rt>The pure white breathed by that monster blankets the world</rt></ruby>, and <ruby>Mata Gitsutagaida<rt>a season was added</rt></ruby>.”
 
 A huge white vortex suddenly appeared in the sky above the dragon, right where Cyanos pointed. It spun violently, swallowed the dragon, and drove her to the ground.
 
@@ -82,9 +82,9 @@ By the time the dragon's nest was covered in white frost and the whole area had 
 
 Heh. Serves her right. Sensei, please finish her off like that!
 
-“Ghk! Even the volcano could not bear that starlight[×××××キアキヤロヲウオリ],”
+“Ghk! <ruby>××××× Kiakiyaro Wouori<rt>Even the volcano could not bear that starlight</rt></ruby>,”
 
-“Freezing Javelin[ドウ・ヴアアラー].”
+“<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>.”
 
 A rapid shot of ice-spear magic punched clean through the Dragon Witch's jaw as she tried to recite an incantation and put up a last struggle, shutting her up.
 
@@ -168,7 +168,7 @@ The Dragon Witch got cocky now that she had people on her side. As the Blue Witc
 
 “That's right! Good job, Zaizen! Say more! Killing me would be a loss for the world!”
 
-“Dragon Witch-sama. I am terribly sorry, but please rest[だまつてろ].[^2]”
+“Dragon Witch-sama. I am terribly sorry, but <ruby>Shut up<rt>Please rest</rt></ruby>.[^2]”
 
 “...Hah. Fine. I'll spare her life, but this one needs to learn her lesson the hard way. I'll rip off one of her legs.”
 
@@ -268,4 +268,4 @@ I believed that.
 
 ## Translator Notes
 
-[^2]: **Furigana mismatch — 「お休み下さい[だまつてろ]」:** The written text politely says “Please rest,” while the supplied reading says “Shut up.”
+[^2]: The ruby's baseline says “Shut up,” while its upper gloss preserves the politely written “Please rest.”

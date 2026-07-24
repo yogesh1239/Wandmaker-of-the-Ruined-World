@@ -48,7 +48,7 @@ This totally unexpected discovery sent adrenaline racing through my brain. As I 
 
 The Blue Witch looked creeped out, so I traced a giant footprint with my finger and explained.
 
-Bigfoot was an unidentified mysterious animal[Unidentified Mysterious Animal]—a UMA for short—made famous by the occult boom at the end of the twentieth century. Nessie, Tsuchinoko, Chupacabra—all those gross-cute creatures that looked like laid-back mascots used to be big names back then.
+Bigfoot was an unidentified mysterious animal—a UMA for short—made famous by the occult boom at the end of the twentieth century. Nessie, Tsuchinoko, Chupacabra—all those gross-cute creatures that looked like laid-back mascots used to be big names back then.
 
 Bigfoot was a hairy giant that lived deep in the mountains and, true to its name, was famous for leaving huge footprints. It was said to be either a surviving ape-man or a prehistoric human whose lineage had split off from humanity. That just-plausible-enough backstory had always captured my imagination.
 

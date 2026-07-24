@@ -16,7 +16,7 @@ The advance toward the center went as planned, at lightning speed. They would ru
 
 Keeping only the minimum watch, the unit hurried along National Route 1 toward Tokyo Tower.
 
-Luckily, the enemy was not human, so there was no need to worry about falling into traps. If some of the monsters lying in wait were slow, the unit outran them. If they could not shake them, the wizards[ウイザード] wielding magic wands quickly took them down with concentrated magical fire.
+Luckily, the enemy was not human, so there was no need to worry about falling into traps. If some of the monsters lying in wait were slow, the unit outran them. If they could not shake them, the wizards wielding magic wands quickly took them down with concentrated magical fire.
 
 If an overly strong monster blocked their way, they were to go around it or turn back. Luckily, there were no such monsters along National Route 1. That meant the second unit could establish a supply route without trouble.
 
@@ -88,7 +88,7 @@ Dareda made a split-second judgment he would probably never be able to make agai
 
 Dareda's shout was almost a scream as he kicked the kiosk door open and burst outside.
 
-“I love you[ナトウ・ヤウエ]”
+“<ruby>Nato Yau-e<rt>I love you</rt></ruby>”
 
 Dareda ran.
 
@@ -98,11 +98,11 @@ His body was badly out of shape, but he remembered his form.
 
 The incantation he had repeated hundreds, even thousands, of times spilled out, and he could hear everyone behind him chanting the same words.
 
-“But I'm a devil[デンニエクララバアイエン]”
+“<ruby>Dennie Kuraraba Aien<rt>But I'm a devil</rt></ruby>”
 
 His legs screamed, and with every step, it felt like the bones in his legs would shatter. But Dareda roared the spell like a beast and endured the agony.
 
-“This is what my love looks like[フクシツワクララフイフイ・ヤウエ]!!”
+“<ruby>Fukushitsu wa Kurara Fuifui Yau-e<rt>This is what my love looks like</rt></ruby>!!”
 
 The murky black wave of ritual death-curse magic, activated with Dareda as its focus, struck the rainbow beast mantis just as it grabbed Vampir with its sickle and took flight.
 

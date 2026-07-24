@@ -12,11 +12,11 @@ Regarding the matter you asked about in your last letter, in short, it is likely
 
 Magic language draws very fine distinctions between life and death.
 
-For example, Great Glacier magic uses “You[ゼィ]” when addressing the living. When addressing the dead, “you” is “You[クケッフッ].”
+For example, Great Glacier magic uses “<ruby>Zei<rt>You</rt></ruby>” when addressing the living. When addressing the dead, “you” is “<ruby>Kukeffu<rt>You</rt></ruby>.”
 
 Such distinctions affect the conditions for activating magic.
 
-Zombie Witch-san's dead-subordination magic works on someone who is brain-dead even if their heart is still beating. Iruma Mage's puppetry magic reportedly loses its effect on creatures whose hearts have stopped.
+Zombie Witch-san's dead-control magic works on someone who is brain-dead even if their heart is still beating. Iruma Mage's puppetry magic reportedly loses its effect on creatures whose hearts have stopped.
 
 There is also the concept of “magical death,” with a word that describes never being able to use magic again as “death.”
 
@@ -62,7 +62,7 @@ Clear autumn skies. At last, it was harvest time.
 
 Standing on the ridge of the drained rice paddy, I readied Hendensho and cast fertility magic.
 
-"The season of crystals comes around[グリスタ・ヒアーズイ]. You[ゼイ], from a world different from the world reflected in your eyes[ダダニダオプトラエオオオ・プトラエ], may the blessing of one who is not eaten be upon us[ヒテイヒテイカパジヤウエウエント]."
+"<ruby>Gurisuta Hia-zui<rt>The season of crystals comes around</rt></ruby>. <ruby>Zei<rt>You</rt></ruby>, <ruby>Dadanidao Putoraeooo Putorae<rt>from a world different from the world reflected in your eyes</rt></ruby>, <ruby>Hitei Hitei Kapaja Ueuento<rt>may the blessing of one who is not eaten be upon us</rt></ruby>."
 
 A soft, sparkling wave rolled out of the wand and spread in a fan.
 
@@ -104,7 +104,7 @@ It looked like it would take a while before humanity could use fertility magic r
 
 A combine would've finished the rice harvest in no time, but doing it by hand took a while. Once I'd cut about half, I took a break, sat on the paddy ridge, and poured cold-brewed sencha from my water bottle into a cup.
 
-“Freeze[ヴアアラー].”
+“<ruby>Vaa-ra<rt>Freeze</rt></ruby>.”
 
 I drank the green tea I'd chilled ice-cold with magic and let out a satisfied breath.
 
@@ -196,7 +196,7 @@ I'd hit my limit.
 
 I jumped to my feet, readied Hendensho, and shouted.
 
-“Draaaagon! Look over here! I'll fucking kill you! Freezing Javelin[ドウ・ヴアアラー]!”
+“Draaaagon! Look over here! I'll fucking kill you! <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>!”
 
 I chanted the strongest attack spell I could use, and a thick spear of ice shot out just as the incantation described. The spell could easily punch through a car door, but when the dragon turned around, the spear struck it between the eyes with a soft smack and fell to the ground.
 

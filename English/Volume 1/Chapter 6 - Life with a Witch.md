@@ -112,7 +112,7 @@ But this is what I've gotten.
 
 It's smart not to waste magic power, but I still can't quite accept it.
 
-I mean, that is some serious meathead brute force. Is Blue Witch-sama perhaps a forest sage[^1]?
+I mean, that is some serious meathead brute force. Is Blue Witch-sama perhaps a <ruby>gorilla<rt>forest sage</rt></ruby>[^1]?
 
 "What's with that face? I killed the monster like you asked."
 
@@ -240,7 +240,7 @@ Score! I can't wait for five days from now!
 
 ## Translator Notes
 
-[^1]: The source writes “forest sage” (森の賢者) but gives it the unexpected reading “gorilla,” making Ori's grand description a gorilla joke.
+[^1]: The ruby's baseline “gorilla” undercuts its grand upper gloss, “forest sage.”
 
 [^2]: The written spell name means “Freeze,” while its spoken magic-language form is `Vaa-ra`; the pronunciation lesson distinguishes it from Ori's mistaken elongated version.
 

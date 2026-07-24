@@ -14,7 +14,17 @@ import sys
 
 HONORIFICS = ["san", "kun", "chan", "sama", "sensei", "senpai", "dono"]
 MACRON_CHARS = "āēīōūĀĒĪŌŪ"
-DRIFT_RATIO = 0.86  # ponytail: difflib ratio 0.86 heuristic — tune threshold if false positives appear in production
+DRIFT_RATIO = 0.90  # high enough to avoid common-word false positives such as Send/Sendo
+RUBY_RE = re.compile(r"<ruby>(.*?)<rt>(.*?)</rt></ruby>", re.DOTALL)
+TAG_RE = re.compile(r"<[^>]+>")
+
+
+def ruby_parts(term):
+    """Return machine-readable canonical forms carried by an HTML ruby term."""
+    m = RUBY_RE.fullmatch(term)
+    if not m:
+        return []
+    return [TAG_RE.sub("", m.group(1)), TAG_RE.sub("", m.group(2))]
 
 
 def parse_glossary(path):
@@ -70,9 +80,29 @@ def check_file(path, entries, violations):
 
     known_terms = set()
     allowed_honorifics = {}
+    alias_rules = []
+    drift_names = []
     for e in entries:
         known_terms.add(e["en"])
+        machine_forms = ruby_parts(e["en"])
+        known_terms.update(machine_forms)
         known_terms.update(e["aliases"])
+        for candidate in [e["en"]] + machine_forms:
+            if re.fullmatch(r"[A-Z][a-z]+", candidate):
+                drift_names.append(candidate)
+        canonical_re = re.compile(re.escape(e["en"]), re.IGNORECASE)
+        for alias in e["aliases"]:
+            alias_flags = (
+                0
+                if " " not in alias
+                and alias.istitle()
+                and e["en"]
+                and e["en"][0].isupper()
+                else re.IGNORECASE
+            )
+            alias_rules.append(
+                (e, alias, re.compile(r"\b%s\b" % re.escape(alias), alias_flags), canonical_re)
+            )
         split = honorific_split(e["en"])
         if split:
             base, honorific = split
@@ -80,42 +110,22 @@ def check_file(path, entries, violations):
 
     for lineno, line in enumerate(lines, start=1):
         # (1) banned-alias hit: whole-word/phrase match with proper-title case handling.
-        for e in entries:
-            for alias in e["aliases"]:
-                pattern = r"\b%s\b" % re.escape(alias)
-                # A title-cased single-word alias for a proper-name canonical
-                # (for example game title Gather -> Gath) must not flag the
-                # ordinary lowercase verb "gather". Multiword and common-term
-                # aliases retain the historical case-insensitive behavior.
-                alias_flags = (
-                    0
-                    if " " not in alias
-                    and alias.istitle()
-                    and e["en"]
-                    and e["en"][0].isupper()
-                    else re.IGNORECASE
+        for e, alias, alias_re, canonical_re in alias_rules:
+            canonical_spans = [m.span() for m in canonical_re.finditer(line)]
+            for m in alias_re.finditer(line):
+                if any(start <= m.start() and m.end() <= end for start, end in canonical_spans):
+                    continue
+                violations.append(
+                    "%s:%d: banned alias %r used (glossary requires %r)"
+                    % (path, lineno, m.group(0), e["en"])
                 )
-                canonical_spans = [
-                    m.span()
-                    for m in re.finditer(
-                        r"\b%s\b" % re.escape(e["en"]), line, re.IGNORECASE
-                    )
-                ]
-                for m in re.finditer(pattern, line, alias_flags):
-                    if any(start <= m.start() and m.end() <= end for start, end in canonical_spans):
-                        continue
-                    violations.append(
-                        "%s:%d: banned alias %r used (glossary requires %r)"
-                        % (path, lineno, m.group(0), e["en"])
-                    )
 
         # (2) name-drift: capitalized tokens close to (but not equal to) a glossary EN name.
         for tok_m in re.finditer(r"\b[A-Z][a-z]+\b", line):
             token = tok_m.group(0)
             if token in known_terms:
                 continue
-            for e in entries:
-                name = e["en"]
+            for name in drift_names:
                 if token == name:
                     continue
                 if token in regular_plural_forms(name):

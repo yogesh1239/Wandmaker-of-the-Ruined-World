@@ -206,7 +206,7 @@ She shuddered, caught her breath, and stopped.
 
 From a stoat's perspective, humans looked huge. Everything looked big and overwhelming, and knowing that this was a man watching and pursuing her made every hair on her body stand on end. His long shadow in the sunset and the expression hidden by the backlight filled her with instinctive fear, as though she had encountered a humanoid monster.
 
-"Freezing Javelin[ドウ・ヴアアラー]!"
+"<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>!"
 
 But the terrifying stalker screamed when an ice spear suddenly flew in and grazed his ear. It pierced through the utility pole, smashed the wall behind it, punched a hole in the house beyond that wall, and only then stopped.
 
@@ -304,7 +304,7 @@ Magic language had a very different sound system from Earth's languages. And it 
 
 Ohinata expected teaching him to be a 99.9% waste of time, but her first shock came when the stalker immediately repeated the incantation after hearing it once, without the slightest mistake.
 
-"Cross the underside[イエーヴ・ササ], spit out the divination tortoise[ニムテツトツタナ][^1], and even a cornered rat becomes a white beast[ヤオグ・ヤヨグ・エンイエンシユオア]."
+"<ruby>Ie-vu Sasa<rt>Cross the underside</rt></ruby>, <ruby>Nimutetsutotsutana<rt>spit out the divination tortoise</rt></ruby>[^1], and <ruby>Yaogu Yayogu Enien Shiyuoa<rt>even a cornered rat becomes a white beast</rt></ruby>."
 
 Then Ohinata got her second surprise.
 

@@ -130,7 +130,7 @@ After we'd walked for a while, the Blue Witch muttered.
 
 “Yeah, true. I don't know if it's because of the area or what, but only monsters weak enough for Hendensho to chase off show up around here.”
 
-When I waved my magic wand[Hendensho], the Blue Witch kept wandering along and tapped a branch of a deciduous tree bent under the weight of the snow with the tip of Cyanos, knocking a clump of snow onto the road.
+When I waved my <ruby>Hendensho<rt>magic wand</rt></ruby>, the Blue Witch kept wandering along and tapped a branch of a deciduous tree bent under the weight of the snow with the tip of Cyanos, knocking a clump of snow onto the road.
 
 “That's a good thing. It's better if there aren't any strong monsters.”
 
@@ -292,7 +292,7 @@ This totally unexpected discovery sent adrenaline racing through my brain. As I 
 
 The Blue Witch looked creeped out, so I traced a giant footprint with my finger and explained.
 
-Bigfoot was an unidentified mysterious animal[Unidentified Mysterious Animal]—a UMA for short—made famous by the occult boom at the end of the twentieth century. Nessie, Tsuchinoko, Chupacabra—all those gross-cute creatures that looked like laid-back mascots used to be big names back then.
+Bigfoot was an unidentified mysterious animal—a UMA for short—made famous by the occult boom at the end of the twentieth century. Nessie, Tsuchinoko, Chupacabra—all those gross-cute creatures that looked like laid-back mascots used to be big names back then.
 
 Bigfoot was a hairy giant that lived deep in the mountains and, true to its name, was famous for leaving huge footprints. It was said to be either a surviving ape-man or a prehistoric human whose lineage had split off from humanity. That just-plausible-enough backstory had always captured my imagination.
 

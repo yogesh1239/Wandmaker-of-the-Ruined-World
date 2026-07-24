@@ -154,9 +154,9 @@ It was what happened when twins used the same magic on a Moebius ring Gremlin at
 
 At that point, the magic-power cost got split evenly among them.
 
-Take the freezing-magic core incantation “Freeze[ヴアアラー],” which had actually been tested and confirmed, as an example.
+Take the freezing-magic core incantation “<ruby>Vaa-ra<rt>Freeze</rt></ruby>,” which had actually been tested and confirmed, as an example.
 
-When twins held a Moebius ring Gremlin together and both recited “Freeze[ヴアアラー]” at the same time, only one freezing beam came out. Both its power and magic-power cost were for one casting by one person.
+When twins held a Moebius ring Gremlin together and both recited “<ruby>Vaa-ra<rt>Freeze</rt></ruby>” at the same time, only one freezing beam came out. Both its power and magic-power cost were for one casting by one person.
 
 But that magic-power cost was divided in two between the twins.
 

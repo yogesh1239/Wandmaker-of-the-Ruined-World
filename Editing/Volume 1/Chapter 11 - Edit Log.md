@@ -472,3 +472,6 @@
 - Part 4: two exact image markers, one `---` scene break, one `[^2]` marker, one `[^2]` definition, and one terminal `## Translator Notes` block.
 - Source-line-1492 plain `red magic stone Meteoflame` remains unbracketed; no other Part 4 source-ruby occurrence required correction.
 - Chapter note numbering now runs sequentially as `[^1]`, `[^2]`; all prior spell readings and `×` characters remain unchanged.
+
+### Post-Migration Corrections
+- **Part 1, source line 31 (死者従属魔法)**: “dead-subordination magic” → “dead-control magic” — glossary

@@ -43,7 +43,7 @@ checklist is series-agnostic; the specifics it points at live in
 - [ ] Unmarked direct thoughts remain roman, with no added quotation marks or italics.
 - [ ] Parenthetical qualifications, examples, corrections, and asides are not automatically italicized.
 - [ ] Inline images preserved exactly: `![filename](images/filename)`.
-- [ ] No furigana `[かな]` brackets left in the English prose.
+- [ ] No source `[かな]` bracket pairs left in English prose; semantic reading/written-form contrasts use valid, separately spanned `<ruby>BASELINE<rt>UPPER GLOSS</rt></ruby>`, while semantically identical readings are plain English.
 - [ ] No in-file title heading (unless the sanitized-filename exception applies).
 - [ ] No "Illustration Mapping" header in the output.
 

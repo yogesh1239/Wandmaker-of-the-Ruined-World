@@ -85,3 +85,7 @@
 ### Formatting Confirmed
 - Whole source audited in two chunks (lines 1–178 and 179–358); numerical and product specifications, glossary locks, fire salamander names, footnote marker/note pairing, and narrative/direct-thought tense distinction verified.
 - No scene breaks or inline images occurred in this chapter; one compact `## Translator Notes` section remains at the end.
+
+### Post-Migration Corrections
+- **source line 328 (巨神[きよじん]殺し)**: “<ruby>Giant Slayer<rt>Giant God Slayer</rt></ruby>” → “<ruby>Giant Slayer<rt>Giant-God Slayer</rt></ruby>” — accuracy (disambiguate written compound)
+- **source lines 334 and terminal note**: “Giant God Slayer” → “Giant-God Slayer” — glossary

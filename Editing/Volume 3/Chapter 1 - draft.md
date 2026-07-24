@@ -86,7 +86,7 @@ With a hundred people, you'd get a hundred different Gremlin colors.
 
 When I handed her the half-finished wand, the Blue Witch gave me a dubious look, held the conventional wand in one hand and the new-type wand in the other, then cast magic.
 
-“Freeze[ヴアアラー]. Freeze[ヴアアラー]... I see? The new type really does have slightly less backlash.”
+“<ruby>Vaa-ra<rt>Freeze</rt></ruby>. <ruby>Vaa-ra<rt>Freeze</rt></ruby>... I see? The new type really does have slightly less backlash.”
 
 “Right?”
 

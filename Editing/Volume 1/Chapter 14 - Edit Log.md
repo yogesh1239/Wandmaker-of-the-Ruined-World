@@ -33,3 +33,6 @@
 - All 19 prose paragraphs were checked against the source; past-tense narration, exact glossary terms, `晶雨[しょうう]`, and the final image marker were verified.
 - No footnotes were present; no `## Translator Notes` section was needed.
 - `グレムリン回収業` remained descriptive work collecting Gremlins by hand and was not rendered as `Recovery Team`.
+
+### Post-Migration Corrections
+- **source line 18 (晶雨[しょうう])**: “crystal rain—晶雨[しょうう]—” → “crystal rain” — accuracy (semantically identical reading)

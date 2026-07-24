@@ -8,7 +8,7 @@ After we'd walked for a while, the Blue Witch muttered.
 
 “Yeah, true. I don't know if it's because of the area or what, but only monsters weak enough for Hendensho to chase off show up around here.”
 
-When I waved my magic wand[Hendensho], the Blue Witch kept wandering along and tapped a branch of a deciduous tree bent under the weight of the snow with the tip of Cyanos, knocking a clump of snow onto the road.
+When I waved my <ruby>Hendensho<rt>magic wand</rt></ruby>, the Blue Witch kept wandering along and tapped a branch of a deciduous tree bent under the weight of the snow with the tip of Cyanos, knocking a clump of snow onto the road.
 
 “That's a good thing. It's better if there aren't any strong monsters.”
 

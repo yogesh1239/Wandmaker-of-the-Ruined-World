@@ -1,12 +1,12 @@
-Shirokarasu was the female boss of a black-market outfit operating in Suginami Ward.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> was the female boss of a black-market outfit operating in Suginami Ward.
 
-Shirokarasu had originally been a nightlife worker living in Shinjuku. She had been dating and living with a host-club boyfriend, but soon after the Gremlin Disaster began, that boyfriend was devoured by a monster and died right in front of her.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> had originally been a nightlife worker living in Shinjuku. She had been dating and living with a host-club boyfriend, but soon after the Gremlin Disaster began, that boyfriend was devoured by a monster and died right in front of her.
 
-That gruesome sight broke something in Shirokarasu. It was more than enough to destroy her common sense and decency.
+That gruesome sight broke something in <ruby>Shirokarasu<rt>White Crow</rt></ruby>. It was more than enough to destroy her common sense and decency.
 
-Taking advantage of the confusion after the Gremlin Disaster, Shirokarasu built her own faction. She gathered capable friends of her boyfriend who were covered head to toe in tattoos, along with women who were easy to sweet-talk, and started a black-market business.
+Taking advantage of the confusion after the Gremlin Disaster, <ruby>Shirokarasu<rt>White Crow</rt></ruby> built her own faction. She gathered capable friends of her boyfriend who were covered head to toe in tattoos, along with women who were easy to sweet-talk, and started a black-market business.
 
-In the world after the Gremlin Disaster, everyone was desperate. Shirokarasu took advantage of people's predicaments and made a killing.
+In the world after the Gremlin Disaster, everyone was desperate. <ruby>Shirokarasu<rt>White Crow</rt></ruby> took advantage of people's predicaments and made a killing.
 
 The little cold medicine she had hidden during the forced requisition of medicine turned into a large number of food ration coupons.
 
@@ -16,9 +16,9 @@ She sold monster blood by passing it off as “witch's blood,” and secretly bo
 
 She rounded up women with no family, trained them, set them up with men who held decent positions in the chaotic society, and reaped the benefits.
 
-Shirokarasu's gang made money hand over fist. Even in the middle of an unprecedented disaster, they were able to live in luxury.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby>'s gang made money hand over fist. Even in the middle of an unprecedented disaster, they were able to live in luxury.
 
-But Shirokarasu's good times did not last long.
+But <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s good times did not last long.
 
 It was because of witches and mages.
 
@@ -26,13 +26,13 @@ In every ward in Tokyo, Transcendents more or less maintained public safety.
 
 Most wards had food distributions, job assignments, and security forces that patrolled while hunting monsters. When a big problem arose, a witch who was a Transcendent stepped in.
 
-Shinjuku, where Shirokarasu had lived, was the Eyeball Witch's managed territory. The Eyeball Witch was a pacifist who disliked conflict, and she was lenient even with groups like Shirokarasu's.
+Shinjuku, where <ruby>Shirokarasu<rt>White Crow</rt></ruby> had lived, was the Eyeball Witch's managed territory. The Eyeball Witch was a pacifist who disliked conflict, and she was lenient even with groups like <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s.
 
-Once, the Eyeball Witch had visited her personally. Shirokarasu had braced herself for punishment, but the meeting was as pleasant as a neighborhood auntie worrying about her future. The whole thing was almost anticlimactic.
+Once, the Eyeball Witch had visited her personally. <ruby>Shirokarasu<rt>White Crow</rt></ruby> had braced herself for punishment, but the meeting was as pleasant as a neighborhood auntie worrying about her future. The whole thing was almost anticlimactic.
 
 The Eyeball Witch was soft.
 
-Shirokarasu had started to get cocky, thinking no one could touch her, but ominous rumors put a stop to that.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> had started to get cocky, thinking no one could touch her, but ominous rumors put a stop to that.
 
 Others in her line of work in the surrounding areas had begun disappearing one after another.
 
@@ -42,7 +42,7 @@ There was no talk of them being caught by security forces or killed by monsters.
 
 Without any warning, they had simply vanished.
 
-Some of Shirokarasu's subordinates took it as a good opportunity and suggested moving into the vacant turf. But their female boss had figured out what was happening, smacked their empty heads, and scolded them.
+Some of <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s subordinates took it as a good opportunity and suggested moving into the vacant turf. But their female boss had figured out what was happening, smacked their empty heads, and scolded them.
 
 Someone, probably the Foresight Mage, one of the Transcendents, was quietly disposing of criminal organizations with horrifying efficiency.
 
@@ -50,35 +50,35 @@ If something beyond human ability had happened, it was not the work of humans.
 
 Expanding their turf was out of the question.
 
-The Eyeball Witch and the Foresight Mage were close. The Eyeball Witch might have been soft, but the Foresight Mage was a man who got things done. If the Foresight Mage took the initiative for the Eyeball Witch's sake and started cleaning up Shinjuku Ward, Shirokarasu's group would be easily wiped out.
+The Eyeball Witch and the Foresight Mage were close. The Eyeball Witch might have been soft, but the Foresight Mage was a man who got things done. If the Foresight Mage took the initiative for the Eyeball Witch's sake and started cleaning up Shinjuku Ward, <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group would be easily wiped out.
 
-Shirokarasu and her people hastily packed their things and bolted in the night like startled rabbits.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> and her people hastily packed their things and bolted in the night like startled rabbits.
 
 Their destination was Suginami Ward.
 
-After fleeing into Suginami Ward, Shirokarasu's group realized they could no longer contact the subordinates who had been left behind in Shinjuku, unable to keep up with the rushed escape. They went pale and wiped away cold sweat. It seemed they had barely made it out in time.
+After fleeing into Suginami Ward, <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group realized they could no longer contact the subordinates who had been left behind in Shinjuku, unable to keep up with the rushed escape. They went pale and wiped away cold sweat. It seemed they had barely made it out in time.
 
-Shirokarasu's group spent a while living in terror, but no matter how long they waited, nothing happened. Eventually, they realized the Foresight Mage's reach did not extend to them and felt relieved.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group spent a while living in terror, but no matter how long they waited, nothing happened. Eventually, they realized the Foresight Mage's reach did not extend to them and felt relieved.
 
 The Foresight Mage was not an all-powerful judge. He could not see and monitor all of Tokyo.
 
-Shirokarasu's group relaxed and restarted their black-market business in Suginami Ward.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group relaxed and restarted their black-market business in Suginami Ward.
 
 This time, though, they stopped any operations that were too malicious so the Foresight Mage would not get angry. From the order and pattern of the operators who had been disposed of, they had a vague understanding of the line between what pissed the Foresight Mage off and what he allowed.
 
-Shirokarasu put half her black-market income toward establishing and running an orphanage that took in the many children orphaned by the Gremlin Disaster, currying favor with the Foresight Mage.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> put half her black-market income toward establishing and running an orphanage that took in the many children orphaned by the Gremlin Disaster, currying favor with the Foresight Mage.
 
 And that seemed to have worked.
 
 Once, the Foresight Mage had sent her a blank letter with nothing written on it. Just that made half her subordinates panic and run off, but although she seemed to have been marked as someone to watch, at least she had not been disposed of yet.
 
-The poor public safety in Suginami Ward, where they had set up their new base, suited Shirokarasu's group just fine.
+The poor public safety in Suginami Ward, where they had set up their new base, suited <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group just fine.
 
 The Pebble Witch, who governed Suginami Ward, was a NEET. She was a natural-born social misfit who had been a NEET since long before the Gremlin Disaster.
 
 Right after the Gremlin Disaster, the Pebble Witch had only guarded her own home. But the now-dead Bloodsucking Mage persuaded her, and she reluctantly began protecting Suginami Ward. Still, she was a NEET at heart, so she did not work much and never left the manga café she used as her base.
 
-The Pebble Witch could cast magic on Gremlins and create golems with Gremlins as their cores. They were troops that acted as a witch's hands and feet, much like the famous Eyeball Witch's familiars.
+The Pebble Witch could cast magic on Gremlins and create <ruby>golems<rt>stone dolls</rt></ruby> with Gremlins as their cores. They were troops that acted as a witch's hands and feet, much like the famous Eyeball Witch's familiars.
 
 These golems were stationed throughout Suginami Ward and hunted the ward's monsters in place of the shut-in witch herself, who never came out.
 
@@ -90,39 +90,39 @@ Since the golems that did the work of the security forces in other wards were li
 
 Even so, it was far better than dangerous zones with no witch, or the Zombie Witch's managed territory.
 
-Maybe it was in a NEET's nature, but the Pebble Witch disliked other witches bossing her around or lecturing her. That was convenient for Shirokarasu's group too. Even when other witches demanded that she hand over a criminal group like theirs, the Pebble Witch ignored or rejected them.
+Maybe it was in a NEET's nature, but the Pebble Witch disliked other witches bossing her around or lecturing her. That was convenient for <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group too. Even when other witches demanded that she hand over a criminal group like theirs, the Pebble Witch ignored or rejected them.
 
-The Pebble Witch did not especially protect Shirokarasu's group. But she did not drive them out either.
+The Pebble Witch did not especially protect <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group. But she did not drive them out either.
 
-In Suginami Ward, where public safety was just bad enough and witches did not interfere with them, Shirokarasu's group, who had lived through plenty of life-or-death scrapes, quickly spread and built a stable underworld.
+In Suginami Ward, where public safety was just bad enough and witches did not interfere with them, <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group, who had lived through plenty of life-or-death scrapes, quickly spread and built a stable underworld.
 
 Of course, if the Foresight Mage or even one witch got serious, they would have to run away with their tails between their legs again, so their position was hardly secure.
 
-In any case, Shirokarasu's group put down roots in Suginami Ward under the name Watarigarasu. On the surface, they were respectable citizens who ran an orphanage and pawnshop. Behind the scenes, they were one of Tokyo's leading black-market outfits, alive and well to this day.
+In any case, <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s group put down roots in Suginami Ward under the name <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>. On the surface, they were respectable citizens who ran an orphanage and pawnshop. Behind the scenes, they were one of Tokyo's leading black-market outfits, alive and well to this day.
 
 ---
 
 It was one day after the mushroom pandemic had passed. The cherry blossoms were all gone, and the trees had begun to grow thick with green leaves.
 
-Shirokarasu was appraising stolen goods her subordinates had procured in a room beneath the pawnshop in a Suginami Ward shopping-district building.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> was appraising stolen goods her subordinates had procured in a room beneath the pawnshop in a Suginami Ward shopping-district building.
 
-Her veteran subordinates could judge stolen goods, but a young rookie had procured this batch. Shirokarasu would not feel at ease until she checked it herself. It would hurt their reputation if a black-market organization that was supposed to pass off fakes got sold one itself.
+Her veteran subordinates could judge stolen goods, but a young rookie had procured this batch. <ruby>Shirokarasu<rt>White Crow</rt></ruby> would not feel at ease until she checked it herself. It would hurt their reputation if a black-market organization that was supposed to pass off fakes got sold one itself.
 
-The dark basement was lined with expensive furnishings that had once stood in luxury condos. The shelves were neatly stocked with Shirokarasu's favorite pre-collapse brand of cigarettes. She put the cigarettes the Tobacco Witch produced on the market, while keeping the valuable pre-collapse brands that would never be made again for herself. Bad money drives out good.
+The dark basement was lined with expensive furnishings that had once stood in luxury condos. The shelves were neatly stocked with <ruby>Shirokarasu<rt>White Crow</rt></ruby>'s favorite pre-collapse brand of cigarettes. She put the cigarettes the Tobacco Witch produced on the market, while keeping the valuable pre-collapse brands that would never be made again for herself. Bad money drives out good.
 
-Under the bright light of a lantern lit with magical fire, Shirokarasu set the half-smoked cigarette in the ashtray and carefully examined the wand on the table with a loupe.
+Under the bright light of a lantern lit with magical fire, <ruby>Shirokarasu<rt>White Crow</rt></ruby> set the half-smoked cigarette in the ashtray and carefully examined the wand on the table with a loupe.
 
 If the greenhorn's story was true, the thing before her should have been a 27-model general-purpose dual-layer Gremlin magic wand made by the peerless Wand Maker 0933. He said he had gotten it from a Tokyo Magic University graduate who had ruined himself over a woman, but counterfeits were circulating too. She could not trust his word alone.
 
-Watarigarasu had long made money from 0933's wands, but they had also taken a huge loss because of them. If it was real, it was a major deal. If it was fake, it was junk.
+<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> had long made money from 0933's wands, but they had also taken a huge loss because of them. If it was real, it was a major deal. If it was fake, it was junk.
 
-0933—the mysterious person once called the Craftsman of Ome—had become involved in Watarigarasu's business about two and a half years ago.
+0933—the mysterious person once called the Craftsman of Ome—had become involved in <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>'s business about two and a half years ago.
 
 With the opening of Tokyo Magic University, the mysterious Wand Maker whose existence had been whispered about ever since Cyanos appeared began releasing mass-produced wands to the public.
 
 Even though they were mass-produced, the first 25-model wands, made with incredible processing skill, were extremely appealing not only to people in above-board society but also to people in the underworld.
 
-Some people memorized the incantations they heard witches cast and kept the human-usable spells among them hidden away as trump cards. A number of those rare people had risen to become underworld big shots, and Shirokarasu was one of them.
+Some people memorized the incantations they heard witches cast and kept the human-usable spells among them hidden away as trump cards. A number of those rare people had risen to become underworld big shots, and <ruby>Shirokarasu<rt>White Crow</rt></ruby> was one of them.
 
 With a magic wand, a trump card became a weapon. The profits it brought were enormous.
 
@@ -132,13 +132,13 @@ People in the same trade from other wards were foolish enough to set foot in Ome
 
 But naturally, no one came back.
 
-To Shirokarasu, that was perfectly obvious. It was the height of stupidity.
+To <ruby>Shirokarasu<rt>White Crow</rt></ruby>, that was perfectly obvious. It was the height of stupidity.
 
 The Witch of Ome was a crazy woman who kept protecting a city with no one in it. She was not merely crazy, either. Within the Transcendent group known as the Tokyo Witches' Council, she was overwhelmingly the strongest, a living nuclear bomb. There was no question that anyone who poked her would get blown away.
 
 Do not mess with a witch, and she will not curse you.
 
-That was why the 25-model wands were difficult to obtain. Even Watarigarasu had only ever traded one.
+That was why the 25-model wands were difficult to obtain. Even <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> had only ever traded one.
 
 They sold that single wand for 15 boxes of antibiotics, six cases of nutritional supplements, three boxes of pills, eight boxes of chocolate, six 250 L drums of gasoline, and 10 bundles of Shinjuku Ward food ration coupons.
 
@@ -146,23 +146,23 @@ For just one magic wand.
 
 In pre-collapse terms, it was probably worth no less than 500 million yen.
 
-That one transaction greatly enriched Watarigarasu, solidified the organization's foundation, and let them add five nursery workers with childcare qualifications to the orphanage.
+That one transaction greatly enriched <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>, solidified the organization's foundation, and let them add five nursery workers with childcare qualifications to the orphanage.
 
 The following year's 26-model wands came with backlash-prevention mechanisms built in, improving their performance.
 
 As the 25-model wands became outdated, demand for the 26-model wands increased.
 
-Among the unaffiliated wizard[ウイザード]s who had picked up incantations by eavesdropping on witches, those who had not been able to properly use their trump cards because of magic backlash wanted these 26-model wands in particular.
+Among the unaffiliated wizards who had picked up incantations by eavesdropping on witches, those who had not been able to properly use their trump cards because of magic backlash wanted these 26-model wands in particular.
 
-For a large landowner secretly farming hidden fields outside a witch's managed territory, Watarigarasu went to great lengths to procure one 26-model wand.
+For a large landowner secretly farming hidden fields outside a witch's managed territory, <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> went to great lengths to procure one 26-model wand.
 
 This time, they sold it for a leg bone from the Dragon Witch, two rolls of the Spider Witch's spider-silk cloth, and 10 cartons of Tobacco Witch brand cigarettes. All of them were rare, valuable items too difficult to put a price on.
 
-Watarigarasu made a huge profit from this deal as well. Using the profits from reselling the valuables they had acquired, they successfully put one Tokyo Magic University graduate on retainer as the organization's magic instructor. They also hired five teachers with teaching licenses for the orphanage and installed three new pieces of playground equipment.
+<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> made a huge profit from this deal as well. Using the profits from reselling the valuables they had acquired, they successfully put one Tokyo Magic University graduate on retainer as the organization's magic instructor. They also hired five teachers with teaching licenses for the orphanage and installed three new pieces of playground equipment.
 
 But the following year's 27-model wands made them lose big.
 
-Watarigarasu had approached one of the students due to enter Tokyo Magic University in year 27 ahead of time. After enrollment, they had the student divert one 27-model wand to them by pretending it had been lost.
+<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> had approached one of the students due to enter Tokyo Magic University in year 27 ahead of time. After enrollment, they had the student divert one 27-model wand to them by pretending it had been lost.
 
 Just as they were deciding which big customer to unload the 27-model wand they had risked their necks to obtain on, Tokyo Magic University began manufacturing standard mass-produced wands.
 
@@ -176,7 +176,7 @@ The Craftsman of Ome's wands were still the highest-grade products. They were hi
 
 But they no longer commanded the outrageous prices they once had.
 
-For Watarigarasu, year 27 became a year of lying low because of the deficit. Their only major change was introducing a birthday-cake system at the orphanage.
+For <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>, year 27 became a year of lying low because of the deficit. Their only major change was introducing a birthday-cake system at the orphanage.
 
 They had not yet been able to acquire the latest 28-model wands, because the university's security had tightened after last year's lost-wand incident. The mushroom pandemic had also caused no small number of casualties in the organization and orphanage, which hurt.
 
@@ -186,9 +186,9 @@ According to an information source who worked at the Bunkyo Ward Office, the Wan
 
 0933 was under the Blue Witch's protection, was connected to the president of Tokyo Magic University, was relied upon by the Foresight Mage, and had powerful connections to the Flower Witch. Recently, he had sealed the Flame Witch and was on close terms with the Flame Heir Witch who had taken over. It was unconfirmed, but he was also suspected of having friendly ties with the Hell Witch (she had been seen leaving Tokyo carrying a strange wand).
 
-That powder keg of a network left Shirokarasu at a loss.
+That powder keg of a network left <ruby>Shirokarasu<rt>White Crow</rt></ruby> at a loss.
 
-If she carelessly laid a hand on 0933, Watarigarasu would probably be flattened along with all of Suginami Ward. The Pebble Witch's policy of refusing diplomacy was only a thin barrier.
+If she carelessly laid a hand on 0933, <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> would probably be flattened along with all of Suginami Ward. The Pebble Witch's policy of refusing diplomacy was only a thin barrier.
 
 0933's works sold for outlandish prices.
 
@@ -206,7 +206,7 @@ The three new technologies the Tohoku Hunting Association had supposedly brought
 
 Should she send additional people to get information ahead of the official announcement? There had also been a tip that a currency-issuance plan to end the ration system was moving forward, so they needed to verify that too. There was a lot to think about.
 
-As Shirokarasu thought about the past and present, she found proof that the magic wand procured by the greenhorn was fake. Clicking her tongue, she threw the wand into a trash can in the corner.
+As <ruby>Shirokarasu<rt>White Crow</rt></ruby> thought about the past and present, she found proof that the magic wand procured by the greenhorn was fake. Clicking her tongue, she threw the wand into a trash can in the corner.
 
 If it really had been a 27-model general-purpose dual-layer Gremlin magic wand made by 0933, it was missing a feature it could not possibly lack.
 
@@ -218,23 +218,23 @@ The wand brought in did not have that feature.
 
 The Gremlin core did not scratch even when scraped with a diamond, but it looked warped for a 0933 piece, and the results of magic-excitation acoustic appraisal were poor. Both the handle and core were low quality. It was definitely fake.
 
-Annoyed, Shirokarasu put the cigarette she had left in the ashtray between her lips and drew the smoke deep into her lungs.
+Annoyed, <ruby>Shirokarasu<rt>White Crow</rt></ruby> put the cigarette she had left in the ashtray between her lips and drew the smoke deep into her lungs.
 
 Well, it was the greenhorn's mistake. It was like a puppy bringing back trash in its mouth, thinking it was treasure. A little discipline for the greenhorn would be enough.
 
-The problem was the insolent bastard who had passed off a fake on them while knowing they were Watarigarasu. She needed to make sure they could never disrespect Watarigarasu like that again.
+The problem was the insolent bastard who had passed off a fake on them while knowing they were <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>. She needed to make sure they could never disrespect <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> like that again.
 
-As Shirokarasu smoked and wrote up the relevant orders, someone suddenly knocked on the basement door. Of the two doors, it was the one that led to the ground floor.
+As <ruby>Shirokarasu<rt>White Crow</rt></ruby> smoked and wrote up the relevant orders, someone suddenly knocked on the basement door. Of the two doors, it was the one that led to the ground floor.
 
 “What?”
 
 “You have a customer.”
 
-“Ah, give me a moment... Even a pebble has its worries[ツププヴイビイデイオーオ].”
+“Ah, give me a moment... <ruby>Tsupupu Vuibii Deio-o<rt>Even a pebble has its worries</rt></ruby>.”
 
-Shirokarasu once again put her cigarette in the ashtray and cast a basic Pebble Witch spell on the sharp Gremlin she took from her pocket. She had learned it by giving the otaku-minded Pebble Witch a collected volume of the latest installments of a famous manga artist’s series that had been circulating on the market.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> once again put her cigarette in the ashtray and cast a basic Pebble Witch spell on the sharp Gremlin she took from her pocket. She had learned it by giving the otaku-minded Pebble Witch a collected volume of the latest installments of a famous manga artist’s series that had been circulating on the market.
 
-The enchanted Gremlin floated up at Shirokarasu’s will and clung above the door leading to the ground floor. Its magic-power cost was absurdly high for what it did, and it lasted less than ten minutes. The spell could barely pierce bone, but its surprise-attack potential against people was excellent, so she used it often.
+The enchanted Gremlin floated up at <ruby>Shirokarasu<rt>White Crow</rt></ruby>’s will and clung above the door leading to the ground floor. Its magic-power cost was absurdly high for what it did, and it lasted less than ten minutes. The spell could barely pierce bone, but its surprise-attack potential against people was excellent, so she used it often.
 
 The people brought down to her were not customers of the pawnshop they ran as a front. They were black-market customers.
 
@@ -246,9 +246,9 @@ The customer led in after the signal was a large man she had never seen before.
 
 He stood nearly two meters tall, with thick muscles and a solid build. But he did not look very smart. He was like a stupid troll in a suit stretched tight across his body.
 
-She already had a bad feeling, but a woman’s intuition missed the mark sometimes. Staying on guard, Shirokarasu asked what he wanted.
+She already had a bad feeling, but a woman’s intuition missed the mark sometimes. Staying on guard, <ruby>Shirokarasu<rt>White Crow</rt></ruby> asked what he wanted.
 
-“Shirokarasu of Watarigarasu. And you?”
+“<ruby>Shirokarasu<rt>White Crow</rt></ruby> of <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>. And you?”
 
 “Mobu. I want to sell this.”
 
@@ -256,7 +256,7 @@ The large man who called himself Mobu tore open the bundle in his hands without 
 
 “Huh? This can’t be...”
 
-Seeing what came out, Shirokarasu muttered and fought to keep her pounding heart and shock from showing on her face.
+Seeing what came out, <ruby>Shirokarasu<rt>White Crow</rt></ruby> muttered and fought to keep her pounding heart and shock from showing on her face.
 
 It was a top-quality magic wand, obvious at a glance. It had the hallmarks of 0933’s work all over it.
 
@@ -264,11 +264,11 @@ The sturdy, no-frills metal handle and its fine decorations set it clearly apart
 
 In other words, it was a witch’s magic wand.
 
-With trembling hands, Shirokarasu turned the wand over. When she saw the inscription Witch of Flame carved into its handle, she felt dizzy.
+With trembling hands, <ruby>Shirokarasu<rt>White Crow</rt></ruby> turned the wand over. When she saw the inscription Witch of Flame carved into its handle, she felt dizzy.
 
 It was the Flame Witch’s wand.
 
-Its wielder had been sealed away, leaving the Flame Witch’s wand without an owner. Why was something too dangerous for Watarigarasu to handle sitting here?
+Its wielder had been sealed away, leaving the Flame Witch’s wand without an owner. Why was something too dangerous for <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> to handle sitting here?
 
 “How did you get something like this?”
 
@@ -282,7 +282,7 @@ Of course, getting a witch’s magic wand would mean a huge deal unlike anything
 
 But in return, they would definitely face retaliation and lose their lives. Even the Eyeball Witch would surely get angry.
 
-Shirokarasu took a deep breath and tried to grasp the situation. There was still hope.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> took a deep breath and tried to grasp the situation. There was still hope.
 
 Maybe one of the witches was backing Mobu and had made him steal the Flame Witch’s wand. The Tokyo Witches’ Council was not one big happy family.
 
@@ -304,11 +304,11 @@ She couldn’t believe an idiot like this had managed to steal a witch’s magic
 
 Stealing the older sister’s wand from the home of the Flame Heir Witch, who had only recently taken over, while she was away. With enough good luck—or enough bad luck—it was entirely possible.
 
-Shirokarasu quickly pulled out her pocket watch and checked the time. There was not much time left until the meeting ended.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> quickly pulled out her pocket watch and checked the time. There was not much time left until the meeting ended.
 
 If he had used no intermediaries, someone would have seen Mobu. It would not have been strange if the theft had already been discovered, the Flame Heir Witch had been informed, and the search had begun.
 
-Shirokarasu pushed the Flame Witch’s wand back to Mobu and made it simple enough that even an idiot would understand.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> pushed the Flame Witch’s wand back to Mobu and made it simple enough that even an idiot would understand.
 
 “I can’t buy this. Go return it right now and beg for your life.”
 
@@ -320,9 +320,9 @@ Honestly, she wanted him to leave even a second sooner. What will the witches th
 
 Watching an idiot die on his own was fine entertainment, but she did not want to get dragged into that spectacle.
 
-The idiot looked like he thought he was smart and sneered at Shirokarasu.
+The idiot looked like he thought he was smart and sneered at <ruby>Shirokarasu<rt>White Crow</rt></ruby>.
 
-“What, you scared? Even the great Shirokarasu is just a woman after all!”
+“What, you scared? Even the great <ruby>Shirokarasu<rt>White Crow</rt></ruby> is just a woman after all!”
 
 “You seem like you want to die, but I’ll leave your execution to the witch. The way out is over there.”
 
@@ -342,31 +342,31 @@ She pointed to the door leading to the ground floor, but Mobu kept arguing.
 
 There was no getting through to him.
 
-Shirokarasu decided not to let Mobu leave alive, but to make him into a corpse and send him to the Flame Heir Witch.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> decided not to let Mobu leave alive, but to make him into a corpse and send him to the Flame Heir Witch.
 
 That seemed like it would be quicker.
 
-Shirokarasu willed the Gremlin waiting above the door to attack the back of Mobu’s head.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> willed the Gremlin waiting above the door to attack the back of Mobu’s head.
 
 But somehow, Mobu noticed the surprise attack at the last moment. With agility far beyond what his clumsy-looking bulk suggested, he dodged the Gremlin’s arrowhead.
 
 “Whoa!? Watch it!”
 
-Shirokarasu tried to send the Gremlin that had punched a hole through the executive desk at Mobu again, but Mobu was faster. He drew his handgun and aimed between Shirokarasu’s eyebrows.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> tried to send the Gremlin that had punched a hole through the executive desk at Mobu again, but Mobu was faster. He drew his handgun and aimed between <ruby>Shirokarasu<rt>White Crow</rt></ruby>’s eyebrows.
 
-Shirokarasu clicked her tongue, raised both hands, slowly moved the Gremlin to her feet, and crushed it beneath her heel for him to see.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> clicked her tongue, raised both hands, slowly moved the Gremlin to her feet, and crushed it beneath her heel for him to see.
 
 His words and behavior had been so idiotic that she had underestimated him without realizing it. His story about stealing a wand from a witch’s house seemed to be true.
 
-“Your bloodlust was leaking, Shirokarasu-san. I went out of my way to keep this deal peaceful, and then you pull something like that?”
+“Your bloodlust was leaking, <ruby>Shirokarasu<rt>White Crow</rt></ruby>-san. I went out of my way to keep this deal peaceful, and then you pull something like that?”
 
 “I admit I let my guard down. But if you shoot me dead here, my subordinates will flood in and kill you.”
 
-“Not happening. Did you think I came into Watarigarasu’s basement without a plan?”
+“Not happening. Did you think I came into <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>’s basement without a plan?”
 
 “...”
 
-Honestly, she had. But with both hands still raised, Shirokarasu kept quiet and waited for him to continue.
+Honestly, she had. But with both hands still raised, <ruby>Shirokarasu<rt>White Crow</rt></ruby> kept quiet and waited for him to continue.
 
 “I’ve got my men lying in wait at the orphanage. If I don’t come back, they’ll attack.”
 
@@ -376,9 +376,9 @@ Honestly, she had. But with both hands still raised, Shirokarasu kept quiet and 
 
 “...Very well. Our vault is beyond the back door. I’ll shout to have them open it. Don’t shoot me. Moeka!”
 
-When Shirokarasu called out, the back door leading to the vault opened at once with a heavy thud.
+When <ruby>Shirokarasu<rt>White Crow</rt></ruby> called out, the back door leading to the vault opened at once with a heavy thud.
 
-Shirokarasu spoke to her close aide Moeka, who looked like she had no idea what was going on.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> spoke to her close aide Moeka, who looked like she had no idea what was going on.
 
 “Moeka, listen carefully. ‘Obey every word this man says, and never defy him. Treat his orders as mine.’ Understood?”
 
@@ -388,7 +388,7 @@ Shirokarasu spoke to her close aide Moeka, who looked like she had no idea what 
 
 “Heh. You’re quick to understand. All right, don’t try anything...!”
 
-With his handgun pressed against the back of Moeka’s head, Mobu disappeared into the room beyond while keeping a wary eye on Shirokarasu.
+With his handgun pressed against the back of Moeka’s head, Mobu disappeared into the room beyond while keeping a wary eye on <ruby>Shirokarasu<rt>White Crow</rt></ruby>.
 
 The door closed. A moment of silence followed.
 
@@ -396,7 +396,7 @@ Then came Mobu’s surprised shout and scream. A moment later, silence again.
 
 A little later, Moeka opened the door, her cute, childlike face thickly spattered with blood.
 
-Moeka came from Saitama City, a world of carnage, and was Watarigarasu’s top fighter.
+Moeka came from Saitama City, a world of carnage, and was <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>’s top fighter.
 
 “Boss, it’s done.”
 
@@ -408,22 +408,22 @@ Moeka came from Saitama City, a world of carnage, and was Watarigarasu’s top f
 
 Moeka raced up to the ground floor like the wind.
 
-A subordinate came to see what had happened. Shirokarasu gave them the Flame Witch’s wand, explained the circumstances, and sent them off to deliver it. She considered sending Mobu along with it, but the large man was heavy and difficult to carry. It would be better to hurry and return the wand alone.
+A subordinate came to see what had happened. <ruby>Shirokarasu<rt>White Crow</rt></ruby> gave them the Flame Witch’s wand, explained the circumstances, and sent them off to deliver it. She considered sending Mobu along with it, but the large man was heavy and difficult to carry. It would be better to hurry and return the wand alone.
 
 If she showed them the corpse later and explained what had happened, that should prove her good faith. They probably would not treat her badly. The Flame Heir Witch was rumored to be a reasonable witch, like her older sister.
 
-Worn out, Shirokarasu leaned deep into her expensive office chair and picked up the cigarette that had burned short in the ashtray. She took a deep drag almost to the filter, close enough to burn herself, held the smoke in her lungs, and slowly exhaled white smoke.
+Worn out, <ruby>Shirokarasu<rt>White Crow</rt></ruby> leaned deep into her expensive office chair and picked up the cigarette that had burned short in the ashtray. She took a deep drag almost to the filter, close enough to burn herself, held the smoke in her lungs, and slowly exhaled white smoke.
 
 The thugs targeting the orphanage would soon be quiet too.
 
-Watarigarasu treasured the orphanage children. The whole organization protected them. They were, without exaggeration, its lifeline.
+<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> treasured the orphanage children. The whole organization protected them. They were, without exaggeration, its lifeline.
 
-It was not hard to imagine that if they stopped their charity work, every Watarigarasu member would die from some mysterious power.
+It was not hard to imagine that if they stopped their charity work, every <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> member would die from some mysterious power.
 
 ![p089.jpg](images/p089.jpg)
 
-Pure self-interest, 100 percent. Yes, the orphanage ran entirely on self-interest. But “Shirokarasu onee-san,” who often brought snacks and toys, was popular with the orphans, and Shirokarasu felt conflicted about it.
+Pure self-interest, 100 percent. Yes, the orphanage ran entirely on self-interest. But “<ruby>Shirokarasu<rt>White Crow</rt></ruby> onee-san,” who often brought snacks and toys, was popular with the orphans, and <ruby>Shirokarasu<rt>White Crow</rt></ruby> felt conflicted about it.
 
 Children. They were bound to become no-good people once they grew up.
 
-Yet the female boss of an underworld organization hoped they would not become bad adults who called her “Big Sis Shirokarasu.”
+Yet the female boss of an underworld organization hoped they would not become bad adults who called her “Big Sis <ruby>Shirokarasu<rt>White Crow</rt></ruby>.”

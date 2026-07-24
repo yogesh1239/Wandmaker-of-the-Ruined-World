@@ -72,7 +72,7 @@ I'm not a bad person! I only made a little money producing copyright-infringing 
 
 "U-Um, well..."
 
-While her ridiculously loud voice rattled my eardrums and I shook hard enough to cause an earthquake, I heard the familiar incantation, "Freezing Javelin[ドウ・ヴアアラー]," and the oni woman was blown away, rolling onto the road.
+While her ridiculously loud voice rattled my eardrums and I shook hard enough to cause an earthquake, I heard the familiar incantation, "<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>," and the oni woman was blown away, rolling onto the road.
 
 Whoa, my savior!
 
@@ -92,7 +92,7 @@ At first, the Blue Witch only used the eyeball familiar to contact me for quick 
 
 Lately, she'd made me listen to pointless chatter for about an hour every night. No wonder I wanted to block her calls.
 
-"You blocked my calls!? You idiot, then what's the point of the communicator—Freezing Javelin[ドウ・ヴアアラー]. No wonder you never answered. You... Honestly, you...!"
+"You blocked my calls!? You idiot, then what's the point of the communicator—<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>. No wonder you never answered. You... Honestly, you...!"
 
 The Blue Witch muttered as she blasted away the Hell Witch whenever she tried to come closer.
 
@@ -102,7 +102,7 @@ The Blue Witch muttered as she blasted away the Hell Witch whenever she tried to
 
 "That's fair...? Sorry. Maybe I was in the wrong."
 
-"Not maybe. You were in the wrong. Because of you, this annoying situation got even more annoying. Freezing Javelin[ドウ・ヴアアラー]."
+"Not maybe. You were in the wrong. Because of you, this annoying situation got even more annoying. <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>."
 
 After being blown away by ice spears over and over, the huge oni woman raised both hands in surrender.
 
