@@ -16,7 +16,7 @@ The Tohoku Hunting Association was a survivor community based in Sendai, run by 
 
 It had a population of 200,000. Simply put, that meant each hunter protected 40,000 people. The other large survivor communities—the Hokkaido Magic Beast Farm, Lake Biwa Pact, and Arataki Group—were probably at about the same ratio.
 
-![p024.jpg](images/p024.jpg)
+![p024.jpg](localized-images/p024.jpg)
 
 The Tokyo Witches' Council, on the other hand, had 2.2 million people for 16 members. About 140,000 per person.
 
