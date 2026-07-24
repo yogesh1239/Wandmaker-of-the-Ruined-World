@@ -12,10 +12,11 @@
 ## English Localization
 - `Wand Maker of the Ruined World`
 - `Vol. 4`
-- Leave both credits unchanged.
+- `Kurodome Hagane`
+- `Kayahara`
 
 ## Edit Prompt
-Replace only the central vertical Japanese title with `Wand Maker of the Ruined World` and replace the circled `④` with `Vol. 4`, preserving their central alignment, black color, and title-page weight. Leave the two Japanese credit names and the pale vertical English side title unchanged. Do not change the white background.
+Use the shared Volumes 2–4 title-page/typesetting system. Remove the pale side title and replace the central vertical Japanese title with the page's sole title treatment, `Wand Maker of the Ruined World`, set vertically as a rotated English line. Replace the circled `④` with `Vol. 4` beneath it. Replace `黒留 ハガネ` with `Kurodome Hagane` and `かやはら` with `Kayahara`. Preserve the source's vertical composition, black credit color, restrained title-page weight, tracking, and line spacing. The final page must show the English title exactly once. Do not change the white background or invent any decorative element.
 
 ## Notes / Uncertainties
-Credit names are not glossary entries and remain as printed.
+All four Japanese regions are legible. Credit romanizations follow the cover's printed roman credits and the project metadata.
