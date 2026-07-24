@@ -370,7 +370,7 @@ I'd heard a ridiculous story, but there was one thing I could say for sure.
 
 “Hey. I don't know much about how conversations like this work either, but you probably shouldn't tell anyone else about that fetish.”
 
-![p057.jpg](images/p057.jpg)
+![p057](localized-images/p057.png)
 
 “Guh...!”
 
