@@ -372,7 +372,7 @@ The name was easy to understand too.
 Magic power was “wisely viewed and determined,” so it was Kenshi.[^2]
 
 
-![p266.jpg](images/p266.jpg)
+![p266](localized-images/p266.png)
 
 
 Man, that’s a great name for a unit!
