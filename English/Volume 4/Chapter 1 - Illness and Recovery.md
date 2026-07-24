@@ -114,7 +114,7 @@ After finishing the examination, the doctor pressed hard on my lower abdomen and
 
 “I believe it is appendicitis.”
 
-![p022.jpg](images/p022.jpg)
+![p022.jpg](localized-images/p022.jpg)
 
 “Appendicitis...? Is that a fatal disease?”
 
