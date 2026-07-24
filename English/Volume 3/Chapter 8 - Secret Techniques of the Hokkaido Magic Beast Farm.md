@@ -346,4 +346,4 @@ From today on, you are members of the Ori family. Don't think of the Flame Witch
 
 I'll take care of your food and home, so become the masters of my furnace and kiln and help me with my work.
 
-![p135.jpg](images/p135.jpg)
+![p135.jpg](localized-images/p135.jpg)
