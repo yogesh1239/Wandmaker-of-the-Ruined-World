@@ -46,7 +46,7 @@ I won't be fooled again! You scammer!
 
 “W-What are you talking about?”
 
-![p042.jpg](images/p042.jpg)
+![p042.jpg](localized-images/p042.jpg)
 
 “Calm down, social cripple. Listen to me before you start yapping.”
 
