@@ -168,7 +168,7 @@ After seeing her off, I stayed rooted in the workshop.
 
 She had hugged me so suddenly that I still had not gotten over being shaken up. Hiyori used to smell of blood and gunpowder, which was pretty alarming, but this time she smelled nice. Like perfume.
 
-![p271.jpg](images/p271.jpg)
+![p271.jpg](localized-images/p271.jpg)
 
 My heart felt kind of weird too. It was pounding.
 
