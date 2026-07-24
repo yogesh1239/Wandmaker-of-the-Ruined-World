@@ -252,7 +252,7 @@ Cracks in the marbled Gremlin didn't affect magic-power recovery speed either. A
 
 Even after improving it as much as possible, the effect was tiny. But faster magic-power recovery couldn't hurt. If I built it into a wand, I could improve its performance. A 5% increase might be a drop in the bucket for ordinary people, but for people with insanely huge magic-power reserves like witches and mages, it wasn't something to laugh off.
 
-![p271.jpg](images/p271.jpg)
+![p271.jpg](localized-images/p271.jpg)
 
 But I decided not to embed a marbled Gremlin in a wand.
 
