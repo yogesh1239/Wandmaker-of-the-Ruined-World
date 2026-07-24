@@ -1,7 +1,7 @@
 # Image Localization Spec — s-h3
 
 ## Source Image Path + Type
-`Source/Volume 4/images/s-h3.jpg` — booklet colophon page; text-bearing.
+`Source/Volume 4/images/s-h3.jpg` — booklet colophon/legal page; text-bearing. The configured EPUB policy retains this asset in Japanese.
 
 ## Verbatim Japanese
 - `崩壊世界の魔法杖職人４　小冊子`
@@ -12,15 +12,10 @@
 - Existing roman line: `© Hagane Kurodome 2026　Printed in Japan`
 
 ## English Localization
-- `Wand Maker of the Ruined World 4 Booklet`
-- `TOP SECRET FILES`
-- `Published by` / `KADOKAWA Corporation`
-- `Edited by` / `MF Bunko J Editorial Department`
-- `Design` / `Mushikago Graphics (Tanigome Kabuto)`
-- Retain the existing English line: `© Hagane Kurodome 2026  Printed in Japan`
+- **No replacement text.** Retain the original Japanese colophon unchanged under `novel.config.md`.
 
 ## Edit Prompt
-The user's every-illustration localization requirement overrides the default legal-matter preservation policy for this asset. Use the shared Volumes 2–4 colophon/typesetting system. Replace every Japanese line with its paired English wording while retaining the source hierarchy, two-column credit alignment, left margin, line spacing, and large blank upper field. Keep the existing English copyright/printing line unchanged and in place. Remove all Japanese glyphs; add or omit nothing else.
+Do not edit, translate, remove, mask, reposition, or add any text or artwork in this image. Preserve the original colophon exactly as supplied.
 
 ## Notes / Uncertainties
-All text is legible. This is a colophon, not an author/illustrator biography page. `Mushikago Graphics` and `Tanigome Kabuto` are direct kana romanizations; neither appears in the project glossary.
+All text is legible. `novel.config.md` explicitly says to retain the Japanese colophon and original publisher/legal matter. The existing `English/Volume 4/localized-images/s-h3.png` is therefore visually audited but must not be selected as a swap or referenced by the final chapter.

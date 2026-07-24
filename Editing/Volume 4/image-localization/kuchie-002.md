@@ -11,6 +11,7 @@
 - Dialogue region, center: `「なんでって……それは……」`
 - Dialogue region, right: `「んー。確かにキュアノスも御守りも青だし……寒色系で合わせるのもアリか。大利的にはどうなんだ？　赤が好きか？　大利の火蜥蜴たちの色に合わせるのもアリな気がしてきた」`
 - Dialogue region, lower right: `「いいなぁ。機能美生物だ……！」`
+- Existing roman label beside `大利賢師`: `Kenshi Ori`
 
 ## English Localization
 - `Blue Witch`
@@ -20,9 +21,10 @@
 - `Why? Well... that's...`
 - `Hmm. Cyanos and the amulet are both blue too... Going with cool colors could work. What about you, Ori? Do you like red? Matching the colors of Ori's fire salamanders might work too.`
 - `Nice. A functionally beautiful creature...!`
+- Replace the existing reversed-order roman label `Kenshi Ori` with `Ori Kenshi`.
 
 ## Edit Prompt
-Replace only each transcribed Japanese label and dialogue region with its paired English line. Preserve each region's vertical orientation, line breaks as far as English permits, color, glow, weight, and placement. Do not add dialogue to the empty speech balloon. Do not alter the existing roman-letter labels `Blue Witch` and `Kenshi Ori`, the bird inset, or any art.
+Use `Editing/image-localization-typesetting-style.md`. Replace only each transcribed Japanese label and dialogue region with its paired English line. Also replace only the existing roman label `Kenshi Ori` with the glossary-locked Japanese name order `Ori Kenshi`; retain the existing roman `Blue Witch` label. Use the illustrated-dialogue category (Noto Sans SemiBold, 1.12 line height, 0.45-line paragraph spacing), preserving each region's line breaks as far as English permits, color, glow, weight, and placement. Do not add dialogue to the empty speech balloon. Do not alter the bird inset or any art.
 
 ## Notes / Uncertainties
-`キュアノス` is rendered as `Cyanos` per glossary. The image’s existing English character labels may remain; the paired Japanese labels are the only replacement targets.
+`キュアノス` is rendered as `Cyanos` per glossary. `Kenshi Ori` is a banned reversed-order form under the glossary's `大利賢師` entry, so this spec explicitly authorizes correcting that existing roman label.
