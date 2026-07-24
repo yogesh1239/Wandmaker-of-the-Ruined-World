@@ -2,6 +2,8 @@
 
 ![Volume 3 color frontispiece](localized-images/kuchie-001.png)
 
+![Volume 3 character frontispiece](localized-images/kuchie-002.png)
+
 ![Volume 3 design page](localized-images/kuchie-005.png)
 
 ![Volume 3 title page](localized-images/titlepage.png)
