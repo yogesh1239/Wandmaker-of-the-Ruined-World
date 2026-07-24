@@ -308,4 +308,4 @@ And two hours after the Foresight Mage lost consciousness.
 
 The Arataki Group's surprise attack on the still-unprepared Tokyo Witches' Council began.
 
-![p111.jpg](images/p111.jpg)
+![p111.jpg](localized-images/p111.jpg)
