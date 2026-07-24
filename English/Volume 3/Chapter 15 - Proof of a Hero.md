@@ -316,7 +316,7 @@ An hour passed without the tension easing.
 
 Daidarabocchi did not move.
 
-![p227.jpg](images/p227.jpg)
+![p227.jpg](localized-images/p227.jpg)
 
 Another hour passed, and as the sun began to sink behind the mountains, a small bird landed on Daidarabocchi's wide-open eye.
 
