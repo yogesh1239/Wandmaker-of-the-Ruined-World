@@ -420,7 +420,7 @@ The thugs targeting the orphanage would soon be quiet too.
 
 It was not hard to imagine that if they stopped their charity work, every <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> member would die from some mysterious power.
 
-![p089.jpg](images/p089.jpg)
+![p089.jpg](localized-images/p089.jpg)
 
 Pure self-interest, 100 percent. Yes, the orphanage ran entirely on self-interest. But “<ruby>Shirokarasu<rt>White Crow</rt></ruby> onee-san,” who often brought snacks and toys, was popular with the orphans, and <ruby>Shirokarasu<rt>White Crow</rt></ruby> felt conflicted about it.
 
