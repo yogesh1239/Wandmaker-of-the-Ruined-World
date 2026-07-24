@@ -472,7 +472,7 @@ They were really fired up. Ever since Fuyo appeared, it felt like the three of t
 
 As I watched to see what they planned to do, the three of them scurried over to where broccoli was planted in the backyard vegetable garden and started working hard to dig up the soil with their front paws.
 
-![p068.jpg](images/p068.jpg)
+![p068.jpg](localized-images/p068.jpg)
 
 They meeped at me like they were urging me on, so I helped dig. We uncovered a hefty root as thick as my upper arm.
 
