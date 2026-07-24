@@ -240,4 +240,4 @@ The top of the Arataki Group was dead. There was no one left to hold the organiz
 
 With the Blue Witch and the others retaking Magic University, the Arataki Group's attack on Tokyo had effectively come to an end.
 
-![p208.jpg](images/p208.jpg)
+![p208.jpg](localized-images/p208.jpg)
