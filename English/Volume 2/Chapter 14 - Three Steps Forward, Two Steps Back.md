@@ -357,7 +357,7 @@ Starting today, it was back to business as usual.
 
 I'll leave all the negotiations with outsiders to you. I'm going all in on my hobbies. I got all kinds of ideas while I was nursing you.
 
-![p256.jpg](images/p256.jpg)
+![p256.jpg](localized-images/p256.jpg)
 
 ---
 
