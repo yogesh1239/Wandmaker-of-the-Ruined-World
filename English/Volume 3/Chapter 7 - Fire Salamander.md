@@ -142,7 +142,7 @@ The Blue Witch grabbed me by the collar and forcibly pulled me back.
 
 “Idiot, I told you! Did it burn you? <ruby>Do<rt>Freeze</rt></ruby>────”
 
-![p110.jpg](images/p110.jpg)
+![p110.jpg](localized-images/p110.jpg)
 
 “Whoa, wait, wait, wait...!”
 
