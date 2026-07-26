@@ -164,7 +164,7 @@ To do that, I want to know how much magic power you have. I've heard you have a 
 
 When I asked again because I couldn't keep up, Professor Ohinata kindly rephrased it.
 
-“Um, how many times can you use the easiest magic in a row? You know, the spell where you shout <ruby>A゙-<rt>Fire</rt></ruby> and shoot a white beam, like a screaming beaver.”
+“Um, how many times can you use the easiest magic in a row? You know, the spell where you shout <ruby>Agh-<rt>Fire</rt></ruby> and shoot a white beam, like a screaming beaver.”
 
 “Oh, that one. Hmm, come to think of it, I've never properly counted. How many? Around 50 or 60? I can fire <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby> three times. Four is impossible.”
 
@@ -226,13 +226,13 @@ Then let's practice right away. Okay, together in a loud voice!
 
 <ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>!”
 
-“ヨモホロゲジュヤタケタテタッ... I tripped over it.”
+“Yomohoroge Jyuya Taketatetat... I tripped over it.”
 
-“Are you okay? Hmm, why don't you try pronouncing it slowly at first? `タケタテェエ` is especially easy to get tongue-tied on, so focus on that part.
+“Are you okay? Hmm, why don't you try pronouncing it slowly at first? `Taketatee` is especially easy to get tongue-tied on, so focus on that part.
 
 Okay, slowly, repeat after me! <ruby>Taketatee<rt>If I could know</rt></ruby>.”
 
-“タケタテーエ. No, that's wrong. タケタテッ, タケタケ... I'm gonna lose it.”
+“taketate-e. No, that's wrong. taketate, taketake... I'm gonna lose it.”
 
 “C-Calm down...!”
 

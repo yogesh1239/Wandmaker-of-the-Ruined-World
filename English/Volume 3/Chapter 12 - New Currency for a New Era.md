@@ -12,7 +12,7 @@ Just recently, they had even broken through the window screen from outside, gott
 
 At first I thought Mokutan might have been startled by its reflection in the window again, but then the doorbell rang, and I knew that wasn't it.
 
-The steel-sheep wool I'd ordered had arrived.
+The steel sheep wool I'd ordered had arrived.
 
 “Mokutan! Don't breathe fire!”
 

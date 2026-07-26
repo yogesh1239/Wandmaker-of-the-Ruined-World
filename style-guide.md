@@ -70,7 +70,7 @@ After mass deployment of magic-power-training coffins confirms training can incr
 Veteran Nerima Ward carpenter Sugoi Daiku built the Spider Witch a new home from salvaged lumber, with slime-glass windows, heavy-duty flooring, and built-in amulets that boost her magic-power recovery. The normally reclusive Spider Witch wanted a welcoming place for a male friend she hoped might visit, leaving Sugoi encouraged by how much the project delighted her.
 
 ### Volume 4, Chapter 18 — Wand Maker of the Ruined World 4 Booklet - Top Secret Files
-This configured booklet artifact contained only the image markers `s-h1.jpg`, `s-h2.jpg`, and `s-p003.jpg`, all preserved exactly in the final chapter. It added no extractable prose, terms, characters, voice evidence, or plot state.
+The booklet documented Volume 4's cast, chronology, magic items, chapter commentary, setting notes, district-guard tournament, survivor communities, research papers, and Ori's practical directives to Fuyo; it also recorded the dead Arataki Group Transcendents and several futures averted by the Foresight Mage. In “Flower Language,” Ori and Hiyori asked Fuyo to grow a get-well gift for Kei, but human taboos ruined the first arrangement; Ori then unknowingly assembled a romantically suggestive bouquet for Fuyo, leaving Fuyo jealous and Hiyori delighted.
 
 ### Volume 4, Chapter 19 — Ebook Bonus Original Short Story - Ori's Nest
 During a sweltering Okutama night, Tsubaki, Sekitan, and Mokutan mistook Ori’s bedroom for an underbuilt nest, reinforcing its walls and floor before sealing its windows and door shut. Ori stopped them with the fire extinguisher, banned fire-breathing in the bedroom, and escaped through the door after they burned a small exit hole.

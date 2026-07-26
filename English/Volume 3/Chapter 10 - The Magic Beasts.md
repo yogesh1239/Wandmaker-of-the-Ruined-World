@@ -152,7 +152,7 @@ I had already decided I would raise these guys into staff for the forge at my wo
 
 “I'm thinking about getting a pouch sparrow. But an eyeball familiar is enough for me.”
 
-“Ah, I get it. I'm interested in steel sheep—or rather, in steel-sheep wool.”
+“Ah, I get it. I'm interested in steel sheep—or rather, in steel sheep wool.”
 
 As I brushed the fire salamanders' scales with a toothbrush, the Blue Witch and I chatted about magic beasts.
 
@@ -214,13 +214,13 @@ Well, chickens were just too good as livestock in this respect.
 
 Steel sheep's real value was not in their meat, but their wool.
 
-Steel-sheep wool was normally soft and fluffy, but it was absurdly resistant to fire, had excellent insulation, and hardened like steel when exposed to high heat. This hardening lasted about one day, and even after it wore off, it could activate again after an interval of several hours.
+Steel sheep wool was normally soft and fluffy, but it was absurdly resistant to fire, had excellent insulation, and hardened like steel when exposed to high heat. This hardening lasted about one day, and even after it wore off, it could activate again after an interval of several hours.
 
 Wool clothing woven from this wool had the same properties, and it had been confirmed that it could keep being used without deteriorating for at least four years. It lasted four years even without self-blood tanning, so it was thought that with self-blood tanning, it would easily last a full century.
 
 Steel sheep were clearly especially wary only of monsters that controlled fire, so it was believed this trait was probably to counter fire-type monsters.
 
-Steel-sheep wool would not burn even at temperatures high enough to melt iron, and its extremely high insulation protected the wearer. Also, hardened wool could not be cut by an iron blade. If it was woven tightly enough, it could even stop bullets, making it a natural stab- and bulletproof suit.
+Steel sheep wool would not burn even at temperatures high enough to melt iron, and its extremely high insulation protected the wearer. Also, hardened wool could not be cut by an iron blade. If it was woven tightly enough, it could even stop bullets, making it a natural stab- and bulletproof suit.
 
 On top of all that performance, it was light and easy to handle. It kept you warm in winter, but mysteriously cool in summer. Bugs did not get into it, and it did not shrink when washed.
 
@@ -228,9 +228,9 @@ It was too perfect as a clothing material.
 
 The only drawback was that the number of steel sheep being raised was still small, and they could only be sheared once a year, in spring, so production was limited too.
 
-But if their numbers increased, their production capacity would increase too. It was such a high-performance natural material that no amount of investment would be too much. If guards who were constantly injured fighting monsters had steel-sheep wool clothing, their lives would get a lot easier too.
+But if their numbers increased, their production capacity would increase too. It was such a high-performance natural material that no amount of investment would be too much. If guards who were constantly injured fighting monsters had steel sheep wool clothing, their lives would get a lot easier too.
 
-I definitely wanted some steel-sheep wool myself as protection against burns while raising fire salamanders.
+I definitely wanted some steel sheep wool myself as protection against burns while raising fire salamanders.
 
 Like pouch sparrows, steel sheep did not attack people.
 

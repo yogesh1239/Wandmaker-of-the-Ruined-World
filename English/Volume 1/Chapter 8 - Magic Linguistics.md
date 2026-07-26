@@ -178,7 +178,7 @@ Careful not to step on Professor Ohinata, I led her to my workshop. The stoat le
 
 The stoat's small round eyes sparkled as she scampered up onto the worktable, looked around the room, and marveled.
 
-"Amazing, amazing! It looks like a magic craftsman's workshop!"
+"Amazing, amazing! It looks like a magic artisan's workshop!"
 
 Looks like one? I mean, that's exactly what it was.
 

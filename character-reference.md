@@ -67,9 +67,19 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 **Gender:** Female
 **Role:** Flower Witch's plant-bodied second daughter; whitewood lumber supplier.
 
+#### Speech Patterns
+- **First-person pronoun:** 私 — childlike and direct.
+- **Formality level:** Casual.
+- **Speech style:** Simple vocabulary, repetition, stretched sounds, and blunt demands; jealousy makes her words emotional and occasionally imprecise.
+- **Address forms:** Ori is “Uncle”; Aoyama Hiyori is “Blue Witch.”
+
+**Example Quotes:**
+- “You're using me to give another woman a present...!” (*Vol. 4 booklet, “Flower Language”*)
+- “Choose some for me. New ones. I'll treasure them.” (*Vol. 4 booklet, “Flower Language”*)
+
 #### Personality
-- Bright, childlike, and Ori-focused.
-- **Arc state:** Rooted in Okutama; roots reach riverbank.
+- Bright, childlike, jealous, praise-motivated, and intensely Ori-focused; she knows flowers far beyond her age and wants affection expressed through attention and gifts.
+- **Arc state:** Rooted in Okutama; roots reach the Tama River, and Ori entrusts her with practical work around Okutama.
 
 ### Eyeball Witch (目玉の魔女)
 **Japanese Name:** 目玉の魔女  
@@ -671,6 +681,78 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 #### Personality
 - Curious, affectionate, and food-motivated.
 - **Arc state:** Trained, but music triggers dangerous fire-breathing.
+
+### Kurihara (粟原)
+**Japanese Name:** 粟原（くりはら）
+**Gender:** Female
+**Role:** Former Lake Biwa Pact witch who defected to the Arataki Group and monitored the Blue Witch.
+
+#### Personality
+- Skilled at perfectly hiding her magic power; liked baking, knitting, and bullying newcomers.
+- **Arc state:** Killed instantly by the Blue Witch's surprise three-pronged-spear spell.
+
+### Samejima (鮫島)
+**Japanese Name:** 鮫島（さめじま）
+**Gender:** Male
+**Role:** Arataki Group Young Boss and earth-magic user.
+
+#### Personality
+- A ground-combat specialist who could open fissures, raise earthworks, and make quicksand.
+- **Arc state:** Killed during the fighting at Tokyo Magic University.
+
+### Yagyu (柳生)
+**Japanese Name:** 柳生（やぎゅう）
+**Gender:** Male
+**Role:** Arataki Group Junior Boss and bat-faced mage assigned to watch Ohinata Kei.
+
+#### Personality
+- Had exceptionally sharp magic-power perception and excelled at evasion.
+- **Arc state:** Killed by the Blue Witch at Tokyo Magic University.
+
+### Tatewaki (帯刀)
+**Japanese Name:** 帯刀（たてわき）
+**Gender:** Female
+**Role:** Red-haired Arataki Group witch who guarded Ashiya.
+
+#### Personality
+- A defensive-magic specialist whose spells repeatedly saved other group members.
+- **Arc state:** Killed during the Arataki Group's failed occupation of Bunkyo Ward.
+
+### Ashiya (蘆屋)
+**Japanese Name:** 蘆屋（あしや）
+**Gender:** Female
+**Role:** Arataki Group witch and original user of runaway magic.
+
+#### Personality
+- Her unstable magic was so difficult to control that other users risked exploding themselves.
+- **Arc state:** Killed during the Arataki Group's failed occupation of Bunkyo Ward.
+
+### Ikaruga (斑鳩)
+**Japanese Name:** 斑鳩（いかるが）
+**Gender:** Unknown
+**Role:** Arataki Group mage who attacked the Flower Witch's territory.
+
+#### Personality
+- Carried a magic stone but remained bogged down in a battle of attrition.
+- **Arc state:** Killed by the Dragon Witch's area attack.
+
+### Shishido (獅子堂)
+**Japanese Name:** 獅子堂（ししどう）
+**Gender:** Unknown
+**Role:** Arataki Group mage who captured the Chofu Witch alive.
+
+#### Personality
+- Abandoned the direct route during the transfer to loot a liquor store.
+- **Arc state:** Frozen to death with the entire building by the Blue Witch.
+
+### Hayami (速水)
+**Japanese Name:** 速水（はやみ）
+**Gender:** Female
+**Role:** Arataki Group witch who attacked Bunkyo Ward Office.
+
+#### Personality
+- Had superior magic power and physical ability but lost to an unorthodox one-use trick.
+- **Arc state:** Killed by the Tobacco Witch.
 
 ## ORGANIZATIONS
 

@@ -214,7 +214,7 @@ Anger welled up in him for no reason, and Kotaro fired shooting magic at the dee
 
 But the magic missed. The deer was startled and stepped back, but after a short pause, it went back to calmly eating young shoots. It was not very scared.
 
-“You look down on me! You look down on me, on the Arataki Group! You look down on us, you look down on us, aaahhh!! <ruby>![gaiji-0002.png](images/gaiji-0002.png)ー！　![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)ー!!<rt>Fire! Fiiiiiire!!</rt></ruby>”
+“You look down on me! You look down on me, on the Arataki Group! You look down on us, you look down on us, aaahhh!! <ruby>![gaiji-0002.png](images/gaiji-0002.png)—! ![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)![gaiji-0002.png](images/gaiji-0002.png)—!!<rt>Fire! Fiiiiiire!!</rt></ruby>”
 
 Half mad, Kotaro wildly fired magic in every direction.
 

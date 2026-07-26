@@ -28,13 +28,13 @@
    - 「うわっ！　い、いいからそれ持ってあっち行け！　失せろ話しかけんな！　しっしっ！」 → "Whoa! J-Just take that and go! Get lost! Don't talk to me! Shoo!" (*Vol. 1, “Survival, with a Side of Magic”*)
 
 ## Fuyo
-- **Pronoun:** 私 (*watashi*)—child.
-- **Register:** Simple, candid, repetitive.
+- **Pronoun:** 私 (*watashi*) — child.
+- **Register:** simple, candid, repetitive, and openly demanding; keep her vocabulary young without adding baby talk.
 - **Address:** Ori: "Uncle"; Hiyori: "Blue Witch."
-- **Tics:** Stretches, hearts, big-sister boasts, tantrums.
+- **Tics:** stretched sounds, hearts, big-sister boasts, jealous accusations, praise-seeking, and sudden tantrums; strong emotion can make her misuse a word before Ori corrects her.
 - **Samples:**
-  - "I'm a good girl!"
-  - "Because I'm the big sister."
+  - 「ほかの女にプレゼントするのに、わたしのこと利用するんだ……！」 → "You're using me to give another woman a present...!" (*Vol. 4 booklet, “Flower Language”*)
+  - 「わたしのために選んで。あたらしいやつ。たいせつにするから」 → "Choose some for me. New ones. I'll treasure them." (*Vol. 4 booklet, “Flower Language”*)
 
 ## Aoyama Hiyori / Blue Witch
 - **Pronoun:** 私 (*watashi*) — controlled and neutral; English should stay spare and firm rather than feminine-coded.

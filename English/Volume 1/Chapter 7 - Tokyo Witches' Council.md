@@ -84,7 +84,7 @@ The Foresight Mage had wanted Cyanos from the beginning. He had only jumped at t
 
 The Blue Witch clicked her tongue.
 
-"Didn't your precious future sight show you a future where I'd refuse? I told you over and over at the emergency meeting. I won't give Cyanos to anyone. I won't lend it out either."
+"Didn't your precious Foresight show you a future where I'd refuse? I told you over and over at the emergency meeting. I won't give Cyanos to anyone. I won't lend it out either."
 
 "I heard you. But listen, Blue Witch. This is something I've said over and over at Council meetings you weren't at."
 

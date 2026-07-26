@@ -366,7 +366,7 @@ Apparently, once a magic stone is broken, it loses its magical properties. My pl
 
 So I decided to use the ship-in-a-bottle approach.
 
-I drilled a small hole in a spherical crystal, inserted a hook through it, and carved out the inside, creating a sphere inside the sphere without breaking it.
+I drilled a small hole in a sphere crystal, inserted a hook through it, and carved out the inside, creating a sphere inside the sphere without breaking it.
 
 An ordinary person probably couldn't do such delicate work.
 

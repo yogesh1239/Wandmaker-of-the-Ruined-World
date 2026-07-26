@@ -606,9 +606,9 @@ The fire salamanders tilted their heads and looked at each other. Fuyo looked st
 
 “![gaiji-0003.png](images/gaiji-0003.png)!?”
 
-“![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)ッ!?”
+“![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)—!?”
 
-“![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)ー!!”
+“![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)—!!”
 
 This time, they understood properly. The fire salamanders got angry and spat sparks from their mouths. Seeing that, Fuyo cackled happily.
 
@@ -724,7 +724,7 @@ Fuyo had won this round. The fire salamanders were bound all together with thin 
 
 “If you raise your hands and surrender, I'll let you down. If you don't surrender, I'll squeeze you tighter, okay?”
 
-“![gaiji-0003.png](images/gaiji-0003.png)ー!”
+“![gaiji-0003.png](images/gaiji-0003.png)—!”
 
 The three fire salamanders thrashed around, blowing blackish exhaust from their mouths. They seemed to be out of gas. Fire salamanders could not breathe fire forever.
 

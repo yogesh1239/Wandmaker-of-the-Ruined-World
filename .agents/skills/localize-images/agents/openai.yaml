@@ -1,0 +1,4 @@
+interface:
+  display_name: "Localize Illustrations"
+  short_description: "Render polished English illustration text"
+  default_prompt: "Use $localize-images to localize a volume’s text-bearing illustrations into publication-quality English editions."

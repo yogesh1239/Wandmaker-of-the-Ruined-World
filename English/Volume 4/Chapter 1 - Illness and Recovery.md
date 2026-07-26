@@ -32,7 +32,7 @@ People pictured witches' familiars as crows and black cats, but reality was noth
 
 “What about red? Not your taste? Still want blue?”
 
-“Hmm. Cyanos and my amulet are both blue, so... going with cool colors might work. What about you, Ori? Do you like red? I'm starting to think matching Ori's fire salamanders could work too.”
+“Hmm. Cyanos and my amulet are both blue, so... going with cool colors might work. What about you, Ori? Do you like red? I'm starting to think matching your fire salamanders' colors could work too.”
 
 “Why would you match the colors to my <ruby>pets<rt>fire salamanders</rt></ruby>?”
 
@@ -332,7 +332,7 @@ My hospital stay, which had begun with appendicitis, ended after six days.
 
 After getting my stitches out and being told what to watch out for while recovering at home, I went back to Okutama with Hiyori escorting me. Waiting to greet me were the furious fire salamanders.
 
-“![gaiji-0003.png](images/gaiji-0003.png)ー!”
+“![gaiji-0003.png](images/gaiji-0003.png)—!”
 
 “Mi![gaiji-0003.png](images/gaiji-0003.png)!”
 

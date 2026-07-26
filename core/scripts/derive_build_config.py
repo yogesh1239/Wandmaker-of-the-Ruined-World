@@ -28,8 +28,222 @@ import json
 import glob
 import uuid
 import argparse
+import posixpath
+import zipfile
+import xml.etree.ElementTree as ET
+
+try:
+    from PIL import Image
+except ImportError:
+    Image = None
 
 from harness_config import clean, get_section, parse_bullets, parse_table, split_sections
+
+
+def _norm_text(value):
+    return re.sub(r"\s+", " ", value or "").strip()
+
+
+def _source_shell(base_dir, source_epub, volume_rows, chapters):
+    """Derive reusable front/back matter and package paths from a standard EPUB."""
+    if not source_epub or not os.path.isfile(source_epub):
+        return {}
+
+    with zipfile.ZipFile(source_epub) as z:
+        container = ET.fromstring(z.read("META-INF/container.xml"))
+        rootfile = container.find(".//{*}rootfile")
+        if rootfile is None:
+            return {}
+        opf_path = rootfile.attrib["full-path"]
+        opf_dir = posixpath.dirname(opf_path)
+        opf = ET.fromstring(z.read(opf_path))
+
+        manifest = {}
+        nav_href = None
+        for item in opf.findall(".//{*}manifest/{*}item"):
+            iid, href = item.attrib.get("id"), item.attrib.get("href")
+            if iid and href:
+                manifest[iid] = href
+                if "nav" in item.attrib.get("properties", "").split():
+                    nav_href = href
+        spine_ids = [
+            item.attrib.get("idref")
+            for item in opf.findall(".//{*}spine/{*}itemref")
+            if item.attrib.get("idref") in manifest
+        ]
+        if not spine_ids:
+            return {}
+
+        def zip_path(href):
+            return posixpath.normpath(posixpath.join(opf_dir, href))
+
+        first_body_id = None
+        if nav_href and volume_rows:
+            nav_path = zip_path(nav_href)
+            nav = ET.fromstring(z.read(nav_path))
+            first_jp = _norm_text(volume_rows[0].get("jp title", ""))
+            for anchor in nav.findall(".//{*}a"):
+                if _norm_text("".join(anchor.itertext())) != first_jp:
+                    continue
+                target = posixpath.normpath(
+                    posixpath.join(posixpath.dirname(nav_href),
+                                   anchor.attrib.get("href", "").split("#", 1)[0])
+                )
+                first_body_id = next(
+                    (iid for iid, href in manifest.items()
+                     if posixpath.normpath(href) == target),
+                    None,
+                )
+                if first_body_id:
+                    break
+
+        if not first_body_id:
+            # Older EPUB2 packages may expose only NCX navigation. Their
+            # hand-filed structural config is preserved by main() below.
+            return {}
+
+        fields = {
+            "opf_path": opf_path,
+            "src_xhtml_prefix": (
+                posixpath.dirname(zip_path(manifest[first_body_id])) + "/"
+                if first_body_id else None
+            ),
+            "src_image_prefix": None,
+            "src_style_prefix": None,
+        }
+        image_hrefs = [
+            href for href in manifest.values()
+            if os.path.splitext(href.lower())[1] in (".jpg", ".jpeg", ".png", ".gif", ".webp")
+        ]
+        style_hrefs = [href for href in manifest.values() if href.lower().endswith(".css")]
+        if image_hrefs:
+            fields["src_image_prefix"] = posixpath.dirname(zip_path(image_hrefs[0])) + "/"
+        if style_hrefs:
+            fields["src_style_prefix"] = posixpath.dirname(zip_path(style_hrefs[0])) + "/"
+        fields = {k: v for k, v in fields.items() if v is not None}
+
+        if first_body_id in spine_ids:
+            front_ids = spine_ids[:spine_ids.index(first_body_id)]
+            # The source's text TOC points at removed JP spine pages. Keep the
+            # localized image TOC and rely on the newly generated English nav.
+            front_ids = [iid for iid in front_ids if not iid.endswith("toc-002")]
+            # Retain image pages and the caution page. Untranslated recap/prose
+            # pages are replaced only when they have an English chapter entry.
+            front_ids = [
+                iid for iid in front_ids
+                if "caution" in iid.lower()
+                or b"<img" in z.read(zip_path(manifest[iid])).lower()
+                or b"<svg" in z.read(zip_path(manifest[iid])).lower()
+            ]
+            fields["front_matter"] = [
+                {"id": iid, "source": zip_path(manifest[iid]), "href": manifest[iid]}
+                for iid in front_ids
+            ]
+            caution = next((iid for iid in front_ids if "caution" in iid.lower()), None)
+            if caution:
+                fields["caution_page_id"] = caution
+
+        back_ids = [
+            iid for iid in spine_ids
+            if re.search(r"(?:allcover|colophon|bookwalker)", iid, re.IGNORECASE)
+        ]
+        if back_ids:
+            fields["back_matter"] = [
+                {"id": iid, "source": zip_path(manifest[iid]), "href": manifest[iid]}
+                for iid in back_ids
+            ]
+
+        if fields.get("src_xhtml_prefix") and fields.get("src_image_prefix"):
+            chapter_dir = fields["src_xhtml_prefix"]
+            image_dir = fields["src_image_prefix"]
+            fields["img_href_base"] = posixpath.relpath(
+                image_dir, chapter_dir.rstrip("/")
+            ).rstrip("/") + "/"
+        if fields.get("src_xhtml_prefix") and fields.get("src_style_prefix"):
+            chapter_dir = fields["src_xhtml_prefix"]
+            style_dir = fields["src_style_prefix"]
+            rel_style = posixpath.relpath(style_dir, chapter_dir.rstrip("/")).rstrip("/") + "/"
+            fields["css_links"] = [rel_style + os.path.basename(href) for href in style_hrefs]
+            fields["css_links"].append(rel_style + "english.css")
+
+        toc = []
+        front = fields.get("front_matter", [])
+        if front:
+            toc.append({"label": "Cover", "href": front[0]["href"]})
+            contents = next(
+                (p for p in front if re.search(r"(?:toc|contents)", p["id"], re.IGNORECASE)),
+                None,
+            )
+            if contents:
+                toc.append({"label": "Contents", "href": contents["href"]})
+        chapter_prefix = posixpath.relpath(
+            fields.get("src_xhtml_prefix", "item/xhtml/"),
+            posixpath.dirname(opf_path) or ".",
+        ).rstrip("/") + "/"
+        for ch in chapters:
+            toc.append({"label": ch["title"], "href": chapter_prefix + ch["id"] + ".xhtml"})
+        colophon = next(
+            (p for p in fields.get("back_matter", []) if "colophon" in p["id"].lower()),
+            None,
+        )
+        if colophon:
+            toc.append({"label": "Colophon", "href": colophon["href"]})
+        if toc:
+            fields["toc"] = toc
+
+        return fields
+
+
+def _localized_swaps(base_dir, volume, source_epub):
+    """Select spec-backed, geometry-compatible localized images by source stem."""
+    localized_dir = os.path.join(base_dir, "English", "Volume %d" % volume,
+                                 "localized-images")
+    specs_dir = os.path.join(base_dir, "Editing", "Volume %d" % volume,
+                             "image-localization")
+    if not os.path.isdir(localized_dir) or not os.path.isdir(specs_dir) or Image is None:
+        return {}
+
+    spec_stems = set()
+    for root, _dirs, names in os.walk(specs_dir):
+        for name in names:
+            if name.lower().endswith(".md"):
+                spec_stems.add(os.path.splitext(name)[0])
+
+    local_by_stem = {}
+    for name in os.listdir(localized_dir):
+        stem, ext = os.path.splitext(name)
+        if ext.lower() in (".png", ".jpg", ".jpeg"):
+            local_by_stem.setdefault(stem, os.path.join(localized_dir, name))
+
+    swaps = {}
+    retained = {"cover", "allcover-001", "i-bookwalker", "s-h3"}
+    with zipfile.ZipFile(source_epub) as z:
+        source_images = {}
+        for name in z.namelist():
+            stem, ext = os.path.splitext(os.path.basename(name))
+            if ext.lower() in (".png", ".jpg", ".jpeg", ".gif", ".webp"):
+                source_images.setdefault(stem, []).append(name)
+        for stem in sorted(spec_stems & set(local_by_stem) & set(source_images)):
+            if stem in retained or len(source_images[stem]) != 1:
+                continue
+            try:
+                with Image.open(io.BytesIO(z.read(source_images[stem][0]))) as src_im:
+                    sw, sh = src_im.size
+                with Image.open(local_by_stem[stem]) as loc_im:
+                    lw, lh = loc_im.size
+            except Exception:
+                continue
+            src_ratio = float(sw) / sh
+            loc_ratio = float(lw) / lh
+            if abs(loc_ratio / src_ratio - 1.0) > 0.02:
+                continue
+            swaps[stem] = [sw, sh]
+    if not swaps:
+        return {}
+    return {
+        "localized_images_dir": localized_dir,
+        "image_swaps": swaps,
+    }
 
 
 def derive(config_path, volume):
@@ -55,11 +269,13 @@ def derive(config_path, volume):
 
     chapters_dir = os.path.join(base_dir, "English", "Volume %d" % volume)
 
+    volume_rows = []
     chapters = []
     missing = []
     for row in chapter_table:
         if clean(row.get("vol", "")) != vol_str:
             continue
+        volume_rows.append(row)
         n = clean(row.get("n", ""))
         title = clean(row.get("en title", ""))
         if not n or not title:
@@ -110,13 +326,16 @@ def derive(config_path, volume):
     out_name = ("%s v%02d (EN).epub" % (series, volume)) if series else ("Volume %d (EN).epub" % volume)
     out_epub = os.path.join(base_dir, "English", out_name)
 
-    return {
+    result = {
         "source_epub": source_epub,
         "chapters_dir": chapters_dir,
         "out_epub": out_epub,
         "metadata": metadata,
         "chapters": chapters,
     }
+    result.update(_source_shell(base_dir, source_epub, volume_rows, chapters))
+    result.update(_localized_swaps(base_dir, volume, source_epub))
+    return result
 
 
 def main():
@@ -140,8 +359,34 @@ def main():
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
 
+    existing = {}
+    if os.path.isfile(out_path):
+        try:
+            with io.open(out_path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+        except (ValueError, OSError):
+            existing = {}
+    # Preserve hand-filed per-chapter build-only overrides (for example,
+    # booklet image sequences or an appended translated insert) while
+    # refreshing the title-map fields.
+    old_chapters = {
+        ch.get("id"): ch for ch in existing.get("chapters", [])
+        if isinstance(ch, dict) and ch.get("id")
+    }
+    if old_chapters:
+        merged_chapters = []
+        for chapter in config.get("chapters", []):
+            merged = dict(old_chapters.get(chapter.get("id"), {}))
+            merged.update(chapter)
+            merged_chapters.append(merged)
+        config["chapters"] = merged_chapters
+
+    # Preserve hand-filed per-volume structural overrides while refreshing all
+    # values that can be derived from novel.config.md and the source package.
+    existing.update(config)
+
     with io.open(out_path, "w", encoding="utf-8") as f:
-        json.dump(config, f, indent=2, ensure_ascii=False)
+        json.dump(existing, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
     print("wrote %s (%d chapters)" % (out_path, len(config["chapters"])))
