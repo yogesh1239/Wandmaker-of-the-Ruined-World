@@ -115,6 +115,11 @@ ENGLISH_CSS = (
     " font-size:0.9em; }\n"
     ".notes p{ text-indent:0; }\n"
     ".notes aside{ margin:0 0 0.8em 0; }\n"
+    "table{ border-collapse:collapse; margin:1em auto; max-width:100%;"
+    " font-size:0.95em; }\n"
+    "th,td{ border:1px solid #bbb; padding:0.3em 0.7em; text-align:left;"
+    " text-indent:0; vertical-align:top; }\n"
+    "th{ font-weight:bold; background:#f2f2f2; }\n"
     ".noteref{ text-decoration:none; }\n"
     ".backlink{ text-decoration:none; }\n"
 )
@@ -237,6 +242,7 @@ def build_chapter(ch, md_path, cfg):
     lines = body_md.split("\n")
     out = ['<body class="chapter">', '<div class="main">', "<h1>%s</h1>" % inline_md(title)]
     block = []
+    table = []
 
     def flush():
         if not block:
@@ -246,8 +252,42 @@ def build_chapter(ch, md_path, cfg):
         if para:
             out.append("<p>%s</p>" % apply_fnrefs(inline_md(para, img_base), ch_id))
 
+    def cell(text):
+        return apply_fnrefs(inline_md(text.strip(), img_base), ch_id)
+
+    def flush_table():
+        """Render a buffered pipe-table. GFM alignment markers are parsed but
+        not honoured — no filed table needs them."""
+        if not table:
+            return
+        rows = [[c for c in r.strip().strip("|").split("|")] for r in table]
+        table.clear()
+        header = None
+        if len(rows) > 1 and all(re.fullmatch(r":?-+:?", c.strip()) for c in rows[1]):
+            header, rows = rows[0], rows[2:]
+            # ponytail: the filed tables open "| | |" — an all-empty header row
+            # is a spacer, not a heading, so drop it rather than print blank <th>.
+            if not any(c.strip() for c in header):
+                header = None
+        if not rows and not header:
+            return
+        parts = []
+        if header:
+            parts.append("<thead><tr>%s</tr></thead>"
+                         % "".join("<th>%s</th>" % cell(c) for c in header))
+        if rows:
+            parts.append("<tbody>%s</tbody>"
+                         % "".join("<tr>%s</tr>" % "".join("<td>%s</td>" % cell(c) for c in r)
+                                   for r in rows))
+        out.append("<table>%s</table>" % "".join(parts))
+
     for line in lines:
         s = line.strip()
+        if s.startswith("|"):
+            flush()
+            table.append(s)
+            continue
+        flush_table()
         if s == "":
             flush()
             continue
@@ -293,6 +333,7 @@ def build_chapter(ch, md_path, cfg):
             continue
         block.append(line)
     flush()
+    flush_table()
 
     while out and out[-1] == orn:      # strip trailing scene-break ornament
         out.pop()
