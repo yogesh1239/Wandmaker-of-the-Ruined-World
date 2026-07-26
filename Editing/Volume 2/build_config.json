@@ -1,0 +1,496 @@
+{
+  "source_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/崩壊世界の魔法杖職人２　小冊子付き特装版【電子特典付き】.epub",
+  "chapters_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 2",
+  "out_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Wand Maker of the Ruined World v02 (EN).epub",
+  "metadata": {
+    "title": "Wand Maker of the Ruined World, Vol. 2",
+    "language": "en",
+    "identifier": "urn:uuid:fc668a05-3c00-4e01-82d4-c4920c0c484c",
+    "creators": [
+      {
+        "name": "Kurodome Hagane",
+        "role": "aut"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "md": "Chapter 1 - Let's Learn Useful Magic.md",
+      "title": "Let's Learn Useful Magic"
+    },
+    {
+      "id": "chapter-2",
+      "md": "Chapter 2 - I Saw a UMA Deep in the Okutama Mountains!.md",
+      "title": "I Saw a UMA Deep in the Okutama Mountains!"
+    },
+    {
+      "id": "chapter-3",
+      "md": "Chapter 3 - The Tobacco Witch.md",
+      "title": "The Tobacco Witch"
+    },
+    {
+      "id": "chapter-4",
+      "md": "Chapter 4 - Melt-Recast Gremlin.md",
+      "title": "Melt-Recast Gremlin"
+    },
+    {
+      "id": "chapter-5",
+      "md": "Chapter 5 - Backlash-Prevention Mechanism.md",
+      "title": "Backlash-Prevention Mechanism"
+    },
+    {
+      "id": "chapter-6",
+      "md": "Chapter 6 - The Gremlin Engineering Professor's Career.md",
+      "title": "The Gremlin Engineering Professor's Career"
+    },
+    {
+      "id": "chapter-7",
+      "md": "Chapter 7 - The White Fingers.md",
+      "title": "The White Fingers"
+    },
+    {
+      "id": "chapter-8",
+      "md": "Chapter 8 - The Hell Witch.md",
+      "title": "The Hell Witch"
+    },
+    {
+      "id": "chapter-9",
+      "md": "Chapter 9 - The Bad Oni Who Attacked the Village.md",
+      "title": "The Bad Oni Who Attacked the Village"
+    },
+    {
+      "id": "chapter-10",
+      "md": "Chapter 10 - The Thirteen Ritual Implements.md",
+      "title": "The Thirteen Ritual Implements"
+    },
+    {
+      "id": "chapter-11",
+      "md": "Chapter 11 - Minato Ward Recapture Operation.md",
+      "title": "Minato Ward Recapture Operation"
+    },
+    {
+      "id": "chapter-12",
+      "md": "Chapter 12 - Biohazard Pandemic.md",
+      "title": "Biohazard Pandemic"
+    },
+    {
+      "id": "chapter-13",
+      "md": "Chapter 13 - The Flower Witch.md",
+      "title": "The Flower Witch"
+    },
+    {
+      "id": "chapter-14",
+      "md": "Chapter 14 - Three Steps Forward, Two Steps Back.md",
+      "title": "Three Steps Forward, Two Steps Back"
+    },
+    {
+      "id": "chapter-15",
+      "md": "Chapter 15 - Amulet.md",
+      "title": "Amulet"
+    },
+    {
+      "id": "chapter-16",
+      "md": "Chapter 16 - Expanding the World.md",
+      "title": "Expanding the World"
+    },
+    {
+      "id": "chapter-17",
+      "md": "Chapter 17 - Side Story - I Raised This Protagonist.md",
+      "title": "Side Story - I Raised This Protagonist"
+    },
+    {
+      "id": "chapter-18",
+      "md": "Chapter 18 - Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files.md",
+      "title": "Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files",
+      "append_images": [
+        "s-p003.jpg",
+        "s-p004.jpg",
+        "s-p005.jpg",
+        "s-p006.jpg",
+        "s-p007.jpg",
+        "s-p008.jpg",
+        "s-p009.jpg",
+        "s-p010.jpg",
+        "s-p011.jpg",
+        "s-p012.jpg",
+        "s-p013.jpg",
+        "s-p014.jpg",
+        "s-p015.jpg",
+        "s-p016.jpg",
+        "s-p017.jpg",
+        "s-p018.jpg",
+        "s-p019.jpg",
+        "s-p020.jpg",
+        "s-p021.jpg",
+        "s-p022.jpg",
+        "s-p023.jpg",
+        "s-p024.jpg",
+        "s-p025.jpg",
+        "s-p026.jpg",
+        "s-p027.jpg",
+        "s-p028.jpg",
+        "s-p029.jpg",
+        "s-p030.jpg",
+        "s-p031.jpg",
+        "s-p032.jpg",
+        "s-p033.jpg",
+        "s-p034.jpg",
+        "s-h3.jpg",
+        "s-h1-4.jpg"
+      ]
+    },
+    {
+      "id": "chapter-19",
+      "md": "Chapter 19 - Ebook Bonus Original Short Story - Ori's Picture.md",
+      "title": "Ebook Bonus Original Short Story - Ori's Picture",
+      "drop_images": [
+        "allcover-001.jpg"
+      ]
+    }
+  ],
+  "opf_path": "item/standard.opf",
+  "src_xhtml_prefix": "item/xhtml/",
+  "src_image_prefix": "item/image/",
+  "src_style_prefix": "item/style/",
+  "front_matter": [
+    {
+      "id": "p-cover",
+      "source": "item/xhtml/p-cover.xhtml",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "id": "p-fmatter-001",
+      "source": "item/xhtml/p-fmatter-001.xhtml",
+      "href": "xhtml/p-fmatter-001.xhtml"
+    },
+    {
+      "id": "p-fmatter-002",
+      "source": "item/xhtml/p-fmatter-002.xhtml",
+      "href": "xhtml/p-fmatter-002.xhtml"
+    },
+    {
+      "id": "p-fmatter-003",
+      "source": "item/xhtml/p-fmatter-003.xhtml",
+      "href": "xhtml/p-fmatter-003.xhtml"
+    },
+    {
+      "id": "p-fmatter-004",
+      "source": "item/xhtml/p-fmatter-004.xhtml",
+      "href": "xhtml/p-fmatter-004.xhtml"
+    },
+    {
+      "id": "p-fmatter-005",
+      "source": "item/xhtml/p-fmatter-005.xhtml",
+      "href": "xhtml/p-fmatter-005.xhtml"
+    },
+    {
+      "id": "p-titlepage",
+      "source": "item/xhtml/p-titlepage.xhtml",
+      "href": "xhtml/p-titlepage.xhtml"
+    },
+    {
+      "id": "p-caution",
+      "source": "item/xhtml/p-caution.xhtml",
+      "href": "xhtml/p-caution.xhtml"
+    },
+    {
+      "id": "p-toc-001",
+      "source": "item/xhtml/p-toc-001.xhtml",
+      "href": "xhtml/p-toc-001.xhtml"
+    }
+  ],
+  "caution_page_id": "p-caution",
+  "back_matter": [
+    {
+      "id": "p-s-colophon",
+      "source": "item/xhtml/p-s-colophon.xhtml",
+      "href": "xhtml/p-s-colophon.xhtml"
+    },
+    {
+      "id": "p-allcover-001",
+      "source": "item/xhtml/p-allcover-001.xhtml",
+      "href": "xhtml/p-allcover-001.xhtml"
+    },
+    {
+      "id": "p-colophon",
+      "source": "item/xhtml/p-colophon.xhtml",
+      "href": "xhtml/p-colophon.xhtml"
+    },
+    {
+      "id": "p-colophon2",
+      "source": "item/xhtml/p-colophon2.xhtml",
+      "href": "xhtml/p-colophon2.xhtml"
+    },
+    {
+      "id": "p-bookwalker",
+      "source": "item/xhtml/p-bookwalker.xhtml",
+      "href": "xhtml/p-bookwalker.xhtml"
+    }
+  ],
+  "img_href_base": "../image/",
+  "css_links": [
+    "../style/fixed-layout-jp.css",
+    "../style/book-style.css",
+    "../style/style-reset.css",
+    "../style/style-standard.css",
+    "../style/style-advance.css",
+    "../style/style-check.css",
+    "../style/style-karc.css",
+    "../style/style-kadokawa.css",
+    "../style/english.css"
+  ],
+  "toc": [
+    {
+      "label": "Cover",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "label": "Contents",
+      "href": "xhtml/p-toc-001.xhtml"
+    },
+    {
+      "label": "Let's Learn Useful Magic",
+      "href": "xhtml/chapter-1.xhtml"
+    },
+    {
+      "label": "I Saw a UMA Deep in the Okutama Mountains!",
+      "href": "xhtml/chapter-2.xhtml"
+    },
+    {
+      "label": "The Tobacco Witch",
+      "href": "xhtml/chapter-3.xhtml"
+    },
+    {
+      "label": "Melt-Recast Gremlin",
+      "href": "xhtml/chapter-4.xhtml"
+    },
+    {
+      "label": "Backlash-Prevention Mechanism",
+      "href": "xhtml/chapter-5.xhtml"
+    },
+    {
+      "label": "The Gremlin Engineering Professor's Career",
+      "href": "xhtml/chapter-6.xhtml"
+    },
+    {
+      "label": "The White Fingers",
+      "href": "xhtml/chapter-7.xhtml"
+    },
+    {
+      "label": "The Hell Witch",
+      "href": "xhtml/chapter-8.xhtml"
+    },
+    {
+      "label": "The Bad Oni Who Attacked the Village",
+      "href": "xhtml/chapter-9.xhtml"
+    },
+    {
+      "label": "The Thirteen Ritual Implements",
+      "href": "xhtml/chapter-10.xhtml"
+    },
+    {
+      "label": "Minato Ward Recapture Operation",
+      "href": "xhtml/chapter-11.xhtml"
+    },
+    {
+      "label": "Biohazard Pandemic",
+      "href": "xhtml/chapter-12.xhtml"
+    },
+    {
+      "label": "The Flower Witch",
+      "href": "xhtml/chapter-13.xhtml"
+    },
+    {
+      "label": "Three Steps Forward, Two Steps Back",
+      "href": "xhtml/chapter-14.xhtml"
+    },
+    {
+      "label": "Amulet",
+      "href": "xhtml/chapter-15.xhtml"
+    },
+    {
+      "label": "Expanding the World",
+      "href": "xhtml/chapter-16.xhtml"
+    },
+    {
+      "label": "Side Story - I Raised This Protagonist",
+      "href": "xhtml/chapter-17.xhtml"
+    },
+    {
+      "label": "Wand Maker of the Ruined World 2 Special Edition Booklet - Top Secret Files",
+      "href": "xhtml/chapter-18.xhtml"
+    },
+    {
+      "label": "Ebook Bonus Original Short Story - Ori's Picture",
+      "href": "xhtml/chapter-19.xhtml"
+    },
+    {
+      "label": "Colophon",
+      "href": "xhtml/p-s-colophon.xhtml"
+    }
+  ],
+  "localized_images_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 2/localized-images",
+  "image_swaps": {
+    "kuchie-002": [
+      2048,
+      1473
+    ],
+    "kuchie-003": [
+      2048,
+      1474
+    ],
+    "kuchie-004": [
+      2048,
+      1473
+    ],
+    "s-h1": [
+      1440,
+      2048
+    ],
+    "s-h1-4": [
+      2048,
+      1456
+    ],
+    "s-h2": [
+      1440,
+      2048
+    ],
+    "s-p003": [
+      1440,
+      2048
+    ],
+    "s-p004": [
+      1440,
+      2048
+    ],
+    "s-p005": [
+      1440,
+      2048
+    ],
+    "s-p006": [
+      1440,
+      2048
+    ],
+    "s-p007": [
+      1440,
+      2048
+    ],
+    "s-p008": [
+      1440,
+      2048
+    ],
+    "s-p009": [
+      1440,
+      2048
+    ],
+    "s-p010": [
+      1440,
+      2048
+    ],
+    "s-p011": [
+      1440,
+      2048
+    ],
+    "s-p012": [
+      1440,
+      2048
+    ],
+    "s-p013": [
+      1440,
+      2048
+    ],
+    "s-p014": [
+      1440,
+      2048
+    ],
+    "s-p015": [
+      1440,
+      2048
+    ],
+    "s-p016": [
+      1440,
+      2048
+    ],
+    "s-p017": [
+      1440,
+      2048
+    ],
+    "s-p018": [
+      1440,
+      2048
+    ],
+    "s-p019": [
+      1440,
+      2048
+    ],
+    "s-p020": [
+      1440,
+      2048
+    ],
+    "s-p021": [
+      1440,
+      2048
+    ],
+    "s-p022": [
+      1440,
+      2048
+    ],
+    "s-p023": [
+      1440,
+      2048
+    ],
+    "s-p024": [
+      1440,
+      2048
+    ],
+    "s-p025": [
+      1440,
+      2048
+    ],
+    "s-p026": [
+      1440,
+      2048
+    ],
+    "s-p027": [
+      1440,
+      2048
+    ],
+    "s-p028": [
+      1440,
+      2048
+    ],
+    "s-p029": [
+      1440,
+      2048
+    ],
+    "s-p030": [
+      1440,
+      2048
+    ],
+    "s-p031": [
+      1440,
+      2048
+    ],
+    "s-p032": [
+      1440,
+      2048
+    ],
+    "s-p033": [
+      1440,
+      2048
+    ],
+    "s-p034": [
+      1440,
+      2048
+    ],
+    "titlepage": [
+      1439,
+      2048
+    ],
+    "toc-001": [
+      1439,
+      2048
+    ]
+  }
+}

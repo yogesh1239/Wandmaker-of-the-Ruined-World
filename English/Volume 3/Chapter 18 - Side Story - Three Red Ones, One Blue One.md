@@ -44,7 +44,7 @@ Only then did it notice the Blue Witch standing close by.
 
 Its mouth fell wide open, its eyes went round, and it froze like a stone statue.
 
-“Mi゙...!?”
+“Mih...!?”
 
 Sekitan really was laid-back. It seemed not to have noticed the Blue Witch coming close.
 
@@ -76,7 +76,7 @@ Mokutan happily bit the shirt over and over, making it sticky with drool, and tr
 
 Then, while dragging the shirt in its mouth, it noticed the big shadow lying before it. It jerked its head up.
 
-“Mi゙.”
+“Mih.”
 
 Mokutan's eyes met the Blue Witch's. It let out a strained cry and dropped the end of the shirt from its mouth. Then it looked around in a panic and shoved its face into the shirt at its feet to hide. Or rather, it thought it was hiding.
 
@@ -156,17 +156,17 @@ At a glance, the Blue Witch could tell that it was practically a toy, with neith
 
 “Tsubaki, did Ori make you a wand?”
 
-“Mi゙!”
+“Mih!”
 
 Tsubaki held the miniature wand in its mouth, looking proud, and cried out energetically around it.
 
 It somehow reminded the Blue Witch of a small dog wagging its tail with a nice-looking stick in its mouth, and she smiled. She understood why Ori doted on the fire salamanders as pets. They were monsters, but they were still animals. If they grew attached to you, they had to be very cute.
 
-“Mi゙
-mi゙
+“Mih
+mih
 
-! Mi゙imi゙... mi゙
-mi゙
+! Mihimih... mih
+mih
 
 ??”
 

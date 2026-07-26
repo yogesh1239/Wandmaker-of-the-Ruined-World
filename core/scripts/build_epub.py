@@ -128,10 +128,10 @@ CAUTION_BODY = (
     "</div>\n</body>\n</html>\n"
 )
 
-IMG_RE = re.compile(r"^!\[[^\]]*\]\(images/([^)]+)\)\s*$")
+IMG_RE = re.compile(r"^!\[[^\]]*\]\((?:images|localized-images)/([^)]+)\)\s*$")
 HEAD_RE = re.compile(r"^#{1,6}\s+(.*)$")
 FNREF_RE = re.compile(r"\[\^(\d+)\]")
-INLINE_IMG_RE = re.compile(r"!\[([^\]]*)\]\(images/([^)]+)\)")
+INLINE_IMG_RE = re.compile(r"!\[([^\]]*)\]\((?:images|localized-images)/([^)]+)\)")
 RUBY_RE = re.compile(r"<ruby>(.*?)<rt>(.*?)</rt></ruby>", re.DOTALL)
 
 
@@ -207,11 +207,32 @@ def build_chapter(ch, md_path, cfg):
     truncate_after_image = ch.get("truncate_after_image")
     orn = ornament(img_base, cfg.get("ornament_image"))
 
-    raw = open(md_path, encoding="utf-8").read()
-    body_md, notes_md = raw, ""
-    m = re.search(r"\n##\s*Translator'?s?\s*Notes\s*\n", raw)
-    if m:
-        body_md, notes_md = raw[:m.start()], raw[m.end():]
+    raw_parts = [open(md_path, encoding="utf-8").read()]
+    for extra_name in ch.get("append_md", []):
+        extra_path = os.path.join(cfg["chapters_dir"], extra_name)
+        raw_parts.append(open(extra_path, encoding="utf-8").read())
+
+    body_parts, note_parts = [], []
+    for raw in raw_parts:
+        m = re.search(r"\n##\s*Translator'?s?\s*Notes\s*\n", raw)
+        if m:
+            body_parts.append(raw[:m.start()])
+            note_parts.append(raw[m.end():])
+        else:
+            body_parts.append(raw)
+
+    def image_markers(filenames):
+        return "\n\n".join("![%s](images/%s)" % (fn, fn) for fn in filenames)
+
+    primary_tail = image_markers(ch.get("images_after_primary", []))
+    if primary_tail:
+        body_parts[0] = body_parts[0].rstrip() + "\n\n" + primary_tail
+    final_tail = image_markers(ch.get("append_images", []))
+    if final_tail:
+        body_parts.append(final_tail)
+
+    body_md = "\n\n".join(part.strip() for part in body_parts if part.strip())
+    notes_md = "\n".join(part.strip() for part in note_parts if part.strip())
 
     lines = body_md.split("\n")
     out = ['<body class="chapter">', '<div class="main">', "<h1>%s</h1>" % inline_md(title)]
@@ -230,8 +251,27 @@ def build_chapter(ch, md_path, cfg):
         if s == "":
             flush()
             continue
-        if HEAD_RE.match(s):           # drop any md heading; the h1 is already set
+        heading = HEAD_RE.match(s)
+        if heading:
             flush()
+            level = len(s) - len(s.lstrip("#"))
+            # A leading H1 is the sanitized-filename exception; the config
+            # title already supplied the chapter H1. Lower headings are real
+            # section structure and must remain visible.
+            if level > 1:
+                out.append(
+                    "<h%d>%s</h%d>"
+                    % (min(level, 6), apply_fnrefs(inline_md(heading.group(1), img_base), ch_id),
+                       min(level, 6))
+                )
+            continue
+        if s.startswith(">"):
+            flush()
+            quote = s[1:].lstrip()
+            out.append(
+                "<blockquote><p>%s</p></blockquote>"
+                % apply_fnrefs(inline_md(quote, img_base), ch_id)
+            )
             continue
         im = IMG_RE.match(s)
         if im:

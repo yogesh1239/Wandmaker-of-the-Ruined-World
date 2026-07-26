@@ -1,0 +1,398 @@
+{
+  "source_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/崩壊世界の魔法杖職人４【電子特典付き】.epub",
+  "chapters_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 4",
+  "out_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Wand Maker of the Ruined World v04 (EN).epub",
+  "metadata": {
+    "title": "Wand Maker of the Ruined World, Vol. 4",
+    "language": "en",
+    "identifier": "urn:uuid:8372c616-adfd-49fb-b8fa-2e7f320faef7",
+    "creators": [
+      {
+        "name": "Kurodome Hagane",
+        "role": "aut"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "md": "Chapter 1 - Illness and Recovery.md",
+      "title": "Illness and Recovery"
+    },
+    {
+      "id": "chapter-2",
+      "md": "Chapter 2 - The Flower Witch's Child, Fuyo.md",
+      "title": "The Flower Witch's Child, Fuyo"
+    },
+    {
+      "id": "chapter-3",
+      "md": "Chapter 3 - Savoring Peace.md",
+      "title": "Savoring Peace"
+    },
+    {
+      "id": "chapter-4",
+      "md": "Chapter 4 - Take Down the Most Troublesome Enemy First.md",
+      "title": "Take Down the Most Troublesome Enemy First"
+    },
+    {
+      "id": "chapter-5",
+      "md": "Chapter 5 - Favorite Treasure Announcement Dragon.md",
+      "title": "Favorite Treasure Announcement Dragon"
+    },
+    {
+      "id": "chapter-6",
+      "md": "Chapter 6 - Magic University Conflict.md",
+      "title": "Magic University Conflict"
+    },
+    {
+      "id": "chapter-7",
+      "md": "Chapter 7 - The Fall.md",
+      "title": "The Fall"
+    },
+    {
+      "id": "chapter-8",
+      "md": "Chapter 8 - Spider Witch.md",
+      "title": "Spider Witch"
+    },
+    {
+      "id": "chapter-9",
+      "md": "Chapter 9 - The Spider's Thread.md",
+      "title": "The Spider's Thread"
+    },
+    {
+      "id": "chapter-10",
+      "md": "Chapter 10 - The Gremlin Engineering Professor's Final Paper.md",
+      "title": "The Gremlin Engineering Professor's Final Paper"
+    },
+    {
+      "id": "chapter-11",
+      "md": "Chapter 11 - The Strongest Witch.md",
+      "title": "The Strongest Witch"
+    },
+    {
+      "id": "chapter-12",
+      "md": "Chapter 12 - Hunting Down the Remnants.md",
+      "title": "Hunting Down the Remnants"
+    },
+    {
+      "id": "chapter-13",
+      "md": "Chapter 13 - Be Still.md",
+      "title": "Be Still"
+    },
+    {
+      "id": "chapter-14",
+      "md": "Chapter 14 - Ori Kenshi and the Ten Stones.md",
+      "title": "Ori Kenshi and the Ten Stones"
+    },
+    {
+      "id": "chapter-15",
+      "md": "Chapter 15 - Magnetic-Field-Change Reverse-Playback Magic-Power Training Method.md",
+      "title": "Magnetic-Field-Change Reverse-Playback Magic-Power Training Method"
+    },
+    {
+      "id": "chapter-16",
+      "md": "Chapter 16 - Sage's Wand.md",
+      "title": "Sage's Wand"
+    },
+    {
+      "id": "chapter-17",
+      "md": "Chapter 17 - Side Story - Magic Architect.md",
+      "title": "Side Story - Magic Architect"
+    },
+    {
+      "id": "chapter-18",
+      "md": "Chapter 18 - Wand Maker of the Ruined World 4 Booklet - Top Secret Files.md",
+      "title": "Wand Maker of the Ruined World 4 Booklet - Top Secret Files"
+    },
+    {
+      "id": "chapter-19",
+      "md": "Chapter 19 - Ebook Bonus Original Short Story - Ori's Nest.md",
+      "title": "Ebook Bonus Original Short Story - Ori's Nest",
+      "drop_images": [
+        "allcover-001.jpg"
+      ]
+    }
+  ],
+  "opf_path": "item/standard.opf",
+  "src_xhtml_prefix": "item/xhtml/",
+  "src_image_prefix": "item/image/",
+  "src_style_prefix": "item/style/",
+  "front_matter": [
+    {
+      "id": "p-cover",
+      "source": "item/xhtml/p-cover.xhtml",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "id": "p-fmatter-001",
+      "source": "item/xhtml/p-fmatter-001.xhtml",
+      "href": "xhtml/p-fmatter-001.xhtml"
+    },
+    {
+      "id": "p-fmatter-002",
+      "source": "item/xhtml/p-fmatter-002.xhtml",
+      "href": "xhtml/p-fmatter-002.xhtml"
+    },
+    {
+      "id": "p-fmatter-003",
+      "source": "item/xhtml/p-fmatter-003.xhtml",
+      "href": "xhtml/p-fmatter-003.xhtml"
+    },
+    {
+      "id": "p-fmatter-004",
+      "source": "item/xhtml/p-fmatter-004.xhtml",
+      "href": "xhtml/p-fmatter-004.xhtml"
+    },
+    {
+      "id": "p-fmatter-005",
+      "source": "item/xhtml/p-fmatter-005.xhtml",
+      "href": "xhtml/p-fmatter-005.xhtml"
+    },
+    {
+      "id": "p-titlepage",
+      "source": "item/xhtml/p-titlepage.xhtml",
+      "href": "xhtml/p-titlepage.xhtml"
+    },
+    {
+      "id": "p-caution",
+      "source": "item/xhtml/p-caution.xhtml",
+      "href": "xhtml/p-caution.xhtml"
+    },
+    {
+      "id": "p-001",
+      "source": "item/xhtml/p-001.xhtml",
+      "href": "xhtml/p-001.xhtml"
+    },
+    {
+      "id": "p-002",
+      "source": "item/xhtml/p-002.xhtml",
+      "href": "xhtml/p-002.xhtml"
+    },
+    {
+      "id": "p-toc-001",
+      "source": "item/xhtml/p-toc-001.xhtml",
+      "href": "xhtml/p-toc-001.xhtml"
+    }
+  ],
+  "caution_page_id": "p-caution",
+  "back_matter": [
+    {
+      "id": "p-s-colophon",
+      "source": "item/xhtml/p-s-colophon.xhtml",
+      "href": "xhtml/p-s-colophon.xhtml"
+    },
+    {
+      "id": "p-allcover-001",
+      "source": "item/xhtml/p-allcover-001.xhtml",
+      "href": "xhtml/p-allcover-001.xhtml"
+    },
+    {
+      "id": "p-colophon",
+      "source": "item/xhtml/p-colophon.xhtml",
+      "href": "xhtml/p-colophon.xhtml"
+    },
+    {
+      "id": "p-colophon2",
+      "source": "item/xhtml/p-colophon2.xhtml",
+      "href": "xhtml/p-colophon2.xhtml"
+    },
+    {
+      "id": "p-bookwalker",
+      "source": "item/xhtml/p-bookwalker.xhtml",
+      "href": "xhtml/p-bookwalker.xhtml"
+    }
+  ],
+  "img_href_base": "../image/",
+  "css_links": [
+    "../style/fixed-layout-jp.css",
+    "../style/book-style.css",
+    "../style/style-reset.css",
+    "../style/style-standard.css",
+    "../style/style-advance.css",
+    "../style/style-check.css",
+    "../style/style-karc.css",
+    "../style/style-kadokawa.css",
+    "../style/english.css"
+  ],
+  "toc": [
+    {
+      "label": "Cover",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "label": "Contents",
+      "href": "xhtml/p-toc-001.xhtml"
+    },
+    {
+      "label": "Illness and Recovery",
+      "href": "xhtml/chapter-1.xhtml"
+    },
+    {
+      "label": "The Flower Witch's Child, Fuyo",
+      "href": "xhtml/chapter-2.xhtml"
+    },
+    {
+      "label": "Savoring Peace",
+      "href": "xhtml/chapter-3.xhtml"
+    },
+    {
+      "label": "Take Down the Most Troublesome Enemy First",
+      "href": "xhtml/chapter-4.xhtml"
+    },
+    {
+      "label": "Favorite Treasure Announcement Dragon",
+      "href": "xhtml/chapter-5.xhtml"
+    },
+    {
+      "label": "Magic University Conflict",
+      "href": "xhtml/chapter-6.xhtml"
+    },
+    {
+      "label": "The Fall",
+      "href": "xhtml/chapter-7.xhtml"
+    },
+    {
+      "label": "Spider Witch",
+      "href": "xhtml/chapter-8.xhtml"
+    },
+    {
+      "label": "The Spider's Thread",
+      "href": "xhtml/chapter-9.xhtml"
+    },
+    {
+      "label": "The Gremlin Engineering Professor's Final Paper",
+      "href": "xhtml/chapter-10.xhtml"
+    },
+    {
+      "label": "The Strongest Witch",
+      "href": "xhtml/chapter-11.xhtml"
+    },
+    {
+      "label": "Hunting Down the Remnants",
+      "href": "xhtml/chapter-12.xhtml"
+    },
+    {
+      "label": "Be Still",
+      "href": "xhtml/chapter-13.xhtml"
+    },
+    {
+      "label": "Ori Kenshi and the Ten Stones",
+      "href": "xhtml/chapter-14.xhtml"
+    },
+    {
+      "label": "Magnetic-Field-Change Reverse-Playback Magic-Power Training Method",
+      "href": "xhtml/chapter-15.xhtml"
+    },
+    {
+      "label": "Sage's Wand",
+      "href": "xhtml/chapter-16.xhtml"
+    },
+    {
+      "label": "Side Story - Magic Architect",
+      "href": "xhtml/chapter-17.xhtml"
+    },
+    {
+      "label": "Wand Maker of the Ruined World 4 Booklet - Top Secret Files",
+      "href": "xhtml/chapter-18.xhtml"
+    },
+    {
+      "label": "Ebook Bonus Original Short Story - Ori's Nest",
+      "href": "xhtml/chapter-19.xhtml"
+    },
+    {
+      "label": "Colophon",
+      "href": "xhtml/p-s-colophon.xhtml"
+    }
+  ],
+  "localized_images_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 4/localized-images",
+  "image_swaps": {
+    "kuchie-001": [
+      1440,
+      2048
+    ],
+    "kuchie-002": [
+      2048,
+      1456
+    ],
+    "kuchie-003": [
+      2048,
+      1473
+    ],
+    "kuchie-004": [
+      2048,
+      1456
+    ],
+    "kuchie-005": [
+      1440,
+      2048
+    ],
+    "p010": [
+      1439,
+      2048
+    ],
+    "p011": [
+      1439,
+      2048
+    ],
+    "p285": [
+      1439,
+      2048
+    ],
+    "p290-291": [
+      2048,
+      1456
+    ],
+    "p292-293": [
+      2048,
+      1456
+    ],
+    "p294-295": [
+      2048,
+      1456
+    ],
+    "s-h1": [
+      1440,
+      2048
+    ],
+    "s-h1-4": [
+      2048,
+      1456
+    ],
+    "s-h2": [
+      1440,
+      2048
+    ],
+    "s-p003": [
+      1440,
+      2048
+    ],
+    "s-p004": [
+      1440,
+      2048
+    ],
+    "s-p005": [
+      1440,
+      2048
+    ],
+    "s-p006": [
+      1440,
+      2048
+    ],
+    "s-p007": [
+      1440,
+      2048
+    ],
+    "s-p008": [
+      1440,
+      2048
+    ],
+    "s-p009": [
+      1440,
+      2048
+    ],
+    "s-p010": [
+      1440,
+      2048
+    ]
+  }
+}

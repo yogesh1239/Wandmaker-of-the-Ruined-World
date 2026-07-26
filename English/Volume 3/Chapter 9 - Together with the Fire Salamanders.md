@@ -90,7 +90,7 @@ They had too much momentum and splashed down into the tub one after another.
 
 “Mii!?”
 
-“Mi゙!?”
+“Mih!?”
 
 “Mimimimii!”
 

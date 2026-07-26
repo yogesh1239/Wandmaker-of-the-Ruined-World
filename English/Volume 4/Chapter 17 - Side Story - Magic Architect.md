@@ -214,4 +214,84 @@ Lately, it was all new professions for a new era: Wand Makers, beast handlers, m
 
 Sugoi smiled with renewed confidence, every bit as excited as the witch. I'm not so old that the times can leave me behind yet.
 
-![p285.jpg](images/p285.jpg)
+![p285.jpg](localized-images/p285.jpg)
+
+---
+
+## Next Volume
+
+*Wand Maker of the Ruined World* Volume 5 covers the single year from August 2029 to August 2030.
+
+In Volume 5, Ori Kenshi is scheduled to receive the following updates.
+
+① **New technology developed.** New technology adds a mode-change function to the magic wand.
+
+② **New knowledge acquired.** Contact with overseas powers unlocks unknown magic knowledge of
+extraordinary value.
+
+③ **Top-rare item obtained.** He obtains a top-rare item—the clue that unravels the mystery of the
+world.
+
+④ **Engagement Ring "Blue Witch" released.** Confess to the Blue Witch and success is now
+guaranteed, whatever the circumstances. So long as he confesses, he cannot fail.
+
+Japan's major survivor communities have all assembled, organized crime has been driven out, and the
+Japanese archipelago is reclaiming the framework of the nation it once was. But there is no room for
+complacency—a frog in a well knows nothing of the open sea. Keep a careful watch beyond Japan's
+borders, and look forward to Volume 5.
+
+*Wand Maker of the Ruined World 5* — on sale December 25, 2026 (scheduled).
+
+\* Information current as of July 2026.
+
+---
+
+## Manga Adaptation
+
+![p290-291.jpg](localized-images/p290-291.jpg)
+
+Today I've been looking into what makes the manga adaptation so wonderful: all the character
+expressions you can only see in manga!
+
+Ori's workroom and every step of how a magic wand gets made—all of it shown in full comic form!!
+
+Drill a small hole in a sphere crystal, slip a hook in through it and grind out the inside, and
+without ever cracking that marble-sized sphere, carve a second, slightly smaller sphere within it.
+Fill the gap between the inner and outer spheres with resin, and you reproduce the same beam-power
+boost as a rabbit crystal without a hitch.
+
+"Okay, this is—way past overtechnology, Ori."
+
+"Wah-hah-hah-hah! I'm the finest Wand Maker in all the land—!! Make 'em! Make 'em! Magic wands!
+……Not that I have anyone to sell them to."
+
+"Amazing! It's amazing! It's just like a real magic artisan's workshop! I want to finish my father's
+research with my own hands."
+
+And there are plenty more memorable lines:
+
+"Hey. You there. Are you reading the manga adaptation? THE BLUE WITCH, ON THE SCENE!!"
+
+![p292-293.jpg](localized-images/p292-293.jpg)
+
+The original's most striking scenes, too—recreated in full force!!
+
+"You, sink beneath the glacier. Sleep in the permafrost!"
+
+"Shall we put it to the test? The world's one and only Wand Maker — let's see what you can do!"
+
+![p294-295.jpg](localized-images/p294-295.jpg)
+
+*Wand Maker of the Ruined World* — Original Story: Kurodome Hagane. Manga: Futo Nori. Character
+Design: Kayahara. Kadokawa Comics A.
+
+Now serialized on KadoComi's Young Ace UP, and manga Volume 1 on sale now!!
+
+Those scenes from the novel—now in manga!! Can you tell which scene each one is? Every character
+shows up, one after another!!
+
+"Could you not talk to me? Please don't come near me. I don't even want to look at your face."
+
+"Ori-saaan! Good morning! I'm here. Unfortunately."
+
+Please give the manga your support too!

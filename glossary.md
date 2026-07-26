@@ -4,6 +4,8 @@
 |-|-|-|-|
 | 大利賢師 | Ori Kenshi | Kenshi Ori, Oori Kenshi, Kenshi Oori | Male |
 | 大利 | Ori | Oori | Male / surname |
+| 鉄砲塚佐波理 | Teppozuka Sahari | Sahari Teppozuka, Teppouzuka Sahari | Female / the Pebble Witch's human name, revealed on the Volume 4 booklet profile page s-p009; family name first, long vowel unmarked |
+| 浄園心春 | Kiyozono Koharu | Koharu Kiyozono, Joen Koharu, Kiyozono Miharu | Female / the Spider Witch's human name, revealed on the Volume 4 booklet profile page s-p007; family name first, long vowel unmarked |
 | 青山ヒヨリ | Aoyama Hiyori | Hiyori Aoyama | Female |
 | ヒヨリ | Hiyori |  | Female / given name |
 | ヒヨリママ | Hiyori-mama | Hiyori Mama | Ori's playful, one-off maternal nickname for Hiyori; project-original |
@@ -53,6 +55,7 @@
 | 中村 | Nakamura |  | Aoyama family's neighbor |
 | 日根野谷拓雄 | Hinonoya Takuo | Takuo Hinonoya | Male / surviving patron-family descendant; project-original |
 | フヨウ | Fuyo | Hibiscus | Female / Flower Witch's daughter; project-original |
+| おじさん | Uncle | mister | Fuyo's address for Ori Kenshi; capitalized as a term of address; ordinary descriptive uses of uncle/old man are not aliases |
 | 白木 | whitewood | white wood | special auxiliary tree of the Flower Witch's species; project-original |
 | 白木材 | whitewood lumber | white wood lumber | magic-power-control-assisting lumber made by a Flower Witch's whitewood; project-original |
 | 白木繊維 | whitewood fiber | white wood fiber, whitewood fibers | lightweight robe fiber supplied from whitewood; project-original |
@@ -65,9 +68,21 @@
 | 荒瀧虎次郎 | Arataki Kojiro | Kojiro Arataki | Male / third-generation Arataki Group boss; project-original |
 | 荒瀧岩夫 | Arataki Iwao | Iwao Arataki | Male / first-generation Arataki Group boss; project-original |
 | 七瀬七海 | Nanase Nanami | Nanami Nanase | Female / Tokyo Magic University associate professor; project-original |
+| 和泉渚 | Izumi Nagisa | Nagisa Izumi | Female / the Foresight Mage's secretary; project-original |
+| 鮫島 | Samejima |  | Male / Arataki Group Young Boss; project-original |
+| 柳生 | Yagyu | Yagyuu | Male / Arataki Group Junior Boss; project-original |
+| 粟原 | Kurihara | 栗原 | Female / Arataki Group witch who monitored the Blue Witch; reading くりはら is printed in the Volume 4 booklet; project-original |
+| 帯刀 | Tatewaki | Obigatana | Female / red-haired Arataki Group witch and defensive-magic specialist; reading たてわき is printed in the Volume 4 booklet; project-original |
+| 蘆屋 | Ashiya | Ashiya-ya | Female / Arataki Group witch and user of runaway magic; reading あしや is printed in the Volume 4 booklet; project-original |
+| 斑鳩 | Ikaruga | Ikaruga-san | Arataki Group mage who attacked the Flower Witch's territory; reading いかるが is printed in the Volume 4 booklet; gender not established; project-original |
+| 獅子堂 | Shishido | Shishidou | Arataki Group mage who captured the Chofu Witch; reading ししどう is printed in the Volume 4 booklet; gender not established; project-original |
+| 速水 | Hayami | Hayamizu | Female / Arataki Group witch killed by the Tobacco Witch; reading はやみ is printed in the Volume 4 booklet; project-original |
 | 七瀬 | Nanase |  | Female / surname |
+| 乾北三郎 | Inuikita Saburo | Saburo Inuikita, Kanhoku Saburo | Male / cited author on Gremlin-driven biological mutation; READING UNPROVEN — appears only in the s-p025 citation; confirm if he reappears; project-original |
 | 鬼瓦 | Onigawara |  | Male / Tokyo Magic University Combat Studies professor; project-original |
+| 鬼瓦虎徹 | Onigawara Kotetsu | Kotetsu Onigawara | Male / full name given on the Vol. 4 character page; project-original |
 | 仙堂 | Sendo |  | Tokyo Magic University Magic Beast Studies professor; project-original |
+| 仙堂扇次 | Sendo Senji | Senji Sendo | Male / author of the 2027 paper Classification of Monsters; given-name reading is unproven because the booklet prints no furigana; project-original |
 | 日森 | Himori |  | Flame Witch family's surname; project-original |
 | 火守[ひもり] | <ruby>Himori<rt>Firekeeper</rt></ruby> | 火守[ひもり], Firekeeper | semantic-ruby pun on the Himori surname |
 | ＯＫ工房 | OK Workshop | OK Kobo, OK Studio | Ori's anonymous pre-disaster craft handle; project-original |
@@ -80,6 +95,9 @@
 | 白鴉[シロカラス] | <ruby>Shirokarasu<rt>White Crow</rt></ruby> | Shirokarasu, Shirogarasu | Female / leader of Watarigarasu; source reading/written-form contrast |
 | モエカ | Moeka |  | Unknown / Watarigarasu enforcer |
 | 茂布 | Mobu |  | Male / one-off wand thief; project-original |
+| 茂布翔掠 | Mobu Shoryaku | Shoryaku Mobu, Mobu Shouryaku | Male / Setagaya Ward thug sensitive to killing intent; furigana もぶ しょうりゃく; project-original |
+| セタ | Seta |  | Male / Tohoku Hunting Association light-magic mage with dog ears and tail; project-original |
+| 犬（セタ） | Dog (Seta) | Inu (Seta) | booklet entry heading; common noun plus given name; project-original |
 | ツバキ | Tsubaki |  | Unknown / camellia-oil eater |
 | 椿油 | camellia oil |  | Tsubaki's preferred food; project-original |
 | セキタン | Sekitan |  | Unknown / coal eater |
@@ -111,7 +129,13 @@
 | 魔力回復薬 | magic-power recovery medicine | magic recovery medicine | medicine intended to restore magic power; project-original |
 | 魔力増強薬 | magic drug | magic booster, magic-enhancing drug | addictive Treant-sap drug that temporarily restores magic power above its capacity while reducing maximum capacity; project-original |
 | 魔力ドラッグ | magic drug | magic-power drug | shortened form of 魔力増強薬; project-original |
-| 樹老人 | Treant | tree elder | face-bearing tree monster whose sap is refined into magic drug; project-original |
+| 樹老人 | Treant |  | face-bearing tree monster whose sap is refined into magic drug; plain written-form source; project-original |
+| 樹老人[トレント] | <ruby>Treant<rt>tree elder</rt></ruby> | tree-elder | face-bearing tree monster whose sap is refined into magic drug; semantic reading/written-form contrast; project-original |
+| 瑞湖寺住職 | the chief priest of Zuikoji Temple | head priest of Zuikoji, Zuikoji abbot | inventor of the magic-power recovery medicine (s-p014); "Temple" is carried in the English so the otherwise unknown proper name reads |
+| タカ派 | hawks | hardliners, hawkish faction | Lake Biwa Pact faction favoring wide distribution of the magic-power recovery medicine |
+| ハト派 | doves | moderates, dovish faction | Lake Biwa Pact faction that kept the formula secret |
+| 白木 | pale, unfinished wood | white wood, plain wood | untreated, unlacquered wood; the alraune material used for the Cyanos handle |
+| 額当て | forehead protector | brow guard, forehead guard | s-p014 |
 | 魔法暴走魔法 | magic-rampage spell | magic-rampage magic, magic-runaway magic | magic that destabilizes a target's magic-power control; project-original |
 | 超越者 | Transcendent | transcender | collective term for witches and mages |
 | 魔女 | witch | sorceress | female Transcendent |
@@ -123,11 +147,19 @@
 | 無知シチュ放火ックス | unwitting arson sex |  | shortened form of Ori's reproductive-arson gag; project-original |
 | 魔物素材 | monster material | monster-derived material, monster part | material harvested from a monster; project-original |
 | 魔物素材加工具 | monster-material processing tools | monster-material tools | tools made from monster materials for delicate processing; project-original |
+| 潜影蝙蝠[こうもり] | shadow-lurking bat | shadow bat, Senei-koumori | bat monster whose fangs are worked into Ori's magic tools; ruby reading is こうもり; project-original |
 | 魔物肉 | monster meat | monster flesh | meat from a monster, inedible to ordinary humans; project-original |
 | キメラ型 | chimera type | chimera-type monster | monster body-type category; project-original |
 | 獣型 | beast type | beast-type monster | monster body-type category; project-original |
 | 植物型 | plant type | plant-type monster | monster body-type category; project-original |
 | 幽霊型 | ghost type | ghost-type monster | monster body-type category; project-original |
+| 幽霊系 | ghost type | ghost-系 type, ghost lineage | 系 variant of 幽霊型 used in the Volume 3 booklet; same category, same English |
+| 骸骨系 | skeleton type | skeletal type, bone type | monster body-type category; no self-blood tanning method exists for it; project-original |
+| 軟泥系 | slime type | soft-mud type, ooze type | 系 form of 軟泥[スライム]; matches V3 Ch 6's "slime-type monsters" |
+| 植物系 | plant type | plant-系 type, plant lineage | 系 variant of 植物型; same category, same English |
+| 油舐め | oil-licker | Aburaname, oil licker | oily monster whose materials repel self-blood; source sets it in 「」; project-original |
+| 油蜂 | oil bee | Aburabachi, oil-bee | oily monster whose materials repel self-blood; source sets it in 「」; project-original |
+| 自己強化状態 | self-enhanced state | self-strengthened state | a dragon's boosted state after eating Gremlins; its blood cannot be self-blood tanned; project-original |
 | 軟泥[スライム] | <ruby>slime<rt>soft mud</rt></ruby> | slime monster | magic-depleted slime; plain baseline remains machine-readable for non-ruby source uses |
 | 精製スライム充填剤 | purified-slime filler | purified slime filler | refined slime material used to fill a multilayer wand core; project-original |
 | 怪獣 | kaiju |  | large destructive monster |
@@ -173,6 +205,9 @@
 | 鳥の落とし方は虹に習った[ニヤンキヤウコイロギヨドジエジユ] | <ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby> | The way to bring down birds was learned from rainbows[ニヤンキヤウコイロギヨドジエジユ] | Kiwada's aerial-pressure incantation |
 | 大発見[××××]！　焔って燃えてるらしいよ[ジン・ガツシンガナアシンカ] | <ruby>××××<rt>Great discovery</rt></ruby>! <ruby>Jin Gatsushin Gana Ashinka<rt>Apparently flames burn</rt></ruby>! | Great discovery[××××]! Apparently flames burn[ジン・ガツシンガナアシンカ]! | Dragon Witch's fire-magic incantation; spans remain separate |
 | 付与強化魔法 | enhancement magic | enchantment-enhancement magic | Iwatsura's magic that enhances others; project-original |
+| 補助魔法 | support magic | auxiliary magic, assist magic | Iwatsura's magic class on the Vol. 4 character page; broader than her 付与強化魔法 |
+| 狼魔法 | wolf magic | wolven magic | Okyaku's magic; project-original |
+| 領主魔法 | lord magic | domain magic, territory magic | Arataki Kojiro's magic; appears only on the Vol. 4 character page; project-original |
 | 強化魔法 | enhancement magic | strengthening magic | generic magic that enhances the caster or another target; project-original |
 | 魔法増幅率 | amplification ratio | amplification rate | measured spell-amplification performance |
 | 魔力励起 | magic excitation | magical excitation | activation response induced by magic power or an incantation |
@@ -215,6 +250,8 @@
 | 凍る投げ槍 | Freezing Javelin | Frozen Javelin, Ice Javelin | Blue Witch's ice-projectile spell |
 | 凍る投げ槍[ドウ・ヴアアラー] | <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby> | Freezing Javelin[ドウ・ヴアアラー] | freezing projectile spell with magic-language reading |
 | 氷槍魔法 | ice-spear magic | ice spear spell | basic freezing projectile magic |
+| 光魔法 | light magic | magic of light | magic school used by Seta; project-original |
+| 光線魔法 | beam magic | light-beam magic, light-ray magic | Mountain Bear's directed ray; passes through inanimate matter, hits only living things; project-original |
 | 大氷河魔法 | Great Glacier magic | great-glacier magic | Blue Witch's maximum-power wide-area freezing magic |
 | 君よ[ゼィ] | <ruby>Zei<rt>You</rt></ruby> | You[ゼィ], Ze'i[ゼィ], Zei[ゼィ] | living-addressee form in magic language |
 | 君よ[クケッフッ] | <ruby>Kukeffu<rt>You</rt></ruby> | You[クケッフッ], Kukehu[クケッフッ], Kukeffu[クケッフッ] | dead-addressee form in magic language |
@@ -284,6 +321,14 @@
 | マーブルグレムリン | marbled Gremlin | marble Gremlin | two-color, blood-matched: recovery +5% max. |
 | 御守り | amulet | charm | accessory that improves magic-power recovery |
 | 自己血鞣し | self-blood tanning | blood tanning | Tohoku method preserving magical monster materials |
+| 血液鞣し | self-blood tanning | blood tanning | one-off source variant of 自己血鞣し on booklet page s-p031; rendered with the locked term |
+| 類別混合法 | category-blend method | classification blending, categorized mixing | blends the two body parts not being treated, as blood substitute for plant monsters; project-original |
+| 地上部 | above-ground part | aerial part, overground part | plant-monster body division: leaves, buds, stems, branches, trunk; project-original |
+| 地下部 | below-ground part | underground part, subterranean part | plant-monster body division: roots and similar buried growth; project-original |
+| 繁殖部 | reproductive part | propagation part, breeding part | plant-monster body division: flowers, fruit and other reproductive growth; project-original |
+| 粘体 | viscous body | viscous mass, gel body | the bulk outer layer of a slime, over 99% of its mass; project-original |
+| 粘液 | mucus | slime fluid, viscous fluid | liquid strained from the 粘体; distinct from it; project-original |
+| ゴム質 | rubbery layer | rubber quality, rubbery matter | a slime's elastic middle layer, around the Gremlin; project-original |
 | マモノバサミ | Monster Trap | monster clamp, Mamono Trap | time-stasis trap magic tool |
 | 隠し玉 | trump card | hidden card | decisive held-back advantage; project-original |
 | アース | ground |  | magic-stone grounding; project-original; LOCK: technical sense only |
@@ -326,6 +371,13 @@
 | ペットロス | pet loss | pet-loss grief | grief caused by the death of a pet / title-map term |
 | エーテル溶媒 | ether solvent | aether solvent | experimental Gremlin-processing liquid |
 | グレムリン災害 | Gremlin Disaster | Gremlin Catastrophe | global collapse caused by Gremlins |
+| ニート | NEET | layabout, freeloader, slacker | kept as the English-derived acronym Japanese borrowed; translating it adds a judgment the source's affectionate tone does not carry; ordinary uses of shut-in are not aliases |
+| プロニート | professional NEET | pro NEET | the Pebble Witch's self-description; project-original |
+| オタク | otaku | nerd, geek, fanboy | kept untranslated, as in published English editions of the genre |
+| 非オタ | non-otaku | normie, non-nerd | contrastive form of オタク |
+| ホビーバトル | hobby battle | hobby fight, hobby duel | collectible-game contest; project-original |
+| 球体関節人形 | ball-jointed doll | spherical-joint doll, BJD | the Pebble Witch's transformed body. NOTE: s-p009 misprints this as 球体間接人形 (間接 "indirect" for 関節 "joint"); translated as intended |
+| 子供部屋おばさん | a grown woman still living in her childhood bedroom | child-room auntie, kidult | Japanese internet coinage with no English noun equivalent; unpacked into a clause rather than given a false equivalent |
 | シャンタク座流星群 | Shantak Meteor Shower | Shantakid Meteor Shower | meteor shower that brought magic stones |
 | オクタメテオライト | Okutameteorite | Okutama Meteorite | Ori's black meteorite magic stone |
 | ヘンデンショー | Hendensho | Henden-shou, Hendenshou | Ori's mass-produced double-core wand |
@@ -344,6 +396,15 @@
 | ヤマメ | yamame trout | yamame, landlocked masu salmon | freshwater trout kept by Ori; project-original |
 | 兎宝石 | rabbit gemstone | rabbit jewel, rabbit stone | polished red magic stone taken from a red-gem rabbit |
 | 兎水晶 | rabbit crystal | rabbit gem | double-layer crystal taken from a red-gem rabbit |
+| 球体水晶 | sphere crystal | spherical crystal, orb crystal | the plain undrilled sphere a wand core is carved from; distinct from 兎水晶 rabbit crystal; appears on the Volume 4 manga-adaptation spread (p290-291) |
+| 魔法職人 | magic artisan | magic craftsman, magical artisan | broader than 魔法杖職人 Wand Maker; generic term for a magic-working craftsperson; appears on the Volume 4 manga-adaptation spread (p290-291) |
+| 風都ノリ | Futo Nori | Fuuto Nori, Nori Futo | artist of the manga adaptation; 風都 = ふうと, long vowel left unmarked per the project convention (never a macron form); family name first; credited on the Volume 4 manga advertisement (p294-295) |
+| かやはら | Kayahara | Kayahara-sensei | character-design credit on the manga adaptation; mononym pen name; credited on the Volume 4 manga advertisement (p294-295) |
+| カドコミ | KADOCOMI | Kadocomi, Kado Comi | Kadokawa's manga service; brand name, romanized rather than translated; appears on the Volume 4 manga advertisement (p294-295) |
+| ヤングエースUP | Young Ace UP | Young Ace Up, YoungAce UP | the magazine serializing the manga adaptation; appears on the Volume 4 manga advertisement (p294-295) |
+| パキィ | KRAK | KRAKK, KRIIK | SFX: a dry, sharp snap of something rigid — crystal shattering. Set as four letters on the Volume 4 manga advertisement (p294-295) because the available width there is bounded by focal art; use KRAKK where width allows and the ringing tail matters; ordinary narrative uses of snap are not aliases |
+| 極秘資料 | Top Secret Files | Classified Files, Top-Secret Material | the special-edition booklet's title; set as `TOP SECRET FILES` in display caps on the booklet cover (s-h1); matches the chapter-title map in novel.config.md; ordinary prose uses of "confidential documents" are not aliases |
+| 秘 | SECRET | TOP SECRET | the single-character stamp glyph on the booklet cover (s-h1); one word, because the source is one character struck inside a round rubber stamp; keep TOP SECRET FILES for the title above it so the stamp does not repeat it; ordinary prose uses of "classified" and "confidential" are not aliases |
 | オーパーツ | out-of-place artifact | OOPArt, OOPArts | object seemingly beyond its era's technology |
 | オーバーテクノロジー | overtechnology | over-technology, advanced technology | technology beyond the surrounding era's capabilities |
 | 封印鎖 | sealing chains | seal chains | Hachioji Witch's binding magic |
@@ -381,19 +442,66 @@
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
 | 琵琶湖協定 | Lake Biwa Pact | Biwako Pact, Lake Biwa Agreement | large Japanese survivor community; project-original |
 | 荒瀧組 | Arataki Group | Arataki-gumi | large yakuza survivor organization invading Tokyo; project-original |
+| 指定暴力団 | designated crime syndicate | designated organized crime group, designated violent group | the Arataki Group's legal designation; project-original |
+| 反社会勢力 | organized crime | antisocial forces, antisocial elements | the euphemistic collective term; rendered as plain English rather than the literal calque; appears on the Volume 4 next-volume preview page (p285) |
 | 暴力団対策法 | Boryokudan Countermeasures Act | Anti-Boryokudan Act, Bota Law | 1992 Japanese anti-organized-crime law; one-off historical reference in Volume 4, Chapter 12; project-original |
 | 暴対法 | Boryokudan Countermeasures Act | Anti-Boryokudan Act, Bota Law | shortened source form of 暴力団対策法; one-off historical reference in Volume 4, Chapter 12; project-original |
-| 組長 | gang boss | group leader | leader title in the Arataki Group; project-original |
+| 組長 | boss | group leader | head of a yakuza organization; distinct from 若頭 "Young Boss"; project-original |
 | 若頭 | Young Boss | underboss | Arataki Group title; project-original |
 | 舎弟頭 | Junior Boss |  | Arataki Group title; project-original |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
+| 魔女集会 | Witches' Council | witches' gathering, witches' assembly, coven | bare short form of 東京魔女集会; must match the full form |
 | 交換市 | barter market | exchange market, trade fair | recurring market where goods are exchanged without currency; project-original |
 | 鯨油 | whale oil | whale-oil | oil from whale blubber |
 | 東京魔法大学 | Tokyo Magic University | Tokyo University of Magic | magical research and education institution |
+| 学長 | president | chancellor, dean, principal, headmaster | head of Tokyo Magic University; the office Ohinata Kei holds |
+| 指導教授 | academic advisor | supervising professor, academic supervisor, faculty advisor | the professor supervising a student's or junior researcher's work |
+| 生徒会長 | student council president | student body president, head of the student council | school office; Nanase held it in high school |
+| 燃え尽き症候群 | burnout syndrome | burn-out syndrome, exhaustion syndrome | the clinical term, as the source uses it |
+| パンク | hit one's breaking point | blow a fuse, puncture | 〈puncture〉 in the overload sense — reaching capacity and breaking down. "Blow a fuse" is banned because in English it means losing one's temper, which the source does not say; ordinary uses of "burn out" and "pop" are not aliases |
 | 魔法大学 | Magic University | University of Magic | shortened source form for Tokyo Magic University |
 | キャラクター紹介 | Character Profiles | Character Introductions | booklet section heading |
-| 作品設定 | Setting Notes | Work Setting | booklet section heading |
 | １巻時点での年表 | Timeline as of Volume 1 | Volume 1 Timeline | booklet section heading |
+| ３巻時点での年表 | Timeline as of Volume 3 | Volume 3 Timeline | booklet section heading |
+| ４巻時点での年表 | Timeline as of Volume 4 | Volume 4 Timeline, Timeline Through Volume 4 | booklet section heading; appears in the Volume 4 booklet contents (s-p003) |
+| ４巻の各話解説 | Volume 4 Chapter Commentary | Volume 4 Chapter Explanations | booklet section heading; appears in the Volume 4 booklet contents (s-p003) |
+| 魔法道具紹介 | Magic Item Profiles | Magic Item Introductions, Magic Tool Guide | booklet section heading; kept parallel with キャラクター紹介 Character Profiles, since the same 紹介 sits in both lines of the same contents list |
+| 東京警備隊 | Tokyo Guard | Tokyo Security Corps, Tokyo Guard Squad | Tokyo's uniformed security force; 警備隊 takes Guard per 港区自治警備隊 Minato Ward Civilian Guard. As a common noun in running prose the filed Volume 4 text uses lowercase "security guards"; capitalize only as the unit name |
+| 東京警備隊対抗戦 | Tokyo Guard Tournament | Tokyo Guard Competition, Tokyo Guard Match | booklet section heading; 対抗戦 is a contest between opposing teams (s-p003) |
+| 北区警備隊 | Kita Ward Guard | Kita Ward Security Corps | highest-scoring unit in the Volume 4 booklet's Tokyo Guard Tournament; project-original |
+| 竜区警備隊 | Dragon Ward Guard | Dragon District Guard | guard unit trained through the Dragon Witch's treasure-hunting trips; project-original |
+| 文京区警備隊 | Bunkyo Ward Guard | Bunkyo District Guard | guard unit built around Foresight support and conservative withdrawal doctrine; project-original |
+| 練馬区初動対応班 | Nerima Ward Initial Response Team | Nerima Ward First Response Team | steady-response unit in the Tokyo Guard Tournament; project-original |
+| 杉並区武装警察 | Suginami Ward Armed Police | Suginami Armed Police | anti-golem unit in the Tokyo Guard Tournament; project-original |
+| 品川区警備隊 | Shinagawa Ward Guard | Shinagawa District Guard | reorganized fire-tactics unit in the Tokyo Guard Tournament; project-original |
+| 港区守備隊 | Minato Ward Defense Unit | Minato Ward Guard | ritual-death-curse unit in the Tokyo Guard Tournament; project-original |
+| 目玉区自衛警察 | Eyeball Ward Self-Defense Police | Eyeball District Self-Defense Police | Tokyo's largest district security organization; project-original |
+| 夜区戦闘班 | Night Ward Combat Team | Night District Combat Team | two-person-cell unit in the Tokyo Guard Tournament; project-original |
+| 調布区防衛班 | Chofu Ward Defense Team | Chofu Ward Guard | unit focused on repelling rather than killing; project-original |
+| 三鷹区自警団 | Mitaka Ward Vigilance Group | Mitaka Ward Vigilantes | low-magic unit with diverse non-incantation tactics; project-original |
+| 人魚区治安維持チーム | Mermaid Ward Public-Safety Team | Mermaid Ward Peacekeeping Team | unit dependent on the Mermaid Witch for monster extermination; project-original |
+| 花区駆除係 | Flower Ward Extermination Detail | Flower Ward Extermination Team | ceremonial-looking but inexperienced extermination unit; project-original |
+| 世田谷区魔女親衛隊 | Setagaya Ward Witch's Guard | Setagaya Witch's Guard | high-magic, low-skill unit in the Tokyo Guard Tournament; project-original |
+| ゾンビ区義勇団 | Zombie Ward Volunteer Corps | Zombie Ward Volunteer Unit | mixed human-zombie guard unit; project-original |
+| 煙草区ぶっとばし隊 | Tobacco Ward Blast-'Em Team | Tobacco Ward Knock-'Em-Down Team | chaotic unit that received no tournament score; project-original |
+| 日本の生存者コミュニティ | Survivor Communities of Japan | Japan's Survivor Communities | booklet section heading; "survivor community" is the standing phrase in the filed Volume 4 prose (s-p003) |
+| 東京魔法大学論文アーカイブ | Tokyo Magic University Paper Archive | Tokyo Magic University Thesis Archive | booklet section heading; 論文 here is an academic paper, not a degree thesis (s-p003) |
+| 奥多摩防衛担当大臣業務指令書 | Okutama Minister of Defense: Operational Directive | Okutama Defense Minister's Work Orders | booklet section heading, set on two lines — office above, document below; the colon carries that split (s-p003) |
+| 東京巡り | Touring Tokyo | Tokyo Tour | hand-lettered booklet section heading for the ward travel guide; ordinary uses of "around Tokyo" are not aliases; project-original |
+| フラワーガーデン | Flower Garden |  | café in Flower Ward selling take-away syrups and spices; project-original |
+| 磯鍋本舗 | Isonabe Honpo | Isonabe Head Shop, Shore Pot Emporium | Mermaid Ward restaurant known for nine-headed octopus hotpot; project-original |
+| 純海鮮マーメイド | Pure Seafood Mermaid | Junkaisen Mermaid | Mermaid Ward restaurant in a grounded ship; serves no monster seafood; project-original |
+| 九頭蛸 | nine-headed octopus | nine-head octopus | monster octopus served as hotpot in Mermaid Ward; project-original |
+| 東京観光ガイド | Tokyo Sightseeing Guide | Tokyo Tourism Guide | booklet running head for the ward travel guide; project-original |
+| 東京に来たらまずどうする？ | Where to Start in Tokyo? | What to Do First in Tokyo? | hand-lettered booklet section heading; project-original |
+| 東京グルメ完全攻略！ | Tokyo Food, Conquered! | Tokyo Gourmet Complete Guide! | hand-lettered booklet section heading; `攻略` carries the strategy-guide sense; project-original |
+| ラーメン夜鳴屋 | Yonakiya | Ramen Yonakiya, Yonaki-ya | Bunkyo Ward ramen shop known for chicken-bone broth; project-original |
+| 酔い道楽 | Yoidoraku | Yoi Doraku | Bunkyo Ward izakaya known for doburoku; project-original |
+| ビストロモンスター | Bistro Monster |  | Bunkyo Ward grilled-meat and shabu-shabu restaurant; project-original |
+| ＤＯＤＯカレー | DODO Curry | Dodo Curry | Eyeball Ward curry shop; reservation-only katsu curry; LOCK: DODO all-caps; project-original |
+| 丼べえ | Donbee | Donbe, Don-bee | Eyeball Ward rice-bowl chain formed by a merger of beef-bowl chains; project-original |
+| 調布公共大衆食堂 | Chofu Public Canteen | Chofu Public Cafeteria | Chofu Ward's only eatery; 50- and 100-yen set meals; project-original |
+| ドブロク | doburoku | dobroku, unrefined sake | cloudy unfiltered sake; kept in romaji as a culinary term |
 | １巻の各話解説 | Volume 1 Chapter Commentary | Volume 1 Chapter Explanations | booklet section heading |
 | 東京都内状況 | Current Situation in Tokyo | Tokyo Status | booklet section heading |
 | ショートストーリー | Short Stories | Short Story | booklet section heading |
@@ -408,6 +516,13 @@
 | 白指 | White Fingers | white-fingered artisans | mark of wand artisans using fine Gremlin abrasive |
 | 無名叙事詩 | Nameless Epic | Anonymous Epic | hypothesized source text of all spell quotations |
 | 無名叙事詩仮説 | Nameless Epic Hypothesis | Anonymous Epic Hypothesis | linguistic hypothesis / title-map term |
+| グレムリン語仮説 | Gremlin Language Hypothesis | Gremlin Tongue Hypothesis | rival hypothesis: magic language is the Gremlins' own tongue; project-original |
+| 魔石語 | language of the magic stones | magic-stone language, Magic Stone Language | the Gremlin Language Hypothesis's gloss on グレムリン語; project-original |
+| アカシックレコード仮説 | Akashic Record Hypothesis | Akashic Records Hypothesis | rival hypothesis: magic language was spoken on Earth in the distant past; project-original |
+| ゴールデンレコード仮説 | Golden Record Hypothesis | Gold Record Hypothesis | rival hypothesis: magic language is an extraterrestrial contact language; project-original |
+| 預言者啓示仮説 | Prophetic Revelation Hypothesis | Prophet Revelation Hypothesis | rival hypothesis: magic language is a revelatory cipher from a higher being; project-original |
+| 集合的無意識言語仮説 | Collective Unconscious Language Hypothesis | Collective Unconsciousness Language Hypothesis | rival hypothesis: magic language distilled from all human tongues; project-original |
+| 社会的無機生命体 | social inorganic life-form | social inorganic organism | magic stones as thinking, language-bearing mineral life; project-original |
 | アルラウネの秘蜜 | alraune secret nectar | alraune nectar | life-extending secretion of the Flower Witch |
 | キノコ病 | mushroom disease | mushroom plague | parasitic magical-fungus epidemic |
 | 魔法的死 | magical death |  | death through complete loss of magic power |
@@ -425,6 +540,22 @@
 | 封印弾 | sealing round | seal bullet | projectile carrying a sealing spell |
 | クラーケン | Kraken |  | colossal squid-octopus sea monster |
 | 山熊 | Mountain Bear |  | 40-meter Hokkaido giant magic beast; project-original |
+| 大利の双六無双 | Ori's Sugoroku Supremacy | Ori's Sugoroku Invincibility | booklet entry heading; `無双` in the peerless/unmatched sense; project-original |
+| 戦闘センス | Combat Sense | combat sense, fighting sense, battle sense | character-profile stat label in the booklet; title case, matching the other three stat bars |
+| 身体能力 | Physical Ability | physical capability, athleticism | character-profile stat label in the booklet; ordinary prose uses of "physical abilities" are not aliases |
+| 知力 | Intelligence | intellect, mental ability | character-profile stat label in the booklet; distinct from 地頭, which is rendered "raw intelligence"; ordinary uses of wisdom are not aliases |
+| 全長 | Total Length | overall length, body length | character-profile vitals label in the booklet, used in place of 身長 when the subject is measured as a creature rather than a standing human figure |
+| 体高 | Height at the withers | shoulder height, withers height | character-profile vitals label in the booklet, used in place of 身長 when the subject is part animal; the standing height measured at the shoulder, the term used for horses and livestock. Pointed on s-p010, where the subject is a centaur. Same distinction as 全長 |
+| ケンタウロス | centaur | kentauros, half-horse | s-p010; the katakana loan, rendered by the ordinary English word |
+| 愛人 | mistress | kept woman, paramour | the woman a man keeps outside his marriage; context distinguishes this from an ordinary lover |
+| 姐御 | Boss Lady | matriarch | yakuza title for the boss's woman, not ordinary kinship or proof of marriage. Distinct from 姐さん as an address form, which stays romanized — see 木和田の姐さん. Ordinary kinship uses of big/older sister are not aliases |
+| 若衆 | young underling | young member, foot soldier | junior member of a yakuza organization; "young underling" keeps the organizational relationship that "young member" flattens |
+| 相談役 | adviser | counselor, consultant, mediator | yakuza organizational post; "counselor" reads as legal or therapeutic counseling in contemporary English |
+| 猛虎 | Fierce Tiger | Raging Tiger | Arataki Kojiro's self-styled nickname (s-p012); paired with the police's mocking counter-nickname |
+| 狂犬病 | Rabies | Mad Dog, rabid dog | the police's mocking nickname for Arataki Kojiro (s-p012). The source says 狂犬病, the disease, not 狂犬, the dog — the oddness of the disease as a nickname is the joke and is kept |
+| 猿山の大将 | a big fish in a small pond | king of the hill, boss of the monkey mountain, top monkey | someone who dominates a small and unimpressive circle; rendered by the established English idiom rather than glossed |
+| 拠点防衛戦 | base-defense battle | stronghold defense, base defense fight, fight to hold a stronghold | fighting to hold a fixed position; "fight to hold a stronghold" was rejected as translationese |
+| 作品設定 | Story Settings | Work Settings, Setting Notes, Series Background | booklet section heading and the running head on the setting-notes pages — one form for both, because a contents entry and the section it points at must agree. This row supersedes a duplicate that read "Setting Notes"; earlier volumes shipped that form in the Volume 2 contents and "Series Background" in the Volume 3 contents, while both volumes' section pages already used "Story Settings" |
 | 青梅 | Ome | Oume | city governed by Blue Witch |
 | 奥多摩 | Okutama | Oku-Tama | Ori's mountain home region |
 | 仙台 | Sendai |  | Tohoku Hunting Association's base city; project-original |
@@ -444,7 +575,7 @@
 | 東京湾 | Tokyo Bay |  | bay adjoining Tokyo |
 | 旧東京メトロ丸の内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | rail route planned for charcoal-powered transport |
 | 旧東京メトロ丸ノ内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | alternate source spelling of the rail route |
-| 東京メトロ丸ノ内線 | Tokyo Metro Marunouchi Line | former Tokyo Metro Marunouchi Line, old Tokyo Metro Marunouchi Line | current source form without `旧`; charcoal cars run on its track |
+| 東京メトロ丸ノ内線 | Tokyo Metro Marunouchi Line |  | current source form without `旧`; charcoal cars run on its track; forms beginning with "former" or "old" belong to the separate `旧` entries and are not aliases |
 | 羽村 | Hamura |  | city frozen during the giant-kaiju battle |
 | 新宿 | Shinjuku |  | Tokyo district where the Council meets |
 | あきる野市 | Akiruno | Akiruno City | western Tokyo city |
@@ -454,6 +585,7 @@
 | 愛知 | Aichi |  | Ori's home prefecture |
 | 文京区 | Bunkyo Ward | Bunkyou Ward | ward governed by Foresight Mage |
 | 文京区役所 | Bunkyo Ward Office | Bunkyo City Office | Witches' Council administrative and battle site |
+| 神保町 | Jinbocho | Jimbocho, Jinbo-cho, Jinbocho district | Chiyoda Ward neighborhood; Koharu's home before the mutation, and the Eyeball Witch's territory; long vowel unmarked |
 | 練馬[ねりま]区 | Nerima Ward | Nerima-ku | pronunciation-only furigana; Spider Witch's assigned ward |
 | 練馬区 | Nerima Ward | Nerima-ku | recurring plain source form; Spider Witch's assigned ward |
 | 後楽園駅 | Korakuen Station | Kourakuen Station | station in Bunkyo Ward; project-original |
@@ -465,6 +597,15 @@
 | 杉並区 | Suginami Ward | Suginami-ku | ward governed by Pebble Witch |
 | 台東区 | Taito Ward | Taitou Ward | Flower Witch's domain |
 | 荒川区 | Arakawa Ward | Arakawa-ku | Flower Witch's domain |
+| 北区 | Kita Ward | Kita-ku, North Ward | northern Tokyo ward; overland gateway to Tokyo |
+| 調布区 | Chofu Ward | Chofu-ku, Choufu Ward | western Tokyo ward; the Chofu Witch's territory; project-original |
+| 港区中央卸売市場 | Minato Ward Central Wholesale Market | Minato Central Market | dockside market where arrivals convert cargo to currency; project-original |
+| 港区奪還作戦 | Minato Ward Recapture Operation | Minato Ward retaking operation, operation to retake Minato Ward | named operation; capitalized as a proper noun, per Vol. 3 p011 |
+| 池袋 | Ikebukuro |  | Tokyo district; former gourmet quarter in Eyeball Ward |
+| 花区 | Flower Ward | Hana Ward, Flower District | colloquial name for the Flower Witch's territory (Arakawa/Taito); project-original |
+| 人魚区 | Mermaid Ward | Ningyo Ward, Mermaid District | colloquial name for the Mermaid Witch's territory (Koto/Chuo); project-original |
+| 目玉区 | Eyeball Ward | Medama Ward, Eyeball District | colloquial name for the Eyeball Witch's multi-ward territory; project-original |
+| 煙草区 | Tobacco Ward | Tabako Ward, Tobacco District | colloquial name for the Tobacco Witch's territory (Mizuho/Hamura); project-original |
 | ケモナー | furry | animal-person fan | person attracted to anthropomorphic animal traits |
 | ヒトナー | human-lover | human fan | Ori's joking inverse of `furry` |
 | 絶対音感 | absolute pitch | perfect pitch | ability to identify or reproduce a pitch without a reference tone |
@@ -483,7 +624,7 @@
 | 耐火煉瓦 | firebrick | refractory brick, fire brick | heat-resistant brick used to build the reverberatory furnace |
 | シャモット | chamotte | grog | crushed fired clay used in firebrick |
 | 耐火粘土 | fire clay | refractory clay | heat-resistant clay fired to produce chamotte |
-| 焼成 | firing | baking, calcination | high-temperature processing of clay |
+| 焼成 | firing | calcination | high-temperature processing of clay; ordinary culinary baking is not an alias |
 | 国立国会図書館 | National Diet Library | National Congressional Library | Japan's national library |
 | 入間クーデター | Iruma coup | Iruma Coup | past uprising led by Iruma Mage; project-original |
 | 東京競馬場 | Tokyo Racecourse | Tokyo Racetrack | racecourse where Tobacco Witch rescued horses |
@@ -578,6 +719,12 @@
 | 半田式製造法 | Handa-style manufacturing method | Handa method, Handa manufacturing method | mass-production method for general-purpose magic wands; project-original |
 | 加熱トルマリン吸着法 | heated-tourmaline adsorption method | heated tourmaline adsorption method | Gremlin appraisal method; project-original |
 | グレムリン昇華精製法 | Gremlin sublimation-refining method | Gremlin sublimation refining method | Gremlin refinement method; project-original |
+| ３型アミュレット | Type 3 amulet | Model 3 amulet, Type-3 amulet | improved amulet made with the Gremlin sublimation-refining method; project-original |
+| 実用迂回詠唱 | Practical Bypass Incantation | Practical Detour Incantation | Ohinata Kei's 2025 paper; project-original |
+| グレムリン構造体への動力学適用 | Application of Dynamics to Gremlin Structures | Applying Dynamics to Gremlin Structures | 2026 paper credited to 0933 and Handa Sakunosuke; project-original |
+| 磁場変化と魔力変化の相互関係 | Correlation Between Magnetic-Field Change and Magic-Power Change | Relationship Between Magnetic-Field and Magic-Power Changes | Inuikita Saburo's 2027 paper; project-original |
+| 魔物の分類 | Classification of Monsters |  | Sendo Senji's 2027 paper; project-original; the phrase "monster classification" also occurs inside the separately locked term "monster classification table" and is not a global alias |
+| 被引用数上位論文 | Most-Cited Papers | Top-Cited Papers, Papers with the Most Citations | Tokyo Magic University paper-archive subsection; project-original |
 | 合唱 | chorus | cooperative chant | Ohinata's term for synchronized cooperative incantation; project-original |
 | 堅パン | hardtack | hard bread | hard preserved biscuit; established translation |
 | 港区自治警備隊 | Minato Ward Civilian Guard | Minato Ward Self-Governing Guard | local civilian security force before Minato Ward fell; project-original |
@@ -654,3 +801,13 @@
 | 紅蓮の炎[ブレス] | <ruby>breath<rt>crimson flame</rt></ruby> |  | Dragon Witch attack description variant |
 | 射撃魔法[![gaiji-0002.png](images/gaiji-0002.png)ー] | <ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>shooting magic</rt></ruby> |  | shooting-magic name with gaiji reading |
 | 氷槍魔法[ドウ・ヴアアラー] | <ruby>Do Vaa-ra<rt>ice-spear magic</rt></ruby> |  | ice-spear magic name with magic-language reading |
+| 闇商人 | black marketeer | black-market merchant, shady dealer | V3 Ch 5 title form; in prose the group is a "black-market outfit" |
+| 闇取引 | black-market dealing | shady dealing, underground trade | Shirokarasu's trade in Suginami Ward; adjectival as "black-market" |
+| 魔物使い | Monster Handler | Monster Tamer, monster user | V3 job class, set as "Job: Monster Handler"; kept distinct from 魔獣使い (beast handler), whose banned alias is "monster tamer" |
+| 無名祭祀書 | Nameless Cults | Book of Nameless Cults, Unaussprechlichen Kulten | von Junzt's Cthulhu Mythos tome; source of the Nameless Epic's name |
+| クトゥルフ神話 | Cthulhu Mythos | Cthulhu mythology | received English; cited in the V3 commentary |
+| 設定厨 | worldbuilding nerd | setting nerd, lore otaku | author's self-deprecating fandom slang in the V3 commentary |
+| オーリ | Ori | Oori, Ohri, Oli | katakana form of 大利 used in the V3 commentary; same person as Ori Kenshi, long vowel unmarked |
+| 吟遊詩人 | Bard | minstrel, troubadour | job-class slot name, quoted as a game string |
+| 度量衡 | weights and measures | metrology, measurement standards | the in-world achievement announced in V3 Ch 17 |
+| 神アイテム | god-tier item | divine item, god item | 神〜 as fandom intensifier, not a literal deity reference |

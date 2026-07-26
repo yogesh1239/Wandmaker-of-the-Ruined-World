@@ -1,0 +1,156 @@
+{
+  "source_sha256_before": "04201739b3fc8ad95ad3fc905954db99e2ee3f6df2e02b29b9dcf11638120e49",
+  "source_sha256_after": "04201739b3fc8ad95ad3fc905954db99e2ee3f6df2e02b29b9dcf11638120e49",
+  "output_sha256": "9277d70b3acd7fda8cdf05d8be792e44d08d268ea3b8c2d592b56a18174d8127",
+  "output": {
+    "format": "JPEG",
+    "mode": "RGB",
+    "size": [
+      2048,
+      1456
+    ],
+    "quality_save_parameter": 95,
+    "subsampling": 0,
+    "bytes": 886251
+  },
+  "mask_pixels": 161278,
+  "mask_pixels_by_region": {
+    "R": 54004,
+    "C": 31803,
+    "L": 56378,
+    "E": 2731,
+    "blue_latin": 1433,
+    "blue_jp": 4557,
+    "ori_latin": 2403,
+    "ori_jp": 7969
+  },
+  "nameplate_ink_bboxes": {
+    "Blue Witch": [
+      112,
+      709,
+      370,
+      745
+    ],
+    "Ori Kenshi": [
+      1247,
+      1131,
+      1502,
+      1167
+    ]
+  },
+  "dialogue_ink_bboxes": {
+    "R": [
+      1540,
+      1030,
+      2019,
+      1247
+    ],
+    "C1": [
+      700,
+      745,
+      988,
+      812
+    ],
+    "C2": [
+      702,
+      900,
+      899,
+      928
+    ],
+    "L": [
+      150,
+      1100,
+      614,
+      1323
+    ],
+    "E": [
+      152,
+      1360,
+      286,
+      1380
+    ]
+  },
+  "dialogue_boxes": {
+    "R": [
+      1540,
+      1030,
+      2020,
+      1300
+    ],
+    "C1": [
+      700,
+      745,
+      1010,
+      870
+    ],
+    "C2": [
+      700,
+      900,
+      1010,
+      985
+    ],
+    "L": [
+      150,
+      1100,
+      620,
+      1330
+    ],
+    "E": [
+      150,
+      1360,
+      330,
+      1400
+    ]
+  },
+  "dialogue_font_size": 28,
+  "dialogue_layout": {
+    "R": [
+      "\"Hmm. Cyanos and my amulet are",
+      "both blue, so... going with cool colors",
+      "might work. What about you, Ori? Do",
+      "you like red? I'm starting to think",
+      "matching your fire salamanders' colors",
+      "could work too.\""
+    ],
+    "C1": [
+      "\"Why would you match",
+      "the colors to my pets?\""
+    ],
+    "C2": [
+      "\"Why...? Well...\""
+    ],
+    "L": [
+      "\"Your eyes are a really pretty blue,",
+      "Hiyori, and your hair has a bluish tint",
+      "too. If you don't have a particular",
+      "favorite color, wouldn't a pet that",
+      "matches your own distinctive colors",
+      "suit you better?\""
+    ],
+    "E": [
+      "\"................\""
+    ]
+  },
+  "fonts": {
+    "nameplates": "/home/yogesh/.local/share/fonts/lightnovel/PlayfairDisplay-700.ttf",
+    "nameplate_size": 44,
+    "nameplate_tracking": 4,
+    "dialogue": "/home/yogesh/.local/share/fonts/lightnovel/Spectral-400.ttf",
+    "dialogue_size": 28,
+    "dialogue_leading": 39
+  },
+  "protected_mad_saved_jpeg": {
+    "left_girl_face": 0.625940122044241,
+    "right_pair_faces": 0.6066179894179894,
+    "pouch_sparrow_inset": 0.42697504906083544,
+    "open_book": 0.5067111111111111
+  },
+  "protected_mad_preencode": {
+    "left_girl_face": 0.0,
+    "right_pair_faces": 0.0,
+    "pouch_sparrow_inset": 0.0,
+    "open_book": 0.0
+  },
+  "debug_inpaint": "/home/yogesh/Translations/Wand Maker of the Ruined World/Editing/Volume 4/image-localization/kuchie-002-inpaint-debug.png",
+  "debug_mask": "/home/yogesh/Translations/Wand Maker of the Ruined World/Editing/Volume 4/image-localization/kuchie-002-mask-debug.png"
+}

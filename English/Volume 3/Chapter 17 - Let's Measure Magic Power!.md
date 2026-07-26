@@ -156,7 +156,7 @@ I trembled with emotion.
 
 Until now, we had never once managed to measure magic power quantitatively.
 
-We could only measure magic power by standards like a witch's intuition saying, “You have a lot of magic power,” or, “You have enough magic power to use the shooting-magic core spell <ruby>A゙-<rt>Fire</rt></ruby> just once, so you have little magic power.”
+We could only measure magic power by standards like a witch's intuition saying, “You have a lot of magic power,” or, “You have enough magic power to use the shooting-magic core spell <ruby>Agh-<rt>Fire</rt></ruby> just once, so you have little magic power.”
 
 But now.
 

@@ -380,7 +380,7 @@ When <ruby>Shirokarasu<rt>White Crow</rt></ruby> called out, the back door leadi
 
 <ruby>Shirokarasu<rt>White Crow</rt></ruby> spoke to her close aide Moeka, who looked like she had no idea what was going on.
 
-“Moeka, listen carefully. ‘Obey every word this man says, and never defy him. Treat his orders as mine.’ Understood?”
+“Moeka, listen carefully. ‘Obey every word this man says, and never defy him. Regard his orders as mine.’ Understood?”
 
 “Yes, Boss! Then, um...?”
 

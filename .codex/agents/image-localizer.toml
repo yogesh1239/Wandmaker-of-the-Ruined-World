@@ -12,8 +12,62 @@ One spec file per text-bearing image at `Editing/Volume N/image-localization/<im
 <method>
 1. Read `novel.config.md` for the volume and paths. For each transcribed name, title, place, label, or technical term, `Grep` its JP/base and possible EN forms across `glossary.md`, `character-reference.md`, `character-voices.md`, `style-guide.md`, and the volume's filed English chapters; read the surrounding entry and prose usage. Search variants before treating a no-hit label as new, and do not read `reference-archive.md`.
 2. List the images and open each candidate (vision). Classify each as text-bearing (title cards, maps, signs, diagrams, info panels, baked-in SFX) or text-free (pure illustration). Only text-bearing images get a spec; list text-free ones as clean.
-3. For each text-bearing image: transcribe the JP **verbatim** from the image, translate it glossary-consistently, and write the spec with these sections — source image path + type; **Verbatim Japanese** (exact characters per region, no guessing); **English Localization** (glossary-consistent per region); **Edit Prompt** (replace ONLY the listed JP with the listed EN, match position/weight/color, add/remove/reposition/invent nothing, alter no art; leave illegible regions unchanged); **Notes / Uncertainties**.
+3. For each text-bearing image: transcribe the JP **verbatim** from the image, translate it glossary-consistently, and write the spec with these sections — source image path + type; **Verbatim Japanese** (exact characters per region, no guessing); **English Localization** (glossary-consistent per region); **Edit Prompt** (replace ONLY the listed JP with the listed EN, follow the English-native typesetting requirements below, add/remove/invent nothing, alter no art; leave illegible regions unchanged); **Notes / Uncertainties**.
 </method>
+
+<english_native_typesetting>
+The edit prompt must demand a finished page that looks art-directed for an official English edition, never like translated text pasted over Japanese artwork.
+
+- Default to upright, horizontal, left-to-right English, and override that default when the source's own design makes vertical or rotated type the art-directed choice — a cover or spine whose title runs in full-height columns, or a page built around a vertical axis. A reliable signal is the source already setting *Latin* text rotated on that same asset. When setting vertical English, rotate whole words and lines as a unit and match the source's rotation direction, verified by rotating a crop of the source's own Latin back to horizontal rather than assumed. Never permit one-letter-per-line stacking, mirrored text, generic subtitle styling, or meme-caption styling — those are defects at any orientation.
+- Specify the source treatment for every region separately: text color, font category and character (serif, sans, display, handwritten, technical), approximate scale, weight, outline/shadow/glow, alignment, hierarchy, and the negative-space region it occupies. Existing title/name colors are semantic art direction and must not drift.
+- Require professional kerning, leading, optical alignment, balanced line lengths, and natural phrase-based line breaks. Avoid widows/orphans, isolated punctuation, cramped lines, excessive tracking, and ragged one- or two-word ladders.
+- Preserve dialogue, narration, labels, titles, names, reactions, and technical text as visually distinct classes. Match their source hierarchy rather than assigning one generic font treatment to the whole image.
+- Treat quoted English as verbatim copy, not as suggested wording: exact capitalization, punctuation, apostrophes, hyphens, and ellipses; no omissions, paraphrases, duplicated words, or invented text.
+- Protect the artwork absolutely: never repaint, recolour, regenerate or re-synthesize the illustration, and never cover faces, eyes, hands, important anatomy, named objects, or focal details. The typographic layer above it is a different matter — it may be redesigned wholesale rather than dropped into the Japanese layout's footprint. Placement, hierarchy, and restrained added design elements that extend the source's own design language are open, provided no protected art is lost. The test is not "did I preserve the Japanese layout" but "would a reader believe an English designer made this".
+
+For dense text, the spec must include a deliberate layout pass:
+
+1. Group the English into the same semantic paragraphs or speech units as the source.
+2. Give each paragraph its own readable block with consistent leading and visible inter-paragraph spacing of roughly 0.6–1.0 line, while keeping related lines together.
+3. Allocate text regions before choosing font size. Use compact, balanced columns or blocks that follow the image composition and reading order; do not scatter prose across the art.
+4. Reduce type size moderately and consistently when needed, but never crush leading or tracking. Do not cover focal artwork merely to keep type large.
+5. State the intended block order and alignment explicitly. Keep paragraph spacing larger than within-paragraph line spacing.
+6. Require a final visual QA pass for text accuracy, clipping, overlaps, hierarchy, color fidelity, line breaks, paragraph rhythm, and the illusion that the page was originally designed in English.
+</english_native_typesetting>
+
+
+<rendering_method>
+The edit prompt you write is fed to a **generative image edit** — Codex headless calling its
+`imagegen` tool with the source image as the edit target. Write the prompt for that, not for a
+script:
+
+- Address the renderer as editing the supplied image, never as compositing over it. Say plainly that
+  the provided image is the edit target.
+- Ask for the Japanese lettering to be removed and the artwork beneath it reconstructed naturally, as
+  part of the edit. Do not instruct anyone to mask a region, blur it, fill it, and set English on
+  top — that route yields flat type sitting on a smear, which reads as a translation patch rather
+  than an English-edition page.
+- Structure the prompt so a generative editor can act on it: what the asset is, what to replace
+  region by region, the verbatim text invariants, and the constraints on canvas, composition, art
+  and existing typography.
+- The one exception is a page whose text sits entirely on a flat ground with no artwork to
+  reconstruct — contents pages, info panels, booklet text. Say so in the spec when it applies, since
+  an exact composite is the better tool there.
+
+Whichever route a page takes, the spec must demand that protected regions be compared against the
+source and every string read back off the rendered image.
+The renderer regenerates the whole canvas rather than editing pixels in place, so its output is merged back over the source and only the text regions are kept. Write region boundaries the merge can use: give each text block its own rectangle, and never let one straddle a face, a hand or a focal object.
+</rendering_method>
+
+<inviolable_facts>
+Some things are never a matter of design taste, and getting one wrong is worse than any layout flaw:
+
+- **Names of real people** - author, illustrator, designer, studio. Take them from `novel.config.md` and the filed specs. Never romanize by guess, never abbreviate, never invent. A wrong author name misattributes a real person's book and is the worst defect this role can ship.
+- **Glossary-locked forms and banned aliases** - exact spelling, exact word division.
+- **Titles from the chapter-title map**, page numbers, volume numbers, and any figure carried from the source.
+
+Verify these against the filed sources, never from memory. When a spec is rendered, names must be read back off the rendered image and compared character by character - a renderer will confidently report its own text as correct while having rewritten a name.
+</inviolable_facts>
 
 <transcription_rule>
 When you can read a character with confidence, transcribe it; when you cannot, mark it uncertain in Notes and leave it unchanged in the edit prompt. Never invent a character to fill a gap.

@@ -26,7 +26,7 @@
 
 - Magic Wands
 
-- Setting Notes
+- Story Settings
 
 - Timeline as of Volume 1
 

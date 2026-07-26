@@ -1,0 +1,536 @@
+{
+  "source_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/崩壊世界の魔法杖職人３【電子特典付き】.epub",
+  "chapters_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 3",
+  "out_epub": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Wand Maker of the Ruined World v03 (EN).epub",
+  "metadata": {
+    "title": "Wand Maker of the Ruined World, Vol. 3",
+    "language": "en",
+    "identifier": "urn:uuid:2b566872-05a1-439b-80e2-e1c578cfd2c1",
+    "creators": [
+      {
+        "name": "Kurodome Hagane",
+        "role": "aut"
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "md": "Chapter 1 - Magic-School Customization.md",
+      "title": "Magic-School Customization"
+    },
+    {
+      "id": "chapter-2",
+      "md": "Chapter 2 - Secret Techniques of the Tohoku Hunting Association.md",
+      "title": "Secret Techniques of the Tohoku Hunting Association"
+    },
+    {
+      "id": "chapter-3",
+      "md": "Chapter 3 - The Flame Witch.md",
+      "title": "The Flame Witch"
+    },
+    {
+      "id": "chapter-4",
+      "md": "Chapter 4 - Himori Wand.md",
+      "title": "Himori Wand"
+    },
+    {
+      "id": "chapter-5",
+      "md": "Chapter 5 - A Black Marketeer Talks About 0933.md",
+      "title": "A Black Marketeer Talks About 0933"
+    },
+    {
+      "id": "chapter-6",
+      "md": "Chapter 6 - Let's Put Monster Materials to Use.md",
+      "title": "Let's Put Monster Materials to Use"
+    },
+    {
+      "id": "chapter-7",
+      "md": "Chapter 7 - Fire Salamander.md",
+      "title": "Fire Salamander"
+    },
+    {
+      "id": "chapter-8",
+      "md": "Chapter 8 - Secret Techniques of the Hokkaido Magic Beast Farm.md",
+      "title": "Secret Techniques of the Hokkaido Magic Beast Farm"
+    },
+    {
+      "id": "chapter-9",
+      "md": "Chapter 9 - Together with the Fire Salamanders.md",
+      "title": "Together with the Fire Salamanders"
+    },
+    {
+      "id": "chapter-10",
+      "md": "Chapter 10 - The Magic Beasts.md",
+      "title": "The Magic Beasts"
+    },
+    {
+      "id": "chapter-11",
+      "md": "Chapter 11 - The Nameless Epic Hypothesis.md",
+      "title": "The Nameless Epic Hypothesis"
+    },
+    {
+      "id": "chapter-12",
+      "md": "Chapter 12 - New Currency for a New Era.md",
+      "title": "New Currency for a New Era"
+    },
+    {
+      "id": "chapter-13",
+      "md": "Chapter 13 - Gun-Wand Giant Slayer.md",
+      "title": "Gun-Wand Giant Slayer"
+    },
+    {
+      "id": "chapter-14",
+      "md": "Chapter 14 - No One Like That Could Exist.md",
+      "title": "No One Like That Could Exist"
+    },
+    {
+      "id": "chapter-15",
+      "md": "Chapter 15 - Proof of a Hero.md",
+      "title": "Proof of a Hero"
+    },
+    {
+      "id": "chapter-16",
+      "md": "Chapter 16 - The Seven Wind-Instrument Ritual Implements.md",
+      "title": "The Seven Wind-Instrument Ritual Implements"
+    },
+    {
+      "id": "chapter-17",
+      "md": "Chapter 17 - Let's Measure Magic Power!.md",
+      "title": "Let's Measure Magic Power!"
+    },
+    {
+      "id": "chapter-18",
+      "md": "Chapter 18 - Side Story - Three Red Ones, One Blue One.md",
+      "title": "Side Story - Three Red Ones, One Blue One"
+    },
+    {
+      "id": "chapter-19",
+      "md": "Chapter 19 - Wand Maker of the Ruined World 3 Booklet - Top Secret Files.md",
+      "title": "Wand Maker of the Ruined World 3 Booklet - Top Secret Files",
+      "images_after_primary": [
+        "s-p004.jpg",
+        "s-p005.jpg",
+        "s-p006.jpg",
+        "s-p007.jpg",
+        "s-p008.jpg",
+        "s-p009.jpg",
+        "s-p010.jpg",
+        "s-p011.jpg",
+        "s-p012.jpg",
+        "s-p013.jpg",
+        "s-p014.jpg",
+        "s-p015.jpg",
+        "s-p016.jpg",
+        "s-p017.jpg",
+        "s-p018.jpg",
+        "s-p019.jpg",
+        "s-p020.jpg",
+        "s-p021.jpg",
+        "s-p022.jpg",
+        "s-p023.jpg",
+        "s-p024.jpg",
+        "s-p025.jpg",
+        "s-p026.jpg",
+        "s-p027.jpg",
+        "s-p028.jpg",
+        "s-p029.jpg",
+        "s-p030.jpg",
+        "s-p031.jpg",
+        "s-p032.jpg",
+        "s-p033.jpg",
+        "s-p034.jpg"
+      ],
+      "append_md": [
+        "Booklet Short Story - I Liked Her First, Though.md"
+      ],
+      "append_images": [
+        "s-h3.jpg",
+        "s-h1-4.jpg"
+      ]
+    },
+    {
+      "id": "chapter-20",
+      "md": "Chapter 20 - Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide.md",
+      "title": "Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide"
+    }
+  ],
+  "opf_path": "item/standard.opf",
+  "src_xhtml_prefix": "item/xhtml/",
+  "src_image_prefix": "item/image/",
+  "src_style_prefix": "item/style/",
+  "front_matter": [
+    {
+      "id": "p-cover",
+      "source": "item/xhtml/p-cover.xhtml",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "id": "p-fmatter-001",
+      "source": "item/xhtml/p-fmatter-001.xhtml",
+      "href": "xhtml/p-fmatter-001.xhtml"
+    },
+    {
+      "id": "p-fmatter-002",
+      "source": "item/xhtml/p-fmatter-002.xhtml",
+      "href": "xhtml/p-fmatter-002.xhtml"
+    },
+    {
+      "id": "p-fmatter-003",
+      "source": "item/xhtml/p-fmatter-003.xhtml",
+      "href": "xhtml/p-fmatter-003.xhtml"
+    },
+    {
+      "id": "p-fmatter-004",
+      "source": "item/xhtml/p-fmatter-004.xhtml",
+      "href": "xhtml/p-fmatter-004.xhtml"
+    },
+    {
+      "id": "p-fmatter-005",
+      "source": "item/xhtml/p-fmatter-005.xhtml",
+      "href": "xhtml/p-fmatter-005.xhtml"
+    },
+    {
+      "id": "p-titlepage",
+      "source": "item/xhtml/p-titlepage.xhtml",
+      "href": "xhtml/p-titlepage.xhtml"
+    },
+    {
+      "id": "p-caution",
+      "source": "item/xhtml/p-caution.xhtml",
+      "href": "xhtml/p-caution.xhtml"
+    },
+    {
+      "id": "p-001",
+      "source": "item/xhtml/p-001.xhtml",
+      "href": "xhtml/p-001.xhtml"
+    },
+    {
+      "id": "p-002",
+      "source": "item/xhtml/p-002.xhtml",
+      "href": "xhtml/p-002.xhtml"
+    },
+    {
+      "id": "p-toc-001",
+      "source": "item/xhtml/p-toc-001.xhtml",
+      "href": "xhtml/p-toc-001.xhtml"
+    }
+  ],
+  "caution_page_id": "p-caution",
+  "back_matter": [
+    {
+      "id": "p-s-colophon",
+      "source": "item/xhtml/p-s-colophon.xhtml",
+      "href": "xhtml/p-s-colophon.xhtml"
+    },
+    {
+      "id": "p-allcover-001",
+      "source": "item/xhtml/p-allcover-001.xhtml",
+      "href": "xhtml/p-allcover-001.xhtml"
+    },
+    {
+      "id": "p-colophon",
+      "source": "item/xhtml/p-colophon.xhtml",
+      "href": "xhtml/p-colophon.xhtml"
+    },
+    {
+      "id": "p-colophon2",
+      "source": "item/xhtml/p-colophon2.xhtml",
+      "href": "xhtml/p-colophon2.xhtml"
+    },
+    {
+      "id": "p-bookwalker",
+      "source": "item/xhtml/p-bookwalker.xhtml",
+      "href": "xhtml/p-bookwalker.xhtml"
+    }
+  ],
+  "img_href_base": "../image/",
+  "css_links": [
+    "../style/fixed-layout-jp.css",
+    "../style/book-style.css",
+    "../style/style-reset.css",
+    "../style/style-standard.css",
+    "../style/style-advance.css",
+    "../style/style-check.css",
+    "../style/style-karc.css",
+    "../style/style-kadokawa.css",
+    "../style/english.css"
+  ],
+  "toc": [
+    {
+      "label": "Cover",
+      "href": "xhtml/p-cover.xhtml"
+    },
+    {
+      "label": "Contents",
+      "href": "xhtml/p-toc-001.xhtml"
+    },
+    {
+      "label": "Magic-School Customization",
+      "href": "xhtml/chapter-1.xhtml"
+    },
+    {
+      "label": "Secret Techniques of the Tohoku Hunting Association",
+      "href": "xhtml/chapter-2.xhtml"
+    },
+    {
+      "label": "The Flame Witch",
+      "href": "xhtml/chapter-3.xhtml"
+    },
+    {
+      "label": "Himori Wand",
+      "href": "xhtml/chapter-4.xhtml"
+    },
+    {
+      "label": "A Black Marketeer Talks About 0933",
+      "href": "xhtml/chapter-5.xhtml"
+    },
+    {
+      "label": "Let's Put Monster Materials to Use",
+      "href": "xhtml/chapter-6.xhtml"
+    },
+    {
+      "label": "Fire Salamander",
+      "href": "xhtml/chapter-7.xhtml"
+    },
+    {
+      "label": "Secret Techniques of the Hokkaido Magic Beast Farm",
+      "href": "xhtml/chapter-8.xhtml"
+    },
+    {
+      "label": "Together with the Fire Salamanders",
+      "href": "xhtml/chapter-9.xhtml"
+    },
+    {
+      "label": "The Magic Beasts",
+      "href": "xhtml/chapter-10.xhtml"
+    },
+    {
+      "label": "The Nameless Epic Hypothesis",
+      "href": "xhtml/chapter-11.xhtml"
+    },
+    {
+      "label": "New Currency for a New Era",
+      "href": "xhtml/chapter-12.xhtml"
+    },
+    {
+      "label": "Gun-Wand Giant Slayer",
+      "href": "xhtml/chapter-13.xhtml"
+    },
+    {
+      "label": "No One Like That Could Exist",
+      "href": "xhtml/chapter-14.xhtml"
+    },
+    {
+      "label": "Proof of a Hero",
+      "href": "xhtml/chapter-15.xhtml"
+    },
+    {
+      "label": "The Seven Wind-Instrument Ritual Implements",
+      "href": "xhtml/chapter-16.xhtml"
+    },
+    {
+      "label": "Let's Measure Magic Power!",
+      "href": "xhtml/chapter-17.xhtml"
+    },
+    {
+      "label": "Side Story - Three Red Ones, One Blue One",
+      "href": "xhtml/chapter-18.xhtml"
+    },
+    {
+      "label": "Wand Maker of the Ruined World 3 Booklet - Top Secret Files",
+      "href": "xhtml/chapter-19.xhtml"
+    },
+    {
+      "label": "Ebook Bonus Original Short Story - Pouch Sparrow Taming Guide",
+      "href": "xhtml/chapter-20.xhtml"
+    },
+    {
+      "label": "Colophon",
+      "href": "xhtml/p-s-colophon.xhtml"
+    }
+  ],
+  "localized_images_dir": "/home/yogesh/Translations/Wand Maker of the Ruined World/English/Volume 3/localized-images",
+  "image_swaps": {
+    "kuchie-001": [
+      1440,
+      2048
+    ],
+    "kuchie-002": [
+      2048,
+      1473
+    ],
+    "kuchie-003": [
+      2048,
+      1473
+    ],
+    "kuchie-004": [
+      2048,
+      1473
+    ],
+    "p010": [
+      1440,
+      2048
+    ],
+    "p011": [
+      1440,
+      2048
+    ],
+    "p057": [
+      1438,
+      2048
+    ],
+    "p266": [
+      1492,
+      2048
+    ],
+    "s-h1": [
+      1440,
+      2048
+    ],
+    "s-h1-4": [
+      2048,
+      1456
+    ],
+    "s-h2": [
+      1440,
+      2048
+    ],
+    "s-p003": [
+      1441,
+      2048
+    ],
+    "s-p004": [
+      1441,
+      2048
+    ],
+    "s-p005": [
+      1441,
+      2048
+    ],
+    "s-p006": [
+      1441,
+      2048
+    ],
+    "s-p007": [
+      1441,
+      2048
+    ],
+    "s-p008": [
+      1441,
+      2048
+    ],
+    "s-p009": [
+      1441,
+      2048
+    ],
+    "s-p010": [
+      1441,
+      2048
+    ],
+    "s-p011": [
+      1441,
+      2048
+    ],
+    "s-p012": [
+      1441,
+      2048
+    ],
+    "s-p013": [
+      1441,
+      2048
+    ],
+    "s-p014": [
+      1441,
+      2048
+    ],
+    "s-p015": [
+      1441,
+      2048
+    ],
+    "s-p016": [
+      1441,
+      2048
+    ],
+    "s-p017": [
+      1441,
+      2048
+    ],
+    "s-p018": [
+      1441,
+      2048
+    ],
+    "s-p019": [
+      1441,
+      2048
+    ],
+    "s-p020": [
+      1441,
+      2048
+    ],
+    "s-p021": [
+      1441,
+      2048
+    ],
+    "s-p022": [
+      1441,
+      2048
+    ],
+    "s-p023": [
+      1441,
+      2048
+    ],
+    "s-p024": [
+      1441,
+      2048
+    ],
+    "s-p025": [
+      1441,
+      2048
+    ],
+    "s-p026": [
+      1441,
+      2048
+    ],
+    "s-p027": [
+      1441,
+      2048
+    ],
+    "s-p028": [
+      1441,
+      2048
+    ],
+    "s-p029": [
+      1441,
+      2048
+    ],
+    "s-p030": [
+      1441,
+      2048
+    ],
+    "s-p031": [
+      1441,
+      2048
+    ],
+    "s-p032": [
+      1441,
+      2048
+    ],
+    "s-p033": [
+      1441,
+      2048
+    ],
+    "s-p034": [
+      1441,
+      2048
+    ],
+    "titlepage": [
+      1440,
+      2048
+    ],
+    "toc-001": [
+      1440,
+      2048
+    ]
+  }
+}
