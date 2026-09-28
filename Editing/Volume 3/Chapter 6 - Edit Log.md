@@ -99,3 +99,48 @@
 
 ### Formatting Confirmed
 - Both audit chunks completed in order for accuracy, then polish; exact `---`, all source numbers and version labels, glossary terms, honorifics, narrative/direct-thought tense, and the single terminal Reiwa note verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–388; agent `reedit_v3c6_s1`; model `gpt-5.6-sol` at high reasoning; ~75 paragraph edits). Flow: short-sentence share 27.0% → 27.7%; runs 3 → 2.
+
+### Accuracy Fixes
+- **通常、魔物は…**: rebuilt the deterioration sequence as deterioration followed by magic-power loss over time — accuracy
+- **魔法大学が編纂した**: “Tokyo Magic University” → “Magic University” — glossary
+- **そいつを絞って濾して**: corrected the singular carcass and its referent — referent
+- **グレムリンだけ剥いで焼くか埋めるか**: clarified that the remainder, not the removed Gremlin, was burned or buried — referent
+- [polish] **今まで使えなかった魔物素材**: “materials could be used now” → “materials I'd never been able to use before” — polish
+
+### Register and Flow
+Ori's casual, craft-obsessed voice stayed direct. Five clearly immediate complaints, opinions, and reader asides were restored to present tense; narration remained past.
+
+### Formatting Confirmed
+- Exact `---`, numerical/version data, the Reiwa marker and terminal note, and lack of title heading were preserved.
+- Glossary forms, honorifics, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 75 changes)
+- **煮ても焼いても食えない魔物の肉** (JP 7): restored the boiled-or-grilled idiom and dropped the added "safe" → "made monster meat edible—meat you couldn't eat whether you boiled it or grilled it" — accuracy
+- **モノにもよるが最大一カ月程度で** (JP 16): "in as little as a month" reversed the upper bound → "Depending on the material, … within a month at most" — accuracy
+- **そんなに身構えるような高難度作業ではなかった** (JP 73): "get worked up over" → "Nothing so difficult I'd needed to brace myself for it." — accuracy
+- **名のある大規模生存者コミュニティは五つ** (JP 100): restored 名のある and removed the added "only" → "Japan had five notable major survivor communities…" — accuracy
+- **可能性だって十分有り得る** (JP 124): restored "entirely possible" and 残存 → "It was entirely possible that… the only remaining civilization on Earth" — accuracy
+- **類似の追い打ち魔法災害** (JP 127): "Other" → "Similar" — accuracy
+- **うむ、いい感じだ…見分けがつかんが** (JP 136): direct monologue to present → "Yep, they look good. Not that I have enough experience to tell whether I've processed them properly." — tense
+- **魔力的感覚でなんとなく** (JP 139): "by feel" → "could somehow tell … with their magic-power sense" — accuracy
+- **やっぱり肉を喰らうとパワーを感じるぜ** (JP 157): direct exclamation to present → "Eating meat really makes me feel powerful." — tense
+- **実用性も見た目も両方高めていきたい** (JP 169): → "I wanted to keep improving both how it worked and how it looked." — accuracy
+- **オクタメテオライトを拝んだり** (JP 172): "paid my respects to" → "prayed to", matching V4 Ch8 — accuracy
+- **牽引ロープを片手で掴み、無造作に牽いていた** (JP 178): moved the pronoun after its noun → "She was casually pulling a large dump truck…, its tow rope gripped in one hand." — worse
+- **庭に寄せてもらって** (JP 193): "pull it up alongside" → "pull it up next to the yard" — worse
+- **大利の頼みだからな** (JP 208): "Besides, you're the one asking" → "I'm doing it because I want to—because it's you asking, Ori." — accuracy
+- **苦難の時代とはいえ** (JP 235): "Even now" → "Even in these hard times" — accuracy
+- **現状、その隙間に** (JP 286): "At the time" → "For now" — worse
+- **継続的な入手と取り換えが可能な素材** (JP 307): fixed the "unlike acrylic resin … I" comparison → "it was something I could keep obtaining…" — worse
+- **物作りしてるとたまに…使われたりするからな** (JP 343): one direct monologue kept in present and restored 物作りしてると → "When you make things, people sometimes use them for unintended purposes..." — tense
+- **使い手の勝手ではある。が、やはり…気分が良い** (JP 346): present, matching the monologue → "Once a product leaves my hands… But it still feels good…" — tense
+- **良かったよ…噂だし** (JP 349): unified in present → "I'm glad my friend is… I hear the Setagaya Witch is forever…" — tense
+- **考え深げに顎に手を当てた** (JP 364): restored "thoughtfully" — accuracy
+- **細く研いだ鉤針** (JP 370): "hooks and needles" → "hook needles" (a single tool) — accuracy
+- **お前だって…気に入ってるの** (JP 382): restored お前だって → "…Blue Wand Cyanos” yourself." — accuracy
+- Rechecked: `check_reedit.py` PASS; `run_chapter_gates.py --unit 3 --chapter 6` ALL PASS.

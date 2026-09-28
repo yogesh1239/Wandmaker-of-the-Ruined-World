@@ -113,3 +113,24 @@
 - Narrative/direct-thought tense distinction, honorifics/name order, and absence of stray furigana verified; no footnotes required.
 - Literal Amazon travel joke retained; `令和七年九月某日` rendered as `One day in September 2025`.
 - `![p295.jpg](images/p295.jpg)` preserved exactly.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–207 / JP lines 1–311; agent `reedit_v2c17_s1`, Codex subagent on gpt-6-astra/xhigh, coordinator gpt-5.6-sol/high; ~63 paragraph-level edits). Flow: short-sentence share 19.4% → 18.6%; runs 2 → 1; mean sentence length 16.2 → 14.5 words.
+
+### Accuracy Fixes
+- **魔法大学 (source lines 112, 214)**: "magic university" → "Magic University" — glossary
+- **魔女集会**: "Tokyo Witches' Council" → "Witches' Council" — glossary
+- **もう一度ＯＫ工房の名作を拝みたい**: "seeing another OK Workshop masterpiece" → "seeing an OK Workshop masterpiece again" — accuracy
+- **五十の手習いを地で行く**: "taking ‘learning at fifty’ literally" → "living proof that it was never too late to learn" — accuracy
+- **映画もパンフレットを売っていたりする**: "movies sell pamphlets" → "movies sell programs" — accuracy
+- [polish] **最古参ファンとして**: dangling "As one of their oldest fans" clause → "he couldn't have been happier" — polish
+- [polish] **全てを作品で語る**: "spoke entirely through their works" → "let their work do all the talking" — polish
+
+### Register and Flow
+**Hinonoya Takuo / close-third narrator:** kept the fandom-heavy bluntness, profanity, breathless reunion, and smug final boast. No narration-tense reversal was needed; the story remained past, while the first-person author afterword retained natural commentary tense. The remaining three-short-sentence run at the afterword opening was deliberate. The 8.5% word-count warning was reviewed against the full JP and reflected compression of repetitive translationese, not omitted content.
+
+### Formatting Confirmed
+- Whole-file `check_reedit.py` PASS with reviewed word-count WARN; `![p295.jpg](images/p295.jpg)` and the heading inventory remained unchanged.
+- `run_chapter_gates.py --unit 2 --chapter 17` ALL PASS; all-volume consistency checks for Volumes 1–4 passed.
+- No reference-file change was required.

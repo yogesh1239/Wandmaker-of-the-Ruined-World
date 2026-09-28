@@ -36,3 +36,22 @@
 
 ### Post-Migration Corrections
 - **source line 18 (晶雨[しょうう])**: “crystal rain—晶雨[しょうう]—” → “crystal rain” — accuracy (semantically identical reading)
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–62; agent `reedit-v1c14-s1`; ~17 paragraph edits). Flow: short-sentence share 11.1% → 10.5%; runs 0 → 0. Narration already past; no audit reversals needed.
+
+### Accuracy Fixes
+- **綺麗な薔薇には棘があり、綺麗な天気には害がある**: "Pretty roses had thorns…" → "Pretty roses have thorns, and pretty weather has its downsides." — tense (proverb)
+- **物的被害は地味に大きい**: → "The property damage added up more than you'd think." — accuracy (地味に)
+- **晶雨の被害は都市部ほど深刻**: → "The bigger the city, the worse the damage" — accuracy (ほど scaling)
+- **逆に言えば、田舎の奥多摩では…**: restores 逆に言えば — accuracy
+- [polish] **雷雨が置き換わる形で登場したグレムリン結晶の雨**: modifier stack rebuilt — polish
+- [polish] **農業被害も大きい** → "Farms took a beating too."; **生態系への影響は強そうだ** → "That had to be doing a number on the ecosystem." — polish
+- [polish] **鱗リス / 放っておけば勝手に下流へ / 掃除屋がいない街中では**: subject/verb forward, participle opener removed, doubled "I heard" removed — polish
+
+### Register and Flow
+**Ori:** casual; present kept for the direct thought でもとりあえず今は…カス天気に過ぎない.
+
+### Formatting Confirmed
+- Closing image marker unchanged; no notes; `check_reedit.py` PASS; `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.

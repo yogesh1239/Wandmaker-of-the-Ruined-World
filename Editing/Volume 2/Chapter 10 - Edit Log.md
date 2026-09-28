@@ -98,3 +98,25 @@
 - Accuracy pass completed line by line over source lines 323–526; one English-first polish pass then covered the same full source scope, with every changed span checked back against its JP line.
 - `![p178.jpg](images/p178.jpg)` was retained exactly in its source position; paragraph order and the abrupt final laugh were preserved.
 - Narrative/direct-thought tense, `chorus`, `ritual magic`, `Thirteen Ritual Implements`, `Moebius ring`, `twin Gremlins`, `Freeze[ヴアアラー]`, Blue Witch, Ori, giant Gremlin, magic power, and eyeball familiar locks were verified; no footnotes were present or required.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–526; agent `reedit-v2c10-s1`; ~110 edits). Flow: short-sentence share 25.4% → 25.8%; runs 5 → 4 (kept: the "chorus"/twins beat, "I was stunned. / That one!?", "Alive… / Tomorrow.", "But about what?", the gloating ending); mean words/sentence 13.9 → 15.1. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **一般量産杖 / 一般量産魔法杖 (JA 4, 82)**: "general-purpose, mass-produced magic wands" (Ori's own 汎用量産型魔法杖 term) → "standard mass-produced (magic) wands" — glossary (new row added)
+- **凍結魔法基幹呪文 (JA 238)**: "freezing-magic core incantation" → "freezing-magic core spell" — glossary (new row added, parallel to 焔魔法基幹呪文)
+- **…どうなってんだよ。世界のバグかお前は (JA 88)**: direct thought addressing お前 → present ("Are you some kind of bug in the world or what?") — tense
+- **魔女集会を中心に**: "the Tokyo Witches' Council" → "the Witches' Council" — glossary (bare form)
+- **怪獣が死んだ羽村市の住民**: omitted "where the kaiju had died" restored — accuracy
+- **咄嗟に…庇った**: "on reflex" restored (later exchange depends on it) — accuracy
+- **13つ子の長男**: → "the eldest of a set of thirteen-tuplets" — accuracy
+- **唱える**: "Then we chanted." → "Then we cast the spell." — glossary (banned alias "chant")
+- **精度は俺が出せる理論値になったと思う**: tense mixing removed — tense
+- [polish] **半田式製造法で作られる一般量産杖は…** / **賞賛に値する** / **数万人規模で死者が増えていた事も重く見られ**: front-loaded modifier stacks and nominalizations rebuilt — polish
+
+### Register and Flow
+Stranded speech tag at JA 346/349 (Blue Witch, 心配そうに) joined to her own line; dialogue-paragraph count 28 → 27, no speakers merged. Two baseline paragraphs run together at JA 322/325 split.
+
+### Formatting Confirmed
+- Ruby spans, notes, and image markers unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 10` ALL PASS; `check_consistency.py --all` PASS for Volumes 1–4 after the glossary additions.

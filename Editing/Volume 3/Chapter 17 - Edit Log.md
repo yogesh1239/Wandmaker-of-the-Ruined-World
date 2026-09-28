@@ -173,3 +173,45 @@
 - `Kenshi` is the locked unit name and source-required `K` abbreviation; all values and ranges were verified.
 - Structural-color Gremlin, magic-power meter, magic-power capacity, maximum magic power, magic-power-depletion fainting, organizations, titles, Cyanos, and other technical locks were verified.
 - `![p266.jpg](images/p266.jpg)`, roman unmarked direct thoughts, footnote marker `[^2]`, and the terminal `## Translator Notes` section were preserved.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–600 / JP lines 1–757; agent `reedit_v3c17_s1`; model `gpt-5.6-sol` at high reasoning; ~150 edits). Flow: mean sentence length 13.8 → 12.3 words; short-sentence share 27.5% → 28.4%; runs 4 → 3; words 5260 → 4860. No past-tense reversals.
+
+### Accuracy Fixes
+- **構造色**: kept the explanatory sentence in present tense as a general truth and naturalized its syntax — tense
+- **朝っぱらから...日和は本当に親友だ**: preserved “Hiyori really is my best friend!” as Ori's immediate direct thought — tense
+- **魔法大学の歓喜と興奮**: “the magic university's joy and excitement” → “Magic University's joy and excitement” — glossary
+- **五万...**: clarified the value and its relationship to the measurement rather than compressing the number — accuracy
+- **最大保有量**: rebuilt the maximum-capacity explanation so capacity, current amount, and meter reading remain distinct — accuracy
+- [polish] Tightened the jackpot idiom and Hiyori's bitter-memory clause without changing their referents — polish
+
+### Register and Flow
+Kept Ori's immediate thoughts in natural speech tense and retained the clipped comic reactions. Dialogue paragraphs 55 → 54 because an Ori action tag was attached to Ori's own line; no dialogue was lost.
+
+### Formatting Confirmed
+- `![p266.jpg](images/p266.jpg)`, note marker `[^2]`, its definition, ruby, and final `## Translator Notes` remained intact; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 3 --chapter 17` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 152 changes)
+- **魔法大学魔物学科** (JP 10): "Tokyo Magic University's Department" → "Magic University's Department" — glossary
+- **一般市民は東北との交易開始に注目している** (JP 7): "People were watching" → "The general public was watching" — accuracy
+- **かくいう俺も…自分なりに考えていた** (JP 16): "I had my own ideas about" → "I'd been mulling over … in my own way too" — accuracy
+- **なんだこのオモシロ現象** (JP 100): "weird little effect" → "fun little phenomenon" — accuracy
+- **俺は勢い込んで聞いた** (JP 142): "I leaned in eagerly." → "I asked eagerly." — accuracy
+- **お悩み相談に付き合わされたりするからお相子だ** (JP 160): habitual present restored ("she sometimes hits me … makes me talk through … So we're even"), dropped added "woken me", "Tokyo Magic University" → "Magic University" — tense
+- **こうやっていくらでも目盛りを騙せるが…間違いない** (JP 226): restored "like this" and "definitely"; "control it" → "control theirs" — accuracy
+- **任せろ任せろ…すぐ、すぐ改良できる** (JP 271): restored Ori's excited doubling — voice
+- **工作難易度が高いのはもちろん** (JP 310): "The craftsmanship was hard enough" → "The work was technically demanding enough" — worse
+- **ヒヨリは天を仰いだ** (JP 391): "tipped her head back" → "looked to the heavens" — accuracy
+- **大利が喜ぶだろうと思って…喜べ** (JP 490): "you'd like it" → "it'd make you happy" to keep the 喜ぶ/喜べ echo — accuracy
+- **まんまと喜ばされた** (JP 493): restored "and I was duly made happy" — accuracy
+- **魔力を「賢く視て定める」から「賢視」** (JP 535): ambiguous "It" → "The unit"; [^2] kept — worse
+- **無知だったかよく分かる。知は力なり** (JP 607): past → present to match the surrounding direct monologue — tense
+- **ゴロゴロありそうだよな** (JP 610): past "made me wonder how many" → present "makes me think there must still be tons" — tense
+- **旨の事が書かれている** (JP 622): restored "According to the forms", "practically fighting", dropped added "from team to team" — accuracy
+- **あんま請けたくないな** (JP 625): "really don't want" → "don't really want" — accuracy
+- **コレなんだよな…複雑だ** (JP 628): past → present direct monologue — tense
+- **一応全部の生存者コミュニティと繋がりができているはず** (JP 643): counterfactual "should've had contact" → "were supposed to have at least some contact" — worse
+- **暴れたという** (JP 676): restored hearsay "Apparently," — accuracy
+- **大真面目に言われると有り得る気がしてくる** (JP 715): "with a straight face, it almost sounded" → "in such dead earnest, it started to sound" — accuracy
+- **一人では挫ける壁も二人揃えば乗り越えられる** (JP 754): "Even if a wall would break me alone" → "A wall that would break me on my own is one the two of us can overcome together" — worse

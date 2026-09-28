@@ -2,247 +2,247 @@ I'm the world's greatest Wand Maker.
 
 But until now, I was also the world's only Wand Maker.
 
-Gremlins were hard to process. Even skilled craftspeople couldn't carve them into spheres. So people using the now-widespread fertility magic picked up naturally roundish Gremlins and cast with them clenched in their hands.
+Gremlins were hard to work, and not even skilled artisans could carve one into a sphere. So the many people now using fertility magic picked up Gremlins that were already close to round and cast with them clutched in their fists.
 
-I made one or two general-purpose magic wands every day, but that wasn't nearly enough to meet demand. Adding a backlash-prevention mechanism to the process had made each one take a little longer, too.
+I made one or two general-purpose magic wands a day, nowhere near enough to meet demand. And since I'd started building a backlash-prevention mechanism into each one, they took a little longer to make, too.
 
-The new technology devised by Professor Handa, who had joined Tokyo Magic University's Department of Gremlin Engineering at the start of the new school year, smashed my monopoly on the magic-wand industry to pieces.
+Then Professor Handa joined Tokyo Magic University's Department of Gremlin Engineering at the start of the new school year, and the new technology he devised brought my monopoly on the magic-wand industry crashing down.
 
-Within six months of arriving, Professor Handa had developed three Gremlin-processing technologies with the students in his laboratory—"polishing, casting, and machining"—and made it possible for ordinary craftspeople to produce magic wands.
+In under six months, he and the students in his laboratory developed three Gremlin-processing technologies—"polishing, casting, and machining"—that let ordinary craftspeople make magic wands.
 
-The "polishing" method specifically consisted of two research results.
+"Polishing" actually came down to two research results.
 
-This let craftspeople process Gremlins into spheres.
+Together, they let craftspeople shape Gremlins into spheres.
 
-First came the efficient, precise production of abrasive.
+The first was efficient, precise production of abrasive.
 
-Gremlins had a Mohs hardness of 11, and even diamonds couldn't scratch them. So polishing a Gremlin required another Gremlin. I had crushed and ground up Gremlins to make powder, then used that as abrasive.
+Gremlins had a Mohs hardness of 11, so not even diamond could scratch them. Polishing a Gremlin took another Gremlin, which was why I'd been crushing Gremlins and pounding them into powder to use as abrasive.
 
-Professor Handa's laboratory improved on that.
+The Handa Laboratory improved on that.
 
-This new method used water flow and how particles settled in fluids, making it possible to mass-produce uniform, high-quality abrasive.
+Their new method used flowing water and the way particles settle out of a fluid, and it let them mass-produce uniform, high-quality abrasive.
 
-The Handa Laboratory's abrasive was better than the stuff I made, and I used it all the time.
+The Handa Laboratory's brand of abrasive beat anything I'd made, and I was putting it to good use.
 
-I no longer had to crush and grind up Gremlins every time I wanted abrasive, and that made things crazy easy. Consumables like this were definitely best bought ready-made.
+No more crushing and pounding Gremlins every time I needed abrasive, and that alone made things crazy easy. Consumables like this really were best bought off the shelf.
 
-Their second abrasive breakthrough was a pretty brute-force solution, but it was one I'd never have thought of.
+The second result, the one built on the abrasive, was pretty brute-force, but I'd never have thought of it.
 
-Gremlins were hard to cut, and half-baked processing skills would crack them right away.
+Gremlins were hard to cut, and with half-baked technique they cracked right away.
 
-So the Handa Laboratory came up with a way that didn't involve cutting at all.
+So the Handa Laboratory came up with a way that involved no cutting at all.
 
 The idea was simple.
 
-Use massive amounts of abrasive like it was water. Do absolutely no cutting. Shape it through polishing alone...!
+Use abrasive by the bucketload, never cut a thing, and shape the whole piece by polishing alone...!
 
-When I first heard it, I laughed my ass off because it was such a brute-force solution. But when I really thought about it, it actually made sense, so I stopped laughing and came away impressed.
+When I first heard it, I cracked up at how brute-force it was. But the more I thought about it, the more sense it made, until I stopped laughing and was genuinely impressed.
 
-To me, processing a Gremlin through polishing alone was inefficient. It was like starting to sand a jagged piece of wood without using a saw or chisel first. It was so wildly inefficient I'd never even considered it.
+If you asked me, shaping a Gremlin by polishing alone was inefficient. It was like taking a jagged chunk of wood and going straight to the sandpaper without touching a saw or chisel. It was so far past inefficient that I'd never even considered it.
 
-But polishing at least didn't make it break, chip, or crack while you worked it. It was inefficient, but reliable.
+But at least polishing didn't break, chip, or crack the piece while you worked it. It was inefficient but reliable.
 
-My natural dexterity had let me work Gremlins right from the start, without devising any special tricks. So I never considered a method that was inefficient and took both labor and time.
+Thanks to my natural dexterity, I'd been able to work Gremlins from day one without any clever tricks, so I'd never bothered with a method that ate up that much labor and time.
 
-The polishing method Professor Handa's team developed was something someone as overly dexterous as me could never have come up with.
+Someone as overly dexterous as me could never have come up with Professor Handa's team's polishing method.
 
-Apparently, I just hadn't known it, but polishing methods like this were standard in the gem-working world.
+Apparently this kind of polishing was standard practice in the gem-cutting world; I just hadn't known.
 
-Using industrial diamond-paper polishing machines to rapidly polish gems into shape was normal. What made Professor Handa amazing was that he improved the tools and process so they could handle Gremlins, which were harder than diamonds. Awesome.
+Shaping gems by polishing them at high speed on industrial diamond-paper polishers was nothing unusual. What made Professor Handa amazing was how he'd adapted the tools and process to work on Gremlins, which were harder than diamond. Awesome.
 
-The "casting" breakthrough was the next step in melt-recast Gremlin.
+The "casting" breakthrough took melt-recast Gremlin a step further.
 
-Professor Handa, who knew fluid mechanics, developed my backlash-prevention mechanism and improved it through several stages. Using a Tesla valve as his model, he developed a shape that efficiently diffused and weakened backflowing magic power.
+Professor Handa knew his fluid mechanics, and he took the backlash-prevention mechanism I'd come up with and improved it over several stages. Using a Tesla valve as his model, he worked out a shape that efficiently diffused and damped backflowing magic power.
 
-It was geometric but pretty complicated, and it looked like a pain to carve out. But Professor Handa solved the problem through casting.
+The shape was geometric but fairly complicated, and it looked like a pain to carve, but Professor Handa solved that with casting.
 
-If it was hard to carve out, you just had to make it the finished shape from the start.
+If it's hard to carve, just make it in its finished shape from the start.
 
-He poured goopy melted Gremlin into a mold, let it cool and harden, and cast it in a shape suited to magic-backlash dynamics from the start, without even needing to cut it. Smart...!
+He poured gooey molten Gremlin into a mold, let it cool and harden, and cast it straight into a shape that suited magic-backlash dynamics, no cutting required. Smart...!
 
-I could carve Gremlins into shape with my natural dexterity without even needing a mold, so I probably never would have thought of this method either.
+I could carve Gremlins into shape with my natural dexterity, no mold needed, so I'd never have thought of this method either.
 
-Once you heard it, it was a simple idea anybody might have thought of, though. A real Columbus's egg.[^1]
+Once you heard it, though, it was the kind of simple idea anybody might have had. A real Columbus's egg.[^1]
 
-Gremlin melt processing required temperatures close to 1,200°C, but apparently they solved that by sending the production method and blueprints to the Flame Witch's people and commissioning them to make it in their reverberatory furnace.
+Melting Gremlins took temperatures close to 1,200°C, but apparently they'd solved that by sending the production method and blueprints to the reverberatory furnace at the Flame Witch's place and commissioning the work there.
 
-The Flame Witch was good with fire. Her territory had heating even in winter and a permanent public bathhouse, so rebuilding industries that used fire was moving ahead quickly, both publicly and privately.
+The Flame Witch was good with fire: her territory had heating even in winter and a permanent public bathhouse, and fire-based industries there, public and private alike, were recovering fast.
 
-From what I hear, several reverberatory furnaces as solid as my personal one are running at full capacity. Cities really do have manpower. No matter what the job is, it goes at a totally different speed from doing it alone.
+From what I heard, several reverberatory furnaces there, every bit as solid as mine, were running at full capacity. Urban areas really did have the manpower. Whatever the job was, it went at a totally different speed than doing it alone.
 
-The final research result, "machining," supported the insanely inefficient polishing process.
+The final research result, "machining," backed up the insanely inefficient polishing process.
 
-That said, machining didn't mean they had brought electric processing machines back. It was closer to a contraption than a machine.
+Not that "machining" meant they'd brought electric machine tools back. It was closer to a contraption than a machine.
 
-Waterwheels had been installed, and were still being added, on the major rivers that ran through Tokyo: the Arakawa River, Sumida River, and Tama River. They were mainly used for pumping water, supplying a rain-gutter-style surface water network that had been installed in place of the dead underground waterworks network.
+Waterwheels had been installed on the major rivers that ran through Tokyo—the Arakawa River, Sumida River, and Tama River—and more were still going in. They were mainly used to pump water into the rain-gutter-style surface water network that had replaced the dead underground waterworks.
 
 The Handa Laboratory borrowed some of those waterwheels and modified them.
 
-Using gears, pulleys, and weights, they stored the energy from the waterwheels as potential energy. That let them draw stable output from the power source and run a basic grinder that could stand up to practical use.
+Using gears, pulleys, and weights, they stored the waterwheels' energy as potential energy, which gave them stable output from the power source and let them run a basic grinder that could stand up to practical use.
 
-Using a grinder was way more efficient than doing mind-numbing polishing by hand. A super-duper inefficient job became merely inefficient.
+A grinder was way more efficient than mind-numbing hand polishing. It turned a super-duper inefficient job into a merely inefficient one.
 
-Thanks to the Handa Laboratory's results, which established the three pillars of "polishing, casting, and machining," magic-wand processing and production began.
+And so, with the Handa Laboratory's three pillars of "polishing, casting, and machining" in place, magic-wand processing and production got underway.
 
-I've had magic-wand production all to myself for so long—then suddenly a rival group has sprung up and started mass-producing them. That scares the hell out of me.
+I've had magic-wand production all to myself this whole time, and now a rival faction suddenly sprouts up and starts mass-producing? Okay, even I'm spooked.
 
-Their production method is inefficient, sure, but they have manpower. I can't beat them on output.
+Their method may be inefficient, but they've got manpower. They'll beat me on output.
 
-At this rate, they'll steal my magic-wand market share, knock me from my place as the legendary Wand Maker, and turn me into some dusty relic of the past before long!?
+At this rate, they'll eat my market share, I'll fall from my throne as the legendary Wand Maker, and before long I'll be some dusty relic of the past!?
 
-I was shaking in my boots, but nothing like that happened.
+That had me shaking in my boots, but nothing of the sort happened.
 
-Big shots in the Tokyo Witches' Council—the Eyeball Witch, Flame Witch, Hachioji Witch, and Foresight Mage—ordered magic wands from me through the Blue Witch. The Eyeball Witch even ordered two.
+Heavyweights of the Tokyo Witches' Council—the Eyeball Witch, the Flame Witch, the Hachioji Witch, the Foresight Mage—sent me wand orders through the Blue Witch. The Eyeball Witch even ordered two.
 
-Professor Ohinata also kept ordering student wands from me.
+Professor Ohinata kept ordering student wands from me too, same as ever.
 
-Even though they could make as many as they wanted at workshops under the Witches' Council now, without asking me.
+Even though the Witches' Council's own workshops could now make as many as they wanted without me.
 
-The reason for the orders is simple: they want high-quality, high-end wands.
+The reason was simple: they wanted high-quality, high-end wands.
 
-The wands made with the method established by the Handa Laboratory are worlds apart from my work in quality.
+In quality, the wands made with the Handa Laboratory's method were worlds apart from mine.
 
-First, their material selection is sloppy.
+First, their material selection was sloppy.
 
-Their eye for materials is poor, and they use second- and third-rate Gremlins. Of course the finished product's quality drops too.
+They had a poor eye for materials and used second- and third-rate Gremlins, so of course the finished products came out worse.
 
-Their sphere work is so sloppy that, if you ask me, you'd think they're dead drunk when they do it.
+And if you asked me, their spheres were so rough you'd think they'd shaped them dead drunk.
 
-They only make them spherical in the first place. They can't carve out the inside to make a two-layer structure. Their amplification ratio is way lower than that of the wands made by yours truly.
+Besides, they only got as far as the sphere. They couldn't hollow out the inside for a two-layer structure, so their amplification ratio fell way short of wands made by yours truly.
 
-Their backlash-prevention mechanism is sloppy too. I can tell what they want to do by looking at the structure, but the precision is just bad. Their processing precision hasn't caught up with the theory. I, on the other hand, can reproduce the theoretical design with 100% precision.
+Their backlash-prevention mechanism was half-baked too. One look at the structure told me what they were going for, but the precision was just bad; their machining hadn't caught up with the theory. Me, I could hit the theoretical values with 100% precision.
 
-And on top of that, they have no design sense.
+And on top of all that, they had no design sense.
 
-They're mass-market products, so that can't be helped. But every wand they make has the same simple design without even a shred of fun in it. No individuality at all.
+They were mass-market products, so that couldn't be helped, but every wand came out in the same plain, uniform design without a shred of fun in it. No individuality at all.
 
-Complex designs and decorations lower productivity. I can see how hard they've worked to make the design as simple as possible.
+Complex designs and decorations would slow production, and you could tell how hard they'd worked to strip the design down as far as it would go.
 
-The witches of the Tokyo Witches' Council don't want to carry those mass-market wands.
+The witches of the Tokyo Witches' Council didn't want to carry mass-market wands like that.
 
-After all, they're Transcendents who sit at the top through military force and rule absolutely.
+After all, they were Transcendents who reigned at the top through sheer force and ruled absolutely.
 
-It won't look good if the very top of the top use mass-produced wands.
+It wouldn't look good for the very top of the top to be using mass-produced wands.
 
-It's like a yakuza boss driving around in a cheap mini-truck. No matter how amazing the guy himself is, people will look down on him. If people look down on the top, discipline falls apart, public safety gets worse, and you're at a disadvantage in negotiations. Nothing good comes of it.
+It'd be like a yakuza boss cruising around in a cheap mini-truck. No matter how amazing the guy himself was, people would look down on him. And when people look down on the top, discipline falls apart, public order gets worse, and you're at a disadvantage in negotiations. Nothing good comes of it.
 
-That's why the witches want my high-quality, high-end wands.
+That was why the witches wanted my high-quality, high-end wands.
 
-Cyanos, which the Blue Witch carries, is great advertising too.
+The Blue Witch's Cyanos was great advertising too.
 
-The strongest wand, carried by the strongest witch. Beautiful. A first-rate work of art. And a super-class weapon famous for instantly killing the giant kaiju that had slaughtered the Bloodsucking Mage and nearly wiped out Tokyo.
+The strongest wand, carried by the strongest witch. Beautiful, and a first-rate work of art besides. And a super-class weapon with a legend attached: it had instantly killed the giant kaiju that slaughtered the Bloodsucking Mage and nearly wiped out Tokyo.
 
-Of course you want a wand from the same brand.
+Naturally they'd want a wand from the same brand.
 
-The Magic University is the same.
+Same went for the Magic University.
 
-Graduates of the Magic University receive one of my magic wands along with the title of wizard.
+Magic University graduates received one of my magic wands along with the title of wizard.
 
-In pre-Gremlin Disaster terms, that's like saying, "A degree from a top university comes with a luxury car."
+In pre-Gremlin Disaster terms, it was like "a degree from a top university that comes with a luxury car."
 
-Apparently, some students had enrolled this year just for the magic wand.
+Apparently some students had even enrolled this year just for the wand.
 
-If the wands drew talented people who then threw themselves into research and their studies, of course the university would keep ordering from me.
+Even if the wand was what drew them, as long as talented people came and threw themselves into their research and studies, the university would naturally keep ordering from me.
 
-I'm really glad I've made connections with the Blue Witch and Professor Ohinata.
+I was really glad I'd built connections with the Blue Witch and Professor Ohinata.
 
-Otherwise, I'd have been left behind as the times changed around me, and by now I might have been some nobody craftsman quietly making wands in the countryside. That was close.
+Otherwise, the changing times might have left me behind, and by now I'd be some nobody craftsman quietly making wands out in the sticks. Yikes, that was close.
 
-With this magic-wand production revolution, I got clear on where I stood again.
+This magic-wand production revolution made me pin down where I stood all over again.
 
-Professor Handa is going mass-market and mass-produced. I'll go custom-made, high-quality, and high-end.
+Professor Handa had taken the mass-market, mass-production route. I'd take the custom-made, high-quality, high-end one.
 
 High-end goods shine because mass-produced goods exist.
 
-Looked at that way, the mass production of magic wands is actually a plus for me.
+Looked at that way, the mass production of magic wands was actually a plus for me.
 
-I'll keep sharing magic-wand processing technology itself with the Magic University through Professor Ohinata.
+I'd keep sharing the wand-processing technology itself with the Magic University through Professor Ohinata.
 
-The abrasive the university makes helps me out a ton, and they even upgraded the backlash-prevention mechanism I invented without asking. We keep each other sharp, so I want to exchange more and more technology.
+The university's abrasive helped me out a ton, and they'd even gone ahead and upgraded my backlash-prevention mechanism on their own. We kept each other sharp, so I wanted to keep the technical exchange going full steam.
 
-The processing technology I share will improve the performance of everyday magic wands.
+The processing techniques I passed along would raise the performance of the wands out in the world.
 
-But in the meantime, my wands will keep improving too. I have no intention of skimping on that effort.
+But meanwhile, my own wands would keep getting better too. I had no intention of slacking on that.
 
-Lots of my processing techniques can't be copied by ordinary people. What I gain by teaching technology outweighs what I lose by a ridiculous amount.
+Plenty of my techniques were beyond what ordinary people could copy anyway. I stood to gain way more by teaching than I'd ever lose.
 
-As long as I can exchange technology in writing without meeting face-to-face, I won't hold back on sharing it.
+As long as we could trade technology on paper without meeting face-to-face, I wasn't going to hold anything back.
 
 I'm the world's greatest Wand Maker anyway!
 
 ---
 
-As time passed and mass-market wand production took off, something like a ranking system arose among Wand Makers too.
+As time went on and mass-market wand production took off, something like a pecking order started to form among Wand Makers too.
 
-I realized that when the Blue Witch, who had brought me seeds for the pumpkins I was going to grow next, grabbed my hand and stared at my fingertips. The moment I took the drawstring pouch full of seeds at my front door, she caught my hand in one smooth motion, and I froze.
+It hit home when the Blue Witch brought me pumpkin seeds for my next crop, grabbed my hand, and scrutinized my fingertips. The moment I took the drawstring pouch of seeds from her at my front door, she caught my hand in one smooth motion, and I went stiff.
 
-She wore a mask, so I couldn't tell how intense her stare was. But having her show this much obvious interest out of nowhere made me kind of uneasy.
+She had her mask on, so I couldn't tell how intently she was staring, but this much blatant interest out of nowhere made me kind of antsy.
 
 "W-What..."
 
-"No. You're white too."
+"Nothing. You're white too, huh."
 
-"Oh, my fingers? This happens when you use abrasive."
+"Oh, my fingers? That's what happens when you use abrasive."
 
 Once I figured out what she was staring at, it made sense.
 
-Since I started using the high-quality abrasive from the Handa Laboratory, my fingertips have gradually turned white. Now only my fingertips are pure white.
+Ever since I'd started using the Handa Laboratory's high-quality abrasive, my fingertips had been turning white bit by bit. By now, just the tips were pure white.
 
-If you keep using high-quality abrasive refined as fine as baby powder, it works its way into the gaps around your nails and into your skin.
+Keep using high-quality abrasive refined as fine as baby powder, and it works its way under your nails and into your skin.
 
-The material for abrasive is small, milky-white Gremlins you get from crystal rain, so the abrasive refined from them is white.
+The abrasive was made from the small, milky-white Gremlins that fell in crystal rain, so the refined powder was white.
 
-Of course, all that abrasive stains the fingers using it white too. At first, the color came off if I washed it, but lately it won't. These white fingertips have become totally normal for me.
+Naturally, fingers that worked with it all day got stained white too. At first the color washed off, but lately it wouldn't, and I'd gotten totally used to having white fingertips.
 
-"Did you know? In town, people say, 'White Fingers are the mark of a first-rate Wand Maker.'"
+"Did you know? In town, they're saying 'White Fingers are the mark of a first-rate Wand Maker.'"
 
-"What's that supposed to mean? Well, it's not exactly wrong."
+"What's that supposed to mean? ...Actually, it's not exactly wrong."
 
-Second- and third-rate craftspeople who use low-grade abrasive and take their sweet time making wands won't get white fingers.
+Second- and third-rate craftspeople who dawdle over their wands with cheap abrasive don't get white fingers, after all.
 
-White fingers don't necessarily mean you're first-rate, but all first-rate Wand Makers probably have white fingers.
+White fingers don't necessarily make you first-rate, but every first-rate Wand Maker probably has them.
 
-The Blue Witch had only heard the term White Fingers and didn't seem to understand why they happened, so I brought her into the workshop and showed her the actual grinder and abrasive as I explained.
+The Blue Witch had only overheard the term White Fingers and didn't seem to get why it happened, so I took her into the workshop and showed her the actual grinder and abrasive while I explained.
 
-"This is the pedal-powered grinder I built. You sit here and step on the crank pedal at your feet, see? Then the gear chain transfers the power from here to here and spins the abrasive wheel. Twist this, and water droplets drip onto the wheel by themselves. Then you just hold the stone you want to polish against the spinning wheel. Give it a try. Come on, sit down, sit down."
+"This is the pedal-powered grinder I built. You sit in this chair and pump the crank pedal at your feet, right? The gear chain carries the power from here to here and spins the abrasive wheel. Twist this, and water drips onto the wheel on its own. After that, you just hold the stone you want to shape against the spinning wheel. Try it. Go on, sit, sit."
 
-"Hmm... The chair's a little low. Uh, I step on this? ...No, this is impossible. If I move my feet, my hands shake."
+"Hmm... The chair's a little low. Uh, I pump this? ...No, this is impossible. If I'm moving my feet, my hands wobble."
 
-"There's a trick to it. You step on the pedal with your heel to get the wheel spinning, right? Then you stop pedaling for a moment, steady your hands, and before the momentum dies down..."
+"There's a knack to it. You push the pedal with your heel to get it spinning, right? Then you stop your feet for a second, steady your hands, and before the spin dies down..."
 
-I carefully taught her the proper posture and method for a while, but the Blue Witch just couldn't do it. After struggling for about an hour, she put too much force into it at a weird angle and broke the Gremlin she was supposed to shape.
+I spent a while coaching her on the proper posture and technique in detail, but the Blue Witch just couldn't get it. After about an hour of struggling, she pressed hard at a weird angle and cracked the Gremlin she was supposed to be shaping.
 
-"Don't worry, don't worry. You don't have to put that much force into it. Just touching it to the wheel will grind it. Finesse, not force! Relax your shoulders. Here, one more time."
+"Don't sweat it, don't sweat it. You don't need that much force. Just touch it to the wheel and it'll wear down. Finesse over force! Loosen up your shoulders. Here, one more time."
 
-"No, I'm done. I understand well enough that I'm not suited for this. I thought I was at least average."
+"No, I'm done. I've learned plenty well that I'm not cut out for this. I thought I was at least as good with my hands as the next person."
 
-Looking dejected, the Blue Witch grabbed the rapidly spinning wheel with her bare hand and stopped it.
+The Blue Witch drooped, then stopped the whirring wheel by grabbing it with her bare hand.
 
-S-Scary. If I do that, the wheel will scrape my fingers raw and peel the skin right off.
+S-Scary. If I did that, it'd scrape my fingers raw and take the skin right off.
 
-Witches are ridiculously tough. She's casually showing me the difference in our rank as living things.
+Witches are ridiculously tough. She's casually rubbing it in that we're not even the same class of living thing.
 
-"But now you get it, right? We Wand Makers who process Gremlins do this kind of thing for hours every day, so our fingers turn white."
+"But now you get it, right? We Wand Makers who work Gremlins do this kind of thing for hours every day, so our fingers turn white."
 
 "I see. Want to borrow some concealer?"
 
 "Huh? Concealer? What's that?"
 
-"Makeup that hides blemishes and dark circles. It can hide the white on your fingers too."
+"Makeup that hides blemishes and dark circles. It'd cover the white on your fingers too."
 
-"Nah, I don't need it. I don't need to hide it, right? If anything, I kind of like it. It makes my hands look like a craftsman's. That's cool."
+"Nah, I don't need it. Why would I hide it? If anything, I kind of like it. It makes my hands look like a real craftsman's. It's cool."
 
 "...I really don't get your tastes, Ori."
 
-The Blue Witch tilted her head, looking genuinely puzzled. I'd heard she was a model before she became a witch. She probably sees this kind of skin discoloration as a negative.
+The Blue Witch tilted her head, genuinely baffled. Word was she'd been a model before she became a witch, so she probably saw skin discoloration like this as a flaw.
 
-White Fingers wasn't the only piece of town gossip the Blue Witch had picked up. She also told me about finger-dexterity training that had lately become popular among craftspeople.
+White Fingers wasn't the only town gossip the Blue Witch had brought back. She also told me about a finger-dexterity training method that had lately caught on among craftspeople.
 
-Magic-wand mass production had brought in not only craftspeople who already did fine work, but also total amateurs who didn't know the first thing about processing.
+With wands now in mass production, the work wasn't limited to people who'd done fine craftwork before. Total amateurs who didn't know the first thing about processing were being drafted into wand production too.
 
-Apparently, finger-dexterity training devised by a former piano instructor was becoming popular to build those amateurs' dexterity and turn them into useful workers even one day sooner.
+To whip those amateurs into useful workers even a day sooner, finger-dexterity training designed by a former piano teacher was apparently all the rage, since it could build up dexterity people weren't born with.
 
-The Blue Witch demonstrated it with her own hands.
+The Blue Witch showed me how, demonstrating with her own hand.
 
 "First, make a fist like this. Don't curl your thumb in; lay it along your index finger. Then... l-like this, like... this... raise only your little finger and middle finger together. Keep your index finger and ring finger pressed against your palm.
 
@@ -252,53 +252,53 @@ The Blue Witch demonstrated it with her own hands.
 
 "Like this?"
 
-When I copied her turtle-slow demonstration at high speed, the Blue Witch recoiled.
+When I copied her turtle-slow demonstration at top speed, the Blue Witch recoiled.
 
 "Too fast, too fast! I can see afterimages, and it's so smooth your fingers look like they're wriggling...!"
 
-"Don't underestimate me. I make my living on dexterity alone, you know? Are there any other exercises like this?"
+"Don't underestimate me. Dexterity is the one thing I make my living on, you know? Got any other exercises like this?"
 
 "Y-Yeah, there are, but wouldn't they be too easy for you?"
 
-"They would. But it's fun."
+"Sure. But it's fun."
 
-When I pressed her, the Blue Witch taught me various dexterity-training exercises.
+At my urging, the Blue Witch taught me all sorts of dexterity drills.
 
-"Put your palm flat on the table, facing down, like this. Lift only your little finger and ring finger, then... like this, rapidly tap the table alternately with those two fingertips. Keep your whole palm from tensing up, and move lightly."
+"Put your hand palm-down and flat on the table, like this. Lift only your little finger and ring finger, then... like this, tap the table fast with those two fingertips, one after the other. Keep your whole palm from tensing up, and move lightly."
 
-"Yep."
+"There."
 
-"Yeah, okay. Of course you can do it. Watching Ori makes me feel insanely clumsy."
+"Yeah, okay. Of course you can. Watching you, Ori, makes me feel insanely clumsy."
 
 "What else? What else?"
 
-"You're still going? Uh, put your hands together like you do before a meal. Then... bend back and separate only your ring fingers and index fingers... then put them back. Once you put them back, do the same with your little fingers, middle fingers, and thumbs... bend them back and separate them, then put them back. Repeat that quickly."
+"You're still going? Uh, put your hands together like you do before a meal. Then... bend back and separate only your ring fingers and index fingers... then put them back. Once they're back, do the same with your little fingers, middle fingers, and thumbs... bend them back and separate them, then put them back. Repeat that quickly."
 
 "Yep, yep, like this. What's next?"
 
 "That's all!"
 
-Apparently there were only three kinds of training, the Blue Witch said dismissively.
+There were apparently only three exercises, the Blue Witch said, like she couldn't care less.
 
-What, that's all?
+What, that's it?
 
-I was hoping there might still be room to raise my dexterity through training, but apparently I'm not getting that lucky. I can do all of them easily.
+I'd been hoping training might still leave some room to raise my dexterity, but apparently things weren't that easy. I could do every one of them without trying.
 
-But the existence of training like this is scary too.
+Still, training like this is a little scary.
 
-If exercises like these can build dexterity, clumsy Wand Makers might spend years training and start closing the gap with me.
+If dexterity can be built up this way, clumsy Wand Makers might spend years at it and start closing the gap with me.
 
-I don't think they can ever match me, obviously. But I can't just rest on the dexterity I was born with.
+I don't think anyone could ever match me, obviously. But I can't just rest on the dexterity I was born with.
 
-I'll come up with finger-dexterity training just for me. Ordinary-person-level training is way too low-level for me.
+Maybe I'll come up with some finger-dexterity training just for me. Regular-person training is way too low-level for me.
 
-I'll devise my own super-advanced dexterity-training method suited to my level.
+I'll devise my own super-advanced dexterity training, one that suits my level.
 
-Apparently, there was a rumor going around that every first-rate Wand Maker had white fingers—White Fingers.
+Word is going around that first-rate Wand Makers have white fingers—White Fingers.
 
-But I have fingers of a god, beyond those White Fingers.
+But I've got the fingers of a god, a cut above those White Fingers.
 
-To keep my God Hand skills rock-solid, I want to stay on top of my training and leave everyone else in the dust with my dexterity.
+To keep my God Hand skills rock-solid, I'm going to stay sharp and keep leaving everyone else in the dust with my dexterity.
 
 ## Translator Notes
 

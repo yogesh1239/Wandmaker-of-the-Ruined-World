@@ -187,3 +187,24 @@
 ### Formatting Confirmed
 - Part covers source lines 325–643; `![p256.jpg](images/p256.jpg)` and `---` are preserved exactly and in order.
 - Narrative/direct-thought tense distinction, exact glossary terms, honorifics, romanization, furigana removal, and footnote-marker integrity verified in both passes.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–643; agent `reedit-v2c14-s1`; ~150 edits). Flow: short-sentence share 22.7% → 22.0%; runs 5 → 4 (kept: the Flower Witch outburst, the "She said... / She said..." repetition, "She's not my enemy…", the fish-pond rant). No audit present-tense narration found; two direct thoughts moved into present.
+
+### Accuracy Fixes
+- **未来視様 / bare 未来視**: "Foresight Mage-sama" → "Foresight-sama"; "Foresight Mage" → "Foresight" — glossary (bare form)
+- **魔法大学**: "Tokyo Magic University" → "the Magic University" — glossary
+- **白木 (JA 211)**: "This white tree is my storehouse." → "This whitewood is my storehouse." — glossary (lead decision; 白い巨木 at JA 136/178 stays descriptive "huge white tree")
+- **「そうか？正直言って助かる」**: "Is it?" → "Really? Honestly, that's a relief." — accuracy
+- **大利も顔は良いだろう**: now addressed to Ori ("Your face is nice too, Ori.") — address
+- **こいつ本当に顔がいいんだよなぁ…** / **今日からは通常営業といこう**: direct thought unified in present — tense
+- **不運にも強力な魔物が現れ**: 不運にも restored — accuracy
+- **死体は3ｍ**: → "a good three meters long" — polish
+- [polish] Dangling speech tag (半身を起こした青の魔女がぶすっとして言う), 正論で殴られ黙り込むと, and the 手桶 relay rebuilt — polish
+
+### Register and Flow
+A paragraph break lost between JA 322 and 325 was restored. JA 256 agent ambiguity rendered as "As long as she values you, she will return the favor."
+
+### Formatting Confirmed
+- Markers, notes, and breaks unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 14` ALL PASS.

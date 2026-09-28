@@ -87,3 +87,27 @@
 - Whole source audited in three ordered chunks (lines 1–193, 194–340, and 341–463) for both accuracy and one bounded polish pass.
 - Exact `---` scene break and `![p207.jpg](images/p207.jpg)` image marker preserved.
 - Glossary locks, honorific/name order, narrative/direct-thought tense, footnotes, and absence of an in-file title heading verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–463; agent `reedit-v2c12-s1`; ~120 edits). Flow: short-sentence share 20.6% → 21.7%; runs 3 → 2 (kept: "What had Foresight seen? / What was he trying to tell her?" and the despair run over the unopened letter). Narration was already past.
+
+### Accuracy Fixes
+- **ある種のキノコは…という**: field-guide explanation unified in present as a general truth (was mixed) — tense
+- **休講している**: "had cancelled classes" → "had suspended classes" — accuracy
+- **抱きかかえソファに寝かせた**: 寝かせた restored → "scooped Ohinata up and laid her on the sofa before she could object" — accuracy
+- **魔女集会 (×2)**: "Tokyo Witches' Council" → "Witches' Council" — glossary (bare form)
+- **魔力保有量テスト**: → "a magic-power capacity test" — glossary
+- **魔法大学**: "Tokyo Magic University" → "the Magic University" (source short form) — glossary
+- **明らかな異物…という判断だ。しかし、その判断は大失敗だった**: 判断 link restored ("or so she'd reasoned. / That turned out to be a huge mistake.") — accuracy
+- **石突ごと**: "base and all" → "stem and all" — accuracy
+- [polish] **火が消えたように静かだ** → "Now it had gone dead quiet."; **苗床になって死ぬ** → "seedbed"; **空前のバイオハザードの最中…頼もしく感じられる** rebuilt in English word order — polish
+
+### Register and Flow
+Source repetitions kept (the three "When he'd foreseen…" sentences, "exploded… / It had exploded", "If the Blue Witch said nothing, Ori knew nothing", "Over and over and over"). Dialogue-paragraph count 10 → 9: the Blue Witch's hand-holding narration was joined to her own line.
+
+### Reference Decisions
+- Glossary had 魔力欠乏失神 twice ("magic-depletion fainting" / "magic-power-depletion fainting"). The duplicate row was removed in favor of the series majority "magic-power-depletion fainting" (10 uses vs 7, all 7 in V4 Ch15, left for its own re-edit).
+
+### Formatting Confirmed
+- Image marker and `---` break unchanged; no notes, ruby, or headings; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 12` ALL PASS.

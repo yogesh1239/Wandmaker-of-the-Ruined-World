@@ -2,67 +2,67 @@ Four years had passed since the Gremlin Disaster.
 
 It had been two months since the mushroom pandemic.
 
-I could feel the economy, which had been picking up, losing steam.
+The economy had been picking up, but I could feel it slowing again.
 
-I was still getting requests from Tokyo Magic University to deliver magic wands.
+Tokyo Magic University was still ordering magic wands from me.
 
-The amulets I'd developed had also been well received by the members of the Tokyo Witches' Council, and after the new technology was made public, I received orders from several people through the Blue Witch. Making amulets didn't require dexterity, so they had no need to ask me, but I'd built up some serious brand recognition by making and selling magic wands.
+My new amulets had gone over well with the Witches' Council, too, and after I made the technology public, several members placed orders through the Blue Witch. Making amulets didn't take dexterity, so they didn't actually need me for the job, but making and selling magic wands had earned my brand a serious reputation.
 
-In fact, even if their performance was the same as ones made by Tokyo Magic University or ordinary workshops, I was pretty confident in my designs. I hadn't studied design for nothing. This mysterious Wand Maker brand was first-class in both performance and design.
+They worked just as well as the ones from Magic University or ordinary workshops, but I was pretty confident in my designs. I hadn't studied design for nothing. The mysterious Wand Maker brand delivered first-class performance and design.
 
-But the payment for those requests had clearly gotten stingier than before the pandemic.
+But I was getting noticeably less for those jobs than before the pandemic.
 
-The value of money from before the Gremlin Disaster had long since collapsed, so I mainly received payment in goods for selling my products. Things like seasonings and food that kept for a long time, medicine, ingots of precious metals for work and hobbies, beef and pork that had become valuable now, and large, high-quality Gremlins that could be used as wand materials.
+Money from before the Gremlin Disaster had long since become worthless, so I mostly got paid in goods: seasonings, food with a long shelf life, medicine, precious-metal ingots for work and hobbies, beef and pork that were hard to come by now, and large, high-quality Gremlins for making wands.
 
-I had even asked for the continuation of a manga that had been serialized before the disaster. They checked whether the manga artist was still alive through the Blue Witch → Eyeball Witch route, and even got a limited run of the serialization approved (with 200 copies printed and four series included, it was on the scale of a collaborative amateur anthology, but the content was just what I'd hoped for).
+I'd even asked to read more of a manga that had been running before the disaster. My request went from the Blue Witch to the Eyeball Witch; they checked whether the artist had survived and even arranged for a limited run of new chapters (two hundred copies and four series made it about the size of a collaborative amateur anthology, but the content was just what I'd hoped for).
 
 Sadly, requests like that had become harder to get approved after the pandemic.
 
-Well, I understood why they politely refused my request for medicine after the pandemic made me worry about my stockpile at home. “We want to prioritize the people who really need it right now,” they said. The punch of hard truth was so strong it practically caved my face in.
+The pandemic had made me worry about my stockpile at home, so I'd asked for medicine and gotten a polite refusal: “We want to prioritize the people who really need it right now.” I could understand that. Their logic packed a punch strong enough to cave my face in.
 
-But it was a shock that beef and pork took more than two weeks from request to delivery, sugar no longer had an estimated delivery date, and the number of manga series in the magazine dropped from four to three. The precious few people keeping the livestock industry running had suffered losses too, the workers who handled sugar distribution were gone, and one manga artist had died.
+What shocked me was having to wait more than two weeks for beef and pork, getting no delivery estimate for sugar, and seeing the magazine drop from four manga series to three. The livestock industry had lost some of its valuable workers, the sugar distributors were gone, and one of the manga artists had died.
 
-Even payment for my magic-wand deliveries to Tokyo Magic University was delayed. I got a promissory note promising future payment instead of goods, along with a deeply apologetic letter from Professor Ohinata.
+Even Magic University fell behind on payments for my wand deliveries. Instead of goods, Professor Ohinata sent a promissory note for future payment with a very apologetic letter.
 
 I came to understand firsthand what it meant for twenty percent of the population to die.
 
-Society hadn't collapsed completely. But problems showed up in every part of daily life.
+Society hadn't fallen apart, but things were going wrong in every part of daily life.
 
-Publishing the amulet technology also hadn't had the effect I expected.
+Making the amulet technology public hadn't had the impact I'd expected, either.
 
-An amulet's magic-power-recovery acceleration worked by percentage, not by a fixed amount. If you had 10,000 magic power, you'd recover an extra 500, but if you only had 1 magic power, you'd recover just 0.05 extra. For anyone other than witches and mages with absurd amounts of magic power, it was just an accessory with a tiny bonus effect that offered little more than peace of mind.
+An amulet boosted magic-power recovery by a percentage rather than a fixed amount. If you had 10,000 magic power, you'd recover an extra 500, but if you only had 1 magic power, you'd recover just 0.05 extra. For anyone other than witches and mages with absurd magic-power capacity, it was just an accessory with a tiny bonus effect that offered little more than peace of mind.
 
-The post-pandemic world didn't have the spare capacity for accessories like that to catch on. Why waste productive capacity that had already plummeted on making accessories?! So only witches and mages wanted them.
+The world after the pandemic couldn't spare the resources for accessories like that to catch on. Production had already plummeted—how could anyone waste it on accessories?! Only witches and mages wanted them.
 
-Of course, it wasn't that only witches and mages valued them. In fact, at Tokyo Magic University's Department of Gremlin Engineering, Department of Magic Medicine, and Department of Monster Studies, amulets were apparently one of the hottest research topics around.
+That didn't mean nobody else saw their value. Amulets were apparently one of the hottest research topics at Magic University's Department of Gremlin Engineering, Department of Magic Medicine, and Department of Monster Studies.
 
-Tokyo Magic University had somehow finished reorganizing and resumed classes in time for its new students to enroll in April. It had also established the new Department of Magic Medicine. The department was founded to consolidate mushroom research that had been scattered across Tokyo, bring together the dwindling pool of experts, and train new people. In its first year, its admissions competition surpassed the Department of Magic Linguistics, the previous leader. That was how much urgency the pandemic had instilled in Tokyo's residents.
+Magic University had managed to reorganize and resume classes in April, just in time for the new students, and had set up a Department of Magic Medicine. Its goals were to consolidate the mushroom research scattered across Tokyo, bring together the remaining experts, and train new people. In its very first year, it had more applicants per place than the Department of Magic Linguistics, which had previously topped the list. That was how badly the pandemic had rattled Tokyo's residents.
 
-The Department of Magic Medicine was researching not only the pathology of mushroom disease, but also the effects of magic-power-depletion fainting on the human body, along with countermeasures and prevention in case another unknown magical disease spread.
+The Department of Magic Medicine studied the pathology of mushroom disease, the effects of magic-power-depletion fainting on the body, and ways to prevent and respond to another outbreak of an unknown magical disease.
 
-For the Department of Magic Medicine, the amulet's marbled Gremlin, which had been devised from mushroom disease, was apparently very useful for advancing pathology research.
+The amulet's marbled Gremlin had been inspired by mushroom disease, so it was apparently a valuable resource for the department's pathology research.
 
-Needless to say, amulets were also a hot topic in the Department of Gremlin Engineering. Professor Handa and his students fiddled around with them in all sorts of ways, and only one week after I sent the actual amulet and its manufacturing guide through the Blue Witch → Professor Ohinata route, he raised its magic-power-recovery acceleration efficiency from 5% to 6%.
+Amulets were a hit with the Department of Gremlin Engineering, too. Professor Handa and his students tried all sorts of things with them. Just a week after I'd sent over an amulet and a manufacturing guide via the Blue Witch and Professor Ohinata, he raised its magic-power-recovery acceleration efficiency from 5% to 6%.
 
 Wait, isn't he amazing...?
 
-Well, I had created the amulet from scratch, while Professor Handa only had to improve it, so the abilities required of us as technicians were different. The professor also had students supporting his research, so we weren't working under the same conditions. Still, his skill in improving its performance by 1% in only a week freaked me out a little. I'd tried all sorts of things to improve it myself, so I knew performance didn't go up that easily.
+Well, I'd created the amulet from scratch, while Professor Handa only had to improve it, so the skills involved were different. He also had students helping with his research, so we weren't working under the same conditions. Still, the skill it took to improve its performance by 1% in just a week freaked me out a little. I'd tried all sorts of things to improve it myself, so I knew it wasn't that easy.
 
 If I weren't around, Professor Handa might've become the world's best—no, at least Japan's best magic-item maker.
 
 Still, he'd only raised the performance by 1%, so I was looking forward to seeing what came next.
 
-I had expected amulets to be highly rated by the Department of Magic Medicine and the Department of Gremlin Engineering, and I was proud of that as their developer. But the new discovery in the Department of Monster Studies was completely unexpected.
+I'd expected amulets to go over well in the Department of Magic Medicine and the Department of Gremlin Engineering, and as their inventor, I was proud of that. But I hadn't expected a new discovery from the Department of Monster Studies at all.
 
-In principle, the new discovery was an extension of my own research.
+The discovery was basically an extension of my own research.
 
-Melt-recast Gremlins took on a personal color based on the blood components mixed into them.
+Melt-recast Gremlins took on a color specific to the blood components mixed into them.
 
-For humans, this color varied from person to person, and monsters had individual differences too. But wild-animal blood did not color them.
+The color varied from one human or monster to another. Wild-animal blood, though, didn't color them at all.
 
-...Or so I had thought, but the Department of Monster Studies used sheer manpower to gather an enormous amount of sample data and discovered a rule I'd missed because I didn't have enough samples.
+...Or so I'd thought. The Department of Monster Studies used its manpower to collect huge amounts of sample data and found a pattern I'd missed because I hadn't had enough samples.
 
-They found that, among wild animals, blood components from individuals with the potential to mutate into monsters colored Gremlins, while blood components from individuals with no such potential did not.
+Wild animals' blood components colored Gremlins if the animals had the potential to mutate into monsters, and left them unchanged if they didn't.
 
 This was a very, very big discovery.
 
@@ -70,46 +70,46 @@ Thanks to it, agriculture and livestock farming could become dramatically more s
 
 Monsters were animals that had mutated into magical life-forms. When they mutated, their habits and temperament changed along with their appearance.
 
-A domesticated cow could turn into a monster overnight, destroy its stable, and escape. A docile rabbit could suddenly bare its fangs one day.
+A cow could turn into a monster overnight, wreck its barn, and escape. A docile rabbit could suddenly bare its fangs one day.
 
-The large farm in Katsushika Ward had also been wiped out when former livestock mutated into monsters in the farm's animal sheds, escaped en masse, and ravaged the crops from the inside.
+The large farm in Katsushika Ward had been wiped out when livestock mutated into monsters, broke out of the farm's animal sheds en masse, and ravaged the crops from the inside.
 
-But thanks to the latent animal-mutation test the Department of Monster Studies had discovered, it was now possible to prevent livestock from suddenly turning into monsters one day. Individuals at risk of becoming monsters could be screened out and culled in advance.
+But with the Department of Monster Studies' new test for potential mutation, farmers could prevent those sudden transformations. They could screen out at-risk animals and cull them ahead of time.
 
-It was a revolutionary discovery that could greatly improve the safety of livestock farming and massively boost production efficiency.
+It was a revolutionary discovery that promised much safer livestock farming and a massive boost to production efficiency.
 
-The reports alone made it clear that the amulet I had sent out into the world was being put to good use in the Tokyo Witches' Council community, which had been deeply wounded by the pandemic.
+Just hearing those reports told me that the amulets I'd introduced were being put to good use by the Tokyo Witches' Council community, still badly hurt by the pandemic.
 
 But it wasn't enough.
 
 Amulets alone couldn't fully heal the wounds left by the pandemic.
 
-Of course, Tokyo Magic University wasn't the only one doing all sorts of work to recover from the pandemic.
+Tokyo Magic University wasn't the only one working to recover from the pandemic, of course.
 
-The Tobacco Witch reluctantly scaled back her tobacco fields, securing cultivated land to produce food that was expected to become scarce again.
+The Tobacco Witch had reluctantly shrunk her tobacco fields to free up land for food crops, with another shortage expected.
 
-In Minato Ward, the ward's central tower had been held through the unprecedented pandemic without help from witches or mages, and it had become one of the places taking in bewildered Tokyo residents who had lost their witches (protectors) to the pandemic.
+Minato Ward's central tower had held out throughout the unprecedented pandemic with no help from witches or mages. Now the ward was taking in some of the Tokyo residents left adrift when their witches (protectors) died in the pandemic.
 
-More ordinary magic-wand workshops opened, and they streamlined their production processes. They were working flat out to get magic wands into people's hands even a little faster.
+Workshops making standard magic wands were growing in number, streamlining production, and working flat out to get wands into people's hands as quickly as possible.
 
 And help came from outside Tokyo too.
 
-The Tohoku Hunting Association, one of Japan's five major survivor communities with a population over 100,000, was sending personnel to help with reconstruction.
+The Tohoku Hunting Association was one of Japan's five major survivor communities with a population of at least a hundred thousand, and it was sending people to help rebuild.
 
-The Blue Witch was apparently going to attend a Tokyo Witches' Council meeting in person rather than remotely for the first time in a while. She would be protecting Professor Ohinata, who was sitting in on the meeting with a mage dispatched by the Tohoku Hunting Association.
+The Blue Witch was apparently going to attend a Witches' Council meeting in person for the first time in a while, instead of joining remotely. Professor Ohinata would be sitting in on the meeting with a mage from the Tohoku Hunting Association, and the Blue Witch would be there to protect her.
 
-Professor Ohinata also sounded me out about participating on the off chance I'd agree, but of course I couldn't. I turned her down. Rather than attend a meeting that terrifying, I'd choose a one-on-one duel with a bear monster.
+Professor Ohinata had asked if I'd attend, figuring it was worth a try, but of course that was out. I turned her down. I'd take a one-on-one duel with a bear monster over a meeting that terrifying.
 
 I decided to stay nice and cozy in Okutama and wait to hear the Blue Witch's stories about it.
 
-I had asked the Blue Witch to promote my wands to the Tohoku Hunting Association, so if it went well, my creations would become even better known and more highly regarded, and I'd have more places to sell them.
+I'd asked the Blue Witch to pitch my wands to the Tohoku Hunting Association. If things went well, more people would know and appreciate my work, and I'd have more buyers.
 
-The Tokyo metropolitan area, which had been forced to struggle alone for so long by the Gremlin Disaster, would finally resume contact with other regions.
+The Gremlin Disaster had left the Tokyo metropolitan area struggling alone for so long, but it would finally be in touch with other regions again.
 
-Cooperation would expand north and south, all across Japan. The world was expanding.
+Cooperation would spread north and south, all across Japan. The world was getting bigger.
 
-Just what kind of people make up the Tohoku Hunting Association, a major survivor community that overcame the Gremlin Disaster in a completely different way from Tokyo?
+Just what kind of people were in the Tohoku Hunting Association, a major survivor community that had made it through the Gremlin Disaster in a completely different way from Tokyo?
 
-And will the Blue Witch manage to sell them on my magic wands?
+And would the Blue Witch manage to sell them on my magic wands?
 
-I can't wait.
+I had high hopes.

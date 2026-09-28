@@ -84,3 +84,34 @@
 - Source `凍れ[ヴアアラー]` retained as `Freeze[ヴアアラー]`, matching filed-chapter precedent.
 - No scene breaks or images occur in scope; no title heading added.
 - One `noshi` marker and matching terminal translator note retained; all footnote markers pair correctly.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–331; agent `reedit_v3c1_s1`; model `gpt-5.6-sol` at high reasoning; ~45 paragraph edits). Flow: short-sentence share 26.5% → 29.8%; runs 3 → 3 (kept: the feature list, shocked questions, and mock-logical punchline).
+
+### Accuracy Fixes
+- **凍結魔法が得意な青の魔女**: restored the omitted specialty as “the Blue Witch, a freezing-magic specialist” — accuracy
+- **究極完全体**: “ultimate form” → “ultimate, perfected form” — accuracy
+- **ちゃっちゃか**: restored the speed nuance as “worked briskly” — accuracy
+- **耐性を持つ魔女の血液を使えば…軽減できる**: rebuilt the resistance-transfer mechanism in clear English — accuracy
+- [polish] **県境を跨げば…知る者はほとんどいない** and the wand-customization sequence were recast in direct, contemporary prose — polish
+
+### Register and Flow
+Ori's craft talk stayed casual and fast. Clearly immediate thoughts and reader asides were restored to natural present tense; past narration remained past. No source repetitions were removed.
+
+### Formatting Confirmed
+- Ruby, incantation text, the terminal `noshi` note, and the absence of a title heading were preserved.
+- Glossary forms, honorifics, name order, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS (FLOW LIGHT PASS; all retained runs source-functional); chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 45 changes)
+- **凍結魔法が得意な青の魔女の血で精製した** (JP 130): dropped the added "specialist—the Blue Witch, in this case" generalization → "refined from your blood … since you're good at freezing magic" — accuracy
+- **待ってくれるあたり良い奴だ** (JP 70): the appraisal goes to past with its clause → "She really was a good person." — tense
+- **…他の魔法系統カスタマイズももちろんできるんでね** (JP 202): the んでね aside is all present → "The one I'm making now is customized…" — tense
+- **やっぱり…新商品だ** (JP 94): "might as well be" → "it had to be a new product" — accuracy
+- **目がギューッてして痛くなる** (JP 151): restored 痛くなる — accuracy
+- **極めて深刻な、由々しき問題だ** (JP 13): restored the mock-grave "serious, grave" pileup — voice
+- **作業机に頬杖をついて** (JP 229): restored the workbench — accuracy
+- **実際に見て…凄さを実感してもらう** (JP 46): rejoined the sentence to avoid back-to-back "Then" openers — polish
+- **奥多摩から…都心部まであっという間だ** (JP 322): fixed stacked word order — polish
+- **サッと顔を背け** (JP 286): "promptly" → "quickly" — polish

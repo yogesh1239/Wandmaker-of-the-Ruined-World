@@ -115,3 +115,30 @@
 ### Formatting Confirmed
 - No title heading or scene/image markers required; narrative tense, exact glossary locks, honorifics, and romanization verified.
 - One necessary terminal note retained; marker and definition pair verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–227 / JP lines 1–334; agent `reedit_v3c14_s1`; model `gpt-5.6-sol` at high reasoning; ~70 edits). Flow: mean sentence length 13.7 → 13.9 words; short-sentence share 21.0% → 16.4%; runs 0 → 1; words 3012 → 2925. No past-tense reversals.
+
+### Accuracy Fixes
+- **最後の赤い光**: rebuilt the opening so the last red glow and its disappearance follow the source sequence — accuracy
+- **ある者は...**: coordinated the four parallel “Some...” clauses without losing their repeated structure — polish
+- **巨神殺し**: “Gun-Wand” → the exact glossary form “gun-wand Giant Slayer” — glossary
+- **曲げようとした**: “bent it” → “tried to flex it” — accuracy
+- **主柱**: “main pillar” → “mainstay” in context — polish
+- **死者**: “casualty” → “fatality” — accuracy
+
+### Register and Flow
+Preserved the source's bedtime-event order, Sanukino Banzo's light rustic cadence, and the flat Tokyo/Tohoku comedy. The remaining run—“Or maybe what he'd lost was confidence. Tokyo was strong. Stronger than Tohoku.”—is deliberate emphasis.
+
+### Formatting Confirmed
+- The sole note marker and definition and final `## Translator Notes` section remained intact; `check_reedit.py` PASS (FLOW ok; baseline not choppy); `run_chapter_gates.py --unit 3 --chapter 14` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 72 changes)
+- **慎重に断りを入れようとした大狼に** (JP 136): "Instead, Sanukino pulled…" → "tried to carefully turn down … without slighting him, but Sanukino pulled…"; restored the correct "but" logic and 慎重に — worse
+- **私怨を燃やしている** (JP 70): "He lost … became …, then nursed" → "He had lost … become …, and he still nursed"; grudge is ongoing, backstory kept in pluperfect — accuracy
+- **少し語調を和らげて言った** (JP 106): "At that, Sanukino's tone softened just a little." → "Sanukino said this in a slightly softer tone."; 言った describes his preceding line — accuracy
+- **生きてる金属みてぇな魔物** (JP 142): "that living-metal monster" → "that monster that looked like living metal, the one Iwatsura-san hunted"; restored みてぇな simile — accuracy
+- **紛れも無き『本物』** (JP 196): "the genuine article" → "the undeniable genuine article"; restored 紛れも無き — accuracy
+- **勝手に盛り上がった挙句** (JP 232): "got so worked up" → "worked himself up so much"; restored 勝手に self-generated nuance — accuracy
+- **力強く断言した** (JP 253): "Sanukino declared." → "Sanukino declared firmly."; restored 力強く — accuracy

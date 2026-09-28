@@ -1,198 +1,198 @@
-When spring came, there were more weird people.
+Spring always brought more weird people.
 
-People sometimes explained it by saying changes in temperature messed up the autonomic nervous system, but I didn't buy that.
+Some people chalked it up to temperature swings throwing off the autonomic nervous system, but I didn't buy it.
 
-If changes in temperature made more weird people appear, then just as many should've shown up when summer came, when fall came, and when winter came too. But in reality, weird people only increased in spring.
+If temperature swings really brought out weird people, then just as many should've shown up when summer came, and when fall came, and when winter came. In reality, though, it was only spring.
 
-I figured it was simply because weird people who'd stayed quietly at home through the cold winter came out of their nests and got active.
+My theory was simpler: the weird people who'd been lying low at home all through the cold winter crawled out of their burrows and got active.
 
-It was like ladybugs that overwintered under tree bark and started flying around once spring came. Ladybugs and weird people weren't that different. They were both living things, after all.
+Same as ladybugs, which spent the winter under tree bark and started flying around once spring came. Ladybugs, weird people—not much difference. They were both living things, after all.
 
-Since the Gremlin Disaster, the world had changed. Electricity was lost and replaced by magic crystals, and a new kind of weather called crystal rain had appeared in place of thunderstorms.
+The world had changed since the Gremlin Disaster. Electricity was gone, replaced by magic crystals, and there was even a new kind of weather, crystal rain, where thunderstorms used to be.
 
-But the principle that more weird people appeared in spring seemed to be alive and well. In the lovely spring weather, the Blue Witch came to visit Okutama carrying a bundle of flyers, and she looked tired enough that I could tell even through her mask.
+But the rule that spring brought more weird people seemed to be alive and well. On a balmy spring day, the Blue Witch dropped by Okutama with a stack of flyers in her arms, looking so worn out that I could tell even through her mask.
 
 “What's wrong? What's with those flyers?”
 
-“The Tobacco Witch dumped them on me. The minute spring came, she started doing weird things... No matter how many times I tell her I won't do this kind of thing, she keeps pushing.”
+“The Tobacco Witch dumped them on me. The minute spring came, she started up with this weird stuff... No matter how many times I tell her I don't do this kind of thing, she won't let it go.”
 
-I don't really get it, but apparently a weird person is bothering her and giving her a hard time. Rough living in the city. I'm glad I live alone deep in the mountains.
+I didn't really get it, but apparently some weird person was hassling her and wearing her out. Must be rough, living in the city. Good thing I live alone deep in the mountains.
 
-I sat the tired Blue Witch at the table and served her piping-hot mixed rice loaded with freshly picked mountain vegetables—bracken, bamboo shoots, and enoki mushrooms. I'll give her tea too! She's my friend, so this is special treatment.
+I sat the exhausted Blue Witch down at the table and dished her up some piping-hot rice cooked with freshly picked mountain vegetables, loaded with bracken, bamboo shoots, and enoki mushrooms. I'll even throw in tea! She's my friend, so she gets special treatment.
 
-The Blue Witch gratefully pressed her hands together at the awesome breakfast spread I'd quickly laid out, then picked up her chopsticks and dug into the warm food.
+The Blue Witch pressed her hands together gratefully over the awesome breakfast spread I'd thrown together, then picked up her chopsticks and dug into the warm food.
 
-“Take your time. There's seconds too. Mind if I look at the flyers while you eat?”
+“Take your time. There's seconds if you want. Mind if I look at the flyers while you eat?”
 
-“Do what you want. But they're not interesting.”
+“Suit yourself. They're not interesting, though.”
 
 “We'll see.”
 
-The Blue Witch really seemed to think they were boring, but the flyer headline read: “Fierce Battle! Strongest Transcendent Tournament!!”
+The Blue Witch seemed to honestly think they were boring, but the headline on the flyer read, “Fierce Battle! Strongest Transcendent Tournament!!”
 
 How could that not be fun? This is definitely gonna be good.
 
-I picked up one of the flyers and read it. Apparently, it was an announcement for a show hosted by the Tobacco Witch.
+I picked up a flyer and read it through. Apparently it was announcing an event the Tobacco Witch was hosting.
 
-The Tobacco Witch was the Tokyo Witches' Council member who governed Hamura and Mizuho Town. Her territory neighbored the Blue Witch's in Ome, and apparently the two saw a fair amount of each other.
+The Tobacco Witch was the witch on the Tokyo Witches' Council who governed Hamura and Mizuho Town. She was next door to the Blue Witch, whose territory was Ome, and apparently the two of them saw a fair amount of each other.
 
-I'd heard that she kept horses after turning the Yokota Air Base airfield into a ranch, but I didn't know what kind of witch she was otherwise. So she's the kind of witch who does fun stuff like this.
+I'd heard she'd turned the Yokota Air Base airfield into a ranch and kept horses there, but that was all I knew about her. So she's a witch who does fun stuff like this, huh.
 
-The Strongest Transcendent Tournament hosted by the Tobacco Witch was basically like a mixed martial arts tournament. Bring together Transcendents, let them have real fights with fists, weapons, and magic all allowed, then decide who's the strongest! That was the event.
+The Tobacco Witch's Strongest Transcendent Tournament was basically a mixed martial arts tournament. Round up a bunch of Transcendents, let them go at it for real—fists, weapons, magic, anything goes—and settle who's the toughest! That was the idea.
 
-There was gambling too, with odds set for win bets predicting first place, place bets predicting first through third (trio, trifecta, and quinella-place), and so on. Is this horse racing?
+There was even betting, with odds posted for win bets on first place, place bets on the top three (trio, trifecta, and quinella-place), and so on. Is this horse racing?
 
-It looked every bit as fun as the headline promised. I didn't feel like going there because crowds would probably mob the place, but if I could watch a broadcast from home, I definitely wanted to heckle it with an ice-cold beer in one hand.
+It looked every bit as fun as the headline promised. The place would probably be mobbed, so I didn't feel like going in person, but if I could watch a broadcast from home, I'd definitely want to heckle it with an ice-cold beer in one hand.
 
-But just from skimming the event details, I could see two big problems.
+But even a quick skim of the event details turned up two big problems.
 
 Is this okay?
 
-“You'd win this in a blowout. You'd be guaranteed first place. It wouldn't be a competition, and there'd be no point betting on it.”
+“You'd win this by a mile. First place is a lock. It wouldn't even be a contest, and there'd be nothing to bet on.”
 
 “Bottom right.”
 
-The Blue Witch shrugged and told me to look at the bottom right, so I did. In small print, it said, “Blue Witch participating as referee (planned).”
+The Blue Witch shrugged, and I looked where she said. Down in the bottom right corner, in small print, it read, “Blue Witch participating as referee (planned).”
 
-Makes sense. That's a reasonable compromise.
+Makes sense. A reasonable compromise, I guess.
 
-“Also, is this something to do now? Stoat Professor dealt with the food problem, but monsters show up in the city, public safety's bad, medical care's falling apart, and the economy's a mess. There's still all kinds of trouble, right? What if you witches beat each other up and get seriously hurt? Can you afford to put on a show like this?”
+“Also, is now really the time for this? The stoat professor took care of the food problem, but monsters show up in town, public safety's bad, the medical system's collapsed, and the economy's a mess. Things are still rough in all kinds of ways, right? What if you witches beat each other up and someone gets badly hurt? Can you even afford to put on a show like this?”
 
 “No. That's why everyone's turning it down.”
 
-The Blue Witch's answer was flat.
+The Blue Witch's answer was blunt.
 
-“Only Eyeball, Dragon, and Mitaka said okay. The one who's good with people, the one who thinks she'll win, and the one who's friends with the Tobacco Witch.”
+“The only ones who said yes were Eyeball, Dragon, and Mitaka. The one who gets along with everybody, the one who thinks she'll win, and the one who's friends with the Tobacco Witch.”
 
-The Blue Witch counted the participants on her fingers while rudely holding her chopsticks in her mouth.
+The Blue Witch counted them off on her fingers, her chopsticks rudely clamped in her mouth.
 
-So even counting the organizer, only four people will fight. It doesn't seem like it'll get very exciting.
+So even counting the organizer, that's only four fighters. Doesn't sound like it'll be much of a show.
 
-“Also, Foresight is strongly against it.”
+“Also, Foresight's dead set against it.”
 
 “The more I hear, the worse this sounds...”
 
-“That's what I told you. Everyone says they won't do it, but the Tobacco Witch keeps pushing.”
+“I told you. Everyone keeps saying no, but the Tobacco Witch won't let it go.”
 
-It does sound insanely fun. But it really isn't something to do now. Even I, who the Blue Witch keeps telling has no sense of danger, can understand that.
+It did sound insanely fun. But now really wasn't the time for it. Even I could see that, and the Blue Witch was always telling me I had no sense of danger.
 
-I don't get what witches think. Blue, Dragon, and Tobacco all just want to do their own thing. I can imagine how hard it is for the Eyeball Witch and Foresight Mage, who I've only heard rumors about.
+I'll never understand how witches think. Blue, Dragon, Tobacco—every one of them just does whatever she feels like. I've only heard about the Eyeball Witch and the Foresight Mage secondhand, but I can imagine what they go through.
 
-The Blue Witch finished breakfast while we used the flyers as fodder to argue back and forth. Afterward, she helped with my very own reverberatory-furnace construction project.
+The Blue Witch finished eating while we hashed over the flyers, and afterward she helped with my very own reverberatory-furnace construction project.
 
-If I'm going to master making magic wands, working with fire will become essential.
+If I was going to take magic-wand making all the way, I'd need to get serious about working with fire.
 
-A campfire or pizza oven can't provide enough heat to melt metal or experiment with making new magic wands. I absolutely need a reverberatory furnace that can produce high temperatures.
+A campfire or a pizza oven didn't get hot enough to melt metal or run experiments on new wands. I really needed a reverberatory furnace that could reach high temperatures.
 
-Everyday heat and the heat needed for serious processing are on entirely different scales. Besides, craftsmen with proper furnaces in their workshops look cool.
+The heat you use in everyday life and the heat serious fabrication calls for are orders of magnitude apart. Plus, a craftsman with a real furnace in his workshop just looks cool.
 
-I'd gotten old reverberatory-furnace blueprints from the National Diet Library through Professor Ohinata, but even with blueprints, it wasn't easy.
+Through Professor Ohinata, I'd gotten hold of some old reverberatory-furnace blueprints from the National Diet Library, but even with blueprints, it wasn't going to be easy.
 
-While I diligently leveled the future reverberatory-furnace site with a shovel, the Blue Witch used fire magic to fire bricks for me.
+While I worked away with a shovel, leveling the ground where the furnace would go, the Blue Witch used fire magic to bake bricks for me.
 
-To make a reverberatory furnace, you needed firebrick as a building material.
+To build a reverberatory furnace, you needed firebrick.
 
-To make firebrick, you needed crushed firebrick called chamotte.
+To make firebrick, you needed chamotte, which was crushed firebrick.
 
-To make chamotte, you needed to fire fire clay at high temperatures.
+To make chamotte, you needed to bake fire clay at high temperatures.
 
-So, roughly speaking, I have to start by making the materials for making the materials for making the materials for the reverberatory furnace. Hmm, complicated!
+Put simply, I had to start by making the materials for making the materials for making the materials for the reverberatory furnace. Man, that's convoluted!
 
-The Blue Witch complained as she made a simple clay furnace roar with magical flames.
+The Blue Witch grumbled as she kept a makeshift clay furnace roaring with her magic flames.
 
-“Hey, Ori. Do we really need to fire 500 bricks? A hundred should be enough to put together a furnace.”
+“Hey, Ori. Do we really need to fire 500 bricks? A hundred should be plenty to build a furnace.”
 
-“Sorry, but reverberatory furnaces are big. Making one takes around 25,000 firebricks. Repeat that another 50 times.”
+“Sorry, reverberatory furnaces are huge. Building one takes around 25,000 firebricks. So do that another 50 times.”
 
-“R-Repeat that another 50 times!?”
+“D-Do that another 50 times!?”
 
-The Blue Witch parroted the words back in shock.
+The Blue Witch parroted me, stunned.
 
-“I'll knead and shape the clay. You handle the firing.”
+“I'll knead and shape the clay. The firing's all yours.”
 
-“Hey, you didn't tell me that! There have to be firebricks somewhere, right!? Like a home improvement store! Why are you so set on making them yourself!?”
+“Hey, nobody told me that! There's got to be firebrick somewhere, right!? Like a home improvement store! Why are you so set on making them yourself!?”
 
-“I asked Professor Ohinata in a letter, and apparently the Flame Witch of Shinagawa Ward collected and used all of Tokyo's firebrick stock. So we have no choice but to make them ourselves. Let's do our best?”
+“I asked Professor Ohinata in a letter, and apparently the Flame Witch of Shinagawa Ward collected all the firebrick in Tokyo and used it up. So making our own is the only option. Let's do our best, yeah?”
 
-“What do you mean, let's do our best...? If we're repeating this 50 times, it'll take dozens of days.”
+“Do our best? You... If we're doing this 50 more times, it'll take weeks and weeks.”
 
-“Yeah, exactly. That's why your help is such a big deal. Seriously, thanks. If the reverberatory furnace is finished, I can move Gremlin research forward and probably raise magic-wand performance too, and I should be able to upgrade Cyanos. That isn't bad for the Blue Witch either, right?”
+“I know. That's why your help means so much. Seriously, thank you. Once the reverberatory furnace is done, I can push my Gremlin research forward and probably boost magic-wand performance too. I should be able to upgrade Cyanos as well. That's not a bad deal for the Blue Witch either, right?”
 
-“Why make Cyanos any more powerful? It's already overpowered as it is. What are you planning to fight, Ori...?”
+“Why would Cyanos need to be any stronger? It's already overpowered as it is. What are you expecting to fight, Ori...?”
 
-Even while grumbling, the Blue Witch didn't stop firing bricks. For all that, you really are a good person.
+For all her griping, the Blue Witch never stopped firing bricks. Say what you want, you really are a good person.
 
-If the Blue Witch hadn't supported me with fire magic, I would've had to start by securing fuel for making the materials for making the materials for making the materials for the reverberatory furnace. Hooray for magic, hooray for witches.
+If the Blue Witch hadn't been backing me up with fire magic, I would've had to start by securing fuel for making the materials for making the materials for making the materials for the reverberatory furnace. Hooray for magic, hooray for witches.
 
-With magic around, you'd think earth magic could whip up something as simple as firebricks, but no such magic exists. Magic is far from all-purpose. We just have to make good use of what we have.
+You'd think that in a world with magic, some kind of earth magic could whip up a few firebricks in no time, but no such magic exists. Magic is nowhere near all-purpose. You just have to make good use of the magic you've got.
 
-For about two months from early spring on, we did the unglamorous, steady work of building the reverberatory furnace. The Blue Witch had no obligation to help build it, but she came once every two or three days and spent the whole day firing bricks. It helped a lot.
+For about two months starting in early spring, we plugged away at the reverberatory furnace, slow and unglamorous. The Blue Witch was under no obligation to help, but every two or three days she'd show up and spend the whole day firing bricks. It was a huge help.
 
-I once asked why she helped me so much, and she answered like some kind of saint: “Because I like helping.” I was stunned.
+Once, I asked her why she helped me so much, and she said, “Because I like helping,” like some kind of saint. I was floored.
 
-Then again, she'd occasionally and casually tell me how she'd killed people who entered Ome without permission, broken their legs and thrown them out, or beaten them until they puked and sent them packing. So the Blue Witch's free kindness was probably limited to her own people.
+Then again, every so often a story would casually slip out while we talked: people who'd trespassed into Ome, and how she'd killed them, or broken their legs and tossed them out, or beaten them until they puked and sent them packing. So the Blue Witch's free kindness was probably reserved for her own people.
 
-You're extreme. Everything you do. You treat people you've let in and strangers way too differently. You could say you know how to draw a clear line, though.
+You're extreme, you know that? In everything you do. The gap between how you treat people you've let in and how you treat everyone else is way too big. I guess you could call that knowing where to draw the line, though.
 
-Eventually, spring passed and rainy season began. By the time the long drizzly rains set in, we were about halfway through building the reverberatory furnace.
+Eventually spring gave way to the rainy season, and by the time the long, steady drizzle had set in, the furnace was about halfway done.
 
-As I got myself fired up again at the halfway point we'd finally reached, the Blue Witch came again carrying a bundle of flyers and looking completely fed up.
+We'd finally reached the halfway point, and I was psyching myself up for the second half when the Blue Witch showed up once again with a stack of flyers, looking thoroughly fed up.
 
 I-I've seen this before~! Two months later, it's round two!
 
 “The Tobacco Witch again?”
 
-“Yeah. I can't exactly throw them away, but I don't want to hand them out either. Ori, take them all.”
+“Yeah. I can't exactly throw them out, but I don't want to hand them out either. Ori, you take them all.”
 
-“Oh. Can I use them to start the bath fire?”
+“Sure. Can I use them as kindling for the bath?”
 
-“Do what you want.”
+“Suit yourself.”
 
-I'd heard that the last “Fierce Battle! Strongest Transcendent Tournament!!” had been postponed for ten years due to the Foresight Mage's fierce opposition, which meant it was effectively canceled.
+I'd heard that the last one, “Fierce Battle! Strongest Transcendent Tournament!!”, had been postponed ten years because the Foresight Mage was dead set against it, which meant it was effectively canceled.
 
-I looked at the flyers to see what she was plotting this time. It was a mahjong tournament billed as “Heated Battle! Strongest Mahjong Tournament!!!” This idea is tame compared with the last one. Then again, the last one was way too much.
+I checked the flyers to see what she was plotting this time. It was a mahjong tournament billed as “Heated Battle! Strongest Mahjong Tournament!!!” Pretty tame compared with the last one. Then again, the last one was way over the top.
 
-The mahjong tournament winner would get three sho[^1] of junmai daiginjo[^2], now a precious luxury, plus a championship trophy and the naming rights for a foal born that spring at the Tobacco Witch's ranch.
+The winner would get three sho[^1] of junmai daiginjo[^2], a precious luxury these days, plus a championship trophy and the right to name a foal born that spring on the Tobacco Witch's ranch.
 
-Aha? I'm starting to get a vague picture of what the Tobacco Witch is like.
+Aha? I think I'm starting to get a picture of what the Tobacco Witch is like.
 
-She's probably into booze, tobacco, horse racing, pachinko, and pro wrestling. Her tastes are way too easy to understand.
+Booze, tobacco, horse racing, pachinko, pro wrestling—she's probably into all of it. Her tastes are way too easy to read.
 
-“The Tobacco Witch loves making everything into a big party. Does she spend all year thinking up stuff like this?”
+“The Tobacco Witch loves a big party way too much. Does she spend all year cooking up stuff like this?”
 
-“That woman hates looking gloomy and seeing other people look gloomy. She wants to hang out with her friends and have fun. I've never seen her look gloomy except during the Iruma coup.”
+“That woman hates gloomy faces, hers or anyone else's. She just wants to hang out with her friends and have fun. The only time I've ever seen her look gloomy was during the Iruma coup.”
 
-“Now I'm curious about the Iruma Mage instead...”
+“Now I'm more curious about the Iruma Mage...”
 
-“Ah... It was my fault for bringing him up, but don't worry about trash like that. Knowing about him will only dirty your memory.”
+“Ah... That's on me for bringing him up, but don't bother with scum like that. Knowing about him would just dirty your memories.”
 
-After that brutal description, I set the Iruma Mage aside, and the Blue Witch told me about the Tobacco Witch.
+Leaving the thoroughly trashed Iruma Mage aside, the Blue Witch told me about the Tobacco Witch instead.
 
-Apparently, the Tobacco Witch couldn't stand gloomy stuff. She kept middle-aged guys with similar hobbies around her and often came up with bizarre plans.
+Apparently the Tobacco Witch couldn't stand anything gloomy. She had an entourage of middle-aged guys who shared her hobbies, and she was always coming up with wild schemes.
 
-Right after the Gremlin Disaster, while people were despairing and grieving, she quickly took in the racehorses left behind at Tokyo Racecourse and put them to work transporting things in place of the unusable cars.
+Right after the Gremlin Disaster, while everyone else was sunk in despair and grief, she was quick to take in the racehorses stranded at Tokyo Racecourse and put them to work hauling goods in place of the cars nobody could use anymore.
 
-She made marijuana fields for medical anesthesia.
+She planted marijuana fields for medical anesthesia.
 
-She started brewing alcohol.
+She started brewing and got alcohol production going.
 
-She set up nighttime adult stress-relief spots that could operate without electricity.
+She set up nighttime stress-relief spots for grown-ups that could run without electricity.
 
-Anyway, she did all kinds of big things.
+Basically, she was making big moves on every front.
 
-Everything she's doing sounds like solid work supporting the ruined world's reconstruction, so why does all of it somehow give off such a loser vibe?
+From what I heard, every one of those projects was solid work helping to rebuild the ruined world. So why does the whole thing give off such a deadbeat vibe?
 
-“Is the Tokyo Witches' Council okay? There are only weird witches in it.”
+“Is the Tokyo Witches' Council gonna be okay? It's nothing but weird witches.”
 
-“Exactly. Everyone's so headstrong. It's a pain.”
+“Tell me about it. They're all so headstrong. It's a pain.”
 
-“Oh, you're good at throwing verbal boomerangs.”
+“Ooh, you're great at throwing verbal boomerangs.”
 
-When I made that wisecrack, she silently grabbed me by the side, and I went, “Eep!” It tickled!
+When I cracked that joke, she silently clamped a hand on my side, and I let out an “Eep!” That tickles!
 
-Well, apparently the Tobacco Witch looks like an ordinary woman. She smokes nonstop, and apparently the air gets smoky whenever you go near her. She sounds entertaining, but she isn't the kind of person I want to get close to. We probably won't ever meet anyway.
+Well, apparently the Tobacco Witch looks like an ordinary woman. I've also heard she's always puffing away, so just getting near her means breathing smoke. She sounds like a fun one, but she's not the kind of person I'd want to get close to. Not that we'll ever have a reason to meet.
 
-I hope the Tobacco Witch spends the rest of her life doing fun stuff and having a good time somewhere I can't see her.
+I hope the Tobacco Witch goes on doing fun stuff and enjoying life for the rest of her days, somewhere well out of my sight.
 
 ## Translator Notes
 

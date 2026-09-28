@@ -292,3 +292,30 @@
 - **source line 1027 (そこは分業だろう)**: "that's division of labor" → "that was division of labor" — tense
 - **source line 1030 (俺、そういうの得意だから)**: "I'm good at that stuff" → "I was good at that stuff" — tense
 - **source line 1033 (全部苦手とも言う)**: "I'm bad at everything other than that stuff" → "I was bad at everything other than that stuff" — tense
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source in two segments. User ruling 2026-09-28: narration stays past.
+- **Segment 1** (EN file start → before `![p126.jpg]` / JP 1–624; agent `reedit-v2c8-s1`; ~150 edits). Flow: short-sentence share 31.3% → 29.0%; runs 6 → 4 (kept: "Visit canceled! Back to Okutama!", the Bigfoot panic, "It hit me like a jolt" beat, "Reviews! Usability!").
+- **Segment 2** (EN `![p126.jpg]` → end incl. notes / JP 625–1120; agent `reedit-v2c8-s2`; ~130 edits). Flow: short-sentence share 24.3% → 16.4%; runs 1 → 0.
+- Seam at p126 read by lead; no fix needed.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 意外だが…シャットアウトしているのだろう (and the two paragraphs after); 気になるので…訪ねた; 何より特筆すべきはその美しさ！; 不眠不休だったっぽい; 合点がいく。記憶にないわけだ; 贈ってやりたくなった (and the block before it); 超役に立ちそうだった; 持たせたかった (and the rings/bodhi-wood block); ほぼ答えが出てる — tense (audit reversal); the three-wand reasoning and live questions stay present; Moebius ring / khakkhara / Kishimojin descriptions present as general facts
+- **不機嫌そうに小声で文句を言って来た**: now aimed at Ori ("started grumbling at me under her breath") — accuracy
+- **面倒な状況って言ったけどさ**: → "you said this was an annoying situation, right?" (echoes the Blue Witch's line) — accuracy
+- **東京を出るつもりなんだよね**: → "I'm actually planning to leave Tokyo!!" — accuracy
+- **君はさ!!**: "You know!!" → "Hey, you!!" — accuracy
+- **語られなかった杖の使用感**: → "the parts of the wand's feel she'd skipped" — accuracy
+- **いややっぱりちょっとは重く受け止めて** / **私は、その必要悪が悪だと思う** / **目玉とかは**: self-correction, "a necessary evil is still evil", and "Eyeball and the others" restored — accuracy
+- **三つ同時に唱えた**: "chanted" → "cast" — glossary (banned alias "chant")
+- **挙動不審**: → "shifty" / "Ori's always shifty" (echo kept) — voice
+- [polish] Stranded speech tags (Blue Witch 小声で聞いた; Hell Witch キョトンとして、言った) attached to their dialogue; stacked hair/horns/uniform description rebuilt — polish
+- [polish] Ohinata's letter rebuilt in natural polite English, addressing "you… Ori-san" — voice
+- "cancelled"/"travelling" → American spelling; two inner quotes straightened to match the file — punct
+
+### Register and Flow
+Ori's なの parody of the Dragon Witch (地味に大変そうなの) still has no English carrier; left for user decision (same issue as V1 Ch11). 中二病 kept as "middle-school-syndrome". Dialogue-paragraph count 93 → 89 in segment 1 because of four same-speaker joins; no speakers were merged.
+
+### Formatting Confirmed
+- Notes [^1]–[^5], ruby spans, scene break, and image markers unchanged; no backticks; `check_reedit.py` PASS on both slices; `run_chapter_gates.py --unit 2 --chapter 8` ALL PASS.

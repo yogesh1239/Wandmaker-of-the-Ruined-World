@@ -1,6 +1,6 @@
-The Blue Witch, who had once hovered between life and death, was recovering steadily and had started getting bored in bed. She walked as unsteadily as a newborn fawn, but her head was clear and she didn't seem sleepy, so she was completely at loose ends.
+The Blue Witch was recovering steadily after her brush with death, and now she was getting bored in bed. She was still as unsteady on her feet as a newborn fawn, but her head was clear and she didn't seem sleepy. She had nothing to do with herself.
 
-After I cleared away the Blue Witch's finished meal—the rice porridge, clear soup, and small dish of pickled plum—and started to leave the room, she called me back.
+I'd cleared away the Blue Witch's rice porridge, clear soup, and small dish of pickled plum and was about to leave the room when she called me back.
 
 "Ori, want to stay and talk for a bit?"
 
@@ -8,7 +8,7 @@ After I cleared away the Blue Witch's finished meal—the rice porridge, clear s
 
 "I'm bored. I'm not sleepy, and reading for too long wears me out."
 
-As she spoke, she put the novel with a bookmark in it on the small writing desk beside the bed. Judging by the title, it was apparently a romance novel.
+She marked her place in the novel and set it on the small writing desk beside the bed as she spoke. From the title, it looked like a romance.
 
 No wonder you get tired reading difficult books like that. You should read something easier, like a mystery novel or an academic journal.
 
@@ -16,51 +16,51 @@ No wonder you get tired reading difficult books like that. You should read somet
 
 Apparently, I had a habit of rubbing people the wrong way when I talked to them.
 
-I didn't think I was very suited to keeping a sick person company, but the Blue Witch beckoned me over and made me sit beside the bed.
+I didn't think I was the best company for someone who was sick, but the Blue Witch beckoned me over and had me sit down beside her bed.
 
-"It's fine. It doesn't matter what we talk about. Just stay here with me."
+"It's fine—we can talk about anything. Just stay here with me."
 
-"Huh...? We're talking with no purpose? Talking for the purpose of talking? What does that even...?"
+"Huh...? Talk for no reason? Just for the sake of talking? What does that even...?"
 
-"Don't overthink it. If you don't want to talk, just staying there is fine."
+"Don't overthink it. If you don't want to talk, you can just stay there."
 
 ???
 
-I didn't really get it, but apparently I only had to be there.
+I didn't really get it, but apparently just being there was enough.
 
-I was only sitting blankly at the edge of the bed like she'd said, but the Blue Witch looked like she was in a good mood.
+I just sat on the edge of the bed doing nothing, as she'd asked, but the Blue Witch seemed happy.
 
-What's this? Am I being used for animal therapy? Like having a dog around lowers stress?
+What's this? Am I a therapy animal now? Like having a dog around to lower stress?
 
 If it helped her recover, that was fine, but sitting there doing nothing was boring too.
 
-I pulled over some loose-leaf paper from the vanity and doodled to keep my hands busy. The Blue Witch leaned over to see what I was doing. She exclaimed when she saw my sketch of the stuffed toy on top of the closet.
+I pulled over some loose-leaf paper from the vanity and doodled to keep my hands busy. The Blue Witch leaned over to see what I was doing and exclaimed at my sketch of the stuffed toy on top of the closet.
 
-"Whoa, you're good. Wait, you're seriously good, aren't you? It's practically a photograph. Did you graduate from art school?"
+"Whoa, you're good. I mean, really good. It's practically a photograph. Did you graduate from art school?"
 
-"No, my background's in science and engineering. I told you before that I'm good at realistic drawing. It's not hard at all."
+"No, I studied science and engineering. I told you before that I'm good at realistic drawing. It's not hard at all."
 
-As I spoke, I kept the ballpoint pen moving, precisely copying the pretty lady in front of me onto the loose-leaf paper.
+I kept my ballpoint pen moving as I spoke, copying the pretty lady in front of me onto the loose-leaf paper in precise detail.
 
-This stuff's easy, you know. All I have to do is move my hand and output exactly what I see onto paper. It's just a simple task. Nothing but a boring way to kill time.
+This stuff's easy, you know. All I have to do is move my hand and put exactly what I see on paper. It's simple work, nothing more than a dull way to kill time.
 
 "Hm, you're drawing me? Amazing. Couldn't you make a living as an illustrator?"
 
-"Idiot. A photo would do the job, and I'm going out of my way to do it by hand, so if anything, this is stupid."
+"Idiot. A photo would do the job. Going out of my way to do it all by hand is just stupid."
 
 "Huh? No, you don't have to put yourself down that much..."
 
-"You don't get it. For example... Okay, you know that picture by the Blue Witch's sister hanging in the kitchen? That one's way better than this. When it comes to skill, it's horribly bad, but one look and bam—you can tell how much your sister really loves you, right? That's a good picture. Intent, purpose, who you're making it for and how! That's what matters in art!"
+"You don't get it. For example... Okay, you know that picture your sister drew, the one hanging in the kitchen? That one's way better than this. Skill-wise, it's total crap, but one look and bam—you can tell how much your sister loves you, right? That's a good picture. Intent, purpose, who you're making it for and how! That's what matters in art!"
 
-My specialty was magic wands. That meant handicrafts, not drawing. I didn't know much about drawing, but drawings had to share the same fundamentals as handicrafts.
+My specialty was magic wands—handicrafts, not drawing. I didn't know much about drawing, but the same basic principles had to apply to both.
 
-After hearing Ori-style art theory, the Blue Witch gave me a complicated look that was hard to describe.
+My Ori-style art theory earned me a look from the Blue Witch that I couldn't quite read.
 
 "Never call my sister's drawing bad again. Still, thank you. I'll accept the compliment."
 
-The Blue Witch seemed to have remembered the past and stared out the window with a faraway look in her eyes.
+The Blue Witch stared out the window with a faraway look, apparently lost in old memories.
 
-She was completely lost in her own world, so I picked up the tray with the empty dishes and quietly left the bedroom without drawing her attention.
+She was off in her own world, so I picked up the tray of empty dishes and quietly left the bedroom, careful not to attract her attention.
 
 Man. Putting up with a sick person's whims isn't easy.
 

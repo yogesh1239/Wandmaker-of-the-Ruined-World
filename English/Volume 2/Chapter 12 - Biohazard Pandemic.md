@@ -1,307 +1,303 @@
-Not long after the New Year, the Blue Witch heard the infection-prevention order the Foresight Mage had issued across all of Tokyo. At first, she didn't take it that seriously.
+Shortly after New Year's, the Foresight Mage issued an infection-prevention order covering all of Tokyo, and at first the Blue Witch didn't take it very seriously.
 
-He had foreseen an increase in people falling ill a month later, but similar things had happened several times before.
+He'd foreseen a rise in people falling ill a month out, but that kind of thing had happened several times before.
 
-When there had been a prediction of a large typhoon, they had reinforced roofs and windows and kept the damage to a minimum.
+When he'd foreseen a major typhoon, they'd reinforced roofs and windows and kept the damage to a minimum.
 
-When there had been a prediction of drought, they had been able to store water beforehand.
+When he'd foreseen a drought, they'd stored up water in advance.
 
-When there had been a prediction of an influenza outbreak, they had avoided a major epidemic by locking down the center where the infections began.
+When he'd foreseen a flu outbreak, they'd locked down the area where the infections started and headed off a full-blown epidemic.
 
-Of course, there had also been many tragedies Foresight could not prevent.
+Of course, there had been plenty of tragedies Foresight couldn't prevent, too.
 
-Foresight had missed the giant kaiju, and he had missed Iruma's coup as well (though much of that was because Iruma had been crafty). He had also failed to prevent the Hell Witch's rampage or the destruction of Katsushika Ward's large farm.
+He'd missed the giant kaiju, and he'd missed the Iruma coup (though that was largely because Iruma had been so crafty). He hadn't been able to stop the Hell Witch's rampage or the destruction of the big farm in Katsushika Ward either.
 
-But they had always prevented the tragedies they did foresee.
+But whenever he had seen a tragedy coming, they had always prevented it.
 
-No matter what kind of tragedy it was, if they could prepare a month ahead, they could greatly reduce the damage even if they could not prevent it completely.
+With a month to prepare, they could cut the damage from almost any tragedy way down, even if they couldn't stop it entirely.
 
-So she had been optimistic that if they foresaw an infectious-disease outbreak a month ahead, it would stay small when the time came.
+So she'd optimistically assumed that if they'd seen an outbreak coming a month ahead, it would stay small when the time actually came.
 
-But a month later, when the Blue Witch visited Tokyo Magic University to deliver a letter from Ori to Ohinata, she was shocked to find that four of its five departments had cancelled classes.
+But a month later, when the Blue Witch went to the Magic University to deliver a letter from Ori to Ohinata, she was shocked to find that four of its five departments had suspended classes.
 
-"A lot of students and professors are complaining of feeling unwell..."
+"So many students and professors say they're feeling unwell..."
 
-Ohinata, who met the Blue Witch in the president's office, was clearly not well either.
+Ohinata, who received her in the president's office, was visibly drained herself.
 
-She was pale, and the fur on her ears and tail had lost its shine.
+Her face was pale, and the fur on her ears and tail had lost its luster.
 
-The Blue Witch had a bad feeling.
+The Blue Witch felt a stab of unease.
 
-"Not you too, Kei-chan. You should be lying down..."
+"Not you too, Kei-chan? You should be in bed..."
 
-"No. I have to analyze the infected people. The university has an especially high proportion of people complaining of feeling unwell, even within Tokyo. But some people are completely fine. I have to find out what causes that difference... If this university is the infection's ground zero... But even then, there are strange things..."
+"No. I have to analyze the infected. Even for Tokyo, the university has an especially high rate of people reporting symptoms. But some people are perfectly fine. I need to find out what makes the difference... If the university is ground zero for the infection... But then some things don't add up..."
 
-Ohinata said that and tried to continue organizing the data in the documents, but there was no strength in her voice or hands, and the words coming from her fountain pen were shaky.
+Ohinata tried to go back to compiling the data from her papers, but there was no strength in her voice or her hands, and her fountain pen left a shaky scrawl.
 
 "No. Get some rest, okay?"
 
-The Blue Witch forcibly took the fountain pen away, pushed the documents aside, and carried Ohinata to the sofa without giving her a choice.
+The Blue Witch pried the fountain pen from her fingers, pushed the papers aside, and scooped Ohinata up and laid her on the sofa before she could object.
 
-Ohinata fussed a little and reached for the unfinished work, but when she lay on the soft sofa and the Blue Witch covered her with a blanket, even her will to get up seemed to give out.
+Ohinata fussed a little and reached for her unfinished work, but once she was lying on the soft sofa with a blanket over her, her will to get up seemed to crumble.
 
-The Blue Witch held Ohinata's little hand, gently stroked her cheek, and spoke to her.
+The Blue Witch held Ohinata's small hand and gently stroked her cheek. "Have you seen a doctor? Want me to go get one?"
 
-"Have you seen a doctor? Should I go get one?"
+"The doctors are sick too. Have you seen what the city's like? Half the people are ill. And not just in Bunkyo Ward. These symptoms might be spreading across all of Tokyo—no, all of Japan..."
 
-"The doctors have fallen ill too. Did you see the city? Half the citizens are unwell. It isn't just Bunkyo Ward. This symptom might be spreading across all of Tokyo—no, all of Japan..."
+Watching Ohinata close her eyes and speak so weakly sent a chill through the Blue Witch.
 
-The Blue Witch shuddered as Ohinata closed her eyes and spoke weakly.
+She put a hand to Ohinata's forehead, but there was no fever. No sweating, either.
 
-The Blue Witch put a hand to Ohinata's forehead, but there was no fever. She wasn't sweating either.
+Yet Ohinata lay completely limp, so weak she looked like she might die right then and there.
 
-But she was limp and weak.
+"So I have to—I have to look into it. I have to find out what's causing this illness..."
 
-She was so weak that it seemed as though she might die like this.
+Before she could finish, Ohinata's hand went slack.
 
-"So I have to, I have to investigate. I have to find the cause of this illness..."
+The Blue Witch called her name in a panic and felt for a pulse. There was a heartbeat. She could hear soft sleeping breaths, too, and once she realized Ohinata had only fallen asleep, she wiped the cold sweat from her brow.
 
-Partway through her words, strength left Ohinata's hand.
+Right. If Ohinata was this worn out, sleep had to be the best way for her to get her strength back.
 
-In a panic, the Blue Witch called her name and felt for her pulse. She felt her heartbeat and heard her sleeping breaths. Once she realized Ohinata had only fallen asleep, she wiped away her cold sweat.
+The Blue Witch couldn't wake her, but she couldn't leave her sleeping on the sofa forever either.
 
-Yes. If Ohinata was this weak, sleep had to be the best way for her to recover.
+After a moment's hesitation, she picked up the sofa with Ohinata still on it and carried it to the university infirmary.
 
-She could not wake her, but she could not leave her sleeping on the sofa forever either.
+Every bed in the infirmary was taken.
 
-After hesitating, the Blue Witch lifted Ohinata together with the sofa and headed for the university infirmary.
+Students just as pale and limp as Ohinata filled them all, and some were even sitting on the floor.
 
-The infirmary beds were all full.
+Scowling, the Blue Witch grabbed only some clean sheets and blankets, made up a makeshift bed in an empty classroom, and carried Ohinata in to lie down. She also made sure to write in big red permanent marker on the classroom entrance: "MEDICAL PERSONNEL WANTED. I WILL KILL ALL OTHER INTRUDERS. BLUE WITCH."
 
-Students as pale and limp as Ohinata occupied every bed, and some were even sitting on the floor.
+If this was an infectious disease, isolating Ohinata now wouldn't do much good. Still, letting her mix with other infected people wouldn't help either.
 
-Frowning, the Blue Witch took only clean sheets and blankets, made a temporary bed in an empty classroom, carried Ohinata in, and laid her down. She did not forget to write in large red permanent marker on the classroom entrance: "MEDICAL PERSONNEL WANTED. I WILL KILL ALL OTHER INTRUDERS. BLUE WITCH."
+The Blue Witch stayed by her side and nursed her as the sun went down, the moon rose and set, and morning came.
 
-If this was an infectious disease, isolating her now would not mean much. But there was no reason to let her come into contact with other infected people either.
+Ohinata drifted between shallow sleep and hazy waking, and the Blue Witch gave her water and fed her softened bread. When Ohinata got hot, she pulled the blanket off; when she got cold, she put it back. She helped her to the toilet, too.
 
-The Blue Witch stayed at her side and nursed her from sunset until the moon rose and set and morning came.
+At one point Ohinata groaned in her sleep, reaching for something, and when the Blue Witch took her hand, the girl murmured, "Dad." It made the Blue Witch's heart ache.
 
-She gave water to Ohinata as she went back and forth between light sleep and hazy wakefulness, and fed her softened bread. When she was hot, she removed the blanket. When she was cold, she covered her with it. She helped her use the toilet too.
+She could never be this bright, sweet girl's father. But she could be something like a big sister, and she wanted to believe she already was.
 
-The Blue Witch's heart ached when she held Ohinata's hand as the girl tossed in her sleep, reached for something, and murmured, "Dad."
+As night gave way to morning, the Blue Witch watched the sun come up, let out a long, deep breath, rolled her shoulders, and rubbed her eyes.
 
-She could not become this clever, lovable girl's father, but she wanted to believe she could be like an older sister, that she already was.
+Her body felt unusually heavy. She put it down to the nursing, until a few seconds later she remembered she was a witch.
 
-When morning came, the Blue Witch watched the rising sun, let out a deep, long breath, rolled her shoulders, and rubbed her eyes.
-
-Her body was unusually heavy. At first she thought it was exhaustion from nursing Ohinata, but a few seconds later, she remembered that she was a witch.
-
-There was no way she could be this tired after only nursing someone for one night.
+There was no way one night of looking after someone should wear her out this much.
 
 The Blue Witch was stunned.
 
 I'm infected too!
 
-Since becoming a witch, she'd never gotten sick. Her body should have been tough enough to completely heal even a small cut in a day.
+She hadn't been sick a single day since becoming a witch. Her body was supposed to be tough enough that a small cut healed completely by the end of the day.
 
-As she looked at both hands in disbelief, someone knocked on the door of the classroom she'd turned into Ohinata's private sickroom.
+She was staring at her hands in disbelief when someone knocked on the door of the classroom she'd turned into Ohinata's private sickroom.
 
-"Excuse me—huh? What's this... Ah, Blue Witch!? E-excuse me!"
+"Excuse meee— Hm? What's this... Ah, the Blue Witch!? E-Excuse me!"
 
-The person knocking seemed to have noticed the scribble on the entrance just before opening the door. Hurried footsteps ran away down the hall.
+Whoever it was had apparently spotted the scrawl on the entrance just before opening the door. Hurried footsteps ran off.
 
-But as they left, they pushed a sheet of paper through the gap in the door.
+But before they went, they'd shoved a sheet of paper through the gap in the door.
 
-The Blue Witch pulled the paper out through the gap and read it.
+The Blue Witch pulled it through and read it.
 
-The ink on the printed notice wasn't even dry yet, but it contained important information.
+The letterpress ink wasn't even dry yet, but the notice carried important information.
 
-> The illness currently spreading becomes severe if a person has experienced magic-power-depletion fainting even once, and its mortality rate suddenly rises to 100%. Those with little magic power should especially refrain from using magic.
+> The illness currently spreading becomes severe in anyone who has experienced magic-power-depletion fainting even once, and its mortality rate then jumps to 100%. Those with little magic power should be especially careful to refrain from using magic.
 >
 > Make sure this is thoroughly communicated. Bunkyo Ward Medical Team
 
-The Blue Witch crushed the paper in her hand.
+The Blue Witch crushed the paper in her fist.
 
 The warning had come far too late.
 
-With the spread of fertility magic and fire magic, more than half of Tokyo's residents had definitely experienced magic-power-depletion fainting.
+Thanks to the spread of fertility magic and fire magic, well over half of Tokyo's residents had definitely been through magic-power-depletion fainting already.
 
-At Tokyo Magic University in particular, the entrance exam included a magic-power test that pushed applicants to their limit. Ninety-nine percent had experienced magic-power-depletion fainting.
+At the Magic University especially, the entrance exam included a magic-power capacity test that pushed applicants to their absolute limit, so 99% of its people had experienced magic-power-depletion fainting.
 
-Naturally, Ohinata, at the forefront of magic linguistics, had also fainted from magic-power depletion many times.
+Naturally, Ohinata, on the cutting edge of magic linguistics, had fainted from magic-power depletion many times herself.
 
-And the Blue Witch, too, had fainted from magic-power depletion once when she defeated the giant kaiju.
+And the Blue Witch had fainted from magic-power depletion once too, when she brought down the giant kaiju.
 
-The Blue Witch had started rolling down a slope toward death.
+The Blue Witch had begun to roll downhill toward death.
 
 ---
 
-The Blue Witch returned home to Ome while she still had enough strength to move.
+The Blue Witch went home to Ome while she still had the strength to move.
 
-The Blue Witch had killed a great many people. Sometimes it had been revenge, sometimes self-defense, and sometimes collateral damage in order to save more people. She had had her own reasons, but killing was killing. The grudges she had earned were countless.
+She had killed a lot of people. Some of it had been revenge, some self-defense, and some collateral damage to save more lives. She'd had her reasons, but killing was killing, and she'd earned more grudges than she could count.
 
-What frightened her most was that retaliation against her—something she'd never had to worry about while she was strong—might now drag in the people she cared about.
+She had always been strong enough that retaliation was never worth a second thought. Now, what frightened her more than anything was that retaliation aimed at her might drag in the people she cared about.
 
-On the way home, the lifeless streets forced the Blue Witch to remember the very early days of the disaster.
+On the way home, the lifeless streets brought back the earliest days of the disaster, whether she liked it or not.
 
-The doors of houses were tightly shut, and few people walked the streets. Even if someone had fallen by the roadside and was not moving, no one had any room to worry about them.
+Doors were shut tight, and hardly anyone was out walking. Even if someone collapsed at the roadside and didn't move, nobody had the energy to spare for them.
 
-Only a few days ago, the city had been full of lively noise. But now it was quiet as if its fire had gone out.
+Just a few days earlier, the city had been bustling and full of life. Now it had gone dead quiet.
 
-The sight of a dried-out flower bed and its withered flowers left the Blue Witch depressed.
+The soil in one house's flower bed had dried out completely, and the flowers had withered. The sight left the Blue Witch gloomy.
 
-The Tokyo Witches' Council had splendidly made the flowers of reconstruction bloom in Tokyo, but that beauty had only lasted a moment. It had been something that withered so quickly.
+The Witches' Council had made the flowers of recovery bloom all over Tokyo, and done it splendidly, but that beauty had lasted only a moment. It had been the kind of thing that withered almost at once.
 
-Once she reached home, the Blue Witch slept to conserve even a little strength.
+Once she made it home, the Blue Witch went to sleep to save what strength she could.
 
-And when she woke up, a mushroom was growing from her head.
+And when she woke up, there was a mushroom growing out of her head.
 
 "...What is this?"
 
-In the bathroom mirror, the Blue Witch saw the mushroom growing on top of her head. Its familiar color and shape brought back an unpleasant memory.
+When the Blue Witch saw the mushroom on top of her head in the bathroom mirror, its familiar color and shape brought an ugly memory flooding back.
 
-Its cap was mottled a poisonous-looking purple and red, and its stalk was wrinkled like a disgusting human face.
+A cap mottled in poisonous purple and red, and a stalk creased with wrinkles like a creepy human face.
 
-The only difference was size: that one had been human-sized, while this one was palm-sized. Otherwise, it looked exactly like the mushroom monster the Iruma Mage had controlled with puppetry magic.
+Apart from the size—human-sized then, palm-sized now—it was a dead ringer for the mushroom monster the Iruma Mage had controlled with puppetry magic.
 
-When they had defeated the mushroom monster, its corpse had exploded.
+When they'd killed the mushroom monster, its corpse had exploded.
 
-It had exploded into tiny pieces.
+It had exploded into fine powder.
 
-The blast itself had not been strong, but nearly everyone from the Tokyo Witches' Council who had been at the battle had been covered in the scattered powder.
+The blast itself had been weak, but nearly every member of the Witches' Council at that fight had been showered with the powder it scattered.
 
-She had not thought about it then, but perhaps that powder had not been ordinary powder. Perhaps it had been mushroom spores.
+She hadn't given it a thought at the time, but maybe that powder hadn't been ordinary powder. Maybe it had been mushroom spores.
 
-If the witches had been infected then, had become unwitting carriers, and spread the fungus across all of Tokyo... that would explain the current disaster.
+If the witches had been infected back then, become carriers without realizing it, and spread the fungus all over Tokyo... that would explain the disaster they were in now.
 
-The Blue Witch put scissors to the mushroom on her head and carefully cut it off, base and all, while looking in the mirror.
+Watching in the mirror, the Blue Witch set the scissors at the base of the mushroom and carefully snipped it off, stem and all.
 
-It was clearly a foreign object. There was no way something like that should be growing from her head.
+It was obviously a foreign object. Something like that had no business growing out of her head, or so she'd reasoned.
 
-But cutting it off was a huge mistake.
+That turned out to be a huge mistake.
 
-The moment she cut off the mushroom, magic power was sucked out of her whole body so suddenly that it made her dizzy. In only a few seconds, the exact same mushroom grew in the exact same spot on her head.
+The instant she cut it off, magic power was sucked out of her whole body so fast it made her dizzy, and within a few seconds an identical mushroom had grown back in exactly the same spot.
 
-She hadn't just lost a huge amount of magic power at once. Her condition had suddenly worsened too.
+She hadn't just burned through a huge amount of magic power at once. Her condition had taken a sharp turn for the worse, too.
 
-Her body no longer just felt heavy. It took willpower just to stay standing.
+She was far past feeling sluggish now. It took willpower just to stay on her feet.
 
-Hating her own carelessness, the Blue Witch dragged her heavier body along, slapped her cheeks to clear her dulling mind, staggered into the study, and ripped books off the shelves.
+Cursing her own carelessness, the Blue Witch dragged her heavy body along, slapped her cheeks to clear her fogging head, stumbled into the study, and tore through the bookshelves.
 
-She dug out a mushroom field guide bought for her as a child, one she'd never even read halfway, and desperately flipped through its pages.
+She dug out a mushroom field guide someone had bought her as a child, one she'd never gotten even halfway through, and flipped through it as if her life depended on it.
 
 ![p207.jpg](images/p207.jpg)
 
-There was no way it would say anything about that mushroom monster, but she wanted even the smallest clue.
+Of course it wasn't going to say anything about that mushroom monster, but she wanted any clue she could get.
 
-If I can't cut it, should I burn it? Would burning it make things even worse? What about freezing it? That might make things worse too...
+If I can't cut it, should I burn it? Or would burning it make things even worse? What about freezing it? That might make things worse too...
 
-Naturally, the mushroom field guide had no treatment for mushroom disease.
+Naturally, the field guide said nothing about how to treat mushroom disease.
 
-But it did give her the worst possible piece of information.
+But it did give her the worst possible news.
 
-Some kinds of mushrooms spread mycelium through their growing medium before sprouting mushrooms above ground.
+Some kinds of mushrooms spread mycelium through their growing medium before they ever sprout above ground.
 
-Even if it looked as though a giant mushroom had sprouted from rotten wood in only a few days, it had actually spent months beforehand spreading roots through the wood.
+A giant mushroom may seem to spring up from a rotting log in just a few days, but it has actually spent months before that threading its roots through the wood.
 
-Then, after spending months spreading its roots through the entire rotten log and preparing itself, it finally sprouted mushrooms all at once and grew.
+Only after months of working those roots through the entire log, when everything is ready, does it finally send up its mushrooms all at once.
 
-From that information and the sensation of magic power being sucked out of her whole body when the cut mushroom rapidly regenerated, the Blue Witch realized that the mushroom monster's mycelium had already completely invaded her body.
+Between that and the way magic power had been sucked out of her whole body as the cut mushroom grew back, the Blue Witch understood that the mushroom monster's mycelium had already overrun her entire body.
 
-The mushroom on top of her head was only the visible tip of the iceberg.
+The mushroom on top of her head was just the visible tip of the iceberg.
 
-The mycelium spreading throughout her whole body was the real cause.
+The real culprit was the mycelium spreading through every part of her.
 
-If that was the case, there was nothing she could do.
+In that case, there was nothing she could do.
 
-She could not cut it out, and if she wanted to burn it all, she would have to turn her entire body to ash.
+She couldn't cut it out, and burning all of it would mean burning her whole body to cinders.
 
-The Blue Witch tried to cool herself with freezing magic and lower her temperature to slow the mushroom's growth even a little, but whether it was because the illness had progressed, she could no longer control her magic power well enough to activate it.
+The Blue Witch tried to chill herself with freezing magic, hoping a lower temperature would slow the mushroom's growth even a little, but maybe because the illness had progressed, she couldn't control her magic power well enough, and the spell wouldn't activate.
 
-Even when she recited an incantation, she could feel the mushroom stealing and absorbing the magic power that should have formed the spell.
+Even when she recited the incantation, she could feel the mushroom snatching the magic power that should have formed the spell and soaking it up.
 
-Sick as she was and unable even to use magic, the Blue Witch despaired.
+Horribly sick, and now cut off from her magic as well, the Blue Witch fell into despair.
 
-Then there's nothing left but to die, is there?
+Then all that's left is to die, isn't it?
 
-At this rate, the mushroom will keep sucking up my magic power and strength until I die as its growing bed.
+The mushroom will keep sucking up my magic power and my strength until I die as its seedbed.
 
-Whether he had intended it or not, the Iruma Mage had left behind the worst time bomb. The Blue Witch cursed him. No matter how many times she killed that bastard, it would never be enough.
+Had he planned it, or was it chance? Either way, the Iruma Mage had left behind the worst possible time bomb, and the Blue Witch cursed him. No matter how many times she killed that bastard, it would never be enough.
 
-Then she remembered that Ori lived deep in the mountains, probably knew nothing, and needed to be told about mushroom disease.
+Then it suddenly came back to her: Ori lived deep in the mountains and probably hadn't heard a thing. She had to tell him about the mushroom disease.
 
-The Blue Witch was Ori's source of information. If the Blue Witch said nothing, Ori knew nothing.
+The Blue Witch was Ori's source of news. If the Blue Witch said nothing, Ori knew nothing.
 
-She didn't know whether Ori had experienced magic-power-depletion fainting. If he hadn't, she needed to warn him before the illness turned severe and its mortality rate shot up to 100%.
+She didn't know whether Ori had ever experienced magic-power-depletion fainting, but if he hadn't yet, she needed to warn him before the illness could turn severe—before his mortality rate could shoot up to 100%.
 
-Her mind had slowed so much that she had failed to notice even that.
+Her head had gotten so sluggish that she hadn't even realized that until now.
 
-But even when she tried to send a warning through an eyeball familiar, she could no longer speak. Only a hoarse breath came out, not a voice.
+But when she tried to send a warning through an eyeball familiar, her voice was already gone. Nothing came out but a hoarse, voiceless breath.
 
-The Blue Witch was not afraid of dying herself.
+The Blue Witch wasn't afraid of dying herself.
 
-She had left that fear behind long ago.
+She'd gotten past that worry long ago.
 
-The only thing she feared was failing to protect the people she cared about. She was afraid their lives would slip through her hands.
+What she was afraid of, and only that, was failing to protect the people she cared about. She was afraid of letting their lives slip through her fingers.
 
-There was nothing more she could do for Ohinata. In her current state, it would be dozens of times better to leave her to the Bunkyo Ward Medical Team than to try to interfere herself.
+There was nothing more she could do for Ohinata. In her sorry state, leaving Ohinata to the Bunkyo Ward Medical Team would be dozens of times better than butting in herself.
 
-But she had to do something for Ori.
+But Ori was her responsibility. She had to do something.
 
-If she couldn't communicate through an eyeball familiar, she would have to walk to Okutama.
+If she couldn't reach him through an eyeball familiar, she'd just have to walk to Okutama.
 
-The Blue Witch crawled out of bed, then crawled down from the second floor to the first as if sliding down the stairs.
+The Blue Witch crawled out of bed and half slid, half crawled down the stairs from the second floor to the first.
 
-She was moving on willpower rather than stamina.
+It was willpower moving her now, not stamina.
 
-After taking nearly an hour to crawl less than 10 m, the Blue Witch noticed a letter lying beneath the front door.
+It took her nearly an hour to crawl less than ten meters, and then she noticed a letter lying under the front door.
 
-A letter... When had it been delivered?
+A letter... When did that get here?
 
-Come to think of it, hadn't the doorbell rung a while ago?
+Now that she thought about it, she had a feeling the doorbell had rung a while back.
 
-Even the Blue Witch's hearing had weakened.
+Even her hearing had grown weak.
 
-She blinked again and again through her blurred vision and checked the sender.
+Blinking again and again to clear her blurry vision, she checked who it was from.
 
 The sender's name was "Foresight Mage."
 
-He could have sent an eyeball familiar, yet he had gone out of his way to send a letter. What was he thinking?
+Why would he go to the trouble of sending a letter when he could just fly an eyeball familiar over? What was he thinking?
 
-Her hazy question was answered by a hazy realization.
+The hazy question found a hazy answer.
 
-The mushroom had invaded Foresight too, leaving him unable to use magic.
+The mushroom had gotten into Foresight too, and he couldn't use magic anymore.
 
-If his symptoms had progressed that far, he couldn't come to see her himself either.
+If his symptoms were that far along, he couldn't come see her in person either.
 
-He had no choice but to rely on a letter.
+A letter had been his only option.
 
 What had Foresight seen?
 
 What was he trying to tell her?
 
-The Blue Witch still had not let down her guard around Foresight.
+The Blue Witch still hadn't let her guard down around Foresight.
 
-Iruma, like Foresight, had seemed sincere. He had seemed capable. Everyone had trusted him.
+Iruma had seemed sincere, just like Foresight. He'd seemed capable. Everyone had trusted him.
 
-But he had been planning an outrageous coup.
+And all the while, he'd been plotting an outrageous coup.
 
-I want to believe Foresight, but I can't trust him completely...
+I want to believe Foresight, but I can't trust him all the way...
 
-Her mind had grown so dull that even that unease was gone.
+Her mind had dulled so much that even that lingering doubt was gone.
 
-It was hard to think now.
+Thinking was hard now.
 
-If Foresight was showing her hope, the Blue Witch had no choice but to cling to it.
+If Foresight was offering her hope, all the Blue Witch could do was cling to it.
 
-The Blue Witch tried to open Foresight's letter and read it.
+She tried to open his letter and read what was inside.
 
-But she no longer had the strength to open the letter.
+But she no longer had the strength to open it.
 
-Again and again and again, she tried to open the letter that was only sealed with glue, and failed.
+Over and over and over, she tried to open the letter, which was only glued shut, and failed.
 
-Tears spilled out helplessly.
+Tears spilled out, and she couldn't stop them.
 
-Hope was in her hands, but she could do nothing.
+Hope was right there in her hands, and she couldn't do a thing with it.
 
-Despair invaded her whole body, and she could not see the light.
+Despair had invaded her whole body, and she could see no light.
 
-She lost all sense of time and did not know how much time had passed.
+She lost all sense of time and had no idea how long had passed.
 
-Then the Blue Witch suddenly felt someone take the letter from her hand.
+Then, out of nowhere, the Blue Witch felt someone take the letter from her hand.
 
 "Huh? What're you doing? What's this letter?"
 
-Even in the middle of an unprecedented biohazard, Ori's carefree voice, with no sense of danger at all, somehow sounded incredibly reassuring to her now.
+They were in the middle of an unprecedented biohazard, and Ori's carefree voice didn't carry the slightest sense of danger. Yet right now, somehow, it sounded incredibly reassuring.
 
-Wrapped in that relief, the Blue Witch stopped fighting to stay conscious and fell into a coma.
+Wrapped in that relief, the Blue Witch let go of the consciousness she'd barely been holding on to and fell into a coma.

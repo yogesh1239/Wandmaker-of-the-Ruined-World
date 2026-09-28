@@ -475,3 +475,34 @@
 
 ### Post-Migration Corrections
 - **Part 1, source line 31 (死者従属魔法)**: “dead-subordination magic” → “dead-control magic” — glossary
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source in two segments split at the second `---` (user ruling 2026-09-28: narration stays past).
+- Segment 1 (`reedit-v1c11-s1`): EN start → before second `---` / JP 1–789; ~110 edits. Short share 38.1% → 36.9%; runs 12 → 10.
+- Segment 2 (`reedit-v1c11-s2`): second `---` → end / JP 790–1600; ~110 edits. Short share 32.8% → 30.2%; runs 14 → 12.
+- Whole chapter: short share 35.5% → 33.6%; runs 26 → 22. Remaining runs are deliberate panic, combat, and punchline beats ("Yeeeeessss! / She's here!…", "Hmph, idiot!… Handcuffs are useless!", "Don't forget it. Don't forgive her."). Seam at the second `---` read by the lead; clean.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 大日向教授は毎回手紙にお菓子をつけてくる; 脱走で問題になるのは手錠; ヒカリモノ好きらしい; red-stone appraisal (EN 449–455); それで腑に落ちた; 既に俺の加工技術がバレている; 「そんなに悪くない」ようだ; 食料事情は良いようだ; 竜の魔女の処遇は…決まる; 最近食糧事情がグッと良くなった; 普及はやはり偉大だった; crowd and crystal-rain descriptions — tense (audit reversal)
+- **俺は器用さで世界を獲れる男だぞ**: past → present direct taunt "I'm a man whose dexterity could conquer the world!" — tense
+- **Closing 俺はそう信じている block**: kept present as Ori's closing statement of belief — tense
+- **生きている相手を特異的に攻撃する魔法を死体に撃っても…**: agent corrected (the spell is fired at the corpse) — accuracy
+- **軽い地響きと共に近くに着陸した音がする**: sight → sound ("heard it land somewhere nearby with a light tremor") — accuracy
+- **来るなっ、来るっ**: "Stay back! No, you're coming—" → "Stay back! Stay b— Wait…" — accuracy
+- **鍬や鋤**: "hoes and plows" → "hoes and spades" — accuracy
+- **言いがかりなの…保護したの**: → "That's slander… took it into protective custody." — accuracy
+- **逆鱗に触れなければ**: → "unless you truly enrage her" — accuracy
+- **Dragon pronoun**: "it" → "she" once identified (EN 267, 281, 509) — referent
+- **Glossary**: "magical creature" → "magical life-form"; bare "chant" → "cast"/"recite" — glossary
+- [polish] Stranded speech tags attached (竜の魔女は自慢げに言った; "You're alive...!" she said, her voice shaking.); front-loaded modifier stacks split (mannequin hairpin; 他の魔女との対立を嫌がる様子がない; the half-frozen Dragon Witch's plea); どっか行け / どっか行きます echo kept as "go away" / "I'll go away"; 小太りおじさん → "the pudgy man" — polish
+- [punct] Missing blank lines restored (EN 265/267; EN 529/531 split the Dragon Witch's line from the preceding narration); one straight-quoted incantation → curly, closing "!" per 恵みあれ！ — punct
+
+### Register and Flow
+**Dragon Witch:** の never mechanically reproduced (per voice record). Open for user: at EN 345 Ori mocks her なの ending, so his follow-up "Quit with the cutesy sentence endings" lacks an English setup. **Zaizen:** polite, -sama retained. Possible author slip left as-is: JA ~143 has both 花の魔法使い and 花の魔女 in one paragraph ("Flower Mage", "Flower Witch").
+
+### Formatting Confirmed
+- Scene breaks, `image_rsrc50D`/`50E`, ruby spans, `[^1]`–`[^2]`, notes unchanged; `check_reedit.py` PASS on both slices and whole file; `run_chapter_gates.py --unit 1 --chapter 11` ALL PASS.
+
+### User Ruling — 2026-09-28
+- **花の魔法使い** (JP line 154): "Flower Mage" → "Flower Witch". The same sentence says 花の魔女, and the series title is Flower Witch everywhere else. Ruled by the user. — glossary

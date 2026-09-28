@@ -48,3 +48,33 @@
 ### Formatting Confirmed
 - Source title metadata omitted; `the Blue Witch's sister` remains unintroduced; glossary forms, narrative/direct-thought tense, punctuation, and absence of footnotes verified.
 - Inline image preserved exactly as `![allcover-001.jpg](images/allcover-001.jpg)`.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–67 / JP lines 1–104; agent `reedit_v2c19_s1`, Codex subagent on gpt-6-astra/xhigh, coordinator gpt-5.6-sol/high; ~22 paragraph-level edits). Flow: short-sentence share 28.1% → 23.3%; runs 1 → 0; mean sentence length 13.9 → 14.3 words.
+
+### Accuracy Fixes
+- **こんなモンはね、簡単なんですよ**: "This stuff's easy, you know." → "This stuff was easy." — tense
+- **見た光景を…紙に出力するだけ**: "All I have to do…what I see" → "All I had to do…what I saw" — tense
+- **ただの単純作業だ**: "It's just a simple task." → "It was simple work" — tense
+- **病人の我儘に付き合うのも楽じゃない**: "isn't easy" → "wasn't easy" — tense
+- **ド下手クソ**: "horribly bad" → "total crap" — voice
+- [polish] **会話を目的にした会話**: "Talking for the purpose of talking?" → "Just for the sake of talking?" — polish
+- [polish] **俺の専門は魔法杖…手工芸**: two explanatory sentences → "magic wands—handicrafts, not drawing" — polish
+
+### Register and Flow
+**Ori Kenshi:** kept the abrupt questions, blunt craft theory, and casual first-person voice. JP line 72 and the final complaint were reclassified from the earlier audit's direct-commentary reading to ordinary narration and restored consistently to past. The chapter had no segment seam; its sole choppy run was removed without flattening the dialogue beats.
+
+**Blue Witch:** kept terse, plain dialogue and the quiet memory beat without added explanation.
+
+### Formatting Confirmed
+- Whole-file `check_reedit.py` PASS; flow improved from one short-sentence run to none; `![allcover-001.jpg](images/allcover-001.jpg)` remained byte-exact.
+- `run_chapter_gates.py --unit 2 --chapter 19` ALL PASS; all-volume consistency checks for Volumes 1–4 passed.
+- No reference-file change was required.
+
+### Lead Review
+- **こんなモンはね、簡単なんですよ…ただの単純作業だ** (JP line 72): tense reversal reverted. The ね/ですよ aside is direct monologue to the reader, so it stays present → "This stuff's easy, you know. All I have to do is move my hand and put exactly what I see on paper. It's simple work, nothing more than a dull way to kill time." — tense
+- **やれやれ。病人の我儘に付き合うのも楽じゃない** (JP line 102): tense reversal reverted. The closing やれやれ is direct thought → "Putting up with a sick person's whims isn't easy." — tense
+- **分かってねぇなぁ。例えば…**: removed the "Blue Witch," vocative the agent had added, which the JP doesn't have → "you know that picture your sister drew, the one hanging in the kitchen?" — accuracy
+- **絵が上手いかどうかで言えばド下手クソ**: "The drawing's total crap, sure" → "Skill-wise, it's total crap" (restores the skill qualifier) — accuracy
+- Rechecked: `check_reedit.py` PASS.

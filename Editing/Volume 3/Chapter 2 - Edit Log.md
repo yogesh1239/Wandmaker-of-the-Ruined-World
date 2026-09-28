@@ -97,3 +97,43 @@
 - `![p024.jpg](images/p024.jpg)` preserved exactly; narrative/direct-thought tense distinction verified.
 - Okyaku / Ookami-san, Hii-chan, fire fairy, Sendai, Lake Biwa Pact, Arataki Group, dragonport, secret sauce, and Monster Trap verified against glossary locks.
 - One-one-one mnemonic preserves one day, one top-up, one-tenth; matagi note marker and terminal `## Translator Notes` section verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–463; agent `reedit_v3c2_s1`; model `gpt-5.6-sol` at high reasoning; ~116 paragraph edits). Flow: short-sentence share 9.0% → 12.9%; runs 0 → 0. Narration was already past.
+
+### Accuracy Fixes
+- **選考が理由で兄はひっそりと出て行った**: restored the selection as the cause and the older brother as the one who left — referent
+- **二千人ほど**: removed unsupported “only”; retained “around 2,000” — accuracy
+- **目を庇い俯いた**: clarified the linked actions as shielding the eyes and looking down — accuracy
+- **秘伝のタレ**: preserved the source distinction among multiple species rather than collapsing the explanation — accuracy
+- [polish] The Dragon Witch's dive, the honey-trap thought, and the closing eye-widening reaction were rebuilt in natural English order — polish
+
+### Register and Flow
+The chapter's dialogue stayed casual and character-specific. No tense reversal was needed: narration was already past, and direct thoughts remained in natural speech tense.
+
+### Formatting Confirmed
+- `![p024.jpg](images/p024.jpg)`, the one-one-one mnemonic, the `matagi` marker, and the terminal note were preserved exactly.
+- Locked glossary forms, honorifics, names, and technical values were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 116 changes)
+- **充分すぎるほど** (JP 16): "More than huge enough" → "More than enough." — polish
+- **防衛線の外へ粛々と出ていき** (JP 55): "left the community's defensive line" → "walked out beyond" it — accuracy
+- **何より** (JP 67): "Worst of all" → "Above all" — accuracy
+- **豊穣魔法を教わった恩があるから** (JP 70): restored the explicit debt for being taught fertility magic; removed antecedent-less "That debt was why" — accuracy
+- **豊穣魔法と同時にキノコ病も** (JP 73): removed implied causation; disease "reached Sendai along with fertility magic" — accuracy
+- **一時的にでも** (JP 79): "Even Okyaku's temporary departure" → "Leaving Sendai…, even temporarily" — accuracy
+- **目玉の魔女に手渡された / 忙しなく** (JP 127): restored who handed over the necklace; "promptly" → "hurriedly" — accuracy
+- **落ち着いた声で一礼した** (JP 142): split "bowed in a calm voice" zeugma into bow + calm voice — polish
+- **両手で精一杯握りしめ** (JP 151): restored "as hard as she could"; dropped added "tiny" — accuracy
+- **照準を向けられたのを感じた** (JP 196): restored "he sensed" — accuracy
+- **なんて言うもので** (JP 250): "He's always saying things like…, which is why"; removed redundant "so that's why" — polish
+- **お任せします** (JP 289): "That works for me" → "I'll leave it in your hands" — accuracy
+- **早速話し始める** (JP 307): restored "got right to it" — accuracy
+- **その場で炙って試食した** (JP 337): moved "on the spot" so it no longer attaches to the jar — polish
+- **仲睦まじく…食べさせ合う** (JP 340): "affectionately traded bites… each feeding the other" — polish
+- **発動待機状態** (JP 394): restored glossary "activation-standby state" — glossary
+- **大狼は知る限りの情報を話す** (JP 427): restored dropped clause "Okyaku told her everything he knew" — accuracy
+- **縋るように聞いてきた** (JP 454): removed added "but … only" — accuracy
+- Re-checked: `check_reedit.py` PASS; `run_chapter_gates.py --unit 3 --chapter 2` ALL PASS.

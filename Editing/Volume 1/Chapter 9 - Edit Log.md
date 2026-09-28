@@ -212,3 +212,31 @@
 
 ### Formatting Confirmed
 - Final chapter and editable Part 2 draft use female pronouns consistently for the secretary.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–634; agent `reedit-v1c9-s1`; ~175 edits). Flow: short-sentence share 13.7% → 11.1%; runs 0 → 0. User ruling 2026-09-28: narration stays past — the chapter is close third on the Foresight Mage, so all audit-era present-tense free-indirect narration returned to past.
+
+### Accuracy Fixes
+- **L15–17 (自分は未来が視え… / 自分がやらねば誰がやる？)**: "He can see… if he doesn't…who will?" → "He could see… if he didn't do it, who would?" — tense (audit reversal)
+- **L97–103 (本当にできた少女だった)**: "She really is an exceptional girl…" → "She really was…" (+ following lines) — tense (audit reversal)
+- **L163–177 (これほど死力を尽くしているのに…仕打ちがこれか？)**: present outburst → past free-indirect — tense (audit reversal)
+- **L183–191 (理解者はいる…出過ぎた願いだろうか？)**, **L309 (寝落ちできる余裕ができただけ上等だ)**, **L409–417 (スローライフを送るのだ)** → past — tense (audit reversal)
+- **（ただし魔物の食害で壊滅した）**: separate sentence → restored parenthesis — accuracy
+- **ネズミ算**: dropped the added "initial 30 plus 900 pupils" explanation — accuracy (addition)
+- **L247 (撃て[ア゙ー])**: removed inline gloss "—written to mean `Fire` but read as a harsh voiced “aagh”—" (duplicated `[^1]`; backticks would render as code) — accuracy (addition; lead edit)
+- **相談役**: "advisors" → "advisers" — glossary
+- **旧東京メトロ丸ノ内線**: "old" → "former" — glossary
+- **研磨**: two "grinding" → "polishing" — glossary
+- [polish] **獅子奮迅の働きをし…邁進**: two sentences merged — polish
+- [polish] **電気ウナギと融合…人魚の魔女と度重なる会合の末**: front-loaded modifiers taken apart — polish
+- [polish] **私が発音練習を監督するのが安全確実。そして効率的です**: two beats kept; Ohinata's phrasing loosened — polish
+- [polish] **秘書はとても強い目で…見つめて言った** (and L217): stranded colon tags removed — polish
+- [polish] **我ながら安上がりにも程がある**: → "He was way too easy to please, the Foresight Mage thought, and laughed at himself." — polish
+
+### Register and Flow
+**Foresight Mage (close third):** weary, self-mocking; past-tense frame restored. **Matsuo:** L323 aligned with character-reference sample ("You aren't using foresight magic as cover to force through…"). **Secretary:** she/her.
+- Open for user: 撃て[ア゙ー] ruby baseline varies across the series (gaiji image in most chapters; `Agh-` here at L247/L265 and in V2 Ch1 / V3 Ch17; glossary lists `A゙-`); left unchanged.
+
+### Formatting Confirmed
+- Image marker, `[^1]`, notes section unchanged; `check_reedit.py` PASS; `run_chapter_gates.py --unit 1 --chapter 9` ALL PASS.

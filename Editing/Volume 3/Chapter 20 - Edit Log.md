@@ -38,3 +38,25 @@
 
 ### Formatting Confirmed
 - Complete 59-line source scope audited in one chunk for both passes; guide hierarchy, image marker, present-tense instructional mode, glossary locks, measurements, and all item counts verified. No footnotes required.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–37 / JP lines 1–59; agent `reedit_v3c20_s1`; model `gpt-5.6-sol` at high reasoning; ~13 edits). Flow: mean sentence length 16.4 → 15.1 words; short-sentence share 29.0% → 28.1%; runs 1 → 1; words 508 → 485. No past-tense reversals.
+
+### Accuracy Fixes
+- **使役する**: “put to work” → “command” in the taming instructions — accuracy
+- **刻印を受ける人間**: clarified that the human receives the implant — referent
+- **手順 chronology**: reordered the explanation to match the source's preparation and taming sequence — accuracy
+- **群れの長の貢献**: restored the leader's contribution to the pooling process — accuracy
+- **二十羽分を集める**: clarified that twenty birds' portions are pooled — accuracy
+- **軽く噛む**: preserved the deadpan approval sign as “gently nips” — voice
+
+### Register and Flow
+`check_reedit.py` returned FLOW LIGHT PASS. The remaining run is the source's deliberate vending-machine/mailbox/microwave/fifty-kilogram-rock inventory, retained for the dry technical joke.
+
+### Formatting Confirmed
+- The guide hierarchy and image marker remained byte-stable; `check_reedit.py` PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 20` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 13 changes)
+- **その時々で最も適切と判断した場所** (JP 21): restored "at the time" to "whichever location they judge best at the time" — accuracy
+- **この時** (JP 24): restored the link to the rebuild with "During this rebuilding, up to 20 pouch sparrows..." — accuracy

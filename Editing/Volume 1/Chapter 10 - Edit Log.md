@@ -124,3 +124,26 @@
 - All ten test readings, seven-layer structure, thousands of samples, six carry cases, 200 cm waist joke, and one-week duration verified.
 - Fingernail/fingertip context, exact glossary states and terms, past-tense narration, image position, and closing first-rate repetition verified.
 - One image retained once; no title, notes, or scene breaks added.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–421; agent `reedit-v1c10-s1`; ~45 edits). Flow: short-sentence share 19.4% → 14.6%; runs of 3+ short sentences 1 → 0. User ruling 2026-09-28 (narration stays past) applied; no audit reversals were needed.
+
+### Accuracy Fixes
+- **なんだこの魔女？急に気味の悪い邪推をしてきやがったぞ**: mixed-tense thought → "What's with this witch? Where'd that creepy idea come from all of a sudden?" — tense
+- **交換が成立する事もあるそうだ**: "Gremlins could even be traded for food" → "you could sometimes even trade them for food these days" — accuracy (restores もある)
+- **物資未満通貨以上**: "less than goods but more than currency" → "worth more than money but less than actual goods" — accuracy
+- **知らん。グレムリンの成分が……**: → "No idea. The Gremlin's composition does... something, probably?" — voice
+- **５％を笑う魔法杖職人は５％に泣く**: proverb → present tense — tense
+- **身に覚えがある話だ**: → "Now that she put it that way, I'd been there myself." — accuracy
+- **石コロ**: "just stones" → "just rocks" — accuracy (sets up callback)
+- [polish] **爆心地の真っただ中にいるオコジョと文通しているおかげで**: dangling modifier fixed — polish
+- [polish] **データを…突きつけてやると**: → "whenever I shoved a graph… in her face, she was openly impressed" — polish
+- [polish] **器用さの擬人化め。魔女より人間離れしてるぞ**: → "You're further from human than a witch is." — polish
+- [polish] **仕方ないか。自意識過剰じゃなかった**: "it couldn't be helped" removed — polish
+
+### Register and Flow
+**Ori:** casual; direct-thought present kept at JA 67, 151, 225–229, 235, 253–259, 273. **Blue Witch:** "Ori can have them." (uses his name to his face, per source).
+
+### Formatting Confirmed
+- Image marker, headings, quote style unchanged; no notes section; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 10` ALL PASS.

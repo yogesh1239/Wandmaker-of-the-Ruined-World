@@ -2,17 +2,17 @@ The Hinonoya family had been patrons for generations.
 
 Generation after generation, this wealthy family had found talented people trapped by poverty, supported them generously, and led them to success.
 
-According to the oldest record on the scrolls kept in their storehouse, they had been doing this since around the Edo period, nurturing famous tea masters, literary greats, designers, singers, and others and sending them out into the world.
+The oldest record on the scrolls in their storehouse traced the tradition back to around the Edo period. They had nurtured celebrated tea masters, writers, designers, singers, and more, helping them make their names.
 
 They were a noble family who truly loved great art and found joy in supporting and sharing it.
 
-But according to Hinonoya Takuo, the last surviving member of the family, they were just a family of hardcore fans.
+But to Hinonoya Takuo, the family's last survivor, they were just hardcore fans.
 
-They were a family devoted to fandom: they excitedly went around saying, “Isn't this incredible? Look, look!” and promoting things, then loved basking in the pleasure of saying, “I raised this artist,” once they got popular.
+They loved running around hyping up their favorites—“Isn't this incredible? Look, look!”—then smugly taking credit once the artist got popular: “I raised this artist.”
 
-What patron, philanthropist, or investor? Don't use fancy titles, you outdated idiots! Takuo had rebelled against his parents like that, but now he was all alone.
+Patrons, philanthropists, investors—who are you kidding? Quit dressing it up with fancy titles, you out-of-touch idiots! Takuo had railed at his parents that way, but now he was all alone.
 
-The Gremlin Disaster had fallen equally on all humanity, regardless of status or beliefs. There were many old families whose entire line had died out, so the Hinonoya family was better off than most for having even one member carry on the bloodline.
+The Gremlin Disaster had struck everyone alike, regardless of status or beliefs. With so many old families wiped out entirely, the Hinonoyas were lucky to have even one survivor to carry on the line.
 
 Takuo had a favorite artist too.
 
@@ -22,17 +22,17 @@ OK Workshop was the handle of a craftsman active on an online auction site befor
 
 Their real name, age, gender—everything was a mystery.
 
-They had exchanged comments through dozens of auctions Takuo had won, but OK Workshop always wrote in rigidly standardized business language, stripped of personality as much as possible. Takuo did not even know what kind of person they were.
+They'd exchanged messages over the dozens of auctions Takuo had won, but every reply from OK Workshop read like a stiff business template scrubbed of all personality. He couldn't even get a sense of what they were like.
 
 All he had learned from those mechanically polite messages was that OK Workshop was probably not a child, but an adult who knew how to write properly. That was it.
 
-OK Workshop was practically a digital fairy. He knew nothing about how they lived. When the communication networks went silent because of the Gremlin Disaster, Takuo lost every means of checking whether OK Workshop was safe.
+OK Workshop was practically a digital fairy, with no hint of a life offline. When the Gremlin Disaster silenced the communications network, Takuo lost every way of finding out whether they were safe.
 
 The sense of loss was terrifying.
 
-He didn't even ask for the luxury of seeing another OK Workshop masterpiece. He just wanted OK Workshop to be alive. He wanted them to have somehow escaped danger and be living safely, in good health and at peace.
+He wasn't asking for luxuries like seeing an OK Workshop masterpiece again. He just wanted them to be alive—to have somehow escaped danger and be living in good health and at peace.
 
-But he didn't even know where to direct that wish. Even if he wanted to lavish money on his favorite craftsman now, he couldn't make a bank transfer. He couldn't send supplies through a wish list either. What a nightmare!
+But where could he even direct that wish? He couldn't throw money at his favorite craftsman anymore: no bank transfers, no sending supplies through a wish list. What a nightmare!
 
 OK Workshop, please still be alive.
 
@@ -40,65 +40,65 @@ Takuo had wished that for the four years since the Gremlin Disaster began.
 
 But four years was a long time.
 
-The long, long lists of missing people posted at Tokyo ward offices and administrative centers were crossed through with countless black lines, and it was not unusual for districts to stop posting them altogether.
+The long, long lists of missing people at Tokyo ward offices and administrative centers had countless names crossed out in black. In plenty of districts, they'd stopped posting the lists altogether.
 
-After mourning his family, Takuo had tried to track down OK Workshop, the person whose survival concerned him most. But they were an eccentric craftsman who had never shown their face and whom he had only known online.
+After mourning his family, Takuo had tried to track down OK Workshop, the person whose survival concerned him most. But this was an eccentric craftsman who had never shown their face; their entire relationship had been online.
 
-He had spent a period cyberstalking them, so he had narrowed their usual area down to the Tokyo vicinity, but the range was far too broad. He had no idea whether they were safe.
+A stint of cyberstalking had narrowed their location down to somewhere around Tokyo, but that still left far too much ground to cover. He had no idea whether they were safe.
 
-During the first year, Takuo had looked every day at the unofficial anime goods and trinkets made by OK Workshop that he displayed in the exhibition room at home. They gave him the energy to survive those harsh, painful days.
+Takuo had displayed OK Workshop's unofficial anime merchandise and trinkets in an exhibition room at home. During that first year, looking at them every day had given him the strength to survive those harsh, painful times.
 
-During the next year, when he went to tend the hidden rice paddy he had made in a dangerous area without the Tokyo Witches' Council's permission, he carried an OK Workshop wooden figurine as an amulet.
+The next year, he had carried an OK Workshop wooden figurine as an amulet whenever he went to tend his hidden rice paddy. He'd planted it in a dangerous area without the Witches' Council's permission.
 
-From the third year on, he only cleaned the exhibition room on his days off.
+By the third year, all he did was clean the exhibition room on his days off.
 
-Little by little, he was spending less time on his favorite.
+He was spending less and less time on his favorite craftsman.
 
-Even so, the gaping hole in his chest was healing with time, making him keenly aware, for better or worse, of what time could do.
+Yet that hollow feeling in his chest was fading too. For better or worse, time really did make a difference.
 
-He felt like he might accept the loss of OK Workshop, the craftsman he had once been utterly obsessed with.
+He was close to accepting the loss of OK Workshop, the craftsman he'd once been utterly obsessed with.
 
-He did not want to forget OK Workshop.
+He didn't want to forget OK Workshop.
 
 That distinct style was one of a kind: incredibly precise, yet somehow full of the warmth of something handmade. He was certain he would never meet another artist who fit his tastes so perfectly.
 
-And yet, his memories were gradually fading, and the huge-ass feelings that had welled up from deep in his chest whenever he picked up one of their works were shrinking.
+And yet his memories were fading, and so were the huge-ass feelings that had welled up inside him whenever he picked up one of their works.
 
-OK Workshop hadn't released anything new in nearly four years. Naturally, there was nothing new to excite him. Even the fiercest blazing enthusiasm cooled if no fuel was added.
+There'd been no new OK Workshop releases in nearly four years, which of course meant nothing new to feed his excitement. Even the most passionate fan cooled off without fresh fuel.
 
-Takuo wavered between two impulses: to accept the death of OK Workshop, the worst loss in the history of the universe, and look for a new favorite artist he had yet to meet, or to live on while treasuring the memories of his number-one favorite.
+Takuo couldn't decide: accept OK Workshop's death—the worst loss in the history of the universe—and find a new favorite artist, or spend the rest of his life treasuring the memories of his all-time favorite.
 
-The turning point came at Tokyo Magic University's open campus.
+The turning point came at Tokyo Magic University's open house.
 
-Tokyo Magic University recruited students from all across Tokyo. Curious what the magic university he'd heard so much about was really like, Takuo went to an information session and was taken aback by the bustling crowd. He was surprised that this many people still remained in Tokyo.
+Tokyo Magic University was recruiting students from all across Tokyo. Takuo went to an information session, curious to see what this much-talked-about Magic University was like, and found himself in a huge crowd. He hadn't realized there were still this many people left in Tokyo.
 
 It was said that Tokyo's population had fallen to twenty percent since the Gremlin Disaster.
 
-In fact, the number of people in Takuo's neighborhood had visibly decreased, and having lived through the overcrowded city's peak, he could feel civilization's decline firsthand.
+In his own neighborhood, the drop was plain to see. He'd known Tokyo at its most overcrowded, and he'd felt civilization's decline firsthand.
 
-Where there were people, there were plenty of them.
+Some places still had plenty of people.
 
-Many of the open-campus participants were well into middle age or beyond, taking “learning at fifty” literally. The university had sought talent regardless of age or gender, and as a result research and development had made great leaps. Magic wands had begun to spread among civilians, not just witches, so Tokyo Magic University's policy could be called a huge success.
+Many visitors were well into middle age or older, living proof that it was never too late to learn. Research and development had surged ahead thanks to the university's policy of welcoming talent of any age or gender. Now even ordinary civilians were getting magic wands, not just witches. Tokyo Magic University had clearly made the right call.
 
 After looking around the laboratories of the Department of Magic Linguistics, Department of Gremlin Engineering, Department of Monster Studies, and Department of Mutation Studies, Takuo also stopped by the campus store.
 
-The campus store was doing great business too. In particular, people were packed into the magic-item corner beneath a banner reading, “Now Taking Orders for New Works!”
+The store was bustling too, especially the magic-item section, where people crowded beneath a banner reading, “Now Taking Orders for New Works!”
 
 The store had a wide selection: loose-leaf paper, fountain pens, inkpots, abacuses (perhaps as replacements for calculators), Japanese-bound reference books, scissors, all kinds of tools, hardtack, and more.
 
-Most of Tokyo had remained under a rationing system for a long time, so it felt strange for a permanent retail store to be open when it was not even a barter market. The days when twenty-four-hour convenience stores had overflowed with goods around the clock already felt like the distant past.
+Most of Tokyo had been living on rations for so long that seeing a permanent shop instead of a barter market felt strange. The days of twenty-four-hour convenience stores always overflowing with goods already felt like ancient history.
 
 After briefly looking over the products, Takuo grew curious about the banner and squeezed into the jostling crowd.
 
-Takuo wondered what could be drawing this many people.
+What could be drawing such a crowd?
 
-Takuo nearly got crushed as he struggled to reach the front of the crowd, where he saw firsthand what had brought together so many people.
+He fought his way to the front, nearly getting crushed, and finally saw what all the fuss was about.
 
 Inside a glass display case sat a single magic wand.
 
-The explanation card in the case read, “A new work by the master craftsman who made the president's beloved magic wand, the dodecahedral fractal wand Aleister.”
+The label in the case read, “A new work by the master craftsman who made the president's beloved magic wand, the dodecahedral fractal wand Aleister.”
 
-The instant Takuo saw the magic wand carefully displayed on a velvet cushion, his eyes nearly popped out in shock.
+Takuo took one look at the wand resting on its velvet cushion, and his eyes nearly popped out in shock.
 
 What popped out in place of his eyes was a scream that rang through the campus store.
 
@@ -112,11 +112,11 @@ A staff member busy holding back people trying to get a close look at the wand c
 
 But he couldn't hold back his excitement.
 
-OK Workshop, whom he had nearly given up for dead, was alive!
+He'd nearly given up on OK Workshop, but they were alive!
 
 It was a fated reunion.
 
-What a miracle! It was as moving as the Second Coming. His chest grew hot, and tears even welled in his eyes.
+What a miracle! As moving as the Second Coming—his chest felt hot, and his eyes filled with tears.
 
 He wanted that wand, no matter what.
 
@@ -128,79 +128,79 @@ His OK Workshop fever reignited in an instant, and Takuo flagged down a staff me
 
 “I'd like to buy that wand on display.”
 
-“Ah, sorry. That's a sample. It isn't for sale. It's only available made-to-order.”
+“Ah, sorry. That's a display sample, so it isn't for sale. We only sell them to order.”
 
-“I-I see. Then the number 160 written where the price would be is...?”
+“I-I see. Then what does the one hundred sixty listed as the price mean...?”
 
-“Those are evaluation points. At this university, you can earn evaluation points separate from course credits for taking classes and submitting short papers. You can use the evaluation points you save to buy things like this at the campus store. The more you study, the nicer the things you can buy and the better you can live.”
+“Those are evaluation points. Here, taking classes and submitting short papers earns you evaluation points as well as course credits. You can save up your points and spend them on things like this at the campus store. The more you study, the nicer the things you can buy and the better you can live.”
 
-Takuo understood after hearing the explanation. It was far healthier than students cutting into their study time to work part-time jobs so they could make money for their schooling.
+That made sense to Takuo. It was a much healthier setup than having students sacrifice study time to part-time jobs just to pay for their education.
 
-Of course, the system probably only worked because the university was desperately making ends meet behind the scenes, and it was a difficult approach that depended heavily on the good sense of those assigning evaluation points. But if students could solve their everyday problems through studying, that was best. Universities were meant to be places to study.
+Of course, the university must have been scrambling to make ends meet behind the scenes to keep it going. It was a tricky system that relied heavily on the good sense of the people awarding points, but letting students meet their everyday needs by studying was best. A university was supposed to be a place to study, after all.
 
-What mattered now, though, wasn't the magic university's unusual policy.
+What mattered now, though, wasn't Magic University's unusual policy.
 
-He had to get his hands on this new work by his number-one favorite artist, reunited with him by a miraculous twist of fate—a gem of a piece that clearly showed how much their craftsmanship had improved over the past four years!
+By some miracle, he'd found a new work by his all-time favorite artist—a masterpiece that showed how much better they'd gotten in four years. He had to have it!
 
 Takuo leaned forward and asked again.
 
-“How much are 160 evaluation points worth? Just between us, I have a fairly large stockpile of freshly harvested rice. Could we arrange a barter?”
+“How much are one hundred sixty evaluation points worth? Just between us, I have a fairly large stockpile of freshly harvested rice. Could we arrange a barter?”
 
-“Well, we don't barter. The campus store only accepts evaluation points. Earning 160 evaluation points would be tough unless you maintained slightly above-average grades for your year. You're here for the open campus, right? Once you enroll, please work hard so you can buy things like this. I'm rooting for you.”
+“Well, we don't barter. The campus store only accepts evaluation points. Earning one hundred sixty evaluation points would be tough unless you maintained slightly above-average grades for your year. You're here for the open house, right? Once you enroll, please work hard so you can buy things like this. I'm rooting for you.”
 
-As they spoke, the staff member quickly finished stocking the goods, then pushed their empty cart into the back room.
+The staff member quickly finished stocking the shelves as they spoke, then pushed the empty cart into the back room.
 
-Unable to give up, Takuo caught another staff member and asked the same thing, but got the same answer. When he still refused to let it go, the manager who ran the campus store came out and explained that, by the president's policy, they could not sell to anyone but students. It was not the kind of thing they could sell indiscriminately to people whose identities they could not verify.
+Takuo wasn't ready to give up. He tried another staff member, only to get the same answer. When he persisted, the store manager came out and explained that the president had restricted sales to students. They couldn't sell something like this to just anyone without knowing who they were.
 
 Once it was put that way, Takuo had no choice but to back down.
 
-He could accept that the sales were restricted precisely because OK Workshop's works were so highly valued.
+He could accept restricted sales if it meant OK Workshop's work was that highly valued.
 
-Takuo stepped a short distance away from the crowd swarming around the displayed magic wand and quietly listened to the students passionately exchanging opinions about it and the admiring comments from curious visitors.
+Takuo stepped back from the crowd around the display and quietly listened. Students were eagerly discussing the wand, and casual visitors were exclaiming over it.
 
 Hearing the praise felt almost as good as being praised himself, and he smiled.
 
 OK Workshop had made it big!
 
-That same OK Workshop had once gone astray making incomprehensible things that could never sell, such as a hand-knit microwave cover with a bizarre fixation on decorative stitching (he bought it), and a safe robot made from a welded safe (he bought it).
+That same OK Workshop had once lost their way, making baffling things no one could possibly buy: a hand-knit microwave cover with absurdly elaborate decorative stitching (he'd bought it), or a safe welded into a robot (he'd bought it).
 
-Now they were recognized and valued enough for the campus store at Tokyo Magic University, at the forefront of the new age, to hold a fair for them.
+Now their work was known and respected enough to get its own promotion at the campus store of Tokyo Magic University, a leader in this new age.
 
-Takuo had known OK Workshop since their earliest days as a skilled restoration specialist. As one of their oldest fans, nothing had ever made him this happy.
+Takuo had followed OK Workshop since the very beginning, back when they'd been a skilled restoration specialist. As one of their oldest fans, he couldn't have been happier.
 
 He might not be able to get one himself, but this many people were crazy about OK Workshop's works.
 
 He wanted to boast that his home collection held dozens of works made by this extraordinary craftsman back when no one knew their name.
 
-A top-class craftsman as skilled as OK Workshop surely would have risen to success on their own even without any support.
+A top-class craftsman like OK Workshop would surely have made it even without help.
 
 He didn't know how much his own support had contributed to their present success.
 
-But it could not be that all the grassroots work he had done in the online-auction days—introducing them to acquaintances, writing long reviews, and running promotional campaigns—had been completely meaningless.
+But surely all his grassroots efforts back in their online-auction days—introducing them to acquaintances, writing long reviews, running promotional campaigns—had counted for something.
 
-OK Workshop was a solitary craftsman who thoroughly hid their personal information and spoke entirely through their works.
+OK Workshop was a solitary craftsman who kept their identity strictly private and let their work do all the talking.
 
-Takuo wanted to respect their wishes. He had no intention of spreading word of their past activities, which might lead to identifying them.
+Takuo wanted to respect that. He wasn't about to spread stories of their past and risk revealing their identity.
 
-Still, surely he was allowed to quietly take pride in having spotted and supported, from early on, a craftsman who had blossomed so spectacularly in this collapsed world.
+Still, surely he could take a little private pride in having spotted this craftsman's talent early and supported them, now that they'd found such success in a ruined world.
 
-Unable to wipe the utterly smug grin from his face, Takuo chuckled and puffed out his chest at the entire world.
+Takuo couldn't stop grinning smugly as he chuckled and puffed out his chest at the entire world.
 
 “Heh heh heh heh...! I raised OK Workshop!”
 
 Afterword
 
-I realized something. Manga don't have afterwords, do they? Basically. Movies don't either. They only have credits. Why do only novels have a culture of writing afterwords? Wondering that, I flew to the Amazon to solve the mystery, then came home and Googled it like normal.
+I realized something. Manga don't have afterwords, do they? Not usually. Movies don't either, just credits. Why is writing afterwords a thing only novels do? I flew to the Amazon to solve this mystery, then came home and Googled it like normal.
 
-Apparently, the history of afterwords goes back to ancient Rome. People wrote supplementary information and acknowledgments at the ends of books, or so they say. The evidence is a little shaky, but it seems broadly correct.
+From what I found, afterwords apparently date back to ancient Rome, when people would add extra information and acknowledgments at the end of a book. The evidence is a little shaky, but it seems broadly right.
 
-If the above theory is right, it also explains why manga and movies do not have afterwords. Manga and movies are new forms of culture that did not exist in Rome (or perhaps did exist, but died out and never connected to later culture), so they can exist independently of cultural practices passed down from ancient Rome. That left me feeling like, Ohhh, now I get it!
+If that's true, it would also explain why manga and movies don't have afterwords. They're newer art forms that didn't exist in Rome (or did, but died out without passing anything down), so they can develop independently of ancient Roman customs. My reaction was: Ohhh, now I get it!
 
-But then again, manga have fan books, and movies sell pamphlets, so perhaps every kind of content has a de facto afterword after all, just in a different form. Acknowledgments aside, there must be demand for supplementary information in every entertainment industry.
+But then again, manga have fan books, and movies sell programs. Maybe every kind of entertainment has what amounts to an afterword, just in a different form. Acknowledgments aside, I guess there's a demand for extra information throughout the entertainment business.
 
-I don't write supplementary information in afterwords. If I wrote all of it, it could end up longer than the main story.
+I don't put extra information in my afterwords. If I included it all, it could end up longer than the actual story.
 
-That's why I always fudge it with vague afterwords like this...
+That's why I always get by with vague afterwords like this...
 
 One day in September 2025 — Kurodome Hagane
 

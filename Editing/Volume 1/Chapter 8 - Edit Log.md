@@ -486,3 +486,40 @@
 - `![image_rsrc508.jpg](images/image_rsrc508.jpg)` occurs once; no title heading or scene break was added.
 - Part 6 has one terminal `## Translator Notes` section; marker `[^3]` resolves once, while Parts 1 and 4 retain `[^1]` and `[^2]` respectively.
 - The part ends with Ori quietly watching over Professor Ohinata's future.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source in three segments at the harness part seams (user ruling 2026-09-28: narration stays past).
+- Segment 1 (`reedit-v1c8-s1`): EN start → before "After using the toilet" / JP 1–686; ~90 edits. Short share 40.3% → 34.9%; runs 9 → 3 (kept: ferret deduction, "Hmph! / So she's just a kid! / Want some candy!?", misfire panic).
+- Segment 2 (`reedit-v1c8-s2`): → before "After I finished the wand" / JP 687–1222; ~140 edits. Short share 30.9% → 23.5%; runs 3 → 2 (kept: "Twelve unpronounceable sounds…", "Whoa!? It's weak!?").
+- Segment 3 (`reedit-v1c8-s3`): → end / JP 1223–1811; ~85 edits. Short share 33.1% → 33.6%; runs 4 → 3 (kept: 「お、お前。まさか！」, すごい／怖い escalation, recognition list).
+- Whole chapter: short share 34.8% → 30.3%; runs 16 → 8. Lead seam pass: seam 1/2 had two consecutive "After…" openers → "I made a trip to the toilet—a pit toilet—and was heading back…"; seam 2/3 clean.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 睨んでいる, 雲泥の差があった, 魔法語に興味がある, よく知っている, シャレにならねぇ (seg 1); 軽い木材といっても…問題ない, …ハッキリしていない, JP 925–928 free indirect (seg 2); カレー甘口だった (seg 3) — tense (audit reversal)
+- **「まあね」**: dropped line restored as "I guess." — accuracy
+- **仲良くなりたいなって**: "I wanted to get to know you" → "I thought it'd be nice if we got along" — accuracy (sets up "Get along...?")
+- **青の魔女が信用できると判断したなら**: "Professor Ohinata" (not in JP; title not yet known) → "this kid"; bow line → "Ohinata" — referent
+- **誤配ですか**: "Did she bring me the wrong package?" → "Did you drop off the wrong package or something?" — address
+- **（畑を荒らす畜生共のせいで嫌いになった）**: dashes → restored parenthesis — punct
+- **お父さん / 父**: "my dad" / "my father" — voice
+- **凍れ[ヴアアラー]**: bare "Vaa-ra"/"the Freeze / Vaa-ra school" and an added "whose written meaning was 'Freeze'" gloss → glossary `<ruby>Vaa-ra<rt>Freeze</rt></ruby>` (seven spans) — glossary
+- **警備隊 (JP 811)**: "the security force's" → "the guards'" — glossary (common-noun form)
+- **マジカルストーン**: "magic stones" → "magical stones" — glossary (distinguish from 魔石)
+- **コミュ障枠は俺一人で間に合ってる**: → "The socially awkward slot around here is already filled. By me." — accuracy
+- **こんな事もあろうかってワケじゃあないけど**: → "It's not like I was saving them for a day like this, but…" — accuracy
+- **手招きされるがまま**: → "She beckoned me into the study…" — accuracy
+- **言い方、言い方かな？**: "It's just how he said it" → "I think it was how I phrased it" — referent
+- **大利は時々、無自覚に人の心を揺さぶる**: third person → "Sometimes, Ori, you move people without even realizing it" — address
+- **ずっとニコニコしていた大日向教授の顔色が変わった**: restored "had been smiling the whole time" — accuracy
+- **俺にしてみりゃお前らみんな…**: → direct present thought "you're all perverts with a thing for humans" — tense
+- **発音不可音を…教えてもらおう**: removed added addressee — accuracy
+- **未曾有の大飢饉**: kept glossary "unprecedented great famine" — glossary
+- [polish] Lecture register loosened ("That's how you get closer to the truth, logically and efficiently"); workshop description, drafting-board paragraph, Yoshida Conjecture sentence, and segment-3 opener rebuilt on English word order; stub paragraphs merged — polish
+- [polish] **大日向教授は本当に凄い方ですね。感服しました**: deliberately stiff ("truly a remarkable individual. I am deeply impressed.") so her "don't talk so formally" lands — voice
+
+### Register and Flow
+**Ohinata (twelve):** bright, precocious; casual お父さん. **Blue Witch:** direct address to Ori. Dialogue-paragraph count 220 → 221 overall (restored 「まあね」; narration tags joined to same-speaker lines); no speakers merged.
+
+### Formatting Confirmed
+- `image_rsrc506`/`image_rsrc508` markers, `[^1]`–`[^3]`, notes section unchanged; `check_reedit.py` PASS on all three slices and whole file; `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.

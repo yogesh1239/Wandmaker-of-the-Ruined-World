@@ -185,3 +185,27 @@
 - The `---` scene break and `![image_rsrc503.jpg](images/image_rsrc503.jpg)` marker were preserved exactly.
 - One consolidated `## Translator Notes` section remained at the end; markers `[^1]`–`[^3]` each have one matching note.
 - Exact glossary forms (`Okutameteorite`, `magic wand`, `magic stone`, `magic power`, `mage`, `Okutama`), past-tense narration, and no-macron romanization were verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–571; agent `reedit-v1c1-s1`; ~130 edits). Flow: short-sentence share 27.0% → 19.4%; runs of 3+ short sentences 6 → 3 (three kept deliberately: the first-magic reaction burst, the infrastructure-down list, the static-electricity realization).
+
+### Accuracy Fixes
+- **line 127 (台風らしい風雨は無いし)**: "There hadn't been any typhoon-like wind or rain" → "There hasn't been any typhoon wind or rain, though" — tense (tense mix inside one direct thought)
+- **電気を喰って育つ**: "This crystal grew by eating electricity." → "This crystal grows by eating electricity." — tense (general fact in direct thought)
+- **忌々しい**: "It pissed me off that I couldn't come down hard on them." → "Not being able to come down hard on them was infuriating." — accuracy (restores 忌々しい; drops echo)
+- **恐らく…とっくに救助隊が来ているはずだから**: two sentences → one "because" sentence — accuracy (restores causal logic)
+- [polish] **奇をてらいすぎか？**: "Would making it a gun be trying too hard to be weird?" → "Would a gun be too gimmicky?" — polish
+- [polish] **周りの目を気にしながら…公衆電話を分解**: JP-order clause → "Glancing around to make sure no one was watching, I quietly took the public phone apart." — polish
+- [polish] **不安よりも不審が勝った**: "I was more suspicious than anxious." → "It struck me as more fishy than worrying." — polish
+- [polish] **日常が急にホラーに侵された**: nominalized abstraction → "the peaceful everyday life I'd been living had suddenly turned into a horror story" — polish
+- [polish] **宝石を中心に内包**: front-loaded modifier stack → "its outer shell, a mix of metal and rock, held a clear, gemlike crystal at its center" — polish
+
+- **JA 85–151, 287 (少し不思議だったが / 食料備蓄は豊富にしている / 現状が気になる / 誰にも会いたくない / 外に出たくない)**: audit-era present tense ("It's a little strange… I keep plenty of food… I want to know… I don't want to meet anyone… I don't want to go outside") → past — tense (audit reversal per user ruling 2026-09-28: narration stays past)
+- **JA 237 (消費するのだろう)**: "Using magic probably burned some kind of resource" → "…burns…" — tense (live guess inside present-tense reasoning)
+
+### Register and Flow
+**Ori (narration):** casual register kept; tense-audit present tense kept only where the JP is live direct thought (まあ/だろう/じゃないか reasoning, live questions); general truths (hardness, natural frequency, static electricity) stay present; no kill-list vocabulary introduced.
+
+### Formatting Confirmed
+- Image marker, scene breaks, ruby span, and `[^1]`–`[^3]` notes unchanged; `check_reedit.py` PASS (FLOW ok); `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.

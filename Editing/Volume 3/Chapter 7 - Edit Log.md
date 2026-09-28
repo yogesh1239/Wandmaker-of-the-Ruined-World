@@ -69,3 +69,31 @@
 - Audited source lines 1–511 in three ordered chunks (1–180, 181–360, 361–511) for both accuracy and one bounded polish pass.
 - `![p110.jpg](images/p110.jpg)`, `Freeze[ドウ・]`, Class A-1 through Class C-4, monster threat-level quick reference, Monster Trap, Cyanos Ver. 2.3, glossary terms, and narrative/direct-thought tense verified.
 - Complete-metamorphosis theory remains explicitly speculative; no title metadata heading or translator notes were added.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–511; agent `reedit_v3c7_s1`; model `gpt-5.6-sol` at high reasoning; ~100 line-level edits). Flow: short-sentence share 26.5% → 32.9%; runs 6 → 8 (LIGHT PASS: retained source beats in the Flame Witch reversal, love-child reveal, clipped warning/reaction, insult, and threat table). Dialogue paragraphs 34 → 33 because one sigh/tag was joined to Hiyori's own speech.
+
+### Accuracy Fixes
+- **魔法大学／魔女集会**: “Tokyo Magic University/Tokyo Witches' Council” → “Magic University/Witches' Council” — glossary
+- **ママ似…ママ似**: “one mom…the other” → “Mom…Mom too” — accuracy
+- **人型重機**: “Human heavy machinery indeed” → “She was a human bulldozer” — register
+- **完全変態生物かも**: retained the complete-metamorphosis idea as a live hypothesis — accuracy
+- [polish] The salamander discovery and threat-table transitions were tightened without flattening source beats — polish
+
+### Register and Flow
+The chapter's panicky, technical first-person voice stayed casual. Immediate hypotheses, questions, and punchlines were restored to present; narration remained past. Every retained short-sentence run was source-functional.
+
+### Formatting Confirmed
+- `![p110.jpg](images/p110.jpg)`, `Freeze[ドウ・]`, threat classifications, table structure, and exact version were preserved.
+- Glossary forms, honorifics, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS (FLOW LIGHT PASS); chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 102 changes)
+- **詳しい原理は分からんが…ママ似なんだな（？）** (JP 208): direct monologue goes to present, and the Mom/Mom gag is restored without "too" — tense/voice
+- **完全変態生物なのかも** (JP 433) and **ここでいう変態は** (JP 436): back to past, matching the research-narration block → "underwent", "I meant" — tense
+- **ぜひ…食わせてやるから…魅力的だ** (JP 487): one thought with the following ぞ line, so all present → "I'd love to have them… I'll feed them…" — tense
+- **予測し** (JP 7), **まだ…推した** (JP 13), **魔物女** (JP 157), **有り得る話だ** (JP 73), **実際…有り得る** (JP 412), **と言っていた…バカにできない** (JP 427): restored the predicted, still, pushed-for, monster-women, possible and hearsay senses — accuracy
+- **魔女を魔物として見ると** (JP 163): "Viewed as monsters, … (fire and ice, for one thing)" — accuracy
+- **はあ？…可愛い、まあ、可愛くはあるが** (JP 271): restored the interjection and the self-correction — voice
+- Split the merged narration and dialogue paragraph at JP 232/235 — punct

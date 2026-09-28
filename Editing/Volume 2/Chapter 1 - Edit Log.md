@@ -134,3 +134,28 @@
 - Scene break `---`, inline image `![p018.jpg](images/p018.jpg)`, incantation readings, measurements, past-tense narration, and exact glossary terms verified.
 - One guide-compliant Reiwa footnote remained in the single final `## Translator Notes` section.
 - Three verified post-review corrections were applied without another general polish pass.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–394; agent `reedit-v2c1-s1`; ~110 edits). Flow: short-sentence share 26.4% → 18.3%; runs of 3+ short sentences 3 → 0. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **JA 349 (タケタテェエは特に舌が絡まりやすい)**: Markdown backticks around `Taketatee` (rendered as code in EPUB) → ‘Taketatee’ (file's in-dialogue single quotes) — punct (known issue)
+- **言われてみれば…誘拐現場だった / 奥多摩から青梅までは届いていた**: audit-era present → "I did leave some pretty obvious clues. It was a seriously blatant kidnapping scene." / "that range reached from Okutama to Ome" — tense (audit reversal)
+- **ンなわけねーだろ**: "No shit." (reads as yes) → "Hell no." — accuracy
+- **まあそれは俺が悪かったよ。迂闊だった**: → "I was careless there, and that part's on me." — tense
+- **その分は回復しなくなります**: removed added condition "while the familiar exists" → "that portion won't come back" — accuracy
+- **ルビを振り**: omitted step restored ("added the pronunciation") — accuracy
+- **射撃魔法基幹呪文連続使用可能回数換算**: jargon pile-up kept so "What's a what now?" lands — voice
+- **犯人が…竜の魔女[バカ]でよかった**: "a <ruby>idiot" → "an <ruby>idiot" (ruby unchanged) — punct
+- **オコジョ教授**: "Professor Ohinata" → "the stoat professor" — accuracy
+- **こっちに引っ越せ**: "Move to Ome." → "Come live there." — polish (removes echo)
+- Ori's flubbed practice syllables rendered "Taketatay-eh" / "Taketatet" (avoids name-drift false positive vs glossary "Taketatee") — glossary
+- 未曾有の大飢饉 kept as glossary "unprecedented great famine" — glossary
+- [polish] Topic-comment opener "As for the magic we're going to learn today…" → "The magic we can learn today is limited by how much magic power you have."; merges/reorders ("When I snuck a glance at Professor Ohinata, she flashed…") — polish
+
+### Register and Flow
+**Ohinata:** bright, teacherly; contractions kept. **Ori:** casual. Glossary "Jyuya" (full incantation) and "Jiyuya" (practice span) kept as listed. Open for user (series-wide "Fire" ruby question): EN L167 `<ruby>Agh-<rt>Fire</rt></ruby>` glosses a bare JA ア゙ー (JA 253, no 撃て) — kept for cross-chapter consistency.
+
+### Formatting Confirmed
+- Image markers, ruby spans, notes unchanged; no backticks in prose; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 1` ALL PASS.

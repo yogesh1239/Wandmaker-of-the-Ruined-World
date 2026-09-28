@@ -114,3 +114,23 @@
 - Audited source lines 1–170, 171–340, and 341–454 in order for both accuracy and polish.
 - The single `---` scene break, `wizard[ウイザード]`, glossary locks, past-tense narration, and one terminal `## Translator Notes` section were verified.
 - Source line 376 says to raise the index and ring fingers while keeping the little and ring fingers down. The contradiction was preserved faithfully in English and not silently corrected.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–454; agent `reedit-v2c7-s1`; ~150 edits). Flow: short-sentence share 19.8% → 13.9%; runs 1 → 0. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (draft present → past)**: 依頼理由は単純で…; 素材の選定が甘い and the JA 101–169 exposition block; 俺はオーダーメイドの…路線を取る; 指先はだんだん白く染まっていった。今では…; 話を聞く限り…稼働しているらしい; 期待したが…旨い話はないようだ — tense; と-quoted panic (JA 87–91), こ、こわ～, もんな reasoning (JA 201–203), and the closing resolution (JA 287–301) stay present as direct thought
+- **反射炉が複数基フル稼働しているらしい**: implied ownership removed → "several reverberatory furnaces there… were running at full capacity" — accuracy
+- **後天的に高める**: dropped sense restored → "since it could build up dexterity people weren't born with" — accuracy
+- **俺が考えた魔力逆流防止機構を発展させ**: echoed "developed" → "took the backlash-prevention mechanism I'd come up with and improved it… he worked out a shape" — accuracy
+- **青の魔女は投げやりに言った**: stranded tag → "…the Blue Witch said, like she couldn't care less." (lead adjusted the agent's "sounded fed up" to match 投げやり) — accuracy
+- **大利を見てると**: → "Watching you, Ori, makes me feel insanely clumsy." — voice
+- [polish] **新年度に併せ…半田教授考案の新技術は…打ち崩した**: front-loaded modifier stack split — polish
+- [polish] **真顔になって感心した**: → "until I stopped laughing and was genuinely impressed" — polish
+
+### Register and Flow
+運指 step 2 finger conflict kept per glossary LOCK. Dialogue-paragraph count 31 → 32 because a narration line now opens with a quoted term; no speakers were merged and no lines dropped.
+
+### Formatting Confirmed
+- Note [^1] and scene break unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 7` ALL PASS.

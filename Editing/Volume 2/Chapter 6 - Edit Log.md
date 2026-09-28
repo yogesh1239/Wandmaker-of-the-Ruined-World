@@ -128,3 +128,24 @@
 - Past-tense close-third narration, exact glossary forms, JP name order, honorifics, and romanization verified.
 - `死体逆ハーレム[ネクロフイリア]` was resolved as readable prose with one concise note in a single terminal `## Translator Notes` section.
 - `![p093.jpg](images/p093.jpg)` was preserved exactly; no title heading or scene break was added.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–442; agent `reedit-v2c6-s1`; ~110 paragraph-level edits). Flow: short-sentence share 14.8% → 16.4%; runs 3 → 2 (kept: the "order / organizations / politics" parallel and the "Handa went pale" shock beat). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **18万体以上はあったはずの死体は全て処理されたのだろうか？**: present-tense question → "…there should have been over 180,000 bodies. Had every one of them really been disposed of?" — tense
+- **一回り以上年下**: "more than a generation younger" → "more than a dozen years younger" — accuracy
+- **人の名前を覚えていたんだな**: → "she had actually remembered his name" — accuracy
+- **魔女集会 (bare)**: "Tokyo Witches' Council" → "Witches' Council" — glossary (bare short form)
+- **花の魔女の管理区に住む事になった者は不運だ**: → "ending up in the Flower Witch's district meant you were out of luck" (no added "worst") — accuracy
+- [polish] **そうですけど**: "I am, though." → "I am. Why?" — voice
+- [polish] **イモ洗い状態**: → "packed like a can of sardines" — polish
+- [polish] **そうして死体を啜った花の魔女は…咲き誇る** / **大日向教授の短い演説は…胸に染みた**: stacked, front-loaded sentences rebuilt — polish
+- **つまり、魔力が、管の中を、流れている。**: halting comma emphasis restored — accuracy
+
+### Register and Flow
+Close-third on **Handa**: plain, adult diction. 地獄の黙示録 read as "hellish apocalypse", not as an *Apocalypse Now* allusion. Dialogue-paragraph count 26 → 25 because Ohinata's "said brightly" tag was joined to her own next line; no speakers were merged.
+
+### Formatting Confirmed
+- Ruby span, note [^1], and image marker unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 6` ALL PASS.

@@ -68,3 +68,37 @@
 - Narrative/direct-thought tense, exact glossary forms, honorifics, denominations, furigana handling, and narrator register verified.
 - No source scene breaks or images were present; no title heading was added.
 - Three footnote markers and three matching notes were verified in one final `## Translator Notes` section.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–213 / JP lines 1–310; agent `reedit_v3c12_s1`; model `gpt-5.6-sol` at high reasoning; ~80 edits). Flow: mean sentence length 13.9 → 13.3 words; short-sentence share 21.5% → 18.7%; runs 2 → 1; words 2306 → 2199. No past-tense reversals.
+
+### Accuracy Fixes
+- **毎年の刈り入れにも慣れてきた**: “The yearly harvest had become routine” → “I'd gotten used to the harvest over the years” — accuracy
+- **オコジョ姿では好感度ボーナスにならない**: restored the game-like joke as “wasn't going to earn her any bonus affinity” — voice
+- **最強素材**: “the ultimate material” → “Talk about an overpowered material” — register
+- **どのデザインにも問題があるのでどれでもいい**: clarified the logic as “Every design had its problems, which apparently meant any of them would do” — accuracy
+- **魔女集会**: “Tokyo Witches' Council” → “Witches' Council” for the bare short form — glossary
+- [polish] Recast the wood-model casting explanation and the terminal fifty-yen-coin joke in direct contemporary English — polish
+
+### Register and Flow
+Preserved the fast comic rhythm and all source-marked dialogue. Dialogue paragraphs 35 → 33 because an action was attached to its speaker and one quoted narration construction was recast; no speaker or dialogue was lost.
+
+### Formatting Confirmed
+- All three note markers and definitions and the final `## Translator Notes` section remained intact; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 3 --chapter 12` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 81 changes)
+- **原型師に興味があれば** (JP 178): restored the glossary term: “making the originals for those patterns, as master pattern maker for the dies” — glossary
+- **新硬貨原型師に一番相応しい** (JP 196): “No one could be better suited to making the master patterns…” → “You're the best fit for master pattern maker on the new coins” — glossary
+- **違和感を与えやすいから偽造防止効果も、** (JP 193): moved counterfeit deterrence back to the distortion clause so the cut-off lands on “so they also help deter counterfeit—” — accuracy
+- **巻き添えにできるしいいか！** (JP 307): “But Hiyori would have to squirm too, so who cared!” → “But I get to drag Hiyori into the squirming too, so who cares!” — tense
+- **面白そうな話じゃないか** (JP 151): “This sounded fun.” → “Now that sounds like fun!” — tense
+- **やっぱり無理だよ** (JP 73): “this isn't going to work” → “I knew it wouldn't work” — accuracy
+- **その後ろにしゃがんで…オコジョを庇える** (JP 40): “behind the professor” → “behind the stoat” (professor not yet named) — accuracy
+- **しゃーない** (JP 82): restored as “Oh well.” — accuracy
+- **済む話じゃなさそうだ** (JP 118): “This was too serious for that.” → “This seemed way too serious for that.” — accuracy
+- **モメすぎて一生決まらないので…言ったらしい** (JP 238): removed invented “otherwise”; restored らしい as “apparently” — accuracy
+- **清々しさが気持ちいい** (JP 301): “and that felt good” → “and there was something refreshing about that” — accuracy
+- **掴んで引き寄せ守った** (JP 70): “snatched the stoat back into her arms” → “snatched the stoat up and pulled her out of reach” — worse
+- **一番威張りんぼのツバキ** (JP 52): “the bossiest of the bunch” → “the bossiest one” (repeated phrase) — worse
+- Post-fix: `check_reedit.py` RESULT: PASS (FLOW: LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 12` ALL PASS.

@@ -1,106 +1,106 @@
 If you want to get something from an enemy, first you have to know your enemy.
 
-I started researching the mushroom that had grown from my head so this mushroom biohazard pandemic wouldn't end as nothing but a disaster.
+I didn't want this mushroom biohazard pandemic to end up as nothing more than a disaster, so I started researching the mushroom that had grown out of my head.
 
-Obviously, we'd be far better off without wars, disasters, or epidemics, but there were things we could learn from them too.
+Obviously, we'd be far better off without wars, disasters, or epidemics, but they could still teach us things.
 
 Wars advanced science, every disaster improved preparedness and prediction, and epidemics advanced medicine. I wanted this pandemic to do the same.
 
-Apparently, medical teams in each ward downtown were using autopsies and the like to work out the underlying mechanism and keep it from happening again. I wanted to put this mushroom to use in my own way too.
+Apparently, the medical teams in each ward of central Tokyo were throwing themselves into autopsies and the like to work out how the disease worked and keep it from happening again. I wanted to make this mushroom useful to me in my own way too.
 
 Specifically, I was hoping I could use the mushrooms to make magic-sealing wands, magic-power suction wands, or self-repairing wands.
 
 Severe-type mushrooms sealed the magic of whoever they parasitized.
 
-When you picked off a mushroom, it rapidly sucked up magic power and physical strength, then regenerated super fast.
+If you tore one off, it rapidly sucked up magic power and stamina and regenerated at super speed.
 
 If I could work out the principles behind that and apply them to making wands, the possibilities would be limitless.
 
-Just in case, I set up an isolated dissection tent in a corner of the backyard. To start with, I dissected the viscerally disgusting human-faced mushroom.
+To be safe, I set up an isolated dissection tent in a corner of the backyard and started with the human-faced mushroom, the one that made my skin crawl on a gut level.
 
-The mushroom's basic structure resembled an ordinary mushroom's. It had a cap, with gills on its underside. A stalk extended from the cap, and mycelium extended from the base of the stalk into its host.
+Its basic structure was like an ordinary mushroom's: a cap with gills on the underside, and a stalk running down from the cap, its base sending mycelium out into the host.
 
 But when I split the stalk open, I found a fibrous mass inside that almost looked like a heart. Creepy.
 
 Was it an animal? A fungus? No idea. The university's Department of Monster Studies would probably investigate that part.
 
-When I opened up the fibrous heart, a tiny, tiny Gremlin was buried inside.
+When I opened up the fibrous heart, I found a single tiny, tiny Gremlin buried inside.
 
 Since it had a Gremlin, this mushroom was definitely a kind of monster. Animal monsters were common, and plant monsters showed up sometimes too, but this was my first time meeting a fungal monster. Or a Gremlin from one.
 
-The Gremlin I picked out with tweezers was, as usual, nearly spherical. It was about 0.1 mm in diameter, smaller than a flea.
+I picked it out with tweezers. As usual, it was nearly spherical, about 0.1 mm in diameter. Smaller than a flea.
 
-But when I put it in a petri dish and examined it, I saw what made it unusual.
+But once I set it in a petri dish and took a good look, I could see exactly what made it special.
 
-The Gremlin taken from the mushroom had uneven stripes of milky white and gold.
+The mushroom's Gremlin was striped in uneven bands of milky white and gold.
 
 I'd never seen a marbled Gremlin before. Interesting.
 
 Every Gremlin I'd seen so far had been one solid color.
 
-Gremlins that grew by absorbing electricity were a plain milky white, exactly the same as one of the two colors in this mushroom Gremlin. Gremlins collected from monsters came in all kinds of colors, but they were still solid colors.
+Gremlins grown on electricity were a plain milky white, the exact same shade as one of this mushroom Gremlin's two colors. Gremlins from monsters came in all kinds of colors, but each one was still a single solid color.
 
-Some magic stones had inclusions, but their overall color was still solid too.
+Some magic stones had impurities in them, but overall, they were one solid color too.
 
-And yet this thing had a marbled pattern. It was a rare new kind of Gremlin.
+And yet this thing was marbled: a newly discovered, rare type of Gremlin.
 
-Was this marbling something special to this individual? Or did all mushrooms have marbled Gremlins like this?
+Was the marbling special to this one? Or did every mushroom have a marbled Gremlin like this?
 
-One mushroom from my head wasn't enough to tell, so although I felt bad asking while the Blue Witch was still recovering, I gave her a letter asking the Foresight Mage to send me fifty mushroom samples.
+A single mushroom off my head wasn't enough to tell, so I sent a letter to the Foresight Mage through the Blue Witch, though I felt bad asking when she'd only just recovered, and got him to send me fifty mushroom samples.
 
-Half came from people with the mild type, and the other half from people with the severe type.
+Half came from mild-type patients, and the other half from severe-type patients.
 
-There was a clear difference in the size of the Gremlins I collected from mild-type and severe-type mushrooms.
+The Gremlins from the mild-type and severe-type mushrooms were noticeably different sizes.
 
 The mild-type ones were 0.1 mm.
 
 The severe-type ones were 0.5 mm.
 
-The difference was pretty clear-cut. Severe-type mushrooms sucked up magic power far more intensely than mild-type mushrooms, so the difference in how much they absorbed probably showed up in the Gremlins' size. If anything, the size difference could've been even bigger.
+The results split very cleanly between the two groups. Severe-type mushrooms sucked up magic power far more intensely than mild-type mushrooms, so the difference in how much they absorbed probably showed up in the Gremlins' size. If anything, the size difference could've been even bigger.
 
-Both the mild-type and severe-type Gremlins had marbled coloring.
+Mild type or severe type, the Gremlins were all marbled.
 
-They had two-color marbling, and one color was always milky white. The other was random.
+Each had two colors. One was always milky white, and the other was random.
 
-I lined up all fifty-one marbled Gremlins, but I couldn't find any particular pattern in their colors.
+I lined up all fifty-one marbled Gremlins, but I couldn't see any real pattern in the colors.
 
-I figured the differences in the marbling came from the host's blood.
+My guess was that the different marbling colors came from the host's blood.
 
-Before, in a melt-recast Gremlin experiment, I had worked out how to dye Gremlins.
+Back during my melt-recast Gremlin experiments, I'd figured out how to dye Gremlins.
 
-Colored Gremlins from monsters came from some component in the monsters' blood.
+Monsters' Gremlins got their color from some component in the monster's blood.
 
 What if it was the same for humans?
 
-What if some component in human blood traveled through the mycelium that sucked nutrients from the human and showed up as the Gremlin's color?
+What if some component in human blood traveled up the mycelium the mushroom used to suck nutrients out of its host, and showed up as color in the Gremlin?
 
-Of the marbled Gremlin's two colors, the fixed milky white would be the mushroom's color.
+Then, of the marbled Gremlin's two colors, the fixed milky white would come from the mushroom.
 
-The other random color would come from the host human's blood.
+The other, random color would come from the blood of its human host.
 
-That made sense.
+That added up.
 
 To test the hypothesis, I made a syringe, drew my own blood, mixed it into a melted, electricity-grown milky-white Gremlin, and let it solidify.
 
-The recast Gremlin turned gold.
+The recast Gremlin came out gold.
 
-The marbled Gremlin I had taken from the mushroom that grew from my head had milky-white and gold stripes.
+The marbled Gremlin from the mushroom that had grown out of my head was striped milky white and gold.
 
-I compared them, and they were exactly the same color.
+I compared them side by side, and they were exactly the same color.
 
-Phew! Bullseye!
+Woo-hoo! Bullseye!
 
-Getting a hypothesis exactly right like this feels the best!
+Nothing feels better than nailing a hypothesis dead-on like this!
 
-I was starting to have fun, but I calmed down and went to get one more sample just in case.
+I was starting to get carried away, but I talked myself down and went to get one more sample to be safe.
 
-One data point could just be a coincidence. Naturally, I asked the Blue Witch to provide the blood.
+With only one data point, it could just be a coincidence. Naturally, I asked the Blue Witch to be the donor.
 
-It hadn't even been a month since the Blue Witch had hovered between life and death.
+Not even a month had passed since the Blue Witch had hovered between life and death.
 
-I couldn't have blamed her for refusing to let me draw blood, but she didn't seem to mind. She answered my call through an eyeball familiar and came all the way to Okutama to donate blood.
+She'd have been well within her rights to refuse when I asked for her blood, but she didn't seem to mind at all. She answered my summons through the eyeball familiar and came all the way out to Okutama to donate.
 
-The Blue Witch held out her arm over a towel laid on the workbench in my workshop, but when I came close with the syringe, she stiffened up.
+The Blue Witch rested her arm on a towel spread over my workbench, but when I came at her with the syringe, she went rigid.
 
 What are you, a kid?
 
@@ -110,99 +110,99 @@ What are you, a kid?
 
 "I'm dexterous."
 
-"That isn't an all-purpose excuse. Well, whatever."
+"That's not a catch-all excuse, you know. Well, fine."
 
-It wasn't like I'd managed a painless blood draw from the Blue Witch just because I was dexterous. I'd only picked up a little knack while drawing my own blood. No, maybe that did just mean I was dexterous...
+Being dexterous wasn't the only reason I'd pulled off a painless blood draw on the Blue Witch, though. I'd just gotten the knack of it while drawing my own blood. ...No, maybe that did just mean I was dexterous...
 
-I was done with the Blue Witch once I'd drawn her blood, but she said she wanted to watch. So I let her watch me melt and recast the Gremlins (with blood components mixed in) from beside me.
+Once I'd drawn her blood, I had no more use for the Blue Witch, but she said she wanted to watch, so I let her sit beside me while I melted and recast the Gremlins (plus blood components).
 
-The Blue Witch didn't say anything and really did just watch, but it made for a calm, pleasantly relaxed time.
+She didn't say much and really did just watch, but it made for a calm, nicely relaxed stretch of time.
 
-The melt-recast Gremlin I took from the reverberatory furnace had come out a vivid, beautiful blue. Hmm. Just as I thought, the color of the blood seemed to show up in Gremlins. Whether it was a monster, a human, or a witch, blood components colored Gremlins. But when I tried wild crow blood, it had not colored them... There seemed to be some kind of rule here.
+The melt-recast Gremlin I took from the reverberatory furnace had come out a vivid, beautiful blue. Hmm. Just as I thought, the blood's color seemed to show up in the Gremlin. Monster, human, or witch, blood components colored Gremlins. But when I'd tried it with wild crow blood, no color had come out... There seemed to be some kind of rule at work here.
 
-That interested me too, but the marbled Gremlins from the mushroom were the focus of my research right now. I stayed focused instead of going off on a tangent.
+That caught my interest too, but right now, my research was about the mushroom's marbled Gremlins. I kept my focus and didn't go off on a tangent.
 
-Next, I'll mix two colors of Gremlin and make them into one marbled lump. At least visually, it should come out looking like a mushroom's marbled Gremlin.
+Next, I'll try mixing two colors of Gremlin into one marbled lump. At least on the outside, that should make it look like a mushroom's marbled Gremlin.
 
-Since they've been melted and recast, they'll probably lose their function as magic-activation media. But I'm sure I can learn something just by comparing artificially made marbled Gremlins to natural ones. Things like how the marbling mixes. I also think the boundary between the two colors might make them weaker.
+They'll be melted and recast, so they'll probably lose their function as magic-activation media, but just comparing artificial marbled Gremlins to natural ones is bound to teach me something. Like how the marbling mixes. I've also got a feeling they might be brittle along the boundary between the two colors.
 
-While I lit the furnace again and melted two pairs of Gremlins, white-and-blue and white-and-gold, the Blue Witch spoke up from where she'd been sitting on a stump, thinking about something.
+I fired up the furnace again and was melting two pairs of Gremlins, white with blue and white with gold, when the Blue Witch spoke up. She'd been sitting on a stump, thinking about something.
 
-"Those blood-colored Gremlins."
+"About the Gremlins you colored with blood."
 
 "Hm?"
 
 "They're the same color as our eyeball familiars. Mine are blue, and yours are gold, right?"
 
-"...Ah, I guess they are?"
+"...Huh. I guess they are?"
 
-I thought back and nodded.
+I thought back for a moment, then nodded.
 
 Now that she mentioned it, she was right.
 
 Eyeball-familiar magic varied from person to person.
 
-When I used it, golden eyeballs came out, like cat's-eye gemstones.
+When I cast it, I got golden eyeballs that looked like cat's-eye gems.
 
-The Blue Witch's familiar had bluish eyeballs that almost looked sickly.
+The Blue Witch's familiars were bluish eyeballs that looked almost sickly.
 
 Apparently, the Eyeball Witch's familiars were a different shade from ours too.
 
-Hmm. Eyeballs have blood vessels running through them. Going by the incantation wording for eyeball-familiar magic too, it wouldn't be strange if a familiar's color reflected its user's own blood—their personal magical color.
+Hmm. Eyeballs have blood vessels running through them. And going by the wording of the eyeball-familiar incantation, it would make sense if a familiar's color reflected its caster's own blood—their personal magical color.
 
-While we discussed individual differences when casting the same magic, I tended the reverberatory furnace. Eventually, I took out the finished marbled Gremlin prototypes.
+We talked about how the same spell differed from caster to caster while I tended the reverberatory furnace, and eventually I pulled out the finished marbled Gremlin prototypes.
 
-I had taken them out too early, and rapid cooling had cracked them. But both the white-and-blue marbled Gremlin and the white-and-gold one had mixed roughly how I wanted.
+I'd taken them out too early, so the rapid cooling had cracked them, but both the white-and-blue and white-and-gold marbling had mixed more or less the way I wanted.
 
-Hmm. It looked like shortening the heating time a little would make a prettier striped pattern.
+Hmm. A slightly shorter heating time would probably give me cleaner stripes.
 
-I picked up the finished marbled Gremlin with fire tongs and checked how it had turned out from different angles. Then the Blue Witch suddenly snatched it from the side.
+I was holding one of the finished marbled Gremlins in the fire tongs and checking it from every angle when the Blue Witch suddenly reached over and snatched it.
 
 "Hey!"
 
 "Wait. This is... This is...?"
 
-"What? What is it? Say it."
+"What? What is it? Spit it out."
 
-"Quiet. I'm checking now."
+"Quiet. I'm checking right now."
 
-After saying that, the Blue Witch stood completely still, holding the Gremlin between her fingers.
+That was all she said. Then she just stood there, frozen, pinching the Gremlin between her fingers.
 
 I waited, getting a little irritated.
 
-She seemed to be checking something, but what was it? Had something clicked for her?
+She was apparently checking something, but what was it supposed to be? Had something clicked for her?
 
-After making me wait a good ten-odd minutes, the Blue Witch finally rebooted and gave me back the Gremlin.
+She kept me waiting a good ten-plus minutes before she finally rebooted and handed the Gremlin back.
 
-"Sorry. I was controlling magic power. I checked, and it looks like this accelerates magic-power recovery."
+"Sorry, I was manipulating my magic power. I checked, and it looks like this accelerates magic-power recovery."
 
 "Accelerates magic-power recovery?"
 
-I was a little surprised.
+That caught me a little off guard.
 
 It has a recovery-boosting effect? This thing? Like a healing power stone?
 
-I'd done all these experiments hoping to discover some kind of effect, so I wasn't surprised that it had an effect at all.
+Sure, I'd run this whole series of experiments hoping to find some kind of effect, so the fact that it had one didn't surprise me.
 
 But not magic-power absorption, magic sealing, or self-repair? Magic-power recovery acceleration?
 
 Not what I expected.
 
-"What exactly do you mean?"
+"How, exactly?"
 
-Curious, I asked for a more detailed explanation. The Blue Witch gave her impressions as she pointed at the white-and-blue and white-and-gold marbled Gremlins.
+My curiosity piqued, I pressed her for details, and the Blue Witch pointed at the two marbled Gremlins, white-and-blue and white-and-gold, as she described what she'd sensed.
 
-"The flow of magic power is strange. That white-and-blue marbled Gremlin with my blood in it accelerates the recovery of my magic power. Magic power flows like this..."
+"It's doing something odd to the flow of magic power. That white-and-blue marbled Gremlin with my blood in it accelerates the recovery of my magic power. Magic power flows like this..."
 
-The Blue Witch traced a pattern through the empty air with her fingertip as if conducting, but gave up explaining partway through.
+The Blue Witch traced her fingertip through the empty air like she was conducting an orchestra, then gave up on explaining halfway.
 
-"No, there's probably no point explaining it like this to someone who can't sense magic power. Anyway, if I have the white-and-blue marbled Gremlin, it definitely accelerates my magic-power recovery. It's only something I can feel, but I'd say the recovery rate goes up by around 2–3%.
+"No, there's probably no point explaining it like this to someone who can't sense magic power. Anyway, if I have the white-and-blue marbled Gremlin, it definitely accelerates my magic-power recovery. It's just going by feel, but I'd put the increase at around 2–3%.
 
-"But even if you have the white-and-blue marbled Gremlin, Ori, your magic-power recovery won't speed up. The one accelerating your magic-power recovery is that white-and-gold one."
+"But if you hold the white-and-blue one, Ori, it doesn't speed up your magic-power recovery. The one accelerating yours is the white-and-gold."
 
-"I see. So keeping a marbled Gremlin made with your own blood nearby increases your magic-power recovery?"
+"Huh. So if you carry a marbled Gremlin with your own blood in it, your magic-power recovery goes up?"
 
-When I summarized her explanation simply while rubbing my chin, the Blue Witch nodded.
+I rubbed my chin as I boiled it down, and the Blue Witch nodded.
 
 "Strictly speaking, you don't need to have it on you. If the marbled Gremlin is near you... within one or two meters, it should have an effect."
 
@@ -214,71 +214,71 @@ When I summarized her explanation simply while rubbing my chin, the Blue Witch n
 
 "No, I can tell. It's slight, but your recovery speed is up. No question."
 
-The Blue Witch sounded completely certain.
+The Blue Witch said it with total certainty.
 
-Even with her saying that, I can't tell at all. She can tell me my magic-power recovery speed is up, but I don't feel a thing.
+She can say that all she wants, but I seriously can't tell. My magic-power recovery speed is supposed to be up, and I don't feel anything like it.
 
-Well, she says it's only up 2–3%, and humans can't sense magic power to begin with, so there's no way I can feel my magic-power recovery speed increasing.
+Well, she did say it's only up 2–3%, and humans can't sense magic power in the first place, so there's no way I'd ever feel a boost in recovery speed anyway.
 
-If the Blue Witch had not been there, I might never have noticed this effect. Good thing I called her, Blue Witch.
+If the Blue Witch hadn't been here, I might never have noticed this effect in my life. Good thing I called you over, Blue Witch.
 
-I rolled the marbled Gremlin around in my hand and thought.
+I rolled the marbled Gremlin around in my palm and thought it over.
 
-Increasing magic-power recovery speed isn't just interesting. It's a valuable effect.
+Faster magic-power recovery isn't just interesting. It's a seriously valuable effect.
 
-If the magic power you use recovers quickly, you can keep firing off magic even if you don't have much magic power stored up.
+If the magic power you spend comes back quickly, you can keep firing off spells even with a small magic-power capacity.
 
-But only 2–3% more? Seriously, that's barely even a comfort.
+But a 2–3% boost? Honestly, that's barely more than a placebo.
 
 ...No! Maybe the recovery rate is low because the marbled Gremlin has cracks in it.
 
-If I make a bigger Gremlin, there's a good chance the recovery rate will go up. The bigger a Gremlin is, the better anyway.
+There's a real chance a bigger Gremlin would push the recovery rate up. With Gremlins, bigger is always better anyway.
 
 It's too early to be disappointed.
 
-I've found a foothold for getting something useful out of mushroom disease, the embodiment of disaster.
+I've got a foothold for profiting off mushroom disease, the very embodiment of disaster.
 
-Now I just need data. Collect more of it. Then something will become clear.
+All that's left is data. Gather data. Do that, and the answers will start to show.
 
-Over about the next month, I made a huge number of marbled Gremlin samples in the reverberatory furnace. I built up statistical data.
+Over the next month or so, I made a huge batch of marbled samples in the reverberatory furnace and compiled the statistics.
 
-The results showed that having a marbled Gremlin mixed with your own blood increased magic-power recovery speed by a maximum of 5%. Its colors made no difference. The increase was the same for witches and humans.
+The data showed that carrying a marbled Gremlin mixed with your own blood raised magic-power recovery speed by up to 5%. The marbling's colors made no difference, and the increase was the same for witches and humans.
 
-The factor with the biggest effect on the increase was the mixing ratio of milky-white Gremlin (electricity-grown Gremlin worked for this) to personal-color Gremlin. A 2:8 ratio maximized recovery speed. The ratio was important; how the marbling mixed and its size barely mattered.
+The factor with the biggest effect on the increase was the mixing ratio of milky-white Gremlin (electricity-grown Gremlin worked for this) to personal-color Gremlin. A 2:8 ratio maximized recovery speed. The ratio was what counted. How the marbling was mixed and how big the Gremlin was barely mattered.
 
-If I mixed them so thoroughly that the marbling couldn't be seen, or made them smaller than 0.1 mm, they lost the effect. But as long as the marbling was distinguishable and they were at least 0.1 mm, they showed a 5% increase in recovery speed.
+Mixing them so thoroughly that the marbling disappeared, or making them smaller than 0.1 mm, killed the effect. But as long as you could still make out the marbling and the Gremlin was at least 0.1 mm, recovery speed went up 5%.
 
-Cracks in the marbled Gremlin didn't affect magic-power recovery speed either. As long as it wasn't completely broken, cracks didn't seem to be a problem. Shape didn't affect magic-power recovery speed either.
+Cracks in the marbled Gremlin didn't affect magic-power recovery speed either. As long as it didn't break clean through, a few cracks seemed to be fine. Shape didn't matter at all.
 
-Even after improving it as much as possible, the effect was tiny. But faster magic-power recovery couldn't hurt. If I built it into a wand, I could improve its performance. A 5% increase might be a drop in the bucket for ordinary people, but for people with insanely huge magic-power reserves like witches and mages, it wasn't something to laugh off.
+In the end, even after all my improvements, the effect was tiny. But faster magic-power recovery was never going to hurt, and building it into a wand would boost the wand's performance. A 5% increase was a drop in the bucket for ordinary people, but for anyone with the insanely huge magic power of a witch or mage, it was nothing to laugh at.
 
 ![p271.jpg](images/p271.jpg)
 
 But I decided not to embed a marbled Gremlin in a wand.
 
-It didn't seem like a good fit. Mainly from a design standpoint.
+It just didn't seem like a good fit. Mainly from a design standpoint.
 
-Rather than putting a marbled Gremlin into a magic wand, using it by itself would obviously give me far more design options.
+No matter how I looked at it, using the marbled Gremlin on its own would give me far more design options than sticking it in a magic wand.
 
-In other words, instead of embedding it in a wand, I would process the marbled Gremlin into accessories like rings and necklaces.
+So instead of putting it in a wand, I'd work the marbled Gremlin into accessories like rings and necklaces.
 
-The fact that changing its size and shape didn't improve magic-power recovery speed meant, on the flip side, that I could make it any size or shape I wanted. I could process it into an amulet with whatever design I wanted.
+Changing its size and shape didn't improve magic-power recovery speed, but flip that around and it meant I could make it any size and shape I liked. I could turn it into an amulet of any design I wanted.
 
-That didn't mean I should put every function into a wand. An internet-connected rice cooker that walked on two legs would just be a pain. Some functions were better kept separate.
+Cramming every function into a wand wasn't always the answer. Nobody wanted an internet-connected rice cooker that walked on two legs. Functions that should be separate were better off separate.
 
-Unlike a magic wand, which you only needed to hold when using magic, it was better to receive the benefit of faster magic-power recovery all the time. Accessories left both hands free and could be worn constantly, so they were better for that too.
+Besides, a magic wand only had to be in your hand while you were casting, but faster magic-power recovery was worth having all the time. An accessory could be worn constantly and left both hands free, so it came out ahead there too.
 
-As the culmination of this experimental research, I made a 30 mm white-and-gold marbled melt-recast Gremlin using my own blood. In honor of the gift from space that had set me on this path, the meteorite Okutameteorite, I carved it into a star and made it into a pendant amulet.
+As the culmination of all this research, I made a 30 mm white-and-gold marbled melt-recast Gremlin with my own blood. I carved it into a star in honor of Okutameteorite, the meteorite that had started it all for me, a gift from space, and made it into a pendant amulet.
 
-I hung the amulet around my neck, held Okutameteorite in my hand, struck a pose in front of the workshop mirror, and admired myself.
+With the amulet around my neck and Okutameteorite in my hand, I struck a pose in front of the workshop mirror and basked in how cool I looked.
 
-Nice! Really nice! I look so wizard-like!
+Nice! Really nice! I look like a total mage!
 
-It wasn't just cosplay. Both this amulet and this magic wand served a real purpose and had real magical abilities. There were principles and ideas behind them. They'd become magic items like this for a reason.
+And it wasn't just cosplay. The amulet and the magic wand both had real meaning and real magical power in them. There were principles behind them and ingenuity in them, and they'd become magic items like this because that was how they were meant to turn out.
 
-That meant a lot to me, and it seriously fired up my excitement circuits.
+That hit me deep, and it fired up my excitement circuits like crazy.
 
-I struck all sorts of poses in front of the mirror, wishing I could take a selfie. The Blue Witch, who had often come to my house during the research and helped check the amulet's performance with the magic-power control only a witch could manage, poked me with Cyanos.
+I was striking pose after pose in front of the mirror and lamenting that I couldn't take a selfie when the Blue Witch poked me with Cyanos. She'd been dropping by often during the research to help check the amulet's performance with the kind of magic-power control only a witch could manage.
 
 "Where's my amulet?"
 
@@ -286,13 +286,13 @@ I struck all sorts of poses in front of the mirror, wishing I could take a selfi
 
 "Why not?"
 
-"Why? You hate accessories, don't you?"
+"What do you mean, why? You hate accessories, right?"
 
-When I asked, confused, the Blue Witch tilted her head.
+I said it in honest confusion, and the Blue Witch tilted her head.
 
-"Huh...? Did I say that?"
+"No...? Did I say that?"
 
-"Huh? I thought you said something like that when I gave you accessories before."
+"Huh? I thought you said something like that back when I gave you an accessory."
 
 "? I don't remember."
 
@@ -300,35 +300,35 @@ When I asked, confused, the Blue Witch tilted her head.
 
 We both tilted our heads.
 
-Well, if neither of us remembered it clearly, I'd probably just misremembered.
+Well, if neither of us remembered it clearly, one of us had probably just misremembered.
 
 "Oh, is that why you kept giving Kei-chan accessory prototypes as presents? Because you thought I hated accessories?"
 
-"I was wrong? Huh?"
+"I got that wrong? Huh?"
 
 "I don't remember saying anything like that at all... Ah? ... No, well, I've never said I hate accessories. Yeah. If you'll make an amulet for me, Ori, I'll gladly accept it."
 
-I did not really get it, but it seemed the Blue Witch had an open accessory equipment slot.
+I didn't really get it, but apparently the Blue Witch's accessory slot was open.
 
-In that case, I might as well make her one.
+In that case, I'd be glad to make her one.
 
-I also want her to look like a witch if she's going to call herself one. When I first met her, she was just clutching an unprocessed magic stone.
+Part of me also wanted her to look like a witch if she was going to call herself one. When we first met, all she'd had was an unprocessed magic stone clutched in her fist.
 
-And now she's going to carry a magic wand and equip an amulet. That girl with the pathetic equipment has come so far. Sob sob sob.
+And now she was carrying a magic wand and about to equip an amulet? That girl with the pathetic gear was all grown up. Sob sob sob.
 
-Using white-and-blue marble made from the Blue Witch's blood, I made her a six-petal snow-crystal pendant amulet.
+Using white-and-blue marbling made with the Blue Witch's blood, I made a six-petal snow-crystal pendant amulet and gave it to her.
 
-A six-petaled snow crystal took shape as a snowflake grew its icy branches, an artistic harmony between nature and cold. It was a fitting design for the Blue Witch, who used ice magic.
+A six-petal snow crystal was the shape a snowflake formed as its icy branches grew, an artistic harmony of nature and cold. It was a fitting design for the Blue Witch, who used ice magic.
 
-The Blue Witch seemed to like the amulet I had made just for her. She hooked a finger around the pendant hanging from her neck, spun it round and round, and looked happy.
+The Blue Witch seemed to like the amulet I had made just for her. She hooked a finger through the pendant at her neck and twirled it round and round, looking pleased.
 
 Glad it went over well.
 
-The amulet, the result of over a month of research, felt a little underwhelming as something gained from a massive disaster like the mushroom pandemic.
+As the fruit of more than a month of research, the amulet was a little underwhelming for something gained from a disaster as ridiculously huge as the mushroom pandemic.
 
-But you could also say it was just that things like the vast magic amplification from multilayer processing and an 85% cut in magic backlash had been weird.
+Then again, you could say the weird ones were my earlier results, like the massive magic amplification from multilayer processing and the 85% magic-backlash cut.
 
-That was how things normally started.
+This was normal for a first try.
 
 At first, cars were slower than horses.
 
@@ -336,17 +336,17 @@ At first, airplanes could only fly for one minute.
 
 But technology advanced.
 
-Even if a 5% increase in magic-power recovery speed was the amulet's limit now, I believed its performance would go up to 10%, then 50%, someday.
+The amulet might top out at a 5% boost to magic-power recovery speed for now, but I believed its performance would climb to 10%, then 50%, someday.
 
-And I'd dump all the research needed to improve that performance on Tokyo Magic University.
+And I'd dump all the research needed to get it there on the Magic University.
 
-Because gathering data alone was exhausting. This kind of thing wasn't my job. It was the university's job.
+Because gathering data all by myself was exhausting. This kind of thing wasn't my job. It was the university's.
 
-They said the university would reopen next month after suspending classes. It was probably about time I could get away with throwing them more work.
+Word was the university would resume classes next month, so it was probably about time I could get away with tossing them more work.
 
-All right, I'm going to take a break by making a bizarre seven-branched-sword-shaped magic wand[^1] and playing with it.
+Now then, I'm going to take a breather and have some fun making a freaky seven-branched-sword magic wand[^1].
 
-You can handle all the rest of the amulet research. Thanks!
+The rest of the amulet research is all yours. Good luck!
 
 ## Translator Notes
 

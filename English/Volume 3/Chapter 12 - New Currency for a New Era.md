@@ -1,16 +1,16 @@
-Autumn. High skies and fat horses.
+It was autumn, when the skies were high and horses grew fat.
 
-I'd finally finished the long-awaited harvest in my rice paddies, and I was taking it easy, sleeping late to give my overworked back and limbs a rest.
+With the long-awaited rice harvest finally over, I slept in and gave my overworked back, arms, and legs a rest.
 
-I was getting used to the yearly harvest itself. But hard was still hard, no matter how used to it I got, and the weather was always a concern. I knew it would never happen again, but I still found myself worrying that another dragon might come diving out of the sky to kidnap me. Can't someone do something about how that one looks so cool but has such an awful personality?
+I'd gotten used to the harvest over the years, but hard work was still hard work. The weather kept me on edge, too. I knew it wouldn't happen again, yet I still worried that the dragon might dive out of the sky and kidnap me. Why does she have to look so cool and have such a lousy personality?
 
-I was curled up warm in my futon, eating rice straight from the rice tub like a slob and reading the precious latest issue of a manga magazine, when I heard mewling from the entryway. It was Mokutan's surprised, wary cry.
+I was curled up snug in my futon, eating rice straight from the rice tub like a slob and reading a precious new issue of a manga magazine, when a mewl came from the entryway. It was Mokutan's cry of surprise and alarm.
 
-The fire salamanders had made a nest in the reverberatory furnace and were using it as their base, but they had also learned the route from the back mountain where the furnace was to my house, so they often came to play during the day.
+The fire salamanders had made the reverberatory furnace on the hill behind my house their nest and home base. They'd also learned the route from there to my place, so they often came over to play during the day.
 
-Just recently, they had even broken through the window screen from outside, gotten in, and scattered ash from the workshop furnace all over the room. I really couldn't let my guard down around them.
+Just recently, they'd torn through a window screen to get inside, then covered the room in ash from the workshop furnace. I really couldn't let my guard down around them.
 
-At first I thought Mokutan might have been startled by its reflection in the window again, but then the doorbell rang, and I knew that wasn't it.
+At first, I thought Mokutan had gotten spooked by its reflection in the window again. Then the doorbell rang, so that wasn't it.
 
 The steel sheep wool I'd ordered had arrived.
 
@@ -18,21 +18,21 @@ The steel sheep wool I'd ordered had arrived.
 
 “Mii!”
 
-As I crawled out of the futon and called toward the entryway, a lively reply came back.
+I called toward the entryway as I crawled out of the futon, and Mokutan gave me a spirited reply.
 
-But I couldn't trust it that much. Mokutan gave a lively reply whether it understood or not. Good job answering!
+Not that I could put much faith in that. Mokutan always answered like that, whether it understood me or not. Good job answering!
 
-I slipped on my slippers and went out to the entryway. Mokutan was up on its hind legs, threatening a troubled-looking stoat. Hiyori crouched behind the stoat, ready to protect her at any moment.
+I slipped on my slippers and shuffled to the front door. Mokutan stood on its hind legs, threatening a troubled-looking stoat, while Hiyori crouched behind the stoat, ready to shield her at a moment's notice.
 
 “Oh, welcome.”
 
 “Hello, Ori-san. Who is this little one?”
 
-“This is Mokutan. It's the most curious and people-friendly one.”
+“This is Mokutan. It's the most curious and sociable of the bunch.”
 
-If she'd run into Tsubaki, the bossiest one, she probably would've been blasted with fire or scratched by now. Of course, with Hiyori there, that could never actually hurt the professor.
+If the professor had run into Tsubaki, the bossiest one, Tsubaki would probably have breathed fire at her or clawed her by now. Of course, with Hiyori there, the professor was never going to get hurt.
 
-Professor Ohinata was physically bigger than Mokutan. Meeting my pets for the first time, she stayed low on all fours so she wouldn't provoke Mokutan, then gave a little bow.
+Professor Ohinata was bigger than Mokutan. Since this was her first time meeting one of my pets, she kept low on all fours to avoid provoking it and gave a small bow.
 
 “Mokutan-san, I'm Ohinata Kei. It's a pleasure to meet you.”
 
@@ -40,167 +40,165 @@ Professor Ohinata was physically bigger than Mokutan. Meeting my pets for the fi
 
 “Mii!?”
 
-The moment the professor lowered her head, Mokutan tried to scratch her head.
+The instant the professor bowed, Mokutan swiped at her head.
 
-But before its tiny claws could reach her, Hiyori quickly grabbed the stoat and pulled her close to protect her.
+Before its tiny claws could reach her, Hiyori snatched the stoat up and pulled her out of reach.
 
-“Kei-chan, it really is impossible. You can't make friends with monsters without Gremlin implantation.”
+“Kei-chan, I knew it wouldn't work. You can't make friends with monsters without Gremlin implantation.”
 
-“I-I suppose so. That surprised me.”
+“I-It seems so. That startled me.”
 
 Professor Ohinata's tail trembled in Hiyori's hand.
 
-Couldn't be helped. Monsters were like that. They didn't warm to humans, and being a stoat wouldn't make them like her any more.
+Oh well. That was just how monsters were. They didn't warm to humans, and being a stoat wasn't going to earn her any bonus affinity.
 
-For the moment, I picked up Mokutan and put it in the workshop furnace with some charcoal to keep it quiet, then invited the two inside.
+For now, I rounded up Mokutan, put it in the workshop furnace with some charcoal to settle it down, and showed the two of them inside.
 
-I served tea in the living room and accepted a paper bag full of balls of yarn.
+I served tea in the living room, and Professor Ohinata handed me a paper bag full of balls of yarn.
 
-I'd ordered enough medium-weight yarn for one outfit, top and bottom, and balls of fine yarn for gloves.
+I'd ordered enough medium-weight yarn for a top and bottom, plus some fine yarn for gloves.
 
-The steel-sheep yarn was pale gray, fluffy, and light. According to Professor Ohinata, if any of the yarn was exposed to high heat—anything as hot as a campfire or hotter—the whole thing would harden at once. Apparently, it would stay flexible even after hardening. This stuff was way too strong.
+The steel sheep yarn was pale gray, light, and fluffy. According to Professor Ohinata, exposing even part of it to high heat—anything at least as hot as a campfire—made the whole thing harden at once without losing its flexibility. Talk about an overpowered material.
 
-“For now, knitter-san turns the steel-sheep yarn into clothing, which is distributed first to important people who are neither witches nor mages. There isn't much of it, so we can't allocate any more than that to you, Ori-san...”
+“For now, knitter-san turns the steel sheep yarn into clothing, which we distribute first to important people who are neither witches nor mages. There isn't much of it, so that's all we can allocate to you, Ori-san...”
 
-“No, that's plenty. Do you have a steel-sheep outfit too, Professor?”
+“No, that's plenty. Do you have a steel sheep outfit too, Professor?”
 
-“I have one outfit. I had it made a little big to allow for a growth spurt, but since I became beastkin, I haven't gotten much taller.”
+“I have one. I had it made a little large to allow for a growth spurt, but I haven't gotten much taller since I became beastkin.”
 
 “Oh. But didn't you say you could freely switch between human and stoat?”
 
-“That's a little different. I become human with human-transformation magic and a stoat with stoat-transformation magic. I rearranged the words in the bypass incantation to make it more stable, but it seems that the first accident redefined ‘human’ for me as that form with animal ears and a tail...”
+“That's a little different. I use human-transformation magic to become human and stoat-transformation magic to become a stoat. I rearranged the words in the bypass incantation to make it more stable, but the first accident seems to have redefined ‘human’ for me as that form with animal ears and a tail...”
 
 “B-But Kei-chan with animal ears is cute too.”
 
-Hiyori fussed over the stoat, trying to cheer her up as her whiskers drooped.
+The stoat's whiskers drooped, and Hiyori fussed over her, trying to cheer her up.
 
-“Tough luck” almost came out, but I barely swallowed it. This didn't seem like something “tough luck” could cover.
+I almost said, “Tough luck,” but swallowed it at the last second. This seemed way too serious for that.
 
-Having your definition of a human change was way too scary. The professor had stopped growing somewhere around elementary- to middle-school age. That made it seem like her lifespan had gotten longer, but it could just as easily have gotten shorter.
+Having your very definition of human change was terrifying. The professor was only around elementary- or middle-school age when she stopped getting taller. That made it sound as though her lifespan had increased, but it could just as easily have gotten shorter.
 
-The Flame Witch, for one, had shrunk from around middle-school height to palm-sized because her species changed when she became a witch. The Hell Witch had awakened a cannibalistic urge too. There was no telling what might happen when someone's species got warped. Scary.
+The Flame Witch had shrunk from around middle-school height to palm-sized because becoming a witch changed her species. The Hell Witch had developed cannibalistic urges, too. There was no telling what might happen once someone's species got warped. Scary.
 
-Good thing I'm a normal human! I want special superpowers, but I'd rather not have my kinks or lifespan warped because of them. This dexterity is enough of a superpower for me.
+Good thing I'm a normal human! I want special superpowers, but not if they mess with my kinks or my lifespan. I've got all the superpower I need in this dexterity.
 
-Professor Ohinata was a little down, but she recovered while lapping up tea from a doll-sized toy cup.
+Professor Ohinata was a little down, but she recovered as she lapped tea from a tiny doll's cup.
 
-After grooming her damp mouth with her front paws, she brought it up.
-
-“By the way, Ori-san. You make amulets besides magic wands too, don't you?”
+After grooming the damp fur around her mouth with her front paws, she said, “By the way, Ori-san. You make amulets besides magic wands too, don't you?”
 
 “Yeah, well, as a side job. Magic wands are my main thing, though.”
 
 “Then, would you be interested in making coin dies for the new currency as another side job?”
 
-“Oh? Tell me more.”
+“Oh? Go on.”
 
-Interested, I leaned forward.
+Now she had my attention. I leaned forward.
 
-New currency. Coin dies. Didn't that sound fun?
+New currency. Coin dies. Now that sounds like fun!
 
-“The Tohoku Hunting Association, the Hokkaido Magic Beast Farm, and the Tokyo Witches' Council—the three large survivor communities—have reached an agreement, and we will issue a shared new currency at the beginning of next year. We expect exchange between us to become more active, so we cannot keep bartering forever. We need a currency that is not bulky and is easy to store.”
+“The Tohoku Hunting Association, the Hokkaido Magic Beast Farm, and the Tokyo Witches' Council—the three large survivor communities—have reached an agreement to issue a shared new currency at the start of next year. We expect trade among us to increase, so we cannot keep bartering forever. We need currency that is compact and easy to store.”
 
 “I'm more impressed barter got us this far.”
 
-It wasn't like everything had been pure barter. IOUs and ration tickets seemed to have played roles like banknotes. I had a title deed to a metal-processing factory in Shinagawa Ward myself.
+It wasn't as if we'd relied solely on barter. Apparently, IOUs and ration tickets had served as makeshift banknotes. I had the title deed to a metalworking factory in Shinagawa Ward myself.
 
-“So we're going with coins? Why not banknotes? Paper's lighter and less bulky, right?”
+“So we're going with coins? Why not paper money? It's lighter and takes up less space.”
 
-“Hmm. That's true, but banknotes are difficult to print...”
+“Hmm. You're right, but paper money is difficult to print...”
 
-“Ah, it'd be tough if the printing presses don't run. Counterfeiting measures and waterproofing would be a pain too.”
+“Ah, it'd be tough without working printing presses. Counterfeit prevention and waterproofing sound like a pain too.”
 
-“Exactly. So we are currently collecting the old 1-yen, 5-yen, 10-yen, 50-yen, 100-yen, and 500-yen coins. We plan to melt them down, change their designs, and turn them into new currency while keeping the denomination numbers the same.”
+“Exactly. So we are currently collecting the old 1-yen, 5-yen, 10-yen, 50-yen, 100-yen, and 500-yen coins. We plan to melt them down and mint new coins with different designs but the same denomination numbers.”
 
-“Then, uh, we're issuing six kinds of new currency.”
+“So, uh, you're issuing six different coins.”
 
-“That's right. It has also been decided that the new currency will include somewhat complicated patterns to prevent counterfeiting. I thought you might be interested in making the masters for those patterns—as the master pattern maker for the dies.”
+“That's right. We have also decided that the new coins will have fairly intricate patterns to prevent counterfeiting. I thought you might be interested in making the originals for those patterns, as master pattern maker for the dies.”
 
 “I'm interested. I want to do it.”
 
-“Really!? Great! If it's you, Ori-san, I'm sure you'll make something wonderful!”
+“You are!? Wonderful! With you on the job, Ori-san, I'm sure you'll make something great!”
 
-Professor Ohinata happily clapped her little front paws, but Hiyori cut in skeptically.
+Professor Ohinata clapped her tiny front paws in delight, but Hiyori cut in skeptically.
 
 “You'll probably put a creepy amount of detail into it.”
 
-“Huh? Don't underestimate me. I'm a craftsman, okay? I've already thought it through. Coins wear down, and grime gets on them. If the design is too detailed, it will wear down until you can't tell what the original pattern was, which would be counterproductive. Because they're coins.[^1] There's a reason people have used faces, plants, buildings, and living things in coin designs for ages: they're visible, have a certain degree of complexity, you can still make out the pattern even with some wear, and if the lines are distorted, the wrongness stands out easily, so the anti-counterfeiting effect also—”
+“Huh? Don't underestimate me. I'm a craftsman, okay? I've already thought it through. Coins wear down and collect grime. If a design is too detailed, it'll wear away until no one can tell what the original pattern was. That'd be counterproductive—or should I say coin-terproductive?[^1] There's a reason coin designs have always used faces, plants, buildings, and animals. They're easy to make out and have a certain level of complexity. You can still tell what the pattern is after some wear, and any distortion in the lines immediately looks wrong, so they also help deter counterfeit—”
 
-“O-Okay, okay. Sorry for teasing you. Ori, you're a top-class craftsman. You're the best choice for master pattern maker for the new coins.”
+“O-Okay, okay. Sorry for heckling you. Ori, you're a first-rate craftsman. You're the best fit for master pattern maker on the new coins.”
 
-“Right?”
+“Exactly.”
 
-After totally winning the argument against Hiyori, I got the die-design requirements and reference materials from Professor Ohinata, then immediately started drawing up plans.
+With Hiyori's argument thoroughly demolished, I got the die-design requirements and reference materials from Professor Ohinata and started drafting at once.
 
-At the Tohoku Hunting Association's request, Sendai Toshogu[^2] had been chosen for the 10-yen coin. Apparently, it was the building where the Association's administrative center was located. There was a photograph taken before the Gremlin Disaster, so I just had to use that as my design reference.
+At the Tohoku Hunting Association's request, Sendai Toshogu[^2] had been chosen for the 10-yen coin. Apparently, the Association used it as its administrative center. I had a photograph from before the Gremlin Disaster to use as my design reference.
 
 The Hokkaido Magic Beast Farm had the right to design the 100-yen coin, and they had specified the giant magic beast Mountain Bear.
 
-The reference materials included a realistic painting of the Mountain Bear, apparently by a skilled artist, but the scale was clearly wrong. Compared with the Sapporo TV Tower drawn beside it, the beast had to be around 40 m long.
+The reference materials included a realistic painting of the Mountain Bear by what looked like a skilled artist, but the scale was clearly absurd. Compared with the Sapporo TV Tower drawn beside it, the beast had to be around 40 m long.
 
-It had a sun-like pattern on its belly, holy rings of light around both wrists, and an absurd <ruby>kamuy<rt>guardian god of the northern land</rt></ruby>[^3] vibe. Hokkaido is amazing!
+It had a sun-like pattern on its belly, divine rings of light around both wrists, and some serious <ruby>kamuy<rt>guardian god of the northern land</rt></ruby>[^3] vibes. Hokkaido is wild!
 
-Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed, so it seemed best to put only the Mountain Bear's face on the front and work the belly pattern in nicely on the back with the number 100.
+Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed. Better to put only its face on the front, then work the belly pattern into the back alongside the number 100.
 
-The Tokyo Witches' Council, which had led the issuance of the new currency and would do the work of minting it, had the design rights for the 1-yen, 5-yen, 50-yen, and 500-yen coins.
+The Witches' Council had led the new-currency project and would handle the minting, so it held the design rights for the 1-yen, 5-yen, 50-yen, and 500-yen coins.
 
-Only the design for the 500-yen coin had been decided unanimously by every Council member: the face of the Bloodsucking Mage.
+The Council had settled only one design by unanimous vote: the Bloodsucking Mage's face on the 500-yen coin.
 
-The portrait of the Bloodsucking Mage in the materials looked exactly like a full-on middle-aged vampire. He wore a tailcoat, had salt-and-pepper hair slicked back, and had the trim build of a handsome middle-aged man. He had the air of a refined upper-class gentleman, but he was giving a flashy wink with a playful expression, full of theatrical flair.
+The Bloodsucking Mage's portrait made him look like the most stereotypical middle-aged vampire imaginable. He wore a tailcoat, his salt-and-pepper hair was slicked back, and he had the trim build of a handsome middle-aged man. He looked every inch the refined aristocrat, but his expression was pure mischief: a bold wink with plenty of theatrical flair.
 
-Even in a painting, he seriously looked like a good guy. But this guy died in the giant kaiju invasion...
+Even in a painting, he looked like such a nice guy. But this guy had died in the giant kaiju invasion...
 
-That left the 1-yen, 5-yen, and 50-yen coins, but the designs for those three had not been decided. Apparently, the witches all had completely different opinions and were arguing like hell.
+That left the 1-yen, 5-yen, and 50-yen coins, none of which had a design yet. Every witch wanted something completely different, and apparently they were arguing like hell.
 
-The materials listed around thirty candidates, with design references for them.
+The materials listed around thirty candidates, each with its own design references.
 
-Apparently, every design had problems, so any design was fine. They had argued so much it would never be decided, so the Eyeball Witch had quietly told the mint personnel, “You can make the call. I'll handle any complaints myself.”
+Every design had its problems, which apparently meant any of them would do. They'd argued so much that nothing would ever get decided, so the Eyeball Witch had apparently told the mint official on the quiet, “You can make the call. I'll handle any complaints myself.”
 
-And the mint personnel had dumped it all on me through Professor Ohinata.
+And the mint official had dumped it all on me through Professor Ohinata.
 
-Well, no matter which design they picked, they'd get on some witch's bad side. What a nightmare. No wonder they wanted to dump it on someone else.
+Well, any choice would get on at least one witch's bad side. What a nightmare. No wonder the official wanted to dump it on someone else.
 
-On the other hand, my identity was still unknown, and even if one of the witches got mad, I had Hiyori Security keeping me safe.
+I, on the other hand, was known only as some mystery man, and Hiyori Security had me covered if one of the witches got mad.
 
-Or rather, it was amazing that even though their opinions were that divided, they instantly decided on the Bloodsucking Mage for the 500-yen coin. It was the coin with the highest denomination too.
+Still, it was amazing that such a divided group had settled instantly on the Bloodsucking Mage for the 500-yen coin. The highest denomination, no less.
 
-What a shame to lose someone who was that beloved.
+With that kind of popularity, he really was a terrible loss.
 
-Since any design for the remaining coins would have problems, I simply chose based on what I liked.
+Since every possible design for the remaining coins would cause problems, I just picked the ones I liked.
 
 The 1-yen coin was that lame dragon, the Dragon Witch.
 
-The dragon herself was lame, but I couldn't resist the lure of a dragon's insanely cool looks. Somehow, she wasn't completely lacking in popularity either. But you get the small-fry 1-yen coin.
+The dragon herself was lame, but I couldn't resist how insanely cool she looked. She wasn't completely unpopular, either. Still, you get the weakest coin: one yen.
 
-The 5-yen coin was Japan's top school, Tokyo Magic University.
+The 5-yen coin was Japan's top university, Tokyo Magic University.
 
-That was the Foresight Mage's pick. He's helped me out too, so it was a safe bet.
+That was the Foresight Mage's pick. He's helped me out too, so it was the safe choice.
 
 The 50-yen coin was the strongest member of the Tokyo Witches' Council: the Blue Witch.
 
 Hiyori's mask on the front, and Cyanos on the back.
 
-Hiyori hadn't been on the candidate list, but she was three times better than the Blue Witch-sama's own suggestion, “Stoat-chan.” It was fine to decide the design based on personal feelings.
+Hiyori hadn't been on the candidate list, but she was three times better than the Blue Witch-sama's own suggestion, “Stoat-chan.” No harm in letting personal feelings decide the design.
 
-The mask and Cyanos were both cool, too. All things considered, she was one of the greats.
+The mask and Cyanos were both cool, too. For all her quirks, she was one of the greats.
 
-When I finished drawing up the plans and took a breath, Hiyori and the professor were earnestly talking over difficult topics.
+When I finished the plans and took a break, Hiyori and the professor were deep in an earnest discussion of something complicated.
 
-They seemed to be discussing currency-circulation issues like credit creation, backing the value of currency, and inflation rates.
+They seemed to be discussing issues surrounding the circulation of money, such as credit creation, what backed a currency's value, and inflation rates.
 
-I didn't think I could keep up with that conversation, so I left the two of them behind, went into the workshop, and got to work.
+I couldn't hope to keep up, so I left them to it and headed into the workshop.
 
-I'm making them, I'm making them, I'm making them right now. I'm making the dies for the new currency.
+Let's make 'em, make 'em—let's get right to it! Time to make the dies for the new currency.
 
-First, I'd make a wooden model, press it into a box of sand, remove it, and pour molten metal into the space it left. Then, once it cooled and hardened, I'd file it down to clean up the shape. That was the way to do it.
+First, I'd make a wooden model and press it into a box of sand. Then I'd remove the model, pour molten metal into the cavity, and let it cool and harden before filing it into shape. That was the plan.
 
-Carving the wooden model left me feeling strangely emotional.
+As I carved the wooden model, I felt strangely moved.
 
-Issuing the new currency felt like a turning point in history. Like something new was about to begin. That fresh feeling was nice.
+Issuing a new currency felt like a turning point in history. Something new was beginning, and there was something refreshing about that.
 
-But from now on, I'd be buying and selling things with coins I'd made the master patterns for. It kind of made me squirm.
+But soon I'd be buying and selling things with coins based on master patterns I'd made. That made me squirm a little.
 
-But I could make Hiyori squirm with me, so whatever!
+But I get to drag Hiyori into the squirming too, so who cares!
 
 Let's see you get embarrassed every time you look at a 50-yen coin. Gahaha!
 

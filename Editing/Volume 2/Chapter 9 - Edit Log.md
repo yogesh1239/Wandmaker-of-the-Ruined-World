@@ -160,3 +160,23 @@
 - Hell Witch, Ikegami, Water Eater, Bloodsucking Mage, Foresight Mage, Edogawa Witch, Eyeball Witch, Flame Witch, Tokyo Witches' Council, Kishimojin, `khakkhara`, and chapter-local `oni` follow live locks.
 - `electrical disaster` remains lower-case descriptive wording; the source-only phrase does not currently warrant a glossary row.
 - Footnote marker `[^3]`, the single Part 2 Translator Notes section, narrative/direct-thought tense distinction, and exact `![p162.jpg](images/p162.jpg)` endpoint were verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–679; agent `reedit-v2c9-s1`; ~170 paragraph-level edits). Flow: short-sentence share 13.4% → 13.5%; runs 0 → 0 (baseline not choppy; "Kill. Eat." kept as a punchline). Narration was already past; no tense reversals needed.
+
+### Accuracy Fixes
+- **「この魔物けっこう強いでしょ!!　村人から魔物を守るためじゃないよね!!」**: logic and !! punctuation matched → "This monster's pretty strong, isn't it!! You can't be protecting it from the villagers!!" — accuracy
+- **池上を頼るような事を言っていた**: "they had called for Ikegami's help" → "they'd talked as if Ikegami was the one to count on" — accuracy
+- **業腹だが**: "It pissed her off" → "It made her furious" (no added profanity) — register
+- **じゃあ────これが何か**: dash restored to the source position — punct
+- **詠唱**: "chanted the incantation" → "recited the incantation" — glossary (banned alias "chant")
+- [polish] **蔦植物に呑み込まれつつあった** / stacked-participle opener (Hell Witch punches her stomach) / 感情がぶわりと湧きあがり: English word order, cause before effect, nominalization removed — polish
+- [polish] **ハチの巣をつついたような**: → "like a stirred-up hornets' nest" — polish
+- 最後通牒 kept as "ultimatum" so the later payoff lands; "magic-power control" matched to the glossary form.
+
+### Register and Flow
+Close-third on the **Hell Witch**. Dialogue-paragraph count 66 → 63 because three standalone speech tags were joined to the same speaker's next line; no speakers were merged and no lines dropped. JA 529 "instead of a grave" kept as aimed at Ikegami.
+
+### Formatting Confirmed
+- Ruby span, notes [^1]–[^3], and image markers unchanged; no backticks; `check_reedit.py` PASS; `run_chapter_gates.py --unit 2 --chapter 9` ALL PASS.

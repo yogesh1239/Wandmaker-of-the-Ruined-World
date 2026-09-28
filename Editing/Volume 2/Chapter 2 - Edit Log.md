@@ -214,3 +214,24 @@
 - All authoritative source lines 511–673 were audited in one 163-line chunk for the accuracy pass, then once for the bounded polish pass; the draft ends exactly at the chapter's `まあ、悪くない散策だった。` endpoint.
 - Japanese macaque, Bigfoot, Gremlin, Blue Witch, white wolf, symbiosis, mutualism, commensalism, parasitism, monster, and Okutama locks were verified; the measurement remains `3 m`.
 - The `kee-kee` macaque cries and Bigfoot's `Oloron` cry were preserved; all narration remains past tense, and no scene break, image marker, furigana, or footnote occurred in this scope.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–673; agent `reedit-v2c2-s1`; ~150 edits). Flow: short-sentence share 26.3% → 20.2%; runs of 3+ short sentences 4 → 0. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 充分な米がある and the JP 10–34 opening; 外は寒かっただろうに…露出させている; JP 343–352 passage; ビッグフットは本当にいたんだ！ ("Bigfoot was real!"); animal-lover, hate-meeting-people, guaranteed-win, surprise, chest-hurts, monsters-are-hopeless lines — tense (audit reversal)
+- **鈍い相槌を聞きながら…解説していると**: restored omitted 「ほとんど何も知らない」 ("The Blue Witch knew next to nothing about card games…") — accuracy
+- **大利なら加工できる。大利だけが加工できる。**: third → second person "but you, Ori, can process them. Only you can." — address
+- **未確認生物[Unidentified Mysterious Animal]**: semantically identical ruby kept as plain prose, capitalized to show the UMA source — punct
+- [polish] **しんしんと降りしきる雪…時間は静かに過ぎていった**: doubled "quietly" removed — polish
+- [polish] **定期便の如くひょっこり**: → "as regularly as a bus schedule" — polish
+- [polish] **ニホンザルの群れ ×3**: repeated sentence openers varied — polish
+- [polish] **物欲しそうに両手をニギニギ**: → "flexed her fingers longingly" — polish
+- [polish] **おっっっも。嫌な実感の籠り方だな**: → "Oooof, heavy. There's a nasty amount of real feeling in that." — polish
+
+### Register and Flow
+**Ori:** casual; live direct thought kept present ("Wooo, we're UMA hunters!", "Am I wrong here?"). **Blue Witch:** two stranded speech tags joined to her own lines; dialogue paragraphs 75 → 73, no speakers merged.
+
+### Formatting Confirmed
+- Image markers, notes, scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 2` ALL PASS.

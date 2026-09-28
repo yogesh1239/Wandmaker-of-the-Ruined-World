@@ -52,3 +52,32 @@
 - **source line 130 (日森[ひもり])**: “日森[ひもり]” → “Himori” — accuracy (semantically identical reading)
 - **source line 133 (火守[ひもり])**: “火守[ひもり]” → “<ruby>Himori<rt>Firekeeper</rt></ruby>” — accuracy (restore semantic ruby)
 - **source lines 139 and 277**: “火守乃杖[ひもりのつえ] / 封牢[ふうろう]” → “Himori Wand / sealing cage” — glossary
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–283; agent `reedit_v3c4_s1`; model `gpt-5.6-sol` at high reasoning; ~59 paragraph edits). Flow: short-sentence share 15.7% → 20.7%; runs 0 → 0. Narration was already past.
+
+### Accuracy Fixes
+- **同じ構造の繰り返しが意味を持つ**: “repeating the same structure often meant something” → “repeating an identical structure often mattered” — accuracy
+- **二つの輪で…サンドイッチ**: moved the main clause first while retaining the two-ring sandwich design — polish
+- **躊躇する事なくぴょいと飛び込み**: rebuilt the action sequence and retained the abrupt freeze in midair — accuracy
+- **指示一つ、手紙一枚で**: preserved the either/or meaning as “One order or one letter—no questions asked” — accuracy
+- [polish] Nominalized ability descriptions were changed to direct active verbs — polish
+
+### Register and Flow
+The casual technical voice and clipped punchlines were retained. Direct craft asides and the parenthetical refusal use natural present tense; past narration stayed past.
+
+### Formatting Confirmed
+- The exact `---`, terminal note, semantic ruby distinction, Himori Wand engraving, and sealing-cage term were preserved.
+- Glossary forms, honorifics, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 59 changes)
+- **魔法増幅率** (JP 235): restored the glossary form "amplification ratio" — glossary
+- **（返さない）** (JP 262): plain parenthetical punchline, back to past → "(I didn't.)" — tense
+- **凸凹型または矢尻型が最良…デザインが好み** (JP 67): restored 最良 and the design preference — accuracy
+- **どうやら…らしい** (JP 76), **という** (JP 160), **そうだ** (JP 256): restored the hearsay/hedge markers — accuracy
+- **バチは当たらない** (JP 82): "It wouldn't hurt to let her…" — accuracy
+- **やっぱ** (JP 10) "after all"; **今回も** (JP 121) "too" — accuracy
+- **更に血縁まで…お手上げだ** (JP 268): fixed the imperative/past clash — polish
+- **ネーミングに特に規則性は無い** (JP 118): "my names" → "how I named them" — polish

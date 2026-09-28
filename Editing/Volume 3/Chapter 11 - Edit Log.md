@@ -109,3 +109,36 @@
 - Nameless Epic/Hypothesis, magic-reflection magic, Hiyori, Ohinata Kei, and all incantations verified against glossary locks.
 - Narrative/direct-thought tense distinction, honorifics, name order, and no-macron romanization verified.
 - Sole sugoroku note consolidated under one terminal `## Translator Notes`; no title heading present.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–353 / JP lines 1–526; agent `reedit_v3c11_s1`; model `gpt-5.6-sol` at high reasoning; ~105 edits). Flow: mean sentence length 13.4 → 12.3 words; short-sentence share 22.4% → 27.0%; runs 1 → 0; words 3211 → 2950. No past-tense reversals.
+
+### Accuracy Fixes
+- **稲に穂が出始めた**: “The rice had started putting out ears” → “Ears had started forming on the rice” — accuracy
+- **火蜥蜴[とかげ]**: plain “fire salamanders” → `<ruby>lizards<rt>fire salamanders</rt></ruby>` to preserve the semantic reading — accuracy
+- **急にオコジョになったかと思ってびっくりしました**: rebuilt as “Oh, I see. I'd thought she'd suddenly turned back into a stoat, so it startled me” — accuracy
+- **軽口を本気と受け取られて勢いのいいストレートを返された**: restored the joke/misreading link and “enthusiastic straight counterpunch” image — voice
+- **呪いも歪んだ愛もまとめて反射した**: clarified that both the curse and its twisted love were reflected straight back — accuracy
+- [polish] The Tokyo Magic University president's overloaded introduction was divided into three direct role statements — polish
+
+### Register and Flow
+Kept the casual-comedy ceiling, flat punchlines, honorifics, and unmarked direct thought. The 8.1% word reduction came from source-checked tightening rather than omitted content. Dialogue paragraphs 72 → 71 because one action was attached to the same speaker's line; no speaker or dialogue was lost.
+
+### Formatting Confirmed
+- `![p174.jpg](images/p174.jpg)`, all ruby, the sugoroku note marker and definition, and the final `## Translator Notes` section remained intact; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 3 --chapter 11` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 130 changes)
+- **尻尾をピンと立て少し緊張する** (JP 241): “tail shot straight up with nerves as I said” → “tail was sticking straight up, and she looked a little tense. I told her” — restores sequence and 少し — accuracy
+- **忙しいイメージあるけど今日は暇なん？** (JP 352): “you're always busy. You got the day off today?” → “I figured you'd be busy. You free today?” — impression, not fact; keeps the やっぱ follow-up meaningful — accuracy
+- **ぶつぶつ言い始めた青の魔女改めヒヨリ** (JP 313): restored the dropped grumbling clause: “Hiyori—formerly the Blue Witch—had started grumbling, so I tugged her sleeve” — accuracy
+- **という意図だったらしい** (JP 94): “The adjustable chain let her keep wearing” → “Apparently, the adjustable chain was so she could keep wearing” — restores らしい hedge — accuracy
+- **喋っているはずなのに／やはり陽の者は理解できない** (JP 145): restored はず (“We're supposed to be speaking”) and やはり (“I knew it—”) — accuracy
+- **思わず笑顔になってしまう** (JP 70): “I smiled” → “I couldn't help smiling” — accuracy
+- **ロケットペンダントが揺れていた** (JP 82): “hung from a shortened chain” → “on a shortened chain swayed” — accuracy
+- **お前ん家の表札に書いてあるやつだよな？** (JP 301): restored the confirming question: “at your house, right?” — accuracy
+- **なぜか勝てない** (JP 328): “Turning down every demand she made didn't help me win either.” → “But if I turned down her demands, for some reason I still couldn't win.” — removes added “every,” restores なぜか — accuracy
+- **私もそれはちょっと思いました** (JP 427): “I thought so too.” → “I did think that a little myself. Anyway,” — restores ちょっと — accuracy
+- **とほざきながら** (JP 445): removed added “went around” → “the devil spouted that crap” — accuracy
+- **聖職者が言いそうな内容だし** (JP 457): “That's exactly what a cleric would say.” → “It sounds like something a cleric would say.” — accuracy
+- **魔石やグレムリンの加工は奥が深い** (JP 520): “There was an incredible amount to learn about” → “Working with magic stones and Gremlins had real depth.” — restores the 奥が深い／奥深い parallel — worse

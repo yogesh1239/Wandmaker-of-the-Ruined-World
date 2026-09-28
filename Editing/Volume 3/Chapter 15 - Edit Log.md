@@ -129,3 +129,40 @@
 - Part 2 source lines 226–538 audited in order in two source-line chunks (226–385, 386–538), accuracy first and polish second.
 - Exact glossary forms, all three furigana incantations, narrative/direct-thought tense distinction, and final battle outcome verified.
 - Inline image `![p227.jpg](images/p227.jpg)` preserved exactly; no unmatched footnotes or added final/reference edits.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–357 / JP lines 1–538; agent `reedit_v3c15_s1`; model `gpt-5.6-sol` at high reasoning; ~109 edits). Flow: mean sentence length 14.2 → 12.7 words; short-sentence share 21.1% → 26.3%; runs 3 → 5; words 3285 → 3147. No past-tense reversals.
+
+### Accuracy Fixes
+- **口減らし**: replaced the literal phrasing with “reduce the number of mouths they had to feed” — accuracy
+- **臓腑が煮えくり返る**: restored the bodily anger image as “He seethed...” — voice
+- **ぶっ殺せ**: “Kill it” → “Fucking kill it!!!” at the source's intensity — register
+- **限界を何段階も超えた**: “passed his limit” → “blew several levels past his limit” — accuracy
+- **兎は無事だ／大狼も生きている**: restored the immediate present-tense conclusions “The rabbit is safe” and “The Great Wolf is alive” — tense
+- [polish] Deitalicized source-unmarked thought and sharpened the sealing-round and failed-regeneration action — polish
+
+### Register and Flow
+`check_reedit.py` returned FLOW LIGHT PASS. All five runs were source-checked and retained as deliberate action/comedy beats: the Hunting Association family joke; the “But / Even then / Still” reversal; the kill-order outburst; the two-round finishing sequence; and the veterans' failed push/lucky escape.
+
+### Formatting Confirmed
+- `![p227.jpg](images/p227.jpg)`, all incantation ruby, and file structure remained intact; `check_reedit.py` PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 15` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 109 changes)
+- **怯え、萎縮し、…避難所に入れてもらった** (JP 34): restored "cowed", dropped the added "first shelter" → "left him terrified and cowed, and he all but threw himself into a shelter that agreed to take him in" — accuracy
+- **強者の義務として** (JP 79): "in the name of a strong man's duty" → "because the strong had a duty to serve" — worse
+- **いるだろうと睨んでいる** (JP 106): "was sure" → "suspected" — accuracy
+- **変異した見た目次第では…できない者もいるだろうが** (JP 109): restored "appearance" and the hedge → "Of course, depending on how the mutation had changed their appearance, some probably couldn't hide even if they wanted to." — accuracy
+- **段階的に人数を減らされ、今では村雲一人** (JP 127): removed the redundant "cut that number to one" → "gradually cut back the staff" — worse
+- **頑固爺で知られる…素晴らしい心の有り様が理由** (JP 145): restored "known for being a stubborn old man" and "such a wonderful person" — accuracy
+- **決して良く思わない** (JP 163): "would think less of him" → "would never think well of him" — accuracy
+- **容赦なく突きつけられる** (JP 172): restored "without mercy" — accuracy
+- **監視塔に上り** (JP 205): "back in the watchtower" → "up in the watchtower" — accuracy
+- **俺はきっと今頃** (JP 292): restored きっと as "I bet" — accuracy
+- **魔法が届きにくい高所** (JP 322): "too high for their magic to reach" → "so high that their magic struggled to reach it" — accuracy
+- **……そこまで考えた村雲は** (JP 403): restored the leading ellipsis continuing "comforting her..." — mechanics
+- **破壊力と反比例するように静かに気配なく飛ぶ** (JP 442): "the quieter and less perceptible its flight seemed to become" → "It flew silently and without a trace, as quiet as it was destructive." — accuracy
+- **兎は無事だ。／大狼も生きている。** (JP 511, 514): reverted the re-edit's present tense to "was safe" / "was alive too" (no direct-thought signal; narration stays past) — tense
+- **知らぬ存ぜぬを貫き通すと決めた** (JP 520): restored 決めた → "He decided that if the Tohoku Hunting Association asked…" — accuracy
+
+Post-fix checks: `check_reedit.py` RESULT: PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 15` RESULT: ALL PASS.

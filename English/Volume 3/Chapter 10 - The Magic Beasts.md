@@ -1,12 +1,12 @@
-Even with the help of Gremlin implantation, it took time to get monsters used to people and achieve magic-beastification.
+Even with Gremlin implantation, getting monsters used to people and completing magic-beastification took time.
 
-Even with the Hokkaido Magic Beast Farm's established taming know-how, it took a full two months to get them tame enough to show the Blue Witch the results of their training.
+Even with the taming methods developed by the Hokkaido Magic Beast Farm, it took a full two months to get them ready to show the Blue Witch.
 
-Just two months, but still two months.
+Two months might not sound like much, but two months was still two months.
 
-Over those two months, the three rambunctious fire salamanders changed beyond recognition and started listening to my instructions well.
+In those two months, the three rambunctious fire salamanders had changed beyond recognition. They'd learned to follow my orders.
 
-Today, I put up a banner saying "Japan's Best Fire Salamanders" in the yard and held a demonstration to show the Blue Witch the results of their training.
+Today, I put up a banner saying “Japan's Best Fire Salamanders” in the yard and held a demonstration for the Blue Witch.
 
 “Mokutan, Sekitan, Tsubaki! Assemble!”
 
@@ -16,7 +16,7 @@ Today, I put up a banner saying "Japan's Best Fire Salamanders" in the yard and 
 
 “Mimimi.”
 
-When I called out, the three fire salamanders that had been playing on the ash pile in the backyard cried out, ran to my feet, and lined up side by side. Every one of them put on a serious face, looking fully motivated.
+At my call, the three fire salamanders playing on the backyard ash pile cried out and raced over to line up at my feet. All three wore determined looks, raring to go.
 
 “Burn this.”
 
@@ -28,25 +28,25 @@ When I called out, the three fire salamanders that had been playing on the ash p
 
 I gripped a crucible holding a platinum ring with fire tongs and held it out in front of the three. They all breathed fire at once.
 
-The three jets of flame hit the crucible without missing and gradually heated it red-hot. In less than a minute, the platinum inside melted into a gooey liquid.
+All three jets of flame struck the crucible dead-on, slowly heating it red-hot. In less than a minute, the platinum inside had melted into a puddle.
 
 Platinum's melting point was 1,800°C. Even a metal with a melting point 300°C higher than iron's was no match for the fire salamanders' high firepower.
 
-“All right, stop! There, there, there, there. Good kids!”
+“All right, stop! Good, good, good, good! Good kids!”
 
-At my signal, the fire salamanders stopped breathing fire. I gave each of them their favorite food—charcoal, coal, and camellia oil—and they happily wagged their tails and dug in. Cute.
+The fire salamanders stopped breathing fire at my signal. I gave them their respective favorites—charcoal, coal, and camellia oil—and they wagged their tails and happily dug in. Cute.
 
-The Blue Witch, who had been watching the results of my training behind me, clapped in admiration.
+The Blue Witch had watched the whole demonstration from behind me. Now she clapped, impressed.
 
-“This is amazing. You trained them this well.”
+“This is amazing. You did well training them this far.”
 
-“It is pretty impressive. I did spend two months on it.”
+“It really is. I did spend two months on it.”
 
-Wahahaha! Praise me more. I'm a full-fledged beast handler now.
+Wahahaha! Go on, you can praise me some more. I'm a full-fledged beast handler now.
 
-If I'd worked hard for two months and gotten zero results, even I would have been depressed. But I had pulled it off by drawing on the Hokkaido Magic Beast Farm's raising know-how.
+If I'd worked at it for two months and gotten nowhere, even I would've been crushed. But with the Hokkaido Magic Beast Farm's raising methods as a guide, I'd pulled it off.
 
-It had been a lot of work getting to the point where we could communicate this well.
+It had taken a lot of work to get us communicating this well.
 
 They set my butt on fire, made me take walks with them all day, and barged into the bathroom.
 
@@ -54,107 +54,107 @@ I slept in the cramped, uncomfortable reverberatory furnace, scolded them, got b
 
 I nearly stepped on them, and they knocked over my bottle of vodka while I was having a drink.
 
-I'd made it through too many hardships to count to get here. The burns were especially rough. My burned butt hurt every time I sat down, and my hair got singed and went frizzy.
+I'd overcome more trouble than I could count to get here. The burns were the worst. My butt hurt every time I sat down, and my singed hair curled up into frizz.
 
-The reason I hadn't gotten irreparably bad burns was that, for all that, the fire salamanders were sensitive to my screams. They did not do things their companions seriously hated.
+The only reason I hadn't suffered any serious, permanent burns was that, for all the trouble they caused, the fire salamanders reacted quickly to my screams. They didn't do anything a companion truly hated.
 
-Once we started communicating, we no longer spent every moment together. We even slept in separate places now.
+Once we started communicating, we no longer had to spend every moment together. By then, we even slept in separate places.
 
-The reverberatory furnace was on the back mountain a little way from my house, so even if a fire started, it would not spread to the house. It was also easy to go care for them or check on them.
+The reverberatory furnace sat on the back mountain, a short distance from my house. It was far enough away that any fire wouldn't spread to the house, but close enough to make caring for them and checking in easy.
 
-According to the Hokkaido Magic Beast Farm's book of secret magic-beast-raising techniques, training through hierarchy and food worked on almost any monster. If you put yourself above them and controlled the food, they would often obey even if they had reservations about it.
+According to the Hokkaido Magic Beast Farm's book of secret magic-beast-raising techniques, the two methods that worked on almost any monster were hierarchy and food. By establishing yourself as the boss and controlling the food, you could get most of them to obey whether they liked it or not.
 
-You also had to pay attention to habits that suited each individual's personality and species. Some species liked physical contact, while others mostly just stayed in groups and did not interact much. Many monsters had unusual habits, like regularly bathing in water, playing with corpses as toys, or letting someone lick their Gremlin as a sign they had opened up to them.
+You also had to account for each individual's personality and its species' habits. Some species liked physical contact, while others stayed in groups but barely touched one another. Many monsters had strange customs, from bathing regularly and playing with corpses to letting someone lick their Gremlin as proof of trust.
 
 In my case, the Gremlin implantation alone established the hierarchy, and I was able to move their nest relatively easily. So I won them over with food, grew closer to them, and learned about fire salamander ecology.
 
 I looked into their food preferences especially carefully.
 
-I tried all kinds of things to see if they ate anything besides charcoal, and they ate pretty much anything that could become fuel. Coal, charcoal, old gasoline and kerosene, ethanol, rapeseed oil, whale oil, camellia oil, and so on.
+I tried feeding them all kinds of things to see if they ate more than charcoal. They ate almost anything that could serve as fuel: coal, charcoal, old gasoline and kerosene, ethanol, rapeseed oil, whale oil, camellia oil, and so on.
 
-But there were exceptions. They would not eat firewood or gas fuel. They might eat it if they were starving, but at least they did not like it. I felt too sorry for them to starve them, so I had not tested it.
+There were exceptions. They wouldn't eat firewood or gas fuel. Maybe they would if they were starving, but at the very least they didn't like either one, and I felt too sorry for them to put it to the test.
 
 Their food preferences differed by individual.
 
-The biggest one, who ran at the head of the trio, acted the bossiest, and had the most energy, loved camellia oil.
+The largest one led the other two, bossed them around, and had the most energy. Its favorite was camellia oil.
 
-The most laid-back one came to fire-bask and zone out whenever I lit a bonfire. That one's favorite was coal.
+The most laid-back one would come bask in the fire whenever I lit a bonfire, then sit there zoning out. Its favorite was coal.
 
-And the most curious, people-friendly one's favorite was charcoal.
+And the most curious, people-friendly one liked charcoal best.
 
-At first, I did not name them and called them things like “hey,” “you,” “fire salamander,” and “little one.” But they gradually started reacting to the names of their favorite foods, and those naturally became the three's names.
+At first, I didn't name them. I just called them things like “hey,” “you,” “fire salamander,” and “little one.” Before long, though, each began answering to the name of its favorite food, and those became their names.
 
-Even after taming them with food, I spent as much time with them as possible and observed their behavior.
+Even after I'd won them over with food, I spent as much time with them as possible, observing their behavior.
 
-The first butt-fire incident was the biggest accident. The more accustomed they got to me, the fewer accidents there were, and one charming behavior after another came to light.
+The very first butt-burning incident was the worst accident. The better we got to know each other, the fewer accidents we had, and I kept discovering one charming behavior after another.
 
 For example, fire salamanders liked rolling around in ash, but they also liked getting their scales clean.
 
-Whenever I brushed one of them with an old toothbrush, the other guys came over too. They smacked the toothbrush with their front paws like they wanted me to brush them too.
+Whenever I brushed one of them with an old toothbrush, the other two came over and batted at it with their front paws, asking for a turn.
 
-Then, once their scales were shiny, they happily ran around, charged into the ash pile, and got covered in ash. I didn't get the point of brushing them if they were just going to get dirty again. But they looked like they were having fun, so whatever.
+Once their scales shone, they would race around happily, charge into the ash pile, and cover themselves all over again. I had no idea what the point of brushing them was if they were just going to get dirty again, but they looked like they were having fun, so whatever.
 
-Maybe they had this habit to deal with parasites or something. It was like grooming among cats or monkeys. I did not know whether this world even had parasites that attached themselves to fire salamanders, though.
+Maybe the habit had originally helped with parasites or something. It was like cats or monkeys grooming one another. Not that I knew whether this world even had parasites that infested fire salamanders.
 
-One of their habits was also falling asleep after they ate their fill. Come to think of it, the Flame Witch slept after eating charcoal too. Maybe that was less a species habit and more a bloodline thing.
+They also tended to fall asleep after eating their fill. Come to think of it, the Flame Witch slept after eating charcoal too. Maybe it ran in the family rather than the species.
 
-A fire salamander's daily routine was to wake up in the morning, eat, play chase or roughhouse, eat lunch, play again, eat, and sleep. They lived by instinct.
+A fire salamander's daily routine went like this: wake up, eat, play chase or roughhouse, eat lunch, play some more, eat again, and sleep. They lived entirely on instinct.
 
-They were not very eager to maintain their nest. I had put a whole lot of metal nesting material in the reverberatory furnace for them, but their hemispherical nest, made by melting metal, stayed rickety and beat-up forever. They did not seem to care at all even when part of it rusted.
+They weren't big on maintaining their nest. Even though I'd filled the reverberatory furnace with metal nesting material, the hemispherical nest they'd melted together stayed rickety and beat-up no matter how much time passed. They didn't seem to care even when parts of it rusted.
 
-But when I fixed up their rickety nest while they were away, they wriggled around like they felt uncomfortable for a while, then breathed fire and returned it to its rickety, beat-up state (though it was a different shape from before). So fire salamanders apparently had their own reason for leaving it beat-up. I did not understand fire salamander aesthetics.
+When I fixed the nest while they were away, they spent a while squirming like something felt wrong. Then they breathed fire on it until it was rickety and beat-up again (though not in quite the same shape as before). Apparently, fire salamanders had their own reasons for leaving a nest that way. Their aesthetic sense was beyond me.
 
-Also, they seemed to prefer nesting material with a higher melting point. They used iron much more than lead, and platinum much more than iron.
+They also seemed to prefer nesting material with a higher melting point. They used iron far more often than lead, and platinum far more often than iron.
 
-And their most interesting, intriguing, and useful habit—or ability—was the firepower control they inherited from their mama.
+Their most interesting, intriguing, and useful trait—or ability—was the firepower control they'd inherited from their mama.
 
-Platinum had a higher melting point than iron. The fire salamanders' fire breath, which could melt it, had to be at least 1,768°C. But when they breathed fire on my butt, I only got light burns. They were clearly controlling the firepower.
+Platinum had a higher melting point than iron. If their fire breath could melt it, then it had to reach at least 1,768°C. Yet when they breathed fire on my butt, I got away with minor burns. They were clearly controlling the heat.
 
-Even when I watched them up close as they breathed fire on charred firewood to turn it into food, I felt a hot gust, but it was strangely not that hot.
+Even when I stood nearby as they breathed fire on partly burned wood to turn it into food, the hot air that reached me was strangely mild.
 
-When I built a thermometer using spectral reflection and took measurements, I found that only the things the fire salamanders wanted to burn showed a physically impossible heat distribution, with the firepower concentrated on them.
+I built a thermometer using spectral reflection and took some measurements. Only the objects the fire salamanders meant to burn showed a physically impossible heat distribution, with all the heat concentrated on them.
 
-In other words, fire salamanders could burn only what they wanted to burn and leave what they did not want to burn unburned.
+In other words, fire salamanders could burn only what they wanted and leave everything else untouched.
 
-Of course, there were limits. Sparks could still fly and set unwanted things on fire, and their control was not precise enough to create a perfect border in the flames that avoided whatever they did not want to burn.
+Of course, there were limits. Stray flames could still ignite something by accident, and their control wasn't so precise that the fire formed a perfect border around whatever they wanted to spare.
 
 This strange fire breath was certainly magical, but unlike the Flame Witch's fire magic, it had no special attribute.
 
-The fire salamanders' fire breath could not melt the ice from the Blue Witch's Great Glacier magic—I had her freeze one abandoned house while holding back its power—and when I roasted a Gremlin, it melted instead of turning to dust.
+The fire salamanders' breath couldn't melt ice made with the Blue Witch's Great Glacier magic (I'd had her freeze an abandoned house at reduced power). And when they heated a Gremlin, it melted instead of turning to dust.
 
-Among magical fire, only the fire from the <ruby>Jin Ga<rt>Flame</rt></ruby> line of fire magic seemed special. Fire magic probably came with some weird special effect by default after all.
+Apparently, the fire from the <ruby>Jin Ga<rt>Flame</rt></ruby> line was special even among magical flames. I guess fire magic really does come with some weird special effect built in by default.
 
-Gremlin implantation had greatly reduced my magic power, so I was grateful the fire salamanders could take over at least my fire magic. There was a big risk their ecology would change when they grew up, but while they were little, they did not seem to be any danger of starting fires at all.
+Gremlin implantation had greatly reduced my magic power, so I was grateful to have the fire salamanders take over at least my fire magic. There was a real risk their behavior would change once they grew up, but while they were little, they seemed unlikely to start any fires.
 
-I did not know what ordinary fire salamanders were like, but my kids were careful with their fire breath.
+I didn't know what ordinary fire salamanders were like, but my kids were careful with their fire breath.
 
-After listening to my training results and bragging for a while, the Blue Witch was convinced and relented.
+After listening to my whole presentation—and the accompanying bragging—the Blue Witch was convinced and stood down.
 
-She promised not to kill them anymore, which was a relief.
+She promised she wouldn't try to kill them again, which was a relief.
 
-The Blue Witch killing her children: avoided! And monsters had moved into my reverberatory furnace.
+The Blue Witch killing her own kids: avoided! And now monsters lived in my reverberatory furnace.
 
-From now on, whenever fire was used to make Ori-brand products, I could use the sales pitch “forged with magic-beast fire,” right? The Flame Witch had done something ridiculous, but I had managed to give it a soft landing.
+From now on, whenever I use fire to make an Ori-brand product, I get to advertise it as “forged with magic-beast fire,” right? The Flame Witch had done something ridiculous, but I'd managed to give it a soft landing.
 
-For now, let's call that a happy ending.
+For now, let's call it a happy ending.
 
 “Will they warm to me too?”
 
 “Mimimi...!”
 
-The Blue Witch reached out a hand to Sekitan, the laid-back one who was sprawled out lazily against the toe of my shoe. But Sekitan let fire leak from the corner of its mouth, flicked out its tongue, and tried to scare her off.
+Sekitan, the laid-back one, lay sprawled across the toe of my shoe. The Blue Witch reached toward it, but Sekitan let fire leak from the corner of its mouth and flicked its tongue to warn her off.
 
-The Blue Witch sadly pulled back her hand. Blood relation had nothing to do with it. I guess the parent who raised you really did beat the one who gave birth to you.
+The Blue Witch pulled her hand back, looking disappointed. So blood relation doesn't mean a thing, huh. I guess the parent who raises you really does beat the one who gave birth to you.
 
-I had already decided I would raise these guys into staff for the forge at my workshop. Don't swoop in and steal them now.
+These guys are going to become forge staff at my workshop. I've already decided, so don't swoop in and steal them now.
 
-“If you want a pet, there are other good magic beasts, right? Like the ones the Hokkaido Magic Beast Farm sent us. Their care methods are established, and from what I read in the materials, they seemed useful.”
+“If you want a pet, there are plenty of other good magic beasts, right? Like the ones the Hokkaido Magic Beast Farm sent us. We already know how to care for them, and the materials made them sound useful.”
 
 “I'm thinking about getting a pouch sparrow. But an eyeball familiar is enough for me.”
 
-“Ah, I get it. I'm interested in steel sheep—or rather, in steel sheep wool.”
+“Yeah, fair. I'm interested in steel sheep—or rather, their wool.”
 
-As I brushed the fire salamanders' scales with a toothbrush, the Blue Witch and I chatted about magic beasts.
+I brushed the fire salamanders' scales with a toothbrush while the Blue Witch and I talked magic beasts.
 
 The Hokkaido Magic Beast Farm had sent three types of magic beasts to Tokyo.
 
@@ -166,131 +166,131 @@ Turret balsam, a specialist in defending a position.
 
 Those three types.
 
-Pouch sparrows were monsters mutated from sparrows. Sparrows originally had a large population, so naturally, pouch sparrows, one of their mutations, were relatively easy to capture and train.
+Pouch sparrows were monsters mutated from sparrows. Sparrows had been common to begin with, so naturally pouch sparrows, one of their mutant forms, were relatively easy to capture and train.
 
-Pouch sparrows looked like sparrows enlarged by one size, keeping their original features. They were slower and more sluggish in flight than sparrows.
+Pouch sparrows looked just like oversized sparrows. They were heavier and slower in flight than the originals.
 
-In exchange, they had a floppy, kangaroo-pouch-like thing made of fat on their bellies. They could carry far more supplies in that pouch than should possibly fit.
+Instead, they had a floppy pouch of fat on their bellies, like a kangaroo's. It could carry far more supplies than should possibly have fit inside.
 
-That pouch had a pretty large capacity, holding up to the volume of a small refrigerator. It also came with the bonus that the weight of what was stored disappeared.
+The pouch had plenty of capacity—about the volume of a small refrigerator—and anything stored inside became weightless as an added bonus.
 
-When a pouch sparrow died, its belly pouch lost its storage function and threw up whatever was inside. And anything alive that entered the pouch suffered symptoms like severe carsickness, so using it that way was not practical. Time passed normally inside the pouch, and it was even a little damp and lukewarm, so it was not very suitable as food storage either.
+When a pouch sparrow died, its belly pouch lost its storage function and spilled out everything inside. Any living creature placed in one suffered something like severe carsickness, so transporting passengers wasn't practical. Time passed normally in there, and the pouch was slightly damp and lukewarm, making it a poor pantry too.
 
-But pouch sparrows were extremely loyal to their flock's leader, their beast handler.
+What pouch sparrows did have was absolute loyalty to their flock leader—their beast handler.
 
-If they were trained properly and recognized someone as the flock leader, they listened to instructions well and obeyed faithfully. They were even willing to die. They were too devoted.
+Once properly trained and convinced that someone was the flock leader, they followed orders faithfully, even if it meant dying. They were almost too devoted.
 
-They were about as smart as parrots, so they could not understand complex orders. But they had excellent geographical memory, and at the Hokkaido Magic Beast Farm, they handled all the transport work. From removing rubble and scrap materials to carrying lumber and steel, pouch sparrows played a major role. Of course, they could also be used for mail.
+They were only about as smart as parrots, so they couldn't handle complex orders. But they had excellent memories for routes, and at the Hokkaido Magic Beast Farm they handled the entire transport operation. From clearing rubble and scrap to hauling lumber and steel, pouch sparrows played a major role. And of course, they could deliver mail too.
 
 Originally, pouch sparrows used their belly pouches for nest building.
 
-Pouch sparrows themselves were slow, sluggish fliers with no special attack power. Their pecking power was the same as an ordinary sparrow's.
+Pouch sparrows themselves were slow, sluggish fliers with no special attack power. Their pecks were no stronger than an ordinary sparrow's.
 
 So pouch sparrows gathered rocks, fallen logs, and steel in their belly pouches, then made extremely sturdy, fortress-like nests. Their bodies were weak, but their nests were strong.
 
 When they moved nests, they put the nesting material in their belly pouches, carried it, and rebuilt at their destination. Their real strength was being able to build sturdy nests that hid and protected them even on open plains with no cover at all.
 
-Their food was nuts, grains, insects, and carrion. They liked the soft internal organs of fresh monster carcasses best, did not compete with human food, and never attacked humans at all.
+They ate nuts, grains, insects, and carrion, with the soft organs of fresh monster carcasses as their favorite. None of that competed with human food supplies, and they never attacked people.
 
-Rather, the danger of them getting attacked and eaten by other monsters while outside their nest was greater. So pouch sparrows were basically used in urban areas where safety had been secured.
+The bigger risk was that other monsters would attack and eat them whenever they left the nest. That was why pouch sparrows were mainly used in secured urban areas.
 
-Their reproductive rate was fairly high too. They were excellent magic beasts that provided strong support for transport infrastructure.
+They also reproduced at a decent rate. All in all, they were excellent magic beasts that could shore up transport infrastructure.
 
 Steel sheep were monsters mutated from sheep.
 
 Hokkaido was famous for <ruby>jingisukan<rt>mutton</rt></ruby>[^1], but in fact more than 99 percent of it was imported, and fewer than 10,000 sheep were raised within the prefecture.
 
-But sheep—breeds raised as livestock—always mutated into steel sheep when they mutated into monsters, so apparently they had managed to capture, raise, and breed them well.
+Whenever a domesticated sheep mutated into a monster, though, it always became a steel sheep. Apparently, the farm had managed to capture, raise, and breed them successfully.
 
-Sheep were livestock with a bad feed conversion ratio. Their feed conversion ratio, which showed how efficiently feed was turned into food, came in at 15.0.
+Sheep made inefficient livestock. Their feed conversion ratio, a measure of how efficiently feed became food, stood at 15.0.
 
-To produce 1 g of meat, you had to feed them 15 g of feed. Steel sheep showed about the same feed conversion ratio.
+Producing 1 g of meat took 15 g of feed, and steel sheep had about the same ratio.
 
-Considering that chickens had a feed conversion ratio of 1.7, you could see just how inefficient, feed-hungry, and expensive mutton was.
+With chickens at only 1.7, it was obvious how inefficient, feed-hungry, and expensive mutton was.
 
 Their growth was insanely slow compared to chickens too. They took two years to grow into adults. Chickens only took five months.
 
-Well, chickens were just too good as livestock in this respect.
+Then again, chickens were almost too good as livestock.
 
-Steel sheep's real value was not in their meat, but their wool.
+Steel sheep's real value was their wool, not their meat.
 
-Steel sheep wool was normally soft and fluffy, but it was absurdly resistant to fire, had excellent insulation, and hardened like steel when exposed to high heat. This hardening lasted about one day, and even after it wore off, it could activate again after an interval of several hours.
+Steel sheep wool was normally soft and fluffy, but it resisted fire absurdly well, offered excellent insulation, and hardened like steel under high heat. It stayed hard for about a day and could harden again after a cooldown of several hours.
 
-Wool clothing woven from this wool had the same properties, and it had been confirmed that it could keep being used without deteriorating for at least four years. It lasted four years even without self-blood tanning, so it was thought that with self-blood tanning, it would easily last a full century.
+Clothing woven from the wool had the same properties, and tests confirmed it could last at least four years without deteriorating. That was without self-blood tanning. With it, the clothes were expected to last a century easily.
 
-Steel sheep were clearly especially wary only of monsters that controlled fire, so it was believed this trait was probably to counter fire-type monsters.
+Steel sheep were far more wary of fire-wielding monsters than anything else, so people believed the trait had probably developed as a defense against them.
 
-Steel sheep wool would not burn even at temperatures high enough to melt iron, and its extremely high insulation protected the wearer. Also, hardened wool could not be cut by an iron blade. If it was woven tightly enough, it could even stop bullets, making it a natural stab- and bulletproof suit.
+Steel sheep wool wouldn't burn even at temperatures high enough to melt iron, and its extreme insulation protected the wearer. Once hardened, not even an iron blade could cut through it. Woven tightly enough, it could stop bullets too, making it a natural blade- and bulletproof suit.
 
-On top of all that performance, it was light and easy to handle. It kept you warm in winter, but mysteriously cool in summer. Bugs did not get into it, and it did not shrink when washed.
+Better yet, it was light and easy to work with. It kept you warm in winter and, somehow, cool in summer. Bugs stayed out of it, and washing didn't make it shrink.
 
-It was too perfect as a clothing material.
+It was practically the perfect clothing material.
 
-The only drawback was that the number of steel sheep being raised was still small, and they could only be sheared once a year, in spring, so production was limited too.
+The catch was that there were still very few steel sheep, and they could only be sheared once a year in spring, so production remained limited.
 
-But if their numbers increased, their production capacity would increase too. It was such a high-performance natural material that no amount of investment would be too much. If guards who were constantly injured fighting monsters had steel sheep wool clothing, their lives would get a lot easier too.
+Increasing their numbers would raise production. A natural material this effective was worth any amount of investment. Steel sheep wool clothing would also make life much easier for members of the security force, who suffered constant injuries fighting monsters.
 
 I definitely wanted some steel sheep wool myself as protection against burns while raising fire salamanders.
 
 Like pouch sparrows, steel sheep did not attack people.
 
-Their main food was grass. They ate weeds and pretty much anything, but they also wanted small amounts of salt and iron, so you had to watch the nutritional balance of their feed.
+Their main food was grass, and they ate almost any weed. But they also needed small amounts of salt and iron, so their feed had to be nutritionally balanced.
 
-Steel sheep immediately ran away when anyone but their companions came near. And since they regarded the individual with the biggest horns as the leader, steel-sheep beast handlers had to wear horns on their heads. Apparently it was a real pain because your head got heavy.
+Steel sheep ran as soon as anyone outside their flock came near. Since they saw whoever had the largest horns as their leader, steel sheep beast handlers had to wear fake horns. Apparently, the extra weight on their heads was a real pain.
 
-The third type of magic beast that the Hokkaido Magic Beast Farm was proud of, turret balsam, was a monster mutated from a plant.
+The Hokkaido Magic Beast Farm's third showcase magic beast was turret balsam, a mutated plant.
 
-It had balsam in its name and resembled the balsam plant, but it did not necessarily mutate from balsam.
+Despite the name and the resemblance, it didn't necessarily mutate from a balsam plant.
 
-This plant monster grew to the height of an adult. It was an annual plant, sprouting in early spring and withering when winter began. What was interesting was that it bloomed soon after sprouting and quickly produced seeds.
+This plant monster grew as tall as an adult. It was an annual, sprouting in early spring and withering at the start of winter. The interesting part was that it flowered and produced seeds almost immediately after sprouting.
 
 Turret balsam shot these seeds into approaching animals and monsters, killing them.
 
-Its accuracy and power were considerable, and turret-balsam seeds sprouted inside the rotting bodies of the monsters they killed. It was an aggressive plant monster.
+Its shots were impressively accurate and powerful, and the seeds sprouted inside the rotting bodies of the monsters they killed. It was one aggressive plant monster.
 
-Once it used up all its seeds, it bloomed again, and from spring through autumn, it always kept seeds in stock.
+Once it fired all its seeds, it flowered again, keeping itself stocked from spring through autumn.
 
-As its name suggested, turret balsam was excellent as a turret and extremely useful for defending a base.
+True to its name, turret balsam made an excellent turret and was extremely useful for base defense.
 
-It could kill up to Class C-1—in other words, “clearly transformed, full-on monsters”—and you could expect it to stop or drive back even Class B-3.
+It could kill anything up to Class C-1—in other words, “clearly transformed, full-on monsters”—and could even be expected to stop or drive back Class B-3 threats.
 
 It was powerless against Class B-2 or above, which required a wizard unit to be deployed, but expecting it to handle that much would be asking too much. Just having it automatically handle Class C and stop Class B-3 was more than enough.
 
-However, turret balsam would also normally fire its shells into humans, so extreme care was needed when raising and using it. A beast handler was essential for fertilizing, watering, and replanting it.
+However, turret balsam would fire its shells at humans too, so raising and using it required extreme care. Fertilizing, watering, and replanting all required a beast handler.
 
 Pouch sparrows, steel sheep, and turret balsam all had their quirks, but they were all excellent magic beasts.
 
-The Hokkaido Magic Beast Farm tried to domesticate new monsters every day, and supposedly they would keep sending monsters to Tokyo once stable raising methods had been established. Are they gods?
+The Hokkaido Magic Beast Farm was trying to domesticate new monsters every day, and supposedly it would keep sending Tokyo any species with a stable raising method. Are they gods?
 
-Of course, it was not free. Apparently Tokyo had been made to promise exports of magic wands and the dispatch of magic linguistics instructors.
+Of course, it wasn't free. Apparently, Tokyo had been made to promise magic-wand exports and the dispatch of magic linguistics instructors.
 
-The Hokkaido Magic Beast Farm apparently had an agricultural vocational school—or more specifically, a vocational training school for beast handlers. The envoy sent to Tokyo had graduated from there too.
+The Hokkaido Magic Beast Farm apparently had an agricultural vocational school—or rather, a job-training school for beast handlers. The envoy sent to Tokyo was a graduate too.
 
-I definitely hoped for future exchanges. I would watch those exchanges from the outside and take the best parts for myself.
+I'm definitely looking forward to future exchanges. I'll watch from the outside and help myself to the best parts.
 
-Well, I would make the magic wands supplied to the Hokkaido Magic Beast Farm, so it was not like I would be completely outside that circle of exchange.
+Then again, I'm the one making the magic wands sent to the Hokkaido Magic Beast Farm, so it's not like I'm completely outside that circle.
 
-Speaking of circles of exchange, the Lake Biwa Pact and the Arataki Group, the remaining two of the five large survivor communities, were outside the developing nationwide circle of exchange. In the end, they had not sent support to Tokyo.
+Speaking of circles of exchange, the Lake Biwa Pact and the Arataki Group—the other two of Japan's five large survivor communities—stood outside the growing nationwide network. In the end, neither had sent support to Tokyo.
 
-Apparently, political upheaval had occurred in the Lake Biwa Pact after the mushroom pandemic, and hawks and doves were fighting fiercely within it. It did not seem like they were in any position to support Tokyo.
+Apparently, the mushroom pandemic had triggered political upheaval in the Lake Biwa Pact, with its hawks and doves locked in a fierce internal fight. They didn't seem to be in any position to support Tokyo.
 
 Well, can't be helped. It's not like everyone in the Tokyo Witches' Council is united either.
 
 The Arataki Group, meanwhile, was completely ignoring requests for support.
 
-I did not know whether political upheaval like in the Lake Biwa Pact was happening there too, or whether there was some other reason.
+I didn't know whether it was going through a political upheaval of its own or had some other reason.
 
-It was apparently a pretty rough community, so maybe they intended to take the fertility magic instruction they had received as aid and give nothing back.
+They sounded like a pretty rough crowd, so maybe they intended to take the fertility magic instruction they'd received as aid and give nothing back.
 
-Or rather, it was entirely possible they resented having mushroom disease spread to them in the first place. It was not intentional, but that did not mean they could laugh and forgive someone bringing in such a nasty disease. Maybe we should just be glad no compensation claim had come flying at us.
+Then again, they might simply have resented us for spreading mushroom disease to them in the first place. We hadn't meant to, but that didn't mean they could laugh off someone bringing in such a nasty disease. Maybe we should count ourselves lucky they hadn't sent us a demand for compensation.
 
 The mushroom pandemic had brought disaster all over Japan.
 
-But because of it, ironically, exchanges had been strengthened, new things were brought in, and new things were being born.
+Yet ironically, it had also strengthened ties, brought in new things, and helped create more.
 
 The pandemic's scars were deep.
 
-But humanity was steadily rebuilding the ruined world without giving up.
+Even so, humanity was steadily rebuilding the ruined world without giving up.
 
 ## Translator Notes
 

@@ -219,3 +219,34 @@
 - Counts and progression were verified: double layer, proposed triple layer, six then seven layers, 24 hours without food, three days and nights of concentrated work, fifth-layer tool change, one-day delivery, two-week estimate, and completion after seven days.
 - The sales-intermediary chain, free-wand exchange, exact `Blue Wand Cyanos` final name, and subsequent `Cyanos` references were verified.
 - `Blue Witch-san`, `Fairy-san`, past-tense narration, exact glossary forms, and unmarked long vowels were verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source in two segments, each followed by a tense follow-up (user ruling 2026-09-28: narration stays past).
+- Segment 1 (`reedit-v1c3-s1`): EN file start → line before `image_rsrc505` / JP 1–750; ~150 edits. Flow: short share 37.5% → 35.6%; runs 10 → 4 (kept: "Gah!? / I surrender!", "dangerous personnnnn!", "Did I step on a landmine?", "What kind of emotion is that?").
+- Segment 2 (`reedit-v1c3-s2`): `image_rsrc505` → end / JP 751–1198; ~90 edits. Flow: short share 28.0% → 22.5%; runs 4 → 1 (kept: "... / No. / Wait a second?").
+- Seam at `image_rsrc505` read by the lead; clean.
+
+### Accuracy Fixes
+- **やおらヘンデンショーを掲げて**: "Then the girl held up Hendensho" → "Then, without hurrying, she raised Hendensho" — accuracy
+- **人間というだけで既に怖いのに…三倍怖い**: mixed tense and she/you → consistent present direct thought in second person — tense
+- **魔物の女。魔女というわけだ**: "Female monsters. That's why we're witches." → "Monster women. Witches, in other words." — accuracy
+- **先生 (Ori → Blue Witch)**: "Teacher" → "Sensei" — address (honorific retention; matches Ch11)
+- **一抱えほどもある氷の槍**: "an ice spear as big around as an armful" → "a spear of ice about as thick as I could wrap my arms around" — accuracy
+- **大利なら青梅に移り住んでもいい**: "Ori, you can move to Ome." → "For you, Ori, moving to Ome is an option." — accuracy (keeps "since it's you")
+- **じゃあ喋らないでもらえます？**: "Could you not talk to me?" → "Then could you not talk to me?" — accuracy
+- **気疲れした**: "mentally exhausted" → "worn out from dealing with people" — accuracy
+- **二重線で消されていた**: "crossed out twice" → "struck out with a double line" — accuracy
+- **職人 (not 魔法杖職人)**: "No Wand Maker besides me" → "No craftsman but me" — glossary (term did not apply at this spot)
+- **Tense reversals (segment 1)**: 魔法が実在したのだ → "Magic turned out to be real…"; みーんな黒髪か茶髪 → past; 無知って怖い → "Ignorance was a scary thing."; オルゴール description → past — tense (audit reversal)
+- **Tense (segment 2)**: ようやく深く息ができるようになった → "I could finally take a deep breath again." — tense; ドヤりたいぞ / たぶん解けたと思う / 誤解が解けて良かった → present direct asides — tense
+- [polish] **固定器具が無い中…**: stacked-modifier sentence rebuilt as cause → action — polish
+- [polish] **道具が不十分な中。数分かけて…**: fragment merged into "Even with makeshift tools, a few minutes' work left me with something I was really proud of." — polish
+- [polish] **作って差し上げようじゃないか**: → "I'll graciously make her the finest magic wand around." — polish (mock-grand)
+
+### Register and Flow
+**Blue Witch:** abrasive-then-softening arc kept. **Ori:** casual; proverb 君子危うきに近寄らず kept in present as a saying. Joined one narration tag to the Blue Witch's own line ("N-No lewd stuff!"); dialogue paragraphs 24 → 23, no speakers merged.
+- Open for user: `Freezing Javelin[^1]` (plain term + note) differs from the glossary ruby form `<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>` used from Ch11 on; left unchanged.
+
+### Formatting Confirmed
+- Image markers, scene breaks, `[^1]` and its note unchanged; `check_reedit.py` PASS on both segment slices; `run_chapter_gates.py --unit 1 --chapter 3` ALL PASS.

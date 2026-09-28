@@ -76,3 +76,23 @@
 - Two inline images remained in source order at `p072.jpg` and `p073.jpg`; no source scene breaks existed.
 - Past-tense narration, glossary terms, furigana-bearing spell renderings, honorifics, name order, and no-macron romanization verified.
 - No footnote markers or Translator Notes section were needed.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–286; agent `reedit-v2c5-s1`; ~60 paragraph-level edits). Flow: short-sentence share 23.0% → 19.1%; runs 1 → 1 (kept: the "Going by that logic... / No... / Could it... work...?" thought beat). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 描かれた絵を見るがあんまり上手くない; 今まで…意味がなかった; 柄や彫刻は全て単なるオシャレな飾りに過ぎなかった; 柄にもちゃんとした役割が生まれた; 呑気にしていたら…; 理論でしか知らない; 大戦果…大喜びするだろう; 完成とさせて頂こう; 換装したい; 換装は面倒だが…嫌だ; 賞賛の声を聞きたい; 核となる… summary; 改良の余地が残されている — tense (audit reversal); "Magic solves everything." stays present as a general-truth punchline
+- **無事成功したが…50％前後のカット率に留まる**: "worked, reducing magic backlash by around 50%" → "worked, but just as the theory predicted, it only cut magic backlash by around 50%" — accuracy
+- **未来視 (bare, JA 19)**: "the Foresight Mage" → "Foresight" — glossary (bare short form)
+- **魔法暴走**: "go berserk" wording → "lost control" / "out of control" — glossary (banned "berserk magic")
+- **本人は弾け飛んで塵になった**: "The mage himself" → "The mage in question" — accuracy (source ungendered)
+- [polish] **流石に天才**: "As expected of a genius." → "What a genius." — voice
+- [polish] **自分、まだいけます！**: → "I've still got plenty left in the tank!" — voice
+- [polish] **発音可能で、魔力が足りている魔法であっても…**: rebuilt as a single direct sentence — polish
+
+### Register and Flow
+**Ori:** casual narration; **Blue Witch:** deadpan. Both ruby spans untouched.
+
+### Formatting Confirmed
+- No notes section; ruby spans and image markers unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 5` ALL PASS.

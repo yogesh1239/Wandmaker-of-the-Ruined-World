@@ -119,7 +119,6 @@
 | 魔力鍛錬棺 | magic-power-training coffin | magic power training coffin, magic-power training coffin | upright rotating magnetic-field training apparatus; project-original |
 | 魔力鍛錬瞑想室 | magic-power-training meditation room | meditation room for magic-power training, magic power training meditation room | Ori's room-sized magnetic-field training apparatus; project-original |
 | 瞑想 | meditation |  | required mindset for magic-power training; project-original |
-| 魔力欠乏失神 | magic-depletion fainting | magic exhaustion fainting | loss-of-consciousness phenomenon after magic power is exhausted; project-original |
 | グレムリン埋め込み | Gremlin implantation | Gremlin embedding | implanting a monster Gremlin into a body; project-original |
 | 磁覚 | magnetoreception | magnetic sense | unconscious human sense of magnetic fields; project-original |
 | 磁場逆再生機構 | magnetic-field reverse-playback mechanism | magnetic field reverse playback mechanism | apparatus that replays a magic-capacity-loss magnetic-field change; project-original |
@@ -221,8 +220,10 @@
 | 改造呪文 | modified spell | altered spell | experimentally restructured incantation |
 | 改造詠唱 | modified incantation | altered incantation | experimentally restructured incantation |
 | 焔魔法 | fire magic | flame magic | fire spell school originating with the Flame Witch |
+| 凍結魔法基幹呪文 | freezing-magic core spell | freezing-magic core incantation | basic spell of the freezing-magic school (凍れ); project-original (added 2026-09-28 re-edit) |
 | 焔魔法基幹呪文 | fire-magic core spell | flame-magic core spell | basic spell of the fire-magic school |
 | 変身魔法 | transformation magic | shapeshifting magic | magic that transforms the caster's body |
+| オコジョ教授 | the stoat professor |  | Ori's nickname for Ohinata Kei in stoat form; lowercase common-noun form, capitalize only at sentence start; project-original (added 2026-09-28 re-edit) |
 | オコジョ変身魔法 | stoat-transformation magic | stoat transformation spell | self-only transformation magic stabilized by Ohinata Kei |
 | 裏を渡り[イエーヴ・ササ]、蔡を吐けば[ニムテツトツタナ]、窮鼠も白獣[ヤオグ・ヤヨグ・エンイエンシユオア] | <ruby>Ie-vu Sasa<rt>Cross the underside</rt></ruby>, <ruby>Nimutetsutotsutana<rt>spit out the divination tortoise</rt></ruby>, and <ruby>Yaogu Yayogu Enien Shiyuoa<rt>even a cornered rat becomes a white beast</rt></ruby> |  | stoat-transformation incantation; three source spans preserved; `蔡` remains provisional |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
@@ -466,7 +467,7 @@
 | ４巻時点での年表 | Timeline as of Volume 4 | Volume 4 Timeline, Timeline Through Volume 4 | booklet section heading; appears in the Volume 4 booklet contents (s-p003) |
 | ４巻の各話解説 | Volume 4 Chapter Commentary | Volume 4 Chapter Explanations | booklet section heading; appears in the Volume 4 booklet contents (s-p003) |
 | 魔法道具紹介 | Magic Item Profiles | Magic Item Introductions, Magic Tool Guide | booklet section heading; kept parallel with キャラクター紹介 Character Profiles, since the same 紹介 sits in both lines of the same contents list |
-| 東京警備隊 | Tokyo Guard | Tokyo Security Corps, Tokyo Guard Squad | Tokyo's uniformed security force; 警備隊 takes Guard per 港区自治警備隊 Minato Ward Civilian Guard. As a common noun in running prose the filed Volume 4 text uses lowercase "security guards"; capitalize only as the unit name |
+| 東京警備隊 | Tokyo Guard | Tokyo Security Corps, Tokyo Guard Squad | Tokyo's uniformed security force; 警備隊 takes Guard per 港区自治警備隊 Minato Ward Civilian Guard. Bare 警備隊 as a common noun in running prose is lowercase "security force" (series majority, Vols 2–4); "security guards" only when the source means the individual guards; capitalize only as the unit name |
 | 東京警備隊対抗戦 | Tokyo Guard Tournament | Tokyo Guard Competition, Tokyo Guard Match | booklet section heading; 対抗戦 is a contest between opposing teams (s-p003) |
 | 北区警備隊 | Kita Ward Guard | Kita Ward Security Corps | highest-scoring unit in the Volume 4 booklet's Tokyo Guard Tournament; project-original |
 | 竜区警備隊 | Dragon Ward Guard | Dragon District Guard | guard unit trained through the Dragon Witch's treasure-hunting trips; project-original |
@@ -693,6 +694,7 @@
 | 魔力逆流力学 | magic-backlash dynamics | magic-backflow dynamics | design principles governing backflowing magic power; project-original |
 | 研削盤[グラインダー] | grinder | grinding machine, grinder[グラインダー] | semantically identical reading; mechanically powered processing tool |
 | 足踏み動力式の研磨機 | pedal-powered grinder | foot-powered polishing machine | Ori's manually powered Gremlin-processing machine; project-original |
+| 一般量産杖 | standard mass-produced wand |  | Handa-style university-line wand; also 一般量産魔法杖 → "standard mass-produced magic wand"; distinct from 汎用量産型魔法杖 (Ori's own general-purpose model); project-original (added 2026-09-28 re-edit) |
 | 一般魔法杖 | standard magic wand | general magic wand, ordinary magic wand | mass-market wand produced by ordinary artisans; project-original |
 | 荒川 | Arakawa River |  | major river through Tokyo; project-original |
 | 隅田川 | Sumida River | Sumidagawa River | major river through Tokyo; project-original |
@@ -758,7 +760,7 @@
 | 狩りには三つあれば良い[×××キキレトエウエス・アイヤ]。武器と心構えと[ガルガ×ヲ×]、妻の見送りだ[ロロ・ラア] | <ruby>××× Kikireto Euesu Aiya<rt>A hunt needs only three things</rt></ruby>: <ruby>Garuga× O×<rt>a weapon and resolve</rt></ruby>, and <ruby>Roro Raa<rt>a wife's farewell</rt></ruby> |  | Murakumo's hunting-magic incantation; spans remain separate; no comma-bearing banned alias |
 | 忍び寄る魔物の背後に狩人は忍び寄った[モンノソユマムギスウラツ×××モンワソユ] | <ruby>Monno Soyu Mamugisu Uratsu××× Monwa Soyu<rt>Behind the approaching monster, a hunter crept</rt></ruby> | Behind the approaching monster, a hunter crept[モンノソユマムギスウラツ×××モンワソユ] | Murakumo's stealth-hunting incantation |
 | 狩るか狩られるか[×××・ポラ・××××] | <ruby>××× Pora ××××<rt>Hunt or be hunted</rt></ruby> | Hunt or be hunted[×××・ポラ・××××] | Murakumo's high-risk hunting incantation |
-| 魔力欠乏失神 | magic-power-depletion fainting | magic-power deficiency fainting | loss of consciousness from depleted magic power; project-original |
+| 魔力欠乏失神 | magic-power-depletion fainting | magic-power deficiency fainting, magic exhaustion fainting | loss of consciousness from depleted magic power; duplicate "magic-depletion fainting" row removed 2026-09-28 re-edit (series majority); project-original |
 | 菌糸 | mycelium | fungal threads | invasive fungal network of mushroom disease; project-original |
 | キノコの魔物 | mushroom monster | mushroom creature | parasitic fungal monster; project-original |
 | 特効薬 | antidote | cure-all, specific remedy | Flower Witch's mushroom-disease treatment; project-original |

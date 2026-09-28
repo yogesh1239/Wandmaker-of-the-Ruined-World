@@ -132,3 +132,24 @@
 - No source images or scene breaks were present; the chapter starts directly with prose and has one final `## Translator Notes` section.
 - Past-tense narration, exact glossary forms, romanization, measurements, ratios, and source redactions were verified.
 - Footnote markers `[^1]`–`[^4]` each appear once in prose and each have exactly one matching note.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole body / JP lines 1–361; agent `reedit-v1c6-s1`; ~85 edits). Flow: short-sentence share 30.8% → 25.2%; runs of 3+ short sentences 5 → 3 (kept: "They tricked me! Damn them!…", "Seriously? Holy crap!…", "Makes sense. Witch-only incantations, huh? Lucky."). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: しかしいつかは無くなる; rice-paddy, fishing, bioelectricity, and wasabi passages; 始末に負えない; 御覧の有様; 何故人は…仕方ない; 良い物を見せてもらった; 違いない — tense (audit reversal)
+- **翼退化して飛べませんみたいな顔**: "They'd looked like their wings were too stunted…" → "They'd put on a face like, 'Our wings are stunted, we can't fly,' and then the bastards flew off!" — accuracy
+- **私が倒していいんだな？**: "I'm the one killing it, right?" → "I'm clear to kill it, then?" — accuracy (asking permission)
+- **魔法語なんだ？**: "It's an actual language?" → "There's a magic language?" — accuracy
+- **先生の授業**: "my teacher's lesson" → "Sensei's lesson" — address
+- [polish] **割と魔力が多い方**: two choppy sentences merged — polish
+- [polish] **呆気に取られる俺に短く言った**: stranded tag and "the dumbstruck me" → "while I stood there dumbstruck, she said simply, 'Done.'" — polish
+- [polish] **固有の発音記号に意味が当てはめられている**: → "that meaning was assigned to a particular set of sounds" — polish
+
+### Register and Flow
+**Ori:** casual; live reactions (AC-kun wish, ice-chemy exclamation, closing line) stay present. Dialogue paragraphs 54 → 53 from joining the Blue Witch's "Done." to her own narration; no speakers merged.
+- Open for user: `Freeze[^2]` and `Freezing Javelin[^3]` use plain term + note rather than the glossary ruby forms (`<ruby>Vaa-ra<rt>Freeze</rt></ruby>`, `<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>`) used elsewhere; left unchanged.
+
+### Formatting Confirmed
+- Image markers, scene breaks, `[^1]`–`[^3]` and notes section unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 6` ALL PASS.

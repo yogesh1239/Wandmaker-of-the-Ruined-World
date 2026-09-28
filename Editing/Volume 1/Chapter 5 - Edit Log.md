@@ -120,3 +120,27 @@
 - Accuracy and bounded polish passes covered source lines 295–481 in order.
 - `-25°C`, `0%` moisture content, roughly one hour, the frost-expansion causal chain, heartwood fit, quick-drying varnish, and moisture treatment were verified.
 - Exact glossary forms, past-tense narration, no macrons, and no furigana residue were verified; no source image, scene break, footnote, or Translator Note occurred.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–481; agent `reedit-v1c5-s1`; ~125 edits plus a tense follow-up). Flow: short-sentence share 35.0% → 28.2%; runs of 3+ short sentences 7 → 2 (kept: the rapid-fire ice-statue reactions in the opening). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **同じく深刻そうに考え込んでいる青の魔女を見て気付く**: "then I noticed the Blue Witch was thinking just as seriously too" → "until I looked at the Blue Witch, brooding just as gravely, and it hit me." — accuracy
+- **こんなんなってたのか？**: "So this is why?" → "…like she was hiding it, but it was in this state?" — accuracy
+- **お前マジか？…専門分野だろうが**: third person "She uses ice magic…" → second person "You use ice magic… It's your specialty!" — address
+- **しゃーなしドンマイ / 青の魔女が売る**: "then it can't be helped" / "If the Blue Witch sells…" → "then oh well, don't sweat it" / "If you sell…" — address
+- **JA 370 (凍裂まで気が回らなかった俺が悪い)**: "…That's my fault." → "…and I still hadn't thought about frost cracking—that was on me." — tense (audit reversal)
+- **不幸中の幸いなのは製品事故に繋がらなかった事か**: "At least it hasn't caused a product accident. The Blue Witch doesn't look injured." → past — tense (audit reversal)
+- **倒してくれたなら、むしろ大歓迎だ**: "that should be great news. It's perfect advertising!" → "I was all for it. Perfect advertising!" — tense
+- [polish] **凍結魔法を使うクセに…元女子高生・青の魔女のために**: modifier stack rebuilt with appositives — polish
+- [polish] **オッペンハイマーって何？**: "What is Oppenheimer?" → "What's an Oppenheimer?" — polish
+- [polish] **ＮＯ！炎上商法！**: "NO! Controversy marketing!" → "NO to outrage marketing!" — polish
+- [polish] **この故障は職人の、俺の責任だ**: → "This failure is on the craftsman—on me!" — polish
+- [polish] **本格リアル派職人**: → "a craftsman of the hardcore-realism school" — polish
+
+### Register and Flow
+**Ori (narration):** casual register kept; present tense retained only for direct monologue (じゃん／だろう／ぞ／しよう endings). 妖精さん kept as "Fairy-san" (series-consistent). 臆病な自尊心と尊大な羞恥心 kept as "cowardly pride and arrogant shame" (Sangetsuki allusion, no note).
+
+### Formatting Confirmed
+- Image markers, scene breaks, notes unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 5` ALL PASS.

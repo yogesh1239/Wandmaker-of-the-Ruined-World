@@ -60,3 +60,23 @@
 - Past-tense narration, exact glossary forms, romanization, quantities, process chain, and two-month timeline verified.
 - No source images or scene breaks occurred; both tournament flyers were retained.
 - Retained bounded notes for `sho` and `junmai daiginjo`; both markers resolve exactly once in one `## Translator Notes` section.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–295; agent `reedit-v2c3-s1`; ~95 edits). Flow: short-sentence share 27.5% → 27.1%; runs 3 → 2 (kept: the firebrick → chamotte → fire-clay staircase, and the Tobacco Witch's project list). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: よく分からんが…しんどい思いをしているらしい; めちゃくちゃ面白そうな催しではある。だが…; 火仕事は欠かせなくなってくる; 焚火やピザ焼き釜では火力が足りない…必要になる; ザックリ言えば…始めなければならない — tense (audit reversal); live reactions (大変だな / 良かったぜ / うーん、ややこしい！) stay present
+- **散々な言われようの入間の魔法使いの話を脇に置いて、青の魔女は…**: wrong agent ("I set the Iruma Mage aside") → "Leaving the thoroughly trashed Iruma Mage aside, the Blue Witch told me…" — referent
+- **オコジョ教授**: "Stoat Professor dealt with..." → "The stoat professor took care of..." — glossary (new row added)
+- **「ご、50回繰り返してくれ!?」**: echo restored ("So do that another 50 times." / "D-Do that another 50 times!?") — accuracy
+- **頑張ろうぜってお前……**: → "Do our best? You..." — accuracy
+- **話してるとたまにサラッと出てくる**: → "every so often a story would casually slip out while we talked…" — accuracy
+- [polish] **好きにしろ (x2)**: "Do what you want." → "Suit yourself." — voice
+- [polish] **耐火粘土を高温で焼成**: "fire fire clay" → "bake fire clay" — polish
+
+### Register and Flow
+**Tobacco Witch:** terse, dry. **Ori:** casual. Bracket readings for 過剰性能 / 麻雀 stay plain English per glossary.
+
+### Formatting Confirmed
+- Image markers, notes, scene breaks unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.

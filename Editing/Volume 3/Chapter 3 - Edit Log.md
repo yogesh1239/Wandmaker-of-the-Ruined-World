@@ -211,3 +211,38 @@
 - Preserved `![p057.jpg](images/p057.jpg)` exactly.
 - Preserved the interrupted `It's a little cree... amazing.` and locked `unwitting yuri arson sex` wording exactly.
 - Verified glossary forms, honorifics, narrative/direct-thought tense, sexual-comedy register, and the narrator ceiling and kill-list; no footnotes occur in Part 2.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–655; agent `reedit_v3c3_s1`; model `gpt-5.6-sol` at high reasoning; ~115 paragraph edits). Flow: short-sentence share 23.6% → 26.4%; runs 1 → 0.
+
+### Accuracy Fixes
+- **素材が泣いている**: literal phrasing → “What a waste of good material.” — register
+- **作動待機状態**: clarified the mechanism as arming the device rather than merely waiting — accuracy
+- **組織所属って大変だな**: recast as the immediate aside “Organizations are a pain” — tense
+- **図面は…豊かにしてくれそうだ**: restored the drawing's prospective effect in a present appraisal — accuracy
+- [polish] The chemistry venting, increasingly confusing explanation, and “miracle of life” punchline were rebuilt for flat, fast comedy — polish
+
+### Register and Flow
+Immediate questions, reactions, hypotheses, and reader asides remained present; the source's past scene-setting at lines 22–25 remained past. No title or explanatory vocative was added.
+
+### Formatting Confirmed
+- `![p057.jpg](images/p057.jpg)`, the interrupted line, exact locked phrase, ruby, and the absence of notes were preserved.
+- Glossary forms, honorifics, and name order were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review
+- **大日向教授と同じミニサイズの生き物だが…親近感が湧く** (JP line 445): the agent had moved this into present; it's character description, so it goes back to past narration → "She was tiny like Professor Ohinata, but unlike the professor, she seemed to be an introvert. I felt a certain kinship with her." — tense
+- **継火の魔女の改良図面は…豊かにしてくれそうだ。礼の一つもくれてやりたくなる** (JP line 457): back to past narration → "…blueprints looked like they'd make… That made me want…" — tense
+- **早速放火しに行くらしい** (JP line 577): reported action, so back to past → "Apparently, she was off to commit arson right away." — tense
+- The other present-tense reversals are direct monologue (うーん…なぁ, 〜だな, imperatives, general truths) and are kept. Rechecked: `check_reedit.py` PASS.
+
+### Lead Review, second pass (full change-by-change subagent review, 118 changes)
+- **昨晩の残りの米…ゴキゲンなラインナップだ** (JP 22): restored "last night's" and "miso soup"; the plain appraisal goes to past → "It was a breakfast lineup to put anyone in a good mood." — tense/accuracy
+- **火属性っぽい妖精さん** (JP 40): restored the っぽい guess → "the one that looked like a fire type" — accuracy
+- **いつも大変お世話になっております** (JP 94): restored the stock-greeting joke → "Thank you, as always, for your continued support." — voice
+- **燃え尽きようとしていた** (JP 97): "on the verge of burning out" — accuracy
+- **情け無さそうに** (JP 139) "miserably"; **雑にバコーン** (JP 163) "carelessly…—wham!—"; **長くても** (JP 202) "at most" — accuracy
+- **なんとも言い難い複雑な気持ちだ** (JP 235): restored "hard to put into words" and dropped the added "Yeah" — accuracy
+- **見上げ** (JP 259): kill-list "gazed" → "looked" — register
+- **全然見習いたくないぜ** (JP 655): "Not an example I ever want to follow." — accuracy

@@ -168,3 +168,46 @@
 - Exact golem incantation `Even a pebble has its worries[ツププヴイビイデイオーオ]` and source image marker `![p089.jpg](images/p089.jpg)` preserved.
 - Mobu, Shirokarasu, Moeka, Watarigarasu, Flame Witch, Flame Heir Witch, 0933, Gremlin, Pebble Witch, honorifics, social address distinctions, and narrative/direct-thought tense verified.
 - Violence remains source-accurate without added gore; no scene break or footnote occurs in Part 2.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–643; agent `reedit_v3c5_s1`; model `gpt-5.6-sol` at high reasoning; ~150 paragraph edits). Flow: short-sentence share 14.5% → 16.7%; runs 4 → 1 (kept: the source's three-beat “no one came back / idiots” punchline). The 9.1% word-count reduction was source-audited for omissions.
+
+### Accuracy Fixes
+- **夜職の女だった**: “a nightlife worker living in Shinjuku” → “had once worked in Shinjuku's nightlife industry” — accuracy
+- **人々の窮地につけ込み**: “took advantage of people's predicaments” → “made a killing off their plight” — register
+- **魔法杖があれば、切り札は兵器へ昇華する**: rebuilt as “A magic wand turned a trump card into a weapon” — accuracy
+- **有り得ない特徴があった**: clarified the feature that would have been impossible in a genuine wand — accuracy
+- [polish] **白鴉はお手上げだった** and **殺気が漏れてたぜ** were restored as natural English idioms — polish
+
+### Register and Flow
+Shirokarasu's blunt, controlled authority and the rough underworld dialogue stayed within the locked ceiling. The final immediate thought about the children was restored to present/future speech tense; narration stayed past.
+
+### Formatting Confirmed
+- The golem incantation, `![p089.jpg](images/p089.jpg)`, source violence level, and lack of notes were preserved.
+- Glossary forms, address distinctions, and name order were verified; no reference file was changed.
+- `check_reedit.py` PASS (reviewed word-count warning); chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 150 changes)
+- **ゴーレムがそんな調子だから** (JP 136): restored "were like that" so poor public safety follows from the golems' laziness — accuracy
+- **切り札として隠し持っている** (JP 190): "secret weapons" → "hidden trump cards" so the next line's "trump card" has its antecedent — accuracy
+- **言葉巧みに騙し取ったなら** (JP 418): "talked someone out of it" → "conned someone out of it with a smooth line"; removed the unclear "they" — accuracy
+- **少なからぬ犠牲が出たのも痛い** (JP 274): "more lives than they could afford" → "no small number of lives, which hurt" — accuracy
+- **直接仕入れ交渉を行うため…青梅に足を踏み入れた** (JP 199): restored purpose ("to negotiate … for wands") instead of stating the negotiation happened — accuracy
+- **医薬品の強制徴収時** (JP 19): "the mandatory collection" → "the forced requisition of medicine" — accuracy
+- **元は億ションの部屋にあった** (JP 169): removed added "looted" → "that had once stood in luxury condos" — accuracy
+- **脱兎の如く夜逃げした** (JP 85): restored "bolted in the night like startled rabbits" — accuracy
+- **特に新宿と隣接している文京区** (JP 61): restored "in particular" — accuracy
+- **ルーペでつぶさに調べた** (JP 172): restored "closely" — accuracy
+- **まあしかし…成果次第だろう** (JP 307): restored "Still", "probably", and the ongoing espionage — accuracy
+- **話が早そうだ** (JP 520): restored the そう hedge: "That seemed like the quicker way to settle things." — accuracy
+- **魔女集会が終わる時間帯** (JP 460): "The Council meeting" → "The Witches' Council meeting" — glossary
+- **渋々杉並区を守るようになっている** (JP 121): fixed the dangling "though reluctantly"; dropped added "eventually" — worse
+- **主人であるさざれ石の魔女の気質** (JP 130): unstacked possessive → "the temperament of their master, the Pebble Witch" — worse
+- **緑の葉を茂らせ始めたある日の事** (JP 160): restored the season as the setting for the day — worse
+- **自分の下に通される客は** (JP 361): plural subject restored to agree with "And valuable ones at that." — worse
+- **代替わりしたばかりの火継の魔女の家から** (JP 457): replaced "newly succeeded" with "who had only just taken over", restored "from the home of" — worse
+- **ややあって** (JP 595): "A moment later" → "A little later" to avoid echoing "a moment of silence" — worse
+- **入れ違いに様子を見に来た部下** (JP 616): "Another subordinate arrived" → "As Moeka left, a subordinate came down" — accuracy
+- **(file-wide)**: apostrophes normalized to curly ’ to match the baseline majority (baseline 52 ’ vs 44 '; after pass 27 ’ vs 80 '; now 108 ’, 0 '); double quotes were already all curly (90 “/”, 0 straight) — mechanics
+- `check_reedit.py` RESULT: PASS (word-count warning 4871 → 4481, −8.0%, reviewed); `run_chapter_gates.py --unit 3 --chapter 5` RESULT: ALL PASS.

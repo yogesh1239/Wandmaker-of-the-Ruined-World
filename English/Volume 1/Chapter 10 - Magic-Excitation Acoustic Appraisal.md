@@ -1,38 +1,38 @@
-As I saw it, new technology had always spread unevenly from region to region. This wasn't the paranoid delusion of a socially awkward country bumpkin. It was a fact.
+The way I saw it, new technology had always spread with a glaring gap between regions, no matter the era. And that wasn't the paranoia of some socially awkward country bumpkin talking. It was a fact.
 
 Phone service, for example, started in city centers, and supposedly it took more than ten years for phone lines to reach private homes in the middle of nowhere.
 
-Home delivery services started in cities before anywhere else too. Remote islands and backwoods came later, and some places were even left outside the service area forever.
+Home delivery started in the cities before anywhere else too. Remote islands and backwoods got it later, and some places were left outside the service area forever.
 
 Bullet trains, buses, movie theaters, anime broadcasts—they were all city first, and the countryside was always behind the cities.
 
-Even when cities got excited over new technology, there was a time lag before people living in the countryside could feel its benefits.
+Even when the cities were buzzing over some new technology, it took a while before the people out in the countryside actually felt the benefits.
 
-But if you had powerful connections, that changed things. There were heartwarming stories about a local prodigy who headed to Tokyo, made it big in the city, then brought telephone service or built a hospital back in his rural hometown.
+Powerful connections changed all that, though. There were heartwarming stories about a local prodigy who moved to Tokyo, made it big, and then brought phone service or built a hospital back in his rural hometown.
 
-The connection I'd made with the stoat professor worked as that kind of exception too.
+My connection with the stoat professor turned out to be one of those exceptions.
 
-I lived in an isolated house deep in the mountains, the kind of place that should've been left behind in technology, culture, information—everything. But thanks to my correspondence with the stoat professor, right in the middle of a hotspot of technological innovation, the latest information from the city came pouring in.
+My house sat alone deep in the mountains, the kind of place that should've been left behind in technology, culture, information—everything. But I was trading letters with a stoat who lived at ground zero of technological innovation, so the latest news from the city came pouring in.
 
-With the invention of the fertility-magic bypass incantation, the food situation around Tokyo was rapidly improving. The predicted hell of famine could now be avoided, and the vast number of people who'd worked to produce even one more cup of rice or one more handful of barley were free to do other things.
+Thanks to the invention of the fertility-magic bypass incantation, the food situation around Tokyo was rapidly improving. It now looked like the predicted famine hell could be avoided, and the huge number of people who'd been working to grow even one more cup of rice or one more handful of barley were free to do other things.
 
-That newfound breathing room was what allowed Tokyo Magic University to be founded as a fortress of learning.
+That breathing room was exactly what made it possible to found Tokyo Magic University as a fortress of learning.
 
-I got an offer of a university research position in "magic-wand processing studies," but I turned it down flat.
+I'd gotten an offer too: a research position at the university under the name "magic-wand processing studies." I turned it down flat.
 
-Normally, forming a research team would speed things up. But I did things a little—or a lot—differently from ordinary people. I knew exactly what would happen if I tried working hard as a team: I'd immediately stop being able to work hard at all. It had always been like that, at school and at work, my entire life.
+Normally, forming a research team would speed things up. But I wasn't like ordinary people—not by a long shot. I could already see how it would go: the second I tried to pull together with everyone and work hard, I'd lose the ability to work hard at all. That was how it had always gone, at school and at work, my whole life.
 
 I made magic wands alone. That was the most efficient way, and more than anything, it was fun.
 
-While agriculture, forestry, and fisheries were growing by leaps and bounds thanks to the fertility-magic bypass incantation, I went against the grain and got really into Gremlin appraisal. I'd never get ahead by doing the same thing as everyone else.
+While agriculture, forestry, and fisheries were booming thanks to the fertility-magic bypass incantation, I went against the grain and got really into Gremlin appraisal. Doing the same thing as everyone else would never put me ahead of them.
 
-Gremlins were the foundation of magic processing technology. Pursuing processing methods was important, but there was no downside to sharpening my eye for the material itself too.
+Gremlins were the foundation of magic processing technology. Exploring processing methods mattered, but it couldn't hurt to sharpen my eye for the raw material too.
 
-Gremlins were gemlike crystals. Their shapes, sizes, and colors all varied. This was a good chance to train my eye. Any craftsman who couldn't judge the materials he worked with was third-rate, plain and simple.
+Gremlins were gemlike crystals that came in all shapes, sizes, and colors, so this seemed like a good time to train my eye. Any craftsman who couldn't judge the materials he worked with was third-rate, plain and simple.
 
-When I asked the Blue Witch if she had any Gremlin samples, the next day she brought over a carry case stuffed with a huge number of Gremlins.
+When I asked the Blue Witch if she had any Gremlin samples, she showed up the next day with a carry case stuffed full of them.
 
-I set the carry case on the workshop table and opened it. The multicolored Gremlins packed tight inside came spilling out with a clatter.
+I set the carry case on the workshop table and opened it, and Gremlins of every color, packed in tight, came spilling out with a clatter.
 
 "Whoa...! I mean, yeah, I did say bring as many as you could carry, but isn't this a lot?"
 
@@ -40,51 +40,51 @@ I set the carry case on the workshop table and opened it. The multicolored Greml
 
 "That many?"
 
-As the Blue Witch idly rolled a beautiful ultramarine Gremlin between her fingertips, she explained that Gremlins circulated as something less than goods but more than currency.
+As the Blue Witch idly rolled a beautiful ultramarine Gremlin between her fingertips, she explained that Gremlins circulated as something worth more than money but less than actual goods.
 
-Civilization had collapsed, and the old currency—that was, Japanese yen—had become scraps of paper. Now even a stack of bills couldn't buy one rice ball. Barter and rations were the basics, and the echoes of the pre-collapse economy creaked along; Gremlins sometimes filled an auxiliary role in it.
+Civilization had collapsed, and the old currency—Japanese yen—had turned into scrap paper. These days, even a stack of bills couldn't buy you a single rice ball. The economy ran mostly on barter and rations, a creaking echo of the one from before the collapse, and Gremlins sometimes played a supporting role in it.
 
-The bigger a Gremlin was, the greater its magic-amplification effect. Large Gremlins were several ranks below magic stones, but they were recognized as having some practical value.
+The bigger the Gremlin, the stronger its magic-amplification effect. Large Gremlins were several ranks below magic stones, but they were recognized as having some practical value.
 
-Now that I had shown the world the potential of spherical polishing, and the fertility-magic bypass incantation was rapidly increasing the number of people who could use magic, Gremlins were becoming more valuable. Lately, they said, Gremlins could even be traded for food.
+Now that I'd shown the world what spherical polishing could do, and the fertility-magic bypass incantation was rapidly increasing the number of people who could use magic, Gremlins were going up in value. Apparently, you could sometimes even trade them for food these days.
 
-As I listened to the Blue Witch, I sorted the Gremlins by color and size and lined them up on the worktable.
+I listened to the Blue Witch while I sorted the Gremlins by color and size and lined them up on the worktable.
 
-Their sizes ranged all over the place, from grains of rice to ping-pong balls, and they came in all kinds of colors too: red, blue, yellow, green, and purple.
+They ranged from the size of a grain of rice to the size of a ping-pong ball, and they came in every color: red, blue, yellow, green, purple.
 
 Hmm?
 
 "No transparent Gremlins?"
 
-"There aren't... no, there are. Gremlins held by ghost-type monsters are transparent. But they gain color when the monster dies."
+"No... wait, yes. Ghost-type monsters have transparent Gremlins. But they get color once the monster dies."
 
 "Why?"
 
-"Don't know. Maybe it's something to do with the Gremlin's composition...?"
+"No idea. The Gremlin's composition does... something, probably?"
 
-The Blue Witch tried to come up with some sort of explanation, but all she produced was empty speculation.
+The Blue Witch was trying to squeeze out some kind of theory, but what came out had nothing in it.
 
-Hmm. I don't really get it.
+Hmm. I really don't get it.
 
-With gemstones, color came from the elements they contained. Gemstones contained all kinds of elements, like copper, aluminum, and silicon, so they came in all kinds of shades.
+With gemstones, color came from the elements they contained. Gems held all sorts of elements—copper, aluminum, silicon—which was why they came in so many shades.
 
 But Gremlins were magic crystals that grew by eating electricity. They had properties that didn't match any element on Earth. I didn't know where their colors came from.
 
 "Do Gremlins have their own attributes? Maybe their colors depend on those attributes... This one sure looks ice-aligned."
 
-When I held a blue Gremlin the size of my pinky nail up to the light, its icy sparkle was a treat to look at.
+I held a blue Gremlin the size of my pinky nail up to the light, and its icy sparkle was a treat for the eyes.
 
-I was excited over the mysterious possibilities hidden in Gremlins, but the Blue Witch immediately threw cold water on me.
+I was getting excited about all the mysterious possibilities hidden in Gremlins, but the Blue Witch threw cold water on it right away.
 
 "Color and performance are unrelated. This red one doesn't especially amplify fire magic, and this green one doesn't do anything special for fertility magic either."
 
-"What? Boring. Are darker colors rarer, maybe? Any difference in rarity?"
+"Aw, boring. What about rarity, then? Like, the darker the color, the rarer it is?"
 
-"That doesn't exist either. The same species of monster has Gremlins of the same color, so hunting a group of the same monster species can get you a bunch of Gremlins the same color at once, but..."
+"None of that either. Monsters of the same species carry Gremlins of the same color, so if you hunt a pack of them, you can end up with a bunch of one color all at once, but..."
 
-As I asked the Blue Witch questions and sorted the huge pile of Gremlins, my eye got a little sharper just from lining them up. Until then, I'd carefully examined fewer than ten Gremlin colors. Inspecting this mishmash of well over five hundred colors broadened my horizons. Comparing them made the differences catch my eye, and I started to recognize them.
+Just sorting through the huge pile and quizzing the Blue Witch as I went sharpened my eye a little. Until then, I'd only ever looked closely at fewer than ten Gremlin colors. Going through a jumble of well over five hundred broadened my horizons. Comparing them side by side made the differences stand out, and I started to see them.
 
-The Blue Witch had said color had nothing to do with Gremlin performance, but as I looked into it, I found that strictly speaking, that was a lie.
+The Blue Witch had said color had nothing to do with Gremlin performance, but as I dug deeper, I found that strictly speaking, that was a lie.
 
 Or rather, a misunderstanding.
 
@@ -92,101 +92,101 @@ Sure, whether a Gremlin was blue or green had no effect on its performance.
 
 But uneven coloration made the amplification ratio drop slightly.
 
-Gremlins that contained fine debris also had a slightly lower amplification ratio than Gremlins without impurities.
+Gremlins with fine debris trapped inside also had a slightly lower amplification ratio than ones without impurities.
 
 Even among Gremlins of exactly the same size and spherical shape, there was about a 5% gap in amplification ratio between "no uneven coloration and no impurities" and "uneven coloration and impurities."
 
-There is a performance difference after all!
+So there's a performance difference after all!
 
-It was a tiny difference, the kind you couldn't see unless you prepared a huge number of Gremlins, controlled the conditions, and compared them.
+Granted, it was a tiny one, the kind you'd never notice without lining up a huge number of Gremlins, controlling the conditions, and comparing them.
 
-I measured the amplification ratio by using freezing magic on water, then checking the temperature change with a thermometer. A more rigorous method might give a different number, but this was as precise as anything I could think of, so I decided to call it 5% for now.
+I measured the amplification ratio by casting freezing magic on water and checking the temperature change with a thermometer, so a more rigorous method might turn up a different number. But that was the best precision I could get out of any method I could think of, so for now, I'd call it 5%.
 
-Only 5%. Still, 5%.
+Just 5%. But 5% is 5%.
 
-A Wand Maker who laughed at 5% would cry over 5%. I just made that proverb up.
+A Wand Maker who laughs at 5% will cry over 5%. I just made that proverb up.
 
-As a Wand Maker on the cutting edge, I intended to fuss over even 5%.
+As a Wand Maker on the cutting edge, I was going to obsess over every last 5%.
 
-With the Blue Witch helping with the experiments, my Gremlin-appraisal know-how built up fast.
+With the Blue Witch helping out with the experiments, my Gremlin-appraisal know-how piled up fast.
 
-The Blue Witch thought examining hundreds of Gremlins one by one and patiently collecting data was a real pain. But when I showed her the graphs and the new facts we'd uncovered, she was openly impressed.
+She looked pretty fed up with the grind of checking hundreds of Gremlins one at a time and logging the data. But whenever I shoved a graph of the results or some newly discovered fact in her face, she was openly impressed.
 
-"Amazing. Can new facts really keep popping out one after another like this?"
+"Amazing. Do new facts really just keep tumbling out like this?"
 
-"For me, I don't get why facts this basic hadn't been found until now."
+"If you ask me, the real mystery is why nobody found facts this basic before now."
 
-It wasn't like I thought I was doing anything that difficult.
+I didn't think I was doing anything all that hard.
 
-Even if 80% of the population had died in the Gremlin Disaster, smart researchers had to have survived. I thought verification experiments as basic as the ones I came up with would all have been done ages ago, but apparently that wasn't the case.
+Sure, 80% of the population had died in the Gremlin Disaster, but some smart researchers had to have survived. I'd figured the kind of verification experiments I could come up with would've been done to death ages ago, but apparently not.
 
-When I asked her why, the Blue Witch explained calmly.
+When I asked her about it, puzzled, the Blue Witch explained matter-of-factly.
 
-"First, until very recently, people had bigger things to worry about. Research for tomorrow took a back seat to food for today. Children, old people, idiots, geniuses—everyone went out in groups to gather the food left in devastated areas. When they weren't doing that, they plowed fields, pulled weeds, and caught fish."
+"The big one is that, until very recently, people had bigger things to worry about. Research for tomorrow took a back seat to food for today. Children, old people, idiots, geniuses—everyone went out in groups to gather the food left in devastated areas. When they weren't doing that, they plowed fields, pulled weeds, and caught fish."
 
 "Ah..."
 
-Hearing it spelled out, I knew exactly what she meant.
+Now that she put it that way, I'd been there myself.
 
-I had struggled a lot to secure food and fuel too. I'd only been able to put real effort into making magic wands after meeting the Blue Witch and getting her support. Before that, I'd only worked on them a little at a time as a daily comfort, something to do when I took a break.
+Getting enough food and fuel had given me plenty of trouble too. I'd only been able to put real effort into making magic wands after I met the Blue Witch and started getting her support. Before that, wand work was just something I tinkered with here and there to unwind, my little daily comfort.
 
-"Then there are the differences in research direction. Some researchers, like Kei-chan, focus on magic incantations. Others study monsters' weaknesses. There are all kinds. Plenty of researchers are also trying to make electronic devices usable again."
+"Then there's the difference in research direction. Some researchers, like Kei-chan, focus on studying incantations. Some study monsters' weaknesses. All kinds. A lot of them are also trying to get electronic devices working again."
 
-"Oh, yeah? That makes sense. If electricity came back, civilization would come back too."
+"Ahh, gotcha. Yeah, that makes sense. Bring back electricity and you bring back civilization."
 
-That made a lot of sense. Rather than mess around with incomprehensible magic crystals, restoring all the incredibly convenient electronic devices that had stopped working would be a quicker way to rebuild collapsed civilization.
+I was totally convinced. Messing around with baffling magic crystals would never get the collapsed civilization back on its feet as fast as reviving all those insanely convenient electronics that had died.
 
-It made perfect sense to pour effort into research on restoring electronic devices.
+No wonder so much effort went into bringing electronics back.
 
-"But research into restoring electricity hasn't produced any results. Kei-chan's magic linguistics and your wands have produced clear results, so people have started moving into those fields lately. Maybe from here on out, it'll be the age of magic research?"
+"But the electricity research hasn't produced any results. Kei-chan's magic linguistics and your wands are getting clear results, so lately people have been moving over to those. Maybe from here on out, it'll be the age of magic research?"
 
 "Not the age of violence?"
 
-When I made a wisecrack at the humanoid superweapon that had killed a giant kaiju in one hit, the Blue Witch looked sulky.
+When I cracked that joke at the humanoid superweapon who'd wiped out a giant kaiju in one blow, the Blue Witch pouted.
 
 "It's not like I use violence because I like it. I'd much rather be chatting with you like this. I only use my power to protect and save people important to me... though I've failed to protect them again and again."
 
 "O-Okay."
 
-That got gloomy all of a sudden, huh? This woman keeps giving me glimpses of darkness every so often. I can't believe she's the same person who was all excited with the stoat on her shoulder.
+That got gloomy all of a sudden, huh? This woman keeps flashing little glimpses of darkness at me. I can't believe she's the same person who was so giddy with a stoat on her shoulder.
 
-Gremlin quality appraisal wasn't something you could learn overnight, and over the following week, I increased my knowledge with help from the Blue Witch, who dutifully went along with my verification experiments.
+Gremlin quality appraisal wasn't a skill you picked up overnight. I spent the next week building up my know-how, with help from the Blue Witch, who dutifully kept going along with my verification experiments.
 
 For example, Gremlins came in all kinds of colors, and their transparency varied just as much.
 
-Some Gremlins were clear as colored glass. Others were opaque, colored through like marble, so you couldn't see inside.
+Some Gremlins were as clear as colored glass. Others were opaque, colored all the way through like marble, so you couldn't see inside.
 
-With highly transparent Gremlins, you could identify uneven coloration and impurities by looking at them.
+With highly transparent Gremlins, you could spot uneven coloration and impurities just by looking.
 
-The problem was opaque Gremlins, whose insides you couldn't see.
+The problem was the opaque ones, since you couldn't see inside.
 
-You couldn't tell if there were impurities inside. Even if there was no uneven coloration on the surface, you could break one open and find uneven coloration all through the interior.
+If they had impurities in them, you'd never know. Even if the surface had no uneven coloration, you might crack one open and find the inside full of it.
 
-I developed magic-excitation acoustic appraisal to assess opaque Gremlins whose quality was hard to judge from the outside.
+Magic-excitation acoustic appraisal was the method I developed to assess opaque Gremlins like that, whose quality was hard to judge from the outside.
 
 Basically, you could tell a Gremlin's quality by tapping it and listening to the sound.
 
-To begin with, Gremlins and magic stones responded to recited incantations. They responded to magic power, of course, but also to sound.
+First off, Gremlins and magic stones reacted to incantations. They reacted to magic power, of course, but to sound as well.
 
-The higher the amplification ratio, the more sensitive that response to sound became. The Gremlin's sound absorption increased. It took in the sound of a recited incantation as though swallowing it whole.
+The higher the amplification ratio, the sharper that reaction to sound got—in other words, the higher the sound absorption. The Gremlin took in the sound of a recited spell and held it, as if swallowing it whole.
 
-This sound absorption wasn't always active. Normally, Gremlins didn't particularly absorb sound. According to the Blue Witch, they only took a "listening posture" when magic excitation occurred, such as when an incantation was recited nearby.
+This sound absorption wasn't always active, though. Normally, Gremlins didn't absorb sound in any special way. According to the Blue Witch, they only took a "listening posture" when magic excitation occurred, such as when an incantation was recited nearby.
 
 Cyanos's core was a huge magic stone with a high amplification ratio to begin with, and its seven-layer structure had sent that ratio soaring. Even when I tapped the core with my fingernail, it made no sound at all. The sound was perfectly absorbed, proof of its extraordinary amplification ratio.
 
 By contrast, tapping an unprocessed, rice-grain-sized Gremlin made the sound slightly louder because its amplification ratio was negative.
 
-After tapping, tapping, and tapping away with my fingernail at thousands of Gremlins with different amplification ratios, memorizing their sounds and honing my feel for them, I could accurately appraise Gremlin quality.
+I tapped and tapped and tapped away with my fingernail at thousands of Gremlins with different amplification ratios, learning their sounds by ear and honing my feel for them, until I could appraise Gremlin quality accurately.
 
-As the culmination of a week of Gremlin-appraisal research, I decided to test myself.
+To cap off a week of Gremlin-appraisal research, I decided to test myself.
 
-I put a newly made dodecahedral fractal for appraisal on the worktable, recited the fertility-magic bypass incantation, and put it into an activation-standby state.
+I set a dodecahedral fractal I'd made just for appraisal on the worktable, recited the fertility-magic bypass incantation, and put it on activation standby.
 
-The blinking fractal was in a magic-excitation state. Any nearby Gremlin took a "listening posture" and entered a sound-absorption state.
+The blinking fractal was in a magic-excitation state, so any Gremlin near it would take a "listening posture" and enter a sound-absorption state.
 
-With that done, all I had to do was put on a blindfold.
+Then all I had to do was put on a blindfold.
 
-The Blue Witch helped by placing Gremlins of different shapes, colors, and sizes in front of me one after another. Still blindfolded, I tapped each one with my fingernail and called out its amplification ratio.
+I got the Blue Witch to help by setting Gremlins of different shapes, colors, and sizes in front of me one after another. Still blindfolded, I tapped each one with my fingernail and called out its amplification ratio.
 
 "1.1×. 1.24×. Another 1.24×. 0.9—no, 0.91×. Exactly 1×. 1.21×. 1.22×. 1.08×. 0.59×. Hmm...? 1.1×, but is this the same as the first one?"
 
@@ -200,9 +200,9 @@ When I took off my blindfold, the Blue Witch hurriedly shook her head.
 
 "Because you're relying on your ears. They feel slightly different when you tap them too. Sound's just vibration in the end, so the trick to precise appraisal is feeling that vibration with your fingertips. Combine the sound and feel, then judge the whole thing."
 
-I gave her a perfectly straightforward tip, but the Blue Witch was speechless.
+I'd given her a perfectly easy tip to follow, but the Blue Witch was left speechless.
 
-"...You're dexterity personified. You're more inhuman than a witch."
+"...You're dexterity incarnate. You're further from human than a witch is."
 
 "If anything, you're way too human for a witch."
 
@@ -210,70 +210,70 @@ She was nothing like the stereotypical wrinkled witch who stirred a suspicious c
 
 "Anyway, Gremlin quality appraisal's looking good. We are most pleased. Training complete! You're taking the Gremlins home, right? Want help carrying them?"
 
-The huge number of Gremlins she had brought all the way from Ome to Okutama just so I could train my eye amounted to six carry cases in all. Carrying them alone would be tough.
+The pile of Gremlins she'd hauled all the way from Ome to Okutama just so I could train my eye came to six carry cases in total. That was a lot for one person to lug around.
 
 When I offered to help carry them, the Blue Witch shook her head.
 
-"I won't use them even if I have them. I'll give them to Ori."
+"They're no use to me even if I keep them. Ori can have them."
 
 "Huh. You're giving them to me? All of them? I'm not giving them back, okay?"
 
-"Fine. They're just stones I don't care about."
+"Fine by me. They're just rocks I don't care about."
 
-The Blue Witch said that like she had no attachment to them at all. Talk about bighearted. More like big-bellied—give it up for the 200 cm waist!
+The Blue Witch said it without a hint of attachment. Talk about bighearted. More like big-bellied—give it up for the 200 cm waist!
 
-Then again, if she gets attached to something, she'll probably carry even a pebble close at all times. Well, whatever the reason, if she's giving them to me, I'll gratefully take them. Nothing is cheaper than free.
+Then again, if she does care about something, she'll probably keep it on her at all times, even if it's just a rock. Well, whatever her reasons, if she's giving them to me, I'll gladly take them. Nothing's cheaper than free.
 
-I'm a genius Wand Maker, but without materials to process, I'm just some guy. If the Blue Witch will handle not just promotion and negotiations but sourcing materials too, that'll be a huge help.
+I'm a genius Wand Maker, but without materials to work with, I'm just some guy. If the Blue Witch is going to handle not just promotion and negotiations but sourcing materials too, that's a huge help.
 
 I won't have to trek to power plants looking for large Gremlins while cowering at every sign of a monster anymore.
 
 "Seriously, this helps. Want me to make you something in return? You went along with the experiments too, so it can double as thanks for that."
 
-"Don't casually make more nuclear weapons. One is enough."
+"Don't go casually making more nuclear weapons. One is plenty."
 
-The Blue Witch said that, lightly tapping her shoulder with Cyanos. But that's not what this is about. Cyanos is a product, isn't it? I'm talking about a thank-you gift, not a promotional piece.
+She lightly tapped Cyanos against her shoulder as she said it. But that's not what I mean—Cyanos is merchandise, right? I'm talking about a thank-you here, not promo material.
 
 "Not a wand. Maybe a Gremlin accessory, like a necklace or earrings. This blue one might suit you if I set it in a ring."
 
-I took the Blue Witch's hand and compared the size of her finger to the Gremlin, picturing the thank-you gift. Then she blurted out something strange in a confused voice.
+I took the Blue Witch's hand and held the Gremlin up to her finger to picture the gift, and she blurted out something strange in a baffled voice.
 
 "...Uh, are you maybe hitting on me?"
 
 "Huh?"
 
-What is with this witch? She had suddenly jumped to a creepy conclusion.
+What's with this witch? Where'd that creepy idea come from all of a sudden?
 
 "I told you it's a thank-you, damn it. Got Gremlins stuffed in your ears? Just how pretty do you think you are? Assuming every man wants to hit on you is pretty damn conceited."
 
-"N-No, not that much..."
+"N-No, I wasn't going that far..."
 
-The Blue Witch faltered as she denied it, but that was what she was saying.
+The Blue Witch flinched and denied it, but that was exactly what she was saying.
 
 If just asking, "How about an accessory?" counts as hitting on someone, then every clerk at an accessory shop is one hell of a pickup artist.
 
 That's ridiculous, right? Right?
 
-"Well, you do have a stupidly pretty face, so I bet guys hit on you all the time. I guess it isn't being full of yourself... Wait, no, it isn't, is it?"
+"Well, you've got a stupidly pretty face, the kind guys probably hit on nonstop, so it's not like you're full of yourself, but... Huh? Wait, you're actually not full of yourself, are you?"
 
-I realized it as I said it. Of course a beautiful woman talks like being beautiful is a given, right? I talk like my insane dexterity is a given too.
+I realized it even as the words came out. Isn't it only natural for a beautiful woman to talk like her beauty's a given? I talk like my insane dexterity's a given too.
 
-I slid the Blue Witch's mask aside a little and peeked underneath with narrowed eyes. A peerlessly beautiful girl stared back, dumbfounded. I slid the mask right back into place. Yep, that settled it.
+I nudged the Blue Witch's mask aside a little and peeked underneath through narrowed eyes. A peerlessly beautiful girl stared back, dumbfounded. I slid the mask right back into place. Yep, that settled it.
 
-If she looked that good, I guessed it couldn't be helped if she assumed every man wanted to hit on her. It wasn't being full of herself. It was a fair self-assessment.
+With a face that good, no wonder she assumed every man wanted to hit on her. She wasn't full of herself after all—it was a fair self-assessment.
 
 ![image_rsrc50A.jpg](images/image_rsrc50A.jpg)
 
 "Uh, I wasn't trying to hit on you. But that painfully cringey misunderstanding pissed me off, so no thank-you gift."
 
-"O-Oh. What is with you? Can you only act weird?"
+"O-Oh. What is with you? Is acting weird all you can do?"
 
-The utterly confused Blue Witch looked slightly put off.
+The Blue Witch was thoroughly baffled, and a little put off.
 
 Why are you the one put off? I'm the one who should be totally creeped out.
 
 I'd never offer her accessories again. No way was I putting up with another creepy misunderstanding like that.
 
-It had turned into a strange conversation, but it was true that the Blue Witch had given me a mountain of magic-wand materials. I could judge their quality now too, and my work would probably go even better from here on.
+Things had gotten weird, but the fact remained that the Blue Witch had given me a mountain of magic-wand materials. I could judge their quality now too, so my work was probably going to go even smoother from here on.
 
 As a first-rate craftsman, I wanted to handpick first-rate materials and keep making first-rate magic wands.

@@ -156,3 +156,27 @@
 - Preserved the sole `[^1]` spell marker and its exactly matching end-of-part `## Translator Notes` entry.
 - Verified `giant kaiju`, `kaiju`, `Flame Witch`, `Hachioji Witch`, `sealing chains`, `Gremlin Disaster`, `Transcendent`, `Ome`, `Cyanos`, `magic wand`, `magic stone`, `magic power`, `Wand Maker`, `Iruma Mage`, `overtechnology`, and the full locked spell.
 - Reviewed `super-creature`, `diamond dust`, and `radio tower`; all matched the source without new glossary rows.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–418; agent `reedit-v1c4-s1`; ~125 edits plus a tense follow-up). Flow: short-sentence share 18.1% → 18.9%; runs of 3+ short sentences 2 → 1 (kept: "Right. / She can't run. / Ome is right in the monster's path." resolve beat). User ruling 2026-09-28: narration stays past; tense-audit present-tense lines that render plainly past JP narration are returned to past.
+
+### Accuracy Fixes
+- **JA 349–355 (被害範囲を限定するのは到底不可能だった…だがそれで充分)**: "There is no way she can limit… / All she can do is… / But that is enough." → past tense — tense (audit reversal, user-approved)
+- **JA 37, 46, 49, 55, 64, 70 (opening free-indirect reasoning)**: "will be easy… she can… will be… She'll sell… Ori will be happy" → "would be easy… she could… would be… She'd sell… Ori would be happy"; "What's the point…" → "What was the point…"; "It leads nowhere." → "It led nowhere." — tense (audit reversal, user-approved)
+- **JA 73 (これぞWin-Winだ)**: "Now that's a win-win." → "A textbook win-win." — tense (verbless; fits past frame)
+- **JA 289–295**: "They didn't live to destroy things" / "monsters ran away" → "They don't live just to destroy things" / "monsters run away" — tense (consistency inside present-tense direct resolve)
+- **JA 412 (これでは私が世界を滅ぼす怪物だ)**: "Now she was the monster that would destroy the world." → "This makes me the monster that destroys the world." — tense (first-person 私 = direct thought)
+- **子供のいなくなった巣**: "a nest that had lost its pups" → "a den with no pups left in it" — accuracy
+- **巻き添えになりたいなら勝手に共闘しろ**: "If you want to get caught in the crossfire, go ahead and fight alongside me." → "Anyone who wants to get caught in the crossfire is free to join in." — referent
+- **パンクしそう**: "looks ready to break down" → "is about to burn out" — accuracy
+- [polish] **珍獣との魔法杖売買契約**: "The magic wand sales agreement…" → "The wand sales deal…" — polish
+- [polish] **かつて護るべき市民の命を全て取りこぼした**: participle opener → main clauses — polish
+- [polish] **聞きしに勝るその巨体に絶句する**: nominalization removed — polish
+- [polish] **JA 415–418**: stranded speech tag attached to its dialogue — polish
+
+### Register and Flow
+**Blue Witch (close third):** exasperated-but-caring voice kept ("...Honestly! Run if it gets dangerous, okay?" for もうっ！); immediate resolve blocks (JA 271–304, 316–322, 361–370) remain present-tense direct thought.
+
+### Formatting Confirmed
+- Image markers, scene breaks, notes unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 4` ALL PASS.

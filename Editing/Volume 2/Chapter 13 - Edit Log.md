@@ -239,3 +239,29 @@
 - Preserved `![p238.jpg](images/p238.jpg)` in source order and retained the paired `[^2]` note for assembler consolidation.
 - Verified daughter plant, antidote, essential oil, alraune, alraune secret nectar, magical fungi, Flower Witch, Blue Witch, and mushroom disease against the glossary.
 - Narrative/direct-thought tense, final alraune lore, honorifics, romanization, and absence of leftover furigana were verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source in two segments (the chapter is 12,331 JP characters, so it was split at the p226 image). User ruling 2026-09-28: narration stays past.
+- **Segment 1** (EN file start → before `![p226.jpg]` / JP 1–429; agent `reedit-v2c13-s1`; ~80 edits). Flow: short-sentence share 32.7% → 32.1%; runs 7 → 6 (kept: the letter's disease-stage list, "one and only friend… Wait, hang on.", the "Her color's awful!" panic, "Creepy.").
+- **Segment 2** (EN `![p226.jpg]` → end incl. notes / JP 430–928; agent `reedit-v2c13-s2`; ~125 edits). Flow: short-sentence share 33.8% → 34.9%; runs 9 → 7 (kept: "That should settle things. / Surely.", "I'm done for. / She's going to kill me.", "C'mon. Antidote.", the Flower Witch's one-line dialogue paragraphs); mean words/sentence 11.7 → 13.0.
+- Seam at p226 read by lead; no fix needed.
+
+### Accuracy Fixes
+- **魔女集会 (bare) / 魔法大学 / bare 未来視 (×6)**: → "Witches' Council" / "the Magic University" / "Foresight" — glossary
+- **まさかキノコの食べすぎで頭からキノコが!?**: まさか restored → "No way—did I eat so many mushrooms that one sprouted out of my head!?" — accuracy
+- **顔色わっる！**: → "Her color's awful!" — voice
+- **大輪の花を咲かせている**: the flower is the Flower Witch herself ("one huge flower in the shadows") — referent
+- **仕事終わりの助産師に毒を飲ませる**: pronoun mismatch fixed — referent
+- **寝ていた青の魔女**: "sleeping" restored — accuracy
+- **この子の未来ばかり視させてきた**: causative kept; lead smoothed the agent's "I have had nothing but this child's future foreseen" → "All I ever had foreseen was this child's future." — accuracy
+- **「苦しくも難しくもない」**: wording matched to the letter in segment 1 — accuracy
+- **JA 409 "That stoat girl's got to have it bad too!"** and one mixed-tense thought in segment 2: unified in present as direct thought — tense
+- [polish] 歪んだ笑みを作る寄生キノコから… / 宛名を… / 劇症化したキノコ病を治療する唯一の手段は… / 足がパンパンになるほど… / 自然の調和が形作る美は…: stacked modifiers rebuilt — polish
+- [polish] Stranded speech tag 花の魔女は物悲しそうに言った。 attached to her dialogue — polish
+
+### Register and Flow
+Bare 警備隊 kept as "security force" (series majority, 21 uses) rather than the glossary note's "security guards"; flagged for the user. Bare 目玉 from the Flower Witch stays "the Eyeball Witch" (no bare-title glossary form).
+
+### Formatting Confirmed
+- Notes [^1]–[^2], ruby spans, scene breaks, and image markers unchanged; no backticks; `check_reedit.py` PASS on both slices; `run_chapter_gates.py --unit 2 --chapter 13` ALL PASS.

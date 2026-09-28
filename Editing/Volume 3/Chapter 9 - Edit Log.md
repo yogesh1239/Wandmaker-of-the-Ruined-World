@@ -61,3 +61,30 @@
 ### Formatting Confirmed
 - Both accuracy and single-iteration polish passes covered source lines 1–421 in sequential audit chunks.
 - Scene break `---`, exact fire-salamander cries, glossary terms, furigana rendering, narrative/direct-thought tense, and one terminal translator note verified.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–421; agent `reedit_v3c9_s1`; model `gpt-5.6-sol` at high reasoning; ~49 paragraph edits). Flow: short-sentence share 28.8% → 28.6%; runs 3 → 2.
+
+### Accuracy Fixes
+- **これでヨシと喜んだのも束の間**: “just as I started celebrating” → “for one brief moment I thought that settled it” — accuracy
+- **三匹は無邪気に…**: fixed unidiomatic “all three did was” while retaining all three as the subject — accuracy
+- **そっと反射炉を離れ**: “left” → “slipped away from the reverberatory furnace” — accuracy
+- **何を言っても言葉が通じない**: “could not understand words” → “Nothing I said got through to them” — register
+- **普通の物理的な火**: “ordinary physical fire” → “ordinary natural fire” — glossary
+- [polish] Removed a stranded speech tag after Ori put one salamander on his lap — punct
+
+### Register and Flow
+Ori's immediate questions, anxieties, recognitions, and planned experiment were restored to present/future speech tense; narration remained past. The remaining short runs preserve source comedy.
+
+### Formatting Confirmed
+- Exact `---`, salamander cries, the `mimi` marker, and terminal note were preserved.
+- Glossary forms, ruby handling, honorifics, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 49 changes)
+- **いや寂しいというか…心配して連れ戻しに来たのか？** (JP 268): restored 心配して and fixed the question's logic → "Maybe they got worried when their boss wasn't in the nest at bedtime, so they came to bring me back?" — accuracy
+- **幻想的に明るく浮かび上がり** (JP 241): restored "otherworldly" — accuracy
+- **どこに連れていかれるのかと思っていると** (JP 244): restored Ori's wondering before the reveal — accuracy
+- **疲れ知らずかと思われたが、昼過ぎから…疲れたらしい** (JP 103): restored "early afternoon" and both hedges — accuracy
+- **火事は困る** (JP 31): "the house fire" → "a house fire" (hypothetical) — polish

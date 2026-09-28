@@ -151,3 +151,28 @@
 
 ### Formatting Confirmed
 - Source lines 397–604 were checked in two chunks at the scene break; both `---` markers, past-tense narration, exact glossary terms, honorifics, romanization lock, and the absence of images/footnotes in this scope were verified in both passes.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–604; agent `reedit-v1c2-s1`; ~165 edits). Flow: short-sentence share 27.6% → 26.3%; runs of 3+ short sentences 8 → 6 (remaining runs are deliberate comic beats: tumor/parasite denial, Mohs-hardness reaction, beam test, otaku laugh chant, "Damn brat" exchanges).
+
+### Accuracy Fixes
+- **JP 250–268 (固有振動数の声を浴びせる)**: "sang at the red gem's natural frequency" → "sang the natural-frequency note at it" (also the electric-crystal lines) — accuracy (same note as Okutameteorite; later lines depend on it)
+- **俺は食料を奪われ怯えていたのか？**: "I'm scared of this…brat who stole my food?" → "This obviously feeble little brat is who's been stealing my food? And I was scared of her?" — accuracy
+- **大人を舐めやがって / 大人を舐めるなよ**: "looking down on an adult" / "Don't underestimate adults!" → "Messing with a grown-up like that...!" / "Don't mess with grown-ups!" — voice (restores JP echo)
+- **お母さんに教わらなかったのか**: "Didn't her mother teach her…" → "Didn't your mom ever teach you…" — address (thought aimed at the kid)
+- **おしっこ漏らした**: "pissed myself" → "peed myself" — register
+- [polish] **ジリジリと…唯一の癒しであり希望**: front-loaded modifier stack split into two sentences — polish
+- [polish] **鹿は即死こそしなかったが**: subject/verb moved forward: "I took careful aim and hit the deer dead-on with a wand beam." — polish
+- [polish] **「ヘンデンショー」君はなかなか優秀だ**: main clause now leads — polish
+- [polish] **空っぽになった米櫃…スッカラカンの塩瓶**: triple "empty" varied — polish
+- [polish] **110番も今は役立たず**: rebuilt as "At a time like this, I'd normally call 110 for the police, but that's useless now." — polish
+
+- **Tense follow-up (user ruling 2026-09-28: narration stays past)**: 38 audit-era present-tense lines rendering plainly past JP narration returned to past, incl. 問題は飯だった "Food is the problem." → "Food was the problem."; しかしそうではなかった "But that's not true after all." → "But I'd been wrong."; the 配達業もストップする, 110番, 前向きに考えれば, 獣医ではない, rice-paddy, 魔法杖は便利だが, and closing (JA 574–604, 必要があった) blocks → past — tense (audit reversal)
+- **お前も魔法石だったのか!?**: "So you're a magic stone too!?" → "So you were a magic stone too!?" — tense
+
+### Register and Flow
+**Ori (narration):** casual register kept. Present tense retained only for JP-supported direct thought: the 衣食住 general truth, ぶっ殺して食ってやろうか, the interrupted meat-drying plan (JA 76–79, confirmed as thought by 考えていた at JA 85), the self-pep-talk (JA 127, いくら自分に言い聞かせても), rabbit reactions, the "Wahaha" chant, brat/gloating lines, JA 481.
+
+### Formatting Confirmed
+- No images or notes in chapter; scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 2` ALL PASS.

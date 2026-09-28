@@ -84,3 +84,24 @@
 
 ### Formatting Confirmed
 - Audited all 379 source lines in three ordered chunks; preserved the single scene break; verified past-tense narration, exact glossary terms, numbers and time spans, no footnotes, no furigana residue, and no in-file title heading.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–379; agent `reedit-v2c4-s1`; ~150 edits). Flow: short-sentence share 15.5% → 16.3%; runs 0 → 0. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (audit present → past)**: 俺は器用さ世界一の男だが…言わざるを得ない; 助けになる; JA 202–211 question run; 大日向教授と違い、俺はフリー; あと２時間は…ないといけない; たぶん…ひび割れてしまう…待つのだ; JA 301–373 news/slump/letter narration — tense (audit reversal); live thought at JA 238, general truths at JA 217/220, closing exclamation JA 376–379 stay present
+- **劣化コピー…も**: "inferior copies… had started circulating" → "cheap knockoffs… had gone around and eaten into my market share" — accuracy
+- **世界唯一にして世界一**: → "the world's one and only Wand Maker, which made me the greatest one too" — accuracy
+- **魔法を唱えても**: "chant a spell" → "cast a spell" — glossary (banned alias "chant")
+- **魔女集会 (JA 343)**: "Council members" → "Witches' Council members" — glossary
+- **「なんかダメっぽい」**: → "Looks like it's kind of a bust." — voice
+- [polish] **JA 223 modifier stack**: front-loaded "Unlike Professor Ohinata, who…" rebuilt as two sentences ending "Not me." — polish
+- [polish] **JA 172 / JA 346**: agency order and long-sentence split — polish
+- [polish] **Seam repeat**: second "ease the fire down" (EN L163) → "banking the fire" — polish
+
+### Register and Flow
+**Ori:** casual narration. 足をもがれた kept as "a leg torn off"; バラエティグループ → "TV variety group".
+
+### Formatting Confirmed
+- No notes, ruby, or images in this file; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 4` ALL PASS.

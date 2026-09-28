@@ -86,3 +86,25 @@
 - Audited source lines 1–175 in one 175-line chunk for both ordered passes; exact glossary terms, names, places, organizations, and technical measurements were verified.
 - Narrative and indirect thought stayed past; the two clearly immediate closing questions and final reaction use natural speech tense and remain roman.
 - No source images, scene breaks, furigana glosses requiring notes, or footnotes occur; no title heading or Translator Notes section was added.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–115 / JP lines 1–175; agent `reedit_v2c16_s1`, Codex subagent on gpt-6-astra/xhigh, coordinator gpt-5.6-sol/high; ~44 paragraph-level edits plus two coordinator refinements). Flow: short-sentence share 12.1% → 12.1%; runs 0 → 0; mean sentence length 18.6 → 17.2 words. Baseline was not choppy.
+
+### Accuracy Fixes
+- **魔女集会**: "Tokyo Witches' Council" → "Witches' Council" — glossary
+- **合格倍率が…抜いた**: "admissions competition surpassed" → "more applicants per place than" — accuracy
+- **人口10万人以上**: "over 100,000" → "at least a hundred thousand" — accuracy
+- **一体どんな奴らなのか？**: "what kind of people make up" → "what kind of people were in" — tense
+- **販売営業に成功するのか？**: "will the Blue Witch manage" → "would the Blue Witch manage" — tense
+- **期待大である**: "I can't wait." → "I had high hopes." — tense
+- [polish] **謎の魔法杖職人ブランド**: "The mysterious Wand Maker's brand" → "The mysterious Wand Maker brand" — polish
+- [polish] **パンデミックが…危機感**: "left Tokyo's residents that worried" → "had rattled Tokyo's residents" — polish
+
+### Register and Flow
+**Ori Kenshi:** kept the casual technical voice, flat jokes, and craft pride while restoring the three plainly narrative closing lines from present/future to the chapter's past frame. No segment seams existed; nearby connective and reaction-word clusters were reviewed without forcing variation into source repetition.
+
+### Formatting Confirmed
+- Whole-file `check_reedit.py` PASS; no flow warning; all headings, notes, ruby, breaks, and image-marker inventories unchanged.
+- `run_chapter_gates.py --unit 2 --chapter 16` ALL PASS; all-volume consistency checks for Volumes 1–4 passed.
+- No reference-file change was required.

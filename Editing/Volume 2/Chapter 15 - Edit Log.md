@@ -112,3 +112,23 @@
 - Preserved `![p271.jpg](images/p271.jpg)` exactly in source order.
 - Retained one matched `[^1]` marker and historical seven-branched-sword note under a single terminal `## Translator Notes` section.
 - Confirmed no in-file title heading, no source furigana brackets in prose, and no added scene break.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–526; agent `reedit-v2c15-s1`; ~120 edits; one LIGHT PASS resolved by the agent). Flow: short-sentence share 28.9% → 27.6%; runs 7 → 4 (kept: "Creepy. / … No idea." beat, the 0.1 mm / 0.5 mm data lines, the "Bullseye!" and "Nice! Really nice!" exclamations). User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **Tense reversals (present → past)**: 魔女っぽい姿でいてもらいたいという欲望もある; それが魔法杖を持ち、御守りを装備する事になるとは — tense; direct reasoning at JA 190–193 and 331–364 stays present
+- **魔法大学に丸投げする**: "Tokyo Magic University" → "the Magic University" — glossary
+- **フゥ～、大当たり！**: "Phew!" → "Woo-hoo! Bullseye!" — accuracy
+- **呼んでて良かった、青の魔女**: mixed person fixed → "Good thing I called you over, Blue Witch." — address
+- **魔力保有量が少なくても**: → "even with a small magic-power capacity" — glossary
+- **単なる記憶違いなのだろう**: → "one of us had probably just misremembered" — accuracy
+- **魔法使いっぽい**: "wizard-like" → "I look like a total mage!" — glossary
+- [polish] 研究中たびたび家に来ては…つついてきた / 大きさや形状を弄っても…という事は / 切り株に腰かけて…話しかけてきた / 俺が不思議に思って言うと: stacked modifiers and "The fact that…" rebuilt — polish
+
+### Register and Flow
+御守り[アミユレツト] stays plain "amulet" per glossary.
+
+### Formatting Confirmed
+- Notes, image marker, and headings unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 15` ALL PASS.

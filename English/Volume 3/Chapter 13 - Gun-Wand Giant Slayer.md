@@ -1,40 +1,40 @@
 Two weeks had passed since I made the dies for the new currency.
 
-Apparently, an announcement had gone out in the city that the new currency would be issued for the New Year.
+Apparently, it had been announced in town that the new currency would be issued for the New Year.
 
-First, the value of the new currency would be revised. One new-currency yen would be worth roughly ten old-currency yen.
+First, the new currency would come with a revaluation. One new yen would be worth roughly ten old yen.
 
-In other words, the new 500-yen coin would serve the role of a 5,000-yen bill. Apparently, that had been decided in anticipation of the natural inflation in currency values expected over time.
+That meant a new 500-yen coin would do the job of an old 5,000-yen bill. They had apparently chosen that ratio in anticipation of inflation down the road.
 
-If they issued coins with face values like 10,000 yen from the start, they would need 100,000-yen coins once inflation took off. More digits made calculations harder. I thought reducing the face values to one-tenth was the right call.
+If they started by issuing 10,000-yen coins, they would need 100,000-yen coins once inflation took off. More digits made calculations harder, so I thought cutting the face values to one-tenth was the right call.
 
 ...Probably. I don't know much about economics.
 
-Food had been chosen as the economic foundation that would guarantee the currency's value.
+They had chosen food to underpin the currency's value.
 
-At the moment, over 90 percent of the food production feeding Tokyo's citizens was publicly run. If the Tokyo Witches' Council guaranteed that “100 yen can be exchanged for one rice ball,” the new currency would definitely have value.
+At the moment, over 90 percent of the food feeding Tokyo's citizens was publicly produced. If the Witches' Council guaranteed that “100 yen can be exchanged for one rice ball,” the new currency would definitely have value.
 
-Food ration tickets had already circulated in place of currency, so it was just a matter of the ration tickets becoming coins. Apparently, they would also exchange ration tickets for the new currency around the New Year.
+Food ration tickets had already been circulating as currency, so this was basically just swapping the tickets for coins. Apparently, people would be able to exchange their ration tickets for the new currency around the New Year.
 
-It was much like how rice had formed the economic foundation of society in the Edo period, so people expected it to work despite a few problems.
+The setup was much like rice underpinning the economy in the Edo period, so people expected it to work despite a few problems.
 
-They had already begun the second-stage reclamation of the vast cleared land in Katsushika Ward, using livestock blood draws to test for the latent risk of monster mutation, along with the breeding and operation of turret balsam. If food production stabilized, the economy would stabilize too.
+Thanks to livestock blood tests that screened for the latent risk of turning into monsters, along with the breeding and deployment of turret balsams, they had already begun a second round of cultivation across the vast cleared land in Katsushika Ward. If food production stabilized, the economy would stabilize too.
 
-Apparently, there was a blueprint to eventually privatize food production, move from the labor-assignment system currently used in many witch-administered districts to free choice of occupation and a free economy, introduce a tax system along with that, and so on... But all of it depended first on whether the new currency system worked out.
+Apparently, the long-term plan was to privatize food production, replace the labor assignments used in many witch-administered districts with freedom of occupation and a free-market economy, then introduce taxes, and so on... But first, everything depended on whether the new currency system worked.
 
-It affected me too.
+It wasn't just someone else's problem, either.
 
-Until now, I had been paid for wands with actual goods: food, medical supplies, clothes, fuel, tools, art reference materials, and so on. When there was nothing in particular I wanted, I received vouchers handwritten by witches or mages that said things like, “Guaranteed value equivalent to XX days' worth of food.”
+Until now, I had been paid for wands in kind: food, medical supplies, clothes, fuel, tools, art reference materials, and so on. When there was nothing in particular I wanted, I received vouchers handwritten by witches or mages that said things like, “Guaranteed value equivalent to XX days' worth of food.”
 
-But I would probably be paid in new currency more often from here on out. If its value crashed or skyrocketed right after it was issued, or if it failed to circulate, that would be a bit of a problem for me too.
+But from now on, I would probably be paid in the new currency more often. If its value crashed or skyrocketed right after launch, or if it failed to circulate, I would be in a bit of trouble too.
 
-I really hoped the Tokyo Witches' Council and the experts' council could work out the details somehow.
+I really hoped the Witches' Council and the council of experts would do a good job sorting all that out.
 
-The new currency would also be issued at the Tohoku Hunting Association and the Hokkaido Magic Beast Farm at the same time.
+The Tohoku Hunting Association and the Hokkaido Magic Beast Farm would also launch the new currency at the same time.
 
-With the Kraken defeated, the Hokkaido Magic Beast Farm could now use a Pacific-side coastal route where aquatic magic beasts towed ships. The new currency would encourage more interaction and trade.
+With the Kraken defeated, the Hokkaido Magic Beast Farm had opened a Pacific coastal shipping route using aquatic magic beasts to tow vessels. The new currency would encourage more travel and trade.
 
-The Tohoku Hunting Association wanted to ride that wave too... but apparently there was one major obstacle in the way.
+The Tohoku Hunting Association wanted to ride that wave too... but apparently, one major obstacle stood in its way.
 
 The Tokyo Witches' Council had nearly been wiped out by the giant kaiju invasion.
 
@@ -42,133 +42,133 @@ The Kraken had been a long-standing thorn in the Hokkaido Magic Beast Farm's sid
 
 Likewise, the Tohoku Hunting Association had a monster problem.
 
-A powerful monster centered on Lake Inawashiro, with a vast territory that stretched from Fukushima Prefecture across Niigata Prefecture and cut Honshu straight in half.
+Their problem was a powerful monster centered on Lake Inawashiro. Its vast territory stretched from Fukushima Prefecture across Niigata Prefecture, cutting Honshu straight in half.
 
 Its common name was Daidarabocchi.
 
-Daidarabocchi was a stupidly huge giant. It was a 100-meter-class bipedal beast that wore tough rock like armor.
+Daidarabocchi was one stupidly huge giant: a bipedal beast in the 100-meter class, armored in solid rock.
 
-It was threatening enough just for being huge, but it also had the intelligence to make and equip its own armor and could control several kinds of magic with its cries. Because of that, its threat level was estimated to be the same Class A-1 as the giant kaiju that had nearly destroyed Tokyo.
+Its sheer size was bad enough, but it was also smart enough to make and wear its own armor, and its cries could cast several kinds of magic. That earned it the same estimated Class A-1 threat rating as the giant kaiju that had nearly destroyed Tokyo.
 
-No survivor communities existed inside this powerful monster's territory.
+No survivor communities existed anywhere in its territory.
 
-Daidarabocchi had the habit of shaving down mountains, making new lakes, and repeatedly punching the ground to cause earthquakes and trigger volcanic activity. Apparently, that was how it remodeled its territory into a place it found more comfortable.
+Daidarabocchi carved away mountains, made new lakes, and pounded the ground until it caused earthquakes and triggered volcanic activity. Apparently, it did all that to remodel its territory into somewhere more comfortable.
 
-Every seven full moons, it expanded its territory in stages. While no one could take on a monster that strong, its territory had spread until it blocked every land route between Tohoku and Tokyo.
+It expanded its territory in stages every seven full moons. While no one could take on a monster that strong, the territory had spread until it blocked every land route between Tohoku and Tokyo.
 
 Daidarabocchi never tolerated intruders in its territory.
 
-It let wolves and animals up to the size of sheep through, but it quickly detected anything the size of a human or bear, or anything with high magic power. Then it tried to kill the intruder by throwing huge trees or giant rocks, or releasing something like magical poison gas.
+It let wolves and sheep-sized animals pass, but quickly detected anything the size of a human or bear, or anything with high magic power. Then it tried to kill the intruder with hurled trees, giant rocks, or something like magical poison gas.
 
-It was an outrageous monster, but its habit of strictly guarding its territory was also a blessing. After all, if you did not invade its territory, it did no harm.
+The monster was absurd, but the way it fiercely defended its territory was also a blessing. As long as you stayed out, it left you alone.
 
-That was why the Tohoku Hunting Association, which operated outside its territory, had left Daidarabocchi alone for so long. Daidarabocchi expanded its territory about once every seven months. It would have to be dealt with in the long run, but there was still time before its territory reached the doorstep of Sendai, where the Tohoku Hunting Association was based.
+That was why the Tohoku Hunting Association, which operated beyond its territory, had left Daidarabocchi alone for so long. It expanded its territory about once every seven months. The monster would have to be dealt with eventually, but they still had time before its territory reached the doorstep of their base in Sendai.
 
-But this time, together with the issuance of the new currency, the Tohoku Hunting Association decided to hunt Daidarabocchi.
+But now, to coincide with the new currency's launch, the Tohoku Hunting Association had decided to hunt Daidarabocchi.
 
-Having every land route through the middle of the Japanese archipelago completely closed was a serious obstacle to increasing trade and interaction. Put simply, it was a fucking nuisance.
+Having every land route through the middle of Japan completely blocked would be a major obstacle once trade and travel picked up. Put simply, it was a fucking nuisance.
 
-You could cross over its territory at an extremely high altitude without Daidarabocchi noticing, but only the Dragon Witch could do that.
+Flying over its territory at an extremely high altitude would avoid Daidarabocchi's notice, but only the Dragon Witch could pull that off.
 
-At the moment, Daidarabocchi was only quietly (?) changing the terrain of its territory.
+For now, Daidarabocchi was behaving itself (?) and just reshaping its territory.
 
-But it had a track record of killing every human, witch, and mage inside its territory.
+But it had already killed every human, witch, and mage inside its territory.
 
 It was best to kill it while they had the chance. There was also the risk that it would grow even stronger in the future, or find a mate and reproduce.
 
-Hunting Daidarabocchi had long been taboo within the Tohoku Hunting Association, but they had not completely left it alone either.
+Hunting Daidarabocchi had long been taboo within the Tohoku Hunting Association, but that didn't mean they had completely ignored it.
 
-They had built a watchtower on high ground just barely outside its territory, stationed watchers there, and continued observing its ecology for years.
+A watchtower stood on high ground just beyond its territory, where observers had studied its behavior for years.
 
-The conclusion based on those observations was, “It can be hunted now.”
+Based on those observations, the conclusion was, “It can be hunted now.”
 
 Assuming they had the right hunting tools, that is.
 
-That was where the story finally involved me.
+That was where I finally came in.
 
-Previously, Hiyori had pitched <ruby>Okyaku<rt>Great Wolf</rt></ruby> of the Tohoku Hunting Association on magic wands.
+Previously, Hiyori had pitched magic wands to the Tohoku Hunting Association's <ruby>Okyaku<rt>Great Wolf</rt></ruby>.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> had taken the proposal back with him and considered it using the product samples we had included free of charge.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> had taken the proposal back to the association and evaluated it with the help of the product samples we'd thrown in for free.
 
-Then the other day, an order form had finally arrived.
+The order form had finally arrived a few days ago.
 
 Along with two magic stones.
 
-The magic stones had arrived securely packaged: a weighty gray Killing Stone and a night-sky-black Starry Sky Stone with star-like inclusions.
+The securely packed stones were a weighty gray Killing Stone and a Starry Sky Stone, black as the night sky and speckled with star-like inclusions.
 
 But both were clearly fragments. Judging from their cross sections, they looked about one-third of their original size. I could tell that the other two-thirds had already been used as material for a Monster Trap.
 
-Using those two magic stones, the Tohoku Hunting Association asked me to make five gun-wands and at least five sealing rounds.
+The Tohoku Hunting Association wanted me to use those two magic stones to make five gun-wands and at least five sealing rounds.
 
 Both were for the Daidarabocchi hunt.
 
 Apparently, once the hunt was over, they would give me all the Gremlin harvested from Daidarabocchi.
 
-Daidarabocchi was smart, and its keen detection ability could sense magic power in fine detail, so getting it to step on a Monster Trap would be difficult.
+Daidarabocchi was smart, and its sharp senses could detect magic power in fine detail, so getting it to step on a Monster Trap would be difficult.
 
-Monster Traps worked by pouring magic power into them, so no matter how well one was camouflaged and placed, Daidarabocchi would see right through it.
+Monster Traps had to be charged with magic power to work, so no matter how well one was camouflaged and placed, Daidarabocchi would see right through it.
 
 So the plan was for me to make sealing rounds with a miniaturized, more efficient Monster Trap mechanism embedded in them, then for the hunters to use those rounds to snipe Daidarabocchi from outside its territory.
 
-Once its movements slowed, they would hit it with concentrated fire using boost magic from magic-stone wands.
+Once it slowed down, they would hit it with concentrated fire using boost magic from magic-stone wands.
 
-In broad strokes, that was the hunt plan.
+That, in broad strokes, was the hunt plan.
 
-There was no precedent for attempting a Monster Trap seal on something as huge as Daidarabocchi.
+No one had ever tried to use a Monster Trap seal on anything as huge as Daidarabocchi.
 
-But it was known that the larger the target of a magic-stone seal was, and the more magic power it had, the shorter the effect lasted.
+But they knew that the larger the target of a magic-stone seal was, and the more magic power it had, the less time the effect lasted.
 
-According to the Tohoku Hunting Association's calculations, they would need at least five sealing rounds to kill Daidarabocchi completely. Preferably, they needed ten.
+According to the Tohoku Hunting Association's calculations, killing Daidarabocchi would take at least five sealing rounds. Preferably ten.
 
-I skimmed the text after the proviso on the order form that said, “If processing it as requested is difficult...”
+The order form had a note beginning, “If processing it as requested is difficult...” I skimmed everything after that.
 
 Leave it to me. No need to worry.
 
-I'd made a magic item meant to kill a Class A-1 monster once before, you know?
+I've built a magic item meant to kill a Class A-1 monster once before, you know?
 
 I read through the order form they had sent me closely and immediately started planning the sealing rounds and gun-wands.
 
-The Tohoku Hunting Association's four mages and one witch all used guns, so it seemed better if their magic wands could be used as both wands and guns. It was easier to handle one integrated thing than to carry around both a wand and a gun. Like a bayonet, I guess.
+The Tohoku Hunting Association's four mages and one witch all used guns, so it seemed best for their magic wands to double as firearms. One combined weapon would be easier to handle than carrying a separate wand and gun. Something like a bayonet, I guess.
 
-They had also sent spare hunting rifles used by the five of them as both references and raw materials, so I measured them, took them apart, and worked out their construction. I'd thought guns were fairly precision-made weapons, but their structure was much simpler than I expected. I could probably integrate them into the wands.
+They had also sent spare hunting rifles belonging to the five hunters as both references and raw materials. I measured them, took them apart, and worked out their construction. I'd assumed guns were fairly intricate weapons, but the mechanism was much simpler than I expected. It looked like I could build them into a wand without much trouble.
 
 I drew several blueprints, made wooden prototypes, and then decided on the shape of the gun-wands.
 
-I tried various things, but a break-action design looked best. It could fold in two around the base of the barrel, letting the user switch between gun mode with the barrel extended and wand mode with it folded in half, shorter and easier to handle.
+I tried several options, and a break-action design looked best. It would hinge open near the base of the barrel: extended for gun mode, then folded in half for a shorter, more manageable wand mode.
 
-Foldable weapons like this tended to have weaker joints, but this was not a melee weapon. It combined two ranged weapons, a wand and a gun. As long as I designed the structure to dissipate the recoil properly, there should not be much of a problem with its strength.
+Folding weapons tended to be weak at the joint, but this wasn't a melee weapon. It combined two ranged weapons: a wand and a gun. As long as the structure dispersed the recoil properly, strength shouldn't be a serious problem.
 
-Once the gun-wand body's design was decided, I designed the sealing rounds that would be the key to the Daidarabocchi hunt operation.
+With the gun-wand's body settled, I moved on to the sealing rounds, the key to the Daidarabocchi hunt.
 
-That said, the gun's caliber was fixed, which meant the bullet's shape was almost fixed too, so I only had to fiddle with the internal structure a little.
+The gun's caliber was already fixed, though, which more or less dictated the bullet's shape. I only had to fiddle with the internal structure a little.
 
-The Tohoku Hunting Association had a support specialist who could use detection magic and sixth-sense-enhancement magic. Apparently, the plan was to cast detection magic on the rounds before firing them, then recover and reuse them over and over.
+The Tohoku Hunting Association had a support specialist who could use detection magic and sixth-sense-enhancement magic. The plan was apparently to cast detection magic on each round before firing, then recover and reuse it over and over.
 
-That was why the projectiles needed to be durable enough for reuse.
+That meant the projectiles had to be tough enough for repeated use.
 
-But I prioritized maintainability over strength and took the liberty of altering the specifications slightly from the request form.
+I cared more about ease of maintenance than raw strength, though, so I changed the requested specifications slightly.
 
-No matter how strong I made them, if I repeatedly fired them with propellant charges and kept slamming them into prey, they would 100 percent warp and break.
+However tough I made them, repeatedly firing them with propellant charges and slamming them into prey would make them warp and break. 100 percent.
 
-So instead of bending or warping when they broke, I designed them to come apart.
+So I designed them to break apart when they failed instead of bending or warping.
 
-That way, even if they broke, all I had to do was put the separated parts back together and remake the outer casing.
+Then repairing one would only mean reassembling the pieces and remaking the outer casing.
 
-If they bent or warped, repairs would be extremely difficult, so this was the best approach.
+Bent or warped parts would be a nightmare to repair. This was the best approach.
 
-The customer wanted rounds that would not break, but the true objective behind that request was rounds that could be recycled endlessly.
+The customer had asked for rounds that wouldn't break, but what they really wanted was rounds they could recycle endlessly.
 
-So the best way to meet the customer's request within the limits of what was possible was a round that was hard to break, simple in structure, and quick to repair even when it did break. Even I couldn't make rounds that could never deform or be destroyed.
+So the closest I could come to meeting that request was a round that resisted damage, had a simple structure, and could be repaired quickly if it broke. Even I couldn't make a bullet that would never deform or break.
 
-I probably hadn't overthought it and done something unnecessary. I wanted to believe I'd understood what the customer meant.
+I probably hadn't gotten too clever and added something they didn't need. At least, I hoped I'd understood what the customer really wanted.
 
-Once all the designs were done, I finally started making them.
+With every design complete, it was finally time to start building.
 
 I carried the materials and tools I needed to the reverberatory furnace on the back mountain.
 
 The fire salamander unit's first deployment.
 
-Now's the time to show what our training achieved...!
+Now's the time to show what our training can do...!
 
 “Mokutan, Sekitan, Tsubaki! Assemble!”
 
@@ -180,33 +180,33 @@ Now's the time to show what our training achieved...!
 
 When I called out, the three that had been playing by rolling pine cones around the reverberatory furnace came scurrying over to my feet and lined up side by side.
 
-“Reverberatory furnace operating. Prepare to breathe fire.”
+“Activate the reverberatory furnace. Prepare to breathe fire.”
 
-When I said that solemnly, the fire salamander unit went into the reverberatory furnace crying mii-mii, fanned out to face the furnace opening, and took up the “wait” position.
+At my solemn command, the fire salamander unit filed into the reverberatory furnace squeaking mii-mii, fanned out to face the furnace opening, and took up their “wait” positions.
 
 Good, good. Good kids. I'll give you lots of your favorite food afterward.
 
-After many training sessions, the fire salamanders and I had learned to work together on jobs involving fire.
+After all that training, the fire salamanders and I had learned to work together on jobs involving fire.
 
-Because fire salamanders could control their firepower, the metal in the crucible melted at a speed impossible for a purely physical smelting furnace.
+The fire salamanders could control their heat output, so the metal in the crucible melted at a speed no ordinary smelting furnace could match.
 
-For each part, I adjusted the metal mix, melted it down, poured it into a mold, and let it cool.
+For each part, I adjusted the metal blend, melted it down, poured it into a mold, and let it cool.
 
-The work at the reverberatory furnace, which I had thought would take a whole day, was over in just one hour.
+What I'd expected to take a full day at the reverberatory furnace was over in just one hour.
 
 Fire salamanders are amazing!
 
-But the fact that I trained them is amazing too.
+But I'm also amazing for training them.
 
 So everyone's a winner, right?
 
-Of course, it wasn't a perfect success on the first try. A few parts failed their strength tests, so I remade them, but even with all that, it took less than four hours total.
+It wasn't a perfect success on the first try, of course. A few parts failed their strength tests, so I remade them, but even with all that, the entire job took less than four hours.
 
-I owed it all to the fire salamanders. Magical life-form workshops really are the best!
+I had the fire salamanders to thank. Magical life-form workshops really are the best!
 
-Once the metal parts were done, the rest was easy. Making full use of the techniques I'd developed over the years, I carefully completed five gun-wands.
+Once I had the metal parts, I was home free. Using every technique I'd picked up over the years, I carefully built five gun-wands.
 
-Form: transforming wands equipped with transformation mechanisms.
+Form: transforming wands with transformation mechanisms.
 
 Cores: three-layer magic stones.
 
@@ -216,7 +216,7 @@ I made 15 sealing rounds by putting the leftover fragments from making the five 
 
 Their name, written in Japanese-style cursive script, was “<ruby>Giant Slayer<rt>Giant-God Slayer</rt></ruby>.”[^1]
 
-I also made sure to number each of the five from No. 1 through No. 5.
+I also made sure to number the five from No. 1 through No. 5.
 
 Daidarabocchi was called a giant, not a giant god, but I went with god because it sounded cooler. With things like this, whoever says it first wins. The written name “Giant-God Slayer” looked way cooler than plain old “Giant Slayer.”
 
@@ -224,13 +224,13 @@ Then, to show respect for the firepower assistants who had helped me, I secretly
 
 You need something like that, after all.
 
-Works with no maker's name engraved, where only people with a good eye could tell who made them from the quality alone, were seriously cool too. But hiding a logo was fun as well.
+Pieces with no maker's name, where only someone with a trained eye could identify the creator from the quality, were seriously cool too. But hiding a logo was fun in its own way.
 
 I carefully packed the five completed gun-wand Giant Slayers and the sealing rounds into a gun case I had made as a bonus.
 
-Until now, my many genius works had only been famous within Tokyo.
+Until now, my many works of genius had only been famous in Tokyo.
 
-Now was the time for them to spread their wings across Japan.
+Now was their time to spread their wings across Japan.
 
 Go on, my wands.
 

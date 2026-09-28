@@ -1,124 +1,122 @@
-The Tohoku Hunting Association's Daidarabocchi hunt had not only whipped Sendai into a frenzy, but had also become a hot topic in Tokyo.
+The Tohoku Hunting Association's defeat of Daidarabocchi had Sendai buzzing and had become a hot topic in Tokyo too.
 
-The general public was focused on trade with Tohoku opening up. The seriously dangerous monster that had blocked the overland route was gone, so people and goods would be moving back and forth more actively from now on. Daidarabocchi's huge territory had become one big empty lot, so people were also talking about whether they could turn it into farmland. Before trade could even begin, they needed to prepare the trade route—in other words, fix the roads—and apparently a large-scale recruitment drive was underway for that.
+The general public was watching closely as trade with Tohoku opened up. The seriously dangerous monster blocking the overland route was gone, so travel and commerce would pick up from here. Daidarabocchi's vast territory had also become one enormous stretch of vacant land, and people were already talking about turning it into farmland. First, though, they needed a trade route—which meant fixing the roads—and apparently a massive recruitment drive was underway for the job.
 
-Tokyo Magic University's Department of Monster Studies was comparing the Class A-1 giant kaiju that had appeared in Tokyo with Daidarabocchi. If they could figure out the abilities, appearance patterns, how they arose, and so on of Class A-1 monsters, which stood out as especially powerful even among monsters, it would be a big help for future public safety and disaster measures.
+Magic University's Department of Monster Studies was comparing Daidarabocchi to the Class A-1 giant kaiju that had appeared in Tokyo. Class A-1s were exceptionally powerful even among monsters, so figuring out their abilities, when and where they appeared, how they came into being, and so on would be a huge help with future public safety and disaster planning.
 
-And in the Department of Gremlin Engineering, discussion of the mysterious black Gremlin Daidarabocchi had possessed was getting lively.
+Meanwhile, the Department of Gremlin Engineering was deep in debate over Daidarabocchi's mysterious black Gremlin.
 
-I, for one, had been thinking about the mystery of the black Gremlin in my own way.
+I'd been mulling over the mystery of the black Gremlin in my own way too.
 
-I got nice and warm under my charcoal kotatsu[^1], snacking on river-fish skin crackers and drinking homemade unfiltered sake (long live the natural extinction of the Liquor Tax Act!) while I thought things over. Then I came up with a hypothesis: What if it had been structural color?
+I got nice and warm under my charcoal kotatsu[^1], snacked on river-fish skin crackers, drank homemade unfiltered sake (long live the natural extinction of the Liquor Tax Act!), and thought it over. Eventually, I came up with a hypothesis: What if the black had been structural color?
 
-If the black Gremlin's color had been structural color, I did not know why it had turned to dust, but it would explain the strange coloration.
+That wouldn't explain why the black Gremlin had turned to dust, but it would explain its unusual color.
 
-Structural color was, as the name suggested, color made by structure. Color could come not from chemical pigments, but from physical structures too.
+Structural color is exactly what it sounds like: color produced by structure. Physical structures can create color without any chemical pigments.
 
-For example, when you turn over a compact disc, it looks rainbow-colored depending on the angle you view it from.
+For example, flip over a compact disc and it shines in rainbow colors that change with the viewing angle.
 
-That came from structural color.
+That's structural color.
 
-The tiny indentations engraved into a CD to record data refracted light, making it look rainbow-colored without any rainbow dye.
+The microscopic pits that store data on a CD refract the light, creating a rainbow without any rainbow-colored dye.
 
-Structural color existed in nature too. The vivid colors of peacocks and hummingbirds were produced by light refracting through physical structures, not pigments. Blueberries and morpho butterflies got their blue that way too.
+Structural color exists in nature too. Peacocks and hummingbirds get their vivid colors from light refracting through physical structures rather than pigments. The same goes for the blue of blueberries and morpho butterflies.
 
-Actually, 99.9% of blue in living things was structural color. The existence of a real blue pigment was practically a miracle. That was why there were concepts like the bluebird of happiness and the miraculous blue rose.
+In fact, 99.9% of blue in living things is structural color. A true blue pigment is practically a miracle. That's why we have ideas like the bluebird of happiness and the miracle of a blue rose.
 
-Structural color might seem like a marvel of physics, but for living things, it was not even unusual equipment.
+Structural color might seem like a marvel of physics, but in nature, it's a perfectly ordinary feature.
 
 Which meant...
 
 Daidarabocchi's black Gremlin might have been structural color too.
 
-Before Daidarabocchi mutated into a monster, it had to have been an animal. It would not be strange if it had possessed some kind of structural color and that had appeared in its Gremlin.
+Before Daidarabocchi mutated into a monster, it had to have been an animal. If that animal had some kind of structural color, it wouldn't be strange for the trait to show up in its Gremlin.
 
-In other words, all of Daidarabocchi's Gremlins had been reddish bronze. One of them—the smallest—just had finely structured grooves in it that made it look black through light refraction and absorption.
+In other words, all of Daidarabocchi's Gremlins had been reddish bronze. The smallest one merely had microscopic grooves that refracted and absorbed light, making it look black.
 
 That was my hypothesis.
 
-It did not explain the dusting, but the color made sense.
+It didn't explain why the Gremlin had turned to dust, but the color made sense.
 
 To test my hypothesis, I decided to engrave structural color into a Gremlin.
 
-Since black was a color that reflected no light at all, I started engraving light-absorbing physical structures into the surface of some random Gremlin. Regularly spaced at exactly 500-nanometer intervals.
+Since black reflects no light at all, I started engraving a light-absorbing structure into the surface of a random Gremlin, spacing it at precise 500-nanometer intervals.
 
-The steel-sheep work gloves were comfortable and did not get in the way of my fingers, even for such delicate engraving. My magic tools were working well too. Obviously, chisels and crochet hooks could not do precision work like this. It was like doing laser processing by hand.
+The steel-sheep work gloves felt great and didn't hamper my fingers even with engraving this delicate. My magic tools were in good form too. Obviously, no chisel or crochet hook could manage precision work like this. It was basically laser machining by hand.
 
-I could not exactly say it was easy, but after spending a day on it, I engraved a 1 cm-long black structural-color groove into the Gremlin.
+It wasn't exactly easy, but after a full day, I had engraved a 1 cm strip of black structural color into the Gremlin.
 
-Rubbing my stinging eyes, I looked at the structural-color Gremlin again.
+I rubbed my bleary eyes and took another look at the structural-color Gremlin.
 
-Yep, it was definitely black. And I had not used black paint at all. This was structural color. Even though I knew how it worked, it was strange.
+Yep, definitely black, even though I hadn't used a drop of black paint. That was structural color for you. I understood the principle, but it still felt strange.
 
-I took off my work gloves and poked the structural color to check whether it would turn to dust, but something strange happened.
+I took off my work gloves and poked the structural color to see if it would turn to dust. Instead, something strange happened.
 
 The instant I poked the black structural color with my fingertip, it turned from black to white for just a moment.
 
-It was not an illusion. I definitely saw it.
+That wasn't an illusion. I knew what I'd seen.
 
-This time, instead of just poking it, I pressed my finger flat against it. Then the black structural color quickly turned white.
+This time, instead of poking it, I pressed my fingertip flat against it. The black structural color instantly turned white.
 
-And when I took my finger away, it quickly went back to black.
+The moment I took my finger away, it snapped back to black.
 
 Oh?
 
-What's this interesting phenomenon?
+What's this fun little phenomenon?
 
 Hmm. Does it react to human contact...?
 
 No, that's not it. Temperature? Magic power?
 
-I tried touching it with a finger chilled with ice and a finger warmed with a hot-water bottle, but apparently temperature had nothing to do with it.
+I touched it first with a finger chilled on ice and then with one warmed against a hot-water bottle. Temperature apparently had nothing to do with it.
 
-Also, I had to touch it with bare skin. It did not react through gloves. If I made any part of my body touch it directly—my elbow, cheek, or tongue—it showed the same color-change reaction from black to white.
+It also needed bare skin. It didn't react through gloves, but any direct bodily contact—elbow, cheek, even tongue—changed it from black to white.
 
 The more I tested it, the stronger my suspicion got.
 
 Doesn't this thing seem like it's reacting to magic power?
 
-It might have reacted to life force or lifespan, but all the various effects Gremlin processing had shown so far were related to magic power or magic. It was probably safe to think this one was related to magic power or magic too.
+It could've been reacting to life force or lifespan, but every effect we'd gotten from Gremlin processing so far had involved magic power or magic. This was probably more of the same.
 
-I went to the reverberatory furnace and pressed the structural-color Gremlin against the three fire salamanders dozing in the morning mist. It changed from black to white only while I held it against them. There did not seem to be any individual difference—or species difference—in the color-change reaction.
+I went to the reverberatory furnace and pressed the structural-color Gremlin against each of the three fire salamanders dozing in the morning mist. It changed from black to white only while it was touching them. The reaction didn't seem to vary by individual—or even by species.
 
 That was as far as I could test by myself, so I called in a magic-power expert.
 
 Of course, Hiyori.
 
-I woke Hiyori up early over familiar communication, and she came through the Lost Mist looking annoyed. But even while grumbling, she helped me test the structural-color Gremlin.
+I dragged Hiyori out of bed at the crack of dawn over familiar communication. She came through the Lost Mist looking annoyed, but despite her grumbling, she still helped me test the structural-color Gremlin.
 
 “Hmm. It really does change color.”
 
-Hiyori nodded as she put a finger to the structural-color Gremlin.
+Hiyori pressed a finger to the structural-color Gremlin and nodded.
 
-I eagerly asked her.
-
-“Hey, is this color change related to magic power? It doesn't seem like it has anything to do with an intrinsic color.”
+I asked eagerly. “Hey, is this color change related to magic power? It doesn't seem like it has anything to do with an intrinsic color.”
 
 “Wait. I'll check.”
 
-Hiyori said that, then went still.
+Hiyori went still.
 
-I did not understand it, but she was probably doing something or other with magic-power control.
+I couldn't tell what, but she was probably doing something with magic-power control.
 
-Hiyori really was my best friend, coming when I called her early in the morning and listening to my request!
+Hiyori really is my best friend! I called her out first thing in the morning, and she still helped me!
 
-But she had also suddenly asked me in the middle of the night to listen to her worries about whether she should take a job as a part-time lecturer at Tokyo Magic University, so that made us even. Let's just say we're alike.
+Then again, she sometimes hits me out of the blue in the middle of the night with “I want you to hear me out” and makes me talk through whether she should accept a job as a part-time lecturer at Magic University. So we're even. Let's call us two of a kind.
 
-Hiyori kept one finger on the structural-color Gremlin and did not move like a statue for a while. Then she suddenly took off her mask, brought her face so close that the tip of her nose nearly touched the Gremlin, and stared hard at it.
+Hiyori kept one finger on the structural-color Gremlin and stood motionless as a statue. After a while, she suddenly pulled off her mask, leaned in until her nose almost touched the Gremlin, and peered at it.
 
-After a little while in that position, the structural-color Gremlin started switching black-white-black-white at an incredible speed.
+After a moment, the structural-color Gremlin started flickering between black and white at incredible speed.
 
 She's doing something! I have no idea what she's doing!
 
-But I was a legendary Wand Maker who knew how to wait, so I swallowed every question and waited quietly until Hiyori finished checking.
+But I was a legendary Wand Maker who knew how to wait, so I swallowed every question and waited quietly for Hiyori to finish.
 
 After another ten minutes or so, Hiyori pulled back from the structural-color Gremlin and put her mask on again.
 
-The diagnosis seemed to be over. So how is my kid, Doctor!?
+The diagnosis seemed to be over. How's my kid, Doctor!?
 
 “I mostly understand. This Gremlin reacts to magic-power capacity.”
 
-“Oh. Details.”
+“Ooh. Go on.”
 
 I had known it was something related to magic power.
 
@@ -130,89 +128,89 @@ Does that mean it's become a magic-power meter?
 
 “Whoa!”
 
-I did not understand at all what kind of magic-power control Hiyori had used, but I could see the result of it.
+I had no idea what kind of magic-power control Hiyori had used, but I could see the results.
 
-Hiyori had one finger on the edge of the structural-color Gremlin. From where her finger touched it, the black Gremlin turned white and then returned to black, like a volume gauge going up and down.
+Hiyori kept one finger on the edge of the structural-color Gremlin. The white spread out from the point of contact, then receded back to black like a volume gauge rising and falling.
 
-I could clearly see that the horizontal lines I had engraved at 500-nanometer intervals to create structural color were serving as scale marks.
+The horizontal lines I'd engraved at 500-nanometer intervals to create the structural color were clearly serving as scale marks.
 
-When Hiyori said, “Raise magic power,” the marks in the black structural color turned white. When she said, “Lower magic power,” the marks that had turned white went back to black.
+When Hiyori said, “Raise magic power,” the marks in the black structural color turned white. When she said, “Lower magic power,” they went back to black.
 
-Both how it worked and how it looked were easy to understand.
+The principle was simple, and the display was easy to read.
 
-The collection of 500-nanometer structural-color horizontal lines I had engraved into the Gremlin had become a remaining-magic-power gauge!
+That set of structural-color lines I'd engraved into the Gremlin at 500-nanometer intervals had become a remaining-magic-power gauge!
 
-“Remaining magic power and the scale are directly proportional. Look, when I doubled the magic power in contact with it, the width that changed color doubled.”
+“Remaining magic power and the scale are directly proportional. Look, when I doubled the magic power touching it, the width that changed color doubled too.”
 
 “So this structural-color Gremlin has become a remaining-magic-power gauge, right?”
 
-“That's right. A witch or mage can fool the scale as much as they want like this, but it will definitely be useful for accurately checking the remaining magic power of humans who cannot control magic power.”
+“That's right. A witch or mage can fool the scale as much as they want like this, but it'll definitely give an accurate reading of the remaining magic power of humans who can't control theirs.”
 
 “Seriously? I've been waiting for this function forever...!”
 
-I envisioned an insanely hype jackpot animation.
+A blazing jackpot victory animation flashed through my mind.
 
-I trembled with emotion.
+I shook with excitement.
 
-Until now, we had never once managed to measure magic power quantitatively.
+Until now, we'd never managed to measure magic power in actual numbers.
 
-We could only measure magic power by standards like a witch's intuition saying, “You have a lot of magic power,” or, “You have enough magic power to use the shooting-magic core spell <ruby>Agh-<rt>Fire</rt></ruby> just once, so you have little magic power.”
+We'd had to rely on vague standards like a witch declaring, “You have a lot of magic power,” or, “You only have enough to cast the shooting-magic core spell <ruby>Agh-<rt>Fire</rt></ruby> once, so you don't have much.”
 
 But now.
 
-This structural-color Gremlin let us see magic-power capacity and remaining magic power on its scale.
+This structural-color Gremlin displayed magic-power capacity and remaining magic power right on its scale.
 
-I had gotten a ruler for magic power.
+I'd made a ruler for magic power.
 
-Until now, humanity had been researching magic by relying on vague, fuzzy expressions like “about the length of a thumb and forefinger spread apart.”
+Humanity had basically been researching magic with vague, fuzzy measurements like “about the span of your outstretched thumb and index finger.”
 
-But if we used a structural-color Gremlin as a ruler, we could research using specific values like “188.2 mm long.”
+With a structural-color Gremlin as our ruler, we could use hard numbers like “188.2 mm long.”
 
-Both the precision and the range of research would leap forward.
+The precision and scope of our research would skyrocket.
 
-Revolution. This is a revolution...!
+Revolution—this is a revolution...!
 
-Holy crap. I had meant to solve the mystery of Daidarabocchi's black Gremlin, but I had accidentally made something unbelievable.
+Holy crap. I'd set out to solve the mystery of Daidarabocchi's black Gremlin and accidentally made something incredible.
 
-“Ori, it's fine to be happy, but this Gremlin cannot measure all of my magic power. It goes past the scale. Actually, even your magic power would go past the scale, right?”
+“Ori, it's fine to be happy, but this Gremlin can't measure all of my magic power. It goes past the scale. Actually, even your magic power would go past the scale, right?”
 
-“Leave it to me, leave it to me. Once I understand the function and the principle, I've got this. I can improve it right away, right away, so wait!”
+“Leave it to me, leave it to me. Now that I understand the function and the principle, I've got this. I can improve it right away—right away, so just wait!”
 
-The inspiration circuits in my brain were flashing like crazy.
+My brain lit up with idea after idea.
 
 I got to work at full speed making a structural-color Gremlin that could measure Hiyori's massive magic power.
 
 First, a small proof-of-concept experiment.
 
-The Gremlin with black structural color made of 500 nm-wide horizontal lines had magic-power-sensing display ability that was too sensitive, so even my magic power made it overflow.
+The magic-power display on the Gremlin with 500 nm-wide lines of black structural color was so sensitive that even my magic power made it overflow.
 
-So I tried making structural color with horizontal lines that were 700 nm, 600 nm, 400 nm, 300 nm, and 200 nm wide too.
+So I tried making structural color with horizontal lines 700 nm, 600 nm, 400 nm, 300 nm, and 200 nm wide.
 
-Then I found that the narrower the horizontal lines were, the duller the magic-power-sensing display ability became.
+The narrower the lines, the less sensitive the display became.
 
 In other words, a Gremlin engraved with structural color using 200 nm-wide horizontal lines could precisely measure even a witch's enormous magic-power capacity.
 
-I confirmed that melt-recast Gremlins had the same magic-power-capacity display function as natural Gremlins too (around the time I was doing this experiment, Hiyori got bored and went home), then cast four 20 cm-long Gremlin rods.
+After confirming that melt-recast Gremlins displayed magic-power capacity just like natural ones (Hiyori got bored and went home around this point), I cast four 20 cm Gremlin rods.
 
-Then I engraved structural-color horizontal lines 500 nm, 400 nm, 300 nm, and 200 nm wide into each rod.
+I then engraved structural-color lines 500 nm, 400 nm, 300 nm, and 200 nm wide into each rod.
 
 Even I struggled with nanometer-scale processing. It was just so tiny!
 
-If I engraved lines at 200 nm intervals, I had to engrave 50,000 of them just to make a 1 cm band of structural-color lines.
+At 200 nm intervals, it took 50,000 lines to make a 1 cm strip of structural color.
 
-Fifty thousand precise movements for a single centimeter! Ridiculous. Only after repeating it steadily, without resting for a moment from sunrise to sunset, at one line per second while telling myself I was a work machine, did I finally finish one centimeter.
+Fifty thousand precise movements for one measly centimeter! Ridiculous. I had to work from sunrise to sunset without a moment's rest, carving one line per second and telling myself I was a machine, just to finish that single centimeter.
 
-I could not think about why I was doing this. It would be over if I came to my senses. Even when my fingers cramped and my arms swelled up, I had to keep going. The work itself was hard enough, but stamina, muscle strength, and willpower were just as big a problem.
+I couldn't let myself wonder why I was doing this. If I came to my senses, I'd be finished. My fingers cramped and my arms swelled, but I kept going. The work was technically demanding enough, but stamina, strength, and willpower were just as much of a problem.
 
-Driven by some mysterious sense of mission, I stubbornly pushed on for a whole month. I finally reached the halfway point and, even for me, took a short break.
+Some mysterious sense of duty drove me to keep at it for an entire month. When I finally reached the halfway point, even I had to take a short break.
 
-I enjoyed a long bath, shaved my unkempt beard, made an elaborate meal, and slept as much as I wanted without watching the time. Once I woke up, I went to make it up to the fire salamanders I had neglected for a while.
+I soaked in the bath, shaved my scraggly beard, cooked myself a proper meal, and slept my fill without watching the clock. When I woke up, it was time to make amends with the fire salamanders I'd neglected.
 
-The fire salamanders pounced on the sparks from sparklers I pulled out of the storehouse and immediately got back in a good mood. Then they clung to big rocket fireworks and flew into the sky, crying in wild excitement as they vanished beyond the trees.
+The fire salamanders pounced on the sparks from some sparklers I'd dug out of storage, and their bad mood vanished instantly. Then they clung to big bottle rockets, took to the sky, and disappeared beyond the trees with cries of wild excitement.
 
-I laughed. Those guys were always full of energy. They gave me trouble when I took care of them sometimes, but they got me energized too.
+That made me laugh. Those guys were always full of energy. Looking after them could be a pain, but their energy rubbed off on me.
 
-While I was cleaning up the burned-out fireworks by putting them in a bucket of water, Hiyori brought over a broom and dustpan. That was a big help.
+As I dropped the spent fireworks into a bucket of water, Hiyori came over with a broom and dustpan. Much appreciated.
 
 “Were you watching? You could've called out. We could've done it together.”
 
@@ -220,7 +218,7 @@ While I was cleaning up the burned-out fireworks by putting them in a bucket of 
 
 “Ah, well, that's true.”
 
-Only I had won over the three fire salamanders. They did not think any creature besides me was one of their companions. If some huge creature dozens of times their size was nearby, they could not enjoy themselves even if they wanted to.
+The three fire salamanders had only bonded with me. They didn't see any other living creature as one of their own, and having a giant dozens of times their size nearby would've spoiled the fun.
 
 “If you're done with work, want to listen to records at my place? I got a stack along with a phonograph. There are probably songs you know too.”
 
@@ -230,25 +228,25 @@ Only I had won over the three fire salamanders. They did not think any creature 
 
 “Progress: 50%.”
 
-Hiyori knew very well that I had shut myself in the workshop for a whole month. Even so, hearing I was only halfway done made her draw back a little.
+Hiyori knew I'd spent a whole month holed up in the workshop. Even so, hearing that I was only halfway done made her recoil a little.
 
 Think about it the other way around. I'm doing something in one month that an ordinary person couldn't do even if they lived a hundred lives, you know? That's fast, if anything. Slow, but fast.
 
-Since she was there, I decided to show her my progress. I brought the unfinished magic-power meter out of the workshop and measured the magic power of various things in the yard for her.
+Since she was there, I decided to show off my progress. I brought the unfinished magic-power meter out of the workshop and tested various things around the yard.
 
-The meter's scale did not move when I pressed it to dirt, buckets, the stones edging the pond, or weeds, so it could not measure any magic power. Grasshoppers and crickets had no magic power either.
+The scale didn't budge when I pressed the meter against dirt, buckets, the stones around the pond, or weeds. Grasshoppers and crickets had no magic power either.
 
-But frogs and yamame trout in the fish pen made the scale move just a little. Some yamame trout made the scale move and some did not, so I learned that magic-power capacity differed from one individual to another.
+Frogs and the yamame trout in the fish pen, however, made the scale twitch ever so slightly. Some trout registered while others didn't, which showed that magic-power capacity varied from one individual to another.
 
 “Huh? Fish have magic power too? I didn't know that.”
 
-I was surprised to hear that from Hiyori as she crouched beside me at the edge of the pond and looked beneath the water.
+Hearing that from Hiyori surprised me. She was crouched beside me at the edge of the pond, peering into the water.
 
 I had heard witches were sensitive to magic power, though.
 
-“Didn't witches know how much magic power someone has just by looking?”
+“I thought witches could tell how much magic power someone had just by looking?”
 
-“I can't sense tiny amounts of magic power like this, where it makes no difference whether it exists or not. I'm not measuring precisely. I'm only sensing it by feel.”
+“I can't sense tiny amounts like these—so little they might as well not exist. I'm not taking precise measurements. I only sense magic power by feel.”
 
 “What do you mean, by feel?”
 
@@ -256,7 +254,7 @@ I had heard witches were sensitive to magic power, though.
 
 “Don't need one. This one's 312.6 g.”
 
-When I calculated its weight from the heft in my hand and answered right away, Hiyori looked up at the sky.
+I calculated its weight from the feel of it in my hand and answered at once. Hiyori looked to the heavens.
 
 “You human precision machine... That was a bad example. Um, you can't tell my height to the millimeter just by looking, right? You can make a rough estimate, but...”
 
@@ -274,17 +272,17 @@ When I calculated its weight from the heft in my hand and answered right away, H
 
 Hiyori's ears turned red as she shouted, and I flinched.
 
-Huh? Why is she mad? Is it because I brought up her weight?
+Huh? Why's she mad? Because I mentioned her weight?
 
-Women getting mad when you talk about their weight isn't fiction? I thought it was a superstition on the level of getting a nosebleed if you ate chocolate.
+Women getting mad when you mention their weight isn't just a thing in fiction? I thought it was a superstition on the same level as chocolate giving you a nosebleed.
 
-I don't get it. Why is height okay, but weight isn't? Actually, age too.
+I don't get it: why is height fine but weight isn't? Come to think of it, age is taboo too.
 
-If the urban legend that talking about a woman's weight is off-limits is true, it stands to reason that age, which is related in the same way, also has a high chance of being off-limits. I probably shouldn't talk about either one.
+If the urban legend about women's weight being off-limits is true, then age is probably off-limits for the same reason. Better not mention either one.
 
 “Sorry. I didn't mean to make you mad.”
 
-When I apologized with both hands raised in surrender, Hiyori glared at me so hard I could tell even through her mask, then sighed like she had no choice.
+I raised both hands in surrender as I apologized. Hiyori glared hard enough for me to feel it through her mask, then let out a resigned sigh.
 
 “I know you didn't mean harm. But be careful. Seriously. I want you to learn to be at least ten times more considerate.”
 
@@ -292,23 +290,23 @@ When I apologized with both hands raised in surrender, Hiyori glared at me so ha
 
 “...I'll acknowledge the effort. I'll have some.”
 
-Hiyori smiled at my desperate move, made with every last bit of my meager communication ability.
+That desperate move used every last bit of my meager communication skills, and it made Hiyori smile.
 
 Safe. Looks like I'm forgiven. I don't want to fight with my one and only best friend over something this stupid. Friendship!
 
-After that, we ate ice cream while she let me measure her magic power. Even the least-sensitive meter, the one that could measure huge amounts of magic power, overflowed. But she also said it looked like it could measure her if the scale were twice as long. That rapidly recharged the motivation that had gone limp from endlessly repeating simple work.
+After that, we ate ice cream while she let me measure her magic power. Even the least sensitive meter, the one meant for massive amounts, overflowed. Still, Hiyori said it looked like a scale twice as long could measure her. My motivation had wilted under the endless repetition, but that recharged it in a flash.
 
-I could endure hard work if the goal was clear. Nobody but me could make a magic-power meter that could measure the magic power of the Blue Witch, who had the most magic power in the Tokyo Witches' Council. If I don't do it, who will?
+I could endure hard work as long as I had a clear goal. Nobody else could build a meter capable of measuring the magic power of the Blue Witch, who had the most magic power in the Tokyo Witches' Council. If I don't do it, who will?
 
 Getting fired up did not make the work easier. In the end, even though I worked ten hours a day, it took fifty days to finish all four structural-color patterns on all four rods.
 
-Even though I got used to it partway through and sped up, it still took that long. It became the job I had put the most labor into so far.
+That was with me getting used to the work and speeding up along the way. It was my most labor-intensive job yet.
 
-But thanks to that, I could precisely measure the magic power of every person, witch, mage, and monster.
+But thanks to all that work, I could precisely measure the magic power of any human, witch, mage, or monster.
 
 My magic power. The fire salamanders' magic power. Even the Blue Witch's ridiculously huge magic power.
 
-I sent the four great structural-color Gremlins, which ought to become standard samples for a new system of units that would open up a new world, off to Tokyo Magic University.
+I sent the four magnificent structural-color Gremlins off to Tokyo Magic University, where they would become the standard samples for a new system of units and open up a whole new world.
 
 Gahaha! Tremble in fear till your knees give out!
 
@@ -318,31 +316,31 @@ You can designate them National Treasures if you want!
 
 ---
 
-One week after I sent the four structural-color Gremlins to Tokyo Magic University, Hiyori brought me a splendid certificate of appreciation jointly signed by the professors.
+A week after I sent the four structural-color Gremlins to Tokyo Magic University, Hiyori brought me an impressive certificate of appreciation signed by the faculty.
 
 
-“What’s with this tube case? Did it have a use besides holding diplomas?”
+“What's with the tube? I thought these were only for diplomas.”
 
 
-“Kei-chan thought you’d be happy, so she went out of her way to come up with it. Be happy.”
+“Kei-chan went out of her way to come up with this because she thought it'd make you happy. So be happy.”
 
 
-The stoat's clever scheme worked perfectly and made me happy. All I got was thick paper with calligraphy on it, but it was strange how it suddenly looked like a treasure once it had been properly formatted.
+The stoat's clever scheme worked perfectly, and I was duly made happy. It was just a sheet of heavy paper with brush calligraphy on it, yet dressing it up in the proper format somehow turned it into a treasure.
 
 
-According to Blue Witch-sama, who held a little award ceremony for me, the research teams had been so desperate to quantify magic power that the magic-power meters were like sacred artifacts that had suddenly fallen from heaven. Apparently, people were lining up to use them and fighting over them.
+According to Blue Witch-sama, who held a little award ceremony for me, every research team had been desperate to measure magic power quantitatively. To them, the meters were sacred artifacts that had dropped out of the heavens without warning. Apparently, researchers were lining up and practically fighting for their turn with one.
 
 
-The ecstatic researchers had gotten so caught up in the festival mood that Professor Ohinata, who had written the certificate on everyone's behalf, apologized in a letter for how long it had taken. She was apparently too busy to come to Okutama herself. A happy problem, I guess.
+The ecstatic researchers had gotten so swept up in the festivities that Professor Ohinata, who had written the certificate on everyone's behalf, apologized by letter for the delay. Apparently, she was too busy to come to Okutama herself. Not a bad problem to have, I guess.
 
 
-Getting rated that highly made me big-headed too. I want them to use them a ton. But they're a huge pain to make, so take good care of them, okay?
+That much praise went straight to my head. By all means, use them like crazy—just take good care of them, okay? They're a huge pain to make.
 
 
-According to the materials attached to the certificate, the first research project to use the structural-color Gremlins had established a new system of units.
+According to the materials included with the certificate, the first research project to use the structural-color Gremlins had been to create a new system of units.
 
 
-The magic-power meters were done. Next, before anything else, they needed to decide on a unit.
+Once they had magic-power meters, the next step was obvious: decide on a unit.
 
 
 For length, meters.
@@ -354,28 +352,28 @@ For weight, grams.
 So what about magic power?
 
 
-The faculty had fiercely debated what the unit should be, but in the end they decided to split the difference between theory and reality.
+The faculty had argued fiercely over the choice, but in the end, they settled on a compromise between theory and reality.
 
 
-Using structural-color Gremlin magic-power meters, they measured the magic-power capacities of 1,000 randomly selected people. The most common magic-power capacity almost exactly matched a 1 mm reading on a 400 nm structural-color Gremlin.
+They used the structural-color Gremlin magic-power meters to test 1,000 randomly selected people. The most common magic-power capacity almost exactly matched a 1 mm reading on a 400 nm structural-color Gremlin.
 
 
-From this, they defined the amount of magic power needed to change the scale on a 400 nm magic-power meter by 1 mm upon contact as the basic unit of magic power: 1.0 Kenshi, or 1.0 K.
+From that, they defined the magic power required to change a 400 nm meter's scale by 1 mm upon contact as the basic unit of magic power: 1.0 Kenshi, or 1.0 K.
 
 
-An ordinary person had about 1 K of magic power. Easy to understand.
+An ordinary person had about 1 K of magic power. Nice and simple.
 
 
 The name was easy to understand too.
 
 
-Magic power was “wisely viewed and determined,” so it was Kenshi.[^2]
+The unit “wisely viewed and determined” magic power, so they called it Kenshi.[^2]
 
 
 ![p266.jpg](images/p266.jpg)
 
 
-Man, that’s a great name for a unit!
+Man, that's a great name for a unit!
 
 
 It has nothing to do with my name, Ori Kenshi, right!?
@@ -384,13 +382,13 @@ It has nothing to do with my name, Ori Kenshi, right!?
 There was a doodle of the little stoat sticking out her tongue and winking beside the section on the unit system in the attached materials, so it was definitely on purpose.
 
 
-You playful stoat, you got me. It was crafty how she didn't use my name directly, but changed the characters to make it seem legit. Did she think I'd be embarrassed if it used the exact same name? Correct!
+That playful little stoat got me good. Instead of using my name directly, she'd craftily changed the characters to make it sound legitimate. Did she think I'd be embarrassed if she'd used my name as-is? Correct!
 
 
-But I don't hate it. When a creator's name gets out there, it makes a visible difference in how well their work sells. If I think of it as my pen name becoming the name of a new unit, I'm totally okay with it. Nice surprise, Professor.
+But I don't hate it. Getting a creator's name out there makes a visible difference in sales. If I think of this as my pen name becoming the name of a new unit, I'm totally fine with it. Nice surprise, Professor.
 
 
-Looking at the graph showing the magic-power capacities of 1,000 ordinary people, I could really see how much magic power I had.
+The distribution graph for 1,000 ordinary people's magic-power capacities showed just how much magic power I had.
 
 
 My current magic power was 6.6 K.
@@ -405,67 +403,67 @@ What Hiyori had once said—that I had a lot of magic power—had been true.
 Professor Ohinata’s magic power was 120 K.
 
 
-The Flame Heir Witch, the Flame Witch’s younger sister and one of humanity’s most powerful people, was 200 K.
+The Flame Heir Witch, the Flame Witch's younger sister and one of humanity's most powerful people, had 200 K.
 
 
-The Foresight Mage ranked last in the Tokyo Witches' Council at 5,100 K.
+The Foresight Mage ranked last in the Witches' Council at 5,100 K.
 
 
-The Blue Witch ranked first in the Tokyo Witches' Council with 11,000 K.
+The Blue Witch ranked first in the Witches' Council with 11,000 K.
 
 
 Witches and mages really were on a whole different order of magnitude.
 
 
-With 6.6 K of magic power, I could not use an eyeball familiar's magic, so ever since I embedded the fire-salamander Gremlin, I had been carrying an eyeball familiar summoned by Hiyori around in my pocket. I also could no longer use ice-spear magic because I did not have enough magic power.
+With only 6.6 K, I couldn't use an eyeball familiar's magic. Ever since I embedded the fire-salamander Gremlin, I'd had to carry one summoned by Hiyori in my pocket instead. I also no longer had enough magic power to use ice-spear magic.
 
 
-But with 6.6 K, I could cast the core spells of fire magic and freezing magic two or three times, so it was less convenient than before, but I was getting by pretty comfortably. Even 6.6 K is plenty of magic power. I'm in the top 10% of humanity, you know.
+Still, 6.6 K let me cast the fire-magic core spell or freezing-magic core spell two or three times. Life was less convenient than before, but I was doing all right. Even 6.6 K is a lot of magic power. I'm in humanity's top 10%, you know.
 
 
-The letter conveyed the magic university's joy and excitement, but it ended with a slightly scary research result.
+The letter conveyed Magic University's joy and excitement, but it ended with a slightly scary research result.
 
 
-According to a study the Department of Magic Medicine immediately conducted using the magic-power meters, magic-power capacity decreased slightly after magic-power-depletion fainting. Each fainting episode caused a decrease of around 0.05–0.1 K.
+The Department of Magic Medicine had immediately put the magic-power meters to use and found that magic-power-depletion fainting slightly reduced magic-power capacity. Each episode cost around 0.05–0.1 K.
 
 
-You could not use magic when you were clearly short of magic power. But if you tried to use magic when you were only a little short, your maximum magic power was automatically shaved down to make up the shortfall by force. The magic activated, your magic power hit zero, and you fainted... That was apparently how it worked.
+You couldn't cast a spell if you were obviously short on magic power. But if you tried when you were only a little short, your maximum capacity was automatically shaved down to forcibly make up the deficit. The spell activated, your remaining magic power hit zero, and you fainted... That was apparently how it worked.
 
 
-There had long been a theory that maximum magic power decreased through magic-power-depletion fainting, but the decrease was so small. There were all kinds of possible reasons, like a decrease due to aging, measurement error, or your physical condition, so it had not been clear.
+People had long suspected that magic-power-depletion fainting reduced maximum capacity, but the loss was tiny. Aging, measurement error, physical condition—there were too many other possible explanations to know for sure.
 
 
-After the mushroom pandemic, magic-power-depletion fainting had become taboo in society. Now there was another reason to avoid fainting.
+Magic-power-depletion fainting had become taboo after the mushroom pandemic. Now we had one more reason to avoid it.
 
 
-It's terrifying to think about now. Before the pandemic, Professor Ohinata and the others apparently used to drop from magic-power depletion all the time. It wouldn't be surprising if the Professor had lost around 2–3 K of magic power. That's insane.
+It's terrifying in hindsight. Before the pandemic, Professor Ohinata and the others apparently used to drop from magic-power depletion all the time. The Professor could easily have lost 2–3 K of magic power. That's insane.
 
 
-They had done something that dangerous without a care, so it showed just how ignorant humanity had been about magic back then. Knowledge is power.
+They did something that dangerous without a second thought. It shows just how little humanity knew about magic back then. Knowledge is power.
 
 
-Learning things like this really made me think there were still tons of important magical truths we ought to have noticed but hadn't.
+Stuff like this really makes me think there must still be tons of important truths about magic sitting right under our noses.
 
 
 “I brought request forms too. Look them over, and tell me if there are any requests you want to take.”
 
 
-Just when I had finished looking over the magic-power-meter materials, Hiyori handed me another list.
+As I finished reading the magic-power-meter materials, Hiyori handed me another list.
 
 
-I quickly looked through the several request forms clipped together, and more than half of them were requests to make additional magic-power meters.
+I skimmed the clipped stack of request forms. More than half were requests for additional magic-power meters.
 
 
-Apparently, there were not enough of them. The magic-power meters I had sent to the university were being fought over and passed around, and the forms said having more would be a huge help.
+Apparently, there weren't enough to go around. According to the forms, researchers were practically fighting over the meters I'd sent to the university and passing them around, so more would be a huge help.
 
 
-Hmm... I get that supply isn't keeping up with demand, but I don't really want to take requests to make magic-power meters. The manufacturing efficiency is fucking awful, they're exhausting to make, and making them is boring. It's such a simple, repetitive job, and I can't learn anything new from the work either.
+Hmm... I get that supply isn't keeping up with demand, but I don't really want to take any magic-power-meter commissions. They're a fucking nightmare to make: inefficient, exhausting, and boring. The job is nothing but mindless repetition, and I don't even learn anything new from doing it.
 
 
-But this is the most in-demand request. It's complicated when the request I'm least excited about is the most popular.
+But these are the requests in highest demand. It's a weird feeling when the job I want least is the one everyone wants most.
 
 
-I set the magic-power-meter requests aside for now and looked at the other request forms. The rest were requests from the Tohoku Hunting Association and the Hokkaido Magic Beast Farm. Both were requests to make magic wands.
+I set the magic-power-meter requests aside for now and checked the others. The rest came from the Tohoku Hunting Association and the Hokkaido Magic Beast Farm, and both wanted magic wands.
 
 
 Hmm? I even turned the list over, but there were no more requests on it.
@@ -474,10 +472,10 @@ Hmm? I even turned the list over, but there were no more requests on it.
 “There aren’t any requests from the Lake Biwa Pact or the Arataki Group?”
 
 
-Of Japan's five major survivor communities, only three had sent requests. There were no requests from the Lake Biwa Pact or the Arataki Group in Kyushu.
+Only three of Japan's five major survivor communities had sent requests. Nothing had come from the Lake Biwa Pact or Kyushu's Arataki Group.
 
 
-The Dragon Witch was acting as a messenger, so we should at least have made connections with all the survivor communities. It was not like they were not sending requests because they did not know about me. Do the survivor communities out west have no interest in the world's finest, strongest magic wands made by a highly skilled genius Wand Maker?
+The Dragon Witch was serving as our messenger, so we were supposed to have at least some contact with every survivor community. They couldn't have failed to send requests simply because they didn't know about me. Did the communities out west have no interest in the world's finest, strongest magic wands, made by a genius Wand Maker of unmatched skill?
 
 
 When I asked her about it, Hiyori shook her head.
@@ -492,7 +490,7 @@ When I asked her about it, Hiyori shook her head.
 “They’re suspicious.”
 
 
-Hiyori's answer was concise. So concise I did not quite get what she meant.
+Hiyori's answer was concise. A little too concise for me to understand.
 
 
 When I tilted my head, she sighed and explained further.
@@ -504,25 +502,25 @@ When I tilted my head, she sighed and explained further.
 “Huh, what? Are the Lake Biwa Pact and the Arataki Group that bad?”
 
 
-I was floored to learn that potential customers had automatically been shut out without me knowing.
+I was floored. Potential customers had been getting screened out behind my back.
 
 
 Can that really happen? Well, I guess it can?
 
 
-I had heard that a bad guy called the Iruma Mage had once gone on a rampage in Tokyo. Not every Transcendent who awakened to power beyond human understanding was a good person.
+Apparently, a bad guy called the Iruma Mage had once gone on a rampage in Tokyo. Not every Transcendent who awakened to power beyond human understanding was a good person.
 
 
 “Maybe the Lake Biwa Pact and the Arataki Group have someone like the Dragon Witch as their leader?”
 
 
-There were people who would do all kinds of awful things if you gave them power.
+Some people would do all kinds of awful things if you gave them power.
 
 
-When I brought up the worst Transcendent I knew and asked her, Hiyori gave a wry smile.
+I brought up the worst Transcendent I knew, and Hiyori gave a wry smile.
 
 
-“If they were only small fry like her, they would be cute. Sometimes I want to crush her, but she isn’t a lump of pure malice, right?”
+“Small fry like her would be almost cute. Sometimes I want to crush her, but she isn't a lump of pure malice, right?”
 
 
 “There are people worse than her?”
@@ -531,7 +529,7 @@ When I brought up the worst Transcendent I knew and asked her, Hiyori gave a wry
 “There are. Definitely.”
 
 
-Hiyori gripped Cyanos tightly and spat the words out like she knew that firsthand.
+Hiyori gripped Cyanos tight and spat the words. Her voice made it clear she spoke from experience.
 
 
 There are? People worse than that piece-of-shit dragon who kidnaps people, locks them up, and makes them do forced labor?
@@ -546,13 +544,13 @@ There are? People worse than that piece-of-shit dragon who kidnaps people, locks
 “Uh...?”
 
 
-I was seriously put off by those grim predictions.
+I recoiled at the grim predictions.
 
 
-I wanted to say she was being too paranoid, but her seemingly excessive vigilance had saved us before. When she was this serious about it, it started to feel possible.
+I wanted to call her paranoid, but that same seemingly excessive caution had saved us before. Coming from her in such dead earnest, it started to sound possible.
 
 
-Scary. We've had more than enough huge incidents back-to-back already. Enough with that stuff.
+Scary. We've had more than enough major crises back-to-back already. Enough with that stuff.
 
 
 When the hell would a peaceful world come back?
@@ -564,7 +562,7 @@ When the hell would a peaceful world come back?
 “...”
 
 
-With Hiyori apparently reliving some bitter memory in that dead-serious atmosphere, there was no way I could say I'd just thought of the Flame Witch's unwitting yuri arson sex, so I looked away.
+Hiyori seemed to be reliving some bitter memory. With the mood that dead serious, there was no way I could admit I'd just thought of the Flame Witch's unwitting yuri arson sex. I looked away.
 
 
 Yeah. Reality is always worse than the worst-case scenario. You get blindsided from somewhere you never expected, and then something irreversible happens.
@@ -573,13 +571,13 @@ Yeah. Reality is always worse than the worst-case scenario. You get blindsided f
 Exactly. Flame Witch, this is your fault. You went and left me with irreversible fire salamanders. They're cute, though, so whatever.
 
 
-It felt like there was a huge difference between what counted as a worst-case scenario to Hiyori and to me.
+Hiyori and I seemed to have wildly different ideas of a worst-case scenario.
 
 
-Still, whatever kind of worst thing came at us, I had this vague optimism that it would somehow be okay.
+Still, whatever kind of disaster came at us, I had a vague sense that we'd somehow be okay.
 
 
-I had overcome dangerous incidents plenty of times now and gained courage and confidence.
+We'd survived plenty of dangerous incidents by now, and I'd built up some nerve and confidence.
 
 
 If it can be beaten down with violence, Hiyori can beat it.
@@ -588,7 +586,7 @@ If it can be beaten down with violence, Hiyori can beat it.
 If it's a problem violence can't solve, I'll do something about it.
 
 
-A wall that would break me on my own is one we can overcome together.
+A wall that would break me on my own is one the two of us can overcome together.
 
 
 Whatever comes, bring it on.

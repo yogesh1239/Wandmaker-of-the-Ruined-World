@@ -74,3 +74,42 @@
 ### Post-Migration Corrections
 - **source line 304 (羊肉[ジンギスカン])**: “<ruby>Genghis Khan lamb<rt>mutton</rt></ruby>” → “<ruby>jingisukan<rt>mutton</rt></ruby>” — accuracy
 - **translator note**: “Genghis Khan lamb” → “Jingisukan” — glossary
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–442; agent `reedit_v3c10_s1`; model `gpt-5.6-sol` at high reasoning; ~105 paragraph edits). Flow: short-sentence share 14.1% → 16.2%; runs 1 → 0.
+
+### Accuracy Fixes
+- **グレムリン埋め込みの助けを借りても…**: rebuilt as “Even with Gremlin implantation…completing magic-beastification took time” — polish
+- **三匹の火蜥蜴が…駆けてきて…**: recast the call, run, and lineup in clean action order — polish
+- **もう殺さないと約束してくれた**: “not to kill them anymore” → “not to kill them” — accuracy
+- **警備隊**: “guards” → “members of the security force” — glossary
+- [polish] The pouch-sparrow, steel-sheep, and turret-balsam explanations were tightened without dropping technical traits or figures — polish
+
+### Register and Flow
+The animal-training comedy and technical exposition stayed contemporary and direct. Six immediate conclusions, warnings, and reader asides were restored to present; past narration stayed past.
+
+### Formatting Confirmed
+- The `Jin Ga` ruby, banner quotation style, all creature names and technical figures, the `jingisukan` marker, and terminal note were preserved.
+- Glossary forms, honorifics, and romanization were verified; no reference file was changed.
+- `check_reedit.py` PASS; chapter gates PASS.
+
+### Lead Review
+- **もう殺さないと約束してくれた** (JP line 202): the agent dropped もう. The Blue Witch had already tried to kill them, so the "again" sense stays → "She promised she wouldn't try to kill them again, which was a relief." — accuracy
+- **最初の尻着火** (JP 136): removed the invented "on the first day" → "The very first butt-burning incident was the worst accident." — accuracy
+- **やっぱ焔魔法には…ついちゃってるんだろうな** (JP 190): restored やっぱ; this is direct monologue, so present → "I guess fire magic really does come with some weird special effect built in by default." — tense
+- **焔魔法だけでも…生態が変わる危険性が大きい** (JP 193): restored the glossary term "fire magic" and the strength of 危険性が大きい; dropped the added "drastically" → "There was a real risk their behavior would change once they grew up" — accuracy
+- **血縁とか全然関係ないな** (JP 223): kept the direct thought in one tense → "So blood relation doesn't mean a thing, huh." — tense
+- **賠償請求が飛んでこなかっただけ良しとするべき** (JP 430): matched the past narration → "they hadn't sent us a demand for compensation" — tense
+- **「火蜥蜴日本一」** (JP 16): straight quotes → curly, to match the file — mechanics
+- **尻尾を振り喜んで食いついた** (JP 58): restored 喜んで → "wagged their tails and happily dug in" — accuracy
+- **少なくとも好まない** (JP 115): restored the hedge → "at the very least they didn't like either one" — accuracy
+- **結局汚すのに磨く意味は分からない** (JP 145): restored the reason → "if they were just going to get dirty again" — accuracy
+- **いつまで経ってもガタガタボロボロのまま** (JP 157): restored いつまで経っても → "no matter how much time passed" — accuracy
+- **比較的容易に確保・調教できる** (JP 256): restored 比較的, dropped the added "in decent numbers", named the pouch sparrows → "naturally pouch sparrows, one of their mutant forms, were relatively easy to capture and train." — accuracy
+- **フクロスズメが果たす役割は大きい。もちろん郵便にも使える** (JP 277): restored "played a major role"; mail is a capability, not a stated fact → "And of course, they could deliver mail too." — accuracy
+- **目されている** (JP 331): removed the added "experts" → "the clothes were expected to last a century easily" — accuracy
+- **恐らく火系の魔物に対抗するための性質** (JP 334): restored 恐らく → "the trait had probably developed as a defense against them" — accuracy
+- **鉄の刃も通さない** (JP 337): strengthened "resisted" → "not even an iron blade could cut through it" — accuracy
+- **東京への支援どころではないようだ** (JP 415): restored the ようだ hedge → "They didn't seem to be in any position to support Tokyo." — accuracy
+- **確かに挫ける事なく…推し進めていた** (JP 442): restored 確かに → "humanity was steadily rebuilding the ruined world" — accuracy

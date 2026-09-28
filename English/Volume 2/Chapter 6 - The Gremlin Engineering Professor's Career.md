@@ -1,296 +1,294 @@
-Handa Sakunosuke, one of the first students after Tokyo Magic University adopted a one-year curriculum, had originally lived in Saitama City, Saitama Prefecture.
+Handa Sakunosuke, one of the first students to enroll after Tokyo Magic University switched to a one-year curriculum, originally came from Saitama City in Saitama Prefecture.
 
-Saitama City was one of the many ordinary places where public safety had completely collapsed in the Gremlin Disaster.
+Saitama City was just one of the many places where law and order had completely collapsed in the Gremlin Disaster.
 
-Regions not lucky enough to produce witches or mages almost without exception met a miserable fate. They could not resist the monsters that attacked one after another, and a storm of slaughter and looting broke out. Even if the Self-Defense Forces and police could delay the collapse of public safety for a while, once they ran out of ammunition, the monsters' violence swallowed the whole region.
+Regions that weren't lucky enough to see a witch or mage born almost always met a miserable fate. Unable to hold off the monsters that came wave after wave, they were swept by a storm of slaughter and looting. The Self-Defense Forces and police could put off the collapse for a while, but the moment their ammunition ran out, the monsters' violence swallowed everything.
 
-The weak, the stupid, and those who lacked initiative died first regardless of age or sex, and Saitama City's population plummeted in less than a month.
+The weak, the stupid, and anyone slow to act died first, young or old, man or woman, and Saitama City's population plummeted in under a month.
 
-No exact population statistics were taken everywhere, but the surviving population in areas with witches or mages was said to average 20%. In areas without them, it was about 0.1–5%. Saitama City was no exception.
+Nobody had taken an accurate census anywhere, but areas with a witch or mage were said to have kept an average of 20% of their population. Areas without one had kept somewhere around 0.1–5%. Saitama City was no exception.
 
-Handa was in his mid-thirties, in the prime of his working life, and employed at a plumbing shop. He lost his whole family right after the disaster and was tossed around by society's sudden upheaval before he even had time to grieve.
+Handa had been in his mid-thirties, in the prime of his working life, and employed at a plumbing shop. He lost his entire family right after the disaster, and before he even had time to grieve, society's upheaval swept him along.
 
-Surviving had been nothing but luck.
+That he survived at all was pure luck.
 
-For about a year, Handa had no choice but to keep himself alive by looting in Saitama City, where monsters ran wild. Sick of everything, he abandoned his hideout and began heading south in search of a paradise.
+For about a year, he had no choice but to stay alive by looting in a Saitama City overrun with monsters. Then, sick of all of it, he abandoned his hideout and headed south in search of a paradise.
 
-Even if a monster attacked and killed him on the way, that would be far better than trampling his conscience by stealing the last scraps of supplies from dying old people and children who had lost their parents.
+Even if a monster killed him on the road, that was far better than going on like this, trampling his conscience to rob dying old people and orphaned children of their last scraps of supplies.
 
-There was a rumor that Tokyo had witches who had gained monsters' power, protected people from monsters, and handed out food. Handa headed for Tokyo along the Arakawa River.
+Rumor had it that Tokyo had witches who had gained the power of monsters and used it to protect people from them and hand out food. Handa followed the Arakawa River toward Tokyo.
 
-In this world where communications had been cut off, there was no way to check whether the rumor was true. There were countless similar rumors, all nothing but fantasies born from the fleeting wish that each one might offer salvation. But somehow, the rumor about witches felt believable.
+With communications down, there was no way to check whether the rumor was true. There were countless others like it, and every one of them was nothing but a fantasy born of the faint hope that salvation existed somewhere. Still, for some reason, the one about the witches felt believable.
 
-Maybe he had only wanted to believe it, but in the end, Handa won his bet.
+Maybe he had only wanted to believe it. Either way, Handa won his bet.
 
-Accepted into Tokyo as a refugee from outside the capital, Handa went through several screenings and was assigned to the territory governed by the Flower Witch, which spanned from Arakawa Ward to Taito Ward.
+Tokyo took him in as a refugee from outside the city. After a few screening questions, he was assigned to the territory of the Flower Witch, which spanned Arakawa and Taito Wards.
 
 Handa Sakunosuke's new life began.
 
-First, he was surprised to be treated as a refugee. It had been a long time since he had met people who treated strangers like people.
+First of all, he was surprised to be treated as a refugee. It had been a long time since he'd met anyone who treated a stranger like a human being.
 
-He was even more surprised that his new place to live was designated according to clear rules.
+It surprised him even more that he was assigned a place to live according to clear rules.
 
-Unbelievably, order was maintained in Tokyo.
+Incredibly, Tokyo still had order.
 
-There were organizations there. There was politics.
+It had organizations. It had politics.
 
-Before the disaster, he had taken such things for granted, but now he even felt as if he had come into contact with an alien culture in another world.
+He had taken those things for granted before the disaster, yet now they felt so strange that he might as well have stumbled into an alien culture in another world.
 
-The original residents of the Flower Witch's territory welcomed Handa with pitying looks.
+The people already living in the Flower Witch's territory greeted him with pity.
 
-They said that among the members of the Tokyo Witches' Council who ruled the various parts of Tokyo, anyone who ended up living in the Flower Witch's district was unlucky. It was not the worst district, but they would not be able to die a decent death...
+According to them, of all the Witches' Council members who ruled the various parts of Tokyo, ending up in the Flower Witch's district meant you were out of luck. It wasn't the worst district, but no one there would get to die a decent death...
 
-The defining feature of the Flower Witch's district was that its residents' corpses became nourishment for her. She did not allow people to escape the district to avoid that fate.
+The defining feature of her district was that dead residents became her nourishment. And she didn't let anyone flee the district to escape that fate.
 
-The Flower Witch's people had no graves. Roots burst from the ground, dragged the dead into the earth, and turned them into her nourishment.
+Her people had no graves. Roots burst out of the ground and dragged the dead down into the soil to feed her.
 
-After sucking up corpses that way, the Flower Witch bloomed in beauty beyond anything of this world.
+And once she had drunk up the corpses, the Flower Witch bloomed so beautifully she hardly seemed to belong to this world.
 
-On the other hand, that was about the only downside.
+Then again, that was about the only downside.
 
-The Flower Witch's fertility magic meant the rations were only grains, vegetables, and fruit, but people could eat three proper meals every day.
+Thanks to her fertility magic, everyone ate three solid meals a day, even if the rations were only grains, vegetables, and fruit.
 
-Roots spread through the ground all over the territory killed any monsters that appeared in an instant. For flying monsters, the guards had to fight them back or ask witches from other districts for help, but life was easy as long as there were no monsters on the ground.
+The roots running under the whole territory killed any monster that appeared in an instant. Flying monsters were the one exception, and for those the guards had to fight back or ask witches from other districts for help. Still, just having no monsters on the ground made life easy.
 
-The Flower Witch only laid down basic laws like “don't steal,” “don't kill,” and “don't deceive,” and did not interfere too much in the residents' lives.
+The Flower Witch laid down only the most basic laws, like no stealing, no killing, and no deceiving, and otherwise didn't meddle much in residents' lives.
 
-Handa did not care at all about the corpse-eating that some residents spoke of with disgust.
+The corpse-eating that some residents talked about with a shudder didn't bother Handa at all.
 
-He was impressed that people could worry about what happened after they died. Tokyo really was peaceful.
+If anything, it impressed him that people here had room to worry about what happened after they died. Tokyo really was peaceful.
 
-She merely used corpses as nourishment. She did not actively make them for that purpose. There was no need to worry about it.
+She only fed on the dead. She didn't go out of her way to make more of them, so there was nothing to worry about.
 
-After living peacefully for several months in the Flower Witch's domain and healing his worn-out body and mind, Handa met a mage for the first time one day.
+Handa spent several peaceful months at the Flower Witch's roots, letting his worn-out body and mind heal. Then one day, he met a mage for the first time.
 
-The worn-out man about Handa's age who called himself the Foresight Mage looked, at first glance, like an ordinary middle-aged man in a rumpled suit. But he boldly negotiated with the Flower Witch, whom the residents feared, made some sort of promise, and left (according to what Handa heard later, he had paid a price to learn fertility magic).
+The man called himself the Foresight Mage. He was about Handa's age and looked tired, and at a glance he was just an ordinary middle-aged man in a rumpled suit. Yet he boldly negotiated with the Flower Witch, whom the residents feared, made some kind of promise, and left (Handa heard later that he had paid a price to learn fertility magic).
 
-Seeing the Foresight Mage come from outside and return safely opened Handa's eyes.
+Watching the Foresight Mage come in from outside and leave again unharmed opened Handa's eyes.
 
-The Flower Witch used dead residents as her own nourishment. Because she did not want her nourishment to escape, she forbade people from leaving her territory.
+The Flower Witch fed on dead residents, and since she didn't want her food running off, she forbade her people to leave the district.
 
-But apparently that was not an absolute rule. If he had power. If he had status. If he could negotiate. Then he would not have to spend the rest of his life in this district.
+But apparently that wasn't an absolute rule. With power, with status, with negotiation, he wouldn't have to spend the rest of his life inside this district.
 
-After spending several months far more peacefully than the year before, Handa had begun to want more. He wanted to see other districts in Tokyo.
+Several months of peace, beyond anything the year before could compare to, had made Handa greedy. He wanted to see the other districts of Tokyo.
 
-His current life was good too, but if he could live an even better life in another district, he wanted it.
+His life now was good, but if he could live even better somewhere else, he wanted to.
 
-First, Handa collected materials from city rubble that had barely been cleared because the heavy machinery no longer worked. He gave the Flower Witch artificial flowers and pressed flowers to get on her good side. He praised her beauty with sugary lines he had only ever said to his late wife and scored points with her.
+First, he gathered materials from the city's rubble, which was barely being cleared since heavy machinery no longer worked, and courted the Flower Witch's favor with gifts of artificial and pressed flowers. He praised her beauty with the kind of cheesy lines he'd only ever said to his late wife, scoring points with her.
 
-Then, taking advantage of Tokyo Magic University's student recruitment, he asked to be allowed to study outside the district.
+Then, when Tokyo Magic University began recruiting students, he seized the chance and asked to be allowed to study outside the district.
 
-He promised he would return. He would learn knowledge, skills, and magic that would be useful to her, then come back.
+He'd come back, he promised. He would learn knowledge, skills, and magic that would be of use to her and bring them home.
 
-Hearing his plea, the Flower Witch smiled gently and whispered into Handa's ear.
+The Flower Witch listened to his plea, smiled gracefully, and whispered in his ear.
 
-“If I let you leave, I hear you won't come back even after you graduate. Magic University must be very comfortable, mustn't it?”
+“I'm told that if I send you off, you won't come back even after you graduate. Magic University must be awfully comfortable.”
 
 “!”
 
-Handa went pale and vaguely understood the terms of the deal between the Flower Witch and the Foresight Mage.
+Handa went pale as he began to grasp what kind of deal the Flower Witch and the Foresight Mage had struck.
 
-Of course, if the Foresight Mage had paid something as the price of that deal, it must have been the power of foresight, his greatest bargaining chip.
+Of course. If the Foresight Mage had paid a price in some deal, it had to be his foresight, his greatest bargaining chip.
 
-Handa braced himself for his limbs to be caught and torn apart by roots. But unexpectedly, the Flower Witch stepped back, then giggled at his reaction.
+Handa braced himself to be seized by the roots and torn limb from limb. Instead, to his surprise, the Flower Witch drew back and giggled, as if his reaction amused her.
 
-“But very well. I'll permit it. Establishing ties with Magic University isn't a bad idea. Even while you're there, send me the occasional letter, won't you? Handa Sakunosuke.”
+“But very well. I'll permit it. Building ties with Magic University isn't a bad idea. Once you're there, do send me a letter now and then, won't you? Handa Sakunosuke.”
 
-Handa left the Flower Witch's presence feeling more dead than alive.
+Feeling more dead than alive, Handa withdrew from the Flower Witch's presence.
 
-It was not until after Magic University's entrance ceremony that he realized she had remembered people's names.
+It wasn't until after Magic University's entrance ceremony that it occurred to him: she had actually remembered his name.
 
-At that point, Tokyo Magic University had only the Department of Magic Linguistics, so Handa naturally enrolled there.
+At the time, Tokyo Magic University had just one department, the Department of Magic Linguistics, so that was naturally where Handa enrolled.
 
-He had expected his second university life to be uncomfortable, surrounded by young people more than a generation younger than him. But his classmates' ages were all over the place. There was a man nearing sixty, older than Handa, and there was also a girl who looked like she was still in middle school.
+He had expected a second round of university to be awkward, stuck among kids more than a dozen years younger than him. But his classmates' ages were all over the place. There was a man pushing sixty, older than Handa, and a girl who couldn't have been out of middle school yet.
 
-He had heard that Magic University did not select students by age, but he thought that was just for show and that young people would still be admitted first. It was quite a surprise.
+He'd heard that Magic University didn't choose students by age, but he had assumed that was just the official line and that young people would still get in first. So it came as quite a surprise.
 
-Handa had enrolled in university less to learn magic than to look around Tokyo. He got through his classes well enough, and whenever he had time, he walked around Bunkyo Ward, where the university was located.
+Handa had enrolled less to learn magic than to see Tokyo, so he did just enough in class and spent his free time exploring Bunkyo Ward, where the university was.
 
-The first surprise was that there were no corpses lying anywhere.
+The first thing that surprised him was that there were no corpses lying around anywhere.
 
-In Saitama City, corpses had normally been left without burial, picked apart by animals and monsters, and exposed as gruesome remains.
+In Saitama City, bodies had usually been left unburied, torn apart by animals and monsters, their gruesome remains out in the open.
 
-In the Flower Witch's territory, corpses were consumed as the witch's nourishment, so it made sense that there were none.
+In the Flower Witch's territory, the witch consumed the dead as nourishment, so of course there were none.
 
-But the Foresight Mage who governed Bunkyo Ward was not the corpse-eating type. If 80% of Bunkyo Ward's population had died, have all of the more than 180,000 corpses that should have existed been disposed of?
+But the Foresight Mage who governed Bunkyo Ward wasn't the corpse-eating type. If 80% of Bunkyo Ward's population had died, there should have been over 180,000 bodies. Had every one of them really been disposed of?
 
-That must have taken a great deal of work. It would not have been strange if they had been piled up somewhere, but Bunkyo Ward's streets were clean. There were no mountains of corpses, no holes for throwing away corpses, and no smell of rot.
+That must have been a huge job. He wouldn't have been surprised to find them piled up somewhere, but Bunkyo Ward's streets were clean. There were no mountains of corpses, no pits to dump them in, and no smell of rot.
 
-When he asked a lifelong Bunkyo Ward resident in his class about it, he got an answer he had not expected.
+When he asked a classmate who had always lived in Bunkyo Ward about it, he got an answer he never saw coming.
 
-Apparently, at the height of the Gremlin Disaster chaos, when the most people had died, “the Zombie Witch roamed all over Tokyo, turned every corpse she came across into a zombie, and took them away.”
+Believe it or not, at the height of the Gremlin Disaster chaos, when the death toll was worst, “the Zombie Witch paraded all over Tokyo, turned every corpse she came across into a zombie, and took them away.”
 
-That was why there were no corpses lying around Tokyo.
+And that was why there were no corpses lying around Tokyo.
 
 Handa was impressed.
 
-Certainly, if corpses walked on their own, it cut down the labor of cleaning them up a great deal.
+Sure, if corpses walked on their own, that saved a lot of cleanup.
 
-He nodded, thinking it was an efficient way to deal with them. His classmate frowned at him and edged away in disgust.
+When he nodded at what an efficient solution it was, his classmate frowned and edged away from him, looking disturbed.
 
-In fact, if mountains of corpses had been left in a city as densely populated as Tokyo, carrion-eating monsters and wild animals would have kept coming, flies would have multiplied in huge numbers, and the corpses would have polluted the soil and water and become a source of disease.
+Really, if mountains of corpses had been left in a city as crowded as Tokyo, scavenging monsters and wild animals would have kept swarming in, flies would have multiplied like crazy, and the bodies would have fouled the soil and water and turned into a breeding ground for disease.
 
-Even if it profaned the dignity of the dead, turning the corpses into zombies and gathering them up had great value in protecting the living.
+Even if it desecrated the dead, turning them into zombies and hauling them off had been hugely worthwhile for protecting the living.
 
-Handa was pissed off by the disrespect shown toward the Zombie Witch's great achievement, but a few days later, he heard the details from someone else and understood.
+That kind of disrespect toward the Zombie Witch's enormous contribution pissed Handa off. A few days later, though, he heard the full story from someone else and understood.
 
-The Zombie Witch kept the best-looking zombies she had collected around her and indulged in a <ruby>necrophilia<rt>corpse reverse harem</rt></ruby>.[^1]
+The Zombie Witch, it turned out, kept the best-looking zombies she had collected at her side and indulged in a <ruby>necrophilia<rt>corpse reverse harem</rt></ruby>.[^1]
 
 Even Handa was seriously creeped out.
 
-A year of extreme survival had warped Handa's sensibilities beyond repair, but even he could not understand the witches' sensibilities.
+A year of extreme survival had knocked Handa's sensibilities out of whack for good, but even he couldn't understand how witches thought.
 
-Anyway, Bunkyo Ward had no corpses and was pleasant to live in, and Handa quickly came to like the district.
+Anyway, Bunkyo Ward had no corpses and was a nice place to live, and Handa quickly grew to like it.
 
-The Flower Witch's district had good public safety, but after living in Bunkyo Ward, he understood why the Flower Witch's people complained. Signs of the apocalypse were still everywhere, but everyone was bright-eyed and lively with hope for rebuilding.
+The Flower Witch's district had been safe enough, but living in Bunkyo Ward, he could see why her people had grumbled. Traces of the hellish apocalypse were still everywhere, yet everyone here was lively, their eyes shining with hope for the recovery.
 
-At the end of every month, Bunkyo Ward held a barter market, where supplies were brought in from all over Tokyo. Currency had lost its value, so everything was bartered, but there were oddballs trying to trade precious alcohol for valuable trading cards from before civilization collapsed. Just watching never got boring.
+At the end of every month, Bunkyo Ward held a barter market, and supplies poured in from all over Tokyo. Money was worthless, so everything was a straight trade, and there were oddballs trying to swap precious liquor for pricey pre-collapse trading cards. It was fun just to watch.
 
-The food rations were stable and varied. The portions were small, but they were nutritionally balanced, like modest school lunches.
+The food rations were reliable and colorful too. The portions were small, but nutritionally balanced, like a modest school lunch.
 
-The response to monster damage was amazingly quick. Once, Handa saw the Foresight Mage hurry over to a manhole while checking a pocket watch. The moment a giant frog as big as a calf jumped out, he punched clean through its skull and killed it instantly, then hurried away.
+Monster incidents were handled amazingly fast. Handa once saw the Foresight Mage bustle up to a manhole, glancing at a pocket watch. The instant a frog the size of a calf burst out of it, he punched clean through its skull, killing it on the spot, and hurried off again.
 
-Apparently he could not foresee every monster appearance, but seeing him get ahead of the danger and prevent damage in person made him seem incredibly dependable.
+He apparently couldn't foresee every monster, but once Handa had seen him head off an attack in person, the man seemed incredibly dependable.
 
-The public bathhouse that only opened on Sundays also deserved special mention.
+The public bathhouse, open on Sundays only, also deserved a mention.
 
-The bathhouse, which had opened not long after Handa entered university, was apparently set up at the medical team's suggestion. They had passionately argued that even if it used large amounts of water and fuel, keeping ward residents clean had major long-term benefits, and their proposal was accepted.
+It had opened soon after Handa started university, apparently at the medical team's urging. They had argued passionately that even if it used up huge amounts of water and fuel, keeping residents clean would pay off in the long run, and the proposal went through.
 
-Even when the bathhouse was packed wall to wall, Handa was very happy to be able to bathe once a week. It was completely different from wiping his body with a wet towel.
+The bath was packed like a can of sardines, but getting to soak once a week still made Handa very happy. It beat wiping himself down with a wet towel by a mile.
 
-In Bunkyo Ward, most things moved efficiently and in good order.
+Most things in Bunkyo Ward ran efficiently and in good order.
 
-That was probably thanks to the Foresight Mage's magic. Handa could not have been more grateful as a ward resident, but it worried him that the Foresight Mage seemed more worn down every time he saw him.
+That was probably the Foresight Mage's magic at work. As a resident, Handa couldn't have been more grateful, but it worried him that the man looked more haggard every time he saw him.
 
-The best leader Handa knew was directing excellent people, so it made sense that Bunkyo Ward's rebuilding had pulled ahead. The Foresight Mage was undeniably the backbone of Bunkyo Ward.
+The best leader Handa had ever known was directing a team of talented people, so no wonder Bunkyo Ward's recovery was a cut above the rest. In name and in fact, the Foresight Mage was the pillar holding Bunkyo Ward up.
 
-But just as Minato Ward had been razed and its residents scattered after the Bloodsucking Mage died, Bunkyo Ward would immediately fall into chaos if the Foresight Mage disappeared.
+But just as Minato Ward had been razed and its residents scattered when the Bloodsucking Mage died, Bunkyo Ward would fall into chaos overnight if the Foresight Mage disappeared.
 
-Professor Ohinata's short speech before class—that Tokyo Magic University existed to develop the technology and personnel needed to keep that from happening—hit home for Handa, who had fully settled into Bunkyo Ward.
+That was exactly why Tokyo Magic University existed, Professor Ohinata had said in a short speech before class: to develop the technology and people to keep it from happening. By then Handa felt right at home in Bunkyo Ward, and her words struck a chord.
 
-As he came to like Bunkyo Ward, he also grew attached to the university and its classes.
+Once he liked Bunkyo Ward, he grew attached to the university and his classes too.
 
-For now, he was only benefiting from Bunkyo Ward, but he began to want to repay it.
+For now, all he did was benefit from Bunkyo Ward, but he started to want to pay it back.
 
-After the commotion over the recall of the general-purpose magic wands used in class, Handa examined the wand that had been improved and returned to him in his room at the student dorm.
+After the uproar over the recall of the general-purpose magic wands used in class, Handa sat in his dorm room examining the wand that had come back to him, improved.
 
-According to Professor Ohinata, a backlash-prevention mechanism had been built into the wand's handle. At the start of that day's class, they had been taught the right way to hold a wand and the principles of the backlash-prevention mechanism.
+According to Professor Ohinata, a backlash-prevention mechanism had been built into the handle, and at the start of class that day, they'd had a lesson on how to hold a wand properly and how the mechanism worked.
 
-The stance was one thing. Even if he understood the mechanism's principles, they were not easy to copy (how was he supposed to prepare a reverberatory furnace?). But Handa was very interested.
+The grip was simple enough, but even if he understood the mechanism, it wasn't something he could easily copy (how was he supposed to get his hands on a reverberatory furnace?). Still, it fascinated him.
 
-Handa had worked at a plumbing shop for a long time. His manager had drilled him on all sorts of knowledge that sounded useful on the job but was not, so he knew a fair amount about fluid mechanics.
+Handa had worked at a plumbing shop for years. His boss had drilled all sorts of knowledge into him that seemed like it should come in handy on the job but never did, so he knew a fair bit about fluid mechanics.
 
-Knowledge he had nearly forgotten amid his turbulent days came back to him when he heard the explanation of the backlash-prevention mechanism.
+Hearing the backlash-prevention mechanism explained brought back knowledge he'd half forgotten in all the upheaval.
 
-The backlash-prevention mechanism apparently worked because magic-power loss occurred when backflowing magic power passed through a rod of melt-recast Gremlin.
+The mechanism supposedly relied on magic-power loss: when backflowing magic power passed through a rod of melt-recast Gremlin, some of it was lost along the way.
 
-In other words, magic power was flowing through a pipe.
+In other words: magic power, flowing, through a pipe.
 
-He knew it was an intuition with holes in it, not even a theory, but it felt like water flowing through a water pipe. Handa thought about the heart of the problem and its solution.
+He knew himself it was more a hunch full of holes than a theory, but it felt just like water running through a water pipe, and he found himself thinking about the heart of the problem and how to solve it.
 
-Then, to try one idea, Handa began taking apart the magic wand he had been forbidden to disassemble.
+Then, to test an idea, Handa started taking apart the magic wand he had been told never to disassemble.
 
-Magic wands were given to students after graduation. Until they graduated, they were only loaned items, university property. They had to be treated carefully, and taking one apart was out of the question. But Handa gave in to curiosity.
+Magic wands were awarded at graduation. Until then, they were only on loan, university property, and had to be handled with care. Taking one apart was out of the question. But Handa's curiosity won.
 
-According to Handa's idea, the mechanism should work better if melt-recast Gremlin were shaped like a Tesla valve instead of a rod.
+By his reasoning, the mechanism should work better if the melt-recast Gremlin were shaped like a Tesla valve instead of a rod.
 
-Backflowing magic power inside a straight pipe would of course flow straight through at full force.
+In a straight pipe, backflowing magic power would naturally rush straight through at full force.
 
-So he would change the pipe's shape, making the backflowing magic power create turbulence and vortices inside it. If changing the shape disturbed the flow and weakened the force of the backflowing magic power, he could expect a huge improvement in the magic-backlash reduction rate.
+So the answer was to change the pipe's shape and make the backflowing magic power churn into turbulence and eddies inside it. If the new shape disrupted the flow and sapped its force, he could expect the magic-backlash reduction rate to jump dramatically.
 
-That was if backflowing magic power moved through melt-recast Gremlin in the same way fluid did, anyway...
+That was assuming backflowing magic power moved through melt-recast Gremlin the way a fluid did, anyway...
 
-Handa was not a mage, so he could not know or sense how magic power flowed. The only way to verify it was to try it.
+Handa wasn't a mage, so he had no idea how magic power flowed and couldn't sense it either. The only way to check was to try.
 
-He was not trying to pull off the freakishly intricate processing beyond human understanding seen in Professor Ohinata's beloved dodecahedral fractal wand Aleister. He only intended to shave a straight rod a little and see how it felt.
+It wasn't as if he meant to attempt some freakishly intricate, superhuman machining like Professor Ohinata's beloved dodecahedral fractal wand Aleister. He only meant to shave the straight rod a little and get a feel for it.
 
-Thinking his own machining skills should be enough for that much, Handa picked up his tools and got to work. Within a few dozen seconds, he broke the melt-recast Gremlin into several pieces of different sizes.
+Surely even his skills could manage that much. Handa picked up his tools and set to work, and within a few dozen seconds, he had broken the melt-recast Gremlin into several pieces, big and small.
 
-The first cut had made him think he had gotten the hang of it. But the moment he tried to cut the next piece the same way, it cracked for some inexplicable reason. The crack spread through the whole thing in an instant and broke it apart.
+After shaving the first bit, he thought he'd gotten the hang of it. But the instant he tried the next bit the same way, it cracked in a way that made no sense, and the crack raced through the whole rod and split it apart.
 
 Handa went pale.
 
-He had done it.
+Now he'd done it.
 
-It was not just chipped a little. It was broken so spectacularly that there was no excuse he could make.
+This was no little chip. It had broken so spectacularly that no excuse could cover it.
 
-He had known it was difficult to process, but he had not thought it was this delicate.
+He'd known in theory that it was hard to work, but he'd never imagined it was this delicate.
 
-Gremlin should have been stronger, but apparently he had unintentionally focused the impact on a particularly weak cleavage plane.
+Gremlin was supposed to be tougher than that. Apparently he'd happened to focus the force right on an especially weak cleavage plane.
 
-After sitting on his bed holding his head for nearly an hour, thinking up excuses and cover-ups, Handa did the honest thing and went to the president's office with the broken magic wand.
+Handa sat on his bed clutching his head for the better part of an hour, thinking up excuses and cover-ups. Then he did the honest thing and took the broken wand to the president's office.
 
-If the president had been older than him, he would have tried to hide it successfully. But he did not feel right trying to cover up his mistake from a thirteen-year-old girl. It was too pathetic for an adult. Going to apologize was pathetic too, but still.
+If the president had been older than him, he would have chosen to cover it up, and done it well. But hiding his mistake from a thirteen-year-old girl didn't sit right with him. It was just too pathetic for an adult. Not that going to apologize was much better.
 
-After hearing Handa explain what happened in the president's office, Professor Ohinata lowered her animal ears and let her tail droop limply. She folded her arms, looking plainly troubled.
+Professor Ohinata heard his explanation in the president's office, then flattened her animal ears and let her tail droop limply. She folded her arms, visibly troubled.
 
 “Hmm, this is a problem.”
 
 “I'm sorry...”
 
-“Oh, it's all right. I'll take care of it. You took it apart and broke it for an experiment, out of academic curiosity rather than as a prank, correct? As the head of a place of learning, I must never fault you for that.”
+“Oh, it's all right. I'll take care of it. You took it apart and broke it for an experiment, out of academic curiosity rather than as a prank, correct? As the head of a place of learning, I could never fault you for that.”
 
 “...Um, pardon me, but are you really thirteen?”
 
-“I am, though.”
+“I am. Why?”
 
-Professor Ohinata looked as cute as any girl her age when she tilted her head, but her words and actions were those of an experienced educator. Handa felt even more pathetic.
+When she tilted her head, Professor Ohinata looked as cute as any girl her age, but she talked and acted like a seasoned educator. Handa felt more pathetic than ever.
 
-Professor Ohinata stood with her arms folded for a while, humming as she thought, then finally clapped her hands and said brightly.
-
-“Let's see. How about this, Handa-san?”
+She kept her arms folded for a while, humming as she mulled it over, until at last she clapped her hands. “Let's see,” she said brightly. “How about this, Handa-san?”
 
 “Y-Yes?”
 
-“Would you like to try becoming the professor of Gremlin engineering when we establish it next year?”
+“How would you like to be the professor of Gremlin engineering when we launch it next year?”
 
-“What?”
+“Pardon?”
 
-Thinking something was wrong with his ears, he asked again. Professor Ohinata repeated the same words with a friendly smile.
+Thinking his ears must be playing tricks on him, he asked again, and Professor Ohinata repeated herself with a warm smile.
 
-He had not misheard her.
+He hadn't misheard.
 
-“Handa-san, your idea is theoretically sound and wonderful. Not even professional Wand Makers thought of it. And if it broke during your second cut, that means you managed to cut it once, right? With whatever tools you had on hand, too. Doing that on your first encounter with the material is truly, truly amazing! None of the applicants for the Gremlin engineering professor position we're recruiting for could do the same thing. You could call yourself the second-best in the world!”
+“Your idea is wonderful, and theoretically sound too. Not even professional Wand Makers thought of it. And if it broke on your second cut, that means you managed one cut, right? With whatever tools you had lying around, no less. Doing that on your very first try is truly, truly amazing! None of the applicants for our Gremlin engineering professorship could do the same. You could call yourself the second-best in the world!”
 
-“I-I see. But it was only once. It was probably an accident. Even if you praise me that much...”
+“W-Well... But it was only once. It must have been a fluke. There's no need to flatter me that much...”
 
-“Even if cutting it was an accident, the idea is real. Handa-san, you are far, far more amazing than you think. I would really like you to teach that knowledge at the university.”
+“Even if the cut was a fluke, the idea is the real thing. Handa-san, you're far, far more amazing than you think. I would really love for you to teach what you know here at the university.”
 
-“But still, I only ever worked at a plumbing shop. It just so happened that something I learned there was useful this time—or rather, that I tried to make it useful.”
+“No, even so, all I ever did was work at a plumbing shop. This time it just happened, purely by chance, that what I learned there came in handy. Or rather, I only tried to make it come in handy.”
 
-He had come to apologize ready to be expelled, but the conversation had taken an unbelievable turn.
+He had come here to apologize, ready to be expelled, and now the conversation had gotten completely out of hand.
 
-Handa lost his nerve and tried to decline, but Professor Ohinata grasped both his hands and earnestly persuaded him with sparkling eyes, leaving him no way to escape.
+Handa lost his nerve and tried to turn her down, but Professor Ohinata clasped both his hands and pleaded with him, eyes sparkling, until he had nowhere left to run.
 
-“I fully understand that you are not a Gremlin expert right now. I am not asking you to give perfect classes or guide your students from day one.
+“I fully understand that you aren't a Gremlin expert yet. I won't ask you to teach perfect classes or guide your students right from the start.
 
-“But someone has to blaze the trail for Gremlin engineering. Instead of relying entirely on exceptional individual skill that no one else can copy, we need knowledge and techniques that anyone with some aptitude or enthusiasm can reproduce. In other words, we must research Gremlin engineering as an academic field, teach it, and spread it.
+“But someone has to blaze the trail for Gremlin engineering. We can't rely forever on one person's exceptional skill that no one else can copy. We need knowledge and techniques that anyone with some aptitude or enthusiasm can reproduce. In other words, Gremlin engineering has to be researched, taught, and spread as an academic field.
 
-“If anyone can do that, Handa-san, it's you. I am certain of it.”
+“If anyone can do that, Handa-san, it's you. I'm certain of it.”
 
-“B-But, me becoming a university professor...”
+“B-But really. Me, a university professor...”
 
-“It will be all right! Our university has no history. It was only just born. Think of yourself as growing from zero alongside it, and don't put too much pressure on yourself. If you decide you absolutely cannot do it, you may quit anytime. What do you say?”
+“It'll be fine! Our university has no history at all. It was only just born. Just think of it as starting from zero and growing up alongside us, and take it easy. If you ever feel you truly can't do it, you can quit anytime. So, what do you say?”
 
 “Uh...”
 
-“Could you please do it?”
+“Won't you, please?”
 
 ![p093.jpg](images/p093.jpg)
 
-Faced with her pleading, upward look, Handa gave in.
+When she looked up at him like that and begged, Handa gave in.
 
-“A-All right. I'll try it. But please, don't expect too much of me.”
+“A-All right. I'll give it a try. But please, really, don't expect much.”
 
-“Thank you very much! If you don't want me to expect anything, I won't, but I will trust you, all right? I know you weren't interested in class at first, but then you got interested and started working hard. I noticed, Handa-san! I believe you'll do the same with your work as a professor!”
+“Thank you so much! If you don't want me to expect anything, I won't, but I will trust you, all right? You weren't interested in class at first, but then you got interested and started working hard. I noticed all of that, Handa-san! I believe it'll be the same with your work as a professor!”
 
 “Haha...”
 
-Normally, those words would have sounded like nothing but flattery, but from Professor Ohinata, they sounded completely sincere.
+From anyone else, it would have sounded like plain flattery, but coming from Professor Ohinata, it sounded like nothing but the honest truth.
 
-Trust made him want to live up to it. Especially in a world where it was precious.
+When someone trusted you, you wanted to live up to it. Especially in a world where trust was so precious.
 
-And that was how Handa Sakunosuke became a professor in the Department of Gremlin Engineering at Tokyo Magic University.
+And that was how Handa Sakunosuke became a professor in Tokyo Magic University's Department of Gremlin Engineering.
 
 ## Translator Notes
 

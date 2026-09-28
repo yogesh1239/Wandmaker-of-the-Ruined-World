@@ -1,108 +1,108 @@
-The Blue Witch and Ori Kenshi had known each other for nearly four years.
+The Blue Witch and Ori Kenshi had known each other for almost four years.
 
-Long acquaintance meant deep understanding. The Blue Witch could tell that Ori, absorbed in Gremlin processing in his workshop again today, would not be coming back to reality for a while.
+The longer you knew someone, the better you understood them. One look at Ori, absorbed in Gremlin processing in his workshop yet again, told the Blue Witch he wouldn't be coming back to reality anytime soon.
 
-Ori was hopeless at communicating. The more the Blue Witch understood Ori, the less he seemed to understand her. Even when she wanted to talk more, wanted to know more, Ori was slow to respond. It was like pushing on a curtain.
+Ori was hopeless at communicating. Ori didn't understand the Blue Witch nearly as well as she understood him. She wanted to talk more and learn more about him, but every attempt got the same sluggish response. It was like pushing on a curtain.
 
-Part of her thought that unless she was clearer and more forceful, none of her feelings would get across. But she also thought that if she pushed too hard and scared him, it would have the opposite effect. It was frustrating.
+Maybe she needed to be clearer and more forceful, or none of her feelings would ever reach him. But if she pushed too hard and scared him, that would only backfire. It was frustrating.
 
-The Blue Witch quietly left the workshop without making a sound. After thinking for a bit, she decided to feed Ori's pets.
+The Blue Witch slipped quietly out of the workshop. After a moment's thought, she decided to feed Ori's pets.
 
-There was no way Ori, who forgot even to eat or sleep when he was focused, would remember to feed his pets. Supporting him in things like that was also the Blue Witch's role. Despite appearances, Ori was conscientious. He normally did not notice people looking out for him, but on the rare occasions when he did, he thanked them sincerely. He was cute like that.
+When Ori got focused enough to forget food and sleep, there was no chance he'd remember to feed his pets. Looking after things like that was part of the Blue Witch's job too. Despite appearances, Ori was conscientious. He rarely noticed when someone looked after him, but when he did, his thanks were always sincere. He was cute like that.
 
-She took food from the food box kept high on a shelf where the fire salamanders could not reach, then looked for the three fire salamanders. When she listened closely, she heard their faint, distinctive meeping. Following it, the Blue Witch headed for the kitchen.
+She took some food from the box kept high on a shelf, safely out of reach of the <ruby>lizards<rt>fire salamanders</rt></ruby>, then went looking for all three. When she listened closely, she caught the faint sound of their distinctive meeping and followed it to the kitchen.
 
-The floor of Ori's kitchen was bare concrete, with conspicuous patches over its cracks. It had the look of an old traditional house. The smell of smoke and seasonings soaked into the whole room showed how often Ori cooked for himself.
+Ori's kitchen had a bare concrete floor, its cracks covered in conspicuous patches, and all the character of an old traditional house. The smells of smoke and seasoning permeating the room made it clear how often he cooked for himself.
 
-Homemade jars of miso, salt, and soy sauce lined the shelf mounted on the wall by the sink, each with a scrap of paper neatly stuck to it listing its expiration date. Beside a half-finished mug with ice in it, Hendensho, the magic wand he had probably used to make the ice, had been left lying around.
+Homemade crocks of miso, salt, and soy sauce lined a shelf on the wall by the sink, each neatly labeled with a scrap of paper bearing its expiration date. Ori had left Hendensho beside a half-finished mug with ice in it, probably after using the magic wand to make the ice.
 
-On the cutting board next to the sink in that kitchen was one fire salamander. From its slow movements and vacant-looking face, it was probably Sekitan.
+One fire salamander sat on the cutting board beside the sink. Judging by its leisurely movements and vacant expression, it was probably Sekitan.
 
-At first, the Blue Witch had not been able to tell the three fire salamanders apart. But after spending some time with them, she had started to see the differences. The palm-sized little fire salamanders looked the same at a glance, but they each had surprisingly strong personalities.
+At first, the Blue Witch hadn't been able to tell the three fire salamanders apart. After spending some time with them, though, she had begun to see the differences. The palm-sized creatures might look identical at a glance, but each had a surprisingly distinct personality.
 
 “Mi, mi, mi, mimi...”
 
-Sekitan had claimed the cutting board and was working hard to sink its teeth into a plump sweet potato bigger than its own body. It clung to the sweet potato with both front paws and steadily gnawed at it. Didn't fire salamanders eat oil and coal? As the Blue Witch watched in wonder, her question was quickly answered.
+Sekitan had claimed the cutting board and was working hard to sink its teeth into a plump sweet potato bigger than its own body. Clinging to it with both front paws, it gnawed away. Weren't fire salamanders supposed to eat oil and coal? As the Blue Witch watched in puzzlement, she soon got her answer.
 
 Sekitan was not eating the sweet potato. It was breaking it apart.
 
-It gnawed the big sweet potato into small pieces, then tried to sweep them into a frying pan with its tail, spilling them all over the floor.
+It gnawed the sweet potato into small pieces, then tried to sweep them into a frying pan with its tail and sent them tumbling all over the floor.
 
 “Mi. Mimi, mimimi.”
 
-When it had finished breaking up the sweet potato, it stood on its hind legs and stretched its front paws toward the seasonings on the shelf, trying somehow to reach them. But it was nowhere near tall enough. After wobbling and reaching for a while, it fell over with a plop and seemed to give up.
+Once it had finished breaking up the sweet potato, it stood on its hind legs and reached for the seasonings on the shelf. It wasn't nearly tall enough. After teetering there for a while, it toppled over with a plop and seemed to give up.
 
-Apparently, it was playing at cooking.
+Apparently, it was pretending to cook.
 
-All three fire salamanders were very attached to Ori and watched him closely. Sekitan in particular often copied Ori or helped him out—or tried to. The Blue Witch had once seen Sekitan repeatedly smack a Gremlin with its front paws, copying Ori's Gremlin processing.
+All three fire salamanders were very attached to Ori and watched him closely. Sekitan in particular often copied him or helped out—or tried to. The Blue Witch had once seen it repeatedly smack a Gremlin with its front paws in imitation of Ori's processing work.
 
-Sekitan lay limp on the cutting board, staring blankly into space. The Blue Witch put some coal in front of it. Without getting up, it slid along on its belly, stretched out its tongue, and swallowed the coal in one bite.
+Sekitan lay sprawled on the cutting board, staring vacantly into space. When the Blue Witch set a piece of coal in front of it, it slid forward on its belly without getting up, flicked out its tongue, and swallowed the coal whole.
 
-Sekitan let out a satisfied, smoky breath through its nose and licked its lips. After staring hard at the place where the coal had been, it raised its head with a puzzled look and looked around.
+Sekitan puffed a satisfied, smoky breath through its nose and licked its lips. It stared at the spot where the coal had been, then raised its head in confusion and looked around.
 
 Only then did it notice the Blue Witch standing close by.
 
-Its mouth fell wide open, its eyes went round, and it froze like a stone statue.
+Its mouth dropped open and its eyes went wide. It froze like a statue.
 
 “Mih...!?”
 
-Sekitan really was laid-back. It seemed not to have noticed the Blue Witch coming close.
+That was Sekitan, all right—so laid-back it hadn't even noticed the Blue Witch approach.
 
-“You can cook, Sekitan? Good job.”
+“So you can cook, Sekitan. Good job.”
 
-The Blue Witch spoke to it gently, as Ori did, but Sekitan tucked in its tail and trembled.
+The Blue Witch spoke as gently as Ori did, but Sekitan tucked its tail in and began to tremble.
 
-As though a ferocious giant beast stood before it, it slowly backed away, twisted itself between the kettle and the chopstick holder, and hid. Sekitan even made the flame on its tail smaller, trying somehow to hide its presence. It was openly on guard.
+As though facing a ferocious giant beast, it backed away inch by inch, squeezed itself between the kettle and the chopstick holder, and hid. It even shrank the flame on its tail in an attempt to erase its presence. Its wariness couldn't have been more obvious.
 
-Not wanting to upset the frightened Sekitan, the Blue Witch raised both hands in surrender and slowly backed away.
+Not wanting to frighten Sekitan any further, the Blue Witch raised both hands in surrender and slowly backed away.
 
-Most monsters judged an opponent's strength by the amount of their magic power. The Blue Witch, who possessed one of the greatest amounts of magic power even among the Transcendents, must have looked terrifying to the fire salamanders.
+Most monsters judged an opponent's strength by the amount of magic power they possessed. Even among the Transcendents, the Blue Witch's reserves ranked near the top. She must have looked terrifying to the fire salamanders.
 
-And Ori, who dealt with such a Blue Witch as an equal, seemed like a mighty protector to the fire salamanders. When Ori was nearby, the fire salamanders were fairly bold even when the Blue Witch came close.
+That made Ori, who treated her as an equal, look like a mighty protector in their eyes. With him nearby, the fire salamanders remained fairly bold even when the Blue Witch approached.
 
-To the fire salamanders, Ori was a reliable boss. To the Blue Witch, he was a man who was always getting himself into danger and making her worry.
+To the fire salamanders, Ori was a reliable boss. To the Blue Witch, he was a man who kept putting himself in danger and making her worry.
 
-After leaving the kitchen, the Blue Witch went to the bedroom next. She could not hear any cries, but she could sense a fire salamander's magic power. The three had very similar magic power, so she could not tell whose was whose, but either Tsubaki or Mokutan was definitely there.
+The Blue Witch left the kitchen and headed for the bedroom. She couldn't hear any cries, but she could sense a fire salamander's magic power. All three felt so similar that she couldn't tell which was which, but either Tsubaki or Mokutan had to be in there.
 
-When she opened the bedroom door, the bottom drawer of the clothes chest beside the bed was slightly open. One fire salamander had its face shoved into the small gap and was wagging its tail happily.
+When she opened the bedroom door, she found the bottom drawer of the clothes chest beside the bed slightly ajar. A fire salamander had shoved its face into the narrow gap and was wagging its tail happily.
 
-After watching for a while, the fire salamander took one of Ori's shirts in its mouth and pulled it out of the chest.
+As she watched, the fire salamander took one of Ori's shirts in its mouth and tugged it out of the chest.
 
-Smaller than Sekitan, letting out needy little cries as it played with Ori's shirt, this fire salamander had to be Mokutan, the neediest of the three.
+This one was smaller than Sekitan and made needy little cries as it played with Ori's shirt. It had to be Mokutan, the clingiest of the three.
 
 “Miimi, miimi, mimimimimi!”
 
-Mokutan happily bit the shirt over and over, making it sticky with drool, and tried to carry off its prize.
+Mokutan happily chewed on the shirt until it was sticky with drool, then tried to carry off its prize.
 
-Then, while dragging the shirt in its mouth, it noticed the big shadow lying before it. It jerked its head up.
+As it dragged the shirt away, it noticed the huge shadow in its path and jerked its head up.
 
 “Mih.”
 
-Mokutan's eyes met the Blue Witch's. It let out a strained cry and dropped the end of the shirt from its mouth. Then it looked around in a panic and shoved its face into the shirt at its feet to hide. Or rather, it thought it was hiding.
+Mokutan's eyes met the Blue Witch's. It let out a strangled cry and dropped the shirt, then looked around in a panic and shoved its face into the fabric at its feet to hide. Or rather, it thought it was hiding.
 
-Mokutan had hidden its head but not its tail, which was sticking all the way out of the shirt.
+Its head was hidden, but its tail stuck right out of the shirt.
 
-The Blue Witch felt sorry for frightening it, but she also thought its small-animal behavior was cute. Those feelings clashed inside her.
+The Blue Witch felt sorry for frightening it, but she also found its timid little-animal behavior terribly cute. The two feelings clashed inside her.
 
-Cute. Mokutan was cute. The Blue Witch liked fluffy little animals, and reptiles did not really appeal to her. But when she watched Mokutan, she started to think fire salamanders might not be so bad.
+Cute. Mokutan was cute. The Blue Witch preferred fluffy little animals and had never cared much for reptiles, but watching Mokutan made her think fire salamanders might not be so bad after all.
 
-The flame on its trembling tail was becoming unstable and starting to scorch the shirt, so the Blue Witch immediately pulled Mokutan out of it.
+The flame on its trembling tail began to sputter and scorch the shirt, so the Blue Witch pulled Mokutan out at once.
 
 “Mii! Mii! Miimi! Miimi!”
 
-When she put the shrieking, thrashing Mokutan down on the floor, it fled in a panic and ran into the gap beneath the safe.
+The moment she set the shrieking, thrashing Mokutan on the floor, it bolted into the gap beneath the safe.
 
-After Sekitan, now Mokutan was afraid of her too. It made her a little sad.
+Now Mokutan was afraid of her too, just like Sekitan. That hurt a little.
 
-Did the fire salamanders remember that the Blue Witch had nearly killed them when they first met? Even if they did not, the difference in their magic power would have made them afraid of her. If they did remember, they would be even more afraid.
+Did the fire salamanders remember that the Blue Witch had nearly killed them when they first met? The difference in their magic power would have frightened them even if they didn't. If they did remember, that would make her all the more terrifying.
 
-The Blue Witch did not think her judgment then had been wrong. It was her role to protect Ori's safety by removing and keeping danger away. She had to make up for his lack of caution. Otherwise, she could not protect a delicate, endangered human who had been living carefree as though the collapse of the world were none of his business.
+The Blue Witch didn't think her judgment at the time had been wrong. Her role was to protect Ori by eliminating danger and keeping it away from him. She had to make up for his complete lack of caution. Otherwise, there was no protecting that fragile, endangered human who lived as though the collapse of the world had nothing to do with him.
 
-Still, once they had been tamed, gotten used to Ori, and become magic beasts, she no longer thought at all about getting rid of the fire salamanders. Maybe she had forgotten the heat once it had passed, or maybe she was just fickle.
+Still, either the danger had faded from memory or she was simply fickle, because once the fire salamanders had been tamed, grown used to Ori, and become magic beasts, she had stopped thinking about getting rid of them altogether.
 
-They were cute, innocent kids. They thought of Ori completely as one of their group, and there was no way they would harm him, at least on purpose. If anything, they would probably try to protect Ori in a crisis.
+They were sweet, innocent creatures. They saw Ori as one of their own, and there was no chance they'd hurt him—not on purpose, at least. If anything, they would probably try to protect him in a crisis.
 
-She was reluctant to go so far as Gremlin implantation just to become friends with them. But it made her sad when they were afraid of her and avoided her. It was selfish.
+Gremlin implantation seemed a bit much just to make friends with them. Even so, it hurt when they feared and avoided her. How selfish.
 
 “Mokutan.”
 
@@ -112,126 +112,192 @@ She was reluctant to go so far as Gremlin implantation just to become friends wi
 
 “...”
 
-When Ori called its name, it wagged its tail in reply, but it stayed silent when the Blue Witch called it. Yet when she shook some charcoal for it to see, it cautiously poked its face out from beneath the safe and followed the charcoal with its eyes.
+Mokutan wagged its tail whenever Ori called its name, but answered the Blue Witch with silence. When she held up a piece of charcoal and shook it, however, Mokutan cautiously poked its face out from under the safe and followed the food with its eyes.
 
-When she moved the charcoal right, it looked right. When she moved it left, it looked left. Cute.
+She moved the charcoal right, and Mokutan looked right. She moved it left, and Mokutan looked left. Cute.
 
-It rumbled longingly in its throat, but did not come closer. So the Blue Witch set the charcoal down and backed away. Only then did it slowly approach the food. The moment it snatched the charcoal in its mouth, it ran back beneath the safe.
+It rumbled longingly in its throat but refused to come any closer, so the Blue Witch set the charcoal down and backed away. Only then did Mokutan creep toward the food. It snatched the charcoal in its mouth and darted straight back under the safe.
 
-Mokutan did not show itself again after that. All she heard was the crisp crunching of charcoal from beneath the safe.
+Mokutan didn't show itself again. All she heard was the crisp crunch of charcoal from beneath the safe.
 
-It could not be helped that it had put up a wall between them. For now, that was good enough.
+She couldn't blame it for keeping its distance. For now, this was good enough.
 
-She had finished feeding Sekitan and Mokutan. Tsubaki was last.
+With Sekitan and Mokutan fed, only Tsubaki remained.
 
-She searched for Tsubaki's magic power, but could not feel it inside the house. It was probably in its nest.
+She searched for Tsubaki's magic power but sensed nothing inside the house. It was probably in its nest.
 
-The Blue Witch headed for the reverberatory furnace on the hill behind the house, where the fire salamanders' nest was.
+The Blue Witch headed for the fire salamanders' nest in the reverberatory furnace on the hill behind the house.
 
-Tsubaki, which was a size bigger than the other two, also had a big attitude. It was the master of the reverberatory furnace it used as a nest. More than Sekitan or Mokutan, it was territorial and never missed its walk—patrol—around the reverberatory furnace.
+Tsubaki was a size bigger than the other two, with an attitude to match, and ruled the reverberatory furnace it used as a nest. It was far more territorial than Sekitan or Mokutan and never missed its daily walk—or rather, patrol—around the furnace.
 
-Sure enough, Tsubaki blocked the Blue Witch's way just as the reverberatory furnace came into view. It must have sensed her magic power and noticed an intruder in its territory.
+Sure enough, Tsubaki blocked the Blue Witch's path as soon as the reverberatory furnace came into view. It must have sensed her magic power and realized an intruder had entered its territory.
 
-Tsubaki took up position in the middle of the narrow mountain path leading to the reverberatory furnace. Looking up at the fearsome witch, it scattered sparks from its mouth and tried to intimidate her.
+Tsubaki planted itself in the middle of the narrow mountain path to the reverberatory furnace. It stared up at the fearsome witch, scattering sparks from its mouth in warning.
 
 “Mimimii! Mimi, mimimi!”
 
-Tsubaki cried loudly and breathed fire, setting the dead branches at the Blue Witch's feet alight. It was worked up, snorting as if to say, “Come any closer and this'll happen to you!”
+Tsubaki screeched and breathed fire, setting the dead branches at the Blue Witch's feet alight. It snorted furiously as if to say, “Come any closer and this'll happen to you!”
 
-So as not to provoke it, the Blue Witch gently pulled a camellia-oil can from her pocket and shook it for Tsubaki to see.
+Taking care not to provoke it, the Blue Witch slowly pulled a can of camellia oil from her pocket and gave it a shake.
 
 “Calm down, Tsubaki. I was wrong to come near your territory. I just brought food in Ori's place.”
 
 “Mi...? Mimi!”
 
-Tsubaki's eyes went to the oil can for a moment, but it quickly came to its senses. It glared sharply at the Blue Witch, then rushed to the reverberatory furnace.
+Tsubaki's eyes darted to the oil can, but it quickly snapped out of it. It gave the Blue Witch a sharp glare, then raced back to the reverberatory furnace.
 
-Then it immediately came back.
+It returned almost at once.
 
-It had a miniature magic wand in its mouth.
+A miniature magic wand was clamped in its mouth.
 
 It was Ori's wand.
 
-At a glance, the Blue Witch could tell that it was practically a toy, with neither multilayer processing nor a backlash-prevention mechanism. But the color of its core had been matched to the red of a fire salamander's scales, and it had been carefully polished. Ori's obsessive attention to detail showed clearly.
+One look told the Blue Witch it was practically a toy, with neither multilayer processing nor a backlash-prevention mechanism. Still, its core matched the red of a fire salamander's scales, and every surface had been carefully polished. Ori's obsessive attention to detail was unmistakable.
 
 “Tsubaki, did Ori make you a wand?”
 
 “Mih!”
 
-Tsubaki held the miniature wand in its mouth, looking proud, and cried out energetically around it.
+Tsubaki held the miniature wand proudly in its mouth and let out an energetic cry around it.
 
-It somehow reminded the Blue Witch of a small dog wagging its tail with a nice-looking stick in its mouth, and she smiled. She understood why Ori doted on the fire salamanders as pets. They were monsters, but they were still animals. If they grew attached to you, they had to be very cute.
+It reminded the Blue Witch of a little dog wagging its tail with a particularly good stick in its mouth, and she smiled. Now she understood why Ori doted on the fire salamanders. They might be monsters, but they were still animals. Once they took a liking to you, they had to be adorable.
 
-“Mih
-mih
+“Mih-mih! Mih-mih... mih-mih??”
 
-! Mihimih... mih
-mih
+Tsubaki seemed to be trying to breathe fire with the wand still in its mouth, but the wand got in the way. Its magic power wasn't converging properly.
 
-??”
+It was trying to focus magic power into both the Gremlin it was born with and the one in the wand, only to lose its grip on both.
 
-Tsubaki seemed to be trying to breathe fire with the wand still in its mouth, but the wand was in the way and it could not do it properly. The Blue Witch could see that its magic power was not converging well.
+The Blue Witch thought for a moment.
 
-It was trying to concentrate magic power on both its own inborn Gremlin and the wand's Gremlin, leaving it unable to focus on either.
-
-After thinking for a moment, the Blue Witch spoke.
-
-“Tsubaki. Why don't you try doing it like this?”
+“Tsubaki. Try doing it like this.”
 
 “Mi...?”
 
-Unable to watch any longer, she showed Tsubaki a demonstration of magic-power control that seemed suited to it. It tilted its head, watched closely, and immediately copied her. Its scattered magic power at once began converging beautifully.
+Unable to just stand by and watch, she showed Tsubaki a form of magic-power control that seemed better suited to it. Tsubaki tilted its head, watched closely, and copied her at once. Its scattered magic power snapped into perfect focus.
 
-The Blue Witch's eyes widened.
+The Blue Witch stared.
 
-Even the Blue Witch, the strongest member of the Tokyo Witches' Council, could not hide her surprise at that talent. It had the intelligence to understand that it should copy the model she showed it. On top of that, being able to copy it immediately was an inborn talent.
+Even the strongest member of the Tokyo Witches' Council couldn't hide her surprise. Tsubaki was smart enough to understand that it should copy her example, and getting it right immediately took pure talent.
 
-With a sharp cry, Tsubaki, still holding the wand in its mouth, breathed fire at the surprised Blue Witch—
+With a sharp cry, Tsubaki breathed fire at the startled Blue Witch, the wand still in its mouth—
 
 “Mi!?”
 
 “Ah!?”
 
-—and the wand it had been holding burned up in an instant and turned to ash.
+—and the wand burned to ash in an instant.
 
 “...”
 
 “...”
 
-White ash trickled from Tsubaki's mouth. It froze, looking shocked.
+Tsubaki froze in shock as pure-white ash trickled from its mouth.
 
 The Blue Witch clutched her head.
 
-She had fallen right into an obvious pitfall. Except for the core, the wand was made of wood. Of course it would burn if it breathed fire with it in its mouth. A fire salamander's firepower would turn it to ash in an instant. It was obvious, but she had not thought that far.
+She had overlooked the obvious. Except for the core, the wand was made of wood. Of course it would burn if Tsubaki breathed fire with it in its mouth. A fire salamander's flames would turn it to ash in an instant. It should have been obvious, but she hadn't thought that far ahead.
 
-She hated herself for being so stupid, and she felt awful for Tsubaki after it burned Ori's present. Her chest hurt with both feelings.
+Between hating herself for being so stupid and feeling awful for Tsubaki after it burned Ori's present, her chest ached.
 
 “T-Tsubaki. Um, sorry...”
 
 “...”
 
-It did not react when she spoke to it. It was blank with shock. It seemed to have even forgotten that the Blue Witch was beside it.
+Tsubaki didn't react. It sat stunned, seemingly oblivious even to the Blue Witch beside it.
 
-Feeling too awkward to stay, the Blue Witch put the whole can of camellia oil before Tsubaki and hurriedly left.
+Unable to bear the awkwardness, the Blue Witch set the entire can of camellia oil in front of Tsubaki and hurried off.
 
-The Blue Witch could neither replace the wand nor comfort Tsubaki. And even if she apologized, she did not know how much it would understand.
+The Blue Witch couldn't replace the wand or comfort Tsubaki. Even if she apologized, who knew how much it would understand?
 
-She had no choice but to tell Ori what had happened and have him somehow get Tsubaki back in a good mood. He could make it a new miniature wand, or take care of it with his specialty head pats. Ori would probably comfort Tsubaki.
+She had no choice but to tell Ori what had happened and ask him to cheer Tsubaki up somehow. He could make it a new miniature wand or soothe it with the head pats he was so good at. Ori could probably comfort it.
 
-She had been feeding the fire salamanders to help Ori, but now she might end up making more work for him. It got her down.
+She'd meant to help Ori by feeding the fire salamanders, but now she might have only made more work for him. The thought left her dejected.
 
-The Blue Witch was the strongest witch, by her own and others' admission, and she had the strongest wand. She could mow down every enemy who stood in her way.
+Everyone, including the Blue Witch herself, agreed that she was the strongest witch, and she wielded the strongest wand. She could mow down every enemy in her path.
 
-But she was bad at problems that could not be solved by defeating an enemy.
+But she was helpless against problems that couldn't be solved by defeating an enemy.
 
-Still, the Blue Witch, who had once been depressed because of that, was not so pessimistic now.
+That helplessness had once left the Blue Witch deeply depressed, but now she wasn't nearly so pessimistic.
 
 ![p284.jpg](images/p284.jpg)
 
-Ori would do the things she could not do.
+Ori would do what she couldn't.
 
-She would do the things Ori could not do.
+She would do what Ori couldn't.
 
-The care of the fire salamanders, and all kinds of unknown threats.
+Whether it was looking after the fire salamanders or facing all kinds of unknown threats.
 
-The Blue Witch wished that they could become close enough to help each other with anything, from small things to important ones.
+The Blue Witch hoped they would grow close enough to help each other with anything, from the smallest matters to the most important.
+
+## 2029 Department of Gremlin Engineering Entrance Exam (Excerpt)
+
+● Answer the following questions (Q1–4). (20 points)
+
+Q1. On the revised Mohs hardness scale, what are the hardness values of Gremlin (a) and magic stone (b)? Choose the most appropriate combination from ① to ④.
+
+① a=11, b=11
+
+② a=11, b=12
+
+③ a=12, b=11
+
+④ a=11, b=10
+
+Q2. Which of the following methods for measuring the amplification ratio of magic-mediating crystals (Gremlins and magic stones) does not exist? Choose the most appropriate option from ① to ④.
+
+① magic-excitation acoustic appraisal
+
+② heated-tourmaline adsorption method
+
+③ magic-power manipulation sensing method
+
+④ specimen-mineral impact comparison method
+
+Q3. When natural milky-white Gremlin (a) and human personal-color Gremlin (b) are marbled together, the rate of increase in magic-power recovery speed varies with the mixing ratio. Which mixing ratio maximizes the rate of increase in magic-power recovery speed? Choose the most appropriate option from ① to ④.
+
+① a:b=6:4
+
+② a:b=2:8
+
+③ a:b=4:6
+
+④ a:b=8:2
+
+Q4. Which of the following monster materials cannot scratch a Gremlin? Choose the most appropriate option from ① to ④.
+
+① dragon claw
+
+② pouch sparrow beak
+
+③ man-eating angel buccal cone
+
+④ shadow-lurking bat fang
+
+## 2029 Department of Gremlin Engineering Entrance Exam — Answers and Explanations
+
+Q1. The answer is ①.
+
+There is no difference in hardness between Gremlins and magic stones. Against heat, however, magic stones, unlike Gremlins, show extremely high resistance, and melting a magic stone at high temperature has not yet been achieved.
+
+Q2. The answer is ④.
+
+Magic-excitation acoustic appraisal exists. In its excited state, a mediating crystal's amplification ratio and sound absorption are in inverse proportion, which makes it possible to gauge the amplification ratio by ear.
+
+The heated-tourmaline adsorption method exists. Tourmaline is a mineral that generates a faint electric charge when heated. By observing how well a 0.01 g tourmaline disk, water-bathed to 100°C, adsorbs to a Gremlin, the amplification ratio can be measured.
+
+The magic-power manipulation sensing method exists. It is a rough estimate of the amplification ratio made through a Transcendent's senses, and it is the least precise of the known methods for measuring amplification ratio.
+
+The specimen-mineral impact comparison method does not exist. It is an error for the specimen-mineral sedimentation comparison method; moreover, the specimen-mineral sedimentation comparison method is used for Gremlin-implantation allergy testing and is unsuitable as a method for measuring the amplification ratio.
+
+Q3. The answer is ②.
+
+The rate of increase in magic-power recovery speed shows a negative peak at a natural milky-white Gremlin to human personal-color Gremlin ratio of 6:4, and a positive peak at 2:8.
+
+Besides the mixing ratio, the rate of increase can also be raised by controlling factors such as temperature and time during production.
+
+Q4. The answer is ③.
+
+Dragons, pouch sparrows, and shadow-lurking bats are all monsters that have spatial-storage belly pouches.
+
+The man-eating angel is a monster mutated from the clione (also called the angel of the drift ice), and its buccal cone is the tentacle it uses to catch prey. The man-eating angel does not have a spatial-storage belly pouch.

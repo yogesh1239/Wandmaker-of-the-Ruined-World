@@ -89,3 +89,34 @@
 ### Post-Migration Corrections
 - **source line 328 (巨神[きよじん]殺し)**: “<ruby>Giant Slayer<rt>Giant God Slayer</rt></ruby>” → “<ruby>Giant Slayer<rt>Giant-God Slayer</rt></ruby>” — accuracy (disambiguate written compound)
 - **source lines 334 and terminal note**: “Giant God Slayer” → “Giant-God Slayer” — glossary
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–241 / JP lines 1–358; agent `reedit_v3c13_s1`; model `gpt-5.6-sol` at high reasoning; ~82 edits). Flow: mean sentence length 15.6 → 14.2 words; short-sentence share 16.7% → 18.6%; runs 0 → 2; words 2547 → 2390. No past-tense reversals.
+
+### Accuracy Fixes
+- **貨幣価値の改定**: “the currency's value would be revised” → “the currency values would be redenominated” — accuracy
+- **魔女集会**: “Tokyo Witches' Council” → “Witches' Council” for the bare short form — glossary
+- **強大な魔物が問題だった**: repaired the fragment as “Their problem was a powerful monster...” — accuracy
+- **縄張りに入らなければ襲ってこない**: “As long as you stayed out, it left you alone” — accuracy
+- **大狼氏の協力を得て評価した**: clarified that the evaluation was carried out with the Great Wolf's help — referent
+- [polish] “Magic wands are firearms too” → “Magic wands double as firearms,” and the failure/break-apart explanation was rebuilt in English order — polish
+
+### Register and Flow
+Kept the two new three-sentence runs because they carry deliberate source emphasis and comedy rather than translationese. Ori's immediate “Now's their time...” remained present-tense direct thought.
+
+### Formatting Confirmed
+- The Giant Slayer note, ruby, and final `## Translator Notes` section remained intact; `check_reedit.py` PASS (FLOW ok; baseline not choppy); `run_chapter_gates.py --unit 3 --chapter 13` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 82 changes)
+- **砲台鳳仙花の繁殖・運用によって** (JP 34): restored the によって link; the blood tests and turret balsams now enable the Katsushika cultivation instead of standing as unrelated facts — accuracy
+- **今こそ日本全国に羽ばたく時。** (JP 352): "Now's their time" → "Now was their time"; no direct-thought signal, and it completes the past-tense thought of the line before — tense
+- **街の方では** (JP 7): "the city had announced" → "it had been announced in town" (location, not announcer) — accuracy
+- **貨幣価値が改定される** (JP 10): "values would be redenominated" → "the new currency would come with a revaluation" — register
+- **是非頑張ってもらいたい** (JP 49): "I could only hope ... managed to" → "I really hoped ... would do a good job" (eager wish, not resignation) — accuracy
+- **北海道魔獣農場でも同時に** (JP 52): restored でも as "also" — accuracy
+- **手を出せずにいるうちに** (JP 88): "Since no one dared" → "While no one could" — accuracy
+- **運用できた方が良いようだ** (JP 199): restored the ようだ hedge ("it seemed best") — accuracy
+- **上手く杖に組み込めそうだ** (JP 202): restored the そう hedge ("It looked like I could build them into a wand without much trouble") — accuracy
+- **色々やったが中折れ式が良さそうだ** (JP 208): fixed the dangling modifier ("I tried several options, and...") — worse
+- **俺の天才的作品の数々** (JP 349): "my brilliant creations" → "my many works of genius" (Ori's bragging, 数々 restored) — voice

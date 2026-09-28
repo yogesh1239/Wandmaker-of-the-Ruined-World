@@ -1,56 +1,56 @@
 Five days had passed since I shipped custom-made, high-end magic wands to the big shots of the Tokyo Witches' Council via Blue Witch delivery.
 
-Each order form had its owner's personality all over it, which got me fired up and made the wands fun to build.
+Each order form had its owner's personality all over it, so building the wands got me fired up and turned out to be a lot of fun.
 
-I couldn't get magic stones, so I made the wands with Gremlins instead, but the Hachioji Witch specified the color of hers. She asked for black, so the Blue Witch gave me a matte jet-black Gremlin from a man-eating monster bird she said she'd hunted long ago.
+Magic stones weren't available, so every wand used a Gremlin, but the Hachioji Witch specified what color she wanted. She asked for black, so the Blue Witch gave me a matte jet-black Gremlin from a man-eating monster bird she said she'd hunted long ago.
 
-The Eyeball Witch, who ordered two, hadn't specified a design. But she said one was a gift, so I put care into not just the wand design but the gift box too.
+The Eyeball Witch ordered two and didn't specify a design, but since she said one was a gift, I went all out on the gift box as well as the wand itself.
 
-The Flame Witch requested that the wand be sturdy. She said it would see heavy use in battle and that she'd sometimes bash things with it, so I reshaped some steel and used it for the wand's core. Even then, I assumed it might break, so I made it easy to maintain and included two replacement handles.
+The Flame Witch wanted a sturdy wand she could use hard in battle and sometimes bash things with, so I reshaped some steel for the core. Even so, I assumed it would break eventually, so I made it easy to maintain and threw in two replacement handles.
 
-The Foresight Mage had made just one desperate request in writing: a backlash-prevention mechanism with its performance pushed to the limit. Of course, I poured every technique I had into making it as precise as possible.
+The Foresight Mage asked for one thing and one thing only, in a desperate-sounding letter: a backlash-prevention mechanism with its performance pushed to the absolute limit. Naturally, I poured every technique I had into it and made it as precise as I possibly could.
 
-I was proud of how every single one came out.
+Every single one came out great.
 
-It's surprising that I haven't gotten an order from the Dragon Witch, but there's no way she doesn't want one. The Blue Witch is probably shutting her out. Having her handle things as my manager is a huge help.
+It was surprising that I hadn't gotten an order from the Dragon Witch, but there was no way she didn't want one, so the Blue Witch was probably shutting her out. Having her as my manager was a real help.
 
-But for the last five days, the Blue Witch hasn't come by, which is unusual.
+But for those five days, the Blue Witch hadn't come by once, which wasn't like her.
 
-She probably has her own stuff to do, but I want to hear how the customers like what they've gotten, so I headed to Ome to ask, bringing a card set for crushing the Blue Witch's defense-heavy deck with my ultra-firepower deck.
+She probably had her own stuff to do, but I wanted to hear how the customers liked their wands. So I headed to Ome to ask, and while I was at it, I brought along a card set for crushing the Blue Witch's defense-heavy deck with my ultra-firepower deck.
 
-I found the Blue Witch's house without getting lost, but something weird was going on. I quickly hid behind a vine-covered utility pole.
+I made it to the Blue Witch's house without getting lost, but something weird was going on, and I ducked behind a vine-covered utility pole.
 
 An oni woman was sitting cross-legged in front of the witch's house.
 
-That thing is probably a witch, right?
+That thing's a witch, right? Probably?
 
-The Blue Witch forbade anyone but Ome residents from entering Ome.
+The Blue Witch banned anyone who wasn't an Ome resident from entering Ome.
 
-She generally beat intruders to a pulp and threw them out as soon as she found them, or killed them.
+As a rule, she beat intruders to a pulp and threw them out the moment she found them, or just killed them.
 
-No ordinary person would be sitting there that boldly, and she didn't look like a monster, so she had to be a witch.
+No ordinary person would plop down there that brazenly, and she didn't look like a monster, so she had to be a witch.
 
-That witch was huge enough that I could tell even while she was sitting down. She looked like she'd be over 190 cm tall standing up.
+She was so big I could tell even with her sitting down; standing, she'd probably top 190 cm.
 
-Her boobs were huge too. I'd never seen a chest wrapped in binding cloth that big. Her ripped six-pack was bare, and her stomach looked like it had to be freezing.
+Her boobs were huge too, wrapped in a binding cloth and bigger than any I'd ever seen. Her ripped six-pack was bare, which looked like a good way to catch a chill.
 
-Her black hair was hacked off diagonally across her back, and she had two horns and a baggy biker-gang uniform that made her look like a girl gang boss from hell. But despite the getup, her face was refined and beautiful. That only made her seem like a rich young lady who'd gone delinquent, which was scary in its own way.
+She had two horns, black hair hacked off at a slant across her back, and one of those baggy uniforms biker gangs wear, so she looked like a girl gang boss from hell. Her face didn't match the getup at all, though: she was a refined-looking beauty. That made her seem like a rich young lady who'd gone delinquent, which was scary in its own way.
 
-Whatever her deal is, if she's sitting in front of the house, she probably has business with the Blue Witch. If I step out now, she'll definitely stop me.
+No idea what her deal is, but if she's camped out in front of the house, she must have business with the Blue Witch. If I show myself now, she's definitely going to stop me.
 
-All right! Visit cancelled! Let's go back to Okutama!
+Okay! Visit canceled! Back to Okutama!
 
-I tried to tiptoe away without her noticing, but a little bird perched on the vines around the utility pole I was hiding behind suddenly chirped while pecking at bugs, and the oni woman turned toward me.
+I tried to sneak off on tiptoe before she spotted me, but a little bird pecking at bugs in the vines on my utility pole suddenly let out a chirp, and the oni woman looked my way.
 
-"Huh!!? Are you an Ome resident, by any chance!!?"
+"Huh!!? Wait, are you an Ome resident!!?"
 
 "Eek...!"
 
-The oni woman stood up. She was tall, her boobs were huge, and even her voice was huge.
+On her feet, the oni woman was tall, her boobs were huge, and even her voice was huge.
 
-I couldn't run. I reflexively looked down and shrank in on myself.
+There was no getting away, so on reflex I stared at the ground and shrank in on myself.
 
-Heavy footsteps pounded closer, and a pair of huge feet entered my view as I stared at the asphalt.
+Heavy footsteps stomped toward me, and a pair of huge feet appeared in my view of the asphalt.
 
 Eeeek! Bigfoot! Big! Human! Scary! No!
 
@@ -58,91 +58,85 @@ Eeeek! Bigfoot! Big! Human! Scary! No!
 
 "Don't be so scared!! I'm the Hell Witch!! I'm not going to eat you!!"
 
-"I-Is that so?"
+"R-Really?"
 
 "If you're a good person!!"
 
 "Awaaah...!"
 
-So if I'm a bad person, she means she'll eat me! Nooo!
+So you'll eat me if I'm a bad person? Nooo!
 
-I'm not a bad person! I only made a little money producing copyright-infringing anime goods once, a long time ago! Really, other than that I'm a good person! Don't eat me!
+I'm not a bad person! All I ever did was make a little money off copyright-infringing anime merch, way back when! Really, I'm a good person otherwise! Don't eat me!
 
-"The Witch of Ome won't listen to me, and I'm in trouble!! Could you put in a word for me!!?"
+"The Witch of Ome won't hear me out, and I'm stuck!! Could you talk to her for me!!?"
 
 "U-Um, well..."
 
-While her ridiculously loud voice rattled my eardrums and I shook hard enough to cause an earthquake, I heard the familiar incantation, "<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>," and the oni woman was blown away, rolling onto the road.
+Her ridiculously loud voice rattled my eardrums, and I was shaking hard enough to set off an earthquake when I heard the familiar incantation, "<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>," and the oni woman went flying and tumbled across the road.
 
-Whoa, my savior!
+Whoa, my savior's here!
 
-I dashed over to the Blue Witch, planted in the doorway with Cyanos at the ready, and hid behind her. Saved! Nice!
+The Blue Witch stood planted in the doorway with Cyanos raised, and I dashed over and hid behind her. Phew, saved! Nice one!
 
-Once I was safely behind the strongest wall, the Blue Witch kept Cyanos trained on the Hell Witch as she tried to stand, never letting her guard down, and grumbled irritably under her breath.
+I was breathing easy behind the strongest wall there is when the Blue Witch, keeping Cyanos trained on the Hell Witch as she tried to get up, started grumbling at me under her breath.
 
-"Why did you come? I told you the Hell Witch was following me, so I couldn't visit for a while, and that you shouldn't come here. Remember?"
+"Why did you come? I told you, didn't I? The Hell Witch is hounding me, so I can't come over for a while, and you're not to come here."
 
-"Huh? No, I didn't hear that."
+"Huh? Nobody told me that."
 
-"No, I told you. Through an eyeball familiar."
+"Yes, I did. Through an eyeball familiar."
 
-"Ah, I'd blocked your calls. They go on forever."
+"Ohh, I blocked you. You kept calling and talking forever."
 
-At first, the Blue Witch only used the eyeball familiar to contact me for quick business calls, but little by little, they got longer.
+When the Blue Witch first started contacting me through the eyeball familiar, it was just quick business stuff, but the calls kept getting longer.
 
-Lately, she'd made me listen to pointless chatter for about an hour every night. No wonder I wanted to block her calls.
+Lately she'd been making me sit through about an hour of pointless chatter every night. Who wouldn't block that?
 
-"You blocked my calls!? You idiot, then what's the point of the communicator—<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>. No wonder you never answered. You... Honestly, you...!"
+"You blocked me!? You idiot, then what's the point of a communicator—<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>. So that's why you never answered. You... Honestly, you...!"
 
-The Blue Witch muttered as she blasted away the Hell Witch whenever she tried to come closer.
+The Blue Witch grumbled on, blasting the Hell Witch back with magic every time she tried to come closer.
 
-"Because you only ever call about pointless stuff. Like I care that you put a bird feeder in your yard. Don't feed pests."
+"You only ever call about pointless stuff. Who cares that you put a bird feeder in your yard? Don't feed the pests."
 
-"Shut up. They're cute, okay? It isn't just sparrows—Japanese white-eyes come too, you know. I play your card game with you, and you ignore me?"
+"Shut up. They're cute. And it isn't just sparrows—Japanese white-eyes come too, you know. I play your card game with you, and you ignore me?"
 
-"That's fair...? Sorry. Maybe I was in the wrong."
+"Okay, that's... fair? Sorry. Maybe that's on me."
 
-"Not maybe. You were in the wrong. Because of you, this annoying situation got even more annoying. <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>."
+"Not maybe. It's on you. Thanks to you, an annoying situation just got even more annoying. <ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>."
 
-After being blown away by ice spears over and over, the huge oni woman raised both hands in surrender.
+After the ice spears had sent her flying again and again, the huge oni woman put both hands up in surrender.
 
-But then she flattened herself against the ground in a perfect prostration.
+Or so I thought, until she went straight down on all fours and into a flawless bow, forehead to the ground.
 
-Then she spoke in a sincere, ridiculously loud voice.
-
-"Witch of Ome!! Please, I'm begging you!! Let me meet the Wand Maker!! I'd be breaking my code if I didn't thank my benefactor in person!!"
+Then, in an earnest and ridiculously loud voice, she said, "Witch of Ome!! Look, I'm begging you!! Let me meet the Wand Maker!! I'd be breaking my code if I didn't thank my benefactor in person!!"
 
 The Blue Witch fell silent.
 
 I fell silent too.
 
-You know.
+Hey, you said this was an annoying situation, right?
 
-You called this a troublesome situation.
+But hasn't it kind of turned into an interesting one?
 
-But hasn't this gotten kind of interesting?
+The Wand Maker she's after is standing right in front of her, and she has no clue.
 
-The Wand Maker she's looking for is right in front of her, and she hasn't noticed at all.
+Then again, I probably just look like some card gamer with a deck case, not a Wand Maker. Good thing I kept Hendensho in my inside pocket.
 
-Well, I probably look like a card gamer carrying a deck case, not a Wand Maker. Good thing I've tucked Hendensho into my inner pocket.
+I poked my head out from behind the Blue Witch's back. "Um, this benefactor—what did they do for you?"
 
-I peeked out a little from behind the Blue Witch's back and asked.
+I don't know any oni woman like this.
 
-"Um, this benefactor—what did they do for you?"
+Who even is she? I don't remember doing her any favors.
 
-I don't know an oni woman like this.
+I'd asked like I was somebody else entirely, and the Hell Witch answered with her forehead still ground into the asphalt.
 
-Who is she supposed to be? I don't remember doing her a favor.
-
-Pretending to be someone else, I asked her. The Hell Witch answered with her forehead still pressed against the asphalt.
-
-"They stopped my runaway magic!! For two and a half years!! I'd been suppressing it that whole time!! Adachi Ward was hell!! But thanks to the Wand Maker's wand, I could control my magic and end the runaway magic!! Adachi Ward and I were both freed!!"
+"They stopped my runaway magic!! For two and a half years!! I'd been holding it down that whole time!! Adachi Ward was hell!! But thanks to the Wand Maker's wand, I got my magic under control and got rid of the runaway magic!! Adachi Ward and I are both free!!"
 
 I-I see?
 
-That makes everything click. No wonder I don't remember.
+That explained everything, including why I didn't remember her.
 
-The gift wand the Eyeball Witch had ordered must have ended up in this Hell Witch's hands.
+The gift wand the Eyeball Witch had ordered must have ended up with this Hell Witch.
 
 And the witch's seal had been broken.
 
@@ -150,101 +144,95 @@ And the witch's seal had been broken.
 
 "Don't know. Go home."
 
-The Blue Witch coldly dismissed her, but the Hell Witch stayed prostrated, clearly prepared not to budge.
+The Blue Witch brushed her off cold, but the Hell Witch stayed down in her bow, clearly not about to budge an inch.
 
 That human loudspeaker had scared the hell out of me, but her story had me curious.
 
-She's spent two and a half years suppressing runaway magic?
+She held down runaway magic for two and a half years?
 
-And she used my wand to stop that runaway magic?
+And then she used my wand to stop it?
 
-You hardly ever got real-world usage data that crazy. I had to know what using the wand had been like.
+You almost never get field data that off-the-wall. I have to hear what the wand was like to use.
 
-I whispered to the Blue Witch.
+"I want to ask her a few things," I whispered to the Blue Witch. "Can you let her in?"
 
-"I want to ask her a few things. Can you let her in?"
+"...You sure? She's not rotten at heart, but she is a witch who eats people."
 
-"...Are you sure? She isn't evil at heart, but she's a man-eating witch."
+"Honestly, I'm scared, but I'm curious. If she tries anything, you'll protect me, right, Blue Witch?"
 
-"Honestly, I'm scared, but I'm curious. Even if she tries anything, the Blue Witch will protect me, right?"
+"Well, yes, but..."
 
-"That's true, but..."
-
-"But I don't want to talk to her, so ask my questions for me. I'll just listen."
+"But I don't want to talk to her. So you ask her my questions for me. I'll just sit next to you and listen."
 
 "Screw you. Talk to her yourself."
 
 The Blue Witch clicked her tongue, got the Hell Witch to her feet, and invited her inside.
 
-Ugh, I have to talk to her? I don't wanna... But this is for valuable data. I'll write it off as a necessary expense and get every last detail out of her.
+Ugh, so I have to do the talking? I don't wanna... but it's for valuable data, so I'll chalk it up as a necessary expense and squeeze every last detail out of her.
 
 ---
 
-The Blue Witch led the Hell Witch into the living room, made only two cups of tea, and sat at the table. The Blue Witch and I sat side by side, with the Hell Witch across from us.
+The Blue Witch showed the Hell Witch into the living room, made just two cups of tea, and sat down at the table, with me beside her and the Hell Witch across from us.
 
-I whispered in the Blue Witch's ear.
-
-"You forgot a cup. There are three people in here."
+"You forgot a cup," I whispered into the Blue Witch's ear. "There are three of us in here."
 
 "I know. I did it on purpose."
 
 "Huh...? What do you mean...?"
 
-"I didn't put one out because she's not welcome. Get it? It means, 'There's no tea for you.'"
+"She's not welcome, so she doesn't get one. Get it? It means, 'There's no tea for you.'"
 
-"Oh, I get it. I think I saw something like this in an old daytime drama once. A nasty mother-in-law kept harassing her son's wife after she moved in. That's so underhanded. Really feels like one of the worst things about women."
+"Ahh, gotcha? Come to think of it, I saw something like this in some old daytime drama. A nasty mother-in-law kept harassing her son's wife when she came to the house. So underhanded. Women at their worst, you know?"
 
 "..."
 
-The Blue Witch silently went to get a third cup.
+Without a word, the Blue Witch went to get a third cup.
 
-What the hell? You gave her one anyway. Then you should've put one out from the start.
+What, so you're giving her one after all? Then just put it out in the first place.
 
-The Hell Witch had watched the exchange between the Blue Witch and me, looking puzzled at first, then smiling. When she accepted the cup of tea, she thanked the Blue Witch at full volume, sat up straight, and got down to business.
+The Hell Witch had watched our exchange looking puzzled at first, then all smiles. When she got her cup of tea, she said thanks at the top of her lungs, straightened up, and got to the point.
 
 "So, does this mean you'll let me meet the Wand Maker!!?"
 
-I looked at the Blue Witch, but all she did was take a sip of tea, so I reluctantly answered it myself.
+I looked at the Blue Witch, but she just sipped her tea and didn't seem about to answer, so I reluctantly did it myself.
 
-"Um, well, I'm that Wand Maker's apprentice. I'll pass your thanks along."
+"Er, um, I'm actually the Wand Maker's apprentice. I'll pass your thanks along."
 
-"So you're apprentice-kun!! Nice to meet you!! Is your master out right now!!? Or could they be sick!!?"
+"So you're apprentice-kun!! Nice to meet you!! Is your master out right now or something!!? Or, don't tell me he's sick!!?"
 
-"Oh, no. He's just got terrible social anxiety and doesn't want to meet people."
+"Oh, no. He's just got crippling social anxiety, so he doesn't like meeting people."
 
-"Hey!! You shouldn't talk badly about your own master!!"
+"Hey!! You shouldn't badmouth your own master!!"
 
 "Eek! S-Sorry! I'm a good person! Don't eat me."
 
-"I said I won't eat you!! I only eat real bad guys!! Sorry, it looks like I'm scaring you!! Don't worry about this loud voice either!! I just ended up like this when I mutated!!"
+"I told you, I'm not gonna eat you!! I only eat real bad guys!! Sorry, I guess I'm kinda scaring you!! And don't mind the loud voice either!! I just ended up like this when I mutated!!"
 
 "R-Right..."
 
-Is she like the Dragon Witch? Having your way of speaking forcibly changed sounds low-key rough.
+So it's like the Dragon Witch's thing? Having the way you talk forcibly changed sounds like a low-key pain.
 
-As I remembered the dragon with her fawning sentence endings, the Hell Witch crossed her arms and groaned.
+While I was thinking of that dragon and her cutesy sentence endings, the Hell Witch folded her arms and groaned.
 
-"Hmm, if he doesn't want to meet me, I guess it can't be helped!!? The Witch of Ome won't tell me anything!! I didn't know why she wouldn't let me meet him, so I had no choice but to sit out there!!"
+"Hmm, if he doesn't want to meet me, I guess there's nothing I can do!!? The Witch of Ome never told me anything, you know!! I couldn't figure out why she wouldn't let me meet him, so all I could do was sit out there!!"
 
 "Hey."
 
 "Shut up."
 
-I poked the Blue Witch's side with my elbow, and she awkwardly looked away.
+I elbowed the Blue Witch in the ribs, and she looked away awkwardly.
 
-You call me socially anxious and socially maladjusted, but you've got some serious issues yourself.
+You're always calling me a socially anxious misfit, but you're pretty messed up yourself, you know.
 
-The oni woman stared up at the ceiling and thought for a moment. Then she nodded, stuck a hand into her pants pocket, and spoke.
+The oni woman looked up at the ceiling for a moment, thinking, then nodded once and dug a hand into her pants pocket. "Then, apprentice-kun!! I want you to give this to your master!! Tell him it's a thank-you gift from the Hell Witch!! If he makes wands, something like this should make good material, right!!?"
 
-"Then, apprentice-kun!! I want you to give this to your master!! It's a thank-you gift from the Hell Witch!! If he makes wands, this kind of thing would make good material, right!!?"
+With that, she set a huge gemstone on the table.
 
-With that, the Hell Witch set a huge gemstone on the table.
+It was a flat stone a little smaller than an open palm, with the vivid color of amber, but unlike amber, it was cloudy and you couldn't see through it.
 
-It was a flat stone just a little smaller than an open hand. It had the rich color of amber, but unlike amber, it was opaque.
+But what really stood out was how beautiful it was!
 
-But its beauty is the most striking thing of all!
-
-I got a jolt.
+It hit me like a jolt.
 
 That unique presence.
 
@@ -252,137 +240,135 @@ That strangely eye-catching appeal.
 
 No doubt about it.
 
-"It's a magic stone! Is it really okay for me to take this!?"
+"It's a magic stone! Are you sure I can have this!?"
 
-"Not you—your master!!?"
+"I mean, not you, your master, okay!!?"
 
-I nodded at her correction and quickly pulled the amber magic stone toward myself before the Hell Witch could change her mind.
+Nodding along to the correction, I slid the amber magic stone over to my side before the Hell Witch could change her mind.
 
-Yes! What an unexpected windfall!
+Yes! Talk about a windfall!
 
-I made a wand out of a Gremlin, and it came back to me as a magic stone!
+I made a wand with a Gremlin, and it came back to me as a magic stone!
 
-This return gift is bugged! Could this get any better?!
+This thank-you gift is bugged! How great is that!?
 
-The Blue Witch looked a little fed up by my undisguised grin and spoke brusquely to the oni woman.
-
-"Hey. Are you sure?"
+"Hey," the Blue Witch said curtly to the oni woman, looking a little fed up with the grin I couldn't hide. "You sure about this?"
 
 "About what!!?"
 
-"Giving away a magic stone that easily."
+"Handing over a magic stone that easily."
 
 "The Edogawa Witch lends hers to people all the time, right!!? What's wrong with that!!?"
 
-"That Edogawa Witch was killed as soon as she lent a magic stone to Iruma. People can't lend and borrow things that casually anymore."
+"That same Edogawa Witch was killed the moment she lent a magic stone to Iruma. The days of lending and borrowing that casually are over."
 
-At the Blue Witch's warning, the Hell Witch spat out her tea and coughed.
+At the Blue Witch's warning, the Hell Witch sprayed out her tea and started coughing.
 
 "Whaaat!!!? Iruma did that!!? To Edogawa!!? He wasn't the kind of guy who'd do that, was he!!?"
 
 "Everyone thought so. That's why nobody knew until it happened. The Edogawa Witch, Crow, Meteor, and the Tachikawa Mage died in the Iruma coup. I killed Iruma. The Arakawa Mage went back home after the coup was put down, so the Flower Witch rules Arakawa Ward now. Oh, Bloodsucking somehow managed to establish communication with the Mermaid Witch. She's at about the level of a dolphin that's learned human words."
 
-"Wait, that much changed in only two and a half years!!?"
+"Whoa, wait, that's a lot at once!! Isn't that way too much change for two and a half years!!?"
 
-"So Eyeball hasn't told you."
+"So Eyeball didn't fill you in."
 
-"It's not like I haven't!! But I was only told the Witch of Ome had gotten cold toward anyone who wasn't a resident, so even if I went there, she probably wouldn't listen to me...!! Then what's with that mask!!?"
+"It's not like she didn't!! But pretty much all she said was that the Witch of Ome had gotten cold toward anyone who wasn't a resident, so even if I came, she probably wouldn't talk to me...!! Then what about that mask!!?"
 
-"I can wear whatever I want."
+"What's it to you what I wear?"
 
 "O-Okay...!! I won't ask!!"
 
-Um, it seems like she thinks the mask is because of some big incident too, but I have her wear it because my social anxiety is so bad I can't look straight at this girl's pretty face. It's such a stupid reason that I really wish she hadn't brought it up.
+Um, you seem to think the mask came from some big incident too, but actually she wears it because my social anxiety is so bad I can't look this girl's pretty face in the eye. It's such a stupid reason that I really wish you hadn't brought it up.
 
-"A lot happened while my magic was running away!! Even though I'm an oni, I feel like Urashima Taro[^1]!!"
+"So a lot happened while my magic was out of control!! I'm an oni, but I feel like Urashima Taro[^1]!!"
 
-"Ask the Eyeball Witch for details. She probably knows the most. Adachi Ward isn't habitable anymore, right? She should arrange a new territory for you to manage too."
+"Ask the Eyeball Witch for the details. She's probably the best informed. Adachi Ward isn't fit for people to live in anymore, is it? She should be able to arrange a new territory for you to manage, too."
 
-"Ah, sorry!! I was planning to leave Tokyo!!"
+"Oh, sorry!! I'm actually planning to leave Tokyo!!"
 
-The Blue Witch's hand paused for an instant as she refilled my cup.
+The Blue Witch's hand stopped for a second as she poured me a refill.
 
-She hadn't looked too happy to begin with, but her mood soured another notch as she pressed the Hell Witch.
+She hadn't seemed in a great mood to begin with, and now it dropped another notch.
 
-"Why? You're from Tokyo, aren't you? It's not like you left family behind in your hometown."
+"Why? You're from Tokyo, aren't you? It's not as if you left family behind in some hometown."
 
-"I mean, Tokyo's peaceful now!! Not that it's exactly peaceful yet, but look!! Reconstruction's come pretty far, right!!? I saw the city on my way here from Adachi Ward, and it didn't feel like a place where you never knew if you'd live to see tomorrow!!"
+"Well, Tokyo's peaceful now!! I mean, not exactly peaceful yet, but look!! Reconstruction's come pretty far, right!!? I looked around the city on my way here from Adachi Ward, and it didn't feel like a place where you don't know if you'll live to see tomorrow!!"
 
-Whoa, scary.
+Wait, yikes.
 
 Was central Tokyo really like that before?
 
-Good thing I'd been holed up in Okutama. And good thing the first person I met was the Blue Witch. She'd nearly killed me, though.
+Glad I stayed holed up in Okutama, and glad the first person I met was the Blue Witch. Even if she almost killed me.
 
-"But there are a lot of areas with no witches or mages, and they're harsh, right!!? I was thinking I'd travel around the world and help the people who survived!!"
+"But there are a lot of areas with no witches or mages, and life's rough there, right!!? So I'm thinking I'll travel the world and help out the people who survived!!"
 
-"And nobody's left in Adachi Ward either!!" the Hell Witch added. The Blue Witch asked quietly,
+"Besides, nobody's left in Adachi Ward anymore!!" the Hell Witch added.
 
-"Don't you want to keep protecting the city?"
+The Blue Witch asked quietly, "Don't you want to keep protecting the city?"
 
-"Adachi Ward!!? When nobody's left there!!? Hmm, I don't think so!! I kill and eat bad people, clean things up, and help good people!! That's what suits me best!!"
+"Adachi Ward!!? With nobody left!!? Hmm, nah, not me!! Kill the bad guys, eat 'em, clean up, and help the good people!! That kind of thing suits me best!!"
 
 "I see..."
 
-"Huh? ...Ah!! Sorry, that was thoughtless!! The reason there are hardly any people in Ome is probably, no, I mean, sorry!!"
+"? ...Oh!! Sorry, that was thoughtless!! There's hardly anybody in Ome because, I guess—no, I mean, sorry!!"
 
 "..."
 
-The Hell Witch watched the Blue Witch with concern after she fell silent and stopped moving.
+The Blue Witch had gone quiet and stopped moving, and the Hell Witch watched her anxiously.
 
-She shot me a panicked look too, but then I panicked when she looked at me. Um, could you maybe not look at me so much?
+She shot me flustered glances too, which only got me flustered. Um, if you could maybe not look over here so much...
 
-"Um!! It looks like I made things awkward!! Aaaah, even at a time like this my voice gets loud on its own, seriously...!! Anyway, my business is done, so I guess I'll be going now!! Apprentice-kun, make sure you give my regards to your master!!"
+"Uh, um!! Looks like I made things awkward!! Aaagh, why does my voice get loud on its own even at a time like this...!! Anyway, my business is done, so I guess I'll get going!! Apprentice-kun, be sure to give your master my best regards!!"
 
-I hurried to stop the Hell Witch as she awkwardly tried to slip out, though her voice was still huge.
+She tried to tiptoe out awkwardly, with her voice as loud as ever, and I hurried to stop her.
 
 Your business might be over, but mine isn't!
 
-A review! How it felt to use it! Give me the data from using the wand!
+Reviews! Usability! Give me your wand usage data!
 
-"Ah, um, sorry, I still have something..."
+"Ah, um, sorry, there's still something..."
 
-"Ah, sorry for trying to leave without asking!! What is it!!?"
+"Oh, sorry, I was about to leave on my own!! What is it!!?"
 
-"Um, could you tell me what it was like using the wand?"
+"Um, would you mind telling me how the wand felt to use?"
 
-"What it was like using it!!?"
+"How it felt to use!!?"
 
-The oni woman lowered her half-risen body back into the chair, making it creak under her huge ass, and tilted her head.
+The oni woman dropped back into her chair from her half-standing crouch, making it creak under her huge ass, and tilted her head.
 
-Well, sure. She probably isn't used to a technician asking her for feedback data on a product.
+Well, fair enough. An engineer asking her for product feedback data probably wasn't something she was used to.
 
-"Hell Witch-san, you got a magic wand from Eyeball Witch-san and used it to stop your runaway magic, right? Even though it had been running away for two and a half years. I want to hear things like how you used the wand, what was good about it, what you wish had worked this way instead, how it was different with and without the wand—anything you thought about it. It'll be useful as a reference... for my master."
+"Hell Witch-san, you got a magic wand from Eyeball Witch-san and used it to stop your runaway magic, right? Even though it had been running away for two and a half years. I'd like to hear anything you thought about it, like how you used the wand, what was good about it, what you wish had been different, how things changed with and without the wand. It'll be useful as a reference... for my master."
 
-"Whoa, what's that? That's some serious craftsman dedication!! Sure, I'll tell you as much as you want!! What should I talk about!!?"
+"Whoa, what's that? That's real craftsman professionalism!! Sure, I'll tell you as much as you want!! What should I talk about!!?"
 
-"Ah, nothing in particular. Just talk freely about whatever comes to mind."
+"Oh, nothing specific. Just say whatever comes to mind."
 
-"That's how this works!!? Hmm, well, let's see!! First, I used to live in Adachi Ward!!"
+"Is that how it works!!? Hmm, then, let's see!! So, first off, I used to live in Adachi Ward!!"
 
 According to the Hell Witch, she'd originally been a college student living in Adachi Ward.
 
-During the coma that came with her mutation, monsters attacked her, but a woman whose name she never learned protected and saved her. After she recovered, she wore her benefactor's clothes and began helping and protecting people as the Hell Witch.
+While she lay in the coma that came with her mutation, monsters attacked her, and a woman whose name she never learned protected her and saved her life. Once she woke up, she put on her benefactor's clothes and started helping and protecting people as the Hell Witch.
 
-But the Hell Witch's magic was hard as hell to use. She hadn't learned any magic suited to precise work. Every spell she had was a map-wide weapon.
+But the Hell Witch's magic was hard as hell to use. She didn't know a single small, easy-to-handle spell; everything she could cast was a map-wide weapon.
 
 Magic that made every living thing in its area kill one another.
 
 Magic that turned an area into a sea of fire and burned everything to ash.
 
-Magic that sank an area into a pool of blood and inflicted enough pain on anyone who touched it to make them choose death themselves.
+Magic that sank an area into a pool of blood and made anyone who touched the blood suffer so much they'd choose to die.
 
-All of it covered too wide an area to use casually. She could only use hellish magic. She really was the Hell Witch. So she fought monsters and thugs mostly with her fists.
+Every one of them had way too big an area of effect to use lightly. A witch who could only cast hellish magic: the Hell Witch in every sense. So she fought monsters and thugs mostly with her fists.
 
-Even after getting a magic stone that had been turned in at a police box and stored there, she avoided using it. She figured boosting magic that was already broad in range and hard to control would only make it even harder to handle.
+Even after she got hold of a magic stone that someone had turned in at a police box, she held off on using it. Her magic was already wide-area and hard to control, and she figured powering it up would only make it harder to handle.
 
 But one day, an emergency left her no choice.
 
-"You know those slime enemies you see all the time in games!!? A monster like that showed up!! It apparently multiplied in the sewers and came up to the surface, and I had to wipe it out fast to stop it spreading!!"
+"You know those slime enemies you always see in games!!? A monster like that showed up!! Apparently it multiplied in the sewers and came up to the surface, and I had to wipe it out fast before it spread!!"
 
-"So you used area-of-effect magic and it ran away?"
+"So you used your area magic, and it ran away on you?"
 
-"That too, but it wasn't just that!! Two spells weren't nearly enough to kill them all, so I chanted three spells amplified by the magic stone at the same time!!"
+"That's part of it, but not all of it!! Two spells weren't nearly enough to kill them all, so I cast three spells boosted by the magic stone, all at the same time!!"
 
 "Three at the same time? How?"
 
@@ -390,27 +376,27 @@ But one day, an emergency left her no choice.
 
 "Huh."
 
-Right in front of me, the Hell Witch took her cup of tea to the back of her head. I couldn't see from that angle, but the back of her head writhed, and I could tell it was swallowing the tea she poured down it.
+Right before my eyes, the Hell Witch lifted her teacup to the back of her head. I couldn't see it from my angle, but the back of her head squirmed, and I could tell the tea she poured was going down.
 
-Ah, she has a mouth on the back of her heeeead! She's a monster! Well, she's an oni, so she's a monster, but still!?
+Th-There's a mouth on the back of her heeeead! She's a monster! I mean, she's an oni, so yeah, she's a monster, but still!?
 
 "And here too!!"
 
 "!?"
 
-The Hell Witch's abs suddenly started talking, and I nearly fell out of my chair. But looking closely, the mouth slit lined up exactly with the groove between her abs. What kind of camouflage is that?
+When her abs suddenly started talking, I nearly fell out of my chair, but a closer look showed that the slit of the mouth just lined up perfectly with the groove between her abs. What kind of camouflage is that?
 
-The Hell Witch closed her two extra mouths as if nothing had happened and continued talking with only the mouth in its normal spot.
+As if nothing had happened, the Hell Witch shut her two extra mouths and went on talking with just the one in the usual place.
 
-"Getting back to it, I was reckless, so I wiped out the monsters!! But because I was reckless, my magic ran away!! Adachi Ward turned into hell from blood, flames, and miasma!! I spent two and a half years drinking blood and eating mud while holding back the runaway magic!! Because it looked like hell would spread around me if I let go of control completely!!"
+"Anyway, back to the story!! I went overboard, so I wiped out the monsters!! But because I went overboard, my magic ran away!! Adachi Ward turned into a hell of blood, fire, and miasma!! For two and a half years, I drank blood and ate mud and held back the runaway magic the whole time!! Because if I let go of control completely, it looked like the hell would spread out around me!!"
 
-"T-That's brutal...!"
+"Th-That's brutal...!"
 
-When I heard she'd held back her magic for two and a half years, I'd assumed she could sleep and eat normally and just couldn't leave ground zero.
+When she said she'd held back her magic for two and a half years, I'd figured she could still sleep and eat like normal and just couldn't leave ground zero.
 
-But from how it sounded, she hasn't slept or rested at all. What kind of stamina is that? No, the crazy part is her mental strength. Her magic-control ability has to be amazing too.
+But from the sound of it, she hadn't slept or rested at all. What kind of stamina does that take? No, the really crazy part here is her willpower, and her magic-power control has to be amazing too.
 
-"But!! About five days ago, the Eyeball Witch came through the hell all the way to ground zero to bring me a wand!! The balance between the runaway magic and my control tipped all at once toward me, and I could erase the hell!! Happily ever after!! That's about it, I guess!! Did that seem useful!!?"
+"But!! About five days ago, the Eyeball Witch came through the hell all the way to ground zero to bring me a wand!! The runaway magic and my control had been deadlocked, and the balance tipped all at once in my favor, so I could wipe out the hell!! Happily ever after!! That's about it, I guess!! Think that'll help!!?"
 
 ![p126.jpg](images/p126.jpg)
 
@@ -418,29 +404,29 @@ But from how it sounded, she hasn't slept or rested at all. What kind of stamina
 
 I nodded vaguely.
 
-That had felt less like her impressions of the wand and more like the bulk of it had been an introduction to the Hell Witch's background.
+Most of that had been less a review of the wand and more the Hell Witch's life story.
 
-A layperson wouldn't know what information a technician needed, so she'd probably tried to be thorough and told me everything that came to mind. I got it. I'd seen reviews like that in online auctions too.
+A layperson couldn't know what a technician needed to hear, so she'd probably just been thorough and told me everything that came to mind. I totally got it; I'd seen online auction reviews like that too.
 
-I asked her several more specific questions about how the wand felt to use and pulled out valuable data she'd dismissed as trivial.
+I asked a few more specific questions about the parts of the wand's feel she'd skipped, and pulled out valuable data she hadn't mentioned because she'd thought it was trivial.
 
-Yes, this. This is the stuff. This kind of special data can help make special wands and draw general conclusions.
+Yes, this, this is the stuff I want. Special data like this is exactly what helps you build special wands, or work out general rules.
 
-We are most pleased. It looked like this would take magic wands up another level.
+We are most pleased. This looked set to take magic wands up another level.
 
-It might have been a little nosy, but as thanks for the valuable data, I decided to give the Hell Witch one small lecture.
+It might have been a little nosy of me, but as thanks for the valuable data, I decided to give the Hell Witch one small lecture.
 
-The Dragon Witch was like that too, but if the Hell Witch is being pushed around by urges warped by her mutation, someone should tell her and set her straight. She might not realize just how dangerous she is.
+Same with the Dragon Witch, but if the Hell Witch was also getting jerked around by urges her mutation had twisted, somebody ought to say something and set her straight. She might not really get how dangerous she was.
 
-"Then, um, just one last thing. This has nothing to do with magic wands, and I'm not saying you have to do this or you can't do that. I just want you to hear it like words muttered by some passerby, but actually, I'd be happy if you took it a little seriously..."
+"Then, um, just one last thing. This has nothing to do with magic wands, and I'm not telling you to do this or not do that. Just take it like something some random passerby muttered. Actually, no, I'd be happy if you took it at least a little seriously..."
 
 "What!!?"
 
-"Eek! Um. I-I think maybe you shouldn't eat people? It could mess up your relationships and make people hate you, probably... Um, generally speaking..."
+"Eek! N-No, um. Maybe you should quit eating p-people? Like, it'd probably mess up your relationships, or make people hate you... Um, generally speaking..."
 
-I was scared too. Even after I'd sort of gotten a feel for what kind of person she was, I still wondered if she was really okay.
+I mean, she'd freaked me out too, and even now that I had a rough feel for who she was, part of me still wondered if she was really safe to be around.
 
-When I cautiously suggested it, the Hell Witch smiled.
+When I timidly made my suggestion, the Hell Witch gave me a big smile.
 
 "Thanks for worrying about me!! But I won't stop!!
 
@@ -452,37 +438,37 @@ The world will become peaceful and strong enough to judge a man-eating ogre!!
 
 But that isn't now!!"
 
-The Hell Witch's words were powerful.
+The Hell Witch's words had real force behind them.
 
-Her firm, unwavering conviction felt even bigger than her voice and struck me.
+It hit me hard: a firm, unshakable conviction that felt even bigger than her voice.
 
-"In the world right now, we can't get by unless we kill and get rid of bad people who drag everyone down too much!! We don't have time for trials!! There are lots of people we have to kill right away!! In Foresight's style, 'unfortunately'!!
+"The world right now can't keep going unless we kill off the bad guys who drag everyone down too much!! We don't have time for trials!! There are lots of people who need killing right away!! Or, as Foresight would put it, 'unfortunately'!!
 
-It looks like Foresight does what needs doing behind the scenes too, and Bloodsucking probably does as well!! I don't know about Eyeball... But to a greater or lesser degree, this is necessary!!
+Foresight seems to do what needs doing behind the scenes too, and Bloodsucking probably does as well!! Eyeball and the others... I don't know about them, but to some degree or another, this is necessary!!
 
-I think that necessary evil is evil!! Kill people, eat them, and be hated!! Make the world better in awful ways!! And in the end, the heinous man-eating ogre gets put down!! That's how I want to live, and how I want to die!!"
+But I think a necessary evil is still evil!! Kill people, eat them, get hated!! Make the world better the ugly way!! And in the end, the vile man-eating ogre gets put down!! That's how I want to live, and how I want to die!!"
 
 "..."
 
-"Ah, sorry!! You were only worried about me, and I started rambling about myself!! It's true that I like human flesh, and basically, I'm a bad person!! But I wanted to thank my benefactor, at least!! That's all!!"
+"Ah, sorry!! You were just worried about me, and I went off rambling about myself!! I really do like human flesh, so basically, I'm a bad guy!! But I at least wanted to thank the person who saved me!! That's all!!"
 
-She stood up as she said that, ready to leave for real this time, and I stopped the oni woman again.
+With that, she got up to leave, for real this time, and I stopped the oni woman again.
 
-Apparently, she's a good person even though she's bad.
+Apparently she was a bad guy and a good person at the same time.
 
-Her journey will probably be lonely. Even if she goes around saving people wherever she goes after leaving Tokyo, if she devours people there, their gratitude will probably fade.
+Her journey would probably be a lonely one. Even if she left Tokyo and saved people everywhere she went, their gratitude would likely fade the moment she devoured someone there.
 
-She's painfully aware of her own good and evil, and has resolved to become a foundation for peace and perish. I want to give her a partner for the road.
+She was painfully aware of her own good and evil, and she'd made up her mind to become a foundation for peace and die for it. I found myself wanting to give her a partner for the road.
 
-"Um, I'll make an amazing wand out of this magic stone, so will you make it your travelling companion? It'll definitely be useful. I'd really like you to use it... is what my master would probably say. So what do you think?"
+"Um, I'll make a seriously amazing wand out of this magic stone, so would you take it along as your travel partner? It'll definitely come in handy. I'd really like you to use it... is what my master would probably say. So, what do you think?"
 
-The huge Hell Witch stared blankly down at me for a moment, then said,
+The Hell Witch loomed over me with her enormous frame, looking blank for a while, and then she spoke up.
 
-"You know!!"
+"Hey, you!!"
 
 "Yes."
 
-"Could you actually be the Wand Maker himself!!? Talking to you, you don't seem like an apprentice at all!! There's never anything you can't answer without asking your master. It sounds like you decide everything on your own!!"
+"Are you maybe the Wand Maker himself!!? You don't sound like an apprentice at all when we talk!! You never say you'd have to ask your master first, and it sounds like you decide everything yourself!!"
 
 G-Gulp──────!!!!!
 
@@ -490,85 +476,83 @@ H-H-H-How does that prove I'm the real Wand Maker?!
 
 Is evidence proof that proves things!?
 
-"N-No way. It's just that my socially anxious master leaves everything to me. I mean, I'm socially anxious too, but I guess I'm better, so I'm not the master, I'm really his apprentice. I'm not lying."
+"N-No way, that's not it. My socially anxious master just leaves everything to me. I mean, I'm socially anxious too, but I'm less bad, sort of, so I'm not the master, I'm the apprentice, honest. I'm not lying."
 
-"Right, of course!! I said something weird!! Forget it!! I'd be delighted beyond words to get a good wand, but you don't have to go so far out of your way for me!!"
+"Right, of course!! I said something weird!! Forget it!! I'd be delighted beyond words to get a good wand, but don't go too far out of your way for me!!"
 
-The Hell Witch gave a small laugh, said she'd stay with the Eyeball Witch for a while to learn about all the changes over the past two and a half years, and finally left.
+The Hell Witch laughed lightly, told us she'd be staying with the Eyeball Witch for a while to catch up on two and a half years of changes, and left, for real this time.
 
-With just one person gone, space for about two people opened up in the living room.
+One person leaving freed up about two people's worth of space in the living room.
 
-With the room quiet enough to make my ears ring, I asked the Blue Witch, who still sat thinking silently with a hand on her chin.
+In a silence so deep my ears rang, I turned to the Blue Witch, who was still sitting there with a hand on her chin, quietly lost in thought.
 
-"Hey, do you think she got suspicious? I feel like I acted pretty suspicious when I denied being the Wand Maker."
+"Hey, think she got suspicious? I feel like I was acting pretty shifty when she asked if I was the Wand Maker and I said no."
 
-"...Hm? Oh, it's probably fine. Ori always acts suspicious."
+"...Hm? Oh, it's probably fine. Ori's always shifty."
 
-"I see. That's good."
+"Oh, okay. Good."
 
-Then no problem.
+Then I guess we're fine.
 
 Good thing I have social anxiety.
 
-So this socially anxious guy is going to make a special magic wand just for the Hell Witch. Maybe I'll head back to Okutama for now.
+Now this socially anxious guy is off to make a special magic wand just for the Hell Witch. Guess I'll head back to Okutama for now.
 
-It's been a while since I processed a magic stone. My hands are itching to get to work!!
+It's my first magic-stone job in ages, and I'm itching to get to work!!
 
 ---
 
-The Hell Witch was a woman who stood out in every way. Everything about her was huge. She was striking. Her looks, her convictions, and the sheer guts it took to keep runaway magic suppressed for two and a half years tended to grab all the attention.
+The Hell Witch stood out in every possible way. Everything about her was huge, and she left one heck of an impression. It was easy to get caught up in her looks, her convictions, and the sheer guts it took to hold down runaway magic for two and a half years.
 
 But from a Wand Maker's perspective (and probably a magic linguist's too), her biggest trait was that she had three mouths.
 
-Just as she'd said, she could cast three spells at the same time.
+Like she'd said herself, she could cast three spells at the same time.
 
-She could manifest three kinds of hell at once.
+She could bring three kinds of hell into being at once.
 
 If she learned magic from other witches, she could even pull off solo combo magic, like predicting an opponent's moves with foresight while throwing an ice spear and binding them with chains.
 
-Three times as many moves. Way too strong. Though the magic-power consumption was three times as much too.
+Three times the moves. Way too strong. The magic-power cost was three times higher too, though.
 
-Having three mouths and three spells was obviously strong, but that wasn't the whole story.
+Three mouths for three spells was simple and strong, but it wasn't all upside.
 
-More specifically, it put a burden on the magic-activation medium.
+Specifically, it put a strain on the magic-activation medium.
 
 Witches and mages were superhumans who could use magic with their bare hands even without a magic-activation medium like a Gremlin or magic stone.
 
-But apparently that didn't work when they used two or three spells at once. They needed to make a focal point for the magic through a magic-activation medium.
+Apparently that didn't hold when they used two or three spells at once, though. They had to use a magic-activation medium as the anchor for focusing the magic.
 
-If they used a Gremlin to cast multiple spells at once, it would vibrate abnormally and shatter after just one use. If the Gremlin was irregularly shaped, it could even shatter in the middle of the incantation and keep the magic from activating at all. Simultaneous incantation put a huge burden on it.
+Cast several spells at once through a Gremlin, and it would vibrate abnormally and shatter after a single use. An irregularly shaped Gremlin could even shatter partway through the incantation, so the magic never activated at all. That was how much strain simultaneous incantation put on it.
 
-Magic stones, on the other hand, were a straight upgrade from Gremlins. They shook a little suspiciously when two spells were used at once, but they were totally fine.
+Magic stones, on the other hand, were a straight upgrade from Gremlins. Two spells at once made them shake a little ominously, but they held up just fine.
 
-But apparently a magic stone couldn't stand three powerful spells being used at the same time. The abnormal vibration had cracked it.
+Three big spells at once, though, had apparently been too much, and the abnormal vibration had cracked the stone.
 
-That was why the amber-colored magic stone I got from the Hell Witch had a small crack running through its center.
+That was why the amber magic stone the Hell Witch had given me had a small crack running through its center.
 
-If the same thing happened again, the crack would spread. There was a big risk it would break or shatter.
+If anything like that happened again, the crack would probably spread, and there was a real risk of the stone splitting or shattering.
 
 There is an extremely simple solution to this problem.
 
-The problem is concentrating the burden on one magic stone and one wand.
+The trouble comes from piling all the strain onto one magic stone and one wand.
 
-She just needs to carry three wands.
+She just has to carry three wands: split the magic stone into three, make three wands out of it, and cast a separate spell through each one.
 
-She can split the magic stone into three, make three wands from it, and use a different spell through each one.
-
-But this simple, clear solution—carrying three wands—has a fatal flaw.
+But this nice, simple solution, the three-wand setup, has one fatal flaw.
 
 It looks uncool.
 
-Just imagining it looks super uncool!!
+Just picturing it is super uncool!!
 
-Carrying three swords looks cool, but the moment you swap them for wands, it looks lame. I can't allow that.
+Three-sword style is cool, but the second the swords turn into wands, it's lame. I can't let that slide, not me.
 
-Dual-wielding wands isn't bad, but it isn't good either. It doesn't feel right to me.
+Dual-wielding wands isn't bad, but it isn't good either, and it doesn't quite click for me.
 
-After all, a magic wand looks best when you wield just one.
+A magic wand really does look best when you hold just the one.
 
-I really want the Hell Witch to stick to that style too.
+I'd love for the Hell Witch to go with that style too.
 
-Make use of the Hell Witch's greatest advantage: simultaneous incantation of three spells.
+Make the most of the Hell Witch's greatest strength: three-spell simultaneous incantation.
 
 Do something about its one weakness: abnormal vibration in the magic stone.
 
@@ -576,81 +560,81 @@ Make it one wand. Using two or three would be a cop-out.
 
 Those are the three things I have to keep in mind while making this wand.
 
-First, I wrote to Professor Ohinata and asked for her opinion.
+First, I wrote to Professor Ohinata to ask her opinion.
 
-The way simultaneous incantation made Gremlins and magic stones vibrate abnormally seemed more like a problem in magic linguistics.
+After all, Gremlins and magic stones vibrating abnormally under simultaneous incantation seemed more like a magic-linguistics problem.
 
-When I sent her a detailed write-up of the data I'd gotten by interviewing the Hell Witch, her reply took an unusually long time.
+I sent her a detailed write-up of everything I'd gotten from interviewing the Hell Witch, and for once, her reply took a while.
 
-A week later, the reply I received via Blue Witch delivery was longer than anything she'd ever sent me. Besides the usual bonus snacks, a huge pile of statistical materials and distribution charts was enclosed with it.
+A week later, her answer arrived by Blue Witch delivery, longer than anything she'd ever sent me. Along with the usual bonus snacks, the package held a thick stack of statistics, distribution charts, and more.
 
 ---
 
-Though summer's heat has passed its peak, the lingering heat has still been severe lately. Ori-san has been working energetically on his research without being bothered by the summer heat, which I, someone prone to summer fatigue, can only envy (my tail won't shed its winter coat!).
+Though the worst of summer is behind us, the lingering heat is still fierce these days. You have been working away at your research without letting the heat slow you down at all, Ori-san, and as someone who wilts every summer, I can only envy you (my tail still won't shed its winter coat!).
 
-I have heard that the Hachioji Witch-san has recently gathered surviving meteorologists and weather forecasters and is planning to bring back weather forecasts.
+I hear that Hachioji Witch-san has recently gathered the surviving meteorologists and weather forecasters and is planning to bring back weather forecasts.
 
-We cannot use artificial satellites, so tracking the movement of clouds is difficult. But if we can know in advance, even approximately, when the heat and cold will change, life will surely become much easier.
+Without artificial satellites, even tracking the clouds is hard work, but if we can know ahead of time, even roughly, when it will turn hot or cold, daily life will become much easier.
 
 Once we can forecast Okutama's weather, I will be sure to let you know!
 
 Now then.
 
-Regarding the matter you asked about in your previous letter, I found it extremely interesting and conducted related experiments here. That is why my reply took so long. I am sorry.
+As for the matter you asked about in your last letter, I found it so interesting that I ran some related experiments here. That is why my reply took so long, and I apologize.
 
-However, I believe I was able to collect data that will be useful to you, Ori-san.
+That said, I believe I was able to gather data that will be useful to you, Ori-san.
 
-First, when two or more spells are cast using one Gremlin.
+First, casting two or more spells through a single Gremlin.
 
-Basically, this does not work. Even if two people match their timing and begin their incantations at exactly the same time, only the spell cast by the person whose mouth was closest to the Gremlin activates, while the other spell fails to activate.
+Basically, this does not work. Even if two people time it perfectly and begin their incantations at exactly the same moment, only the spell of the person whose mouth is closest to the Gremlin activates, and any other spells fail.
 
-I have detailed data on this from about half a year ago, so I have enclosed copies (the ones marked A-1 through A-3 in the upper right). Please refer to those for details.
+We collected detailed data on this about half a year ago, and I have enclosed copies (the ones marked A-1 through A-3 in the upper right), so please refer to those for details.
 
-However, Hell Witch-san has successfully performed this simultaneous incantation.
+Hell Witch-san, however, has managed this simultaneous incantation.
 
-I asked Foresight Mage-san and Eyeball Witch-san to help me, and conducted an experiment.
+I asked Foresight Mage-san and Eyeball Witch-san for their help and ran an experiment.
 
-This was to determine whether successful simultaneous incantation was particular to witches and mages who could control magic power, or particular to Hell Witch-san.
+The goal was to find out whether simultaneous incantation works for any witch or mage who can control magic power, or only for Hell Witch-san.
 
-The result was that only one of their spells activated.
+The result: only one of their two spells activated.
 
-Therefore, we can say that being able to use two or more spells simultaneously through one magic-activation medium is a trait of Hell Witch-san.
+So we can say that using two or more spells at once through a single magic-activation medium is a trait particular to Hell Witch-san.
 
-At no point in the process could we observe the abnormal vibration you described.
+At no point in any of this did we observe the abnormal vibration you described.
 
-So I conducted further research and investigated this unusual phenomenon in greater depth.
+So I kept researching and dug deeper into this unusual phenomenon.
 
-I performed several experiments (just in case, I have also enclosed a separate sheet summarizing the failed experiments, labeled B-1 through B-5). One of them, the twin experiment, produced notable results.
+I ran several experiments (just in case, I have also enclosed separate sheets summarizing the failed ones, labeled B-1 through B-5), and one of them, the twin experiment, gave striking results.
 
-I hypothesized that the reason Hell Witch-san could successfully perform simultaneous incantation was that she used exactly the same voice for each incantation.
+My hypothesis was that Hell Witch-san can manage simultaneous incantation because she uses exactly the same voice for each incantation.
 
-Magic language requires extremely precise pronunciation. I thought that simultaneous incantation might require not only the same pronunciation, but matching vocal quality down to every detail.
+Magic language demands extremely precise pronunciation, so I thought simultaneous incantation might require not only the same pronunciation, but voices that match down to the finest detail.
 
-So I recruited identical twins and had them use two simple spells simultaneously through a Gremlin.
+So I put out a call for identical twins and had them cast two simple spells on one Gremlin at the same time.
 
-Then both spells activated through one Gremlin, producing abnormal vibration and causing the Gremlin to shatter.
+Both spells activated through that one Gremlin, which then vibrated abnormally and shattered.
 
-Just as I thought, the secret to simultaneous incantation was perfectly matching vocal quality.
+Just as I suspected, the secret to simultaneous incantation lay in a perfect match of vocal quality.
 
-I had the twins conduct additional experiments and investigated the patterns behind abnormal vibration. Please refer to the separate sheets for this series of experiments (C-1 through C-6). In conclusion, there appeared to be Gremlin shapes less prone to abnormal vibration.
+I then had the twins help with further experiments to look for patterns in the abnormal vibration. Please see the separate sheets for this series (C-1 through C-6), but in short, some Gremlin shapes seem less prone to abnormal vibration than others.
 
-I asked professors at this university to help and tested several Gremlin shapes (see separate sheet, figure D-1). We found that a flat shape with a hole in the center produced the least abnormal vibration. A shape like a five-yen coin[^2].
+With help from other professors here at the university, I tested several Gremlin shapes (see separate sheet, figure D-1) and found that a flat shape with a hole in the center produced the least abnormal vibration: something like a five-yen coin[^2].
 
-However, our university's processing technology has limits, and we cannot research this any further.
+However, our university's processing technology only goes so far, and we cannot take this research any further.
 
-The comparison of vibration values by shape (figure D-2) suggests that a shape exists which can reduce vibration to zero or to a negligible level, but our university cannot process it into that shape.
+Comparing vibration values by shape (figure D-2) suggests there is a shape that can bring vibration down to zero, or close enough to ignore, but we cannot process a Gremlin into that shape here.
 
-I would be very grateful if Ori-san could use his outstanding processing skills to find the predicted ideal shape.
+It would be a great help to us if you could put your outstanding processing skills to use, Ori-san, and find that predicted ideal shape.
 
-I believe doing so will also help with the wand for Hell Witch-san that Ori-san is currently making.
+I think it would also help with the wand you are making for Hell Witch-san.
 
-This has become very long, but that is all the data I can provide from my end.
+This letter has grown very long, but that is all the data I can offer from my end.
 
-I hope it will be useful.
+I hope it proves useful.
 
 Lastly.
 
-This may be meddlesome, but I am worried because I have the impression that Ori-san tends to neglect his daily life when he throws himself into making things. If you eat three proper meals, sleep well, and keep yourself healthy, your work efficiency will improve too.
+This may be none of my business, but I worry, because I get the impression that you tend to neglect yourself when you throw yourself into your work, Ori-san. If you eat three proper meals, sleep well, and stay in good shape, your work will go more efficiently too.
 
 Please take good care of yourself.
 
@@ -658,89 +642,89 @@ Ohinata Kei
 
 ---
 
-I carefully read the huge pile of research data while snacking on the dried pineapple she'd enclosed.
+I pored over the mountain of research data, snacking on the dried pineapple she'd sent along with it.
 
-Professor Ohinata worries that I get too absorbed in making things, but putting out and compiling this much research data in one week also seems like getting pretty absorbed in research to me.
+Professor Ohinata worries about me getting too absorbed in my work, but come on. Producing and compiling this much research data in a single week? If you ask me, that's getting pretty absorbed in research too.
 
-Well, Professor Ohinata has research students under her, other professors, witches and mages helping her, and lots of other help, so her workload is probably nothing like mine when I do all my production work alone.
+Well, okay, she has research students under her, other professors, witches and mages backing her up, tons of help, so her load is probably nothing like mine, since I do all my production work alone.
 
-Social skills... connections... Professor Ohinata is amazing even though she's so tiny.
+Social skills... Connections... Professor Ohinata's amazing, even though she's so tiny.
 
-The data I got is interesting, and it looks like it'll be super useful.
+The data wasn't just interesting; it looked super useful, too.
 
-I'd just thrown the data I got from the Hell Witch at her, and an avalanche of further data had come back.
+All I'd done was toss her what I'd heard from the Hell Witch, and an avalanche of follow-up data had come crashing back.
 
-I'd been thinking maybe she'd give me some kind of hint, but she has basically given me the answer.
+I'd only been hoping for a hint or something, and she'd practically handed me the answer.
 
-There is an ideal Gremlin shape that doesn't cause abnormal vibration?
+There's an ideal Gremlin shape that doesn't cause abnormal vibration?
 
-And it's a shape close to a five-yen coin?
+And it's close to a five-yen coin?
 
-Can people really figure out that much in such a short time when they pool their wisdom and technology?
+So when people pool their wisdom and technology, they can figure out that much in no time at all?
 
-And it isn't like, “I did it by feel and it somehow worked.” They have properly worked it out through reasoning.
+And it's not some "I went by feel and it kinda worked" deal, either. They reasoned it out properly, step by step.
 
-It looks like they have no choice but to rely on me for the last push, but that's division of labor.
+Looks like the final push is up to me, but hey, that's division of labor.
 
-Leave the freakish processing beyond human understanding to me. I'm good at that stuff.
+Leave the freakish, beyond-human processing to me. I'm really good at that kind of stuff.
 
-You could also say I'm bad at everything other than that stuff.
+Another way to put it: I'm bad at everything else.
 
-After they've laid this much groundwork for me, I can't fail as a technician.
+With this much groundwork laid for me, I can't afford to fail as a technician.
 
-Following her advice, I took reasonable breaks while carving Gremlins into every kind of shape I could think of based on the five-yen-coin shape, then sent them to the university to have them test for abnormal vibration.
+Following her advice, I took sensible breaks while I carved Gremlins into every variation on the five-yen-coin shape I could think of, then sent them to the university for abnormal-vibration testing.
 
-I sent all kinds—red-blood-cell shapes, hollow diamonds, and bellows-shaped circles—but one produced a perfect result.
+I sent all sorts, from red-blood-cell shapes to hollow diamonds to bellows-pleated circles, and one of them hit a perfect score.
 
-It showed an abnormal-vibration value of zero under simultaneous incantation.
+It showed zero abnormal vibration under simultaneous incantation.
 
 A Moebius ring.
 
-A Moebius ring was a shape made by twisting a long, narrow strip once and joining its ends together. Its feature was a continuous surface with no distinction between front and back, and it was famous among math circles and middle-school-syndrome circles as an example of geometry's strangeness and beauty.
+A Moebius ring is what you get when you give a long, narrow strip a single twist and join the ends. It has one continuous surface with no front or back, and it's famous in math circles and middle-school-syndrome circles alike as an example of how strange and beautiful geometry can be.
 
-Apparently, it was a shape with magical meaning too.
+Apparently, it was a shape with magical significance too.
 
-The Moebius ring seemed to be an extremely stable shape in magical terms. Regardless of the size of the ring, its amplification ratio was 1.00. A perfect one-to-one ratio.
+In magical terms, the Moebius ring seemed to be an extremely stable shape: no matter how big the ring was, it showed a magic amplification ratio of 1.00, perfectly one-to-one.
 
-When magic was used with a Gremlin processed into a Moebius ring shape, the inside of the ring glowed golden regardless of the type of magic. It even came with special effects like that.
+It even came with special effects: when someone cast magic through a Gremlin shaped into a Moebius ring, the inside of the ring glowed gold, whatever the kind of magic.
 
-Moebius processing had other features too, as if the shape were loved by magic, but what mattered was that it was perfect for the Hell Witch.
+Moebius processing, beloved by magic, had other quirks too, but what mattered was that the shape was perfect for the Hell Witch.
 
-When I saw the Moebius ring, I decided on the shape of the magic wand I would give her.
+The moment I saw the Moebius ring, I settled on the shape of the magic wand I'd give her.
 
 A khakkhara[^3].
 
-There is nothing else it can be.
+Nothing else would do.
 
-A khakkhara has a head strung with rings and is mainly carried by Buddhist monks in training. It's perfect for the Hell Witch as she walks the path of a seeker.
+A khakkhara, with its head of linked rings, is carried mostly by Buddhist monks in training. Perfect for the Hell Witch as she walked a seeker's path.
 
-From the flat amber magic stone, I skillfully carved out seven seamless Moebius rings without fully separating them from one another.
+Out of the flat amber magic stone, I carved seven seamless Moebius rings, working carefully so they stayed linked instead of coming apart.
 
-There was a legend that the Buddha took seven steps immediately after being born.[^4] In honor of that, I made a head with seven rings total: one large central ring with three small rings hanging from each side.
+There's a legend that the Buddha took seven steps right after he was born.[^4] In honor of that, I gave the head seven rings in all: one large central ring, with three small rings hanging on each side.
 
-For the handle that would hold the backlash-prevention mechanism, I used auspicious bodhi tree wood, from the tree under which the Buddha was said to have attained enlightenment.
+For the handle that would house the backlash-prevention mechanism, I used wood from the bodhi tree, the auspicious tree the Buddha was said to have attained enlightenment under.
 
-Neither the number of rings nor the material of the handle has any practical meaning.
+Neither the number of rings nor the handle's material served any practical purpose.
 
-If anything, the six small rings will rattle around and get in the way, and there are woods with greater strength.
+If anything, the six small rings would jangle around and get in the way, and there were stronger woods out there.
 
-But this wand isn't a combat weapon that only needs high performance.
+But this wand wasn't a combat weapon, where high performance was all that counted.
 
-It's her companion on her hard journey.
+It was her companion on a hard journey.
 
-I want to give it fitting meaning.
+I wanted it to carry a meaning worthy of that.
 
-I agonized quite a bit over the inscription, but after turning every dictionary and encyclopedia in the house upside down, I found the perfect one.
+The inscription took a lot of agonizing, but after turning every dictionary and encyclopedia in the house inside out, I found the perfect one.
 
-Kishimojin[^5], the Buddhist deity who originally ate people but later stopped and became a god, had the Sanskrit name हारीती, read in Japanese as “Hariti.”
+Kishimojin[^5] is a Buddhist figure who once ate people, then gave it up and became a god. Her Sanskrit name is हारीती, which Japanese reads as "Hariti."
 
-With this inscription, I want to send her my blessing.
+With this inscription, I wanted to send her my blessing.
 
-The Moebius-linked khakkhara Hariti was completed just in time, the day before the Hell Witch left the Eyeball Witch and set out on her journey. Apparently, when the Blue Witch went to deliver it, the Hell Witch was already packing for her trip.
+The Moebius-linked khakkhara Hariti was finished just in time, the day before the Hell Witch left the Eyeball Witch's place and set out on her journey. When the Blue Witch went to deliver it, the Hell Witch was apparently already packing.
 
-I'd taken breaks and worked carefully, so it came down to the wire. But I could guarantee how well it turned out.
+Because I'd taken breaks and worked slowly and carefully, it came down to the wire, but that meant I could vouch for the result.
 
-It isn't just a high-performance item. It's the finest custom wand, with a craftsman's soul poured into it.
+It wasn't just some high-performance product; it was a custom wand of the highest order, with a craftsman's soul poured into it.
 
 I hope the Hell Witch's journey will be a good one.
 

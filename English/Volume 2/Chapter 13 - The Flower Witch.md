@@ -1,214 +1,214 @@
 Lately, I'd been working on combining geometric beauty with artistic beauty.
 
-It wouldn't help improve a magic wand's performance much, but I wanted it to look good too, not just perform well. I liked rugged wands too, though.
+It didn't do much for a wand's performance, but I wanted my wands to look good, not just perform well. Not that I didn't like rugged wands too, mind you.
 
-Through Professor Ohinata, I got books on math and art sent to me. Every day, I'd lose myself in them under the charcoal kotatsu[^1], get inspired, and jot down ideas that came to me.
+I'd had Professor Ohinata get me books on math and art, and I spent my days snug under the charcoal kotatsu[^1], buried in them and jotting down whatever ideas they sparked.
 
-Farm work was on break for the winter. Thanks to the kotatsu and the wood stove, the room stayed warm even without electricity.
+Farm work was off for the winter. Between the kotatsu and the wood stove, the room stayed warm even without electricity.
 
-For dinner, I ate my fill of fresh new-crop rice cooked in a pot. In the morning, I added clean water, dried-fish shavings, mushrooms, dried daikon, and a pinch of salt to the leftover rice from the day before, then brought it to a boil to make a hearty rice porridge.
+For dinner, I stuffed myself with new-crop rice cooked in a pot. In the morning, I took the leftover rice, added clean water, shaved dried fish, mushrooms, dried daikon strips, and a pinch of salt, and boiled it all into a hearty rice porridge.
 
-It was all good. Fresh rice really was on a whole other level from year-old and two-year-old rice in how it cooked, its texture, and its smell.
+All of it was delicious. New rice really was on a whole other level from year-old or two-year-old rice—how it cooked, the texture, the smell, everything.
 
-Sometime this spring, my homemade miso and soy sauce would finish aging. Then I could use those seasonings—the soul of Japan—generously in my cooking without worrying about my stock. Looking forward to it.
+Sometime this spring, my homemade miso and soy sauce would be done aging. Then I could cook with those seasonings—the very soul of the Japanese people—as lavishly as I liked, without worrying about running out. I couldn't wait.
 
-So there I was, living an easy life in my workshop deep in the mountains, when I woke up one morning and noticed a mushroom growing out of my head.
+So there I was, living the easy life in my workshop deep in the mountains, when I woke up one morning to find a mushroom growing out of my head.
 
-It had been almost four years since the Gremlin Disaster. I'd gotten used to all kinds of ridiculous things, but this still freaked me out.
+It had been almost four years since the Gremlin Disaster. I'd gotten used to plenty of off-the-wall stuff by now, but even I freaked out at this one.
 
-Did eating too many mushrooms make one grow out of my head!?
+No way—did I eat so many mushrooms that one sprouted out of my head!?
 
-I was scared stiff, but the mushroom on my head was a kind I'd never seen before. It was different from the edible mushrooms I usually picked in the mountains.
+I was scared stiff, but the mushroom on my head turned out to be a kind I'd never seen before, nothing like the edible ones I usually picked in the mountains.
 
-Its cap was mottled a poisonous-looking purple and red. The wrinkles in its stalk looked almost like a human face.
+Its cap was a poisonous-looking mottle of purple and red, and the wrinkles on its stalk looked almost like a human face.
 
 Creepy.
 
-It looked bad for my health, so I immediately plucked it off my head, shampooed thoroughly, and washed away the mushroom's roots.
+It looked bad for my health, so I ripped it off right away and shampooed thoroughly to wash out the roots.
 
-After I pulled out the mushroom and took a shower, I felt like my body had gotten lighter somehow. Hmm, was it some kind of parasitic mushroom?
+Once the mushroom was out and I'd showered, my body felt kind of lighter. Hmm. Was it some sort of parasitic mushroom?
 
-I didn't know whether it was a rare species from Earth or a special type of monster, but as a memento of it growing out of my body, I preserved the mushroom I'd pulled off as a specimen in alcohol.
+I had no idea whether it was a rare Earth species or a special type of monster, but to commemorate it growing out of my own body, I put it in a jar of alcohol as a specimen.
 
-Looking at the mushroom floating in alcohol in the jar was pretty creepy, but kind of fun. Basically, it was like a baby tooth I'd shed. Probably. Dunno, though.
+The mushroom floating in the jar was pretty creepy to look at, but kind of fun too. It was basically a baby tooth I'd lost. Probably. Don't quote me on that.
 
-Two days after the mushroom grew, I took the mushroom specimen and a board game over to the Blue Witch's house. I asked through an eyeball familiar whether I could come over, but there was no reply. Seemed like she'd blocked me. I'd done that before, so she was probably getting me back.
+Two days after the mushroom sprouted, I took the specimen and a board game over to the Blue Witch's house to hang out. I'd asked through the eyeball familiar whether I could come over, but got no reply. Looked like she'd blocked me. I'd done that to her before, so this was probably payback.
 
-Man, she was childish too. Seriously.
+Sheesh, she could be childish too. Honestly.
 
-Still, the Blue Witch had gotten pretty into this board game, so if I brought it, she'd probably agree to play.
+Still, she'd gotten pretty fired up over this board game, so if I brought it along, she'd probably agree to play.
 
-Also, I wanted to ask her about the mushroom while I was at it. I had this image of witches knowing about mushrooms like that. Was that just prejudice?
+I also wanted to ask her about the mushroom while I was there. I had this image of witches being experts on weird mushrooms. Maybe that was just a stereotype.
 
-When I got to the Blue Witch's house, I was surprised to find her lying down just inside the entrance.
+When I got to the Blue Witch's house, I was startled to find her sprawled on the floor just inside the door.
 
 "Huh?"
 
-What was she doing? Sleeping in the entryway? Was she some salaryman at the end of his rope from working at a sweatshop company? Way too bizarre.
+What was she doing? Sleeping in the entryway? Who did that, besides some salaryman worked to the brink at a sweatshop company? Way too bizarre.
 
-As I was about to take off my shoes, careful not to step on her, I noticed she was holding a letter.
+I was about to take off my shoes, careful not to step on her, when I noticed she was holding a letter.
 
 "What're you doing? What's this letter?"
 
 What the hell? Seriously, what happened?
 
-Also, didn't the Blue Witch have a mushroom growing out of her head too? What? Is this a trend?
+Hold on, doesn't she have a mushroom growing out of her head too? What, is this a trend now?
 
-Puzzled, I picked up the letter out of curiosity.
+Baffled, I picked up the letter, mostly out of curiosity.
 
 The sender was the "Foresight Mage."
 
-Huh. Maybe it was some kind of work memo from the Tokyo Witches' Council.
+Huh. Maybe it was some kind of business memo from the Witches' Council.
 
-I was curious about what was inside, but it felt wrong to pore over someone else's letter.
+I was curious what it said, but it felt rude to stare too hard at someone else's mail.
 
-As I was about to put the letter back in the Blue Witch's hand, I realized it wasn't someone else's letter.
+I went to put it back in the Blue Witch's hand—and realized it wasn't someone else's letter after all.
 
-The addressee line I'd happened to glimpse read: "To whoever is standing at the entrance of the Blue Witch's home at 9:33 AM on February 8, 2028."
+I'd happened to catch the address on the front. It read: "To whoever is standing at the entrance of the Blue Witch's home at 9:33 AM on February 8, 2028."
 
-I stared at the address hard enough to bore a hole through it, then looked at the pillar clock by the entrance.
+I stared at those words hard enough to bore a hole in them, then looked up at the pillar clock in the entryway.
 
-The clock's hands pointed to 9:33.
+Its hands read 9:33.
 
 "Huh..."
 
 What is this? Creepy...
 
-I'd heard the Foresight Mage could see the future, but can he do something like this?
+I'd heard the Foresight Mage could see the future, but he can seriously do stuff like this?
 
-This is scary. My personal information is totally exposed.
+That's scary. My personal info's completely exposed.
 
-No, he doesn't seem to know my name, so maybe he doesn't know everything?
+Wait, he doesn't seem to know my name, so maybe he can't see everything?
 
-Without thinking, I looked around. Is the Foresight Mage watching what I'm doing right now too? Not like there's anything I can do if he is, but it still makes me uncomfortable.
+I looked around without meaning to. Is the Foresight Mage watching me right now, too? Not like I can do anything about it if he is, but it still creeps me out.
 
-I stared at the address on the letter and thought for a while, then spoke to the Blue Witch lying at my feet.
+I stared at the address for a while, thinking it over, then spoke to the Blue Witch sprawled at my feet.
 
 "Hey, this is addressed to me, right? Can I read it?"
 
-But there was no reply.
+She didn't answer.
 
-She was so quiet that I suddenly got worried and brought my hand close to her mouth, but she was breathing softly.
+She was so still that I suddenly got worried and held my hand near her mouth, but she was breathing, faintly.
 
-Oh, she's alive. Good.
+Phew, she's alive. Good.
 
-Still, she slept like she was dead. I'd never seen her asleep before, so I had no idea.
+Man, she slept like the dead, though. I'd never seen her asleep before, so I hadn't known.
 
-Leaving her asleep on the cold entryway floor was kind of bad, so I dragged her onto the fluffy entrance mat in the hall.
+I couldn't just leave her on the cold entryway floor, so I dragged her up onto the fluffy mat in the hall.
 
-I took off my winter coat and put it over her, then opened the letter and started reading.
+I took off my winter coat and draped it over her, then opened the letter and started reading.
 
 ---
 
-Nice to meet you. I am the one known as the Foresight Mage, a member of the Tokyo Witches' Council.
+Nice to meet you. I am a member of the Tokyo Witches' Council, known as the Foresight Mage.
 
-I am writing this letter because I saw the future in which you would read it here and now.
+I am writing this letter because I have seen a future in which you read it, here and now.
 
-Time is short. I will get straight to the point.
+Time is precious, so I will start with the conclusion.
 
-Go to the Flower Witch at once,
+I need you to go to the Flower Witch at once
 
-and obtain the antidote for this terrible epidemic.
+and obtain the antidote for this nightmare of an epidemic.
 
-If possible, I would like you to read the rest of this letter while heading to the Flower Witch. Unfortunately, without an explanation, you could not accept such a sudden request.
+Ideally, you would read the rest of this letter on your way to her. Unfortunately, I doubt you would accept so sudden a request without an explanation.
 
-First, let us review what is happening. You may already know some of this, but I want to explain it in order so there are no mistakes.
+First, let us review what is happening. You may already know some of this, but I want to lay it out step by step so nothing is misunderstood.
 
-At present, a strange disease that makes mushrooms grow from people's heads is spreading rapidly with Tokyo at its center.
+A bizarre disease that makes mushrooms grow from people's heads is currently spreading fast, centered on Tokyo.
 
-This mushroom grows by draining stamina and magic power from its parasitized host, and its symptoms have three stages.
+The mushroom grows by draining stamina and magic power from the host it parasitizes, and the symptoms progress in three stages.
 
-First is the incubation stage. Those infected have no awareness of it at all and are perfectly healthy. Even in this state, they are highly contagious and spread the infection around them.
+First is the incubation stage. The infected have no idea anything is wrong and are perfectly healthy. Even so, they are already highly contagious and spread the infection to those around them.
 
-Next is the pre-onset stage. The mushroom begins draining stamina and magic power, leaving the host fatigued.
+Next is the pre-onset stage. The draining of stamina and magic power begins, and the host is hit by fatigue.
 
-Then, in the post-onset stage, mushrooms grow from the head using the nutrients they drained.
+Then comes the post-onset stage, in which mushrooms sprout from the head, fed by the nutrients they have drained.
 
-This latter stage has two possible sets of symptoms, depending on conditions.
+Depending on conditions, this later stage takes one of two forms.
 
-They are the mild type and the severe type.
+The mild type, and the severe type.
 
-The mild type is exactly that: mild. Even with mushrooms growing from the head, it causes no more than a slight fever.
+The mild type is exactly that: mild. Even with a mushroom growing from the head, the symptoms go no further than a slight fever.
 
-Even those symptoms clear up if the mushroom is removed, and the disease is completely cured by that alone.
+Even that clears up once the mushroom is removed, and that alone cures the disease completely.
 
-When I saw you from behind, there was no mushroom growing from your head.
+From what I saw of you from behind, there was no mushroom on your head.
 
-Therefore, either you are uninfected, or you developed the mild type, removed the mushroom from your head, and have already fully recovered. You need not worry.
+So either you are not infected, or you had the mild type, removed the mushroom, and have already made a full recovery. You need not worry.
 
 The problem is the severe type.
 
-Anyone who has experienced magic-power-depletion fainting even once after becoming infected will inevitably change from the mild type to the severe type.
+Anyone who experiences magic-power-depletion fainting even once after infection will, without exception, go from the mild type to the severe type.
 
-In the post-onset stage of the severe type, magic power and stamina are drained at an extreme rate.
+In the post-onset stage of the severe type, magic power and stamina are drained violently.
 
-Using magic becomes impossible. Removing the mushroom makes the condition worse, and the mushroom regenerates immediately.
+The patient can no longer use magic. Removing the mushroom only makes things worse, and it grows back at once.
 
-As magic power and stamina are rapidly depleted, the patient shows symptoms such as clouded consciousness and loss of the five senses, then falls into a coma. Once that happens, even IV fluids no longer work. The draining continues until all nutrients are gone and the patient dies.
+As magic power and stamina rapidly drain away, the patient shows clouded consciousness, loss of the five senses, and similar symptoms, then falls into a coma. At that point, even IV fluids stop working. The draining continues until every last nutrient is gone, and the patient dies.
 
-Thus, those who develop the severe type die within 2–5 days. Unfortunately, the fatality rate is 100%.
+In this way, those who develop the severe type die within 2–5 days. Unfortunately, the fatality rate is 100%.
 
 ---
 
-After reading that far, I looked away from the letter and down at the Blue Witch, who wasn't moving a muscle on the entrance mat.
+After reading that far, I tore my eyes from the letter and looked down at the Blue Witch. She hadn't so much as twitched on the mat.
 
-Carefully, I took off the mask she always wore. Underneath was a beautiful young face, but it had turned ashen.
+Gingerly, I took off the mask she never went without. Underneath was the lovely face of a beautiful girl—lovely, but gone ashen.
 
 What the hell!?
 
-Her complexion is awful! This is the severe type! The fatality rate is 100%!
+Her color's awful! This is the severe type! The fatality rate's 100%!
 
-Is this the time to stand around in the entryway reading a letter!?
+Is this any time to be standing around in the entryway reading a letter!?
 
 The Flower Witch has an antidote!?
 
-Dumbass! Get moving, now!
+Dumbass! Get going, now!
 
 "Hey, hang on! I'm taking you to the Flower Witch right now!"
 
-I squished the Blue Witch's cheeks as I called to her, then hurried to pull a cart out of the shed in the back garden.
+I squished her cheeks as I said it, then ran to drag a cart out of the shed in the back garden.
 
-I gently picked up the Blue Witch, carried her with the strength I'd built up doing farm work, and laid her in the cart on top of a blanket.
+I gently lifted the Blue Witch in my arms, hauled her out on the muscle I'd built doing farm work, and laid her in the cart on a spread blanket.
 
-Then I securely tied the bicycle and cart together with a short rope, looked at a map of Tokyo, and checked the route to Taito Ward and Arakawa Ward, where the Flower Witch had her base.
+Then I tied the bicycle and cart tightly together with a short rope and checked a map of Tokyo for the route to Taito Ward and Arakawa Ward, where the Flower Witch had her base.
 
-This was probably the best I could do. Full speed ahead. I had to reach the Flower Witch before the Blue Witch died and make her take the antidote.
+This was probably the best I could do. Full speed ahead. I had to reach the Flower Witch and get the antidote into the Blue Witch before she died.
 
-I shoved the map in my pocket and got on the bike.
+I shoved the map in my pocket and swung onto the bike.
 
-Then, as I started pushing down on the bike's heavy pedals, I read the rest of the Foresight Mage's letter.
+Then, as I started pushing the heavy pedals, I read the rest of Foresight's letter.
 
-You better not have "Prank successful!" written at the end of this letter, or I'm coming to punch you.
+If the end of this letter says "Prank successful!" or something, I'm coming over there to punch you.
 
 ---
 
-The only way to treat mushroom disease once it has progressed to the severe type is the antidote held by the Flower Witch.
+Once mushroom disease has turned severe, the only treatment is the antidote held by the Flower Witch.
 
-But unfortunately, she will never give the antidote to anyone other than you. Only you can obtain it. I need you to make a deal with the Flower Witch and get the antidote, no matter what.
+Unfortunately, she will give it to no one but you. Only you can obtain it. I need you to strike a deal with the Flower Witch and get that antidote, whatever it takes.
 
-As for the terms of the deal, they will not be painful or difficult for you.
+As for the terms, they will be neither painful nor difficult for you.
 
-The Flower Witch knows more or less what will happen next. The negotiation should go smoothly.
+The Flower Witch knows roughly what is going to happen. The negotiations should go smoothly.
 
-When you speak with her, it will seem as though she can predict the future, but that is not quite the case.
+Talking with her, you will feel as though she can predict the future, but that is not quite right.
 
-I would rather you did not tell too many people about this, but I once made a deal with the Flower Witch.
+I would prefer you not spread this around, but I once made a deal with the Flower Witch.
 
-As a result of that deal, I use half my magic power to foresee the Flower Witch's future. That is why she knows the future.
+As a result of that deal, I spend half my magic power foreseeing her future. That is how she knows what is coming.
 
-I could not fully understand what the future I saw meant, but when I told the Flower Witch, she seemed to understand. She needs you. And if you want the antidote for the Blue Witch, you need her.
+I could not fully grasp the meaning of what I saw, but when I told the Flower Witch about it, she seemed to understand. She needs you, and you need her—if you want the antidote for the Blue Witch.
 
-Unfortunately, this is all the information I can tell you.
+Unfortunately, this is all I can tell you.
 
-There is surely still information you want to know. There are also many things I want to tell you and ask you.
+I am sure there is more you want to know. There is a great deal I want to tell you and ask you as well.
 
-But apparently, any more information would be counterproductive.
+But apparently, any more information would backfire.
 
-You need only face the Flower Witch as you are.
+Just face the Flower Witch as you are.
 
-Apparently, that will lead to the best possible future. For everyone.
+That, it seems, is what will draw in the best possible future. For everyone.
 
-If you successfully obtain the antidote, use it on the Blue Witch first, then deliver the rest to the Bunkyo Ward Office. If I am still alive, I will handle the rest. Unfortunately, even if I am dead, my subordinates and the survivors of the Tokyo Witches' Council will somehow get the situation under control.
+If you get the antidote, use it on the Blue Witch first, then deliver the rest to the Bunkyo Ward Office. If I am still alive, I will take it from there. And even if, unfortunately, I am dead, my subordinates and the surviving members of the Witches' Council will somehow bring the situation under control.
 
 I wish you luck.
 
@@ -216,349 +216,345 @@ Foresight Mage
 
 ---
 
-The letter had been serious from start to finish, nowhere near a prank.
+The letter stayed serious from start to finish, nowhere near a prank.
 
-On the way to Taito Ward, where the Flower Witch had her base, I saw the reality of a pandemic that was nowhere near a prank.
+And on the way to the Flower Witch's base in Taito Ward, I saw for myself the reality of a pandemic that was nowhere near a prank either.
 
-My worry that someone might talk to me along the way, "unfortunately," proved unfounded.
+I'd been worried someone might talk to me along the way, but "unfortunately," that worry turned out to be for nothing.
 
-Almost without exception, the people I came across on the main roads I took lay collapsed on the ground.
+Almost without exception, the people I came across on the main roads lay collapsed on the ground.
 
-Those who had merely collapsed were still the better-off ones. Half of them had mushrooms growing from their heads. Some of the mushrooms had swollen bigger than their hosts' heads, and from their ugly, human-faced wrinkles came faint cries like fingernails scraping a blackboard. The hell of it was that those cries sounded louder than living people calling for help.
+And the ones who had only collapsed were the lucky ones. Half of them had mushrooms growing from their heads. Some of those mushrooms had swollen bigger than their hosts' heads, and from their ugly, human-faced wrinkles came faint cries like fingernails on a chalkboard. The real hell of it was that those cries sounded louder than the living calling for help.
 
-Being talked to by people was one of the things I hated most.
+Being talked to was one of the things I hated most in the world.
 
-But it was many times worse to have parasitic mushrooms with warped smiles—and I could tell they were smiling!—call out to me in incomprehensible, horrible cries.
+But having parasitic mushrooms with twisted grins—and I could tell they were grinning!—call out to me in horrible, incomprehensible cries was many times worse.
 
-The smell of charred things hit my nose in central Tokyo.
+In central Tokyo, the reek of burning stung my nose.
 
 Houses were being burned.
 
-People covered from head to toe in ugly patchwork vinyl suits—were those supposed to be chemical protective suits?—were setting houses on fire.
+People covered head to toe in ugly patchwork vinyl suits—were those supposed to be chemical protective suits?—were setting homes on fire.
 
-Some of the groups in vinyl suits were brawling or arguing with tough-looking armed people. I had no intention of eavesdropping, but they were yelling at each other with red faces, so I heard what both sides were saying whether I wanted to or not.
+Some of the vinyl-suit groups were brawling or arguing with tough-looking armed people. I had no intention of eavesdropping, but they were red in the face and screaming at each other, so I heard both sides whether I liked it or not.
 
-Apparently, the vinyl-suit groups called themselves the "Purification Squad," and they were burning mushroom-infested corpses along with the houses to stop the infection from spreading. Maybe they were doing it out of goodwill or a sense of duty, but based on the Foresight Mage's letter, their actions didn't seem to serve any purpose. Considering the risk of the fires spreading, they were probably harmful instead.
+Apparently, the vinyl-suit people called themselves the "Purification Squad," and they were burning mushroom-infested corpses along with the houses they lay in to keep the infection from spreading. Maybe they were doing it out of goodwill or a sense of duty, but going by Foresight's letter, it wasn't accomplishing anything. If anything, with the risk of the fires spreading, it was probably doing harm.
 
-The armed group was the security force. Fighting monsters was supposed to be their main job, but they had been dragged out to deal with the Purification Squad and were seriously pissed off. Monsters were still showing up as usual during the pandemic, so they were furious at the Purification Squad for making more work for them. In some places, they were blasting the Purification Squad with magic and beating down what was basically a group of arsonists.
+The armed ones were the security force. Their main job was supposed to be fighting monsters, but they'd been dragged out to deal with the Purification Squad, and they were livid. Monsters were still showing up as usual during the pandemic, so they were furious at the Purification Squad for piling on extra work. In some places they were blasting magic at the Squad and beating down what was basically a gang of arsonists.
 
-Tokyo was split between areas as quiet as death and districts in an uproar from fires and scuffles. There wasn't anywhere normal.
+Tokyo had split into two extremes: areas as quiet as the grave, and districts in an uproar of fires and brawls. There was nowhere normal left.
 
-I had my hood pulled down low and was pulling a cart behind my bike through all that, so I should have looked suspicious. But there were plenty of even more suspicious-looking people, so I didn't stand out by comparison.
+Riding through all that with my hood pulled low and a cart in tow, I should have looked suspicious. But there were plenty of people far more suspicious than me, so by comparison I didn't stand out.
 
-Of course, the Purification Squad stood out badly in their full-body patchwork vinyl suits. But there were also people festooned with empty cans of mold remover and laughing like mad, dead-eyed people dragging baskets taller than they were and collecting mushrooms from corpses, people spitting everywhere while giving speeches in some foreign language, and people praying to crosses made from scrap. All kinds.
+The Purification Squad stood out badly, of course, in their full-body patchwork vinyl suits. But there were also people draped all over with empty mold-remover cans, cackling like maniacs; dead-eyed people dragging baskets taller than they were, collecting mushrooms off corpses; people spraying spit as they ranted in some foreign language; and people praying to crosses built from scrap. All kinds.
 
-It was scary passing through all those obviously dangerous people, but the Blue Witch dying behind me spurred me on. I kept my eyes down so I wouldn't make eye contact with anyone and pedaled onward.
+It was scary passing between all those obviously dangerous people, but the Blue Witch dying behind me pushed me on. I kept my eyes on the road so I wouldn't meet anyone's gaze and kept pedaling.
 
-Honestly, I'd thought the Blue Witch was some invincible ultimate life-form. I'd never imagined she could get hurt or get sick.
+Honestly, I'd thought the Blue Witch was some invincible ultimate life-form. It had never crossed my mind that she could get hurt or sick.
 
-But apparently even the Blue Witch could come close to death sometimes.
+But apparently even the Blue Witch could end up at death's door.
 
 The Blue Witch was my one and only friend.
 
-If I let her die, I'd never be lucky enough to have a friend again.
+If I let her die, I'd never be lucky enough to have another.
 
-I'd never once thought being alone was painful.
+I'd never once thought being alone was hard.
 
-I probably never would. Ever.
+And I probably never would. Not ever.
 
-But sometimes, having someone with me made me happy.
+But sometimes, having someone around made me happy.
 
-So the Blue Witch was my one and only... Wait a second?
+So the Blue Witch was my one and only... Wait, hang on.
 
 What about Professor Ohinata?
 
-Right. That stoat girl had to have the severe type too! There was no way someone actively doing experiments as a magic linguistics professor had never experienced magic-power-depletion fainting.
+That's right. That stoat girl's got to have it bad too! No way someone running experiments nonstop as a magic linguistics professor has never had magic-power-depletion fainting.
 
-Oh shit. Professor Ohinata isn't my friend, but I don't want her to die. Once I get the Blue Witch to take the antidote, I'll have to hurry to Tokyo Magic University. For now, I've got to save the Blue Witch and Professor Ohinata.
+Oh crap. The professor isn't my friend, but I don't want her dying either. Once I get the antidote into the Blue Witch, I've got to hurry over to the Magic University. For now, saving the Blue Witch and Professor Ohinata comes first.
 
-And Foresight too, while I'm at it. He gave me advice. And maybe Professor Handa too? Professor Handa is my pretty decent riva... foil. Stay alive.
+And Foresight too, while I'm at it. He gave me advice. Professor Handa too, maybe? Professor Handa is my pretty decent riva... foil. Stay alive.
 
-And I don't want to see the Hell Witch dead with mushrooms growing from her while she's off traveling, and the Dragon Witch too... Eh, never mind the Dragon Witch.
+And I don't want to find the Hell Witch dead somewhere on her travels with mushrooms sprouting out of her, either. And the Dragon Witch... Eh, skip the Dragon Witch.
 
-Looking back on it, I'd made a lot more acquaintances than I thought.
+Thinking back, I'd picked up a lot more acquaintances than I'd realized.
 
-They were all basically strangers, but every one of them would get me down if they died. I didn't want to see them, but I wanted them to live healthy lives outside my field of vision.
+They were all basically strangers, but I'd be bummed if any of them died. I didn't want to see them, but I did want them living healthy lives somewhere outside my field of vision.
 
-For that too, I needed the Flower Witch's antidote. If I couldn't get the witch's medicine, I couldn't save even the Blue Witch, never mind Professor Ohinata.
+That was one more reason I needed the Flower Witch's antidote. If I couldn't get the witch's medicine, I couldn't even save the Blue Witch, let alone Professor Ohinata.
 
 ![p226.jpg](images/p226.jpg)
 
-It took about five hours after leaving Ome to reach Taito Ward. I pedaled until my legs were swollen and arrived huffing and puffing.
+After leaving Ome, I pedaled for about five hours, until my legs were swollen stiff, and finally huffed and puffed my way into Taito Ward.
 
-The Flower Witch controlled an area that stretched from Taito Ward into Arakawa Ward. The border of the Flower Witch's territory was easy to see. Abandoned cars covered in creeping ivy were piled up along the border.
+The Flower Witch ruled an area stretching from Taito Ward into Arakawa Ward, and the edge of her territory was easy to spot: abandoned cars crawling with vines were piled up all along the border.
 
-The only way in or out was through gates made in the gaps between the abandoned cars. There were gates, but no guards.
+The only way in or out was through gates set into gaps between the cars. Yet for all those gates, there wasn't a single guard.
 
-I didn't really get it, but it worked out for me.
+No idea why, but it suited me fine.
 
 I went through a gate into the Flower Witch's territory and wondered what to do next.
 
-I'd made it to the Flower Witch's home turf, but I didn't know where in this district she was.
+I'd made it to the Flower Witch's home turf, but I didn't know where in the district the witch actually was.
 
 She had to be somewhere. But where?
 
-Isn't there a guide sign somewhere? The kind with the witch's house on it, like a tourist attraction.
+Isn't there a map board around here or something? The kind that marks the witch's house like it's a tourist attraction.
 
-I didn't want to stop a passerby and ask, "Where's the Flower Witch's house?"
+I really didn't want to flag down some random passerby and ask, "Excuse me, where's the Flower Witch's house?"
 
-As I nervously looked around for a guide sign, a thick tree root suddenly burst out of the ground.
+While I was glancing around anxiously for a map board, a thick tree root suddenly punched up through the ground.
 
-I didn't freak out or anything, but I recoiled hard enough to nearly fall off my bike. The tree root moved as if beckoning me, then repeatedly pointed farther down the main road.
+I wasn't scared or anything, but I did jerk back so hard I nearly tumbled off my bike. The root made a beckoning sort of motion at me, then pointed down the main road, over and over.
 
-"Uh, um, are you the Flower Witch-san?"
+"Uh, um, are you Flower Witch-san?"
 
-When I nervously asked, the tree root gave no answer and disappeared back into the ground.
+The root didn't answer my timid question. It just sank back into the ground and vanished.
 
-...This is that thing, right? The thing in the Foresight Mage's letter.
+...This is that thing, right? The one from Foresight's letter.
 
-The part saying the Flower Witch more or less knew what would happen, so everything would go smoothly.
+The bit about how the Flower Witch pretty much knew what was going to happen, so things would go smoothly.
 
-I obediently went in the direction the tree root had pointed.
+I did as I was told and headed the way the root had pointed.
 
-Toward the center of the Flower Witch's territory, where she sat.
+Toward the heart of her territory, where the Flower Witch held court.
 
-I didn't know what would happen next, but I'd go as I was, just like the letter said.
+I didn't know what was coming, but like the letter said, I'd just go in as I was.
 
-Then things should work out.
+That should settle things.
 
 Surely.
 
 ---
 
-Guided by tree roots that occasionally popped out of the ground and beckoned me onward—root-beckoning instead of hand-beckoning—I arrived at the Tokyo Bunka Kaikan.
+Every so often a root would pop out of the ground and beckon me on—well, root-beckon, since it had no hands—and following them, I made it to the Tokyo Bunka Kaikan.
 
-More accurately, its ruins.
+Or what was left of it, anyway.
 
-Bright green moss grew on the concrete pillars even though it was winter, and a large beehive hung above the sign for "Tokyo Bunka Kaikan."
+Even though it was winter, vivid green moss covered the concrete pillars, and a big beehive had been built right over the "Tokyo Bunka Kaikan" sign.
 
-Every large glass window was broken. In place of the transparent man-made panes, thick curtains of vines kept out the wind and rain.
+All the big glass windows were smashed, and instead of clear man-made panes, thick curtains of vines kept out the wind and rain.
 
-The young camellia tree planted at the entrance quietly bloomed red, but every one of its few blossoms faced my way as if looking at me, watching me. It was seriously uncomfortable.
+A young camellia by the entrance was quietly blooming red, but its handful of flowers had all opened facing my way, like they were looking at me. Watching me. It made me seriously uncomfortable.
 
-I could tell from a distance that this was the Flower Witch's base. A huge tree of some unknown species, which looked a thousand or even two thousand years old, grew from inside the building and broke through the roof. It might have been 50, maybe 60 meters tall. Its dense foliage was white as snow and stood out against the blue sky. It was clearly not a tree from Earth. Flocks of little birds perched on its branches and chirped noisily to each other while their droppings dirtied the building's roof.
+Even from a distance, it was obvious this was the Flower Witch's base, because a giant tree of some unknown species grew up from inside the building and burst through the roof. It looked a thousand, maybe two thousand years old, and it stood 50 meters tall, possibly even 60. Its thick foliage was white as snow and stood out sharply against the blue sky. That was no tree from Earth. Flocks of little birds perched in its branches, chirping back and forth, and their droppings had stained the building's roof.
 
-Of all the buildings around it, only the Tokyo Bunka Kaikan was overgrown with plants. Sheltered by branches, leaves, and the scent of flowers, it felt like a natural sanctuary sitting alone in the concrete jungle.
+The Tokyo Bunka Kaikan was the only building for blocks that was overgrown with plants. Guarded by branches, leaves, and the scent of flowers, it felt like a natural sanctuary that had sprung up all alone in the concrete jungle.
 
-Following the beckoning root at the entrance, I parked my bike and cart, then carried the Blue Witch on my back.
+At the entrance, a root beckoned me on, so I parked my bike and cart and hoisted the Blue Witch onto my back.
 
-The Blue Witch's body was cold enough to make me shudder. I'd wrapped her back up in blankets every hour along the way and checked that she was alive, but her heartbeat was weak. It seemed like even a little shaking might stop it, so I carried her as gently as I could but hurried into the building.
+Her body was frighteningly cold. On the way here, I'd rewrapped her in blankets every hour and checked that she was still alive, but her heartbeat was faint. It felt like even a little jostling might stop it altogether, so I carried her as gently as I could while hurrying deeper into the building.
 
-The Flower Witch was waiting for me in the center of the building.
+The Flower Witch was waiting for me in the very center of the building.
 
-The Flower Witch was even more beautiful than the rumors made her out to be.
+She was even more beautiful than the rumors said.
 
-Her throne was dim in the shade of the giant tree, but in that shade, a huge flower bloomed.
+Her throne lay in the dim shade of the giant tree, but she bloomed there all the same, one huge flower in the shadows.
 
-Amid the collapsed, scattered rubble, vines and green leaves, each an armful across, formed a base for a crimson flower unlike any I'd ever seen.
+In the middle of the rubble scattered by the collapse, vines and green leaves, each leaf a full armful across, formed a base, and on top of it bloomed a crimson flower of a kind I'd never come across.
 
-I'd never seen such a beautiful red.
+I'd never seen a red so beautiful.
 
-It was like fresh blood, like flame, and like a jewel. Every petal overflowed with life, a striking, beautiful red. The beauty formed by nature's harmony was so beautiful it didn't seem like it belonged in this world.
+It was like fresh blood, like flame, like a jewel: an eye-catching red, every single petal brimming with life. Nature's harmony had shaped a beauty that seemed out of this world.
 
-And in the center of that huge crimson flower, a person was growing. She was a beautiful woman in her prime. Her well-proportioned body wore no clothes, but she wore vines and leaves instead, like avant-garde art.
+And growing from the center of that huge crimson bloom was a person: a good-looking woman in her prime. Her well-proportioned body wore no clothes, just vines and leaves draped over it like some piece of avant-garde art.
 
-Compared to the lower half, I honestly couldn't really make sense of the beauty of the human-shaped upper half. All women with pretty faces looked the same to me.
+The lower half was one thing, but honestly, I couldn't tell you whether the human-shaped upper half was beautiful or not. Women with nice faces all looked the same to me.
 
-Well, I guess her green hair's a nice shade. Not that I know.
+Well, her green hair's a nice color, I guess. What do I know.
 
 "Welcome to my sanctuary. I've been waiting for you."
 
-The Flower Witch smiled seductively and smoothly slid a vine toward me to stroke my cheek.
+The Flower Witch gave me a seductive smile, and a vine slithered out and stroked my cheek.
 
-Uh, um. This is scary. Why are you stroking me? A taste test?
+U-Um, excuse me. This is kind of scary. Why are you stroking me? Taste-testing?
 
-You really have been told about this, right? This vine isn't going to strangle me, right?
+You have been filled in on all this, right? This vine isn't going to strangle me or anything, right?
 
-"I will grant your wish. I will heal the Blue Witch. The Foresight Mage told you, didn't he? I will also give you enough antidote for all of Japan."
+"I will grant your wish and heal the Blue Witch. Foresight told you as much, didn't he? I will also give you enough antidote to go around all of Japan."
 
 "B-but...?"
 
-"Yes. But you will pay the price."
+"Yes. But. You will pay me a price."
 
-The Flower Witch smiled gracefully and parted the petals fanned around her like a skirt.
+With a graceful smile, the Flower Witch lifted the petals that spread around her like a skirt.
 
-Underneath was a tangled mess of vines, roots, and stems. Each one throbbed and squirmed slightly. Anyone with trypophobia would probably faint five or six times at the sight.
+Hidden underneath was a snarled mass of vines, roots, and stems, every one of them throbbing and faintly squirming. Anyone with trypophobia would faint five or six times just looking at it.
 
-"My first daughter plant couldn't be born. I am trying to give birth to a second daughter plant, but it is tangled up with the first daughter plant's corpse. At this rate, the second daughter plant will die."
+"My first daughter plant was never born. I am trying to bear a second, but she is tangled up with the first one's body. At this rate, she will die," the Flower Witch said sadly.
 
-The Flower Witch said sadly.
+"I cannot fix this myself. I tried to untangle them, but they only got more tangled.
 
-"There is nothing I can do. I tried to untangle it, but that only made it worse.
+"I cannot cut a single strand, or my daughter plant will die.
 
-"I can't cut even one strand. The daughter plant would die.
+"Nor do I have much time. She should have been born on the night of the full moon.
 
-"Time is limited too. She should already have been born on the night of the full moon.
+"You are the only one who can untangle this and save her.
 
-"Only you can untangle this and save my daughter plant.
+"Save my daughter plant, and I will give you the antidote."
 
-"Save my daughter plant. If you do, I will give you the antidote."
+"Oh, is that all?"
 
-"Oh, that's all?"
+It was such a letdown that I let out a sigh of relief.
 
-That was so anticlimactic I sighed with relief.
+The Flower Witch's lower half was a seriously gross tangle of vines, roots, and stems, but gross was all it was. The tangle itself was simple, and one look told me how to undo it.
 
-The Flower Witch's lower half was a seriously gross tangle of vines, roots, and stems, but it was only gross. The tangle itself was simple. I could see right away how to untangle it.
+Seriously, she can't untangle something this easy? The Flower Witch must be super clumsy. Poor thing.
 
-You seriously can't untangle something this easy? The Flower Witch is super clumsy. Poor thing.
-
-But thanks to that, I can get the antidote for mushroom disease easily. I'd been scared of what she'd demand in return, but this'll be easy. What a relief.
+But thanks to that, the mushroom disease antidote is as good as mine. I was scared of what she'd demand in return, but this'll be a breeze. What a relief.
 
 "Um..."
 
-"Lay the Blue Witch down there. You won't be able to do anything with her still on your back."
+"Lay the Blue Witch down over there. You can hardly work with her on your back."
 
 "Oh, thanks."
 
-I gently laid the Blue Witch on the bed of dead leaves and branches that had been prepared, brushed the hair away from her face so she could breathe more easily, then faced the Flower Witch again and rolled up my sleeves.
+I gently laid the Blue Witch on the bed of dead leaves and twigs that had been set out for her, brushed the hair off her face so she could breathe easier, then turned back to the Flower Witch and rolled up my sleeves.
 
-"Careful, all right? If you fail, I will kill you and the Blue Witch and suck you dry."
+"Be careful, won't you? If you fail, I will kill you and the Blue Witch both and drain you dry."
 
-"Ha ha, you must be joking. That's like saying you'll kill me if I fail to build a card tower."
+"Ha ha, you're joking, right? That's like saying you'll kill me if I screw up building a house of cards."
 
-"...Wouldn't that be difficult?"
+"...Then wouldn't it be difficult?"
 
-"I don't know what you're talking about."
+"Sorry, I have no idea what you're saying."
 
-I'm saying failing is the hard part. Why isn't that getting through?
+I'm saying failing would be the hard part. Why isn't that getting through?
 
-I ducked under the Flower Witch's petal skirt and untangled the mess in a few quick motions.
+I crawled under the Flower Witch's petal skirt and had the tangle undone in no time flat.
 
-"All done. Here's the daughter plant. She's a healthy girl! Now, give me the antidote."
+"All done. Here's your daughter plant. It's a healthy baby girl! Okay, the antidote, please."
 
 When I held out the daughter plant I'd delivered, the Flower Witch's eyes went wide.
 
-The daughter plant that had nearly suffocated deep among the roots was safe. I handed over the daughter plant, a miniature version of the Flower Witch, and held out my hand. C'mon, antidote.
+The little one had nearly suffocated deep in the roots, but she'd pulled through. I handed over the baby, who looked like a miniature Flower Witch, and stuck out my hand. C'mon. Antidote.
 
-But for some reason, the Flower Witch drew back a little as she took the fussing daughter plant.
+For some reason, though, the Flower Witch looked a little weirded out as she took the fussing baby.
 
-"R-Right. My daughter plant is safe. Right. It really was that easy? For you. Right..."
+"I-I see. My daughter plant is safe. I see. So it was this easy? For you, that is. I see..."
 
 "Um, the antidote?"
 
-The Flower Witch had been shaken, but the moment she held the daughter plant in her arms, her face turned gentle.
+The Flower Witch had been rattled, but the moment she cradled the daughter plant in her arms, her face softened.
 
-She made a sound like a cry, a song, or the melodic rustling of trees, and began soothing the daughter plant.
+She began to soothe the baby with a sound like a birdcall, or a song, or trees rustling in a melody.
 
-I'm asking for the antidote, but this witch isn't giving it to me. Well, she did just give birth. Of course the baby comes first.
+I keep asking for the antidote, and this witch keeps not handing it over. Well, she did just give birth. Naturally the baby comes first.
 
-She looked so full of love, completely wrapped up in their own little world, that I decided to kill time for a while. I dug a grave for the other daughter plant I'd taken out... the dead, mummified daughter plant.
+She looked at her baby with so much love, the two of them so lost in their own little world, that I decided to kill some time. I dug a grave for the other daughter plant I'd delivered... the dead, mummified one.
 
-With my bare hands, I dug up the leaf mold in a corner of the throne room, flipped a cracked tile over and moved it aside, then laid the body in the hole.
+I dug into the leaf mold in a corner of the throne room with my bare hands, flipped a cracked tile out of the way, and laid the body in the hole.
 
-This child had a humanoid upper body too, but a silent corpse didn't scare me.
+Her upper half was human-shaped too, but a silent body didn't scare me.
 
 Amen. Namu Amida Butsu.[^2] Rest in peace.
 
-I put my hands together, made the sign of the cross, silently recited the Bible verses I knew, then covered the body with dirt.
+I put my hands together, made the sign of the cross, and silently recited whatever Bible verses I knew before covering her with dirt.
 
-What a tragedy. She hadn't even been able to be born.
+What a sad story. She never even got to be born.
 
 She died without ever getting to love anything.
 
-This child couldn't even live, and yet she almost killed her little sister.
+She never even got to live, and she'd nearly killed her little sister anyway.
 
-At least you can rest peacefully now. It ain't much, but I'll make you a grave.
+So at least rest easy from here on out. It ain't much, but I'm making you a grave.
 
-After I finished covering the body with dirt, I brought over a light stone from the rubble and put it down as a gravestone. Then I found a piece of broken glass among the dead leaves, chipped it with a pointed stone into a flower shape resembling her mother's form, and placed it before the grave.
+Once she was buried, I grabbed a light-looking stone from the rubble and set it down as a grave marker. Then I dug a shard of broken glass out of the dead leaves, chipped it with a pointed rock into a flower shaped like her mother, and left it in front of the grave as an offering.
 
-Well, that should do. See you in the next life. Rest in peace!
+Well, that'll about do it. So long, and good luck in the next life! Go in peace!
 
-Now then, the touching first meeting between mother and child should be about over by now.
+Okay, the touching first meeting between mother and newborn should be about wrapped up.
 
-I brushed the dirt off my hands and turned around to get the antidote. The Flower Witch, holding the daughter plant as it slept soundly, was staaaaaring at me.
+I dusted the dirt off my hands and turned around to collect my antidote, only to find the Flower Witch, her daughter plant sound asleep in her arms, staaaaaaring at me.
 
-I turned pale and started shaking.
+The blood drained from my face, and I started shaking.
 
-"Eek! U-Um, sorry for doing something extra. I-I-I-I'll put it back right away. I'll dig it right back up. Right away!"
+"Eek! U-Um, sorry for sticking my nose in. I-I-I-I'll put it right back. I'll dig it right back up. Right now!"
 
 Oh crap!
 
-I did something stupid! All I'd been asked to do was help with the birth. Who told me to make a grave?
+I screwed up! All she asked for was help with the birth. Who told me to go making graves?
 
-Nobody asked me to do this. It was extra, unnecessary... Agh! What is wrong with me!?
+Nobody asked for this. It's extra, it's uncalled for... Argh! What is wrong with me!?
 
-I hurried to dig up the grave and put everything back the way it was, but a tree root grabbed my arm and I froze.
+I scrambled to dig the grave back up and put things the way they'd been, but a tree root grabbed my arm, and I froze.
 
-Oh no.
+I'm done for.
 
 She's going to kill me.
 
-I despaired, but when I cracked one eye open to check the Flower Witch's expression, she wasn't angry.
+I was in total despair, but when I peeked at the Flower Witch through half-closed eyes, she didn't look angry.
 
-She was staring at me closely, like she'd just seen some bizarre creature for the first time.
+She was studying me intently, like she'd just spotted some bizarre, rare animal for the first time.
 
-"I'd only ever been shown this child's future. All I wanted was for this child to be born safely. But you saw the other child I refused to look at."
+"All I ever had foreseen was this child's future. All I wanted was for her to be born safely. But you saw that other child, the one I refused to look at."
 
 "Huh? Uh...? I guess?"
 
-The Flower Witch's voice was calm. The tree root holding my arm wasn't gripping hard either.
+The Flower Witch's voice was calm, and the root around my arm wasn't squeezing hard, either.
 
-Looks like she isn't going to kill me...?
+Maybe she isn't going to kill me after all...?
 
-"I'm grateful. Thank you. I'll give you the antidote now."
+"I am grateful to you. Thank you. I will give you the antidote now."
 
 "Oh, thanks."
 
-Not only had I been forgiven, the Flower Witch seemed to be in a good mood. Something had apparently struck a chord with her.
+Not only was I forgiven, the Flower Witch actually seemed to be in a good mood. Something must have struck a chord with her.
 
-Maybe she liked the design of the offering? Studying design really pays off.
+Maybe she liked the design of my offering? See, this is why you study design.
 
-The Flower Witch released my arm, then twisted tree roots and vines together into a wooden pail, which she cut off from her body.
+The Flower Witch let go of my arm and set her roots and vines writhing, weaving them together into a wooden pail, which she then snipped off from her body.
 
-She held the tip of a branch over the pail she'd placed on the ground and began dripping a transparent liquid into it.
+She set the pail on the ground, held the tip of a branch over it, and began dripping a clear liquid inside.
 
-At once, a fresh fragrance like forest bathing spread through the air. That alone made the pulsing mushroom growing from the Blue Witch's head blacken and wither.
+At once, a fresh scent spread through the air, like a walk in the woods, and that alone was enough to make the throbbing mushroom on the sleeping Blue Witch's head turn black and wither.
 
 "!? Huh, just from the smell? She didn't even drink it!?"
 
-It's like a healing aura. How does that work?
+That's a straight-up healing aura! How does that even work?
 
-I rushed over to check on the Blue Witch. Her almost corpse-like complexion was starting to show signs of life again. Her breathing stabilized too, settling into soft, peaceful breaths.
+I ran over to check on the Blue Witch. Her skin, which had been nearly the color of a corpse's, was starting to come back to life. Her breathing had steadied too, settling into soft, peaceful little breaths.
 
-The Flower Witch explained to me as she dripped liquid into the pail.
+While I gaped, the Flower Witch explained, still dripping liquid into the pail.
 
-"Plants like us can secrete special compounds to protect ourselves from fungi and insects. It's commonly known as essential oil. Essential oil has a sterilizing effect. Ordinary essential oil doesn't work on that mushroom, but my essential oil works very well. None of the residents in my district were infected, were they?"
+"Plants like us can secrete special compounds to protect ourselves from fungi and insects. People commonly call it essential oil. Essential oil kills germs. Ordinary essential oil has no effect on that mushroom, but mine works very well. None of the people in my district were infected, were they?"
 
-"Ah, um, I was walking while looking down, so I don't know."
+"Oh, uh, well, I was looking at my feet the whole way, so I couldn't tell you."
 
-"I-I see. You're shy around people?"
+"I-I see. You're shy with strangers, then?"
 
-She said it like she was trying to be considerate of me.
+She said it like she was trying to be tactful about it.
 
 She totally figured out I'm socially awkward. So what if I am!
 
-"This essential oil kills the mushroom on contact with its vaporized components, so a spray diluted a thousand, ten thousand... no, a hundred thousand times should still wipe it out. It will kill magical fungi other than the mushroom and insect monsters too, but that's fine, isn't it?"
+"This essential oil kills the mushroom through mere contact with its vapor, so even spraying a solution diluted a thousand, ten thousand... no, a hundred thousand times should wipe it out. It will also kill other magical fungi and insect monsters, but you don't mind, do you?"
 
-"Of course."
+"Well, obviously."
 
-I nodded.
+I nodded. Some people might mind, but any way you sliced it, wiping out the mushroom came first.
 
-Maybe some people would mind, but however I looked at it, killing the mushroom came first.
+"This is only my impression, but I suspect this mushroom is the kind you become immune to once you've caught it and recovered. You need not worry about a second or third pandemic. Of course, it will still need investigation, research, and countermeasures, but you can leave all that to Foresight or the Eyeball Witch. There. That is plenty."
 
-"This is only my impression, but this mushroom is surely the type that gives you immunity once you've been infected and cured. You don't need to worry about a second or third pandemic. Of course, investigation, research, and countermeasures will be necessary, but leave that to the Foresight Mage or the Eyeball Witch. There, we've collected enough now."
+While she was talking, the pail had filled to the brim with essential oil, and the Flower Witch capped it with a lid made of vines and branches.
 
-While she spoke, the pail had filled to the brim with essential oil. The Flower Witch put a lid made from vines and branches over it.
+But when I reached for the pail, humanity's new hope, a tree root suddenly seized my hand, and the Flower Witch yanked me in close.
 
-As I reached for the pail that would become humanity's hope, the Flower Witch suddenly grabbed my hand with a tree root and pulled me hard toward her.
+"Wh-wh-wh-what is it, what is it, what is it!? Mmph!"
 
-"Wh-wh-wh-what is it, what is it, what is it!? Mmgh!"
+As I stumbled, she grabbed my jaw, pried my mouth open, and tipped my head back without a word of answer.
 
-I stumbled, and the Flower Witch grabbed my mouth with her hand, pried it open, and tilted my head back. She didn't answer.
+Smiling beautifully all the while, she let three drops of a golden liquid fall into my mouth from the tip of a bundle of petals.
 
-Smiling beautifully, she dripped three drops of golden liquid secreted at the tips of bundled petals into my mouth.
+It was terror, pure and simple. Eek! What is she making me drink!?
 
-It was pure terror. Eek! What is she making me swallow!?
+I tried to spit out the mystery liquid, but she slid a thin vine down my throat and forced me to swallow.
 
-I tried to spit out the unknown liquid, but she pushed a thin vine into my throat and made me swallow it by force.
-
-Once the Flower Witch confirmed that I'd swallowed the golden liquid, she released her hold and let me go.
+Once she'd made sure the golden liquid had gone down, the Flower Witch let me go.
 
 I dropped to all fours and coughed violently.
 
-It didn't feel unpleasant. If anything, the golden liquid she'd made me drink was sweet and fragrant. It felt good, like the power of nature was filling my body. But I had no idea what it was.
+It didn't feel bad, exactly. If anything, the gold she'd forced on me was sweet and richly fragrant, and there was a pleasant sense of nature's power filling my body. But I had no idea what the stuff was.
 
-I swallowed it! What? What did she do to me? Explain!
+I actually drank it. What? What did she just do to me? Explain!
 
 ![p238.jpg](images/p238.jpg)
 
@@ -566,45 +562,45 @@ I swallowed it! What? What did she do to me? Explain!
 
 "You're better off not knowing. But it isn't anything harmful."
 
-"No, I want to know. What did you make me drink?"
+"No, I really do want to know. What did you make me drink?"
 
-"Countless people would kill you just to find out what you drank."
+"There must be mountains of people who would kill you just to learn what you drank."
 
-"Eek..."
+"Yikes..."
 
 She's been way too scary this whole time.
 
-Can you not make me drink something so dangerous?
+Could you maybe not feed me something that dangerous?
 
-The Flower Witch just smiled as she gently rocked the daughter plant in her arms. She didn't seem likely to explain anything more.
+The Flower Witch only smiled, gently rocking the daughter plant in her arms, and didn't look like she planned to explain any further.
 
-Foresight Mage, you liar! You wrote that the deal was safe, didn't you!
+Foresight, you liar! You wrote that the deal was safe!
 
-Wait, did he? He did write that it wouldn't be painful or difficult, but I don't think he wrote that it was safe.
+Wait, did he? He wrote that it would be neither painful nor difficult, but I don't think he ever actually said safe.
 
-Damn it, he got me!
+Damn it, I've been set up!
 
 Looking on the bright side, what she'd made me drink was probably harmless.
 
-Giving the midwife poison after I'd helped with the birth as agreed would be insane. Even witches tended to have warped ethics, but I wanted to believe she wouldn't go that far.
+Poisoning the midwife right after he'd helped with the birth exactly as agreed? That would be insane. Witches did tend to have warped morals, but I wanted to believe even a witch wouldn't go that far.
 
-What she'd made me drink was probably safe to drink.
+Whatever it was, it was probably fine to drink.
 
-But what did it mean that there were lots of people who'd kill me to find out what I drank?
+But then what was all that about tons of people being willing to kill me to find out what I'd drunk?
 
-So it is dangerous stuff after all!
+So it's dangerous after all!
 
-I wanted to press her about what I'd drunk, but she seemed like she'd get angry if I interrupted the mother and child's time alone too much. And even now, people were dying from mushroom disease.
+I wanted to grill her about what exactly I'd drunk, but she looked like she'd get mad if I kept intruding on her private time with her baby. Besides, people were dying of mushroom disease at this very moment.
 
-One of them could be the Foresight Mage, or Professor Ohinata.
+It could be Foresight. It could be Professor Ohinata.
 
-No matter what she'd made me drink, it would be wise to trust that it wasn't life-threatening and leave.
+Whatever she'd fed me, the smart move was to trust it wouldn't kill me and get out of here.
 
-I had to get the antidote to the Bunkyo Ward Office quickly.
+I had to get the antidote to the Bunkyo Ward Office, fast.
 
-With the Blue Witch breathing peacefully on my back and the heavy pail tied firmly to my belt, I left the plant sanctuary. The Flower Witch called after me in a friendly voice.
+With the Blue Witch breathing peacefully on my back and the heavy pail tied tight to my belt, I left the plant sanctuary. As I went, the Flower Witch called after me warmly.
 
-"I'd like us to have a long, good relationship. Come see me once in a while, won't you? You'll be welcome."
+"I hope you and I will be on good terms for a long time to come. Do come see me now and then. You will be welcome."
 
 【alraune secret nectar】
 

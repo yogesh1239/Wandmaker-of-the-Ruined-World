@@ -131,3 +131,26 @@
 - Part 2 source lines 350–547 were audited as one 198-line chunk, with the full accuracy pass completed before one English-first polish pass.
 - `origin`, all three furigana-bearing death-curse incantations, Dareda Kimi, Kyogoku Yamato, blood wand Vampir, ritual magic, focus wand, death-curse magic, beast mantis, monster classification table, honorifics, JP name order, and narrative tense were verified.
 - `![p197.jpg](images/p197.jpg)` remains in its exact source position and form; no scene breaks or footnotes occur in this scope.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–547; agent `reedit-v2c11-s1`; ~60 edits, mostly paragraph rebuilds). Flow: short-sentence share 15.7% → 17.3%; runs 0 → 0 (baseline not choppy; short beats kept: "Dareda ran.", "That settled it.", "The date was December 25. Christmas."). Narration was already past.
+
+### Accuracy Fixes
+- **自分でも魔法を使えるようになるのではないだろうか**: first-person present slip → "Maybe if he got his hands on Cyanos, even he could use magic?" — tense (free indirect, close third on Dareda)
+- **魔女集会 (bare, ×4)**: "Tokyo Witches' Council" → "Witches' Council"; full form kept where the source has 東京魔女集会 — glossary
+- **魔法大学**: lowercase "the magic university" → "Magic University" wherever it names the school; lowercase kept for the first, unnamed announcement — glossary
+- **小林から焦点杖を奪い (JA 478)**: narration "Kobayashi-san" → "Kobayashi" (source narration has no さん); Ohinata's dialogue keeps "Kobayashi-san" — address
+- **儀式魔法と連携の訓練をみっちり積んだ**: → "drilled hard on ritual magic and teamwork" — accuracy
+- **部隊員の一人の言葉に、京極は頷き**: speaker restored — referent
+- **ここからここの間かと**: → "somewhere between here and here" (pointing gesture kept) — accuracy
+- **どちらも上位互換がいた**: → "basically an upgraded version of him" — accuracy
+- **文字通り転がり込んできた杖**: → "literally rolled into its lap" (pun kept) — accuracy
+- **「儀式魔法準備ーッ！起点、垂田！」**: → "Ritual magic, get ready! Origin, Dareda!" — punct
+- [polish] **一般成人男性だ** opener and the triathlon/professor-selection passages: front-loaded clause removed, flat short-sentence runs merged — polish
+
+### Register and Flow
+Close third on **Dareda** throughout; no Ori voice. Lowercase "magic university" remains in V2 Ch17 and V3 Ch17 for their own re-edits.
+
+### Formatting Confirmed
+- Three incantation ruby spans byte-identical; no notes; no backticks; `check_reedit.py` PASS; `run_chapter_gates.py --unit 2 --chapter 11` ALL PASS.

@@ -45,7 +45,7 @@ Names follow `glossary.md`. Speech fields record only source evidence from Volum
 ### Ohinata Kei (大日向慧)
 **Japanese Name:** 大日向慧  
 **Gender:** Female  
-**Role:** Fourteen-year-old Tokyo Magic University president and magic-linguistics professor; can take stoat form.
+**Role:** Fourteen-year-old (twelve in Volume 1; fourteen by Volume 3) Tokyo Magic University president and magic-linguistics professor; can take stoat form.
 
 #### Speech Patterns
 - **First-person pronoun:** 私 — standard, polite self-reference.

@@ -73,3 +73,49 @@
 - Full source audited in three sequential chunks: lines 1–180, 181–360, and 361–526; accuracy pass completed before one polish pass.
 - Exact glossary terms, narrative/direct-thought tense, the 12-hour and one-week technical figures, image marker, and absence of title heading verified.
 - No footnotes or Translator Notes were present to consolidate.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–526; agent `reedit_v3c8_s1`; model `gpt-5.6-sol` at high reasoning; ~108 paragraph edits). Flow: short-sentence share 24.1% → 29.0%; runs 2 → 5 (LIGHT PASS: retained magical-death refrain, camera/syringe fakeout, fearful hesitation, refusal punchline, and salamander-recognition exclamations).
+
+### Accuracy Fixes
+- **数日後…使者が…やってきた**: separated Ori's return from the envoy's arrival several days later — accuracy
+- **資料…熟読したところ**: “According to…” → “After studying…I learned…” — accuracy
+- **クラーケン…逃亡する**: rebuilt the escape explanation as one escalating sequence — polish
+- **見間違える事はない**: removed unsupported settling detail; retained the visible precipitation of blood components — accuracy
+- **爆速で応用研究**: restored Professor Ohinata as the research agent — referent
+
+### Register and Flow
+Ori's immediate questions, fears, refusals, and current appraisals stayed in present speech tense; narration stayed past. All five retained short-sentence runs match deliberate source beats.
+
+### Formatting Confirmed
+- The 12-hour and one-week figures, glossary terms, ruby, and `![p135.jpg](images/p135.jpg)` were preserved.
+- No notes or heading were added, and no reference file was changed.
+- `check_reedit.py` PASS (FLOW LIGHT PASS); chapter gates PASS.
+
+### Lead Review (full change-by-change subagent review, 108 changes)
+- **魔獣は全て魔女集会の管理下だ** (JP 82): “the animals … the Council's control” → “the magic beasts … the Witches' Council's control” — glossary
+- **ミーミー鳴いて威嚇してくる** (JP 88): “meeped threats” → “meeped at me threateningly” — polish
+- **家畜化に向かない** (JP 100): “unsuited to domestication” → “unsuited to monster domestication” — glossary
+- **家畜化に向かない** (JP 103): “weren't suited to domestication” → “weren't suited to monster domestication” — glossary
+- **家畜化に向かない** (JP 106): “weren't suited to domestication” → “weren't suited to monster domestication” — glossary
+- **家畜化への次のステップ** (JP 130): “next step in domestication” → “next step in monster domestication” — glossary
+- **家畜化成功** (JP 148): “successful domestication” → “successful monster domestication” — glossary
+- **むしろ畜産の基本の逆をいく** (JP 118): the condition itself no longer contradicts livestock basics; restored the salamanders as subject and むしろ (“As for the third condition … they actually went against …”) — accuracy
+- **ちょっとグロい改造手術** (JP 142): “The procedure was pretty gruesome” → “It was a bit of a gross modification surgery” — accuracy
+- **この改造手術は簡単ではない** (JP 151): “the procedure” → “this modification surgery” — accuracy
+- **かなり分かりやすくハッキリと塊を作って沈殿するようだ** (JP 181): removed added “large”; restored ようだ hedge (“seemed to form a very obvious, clearly visible clot and precipitate”) — accuracy
+- **重々注意が必要だ** (JP 235): restored the dropped caution (“you had to keep firmly in mind that …”) — accuracy
+- **魔物に自分達と同種だと認識させる事ができる** (JP 238): removed “only”, which pre-empted “But that was all.” — polish
+- **確かに…代用できそうだ…実際に代用は可能だったらしい** (JP 286): restored 確かに, the そう hedge, and 実際に — accuracy
+- **飛び上がって驚く** (JP 346): restored “in surprise” — accuracy
+- **断りたい** (JP 421): “I want to refuse.” → “I wanted to refuse.” — tense
+- **…と言いたい** (JP 424): “I want to tell” → “I wanted to tell” — tense
+- **心配で心配で仕方ないに決まっている** (JP 430): returned the cold-sleep conditional to past (“was … said … you'd worry”) to match the block — tense
+- **この付き添い希望は断れない** (JP 433): “I can't refuse” → “I couldn't refuse” — tense
+- **いっそ…ぶん投げてしまいたい** (JP 439): “Part of me wants to tell” → “I was tempted to just tell” — tense
+- **想像するのも恐ろしい** (JP 442): “I don't even want to imagine” → “It was scary to even imagine” — tense
+- **他人事ではいられない** (JP 445): “try … I've gotten … There's no staying” → “tried … I'd gotten … There was no staying” — tense
+- **俺の看病はしないで欲しい** (JP 460): “But don't nurse me.” → “But I don't want anyone nursing me.” — voice
+
+`check_reedit.py` RESULT: PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 8` ALL PASS.

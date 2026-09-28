@@ -1,280 +1,280 @@
-The good thing about online auctions was that I could make money without seeing anyone face-to-face.
+The good thing about online auctions was that I could make money without ever seeing anyone face-to-face.
 
-They were a godsend for someone like me who liked being alone.
+For someone like me, who liked being alone, that was a godsend.
 
-I'd bounced between all kinds of jobs since entering the workforce, but I couldn't stand seeing people or talking to them. The stress made me sick, so I shut myself away in a rented house in Okutama and started making a living through online auctions.
+I'd bounced between all kinds of jobs after I started working, but I couldn't stand facing people or talking to them. The stress made me sick, so I shut myself away in a rented house in Okutama and started making a living off online auctions.
 
 With a small vegetable patch, a well, delivery services (doorstep drop-off), and online auctions, I could go all year without seeing anyone face-to-face.
 
-At first, I made money by relisting repaired items.
+At first, I made money relisting things I'd repaired.
 
-The one thing I'd always been supremely confident in was working with my hands, and sure enough, I managed to fix every piece of junk I bought thinking I could repair it.
+If there was one thing I'd always had total confidence in, it was my skill with my hands, and just as I'd figured, every piece of junk I bought expecting to fix, I fixed.
 
-I bought broken antique clocks, old mechanical dolls, rusted safes with missing keys, and the like for cheap, repaired and repainted them, then relisted them. That earned me just enough to get by.
+I'd buy broken antique clocks, old mechanical dolls, rusted safes with lost keys, and the like for cheap, fix them up, repaint them, and relist them, which earned me just barely enough to live on.
 
-But competitors were everywhere, and someone doing the same thing often bought an item I had my eye on before I could. Besides, affordable items weren't listed consistently.
+But there's competition everywhere, and someone doing the same thing would often snap up an item I'd had my eye on before I could. Besides, affordable items didn't show up on any reliable schedule.
 
-Making money by relying on other people's listings wasn't stable.
+Relying on other people's listings for income just wasn't stable.
 
 So I decided to become a producer myself.
 
-Instead of buying broken goods, repairing them, and relisting them, I'd make original products from scratch and put those up for sale.
+Instead of buying broken goods, fixing them, and relisting them, I'd make original products from scratch and sell those.
 
-I made all sorts of things, like marquetry puzzle boxes, snow globes, artificial flowers, and models, but the things that sold most steadily and for the highest prices were replica weapons from popular anime.
+I made all sorts of things—marquetry puzzle boxes, snow globes, artificial flowers, models—but what sold most reliably, and for the best prices, was replica weapons from popular anime.
 
-Anime often featured magic swords and mysterious wands, and the official rights holders released that kind of merchandise.
+Anime were always featuring magic swords and mysterious wands, and the official rights holders would put out merchandise of them.
 
-But they looked cheap and obviously toy-like, came in limited runs with only a few for sale, cost too much, or took months to arrive after you ordered them.
+But that merch often looked cheap and obviously toy-like, came in limited runs with only a handful available, cost too much, or took months to arrive after you ordered it.
 
-So every week I checked the popular anime airing that season and picked out weapons that looked like something I could make and sell. If I was quick, I made a replica and put it up for sale the same week the weapon appeared in the anime.
+So every week I checked that season's popular anime and picked out any weapon that looked like something I could make and sell. If I was quick, I'd have a replica made and up for sale the same week the weapon showed up on screen.
 
-They didn't sell much at first, but the anime's popularity helped, and before long they started selling at the buy-it-now price. Becoming known as a reliable seller helped a lot too.
+At first they didn't sell much, but the anime's popularity carried them, and soon they were going at the buy-it-now price. It also helped a lot that I'd built a name as a reliable seller.
 
-Reproducing complex transformation mechanisms, making my own perfume inspired by the characters who used the weapons and scenting the items with it, and even caring about how the paint color came out, the feel of the materials, and durability all paid off. Products I billed as "seriously realistic" were insanely popular.
+I reproduced complex transformation mechanisms, made my own perfume inspired by the character who wielded each weapon and scented the item with it, and obsessed over paint color, the texture of the materials, even durability. All that effort paid off, and products I billed as "seriously realistic" were a massive hit.
 
-My pockets filled up. I was able to buy a full set of crafting equipment, more than cover material costs, and even save money. I no longer had to do something as pathetic as sneaking into junkyards to gather materials. I could afford to buy materials online or buy a piece of mountainside land and cut down the trees myself.
+With the money rolling in, I bought a full set of crafting tools, covered my material costs with plenty to spare, and even started saving. No more stooping to sneak into junkyards for materials. Now I could afford to order them online, or even buy a patch of mountainside and cut down the trees myself.
 
-Auctioning anime goods was the perfect job. It let me profit from my hobby, and I didn't have to meet anyone.
+Auctioning anime goods was the perfect job: it turned my hobby into profit, and I never had to meet anyone.
 
 Of course, there were problems too.
 
-For example, I had no answer at all to comments asking, "Do you have permission from the anime's official rights holders to sell these?" I was so scared of being sued by them that buying the full range of official merchandise and displaying it on my household shrine became a habit. I tried to overlap with their product lineup as little as possible, but I was still selling without permission.
+For example, I had no comeback at all for comments like "Do you have permission from the anime's official rights holders to sell these?" I was so scared of getting sued that I'd made a habit of buying one of every piece of official merch and displaying it all on my household shrine. I tried to avoid overlapping with their product lineup as much as I could, but I was still selling without permission.
 
-Reselling was a problem too. Shameless bastards would immediately buy items I'd listed and resell them at high prices. It pissed me off, but I was also a shameless bastard selling goods without permission from the official rights holders. It pissed me off that I couldn't come down hard on them.
+Resellers were a problem too. Some shameless bastards would snap up whatever I listed and flip it at a markup. It pissed me off, but I was a shameless bastard myself, selling goods without the rights holders' permission. Not being able to come down hard on them was infuriating.
 
-Of course, I considered getting official permission or approaching them about a merchandise sales partnership. But I was a certified social misfit, by my own admission and everyone else's. Just imagining the effort and social interaction involved in dealing with the official rights holders made my stomach hurt and left me feeling like I might throw up.
+Of course, I'd thought about getting official permission, or approaching them about a merchandising partnership. But I was a certified social misfit, by my own admission and everyone else's. Just imagining the effort and back-and-forth of dealing with the rights holders made my stomach hurt and left me ready to throw up.
 
-This was a job I did so I could live without meeting or talking to people. Meeting and talking to people for the job would have been completely backwards.
+I did this job so I could live without meeting or talking to people. Meeting and talking to people for the sake of the job would have defeated the whole point.
 
-Even with those problems, I was living a mostly fulfilling life deep in the mountains when I found a meteorite in my backyard one day.
+So there I was, problems and all, living a mostly fulfilling life deep in the mountains, when one day I found a meteorite in my backyard.
 
-The meteorite lying in a small crater was still a little warm, which suggested it had come from last night's meteor shower.
+It was lying in a small crater and still a little warm, which told me it had probably come from last night's meteor shower.
 
-Overjoyed, I picked up the meteorite and immediately took it home.
+Overjoyed, I picked it up and took it straight home.
 
-Making fantasy weapons had started out as work to make money, but as my skills improved, it became more fun and turned into my life's work. A magic weapon forged from a meteorite... Nothing could have been more packed with fantasy and romance.
+Making fantasy weapons had started out as a way to earn money, but the better I got, the more fun it became, until it turned into my life's work. A magic weapon forged from a meteorite... It didn't get any more romantic than that.
 
-I can make it a wand. I can make it a sword. Would making it a gun be trying too hard to be weird?
+I can make it a wand, or I can make it a sword. Would a gun be too gimmicky?
 
-When I examined the meteorite closely, I found a clear, gemlike crystal at the center of an outer shell made from a mixture of metal and rock.
+When I examined the meteorite closely, I found that its outer shell, a mix of metal and rock, held a clear, gemlike crystal at its center.
 
-If I carefully carved it out, a giant rough gemstone the size of a clenched fist would appear.
+If I carved it out carefully, I'd have a huge rough gemstone the size of my fist.
 
-Some weapons in anime used gemstones (often called magic stones or spirit gems in the story), so I had some gemstone knowledge too.
+Some anime weapons used gemstones (often called magic stones or spirit gems in the story), so I knew a thing or two about gems myself.
 
-But even when I compared it against gemstone guidebooks, I couldn't find a matching gem.
+But when I checked it against my gemstone guidebooks, nothing matched.
 
-I brought out a polarizing plate and a spectroscope to appraise it, but I still couldn't pin down what it was. Worse, the appraisal revealed that its hardness was abnormal.
+I brought out a polarizing filter and a spectroscope to appraise it, but I still couldn't pin down what it was. Worse, the appraisal showed its hardness was off the charts.
 
 The gem dug out of the meteorite was harder than diamond.
 
-It had the mythical Mohs hardness of 11. It was harder than any substance on Earth should have been.
+It had a mythical Mohs hardness of 11, past the limit for anything that existed on Earth.
 
-Could that even be possible? Just as I was about to look it up online, I noticed another abnormality.
+Was that even possible? I went to look it up online, and that was when I noticed something else was wrong.
 
-My computer didn't work. No matter how many times I pressed the power button, the screen stayed completely black. It didn't do a thing. My smartphone was silent too.
+My computer wouldn't start—no matter how many times I pressed the power button, the screen stayed pitch-black. Not a peep. My smartphone was dead silent too.
 
-The sun had set and it was getting dark, so I tried to turn on the lights, but they didn't come on. The electricity was out too.
+The sun had gone down and it was getting dark, so I went to turn on the lights, but they wouldn't come on. The power was out too.
 
-I was more suspicious than anxious.
+It struck me as more fishy than worrying.
 
 The power's out...?
 
-Did some disaster happen down at the foot of the mountain? There hadn't been any typhoon-like wind or rain, and I hadn't felt any earthquake tremors. It's spring, so this isn't even the season for power shortages.
+Did some disaster hit down at the foot of the mountain? There hasn't been any typhoon wind or rain, though, and I didn't feel an earthquake. And it's spring, so it isn't even the season for power shortages.
 
-It's a little strange, but well, it isn't anything to panic about.
+It was a little strange, but, well, it was nothing to panic about.
 
-Disaster recovery is fast in Japan. At the earliest, the power will be back tomorrow. At the absolute latest, it'll take a few weeks.
+Japan recovers from disasters fast, so the power would probably be back as soon as tomorrow, or in a few weeks at the very latest.
 
-Because I live alone as a shut-in deep in the mountains, I keep a huge food stockpile. My first-aid kit is fully stocked too. It hurts not being able to use online auctions, but I'm not so short on money that missing a few weeks of listings will leave me broke.
+Living alone as a shut-in deep in the mountains, I kept plenty of food stockpiled, and my first-aid kit was ready to go. Losing online auctions hurt, but I wasn't so hard up that a few weeks without listings would leave me broke.
 
-I tried to keep investigating the gem by the light of my emergency flashlight, but it wouldn't turn on either.
+I tried to keep examining the gem by the light of my emergency flashlight, but that wouldn't turn on either.
 
-Well, it was a flashlight that came with the rental house and looked older than me. The batteries had probably died from self-discharge. I should've bought spares.
+Well, it had come with the rental house and looked older than I was. The batteries had probably just drained on their own. I should've bought spares.
 
-With no other choice, I used a match to light an aromatherapy candle I'd planned to put up for sale and got some light that way.
+With no other choice, I struck a match and lit an aromatherapy candle I'd been planning to sell, just to have some light.
 
-Having no electricity or internet is inconvenient, but I just have to tough it out for a few days.
+No electricity or internet is inconvenient, but I only have to tough it out for a few days.
 
 I'll take my time investigating this amazing gem from space while I wait for the utilities to come back.
 
 ---
 
-Over seven days, I examined and processed the gem from the meteorite.
+I spent seven days examining the meteorite gem and working it.
 
-This gem, which I named "Okutameteorite" after Okutama, where I found it, had a Mohs hardness of 11. Its refractive index was 1.55, its specific gravity was 7.7, and it weighed 2,300 g. Its color was dark bluish gray.
+I named it "Okutameteorite," after Okutama, where I'd found it. Mohs hardness 11, refractive index 1.55, specific gravity 7.7, weight 2,300 g, color dark bluish gray.
 
-In other words, it's a black, fist-sized gem harder than diamond, glittering like quartz, and about as heavy as iron.
+In other words, it was a black, fist-sized gem that was harder than diamond, sparkled like quartz, and weighed about as much as iron.
 
-I carved this Okutameteorite into a sphere, taking extreme care, and polished it.
+Taking extreme care, I carved Okutameteorite into a sphere and polished it.
 
-A mineral can be very hard and difficult to scratch but still have low strength and break easily. It resists scratches, but not impacts like a whack from a hammer.
+Very hard minerals don't scratch easily, but they aren't strong, and they break easily. They can take scratching, but not an impact like a whack from a hammer.
 
-So first, I carved the rough stone into a sphere with a chisel and carving knife.
+So first, I carved the rough stone into a sphere with a chisel and carving knives.
 
-Then I crushed the flakes, ground them up, and sifted out a fine powder.
+Then I crushed the chips I'd carved off, ground them down, and sifted them into a fine powder.
 
-Finally, I used the powder as an abrasive to polish it. That completed the beautiful, glossy sphere.
+Finally, I used that powder as an abrasive to polish the sphere, and I had a beautiful, glossy gemstone ball.
 
 There were all kinds of ways to cut gems, but given the rough stone's shape and properties, I decided a sphere was best.
 
-I was entranced as I stared at the beautiful finished gem.
+I stared at the beautiful finished gem, totally entranced.
 
-Quite apart from its romantic, mysterious history as a giant gem carved out of a meteorite, it had a strange appeal that seemed to draw me in. For some reason, I never got tired of looking at it, no matter how long I stared.
+Its romantic, mysterious backstory as a giant gem carved out of a meteorite was one thing, but just looking at it, I felt a strange pull, as if it were drawing me in. For some reason, I never got tired of it, no matter how long I looked.
 
-I'd handled all kinds of gemstones in my line of work. But I'd never encountered one that moved me this much.
+I'd handled all kinds of gemstones in my line of work, but I'd never come across one that moved me like this.
 
-I felt like I understood why famous gemstones had inspired bloody conspiracies throughout history...
+I felt like I finally understood why famous gems had inspired bloody conspiracies all through history...
 
-After taking a breather and spending a good few hours zoning out while I admired the gem from every angle, I suddenly remembered my current situation.
+I took a breather and spent a good few hours zoning out, admiring the gem from every angle, before it suddenly came back to me where things stood.
 
-I'd gotten lost in polishing it, but come to think of it, the power was still out after seven days.
+I'd been so wrapped up in the polishing that it hadn't registered, but come to think of it, the power was still out after seven days.
 
-For that matter, the water supply had been out for a few days too, and now I was relying on the old well in my backyard.
+For that matter, the water had been out for a few days too, and now I was reduced to drawing from the old well in the backyard.
 
-I have plenty of rice and instant food stocked up. I can harvest vegetables in the backyard. If I gather firewood in the mountains, I can light the dust-covered fireplace even if the gas is out.
+I had plenty of rice and instant food stocked up, and I could pick vegetables in the backyard. If I gathered firewood in the mountains, I could light the dusty fireplace even if the gas went out.
 
-So I'm totally fine for at least another month.
+So I'd be totally fine for at least another month.
 
-Still, I was starting to wonder.
+Still, it was starting to bug me.
 
-If the power still hasn't been restored after seven days, a massive disaster must have happened.
+If the power still isn't back after seven days, it must have been a massive disaster.
 
-I want to believe restoration is at least making progress around the city center, but it'll probably take a little longer to reach mountainous Okutama—a backwater despite being part of Tokyo.
+I'd like to believe things are at least coming back in central Tokyo, but it'll probably be a while longer before the repair crews reach Okutama—technically part of Tokyo, but out in the sticks.
 
-I wonder what happened and what's going on out there. A localized earthquake? A tornado? It couldn't be terrorism or a missile strike, could it?
+I wonder what happened and what's going on out there. A localized earthquake? A tornado? It can't have been terrorism or a missile strike, can it?
 
-I want to know what's going on. I do, but leaving the house to find out feels like a pain.
+I wanted to know how things stood—I really did—but leaving the house to find out was such a pain.
 
-To buy a newspaper, I'd have to endure the terrifying experience of meeting a store clerk and paying at the register, and going into town to stop someone and ask what was happening would take more courage than bungee jumping.
+Buying a newspaper would mean the terrifying ordeal of facing a clerk at the register, and going into town to stop someone and ask what had happened would take more nerve than bungee jumping.
 
-I don't want to meet anyone, and I don't want to talk to anyone. That's the whole reason I live quietly in a detached house deep in the mountains.
+I didn't want to meet anyone, and I didn't want to talk to anyone. That was the whole reason I lived quietly in a house by myself deep in the mountains.
 
-Well, I'm worried and uneasy, but there's probably no need to take it that seriously.
+Well, I'm worried and a little uneasy, but it's probably nothing to get too serious about.
 
 The electricity and internet have only been out for seven days.
 
-Japan might be disaster-prone, but expecting them to completely restore everything out in a remote place deep in the mountains in seven days is asking way too much.
+Japan may be a disaster-prone country, but expecting a full recovery all the way out in the remote mountains in just seven days is asking way too much.
 
-There's no need to panic or make a fuss. I can just take it easy and wait.
+There's no need to panic or make a fuss when I can just sit back and wait.
 
-Japan's government is pretty competent, all things considered. If I'm a good boy and wait quietly, they'll definitely give me my old life back. It isn't like I'm living in dire straits anyway.
+Say what you want, but Japan's government is competent. If I'm a good boy and wait quietly, they'll definitely get my life back to how it was. It's not like I'm in dire straits or anything.
 
-I'll take my time making and decorating hobby weapons packed with fantasy and romance using this beautiful gem, Okutameteorite, while I wait for the utilities to come back.
+I'll take my time using this beautiful gem, Okutameteorite, to make and decorate a hobby weapon full of fantasy and romance while I wait for the utilities to come back.
 
 ---
 
-Another seven days passed. I stood there holding Okutameteorite up in both hands, dumbfounded by the crack in my wall.
+Seven more days passed, and there I stood, holding Okutameteorite up in both hands and staring dumbfounded at the crack in my wall.
 
 I could swear some kind of beam just shot out of Okutameteorite and slammed into the wall...?
 
-It had started with my investigation into Okutameteorite's properties.
+It had all started with my investigation into Okutameteorite's properties.
 
-The power and internet were still down, so I couldn't look into whether any similar gemstones existed. I was doing my own research with whatever I had around the house.
+The power was still out and the internet still down, so I couldn't look up whether any similar gems existed. Instead, I was doing my own research with whatever I had around the house.
 
-It wasn't like I was investigating it for any particular purpose. Pretending to be a researcher was fun, even as an amateur. Besides, I was bored because the internet, a shut-in's go-to time-killer, was off-limits.
+Not that I was investigating it for any particular reason. Playing researcher was just fun, amateur as I was. Besides, with the internet—a shut-in's go-to time-killer—cut off, I was bored.
 
-As part of my investigation, I was looking into Okutameteorite's natural frequency.
+As part of that, I was trying to find Okutameteorite's natural frequency.
 
 A natural frequency is exactly what it sounds like: the frequency unique to an object.
 
-It was closely related to the phenomenon known as resonance. For example, playing a sound at a wineglass's natural frequency could shatter the glass with sound alone, without anyone touching it.
+It's closely tied to the phenomenon known as resonance. For example, if you blast a wineglass with a sound at its natural frequency, you can shatter it with sound alone, without ever touching it.
 
-Even short of that, sometimes when music is blasting, dishes, tables, or windowpanes start buzzing. That's resonance too, caused when the natural frequency of the dishes or table happens to line up perfectly with the wavelength of the sound.
+Even short of that, you might feel dishes, tables, or windowpanes buzz while you're playing music at full volume. That's resonance too, caused when the natural frequency of the dishes or table happens to line up perfectly with the wavelength of the music.
 
-Using whatever tools I had on hand, I ran experiments and calculations until I pinned down Okutameteorite's natural frequency.
+Using whatever tools I had on hand, I ran experiments, did the math, checked my results, and pinned down Okutameteorite's natural frequency.
 
-I was being pretty childlike, even if I did say so myself. I sang a note that matched Okutameteorite's natural frequency, touched it, and got all excited. "Oh, it's buzzing! It's buzzing! This is awesome!"
+I'll admit I was being pretty childish about it. I sang a note that matched Okutameteorite's natural frequency, touched the stone, and got all excited: "Ooh, it's buzzing, it's buzzing! This is awesome!"
 
-Okutameteorite had been vibrating along with my voice, but the resonance suddenly intensified. Just as I thought I should stop before it cracked, it fired something like a white beam into the wall of my house.
+But then Okutameteorite, which had been vibrating along with my voice, suddenly started resonating harder. I was just thinking I'd better stop before it cracked when it fired something like a white beam and hit the wall of my house.
 
-The impact sent a crack through the wall, and dust pattered down.
+The impact sent a crack running through the wall, and dust came pattering down.
 
-I stared hard at the Okutameteorite I had been holding up in both hands.
+I stared hard at the Okutameteorite I was still holding up in both hands.
 
 Did you just fire a beam?
 
-I had planned to attach Okutameteorite to the tip of a magic wand and play at being a mage.
+I'd been planning to mount Okutameteorite on the tip of a magic wand and play at being a mage.
 
-For that, I'd carved a piece of wood from a Japanese pagoda tree, famous for its power to ward off evil, and carefully engraved it with an original magic pattern of my own. I'd also tinkered with the joint between the gem and handle, the protective resin, and the metal wire. I'd finished all the parts over the past seven days, so I was playing with resonance before putting it together.
+To that end, I'd carved the shaft from Japanese pagoda tree wood, famous for warding off evil, and carefully engraved it with original magic patterns of my own design. I'd also fiddled endlessly with the joint between the gem and the handle, the protective resin, and the metal wire. All the parts had come together over the past seven days, so before assembling it, I'd been playing around with resonance.
 
-Of course, it was all make-believe. I was making the magic wand look convincingly real, but there was no way it could actually cast magic. It was only a <ruby>cosplay<rt>costume</rt></ruby> prop, something that added a touch of immersion to the fiction of magic.
+Of course, it was all make-believe. I'd made the wand look convincingly real, but there was no way it could actually cast magic. It was nothing more than a <ruby>cosplay<rt>costume</rt></ruby> prop, something to make the fiction of magic a little more immersive and fun.
 
-At least, that was what it should have been.
+Or at least, it was supposed to be.
 
 I went out into the backyard and nervously sang at Okutameteorite's natural frequency.
 
-Then something like a white beam came out again, shot between the trees in the mountains, and vanished in the distance.
+Again, something like a white beam shot out, tore through the trees on the mountainside, and vanished into the distance.
 
 Huh!?
 
 For real!?
 
-Magic just came out!?
+I just did magic!?
 
 Th-That's awesome!
 
-I went nuts, running around and firing magic over and over while striking cool poses.
+I went wild, bouncing around and firing off magic again and again, striking cool poses the whole time.
 
-Once I'd assembled the parts and finished a traditional old-style magic wand, with the gem set atop a wooden wand handle and reinforced with metal, my excitement went through the roof.
+And once I'd assembled the parts into a classic old-style magic wand, the gem crowning a wooden handle and the whole thing reinforced with metal, my excitement shot through the roof.
 
-Firing magic beams while reenacting those lines from anime and poses from manga, imitating all those cool mages, was way too much fun. I felt like I'd gone back to being a kid.
+Firing magic beams while copying all the cool mages—those lines from anime, those poses from manga—was way too much fun, like being a kid again.
 
-But fun didn't last forever.
+But the fun couldn't last forever.
 
-As I kept firing magic, I gradually got tired.
+After firing off magic nonstop for a while, I started getting tired.
 
-It wasn't normal tiredness. An unpleasant sensation kept growing: my body felt floaty, like I was in a pool—no, like I was in zero gravity, like the floating feeling in an elevator—and I started feeling sick.
+It wasn't the normal kind of tired. An uncomfortable floating feeling kept building, like being in a pool—no, more like zero gravity, or that lift you feel in an elevator—and I started to feel sick.
 
-I thought I'd tired myself out from getting too excited, but then I reconsidered. Could it be something like running out of magic power?
+At first I figured I'd just worn myself out getting too excited, but then I wondered. Was this something like running out of magic power?
 
 It's a common trope that magic consumes magic power.
 
-If you swung a sword around, you used physical strength. If you used your brain, you got mentally tired.
+Swing a sword around and you use up stamina. Use your brain and you get mentally worn out.
 
 ![image_rsrc503.jpg](images/image_rsrc503.jpg)
 
-Using magic probably consumed some kind of resource too... something I might as well call magic power.
+Using magic probably burns some kind of resource too... something you might as well call magic power.
 
-I must be tired from using magic power.
+I must be tired right now because I've been spending magic power.
 
 Now things are getting interesting!
 
-No, it's been plenty interesting already, but fantasy that fell from space is bound to get me excited.
+Okay, it's been plenty interesting already, but fantasy that fell from space? Of course I'm pumped.
 
-That settles it. This magic wand, Okutameteorite, will become my family treasure! I'll never sell it. No matter how hard things get, I won't part with it.
+That settles it. This magic wand, Okutameteorite, is going to be my family heirloom! I'll never sell it, and I don't care how hard up I get—I'm not letting it go.
 
-...Oh yeah, speaking of having trouble getting by.
+...Oh, right. Speaking of being hard up.
 
-I suddenly remembered my current situation and calmed down.
+It suddenly came back to me what kind of situation I was in, and I sobered up.
 
 Fourteen days had passed since the electricity and internet went out.
 
-The water had been out for ages, and the gas had gone out the other day. That meant all the infrastructure had stopped.
+The water had been out for ages, and the gas had gone out the other day. In other words, all the infrastructure was down.
 
-Luckily, I still had plenty of food, could draw water from the old well, and could make a fire whenever I needed one by gathering firewood from the mountains.
+Luckily, I still had plenty of food, I could draw water from the old well, and as long as I gathered firewood in the mountains, I had no trouble making fires.
 
-But even this deep in the mountains, far from the city center, could restoration really take this long?
+But even this deep in the mountains, far from the city, could restoration really take this long?
 
-How long did recovery from the Great East Japan Earthquake[^1] and the Noto Peninsula Earthquake[^2] take again?
+How long did it take to recover from the Great East Japan Earthquake[^1] and the Noto Peninsula Earthquake[^2] again?
 
 Hmm. Something doesn't add up.
 
-What if the restoration work had actually finished ages ago, but my house alone had been forgotten because of some mistake?
+What if the restoration work actually finished ages ago, and they just forgot my house by some mistake?
 
-...No, no. There's no reason for them to freeze me out like that[^3].
+...No, no. I've done nothing to deserve getting frozen out like that[^3].
 
-Sure, my social skills are shot, but I pay my taxes properly. There's no way the country would single me out and ignore me.
+Sure, my social skills are shot, but I pay my taxes like I'm supposed to. There's no way the country would single me out and ignore me. It couldn't be.
 
-It made me uneasy, but going to the government office to complain directly sounded like a pain too.
+It made me uneasy, but going down to the town office to complain in person sounded like a pain too.
 
-If the only way my life can get better is by talking to people, I'll choose the inconvenient life, hands down. Don't underestimate me.
+If the only way to make my life better is talking to people, I'll take the inconvenient life, hands down. Don't underestimate me.
 
-Well, I still don't need to panic. Maybe tomorrow, everything will snap back on like nothing happened.
+Well, there's no need to panic yet—for all I know, everything will just snap back on tomorrow like nothing ever happened.
 
-It isn't like I've been left alone for a whole year. It's only been fourteen days. If the disaster covers a wide area, it makes sense that a remote place deep in the mountains with barely any residents would be left until later.
+It's not like I've been abandoned for a whole year. It's only been fourteen days. If the disaster zone is big, then of course a remote spot deep in the mountains with barely any residents gets pushed to the back of the line.
 
-I have to stay calm.
+Just stay calm.
 
 I'll take my time investigating this strange magic stone while I wait for the utilities to come back.
 
@@ -282,97 +282,97 @@ I'll take my time investigating this strange magic stone while I wait for the ut
 
 Another seven days passed.
 
-The infrastructure was still out.
+The infrastructure was still down.
 
-I don't want to go outside or talk to anyone, but I want information about the outside world.
+I didn't want to go outside or talk to anyone, but I did want news from the outside world.
 
-I remembered that a radio—the dream item that could grant such a selfish wish—was sleeping in my junk box. By sheer chance, I'd found the key to learning what was causing the disaster.
+Then I remembered that a dream device able to grant such a selfish wish—a radio—was sitting forgotten in my junk box. Without meaning to, I'd just gotten my hands on the key to figuring out what was causing the disaster.
 
-The radio buried in the pile of junk I'd won cheaply at auction was, naturally, broken and didn't work.
+The radio had been buried in a pile of junk I'd won cheap at auction, so naturally, it was broken and wouldn't turn on.
 
-I took it apart to repair it, and that was when I found something strange inside.
+I took it apart to fix it, and that was when I found something strange.
 
-A milky-white crystal, like quartz, covered the radio's capacitor.
+A milky-white crystal, like quartz, was coating the radio's capacitor.
 
-Thinking that was strange, I tried to remove the crystal with tweezers. Then I noticed something even stranger.
+Weird, I thought, and went to pick the crystal off with tweezers, only to notice something even weirder.
 
-The milky-white crystal wasn't stuck to the capacitor's surface. It clung there as though it had grown straight through the capacitor from inside. Threads of crystal had spread through it like roots, ravaging the capacitor's insides and completely destroying it.
+The crystal wasn't stuck to the capacitor's surface. It was fused on, as if it had grown there by bursting out from the inside. Threads of crystal had spread through the capacitor like roots, ravaging it and wrecking it completely.
 
-How could it possibly break like this?
+How does something even break like this?
 
-I thought it over, and then a hypothesis hit me.
+Puzzled, I thought it over, and a hypothesis came to me.
 
-I took other junk apart and examined their power units. I also took out and dismantled the batteries from my flashlight. I dismantled my computer and refrigerator too.
+I opened up other pieces of junk and checked their power units, then pulled the batteries out of my flashlight and broke them open. I took apart my computer and refrigerator too.
 
-Sure enough, my prediction was right.
+And it turned out my hunch was right.
 
-Every electrical appliance I examined had been destroyed inside by crystals growing out of its power supply and live components.
+In every electrical appliance I examined, crystals had grown out of the power supply and current-carrying parts and wrecked it from the inside.
 
-I can't believe this is some weird phenomenon happening only inside my house.
+There's no way this freaky phenomenon only happened inside my house.
 
-I worked up the courage to leave the house and headed for the public phone at a general store a ten-minute walk away.
+I worked up the nerve to go out and walked to the public phone at the general store ten minutes away.
 
-Relieved that the general store had its shutters down, I secretly dismantled the public phone while keeping an eye out for anyone watching. Sure enough, its electrical system had been wrecked by crystals too.
+To my relief, the store's shutters were down. Glancing around to make sure no one was watching, I quietly took the public phone apart. Sure enough, crystals had gotten to its electrical system too.
 
-Everything else was the same.
+Same with everything else.
 
-The streetlights, vending machines, even the abandoned mini truck—everything! Their electrical systems had been invaded and destroyed by crystals.
+The streetlights, the vending machines, even an abandoned mini truck—every single one! Crystals had eaten into their electrical systems and destroyed them.
 
-A chill ran down my spine, as if horror had suddenly invaded the peaceful everyday life I'd been living.
+A chill ran down my spine, as if the peaceful everyday life I'd been living had suddenly turned into a horror story.
 
-This phenomenon probably isn't limited to Okutama. If it had only happened in Okutama, rescue teams would have come a long time ago.
+This probably isn't limited to Okutama, because if it were only happening here, rescue teams would have shown up long ago.
 
-Since that hasn't happened, it means this is happening on a much larger scale, and enough chaos has broken out that rescue is impossible.
+And since they haven't, this must be happening on a much bigger scale, with chaos so bad that rescue isn't even possible.
 
 All of Japan?
 
 Maybe the whole world?
 
-Humanity is weak when its electrical devices are destroyed.
+Humanity is weak once its electrical devices are destroyed.
 
 Infrastructure down. Communications down. Coordination cut off.
 
-At hospitals, diagnostic equipment and computers for managing medical records would have stopped. If refrigerators storing medicine and blood for transfusions had stopped, treatment would barely be possible.
+In hospitals, the diagnostic equipment and the computers holding medical records would have gone down. And if the refrigerators storing medicine and blood for transfusions went down too, they could barely treat anyone.
 
-If traffic lights stopped, traffic would be paralyzed. Cars couldn't move in the first place.
+With the traffic lights out, traffic would grind to a halt. Not that cars could even run in the first place.
 
-If agricultural tractors and sprinklers stopped, food production would suffer devastating damage, and if boats stopped, fishing would stop too.
+If farm tractors and sprinklers stopped, food production would be devastated, and if boats stopped, so would fishing.
 
-Airplanes must have crashed. Nuclear power plants might have exploded.
+Planes would have crashed, and nuclear plants might have exploded.
 
-If electricity is lost, everything is lost.
+Lose electricity, and you lose everything.
 
-Raindrops began pattering against my cheeks as I stood there stunned.
+As I stood there, stunned, raindrops began pattering against my cheeks.
 
-The steadily intensifying rain drove me under the eaves of the general store.
+The rain kept getting heavier, driving me under the eaves of the general store.
 
-The rain pounded down. I couldn't hear anything else.
+It was pounding down so hard I couldn't hear anything else.
 
-Only then did I notice that all the houses scattered through the mountain valley were deserted.
+Only then did I notice that every house scattered through the valley was deserted.
 
-The residents had evacuated somewhere long ago.
+The people living there had evacuated somewhere long ago.
 
-Dark storm clouds filled the sky, and before long, hail started to fall.
+Black storm clouds blanketed the sky, and before long, hail started to fall.
 
 No...
 
 ...This isn't hail.
 
-I was speechless when I saw a small milky-white crystal roll to my feet, splashing mud.
+A small milky-white crystal came rolling to my feet, kicking up mud, and I was left speechless.
 
-Lightning is large-scale static electricity inside clouds.
+Lightning is just static electricity on a massive scale, inside a cloud.
 
 Static electricity.
 
 Electricity.
 
-This crystal grew by eating electricity.
+This crystal grows by eating electricity.
 
-The rain clouds in this changed world no longer send down lightning.
+In this changed world, rain clouds don't send down lightning anymore.
 
-Instead, they've started dropping crystals.
+They drop crystals instead.
 
-If crystals have spread not only across the earth where humanity flourishes, but even into the sky, then this phenomenon must have spread across the entire world.
+If crystals have spread not just across the land where humanity thrives but into the sky itself, then this has to be happening all over the world.
 
 It's all over.
 

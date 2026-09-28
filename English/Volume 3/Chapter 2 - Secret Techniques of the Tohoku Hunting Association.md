@@ -1,68 +1,68 @@
-<ruby>Okyaku<rt>Great Wolf</rt></ruby>, a mage of the Tohoku Hunting Association, had ridden on the Dragon Witch's back all the way to the skies above the capital.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby>, a mage with the Tohoku Hunting Association, had come all the way to the skies above the capital on the Dragon Witch's back.
 
-Shielding himself from the blasting wind with his hand, he looked down at the ground. A vast cityscape, in far better condition than he had imagined, spread below him. The damage from what looked like a giant kaiju having rampaged through it was painful to see, but its grandeur from before the Gremlin Disaster was still there.
+He shielded his eyes from the blasting wind with one hand and looked down. A vast city, in far better condition than he'd imagined, stretched out below. The scars left by what looked like a rampaging giant kaiju were painful to see, but the city still retained its grandeur from before the Gremlin Disaster.
 
 The sight, which still carried traces of Tokyo's glory in its heyday, made <ruby>Okyaku<rt>Great Wolf</rt></ruby> frown.
 
 He had heard that the Tokyo survivor community led by the Tokyo Witches' Council had a population of 2.2 million even after the mushroom pandemic.
 
-That was a sharp drop from its peak of 14 million. Still, it was a large population. More than large enough.
+That was a sharp drop from its peak of 14 million, but it was still a huge population. More than enough.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> thought the reason the Tokyo Witches' Council needed outside aid this time was that it was trying to feed too many people.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> figured the Tokyo Witches' Council needed outside aid because it was trying to feed too many people.
 
 To put it simply, too many people had survived in Tokyo.
 
 The Tohoku Hunting Association was a survivor community based in Sendai, run by four mages and one witch.
 
-It had a population of 200,000. Simply put, that meant each hunter protected 40,000 people. The other large survivor communities—the Hokkaido Magic Beast Farm, Lake Biwa Pact, and Arataki Group—were probably at about the same ratio.
+It had a population of 200,000, which worked out to 40,000 people protected by each hunter. The other large survivor communities—the Hokkaido Magic Beast Farm, Lake Biwa Pact, and Arataki Group—probably had similar ratios.
 
 ![p024.jpg](images/p024.jpg)
 
-The Tokyo Witches' Council, on the other hand, had 2.2 million people for 16 members. About 140,000 per person.
+By contrast, the Tokyo Witches' Council had 16 members for 2.2 million people. About 140,000 per member.
 
 That meant they carried more than three times the burden of the Tohoku Hunting Association.
 
-Of course they were having trouble running things. If anything, <ruby>Okyaku<rt>Great Wolf</rt></ruby> had no idea how they had managed to keep the city going until now.
+No wonder they were having trouble running things. If anything, <ruby>Okyaku<rt>Great Wolf</rt></ruby> had no idea how they'd kept the city going this long.
 
-Right after the Gremlin Disaster, the Tohoku Hunting Association had ruthlessly selected survivors. Their policy was not to take in anyone they could not fully protect. It was to avoid the foolishness of straining to protect everyone, only for everyone to grow weak together.
+Right after the Gremlin Disaster, the Tohoku Hunting Association had ruthlessly selected which survivors to take in. If it couldn't fully protect someone, it didn't take them in to begin with. That kept the Association from trying to save everyone only for everyone to grow weak together.
 
-Even women and children who could not walk on their own, or people with chronic illnesses or disabilities, had been the first to be cast aside.
+Anyone who couldn't walk on their own or had a chronic illness or disability was among the first to be cast aside—even women and children.
 
-There had been resentment, but after the Self-Defense Forces and police had been wiped out, no one could oppose the collective will of the overwhelmingly powerful Transcendents, the only ones capable of protecting civilians.
+People had resented it. But once the Self-Defense Forces and police were wiped out, no one could oppose the united will of the overwhelmingly powerful Transcendents—the only people left who could protect civilians.
 
 It had been a painful decision for the Transcendents too, and the Tohoku Hunting Association had made no exceptions to the selection, even for family.
 
-In fact, <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s older brother, who had a chronic illness, had quietly gone beyond the community's defensive line because of the selection and died taking a monster down with him. It was the worst memory <ruby>Okyaku<rt>Great Wolf</rt></ruby> still saw in his dreams.
+In fact, because of that selection, <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s chronically ill older brother had quietly walked out beyond the community's defensive line, then died taking a monster down with him. It remained his worst memory, and he still dreamed about it.
 
-The firm policy, harsh both inside and out, had caused friction, but it had been accepted. From the citizens' perspective, they probably had no choice but to accept it.
+The uncompromising policy, harsh to people both inside and outside the community, had caused friction but ultimately been accepted. The citizens would probably say they'd had no choice.
 
-But even the 200,000 people left after the selection were not completely safe under the Tohoku Hunting Association's protection.
+Even then, the Tohoku Hunting Association couldn't fully protect all 200,000 people who remained.
 
 Some died from injuries or illness. Others were killed by monsters that had mutated and hidden in the city.
 
-More than anything, if not for Hakata-sensei, the fertility-magic instructor whom the Tokyo Witches' Council had sent for free, a catastrophic famine would have struck by last year, and the Tohoku Hunting Association would have collapsed.
+Above all, without Hakata-sensei, the fertility-magic instructor sent free of charge by the Tokyo Witches' Council, a catastrophic famine would have struck by last year and destroyed the Tohoku Hunting Association.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> had left Sendai and come to Tokyo as a reconstruction-aid envoy this time because he owed Tokyo for teaching his community fertility magic.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> had left Sendai and come to Tokyo as a reconstruction-aid envoy to repay that debt for being taught fertility magic.
 
-Mushroom disease had come to Sendai along with fertility magic, but around 2,000 people in the Tohoku Hunting Association's community had died from it. Compared with the catastrophe Sendai would have faced without fertility magic, it was a small price.
+Mushroom disease had reached Sendai along with fertility magic, but around 2,000 people in the Tohoku Hunting Association community had died from the disease. Compared with the catastrophic losses they'd have suffered without fertility magic, it was a small price.
 
-In the Tohoku Hunting Association community, where people had been forced into harsh choices since the start of the Gremlin Disaster, they felt gratitude toward the Tokyo Witches' Council, not bitter resentment. At least, that was the official story. Even those who held resentment did not vent those feelings or lash out in hatred, so they told outsiders there was no ill will between them.
+After facing one harsh choice after another since the Gremlin Disaster began, the people of the Tohoku Hunting Association were grateful to the Tokyo Witches' Council, not bitter toward it. At least, that was the official story. Anyone who did resent the Council kept those feelings to themselves instead of lashing out, so outsiders were told there was no ill will between them.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby>'s temporary departure from Sendai to support Tokyo left a gap in the community's hunting rotation and placed a heavy burden on those who stayed behind.
+Leaving Sendai to support Tokyo, even temporarily, meant <ruby>Okyaku<rt>Great Wolf</rt></ruby> left a gap in the community's hunting rotation and placed a heavy burden on those who stayed behind.
 
-But many citizens had insisted that now was the time to repay the debt of fertility magic.
+But public opinion had been clear: now was the time to repay the debt they owed for fertility magic.
 
 Hakata-sensei had been especially forceful in petitioning the leadership.
 
-After receiving a letter asking for aid from his mentor, Hakata-sensei had persuaded <ruby>Itazu<rt>Great Bear</rt></ruby>, the Tohoku Hunting Association's coordinator, to agree to dispatch <ruby>Okyaku<rt>Great Wolf</rt></ruby>, a valuable hunter, for disaster relief in Tokyo.
+When Hakata-sensei received a letter from his mentor asking for aid, he persuaded <ruby>Itazu<rt>Great Bear</rt></ruby>, the Tohoku Hunting Association's coordinator, to send <ruby>Okyaku<rt>Great Wolf</rt></ruby>, one of its valuable hunters, to help with disaster relief in Tokyo.
 
-Hakata-sensei was widely trusted by the citizens, had saved the community from a food crisis, and was normally a quiet man of character. Apparently, even that stubborn old man had been moved when Hakata-sensei got down on his hands and knees.
+Hakata-sensei had earned the citizens' trust by saving the community from a food crisis, and he was normally a quiet, upstanding man. Apparently, even that stubborn old man had been moved when Hakata-sensei got down on his hands and knees to plead.
 
-While <ruby>Okyaku<rt>Great Wolf</rt></ruby> was thinking, the Dragon Witch began to dive. Their altitude dropped in an instant and the buildings drew near. She landed at a dragonport—not a heliport—built in the middle of the city.
+While <ruby>Okyaku<rt>Great Wolf</rt></ruby> mulled that over, the Dragon Witch began her dive. Their altitude plummeted, the buildings rushed up, and she landed at a dragonport—not a heliport—built in the middle of the city.
 
-The Dragon Witch landed with a gust and a rumble. <ruby>Okyaku<rt>Great Wolf</rt></ruby> slung his luggage over his back, lightly jumped down, and found a one-eyed woman waiting to greet him.
+The landing sent out a gust of wind and shook the ground. A one-eyed woman awaited <ruby>Okyaku<rt>Great Wolf</rt></ruby> as he slung his luggage over his back and hopped lightly down from the Dragon Witch.
 
-Her springlike outfit, a long skirt paired with a cardigan, was feminine, but her big, wide-open single eye messed with his head. If she had not been wearing clothes, he would have mistaken her for a monster.
+Her springlike outfit of a long skirt and cardigan looked feminine, but her single large, wide-open eye threw his brain for a loop. Without the clothes, he might have mistaken her for a monster.
 
 The one-eyed woman walked up to <ruby>Okyaku<rt>Great Wolf</rt></ruby> and gave him a polite bow.
 
@@ -72,45 +72,45 @@ The one-eyed woman walked up to <ruby>Okyaku<rt>Great Wolf</rt></ruby> and gave 
 
 “Likewise. Let's make these seven days fruitful.”
 
-After shaking hands with <ruby>Okyaku<rt>Great Wolf</rt></ruby>, the Eyeball Witch smiled gently and nodded, then turned toward the Dragon Witch, who was fidgeting and wagging her tail.
+They shook hands. The Eyeball Witch smiled gently and nodded, then turned to the Dragon Witch, who was fidgeting and wagging her tail.
 
-“I brought him. Come on, give me my reward already. You promised!”
+“I brought him! Come on, hurry up and give me my reward. You promised!”
 
 “Thank you. You really saved us. Here you go. If you're still around, would you like to stay for tea? We still have some good tea leaves from a trade ship that drifted in last year.”
 
-“Yes! Easy job! I don't want tea. Call me if you get more tasty work!”
+“Yay! Easy job! I don't want tea. Call me again if you get more tasty work!”
 
-The Dragon Witch happily stuffed the splendid marble-stone necklace the Eyeball Witch handed her into her belly pouch, then hurriedly took off and disappeared into the distance.
+The Dragon Witch happily stuffed the splendid marble-stone necklace the Eyeball Witch handed her into her belly pouch, then hurriedly took off and vanished into the distance.
 
 The Eyeball Witch let out a small breath as she watched the Dragon Witch leave, then led <ruby>Okyaku<rt>Great Wolf</rt></ruby> into the building where this meeting would be held. It seemed to be some sort of hall.
 
-The inside of the building was spotless, and simple notices from various witches were written on a whiteboard beside the entrance. Just to the side of the door on the right as they entered stood a sign reading, “Welcome, <ruby>Okyaku<rt>Great Wolf</rt></ruby>-sama of the Tohoku Hunting Association.”
+The building was spotless inside, and a whiteboard beside the entrance carried brief notices signed by various witches. A sign beside the first door on the right read, “Welcome, <ruby>Okyaku<rt>Great Wolf</rt></ruby>-sama of the Tohoku Hunting Association.”
 
-And perched on top of that sign was a palm-sized fire fairy.
+A palm-sized fire fairy sat perched on top of the sign.
 
-Other than her size, the fairy looked about the age of a middle-school girl. She had long hair made of burning red flame and wore wavering flames like clothing.
+Apart from her size, the fairy looked about the age of a middle-school girl. Her long hair was made of burning red flame, and wavering fire draped her body like clothing.
 
-The fire fairy noticed <ruby>Okyaku<rt>Great Wolf</rt></ruby> and the Eyeball Witch, quickly stood, and bowed. Despite her lively appearance, her voice was calm.
+The fire fairy spotted <ruby>Okyaku<rt>Great Wolf</rt></ruby> and the Eyeball Witch, sprang to her feet, and bowed. Her voice was calm, at odds with her lively appearance.
 
 “Nice to meet you. I am the Flame Witch. I'm in charge of security during the meeting today.”
 
 “Nice to meet you as well. I'm <ruby>Okyaku<rt>Great Wolf</rt></ruby> of the Tohoku Hunting Association.”
 
-When <ruby>Okyaku<rt>Great Wolf</rt></ruby> held out his hand, the Flame Witch gripped his outstretched index finger with both hands as hard as she could and shook it. Sparks scattered from her even while she stood still, but she was not as hot as she looked. If anything, she was pleasantly warm, like a hand warmer.
+When <ruby>Okyaku<rt>Great Wolf</rt></ruby> held out his hand, the Flame Witch gripped his index finger with both hands as hard as she could and shook it. She scattered sparks just standing there, but she wasn't as hot as she looked. If anything, she was pleasantly warm, like a hand warmer.
 
-Her cute appearance only made him want to pet her more. But that would be rude to a security guard, so he restrained himself. Besides, witches were not necessarily as old as they looked.
+She was so cute that he wanted to pet her, but doing that to a security guard would be rude, so he restrained himself. Besides, witches weren't necessarily as old as they looked.
 
-As <ruby>Okyaku<rt>Great Wolf</rt></ruby> found himself torn between the urge to pet her and his own common sense, the Eyeball Witch crouched to meet the Flame Witch's eyes and spoke with concern.
+While <ruby>Okyaku<rt>Great Wolf</rt></ruby> struggled between the urge to pet her and his common sense, the Eyeball Witch crouched to meet the Flame Witch's eyes and spoke with concern.
 
-“Oh? Hii-chan, haven't you gotten smaller again? Are you all right?”
+“Oh? Hii-chan, did you shrink again? Are you all right?”
 
-“Um. About that, I would like some time to speak with Ao-chan-san later. There is something I want to discuss... Could you let her know for me, Eyeball-san?”
+“Um... I'd like some time to speak with Ao-chan-san about that later. There's something I need to ask her about... Could you tell her for me, Eyeball-san?”
 
-“Hmm, I can try asking when she seems to be in a good mood, but I don't know if she'll make time for you.”
+“Hmm. I'll try to mention it when she seems to be in a good mood, but I don't know if she'll make time for you.”
 
 “That is enough. Thank you.”
 
-Watching the two witches talk, <ruby>Okyaku<rt>Great Wolf</rt></ruby> felt strange.
+The exchange between the two witches left <ruby>Okyaku<rt>Great Wolf</rt></ruby> feeling strange.
 
 It was an incredibly normal conversation.
 
@@ -118,21 +118,21 @@ Too normal.
 
 Could the Tokyo Witches' Council possibly be a normal group...?
 
-Until now, the Dragon Witch was the only witch from the Tokyo Witches' Council <ruby>Okyaku<rt>Great Wolf</rt></ruby> had known personally. He had vaguely assumed it was a group of people like her, but apparently that was not the case.
+Until now, the Dragon Witch was the only member of the Tokyo Witches' Council <ruby>Okyaku<rt>Great Wolf</rt></ruby> had known personally. He'd vaguely assumed the others were all like her, but apparently not.
 
 The Dragon Witch seemed to be the exception. What a relief.
 
 When he was shown into the meeting room, two women were sitting side by side waiting inside.
 
-One was a young woman who looked barely old enough to be an adult. She wore a tattered black coat and had a stylish women's snow-crystal pendant hanging from her neck.
+One was a young woman who looked barely old enough to be an adult. She wore a tattered black coat and a stylish snow-crystal pendant designed for women.
 
-What especially caught <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eye was the beautiful wand in her hand, set with a lovely blue gem. The moment he entered, he felt that she had casually aimed the wand at him.
+What caught <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eye most was the beautiful wand in her hand, set with a brilliant blue gem. The instant he entered, he sensed her casually train it on him.
 
-She was wary of him. He had heard an important person would have a personal guard with her, so she must be the guard.
+She was watching him closely. He'd heard the VIP would have a personal bodyguard, so this woman had to be the guard.
 
-The one sitting beside the guard was a girl who looked like she was still in elementary school, or barely in middle school.
+Beside the guard sat a girl who looked as though she was still in elementary school, or barely in middle school.
 
-Cute stoat-like ears grew from her head, and the black tip of her white tail swayed where it stuck out from her chair. Her short white hair made her look lively, and the friendly smile she wore while chatting happily with the guard beside her showed how sociable she was.
+Cute stoat-like ears poked out from her head, and the black tip of her white tail swayed beyond the edge of her chair. Her short white hair gave her a lively air, while the friendly smile she wore as she chatted with the guard made her seem sociable.
 
 <ruby>Okyaku<rt>Great Wolf</rt></ruby> tilted his head for a moment.
 
@@ -142,159 +142,159 @@ But the guard was the one controlling magic power, so the guard was the witch.
 
 He had heard that the important person attending this meeting was not a witch, but an ordinary expert. Why did an ordinary person have animal ears...?
 
-As <ruby>Okyaku<rt>Great Wolf</rt></ruby> entered, the Eyeball Witch went over to the two of them. She personally brewed black tea, passed cups around to everyone along with snacks, then took a breath and introduced them.
+Once <ruby>Okyaku<rt>Great Wolf</rt></ruby> entered, the Eyeball Witch joined the two women. She personally brewed the tea and passed cups and snacks around, then settled in and made the introductions.
 
-“Allow me to introduce them. On your left, the adorable white-haired girl is Ohinata Kei. At the young age of fourteen, she serves as president of Tokyo Magic University and teaches as a professor in the Department of Magic Linguistics. I am responsible for this meeting, but I would like you to direct your discussion mainly to her as our representative on the ground.”
+“Allow me to introduce them. The lovely white-haired girl on your left is Ohinata Kei. At only fourteen, she serves as president of Tokyo Magic University and teaches as a professor in the Department of Magic Linguistics. I am responsible for this meeting, but please direct most of what you have to say to her as our representative in the field.”
 
 The stoat-eared girl who had been introduced stood and gave a cheerful bow.
 
-“As introduced, I am Ohinata Kei. I have heard much about the Tohoku Hunting Association. I hear that not only are you all skilled mages, but you are also wonderful hunters. I may be young, but I would be happy to receive your guidance and encouragement on this occasion!”
+“As introduced, I am Ohinata Kei. I've heard so much about the Tohoku Hunting Association. Not only are you all accomplished mages, I hear you're also excellent hunters. Though I am young, I would be delighted to receive your guidance and encouragement during this visit!”
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> was impressed by the bright, polite greeting, delivered with a poise unusual for a child, and he bowed as well.
+The polite, cheerful greeting was delivered with a poise unusual for a child. Impressed, <ruby>Okyaku<rt>Great Wolf</rt></ruby> bowed in return.
 
-“I'm <ruby>Okyaku<rt>Great Wolf</rt></ruby>. Hakata-sensei has told me of Professor Ohinata's reputation. I hear you are an excellent teacher and researcher. I may have come as a reconstruction-aid envoy, but I would very much like to learn something new from you and take it home with me. It is a pleasure to meet you.”
+“I'm <ruby>Okyaku<rt>Great Wolf</rt></ruby>. Hakata-sensei has told me of your reputation, Professor Ohinata. I hear you're an excellent teacher and researcher. I may have come as a reconstruction-aid envoy, but I hope to learn something new from you and take it home with me. It is a pleasure to meet you.”
 
-“Yes! Let's get along, okay?”
+“Yes! I hope we'll get along!”
 
-Professor Ohinata cutely tilted her head as she asked, and she was adorable enough to make <ruby>Okyaku<rt>Great Wolf</rt></ruby> want to claw at his own chest. She was so adorable he almost suspected she had been sent in as a honey trap. She was sure to become quite beautiful someday.
+Professor Ohinata tilted her head in an adorable plea, cute enough to make <ruby>Okyaku<rt>Great Wolf</rt></ruby> want to claw at his own chest. He almost had to wonder whether she'd been sent as a honey trap. She was sure to grow into quite a beauty.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> was grateful that he was neither a lolicon nor a furry.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> was grateful he was neither a lolicon nor a furry.
 
-“Is <ruby>Okyaku<rt>Great Wolf</rt></ruby> a mountain word used by <ruby>matagi<rt>hunters</rt></ruby>?”[^1]
+“Is <ruby>Okyaku<rt>Great Wolf</rt></ruby> a mountain-language term used by <ruby>matagi<rt>hunters</rt></ruby>?”[^1]
 
-“!? You know your stuff. As expected of a linguist. Yes, my grandfather <ruby>Itazu<rt>Great Bear</rt></ruby> gave me the name. Our coordinator is an old-fashioned man. He says things like, ‘When you're dealing with things not of this world, you mustn't use everyday language,’ so I go by a name like this. You may call me <ruby>Okyaku<rt>Great Wolf</rt></ruby>-san or Ookami-san, whichever you prefer.”
+“What?! You know your stuff. Just what I'd expect from a linguist. Yes, my grandfather <ruby>Itazu<rt>Great Bear</rt></ruby> gave me the name. Our coordinator is an old-fashioned man. He's always saying things like, ‘When dealing with things beyond this world, don't use everyday words,’ which is why I go by this name. You can call me <ruby>Okyaku<rt>Great Wolf</rt></ruby>-san or Ookami-san, whichever you prefer.”
 
 “Then I'll call you Ookami-san. We're animal friends!”
 
-Even in that brief exchange, <ruby>Okyaku<rt>Great Wolf</rt></ruby> got a sense of the stoat professor's personality, and he felt warm and fuzzy inside. Looking at her bright smile made him smile too.
+Even that brief exchange gave <ruby>Okyaku<rt>Great Wolf</rt></ruby> a sense of the stoat professor's personality and left him feeling warm and fuzzy inside. Her bright smile was contagious.
 
-But when the conversation paused, the dangerous guard stepped in with an introduction that threw cold water on the mood.
+The moment the conversation paused, the dangerous bodyguard cut in with a self-introduction that killed the mood.
 
 “Blue Witch. Guard. If you so much as lay one finger on her, I'll kill... I won't forgive you.”
 
-The guard beside Professor Ohinata gave her name and her warning curtly before the Eyeball Witch could introduce her, then fell silent.
+Before the Eyeball Witch could introduce her, the guard beside Professor Ohinata curtly gave her name, issued her warning, and fell silent.
 
-Confused, <ruby>Okyaku<rt>Great Wolf</rt></ruby> looked to the Eyeball Witch, but her smile seemed a little stiff. Apparently, it had not been his imagination that the Blue Witch had started to say she would kill him.
+Confused, <ruby>Okyaku<rt>Great Wolf</rt></ruby> glanced at the Eyeball Witch, whose smile looked a little stiff. Apparently, he hadn't imagined the Blue Witch starting to say she'd kill him.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> no longer knew what expression he was supposed to make.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> had no idea what kind of face to make anymore.
 
-The Tokyo Witches' Council was a strange, complicated lot. Sandwiched between a normal woman and an oddball, the shift in mood was enough to give him a cold.
+The Tokyo Witches' Council was a baffling mix. The temperature shift between the normal woman and the oddball was enough to give <ruby>Okyaku<rt>Great Wolf</rt></ruby> a cold.
 
-“A-Ahem. She is a little difficult, but she is extremely capable. She will give us her opinions as an experienced fighter.
+“A-Ahem. She is a little difficult, but extremely capable. As an experienced fighter, she will offer us her perspective.
 
-As for the schedule, today we will exchange information here, then I will show you to your lodging once we are done.
+Today's schedule is to exchange information here, after which I will show you to your lodging.
 
-Starting tomorrow, we will visit the university's departments and exchange opinions. For the last two days, we will tour Tokyo. If there is anywhere you are interested in, we can show you around then.
+Starting tomorrow, we will visit the university's various departments to exchange opinions. We will tour Tokyo for the final two days, and if there is anywhere that interests you, we can show you around then.
 
-That makes six nights and seven days. Does this schedule work for you?”
+All told, that makes six nights and seven days. Does that schedule work for you?”
 
-“Yes. I leave it to you.”
+“Yes. I'll leave it in your hands.”
 
-“Thank you. I am sorry to begin so soon after you have come all this way, but time is limited. First, Professor Ohinata will speak...”
+“Thank you. I apologize for beginning so soon after you've come all this way, but our time is limited. First, Professor Ohinata will...”
 
-At the Eyeball Witch's prompting, Professor Ohinata took the materials and was about to speak, but <ruby>Okyaku<rt>Great Wolf</rt></ruby> stopped her with his hand.
+At the Eyeball Witch's prompting, Professor Ohinata picked up her materials and prepared to speak, but <ruby>Okyaku<rt>Great Wolf</rt></ruby> raised a hand to stop her.
 
-“No. Excuse me, but may I speak first? One of the things we brought is perishable... Perishable? Anyway, it needs to be stored properly. I would like to explain how to use it and hand it over as soon as possible.”
+“Actually, excuse me, but may I speak first? One of the things I've brought is perishable... Perishable? Anyway, it needs to be stored properly, so I'd like to explain how to use it and hand it over as soon as possible.”
 
-“Oh. If that is the case, please do. We also have gifts for you, but they keep well, so we will give them to you when you leave to spare you the extra baggage.”
+“Oh, in that case, by all means. We have gifts for you as well, but they keep, so we'll wait until you leave to give them to you and spare you the extra baggage.”
 
-The Eyeball Witch agreed cheerfully, so <ruby>Okyaku<rt>Great Wolf</rt></ruby> took a large jar filled with secret sauce from his luggage and set it down on the meeting room table with a thud.
+With the Eyeball Witch's cheerful agreement, <ruby>Okyaku<rt>Great Wolf</rt></ruby> pulled a large jar of secret sauce from his luggage and set it down on the meeting room table with a thud.
 
-Watching Professor Ohinata lean forward with sparkling eyes, <ruby>Okyaku<rt>Great Wolf</rt></ruby> smiled and began speaking at once.
+Professor Ohinata's eyes lit up as she leaned forward. <ruby>Okyaku<rt>Great Wolf</rt></ruby> smiled at her reaction and got right to it.
 
-“This time, the Tohoku Hunting Association decided to give the Tokyo Witches' Council three main items as reconstruction aid. One of them is this, what we call secret sauce.”
+“For our reconstruction aid this time, the Tohoku Hunting Association decided to give the Tokyo Witches' Council three main things. This is one of them: what we call secret sauce.”
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> opened the jar and showed everyone the soy-sauce-like black liquid inside. A slightly sour, appetizing smell spread through the meeting room.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> opened the jar and showed everyone the soy-sauce-like black liquid inside. A slightly sour but appetizing smell spread through the meeting room.
 
-“This secret sauce detoxifies monster meat. If you soak monster meat, which only witches and mages can eat, in this sauce for at least three days, even ordinary people can eat it. If you are soaking a thick piece of meat, you should allow four to five days.
+“This secret sauce detoxifies monster meat. Normally, only witches and mages can eat monster meat, but soaking it in this sauce for at least three days makes it safe for ordinary people. For thick cuts of meat, you should allow four or five days.
 
-The sauce is made from monster gastric juices. Apparently, the original batch was a mixture of gastric juices from several kinds of monsters with developed digestive systems. Even the person who made it does not know why it detoxifies the meat, but in our group, we use anything that works.
+The sauce is made from monster gastric juices. Apparently, the original batch combined the gastric juices of several monster species with well-developed digestive systems. Not even the person who made it knows why it detoxifies meat, but our policy is to use anything that works.
 
-When you want to increase the amount of secret sauce, or replace what has been lost through use, add gastric juice from any kind of monster. If you add too much new gastric juice at once, it will throw the sauce out of balance and ruin its detoxifying effect, so only add more once a day, up to one-tenth of the total. One day, one top-up, one-tenth—remember it as one-one-one. You can dilute it with water, but if you dilute it too much, it will also lose its detoxifying effect, so...”
+To make more secret sauce or replace what gets used, top it up with gastric juice from any kind of monster. Adding too much at once will throw the sauce out of balance and ruin its detoxifying effect, so only add more once a day and never more than one-tenth of the total. One day, one top-up, one-tenth—remember it as one-one-one. You can dilute it with water, but too much water will also ruin its detoxifying effect, so...”
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> slowly explained the precautions for using and maintaining it, keeping pace with Professor Ohinata's notes.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> slowed his explanation of the sauce's use and upkeep to match Professor Ohinata's note-taking.
 
-Secret sauce had spread to every household in the Tohoku Hunting Association's managed territory, and each household's sauce tasted slightly different. It truly was the source of every household's own flavor.
+Every household in the territory managed by the Tohoku Hunting Association used secret sauce, and every family's batch tasted a little different. It truly was the source of each household's own flavor.
 
-The Association's hunters delivered the monsters they caught to butcher shops, which broke them down and distributed the gastric juice and meat to each household. That distribution chain had greatly improved Sendai's food supply since soon after the Gremlin Disaster.
+The Association's hunters delivered their kills to butcher shops, which dressed them and distributed the gastric juices and meat to each household. That supply chain had done a great deal to improve Sendai's food situation from the early days after the Gremlin Disaster.
 
-No one knew how secret sauce worked, but so far it had not caused any food poisoning. It would surely be useful in Tokyo too.
+No one understood how secret sauce worked, but so far it hadn't caused a single case of food poisoning. It would surely be useful in Tokyo too.
 
-Once the lesson was over and Professor Ohinata had finished taking notes, she asked <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s permission, grilled the sample of monster meat he had put in the jar, and tasted it on the spot.
+After the lesson, Professor Ohinata finished her notes, asked <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s permission, then grilled the sample of monster meat he'd put in the jar and tasted it on the spot.
 
-She munched away, gave a firm thumbs-up, and affectionately traded bites of meat with the Blue Witch.
+She munched on it, gave a firm thumbs-up, and affectionately traded bites of meat with the Blue Witch, each feeding the other.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> was impressed by her nerve in trying it right away, but he was even more surprised that she had used fire magic.
+Her nerve in trying it on the spot impressed <ruby>Okyaku<rt>Great Wolf</rt></ruby>, but her use of fire magic surprised him even more.
 
-She had casually handled her wand and cast fire magic, but <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eyes widened.
+Professor Ohinata had casually waved her wand and cast fire magic, and <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eyes went wide.
 
-As expected of Tokyo, the home of wizards. Even ordinary people could use fire magic so easily.
+So this was Tokyo, the home of wizards. Even ordinary people could use fire magic with ease.
 
-Tokyo was on another level entirely. This was unthinkable in Sendai, where fertility magic was the only kind in widespread use. Well, Professor Ohinata was a famous magic linguist, so perhaps she was exceptionally skilled at using magic even among ordinary people.
+Tokyo was on another level entirely. In Sendai, where no magic but fertility magic had spread very far yet, something like this was unthinkable. Then again, Professor Ohinata was a famous magic linguist, so perhaps she was exceptionally good at magic even among ordinary people.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby>'s secret sauce was handed over to the Eyeball Witch with heartfelt thanks and placed in the corner of the room for the moment. At an early-spring room temperature, it only needed to be kept in a cool, dark place out of direct sunlight, so that would do for now.
+The Eyeball Witch accepted <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s secret sauce with heartfelt thanks and set it in a corner of the room for the time being. At room temperatures like those of early spring, a cool, dark place out of direct sunlight was all it needed, so that would do for now.
 
-Next, <ruby>Okyaku<rt>Great Wolf</rt></ruby> took out the Monster Trap and put it on the table.
+Next, <ruby>Okyaku<rt>Great Wolf</rt></ruby> pulled out the Monster Trap and set it on the table.
 
-This time, the Blue Witch leaned forward and stared closely at the Monster Trap.
+This time, the Blue Witch leaned forward for a close look at the Monster Trap.
 
 “Hey. Don't tell me this bear trap uses crushed magic stones?”
 
 “That's exactly right.”
 
-“Why crush them? What a waste... Ah, no. Sorry for interrupting.”
+“Why would you crush them? What a waste... Ah, no. Sorry for interrupting.”
 
-The Blue Witch seemed to have remembered halfway through that she was a guard. She settled back in her chair, went quiet again, and gestured for him to continue.
+Halfway through, the Blue Witch seemed to remember she was there as a guard. She settled back into her chair, fell silent again, and gestured for him to continue.
 
-Of course <ruby>Okyaku<rt>Great Wolf</rt></ruby> knew that magic stones amplified magic power, and that bigger stones had a stronger effect. So he understood why breaking them into smaller pieces looked foolish. But naturally, there was a reason for it.
+Of course <ruby>Okyaku<rt>Great Wolf</rt></ruby> knew magic stones amplified a spell's power, and that larger stones provided a greater boost. He understood why breaking them into smaller pieces looked foolish. Still, he had a reason.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> explained while pointing to the Monster Trap's parts.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> pointed to the Monster Trap's components one by one.
 
-“As you can probably see, this is a trap made by modifying a bear trap. We call it a Monster Trap.
+“As you can probably see, this is a modified bear trap. We call it a Monster Trap.
 
-The two toothed semicircles in the center are the same as on an ordinary bear trap. When something steps on the plate in the middle, they bite down on it and hold it fast.
+The two toothed semicircles in the center work just like an ordinary bear trap. When something steps on the plate in the middle, they bite down and hold it fast.
 
-What is important is the outer ring. Can you see these magic-stone fragments set along the ring? These. They form a circle with two colors of magic stone placed alternately. It does not need to be a circle. Any shape is fine as long as the fragments touch each other and connect in a single line from one end to the other. You pour magic power into these magic stones like this...”
+The important part is the outer ring, specifically these magic-stone fragments set into it. See them? These right here. Two different colors alternate to form a circle, but they don't actually need to make a circle. Any shape works as long as the fragments touch and form one unbroken line from one end to the other. Then you channel magic power into them like this...”
 
-When <ruby>Okyaku<rt>Great Wolf</rt></ruby> used magic-power control to pour magic power into the trap, the Monster Trap's magic stones flashed for a moment.
+Using magic-power control, <ruby>Okyaku<rt>Great Wolf</rt></ruby> channeled magic power into the trap, and its magic stones flashed for an instant.
 
-“...There. It is now in an activation-standby state. Eyeball Witch-san, can you bring out that familiar? Please have it pass over the Monster Trap.”
+“...There. It's now in an activation-standby state. Eyeball Witch-san, can you bring out that familiar? Please have it pass over the Monster Trap.”
 
 “Yes. Would it be better if it stepped on the plate?”
 
 “I only want to show the magic stones' effect, so just pass it over.”
 
-The Eyeball Witch nodded, recited an incantation, and brought out an eyeball familiar.
+The Eyeball Witch nodded, recited an incantation, and summoned an eyeball familiar.
 
-The floating eyeball passed over the Monster Trap as the Eyeball Witch controlled it.
+At the Eyeball Witch's direction, the floating eyeball passed over the Monster Trap.
 
-At once, the eyeball familiar's movements slowed with a jerk. It moved slower than a turtle, as if it were pushing through an incredibly thick liquid.
+The instant it crossed over the trap, the eyeball familiar slowed with a jerk. It crept along more slowly than a turtle, as if pushing through an incredibly thick liquid.
 
-The two witches and the stoat girl all exclaimed in admiration, and <ruby>Okyaku<rt>Great Wolf</rt></ruby> swelled with pride.
+The two witches and the stoat girl all cried out in admiration, and <ruby>Okyaku<rt>Great Wolf</rt></ruby> basked in their reaction.
 
-The Tokyo Witches' Council's many new technologies sounded impressive even secondhand.
+The many new technologies produced by the Tokyo Witches' Council sounded impressive even secondhand.
 
-But the Tohoku Hunting Association's <ruby>traps<rt>hunting gear</rt></ruby> were not half bad either.
+But the Tohoku Hunting Association's <ruby>traps<rt>hunting gear</rt></ruby> had plenty to offer too.
 
-“As you can see, it drastically slows anything that enters the trap. Combined with the bear-trap mechanism, it can hold even fairly powerful monsters securely. Once a monster is caught, hunting it is easy. All you have to do is beat it to a pulp while it cannot move. I think it would be useful on monster hunts with your wizard unit.”
+“As you can see, it drastically slows anything that enters the trap. Combined with the bear-trap mechanism, it can securely hold even powerful monsters. Once you've caught one, all that's left is to beat it to a pulp while it can't move. I think it could help your wizard unit on monster hunts.”
 
 “Wow! That's amazing! Is this a kind of binding magic?”
 
-Professor Ohinata watched the eyeball familiar slowly moving through the air from various angles with great interest, and <ruby>Okyaku<rt>Great Wolf</rt></ruby> told her everything he knew.
+Professor Ohinata eagerly studied the eyeball familiar crawling through the air from every angle, and <ruby>Okyaku<rt>Great Wolf</rt></ruby> told her everything he knew.
 
-“Our mages say it is not restraining things so much as making time heavier. Simply put, time passes slowly for prey that enters it. Something that would normally break the trap and escape in an instant can be held there for hours or days, depending on how much magic power you put into it.”
+“According to our mages, it doesn't restrain things so much as make time heavier. Simply put, time passes more slowly for whatever enters it. Something that would normally break the trap and escape in an instant can be held there for hours or days, depending on how much magic power you put into it.”
 
-“I see... Hmm, hunting... keeping critically injured people stable... food preservation... experiments... It seems like there would be many ways to use it. This is wonderful! I think many of my acquaintances would be interested.”
+“I see... Hmm. Hunting... stabilizing critically injured patients... preserving food... experiments... There seem to be all sorts of uses for it. This is wonderful! I think many people I know would be interested.”
 
-“The Tokyo Witches' Council has magic stones too, right? I can see the Blue Witch-san's wand is made with magic stones as well. The structure itself is relatively simple, so I think you could copy it and make one right away. I brought the blueprints too. Here you are.
+“The Tokyo Witches' Council has magic stones too, right? The Blue Witch-san's wand appears to be made from one as well. The structure itself is fairly simple, so I think you could copy it right away. I brought the blueprints too. Here you are.
 
-There are various precautions for using the Monster Trap, but the main thing to remember is that it catches people as well as monsters. In fact, it catches every living thing with magic power. There has even been an accident where a mage carelessly stepped on one and took days to escape. Well, because time was passing slowly, they did not get hungry or need to relieve themselves, but if a monster had attacked them while they were defenseless, they would have died. Please be very careful.
+There are several precautions when using a Monster Trap, but the most important is that it catches people as well as monsters. Or rather, it catches every living thing with magic power. We once had a mage carelessly step on one, and it took him days to escape. Since time was passing slowly for him, he didn't go hungry or soil himself, but he would have died if a monster had attacked while he was defenseless. Please be very careful.
 
-You can also rearrange the magic stones to change the trap's activation threshold, so it only activates when something with at least a certain amount of magic power passes over it, but—huh?”
+You can also rearrange the magic stones to change the trap's activation threshold, making it trigger only when something with at least a certain amount of magic power passes over it, but—huh?”
 
-Partway through his explanation, <ruby>Okyaku<rt>Great Wolf</rt></ruby> heard the door open behind him. He stopped speaking and turned around to see what was going on.
+The door opened behind <ruby>Okyaku<rt>Great Wolf</rt></ruby> mid-explanation. He broke off and turned to see what was going on.
 
-There was no one on the other side of the door. He thought it might have opened by itself, but when he looked down, the small fire fairy, the Flame Witch, was there.
+No one stood beyond the door. For a moment, he thought it had opened on its own, but then he lowered his eyes and found the little fire fairy—the Flame Witch.
 
 The meeting was still underway, so why had the guard come in? Had something happened outside?
 
@@ -302,7 +302,7 @@ The meeting was still underway, so why had the guard come in? Had something happ
 
 “I'm sorry, I overheard you. Could you use that Monster Trap on me?”
 
-The unexpected words made <ruby>Okyaku<rt>Great Wolf</rt></ruby> blink, and the Flame Witch continued to plead.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> blinked at the unexpected question. The Flame Witch pressed on.
 
 “I want you to seal me away.”
 

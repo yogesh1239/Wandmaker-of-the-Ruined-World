@@ -74,3 +74,37 @@
 - Complete s-p035.jpg through s-p038.jpg story audited in one 181-source-line chunk; accuracy pass completed before one polish pass.
 - Narrative/direct-thought tense distinction, glossary terms, Japanese name order, honorifics, romanization, and the Sendai Toshogu footnote verified.
 - No scene breaks or inline images occur in this story; one final `## Translator Notes` section retained.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed story against the OCR transcription (segment 1 of 1: EN lines 1–175 / JP OCR lines 1–187; agent `reedit_v3booklet_s1`; model `gpt-5.6-sol` at high reasoning; ~65 edits). Flow: mean sentence length 14.0 → 12.6 words; short-sentence share 19.4% → 20.8%; runs 1 → 0; words 1811 → 1686. No past-tense reversals.
+
+### Accuracy Fixes
+- **中指を立てる**: replaced the literal gesture description with the natural idiom “flipping him off” — register
+- **どす黒い感情**: replaced an abstract literal rendering with natural “dark feelings” phrasing — polish
+- **気まずさで死にそう**: restored the comic intensity as the awkwardness nearly killing him — voice
+- **魔力制御**: tightened the line to the exact idea of magic-power control — accuracy
+- **性能**: replaced misplaced “specification” diction with natural “specs” where the source discusses performance — register
+- **惚れた方が負け**: restored the aphoristic punch of falling in love meaning you've lost — voice
+
+### Register and Flow
+Kept the short story conversational, tactful where the source is tactful, and blunt where the boys are howling or resolving to win. No OCR uncertainty was silently repaired.
+
+### Reference Decisions
+- **Flag — OCR line 145, ――あら、村雲さん**: the transcription lacks dialogue quotation marks, but the surrounding exchange clearly attributes the line to Iwatsura. The existing dialogue interpretation was retained; the OCR itself was not silently emended. No reference-file edit proposed.
+
+### Formatting Confirmed
+- The Sendai Toshogu note marker and definition and final `## Translator Notes` section remained intact; `check_reedit.py` PASS (FLOW ok). `run_chapter_gates.py` could not address this unnumbered booklet (`status 2`), so the required per-file `check_consistency.py --glossary glossary.md` check was run and passed.
+
+### Lead Review (full change-by-change subagent review, 67 changes)
+- **交際相手はもういるのか？** (OCR line 99): restored “already” and changed the question to “Do you already have someone you're seeing?” so it fits the unchanged reply “No, I don't.” — worse
+- **優秀な監視員（魔術師）として高く評価されていた** (OCR lines 45/49): restored the “watcher (wizard)” note that sets up the mage reveal, and fixed the clumsy three-people's-work sentence — accuracy
+- **辞めるのはよほどの理由があると思っているようだ** (OCR line 61): restored the ようだ hedge (“obviously assumed” → “seemed to assume”) — accuracy
+- **大狼の誘いに乗るのが正解なのだろう** (OCR line 123): restored the のだろう hedge (“he knew he should” → “was probably the right call”) — accuracy
+- **恋破れたなら涙を呑んで乗り越え** (OCR line 127): restored the conditional (“If his love had failed”) and removed the verbatim repeat of “He'd lost at love.” from line 103 — accuracy
+- **大狼は納得したようだった** (OCR line 85): removed the added nod; now “seemed convinced” — accuracy
+- **片思いしていた女性** (OCR line 73): changed “he'd had a crush on” back to “he had a crush on” because the crush is ongoing — accuracy
+- **四年もの間耐え抜いたのなら、この先の仕事はより余裕を持って** (OCR line 57): restored “four whole years” and “even more room to spare,” and removed the added “any” — accuracy
+- **好きな女を取った男を好きになれるはずもない** (OCR line 19): changed “loved” back to “liked” to keep the 好き echo with the title — accuracy
+- **ハンティングトロフィーが厳かに飾られた** (OCR line 9): restored “solemnly displayed” — accuracy
+- Checks: `check_reedit.py` RESULT: PASS (FLOW ok; mean words/sentence 14.0 → 12.7); `check_consistency.py --glossary glossary.md` on the file exit 0.

@@ -1,4 +1,4 @@
-After embedding a Gremlin in the back of my left hand and safely becoming friends with the three fire salamanders, I immediately noticed a problem.
+Once I'd embedded a Gremlin in the back of my left hand and safely made friends with the three fire salamanders, I immediately ran into a problem.
 
 They had stopped threatening and attacking me. That was a good thing.
 
@@ -8,7 +8,7 @@ But they had gotten too attached, and that was becoming a problem. No matter how
 
 I collected nesting material from inside the refrigerator at the burned-out site, loaded it onto a handcart, and moved it to the reverberatory furnace. The fire salamanders immediately understood what was happening and used the metal nesting material to make a new nest inside the furnace.
 
-But what came next was not good. The move went unbelievably smoothly, and just as I started celebrating a job well done, I headed home from the reverberatory furnace and they toddled after me.
+But what came next was not good. The move went unbelievably smoothly, and for one brief moment I thought that settled it. Then I tried to head home from the reverberatory furnace, and they toddled right after me.
 
 Apparently, they thought I was the boss of their group, and they would not leave my side.
 
@@ -16,7 +16,7 @@ Until now, the other two had followed the biggest of the three. Maybe fire salam
 
 This was becoming a problem.
 
-Fire salamanders were fantasy creatures that kept flames lit at the tips of their tails and breathed fire from their mouths. If I let them walk around inside the house, it would catch fire in no time. It was adorable that they so earnestly followed me, but house fires were a problem.
+Fire salamanders were fantasy creatures with flames on the tips of their tails, and they breathed fire too. If I let them roam around inside the house, it would burn down in no time. It was adorable how devotedly they followed me, but I could do without a house fire.
 
 “Wait. Wait, fire salamanders. Wait here. You'll start a fire.”
 
@@ -26,15 +26,15 @@ Fire salamanders were fantasy creatures that kept flames lit at the tips of thei
 
 “Mimimi.”
 
-I tried talking them into it in front of the entrance and even gestured for them to stay put, but all three did was cry innocently and nibble my fingers. The weeds beside the path were being singed by the flames on their tails and withering. When I tried to enter the house, they naturally tried to follow me in.
+I tried talking them into it in front of the entrance and even gestured for them to stay put, but all three of them did nothing but cry innocently and nibble my finger. Their tail flames singed the weeds beside the path until they wilted. The moment I tried to enter the house, they followed as if it were the most natural thing in the world.
 
 What was I supposed to do? Based on what I had observed so far, I had thought they did not go far from their nest. I had not expected them to cling to me this much.
 
-Even when I tried to lose them by sprinting at full speed, they were three times quicker than I expected and followed me easily. They were so small, but they were definitely monsters.
+I even tried losing them in a full-on sprint, but they were three times as quick as I'd expected and kept up with ease. They might have been tiny, but they were definitely monsters.
 
 For now, I decided to make a cage, since it would be bad if they set the house on fire.
 
-I dug through the storeroom for a barbecue griddle and wire, then put the fire salamanders in a tough metal cage I had made just for them. The three looked around the cage, looked up at me unhappily, and cried meep meep.
+I dug a barbecue griddle and some wire out of the storeroom and built them a sturdy metal cage. Once I put the fire salamanders inside, the three looked around, gazed up at me unhappily, and cried meep meep.
 
 “Put up with it. If you want to follow me, stay quiet in here! I can't let you walk around freely inside the house.”
 
@@ -48,45 +48,45 @@ Right after I told them that, all three breathed fire in unison. Three little st
 
 While I stood there stunned, the three calmly escaped through the hole in the cage and kept smacking my shoes with their tails to show their displeasure.
 
-No good. I couldn't keep these guys caged. If they could melt iron, they could melt any cage.
+No good. I can't keep these guys caged. If they can melt iron, they can melt any cage.
 
-Should I just make a firebrick cage and lock them in? ...No, that would be cruel. They just wanted to be with me. They would probably get stressed if I locked them up.
+Should I just make a firebrick cage and lock them in? ...No, that would be cruel. They just want to be with me. Locking them up would probably stress them out.
 
 As I worried about what to do, I scratched under the fire salamanders' chins and played with them by lightly tossing and catching them.
 
-What I learned from that was that fire salamanders did not breathe fire as much as I expected, and the flames on their tails were not as hot as they looked.
+As we played, I realized fire salamanders didn't breathe fire as often as I'd expected, and the flames on their tails weren't as hot as they looked.
 
-They breathed fire when they got angry or attacked something. But as long as they were in a good mood and having fun, they did not breathe any at all. Their tail flames also seemed different from ordinary fire. When I brought my hand near them, I could feel heat like from a stove, but it was not hot enough to set things on fire.
+They breathed fire when they got angry or attacked something. But as long as they were in a good mood and having fun, they didn't breathe fire at all. Their tail flames also seemed different from ordinary natural fire. When I brought my hand close, I felt heat like I would from a stove, but not enough to set anything alight.
 
-In other words, they were basically fine, but if they threw a tantrum, they immediately breathed fire... Hmm? Could I train that out of them?
+In other words, they were basically safe, but the moment they threw a tantrum, out came the fire... Hmm? Could training do anything about that?
 
-Human toddlers wet themselves constantly and dropped food all over the place too. They learned how to use the toilet and how to eat through training, so if I trained fire salamanders, could they learn how to use fire...?
+Human toddlers wet themselves constantly and spilled food everywhere too. They learned to use the toilet and eat properly through training, so if I trained the fire salamanders, could they learn how to use fire...?
 
-No one in human history had ever raised fire salamanders. There was no precedent. I would not know whether it was possible until I tried. Even the Hokkaido Magic Beast Farm guide had no data on fire salamanders.
+No one in human history had ever raised fire salamanders before. There was no precedent, so I wouldn't know whether it was possible until I tried. Even the Hokkaido Magic Beast Farm guide had no data on them.
 
-As a stopgap measure, I walked all over Okutama with the fire salamanders to wear them out. They seemed tireless, but after walking nonstop from early afternoon until evening, even they finally wore down. Once they started slowing, I took them to the reverberatory furnace and put them in their nest with some charcoal. They munched their food, then dropped right to sleep.
+For a stopgap, I walked the fire salamanders all over Okutama to wear them out. They seemed to have endless energy, but after walking nonstop from early afternoon until evening, even they finally seemed to get tired. Once they started slowing down, I took them to the reverberatory furnace and put them in their nest with some charcoal. They munched away, then dropped right to sleep.
 
 All right. Good enough for now.
 
 They were just like kids. If I wore them out playing and got them to sleep, I had it made.
 
-I quietly left the reverberatory furnace without waking the fire salamanders, who were sleeping comfortably with little bubbles puffing from their noses, and finally went home. I heated the bath with magical fire and soaked away the fatigue of the first day of raising them while thinking about all sorts of things in the tub.
+The fire salamanders slept peacefully with little bubbles puffing from their noses. Careful not to wake them, I slipped away from the reverberatory furnace and finally went home. I heated the bath with magical fire and soaked away the fatigue of my first day raising them while I thought things over.
 
-Eventually, I wanted the fire salamanders to heat baths like this too.
+Eventually, I wanted the fire salamanders to handle heating baths like this too.
 
-The Gremlin implantation had reduced my magic power by quite a bit. The magic-power cost of fire magic weighed on me even more heavily than before. For cooking, heating baths, and smithing work, I definitely wanted the fire salamanders to use their fire abilities to help with my life and work.
+The Gremlin implantation had reduced my magic power by quite a bit, so the cost of fire magic hurt even more than before. For cooking, heating baths, and smithing, I definitely wanted the fire salamanders to put their flames to work and help me out.
 
 Grilled meat cooked over fire salamander flames sounded insanely tasty. Bathwater heated by fire salamanders seemed like it would be good for you, and metal forged in their fire would feel extra special.
 
 The possibilities were endless. A fantasy life with cute monsters would not be so bad.
 
-Should I just rebuild the house with a fireproof design so the fire salamanders could roam around freely? No, no, that was way too much work. I could put only the important things in fireproof safes and leave fire extinguishers in every room...
+Should I just rebuild the house to be fireproof so the fire salamanders can roam around freely? No, no, that's way too much work. I could put just the important things in fireproof safes and leave fire extinguishers in every room...
 
-As I stayed in the bath thinking long enough for the water to get lukewarm, I heard their distinctive meep-meep cries outside.
+I stayed in the bath thinking until the water went lukewarm, and then I heard their distinctive meep-meep cries outside.
 
 No way. I opened the window and looked out. The fire salamanders outside cried happily when they spotted me. Then they climbed up the outside wall of the house like geckos and poured into the bathroom.
 
-They had too much momentum and splashed down into the tub one after another.
+They came in too fast and splashed down into the tub one after another.
 
 “Mii!?”
 
@@ -98,7 +98,7 @@ They had too much momentum and splashed down into the tub one after another.
 
 The fire salamanders floated on the surface in a panic, flailing around. I scooped them out with a bath pail, hurriedly wrapped them in bath towels, and dried them off.
 
-The fire salamanders went limp and let me do whatever. Th-This looked bad. It did not look like they were dying, but they were obviously listless.
+The fire salamanders went limp and let me handle them. Th-This looks bad. They didn't seem to be dying, but they were clearly in rough shape.
 
 “Hey, hey, hey, the flames on your tails are out. Are you okay?”
 
@@ -116,15 +116,15 @@ But they seemed a little scared as they ran out of the bathroom, then huddled in
 
 “Mii~...”
 
-All three kept calling to me anxiously. When I followed their eyes, I saw they were staring hard at my butt.
+All three kept calling to me anxiously. When I followed their gaze, I found them staring hard at my butt.
 
-Ah-ha?
+Aha?
 
 “I don't have a tail. It's fine that I don't have a flame either. I'm fine, fine. Thanks for worrying about me.”
 
 “Mi!”
 
-I tried gently explaining, but they did not understand. One of the three seemed to make up its mind, gingerly stepped onto the wet bathroom tiles, bit my big toe and pulled, and tried as hard as it could to rescue me.
+I explained as gently as I could, but they didn't understand. One of the three seemed to make up its mind. It gingerly stepped onto the wet bathroom tiles, bit my big toe, and tugged with all its might to rescue me.
 
 When I let it pull me out of the bathroom, the other two, who had been waiting, breathed fire at my butt.
 
@@ -134,15 +134,15 @@ Daaaaah!! Idiot!
 
 Even when I shielded my butt and scolded them, the fire salamanders just looked blankly at me.
 
-Y-You guys! They seriously thought I was one of them!
+Th-These little...! They really do think I'm one of them!
 
-They seemed worried because there was no flame on my butt, but I wasn't having it. They were going to roast my ass!
+They seem worried because there's no flame on my butt, but I can't take this. They're going to roast my ass!
 
-The fire salamanders stared at my butt, puffed out their chests to breathe fire again, and I hurriedly flicked them on the forehead to stop them. All three rolled over, flailed around until they got back up, then tried to breathe fire again with confused looks.
+The fire salamanders kept staring at my butt and puffed out their chests to breathe fire again, so I hurriedly flicked them on the forehead. All three rolled over and flailed until they got back up, then gave me confused looks and tried again.
 
 After I repeated the forehead flick a few times, the fire salamanders finally seemed to learn that if they breathed fire at the big boss's butt, he got mad.
 
-I cooled my burned butt, put on a compress, and got dressed. Then they started headbutting and biting me to urge me along, like they wanted to take me somewhere.
+I cooled my burned butt, stuck on a medicated patch, and got dressed. Then they started headbutting and biting me to urge me along, as if they wanted to take me somewhere.
 
 “What? What do you want? Didn't you get tired and go to sleep?”
 
@@ -152,13 +152,13 @@ I cooled my burned butt, put on a compress, and got dressed. Then they started h
 
 “Mimi.”
 
-“Should I follow you? It's already the middle of the night.”
+“You want me to follow you? It's already the middle of the night.”
 
-No matter what I said, they could not understand words. I could not just ignore the energetic little guys winding around my feet, so I left the house and followed them.
+Nothing I said got through to them. I couldn't just ignore the energetic little guys winding around my feet, so I left the house and followed them.
 
-Since the electricity went out, the world at night had gotten dark. The vending machines had fallen silent, the houses had no lights, and the streetlights had long since become nothing but poles. The flames on the fire salamanders' tails glowed bright and otherworldly in the cold, dark night air, leading me somewhere.
+After the electricity went out, nights became dark. The vending machines had fallen silent, the houses had no lights, and the streetlights had long since become nothing but poles. The fire salamanders' tail flames glowed bright and otherworldly in the cold, dark air as they led me onward.
 
-I wondered where they were taking me, but after a short walk, we arrived at the reverberatory furnace. The fire salamanders burrowed into it ahead of me, then stuck their faces out of the darkness and cried meep meep at me.
+I wondered where they were taking me, but after a short walk, we ended up at the reverberatory furnace. The fire salamanders burrowed inside ahead of me, poked their faces out of the darkness, and cried meep meep at me.
 
 My face twitched. Seriously?
 
@@ -172,9 +172,9 @@ My face twitched. Seriously?
 
 “Seriously? Seriously...?”
 
-They even wanted me around while they slept? They were way too needy.
+They want me around while they sleep too? They're way too needy.
 
-No, maybe it was not that they were lonely. Was it that their boss was not in the nest even though it was bedtime, so they had come to bring me back?
+No, maybe this isn't about loneliness. Maybe they got worried when their boss wasn't in the nest at bedtime, so they came to bring me back?
 
 Come on, little guys. Cut me some slack.
 
@@ -184,11 +184,11 @@ Come on, little guys. Cut me some slack.
 
 There was no way whining would get through to them.
 
-If I ignored them and went home, they would probably come get me again, so I had no choice but to behave and do what they wanted.
+If I ignored them and went home, they would probably come get me again. I had no choice but to give in and do what they wanted.
 
-I braced myself, twisted my body into the narrow entrance of the reverberatory furnace, and went inside. The fire salamanders stopped crying as if relieved, curled up, and closed their eyes. Fine, fine. I got it. You want me to sleep here too.
+I braced myself and squeezed through the narrow entrance of the reverberatory furnace. The fire salamanders stopped crying as if relieved, curled up, and closed their eyes. Fine, fine. I get it. I just have to sleep here too, right?
 
-My burned butt stung, the inside of the reverberatory furnace smelled scorched, there was no pillow, and it was cramped. It looked like it would be a rough night. The only consolation was that the fire salamanders' heat was trapped in there, making it pleasantly warm.
+My burned butt stung, the inside of the reverberatory furnace smelled scorched, there was no pillow, and it was cramped. This was going to be a rough night. The only consolation was their body heat, which kept the furnace pleasantly warm.
 
 Keeping fantasy creatures was not easy.
 
@@ -198,13 +198,13 @@ I let out a big sigh over this rocky start, hunched up small like my rambunctiou
 
 For several days, the fire salamanders ran me ragged with one strange new behavior after another.
 
-I had countless burn marks. I was short on sleep every day, and I could not let go of the fire extinguisher.
+I had countless burn marks. I was short on sleep every day, and I couldn't let go of the fire extinguisher.
 
-Still, maybe they were witches' children after all. For monsters, they were extremely quick to understand things, and we were starting to communicate, sort of.
+Still, they were witches' children, after all. For monsters, they picked things up very quickly, and we were starting to communicate, sort of.
 
 If I said “No” or “Stop” in an angry voice, they learned to stop. If I tempted them with food and said, “Breathe fire,” they learned to breathe fire.
 
-Do they understand words? Or do they just read expressions and react to the feelings in my tone? Either way, they seemed about as smart as dogs or cats.
+Do they understand words? Or do they just read expressions and react to the feelings in my tone? Either way, they seem about as smart as dogs or cats.
 
 “Hmm...”
 
@@ -214,13 +214,13 @@ How much can these guys understand?
 
 The blue mother was dangerous, but pretty smart. The red mother was a pervert, but pretty smart too.
 
-If they inherited their parents' brains, they might be able to learn reading, writing, and arithmetic. But they looked like fire salamanders, so far removed from humans. I did not know how much they had inherited from their parents.
+If they inherited their parents' brains, they might be able to learn reading, writing, and arithmetic. But they looked like fire salamanders, nothing like humans. I had no idea how much of that intelligence they'd inherited.
 
 Dogs and cats could understand their own names and signals for food. I had heard stories of gorillas that could communicate in sign language. Even monsters far removed from humans might be able to understand human words.
 
-Worth a try. I would teach them a little.
+Worth a try. I'll teach them a little.
 
-One of the fire salamanders had just gotten tired of playing and come to my feet, so I put it on my lap, held a ballpoint pen in front of it, and asked,
+One of the fire salamanders had just gotten tired of playing and come to my feet, so I put it on my lap and held a ballpoint pen in front of it.
 
 “Hey, do you know what this is?”
 
@@ -230,9 +230,9 @@ One of the fire salamanders had just gotten tired of playing and come to my feet
 
 “Mimi?”
 
-I repeated the name and waved the ballpoint pen around, but it barely reacted. It only tilted its head and blinked.
+I repeated the name and waved the ballpoint pen around, but it didn't give me much of a reaction. It just tilted its head and blinked.
 
-Hmm? Maybe it had too many letters. Would it understand a shorter, easier word?
+Hmm? Maybe the word's too long. Would it understand something shorter and simpler?
 
 This time, I picked up the cup from my water bottle, held it up in front of the fire salamander, and waved it around.
 
@@ -250,7 +250,7 @@ It poked the cup with its snout curiously, and it seemed to understand at least 
 
 Hmm? Maybe its throat isn't built to make human words?
 
-It could simply be too young. Even estimating generously, these guys were only around 60 days old. They were total babies. A human baby couldn't even babble yet. The fact that they could cry meep meep was impressive enough.
+Maybe they're simply too young. Even by a generous estimate, these guys are only around sixty days old. They're total babies. A human baby that age can't even babble yet. The fact that they can cry meep meep is impressive enough.
 
 “Hmm. Then, one final question. What is this?”
 
@@ -262,11 +262,11 @@ It could simply be too young. Even estimating generously, these guys were only a
 
 I poured plenty of camellia oil into my palm and offered it to the fire salamander. It wagged its tail wildly and eagerly started licking up the oil. Cute.
 
-The fire salamanders basically used ash for beds and ate charcoal, but I was starting to see that each one had its own likes.
+The fire salamanders basically slept in ash and ate charcoal, but I was starting to see that each one had its own preferences.
 
 Some liked sleeping on a thick layer of ash. Some liked burrowing their whole bodies into ash and sleeping with only their snouts out. Some preferred solid fuel, while some preferred liquid fuel. Some were needy, and some were laid-back.
 
-Fire salamanders had individual personalities. Their temperaments, builds, and faces were all different. Each one needed attentive care suited to its own personality.
+Each fire salamander had its own personality, temperament, build, and face. They needed individual care tailored to those differences.
 
 But all three had one thing in common: they were good kids.
 
@@ -274,7 +274,7 @@ They gave me grasshoppers they had caught, let me have the widest, flattest spot
 
 In their own fire-salamander way, they liked me. They were cute little guys.
 
-I couldn't believe there was a witch who had tried to kill such cute kids right after meeting them.
+I can't believe some witch tried to kill such cute kids right after meeting them.
 
 I'll raise you right. Grow up nice and healthy!
 

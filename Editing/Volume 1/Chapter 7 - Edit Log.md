@@ -69,3 +69,27 @@
 - Over 3 million projected deaths, Ome's 130,000, three days and nights versus not even one yen, and one hostage versus 3 million lives were verified with their causal arguments intact.
 - No source images or scene breaks were present. Past-tense narration, glossary forms, honorifics, Japanese name order, and no-macron romanization were verified.
 - The single `[^1]` marker resolves to one Translator Note preserving `×××クナツク`, `スバスハス・トシヤーチア`, and the `×××` redaction without invented sounds.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–337; agent `reedit-v1c7-s1`; ~110 edits). Flow: short-sentence share 18.8% → 9.8%; runs of 3+ short sentences 1 → 0. User ruling 2026-09-28: narration stays past.
+
+### Accuracy Fixes
+- **JA 334–337 (食料問題は深刻だ / なんとかなるだろう / 作ってのけた男なのだから)**: present free-indirect → past ("The food problem was serious." / "she was sure he'd figure something out" / "he was the man who had made Cyanos") — tense (audit reversal)
+- **JA 58 (今回のリモート参加は…以来の事だった)**: implied the Akiruno meeting was also remote → "Today's remote appearance was her first since the emergency meeting held in Akiruno…" — accuracy
+- **JA 139 (前置きして)**: omitted preface restored: "With that preface, his listless middle-aged voice found some strength." — accuracy
+- **JA 187 (国会議事堂なんて守ってる暇があったら)**: "you should've protected" (unstated subject assigned to the Blue Witch) → "anyone with time to guard the National Diet Building should've been guarding even one seed company instead" — referent
+- **JA 313 (えあ～、ぼくげんき！)**: "Eahh... boku's fine!" (untranslated 僕) → "Eahh... me fine!" — voice (俺→僕 regression shown through childish grammar)
+- **JA 310 (お前が大丈夫か？)**: "Are you okay?" → "Are you even okay?" — accuracy (echo of だいじょうぶそう)
+- **JA 118 (話にならん)**: "That's not even worth discussing." → "Don't make me laugh." — register
+- [polish] **JA 112 (担保)**: stacked sentence split: "…If I'm lending that to you and you alone, I need collateral." — polish
+- [polish] **JA 169 (大量の備蓄食料を一人で…)**: front-loaded relative clause rebuilt; source parenthesis restored — polish
+- [polish] **JA 259 (判断するあたり…仲が良かっただけある)**: nominalization removed — polish
+- [polish] **JA 22**: 70-word list sentence → summary sentence + grouped actions — polish
+- [punct] Prose head-counts spelled out (six mages, twenty witches, three million people); statistics kept as numerals per style guide — punct
+
+### Register and Flow
+**Foresight Mage:** gruff, weary; childlike regression line now reads in English. **Blue Witch (close third):** kept plain.
+
+### Formatting Confirmed
+- Ruby span, `[^1]`, image markers, scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 7` ALL PASS.

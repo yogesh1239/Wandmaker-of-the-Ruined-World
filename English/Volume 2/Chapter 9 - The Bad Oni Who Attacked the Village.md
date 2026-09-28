@@ -1,52 +1,52 @@
-It was a tiny, tiny village in the mountains, cut off from the outside.
+It was a tiny little village tucked away in the mountains, cut off from the outside world.
 
-Terraced fields and rice paddies covered the steep mountain slopes, and the scattered houses with tin roofs were old and worn down.
+Terraced fields and rice paddies climbed the steep mountainsides, and the tin-roofed houses dotted here and there had grown old and weathered.
 
-There were no traffic lights, of course, and the widest road was gravel instead of asphalt. Red rust covered a mini truck abandoned beside the road, and voracious vines were swallowing it up.
+There were no traffic lights, naturally, and the widest road was gravel, not asphalt. A mini truck abandoned beside it was blistered with rust and slowly disappearing under greedy, spreading vines.
 
-The Gremlin Disaster had devastated many cities and sent them into decline, but this little village was so quiet, small, and rundown that it looked like it might have been this way even before the disaster.
+The Gremlin Disaster had wrecked plenty of cities and left them in decline, but this little village was so quiet, small, and forgotten that it might well have looked like this before the disaster, too.
 
-The Hell Witch came to the village around the start of October, deep into autumn. It was rice-harvesting season. The mountains blazed with color, and vivid fallen leaves carpeted the ground like brocade.
+The Hell Witch arrived in early October, as autumn deepened. It was rice-harvest season. The mountains blazed with color, and bright fallen leaves carpeted the ground like brocade.
 
-The Hell Witch walked all the way along those mountain paths, leaning on her khakkhara. The villagers welcomed her with screams and thrown stones.
+She had come a long way on foot along those mountain paths, leaning on her khakkhara, and the villagers greeted her with screams and a hail of stones.
 
-“Oh, an oni! There's an oni!”
+“O-Oni! There's an oni out here!”
 
-“Get outta here! We ain't got anything to eat!”
+“Get outta here! There ain't nothin' to eat here!”
 
-“Wait!! I'm a witch!! I just have something I want to ask!!”
+“Wait!! I'm a witch!! I just want to ask something!!”
 
-“What's this? This oni can talk! Everybody, don't listen to it! Those are yokai words!”
+“What the—this oni talks! Don't listen to it, everybody! That's yokai talk!”
 
-“I told you, no!! I'm not a monster!! I'm not a yokai!!”
+“I'm telling you, I'm not!! I'm not a monster!! I'm not a yokai!!”
 
 “Get Ikegami-san! It's an oni, an oni!”
 
-No matter what she said, all she got back were insults and attacks. At a loss, the Hell Witch fled.
+Whatever she said, she got only insults and attacks in return, and at her wits' end, the Hell Witch fled.
 
-She fled until the village was out of sight, caught her breath behind a mossy boulder, and looked up at the sky.
+Once the village was out of sight, she stopped to catch her breath in the shade of a mossy boulder and looked up at the sky.
 
-Humanity had been robbed of electricity, transportation, and information networks. In cities, people had kept exchanging information, investigating the calamities humanity faced, and sharing what they learned. Isolated little communities couldn't do that.
+Humanity had lost electricity, and with it transportation and its information networks. In the cities, people had traded information and investigated over and over until they had a shared picture of the catastrophe that had struck humanity. Small, isolated communities had no such luck.
 
-There were plenty of little villages that had been unable to grasp the state of the world since the Gremlin Disaster and simply huddled in isolation, with no idea what was happening.
+Plenty of small villages had never grasped the state of the world after the Gremlin Disaster and had simply huddled where they were ever since, with no idea what was going on.
 
-No, if they were managing to live at all, that was still better. Most of the little villages the Hell Witch had seen between leaving Tokyo and reaching here had been destroyed by food shortages or monster attacks. People had vanished, and monsters had made nests in collapsing houses. There was nobody to mourn them, and no graves.
+No—if they were still managing to live at all, they were the lucky ones. Most of the small villages the Hell Witch had passed since leaving Tokyo had been wiped out by food shortages or monster attacks. The people were gone, and monsters nested in the crumbling houses. There was no one left to mourn the dead, and there were no graves.
 
-This village had survived for more than three years without any help. That made it a rare case.
+This village had kept itself alive for more than three years with no help from anyone. That made it a rare case.
 
-They had no way to know witches existed. They surely didn't know magic either.
+They'd had no way of learning that witches existed. They probably didn't know about magic, either.
 
-It was only natural that they mistook the bizarre-looking Hell Witch for a monster and tried to drive her away.
+No wonder they had taken the Hell Witch, with her inhuman shape, for a monster and tried to drive her off.
 
-The Hell Witch was traveling to help people suffering because of the Gremlin Disaster. If the villagers were getting by without problems, there was no reason for an outsider to stick her nose in while getting pelted with stones.
+The Hell Witch was traveling to help people suffering from the Gremlin Disaster. If the villagers were getting along fine, there was no reason for an outsider to butt in and get pelted with stones for her trouble.
 
 But one thing bothered her...
 
-As the Hell Witch puzzled over the village's problems, she heard a twig snap. When she looked that way, she noticed a little girl peeking around the other side of the boulder she'd been leaning against, half-hidden and staring at her with open curiosity.
+While the Hell Witch puzzled over the village's troubles, a twig snapped. She looked toward the sound and found a little girl half-hidden on the far side of the boulder she'd been leaning on, watching her with open curiosity.
 
-She was maybe six or seven. Her cheeks were hollow, and her lips were chapped. Her pink shoes were much too big, and her clothes were just as oversized.
+The girl looked six, maybe seven. Her cheeks were hollow and her lips chapped. Her pink shoes were far too big for her, and so were her clothes.
 
-Even so, there wasn't a trace of fear in her sparkling, innocent eyes. Once she realized the Hell Witch had noticed her, she walked right over without the slightest hesitation.
+Still, there wasn't a trace of fear in her bright, innocent eyes. When she realized the Hell Witch had spotted her, she came right on over without a hint of shyness.
 
 “Hello!”
 
@@ -54,399 +54,393 @@ Even so, there wasn't a trace of fear in her sparkling, innocent eyes. Once she 
 
 “Wah.”
 
-The girl had greeted her cheerfully, so the Hell Witch greeted her back. Startled by the loud voice that came out whether the Hell Witch wanted it to or not, the girl covered her ears. The Hell Witch must have been intimidating, but the girl just stood there with her mouth hanging open and looked up at her without any wariness.
+The girl had greeted her so cheerfully that the Hell Witch greeted her back. Her voice came out loud whether she liked it or not, and the startled girl covered her ears. It must have hit her like a blast, but the girl only stared up at the Hell Witch with her mouth hanging open, without the least bit of wariness.
 
 The Hell Witch smiled.
 
-She was a cute little girl who wasn't afraid of a man-eating monster like her. It was dangerous for a child to leave the village alone and approach some bizarre stranger she knew nothing about, but even so, the Hell Witch was simply happy.
+What a sweet little girl, not even scared of a man-eating monster like her. A child wandering away from the village alone to approach some inhuman stranger from who-knows-where was a dangerous thing, but all the same, the Hell Witch was honestly glad.
 
-The Hell Witch decided to talk to the little girl for a bit, partly to gather information.
+She decided to chat with the little girl for a bit. It would also be a chance to gather information.
 
-“You're from the village, right!! I'm the Hell Witch!! I just want to ask one thing!! Where does this village get its water!!?”
+“You're from the village, right!! I'm the Hell Witch!! I just want to ask one thing!! What does this village do for water!!?”
 
-“Huh, water? Um, there's a river for water. But it's gone now.”
+“Huh, water? Um, we've got a river for water. But it's gone now.”
 
 “Gone!!? You mean it dried up!!?”
 
-“Dried... up? Um, water stopped coming to the place where it used to flow.”
+“Dried... up? Um, the water stopped coming where the water used to go.”
 
-Using all the words she knew, the girl did her best to explain. Apparently, the village's water source had dried up soon after the Gremlin Disaster.
+The girl did her very best to explain with every word she knew, and from what she said, the village's water source had dried up not long after the Gremlin Disaster.
 
-The soil in the village's fields and rice paddies was bone-dry and cracked. Even the heads of rice that should have been heavy with grain were thin and lifeless.
+The soil in the village's fields and paddies was bone-dry and cracked, and the rice, which should have been hanging heavy with grain, was thin and limp.
 
-She had worried the village might be suffering a water shortage from the moment she entered and saw the weak crops, and sure enough, it was.
+She'd suspected a drought from the moment she set foot in the village and saw how sickly the crops looked, and sure enough, she'd been right.
 
-The source of the stream that ran through the village and supplied water to its fields and paddies was apparently behind the home of Ikegami-san, a prominent man in the village. Uncle Ikegami used spells to protect the village from monster (yokai) attacks, the girl said, puffing out her chest proudly.
+The water source for the stream, which ran through the village and watered its fields and paddies, was apparently behind the house of Ikegami-san, the village's big man. Uncle Ikegami used spells to protect the village from monster (yokai) attacks, the girl said, puffing out her chest with pride.
 
 “Hmm...!!? Spells, huh!!”
 
-The Hell Witch was almost certain that meant some kind of magic. Was this Ikegami fellow a mage? If he was a man who had awakened as a Transcendent like her, then of course he could drive off monsters and protect the village.
+Some kind of magic, almost certainly, the Hell Witch guessed. Was this Ikegami a mage? If he'd awakened as a Transcendent like her, then of course he could drive off monsters and protect the village.
 
-But it just didn't make sense. If Ikegami was a mage, that explained why monsters hadn't wiped out the village, but it didn't explain why the river had dried up.
+But something didn't add up. If Ikegami was a mage, that explained why monsters hadn't wiped out the village, but not why the river had dried up.
 
-The girl didn't seem to know the details either, so the Hell Witch crossed her arms and thought it over.
+The girl didn't seem to know any of the details either, so the Hell Witch folded her arms and thought it over.
 
-The girl poked the Hell Witch's thick thigh as the Hell Witch wondered how far she should involve herself in the village's affairs, then fidgeted and said,
+As the Hell Witch wondered how far she ought to stick her nose into the village's affairs, the girl poked her thick thigh and fidgeted. “Hey, onee-san. Will you play with me...?”
 
-“Hey, onee-san. Will you play with me...?”
+“Hweh!!? W-Well, um, why not play with kids your own age!!?”
 
-“Huh!!? U-Um, shouldn't you play with kids your own age!!?”
+“Ton-nii and Yaa-chan died. My mom and dad are gone too, and Uncle and Auntie won't play with me. They say they're busy.”
 
-“Ton-nii and Yaa-chan died. I don't have a mom or dad either, and Uncle and Auntie won't play with me. They say they're busy.”
+She pouted as she said it, and the Hell Witch didn't know how to answer.
 
-The girl pouted as she complained, leaving the Hell Witch at a loss for an answer.
+The Gremlin Disaster had taken everything and broken everything. Sadly, losing family or friends wasn't unusual at all. If anything, it was rarer to meet someone who hadn't lost anyone close.
 
-The Gremlin Disaster had taken and destroyed everything. Sadly, it wasn't rare for people to have lost family or friends. If anything, it was rarer for someone not to have lost anyone close to them.
-
-But that didn't mean, “Everyone's suffering, so it's okay.”
+But just because everyone was suffering didn't make it okay.
 
 The Hell Witch nodded.
 
 “Sure, but only for a little while!! <ruby>××× Euzu Nimu Teii Ueuento Uesua<rt>Even a flower without nectar may still have fragrance</rt></ruby>.”[^1]
 
-The Hell Witch put her hand on the ground and chanted the incantation, making flowers grow from under the fallen leaves and form a flower crown.
+The Hell Witch put her hand to the ground and recited the incantation, and flowers sprouted from under the fallen leaves and wove themselves into a crown.
 
-The flower crown had a faint, sweet scent. When she placed it on the girl's head, the girl's eyes shone and she cried out in delight.
+The crown gave off a faint, sweet scent. When she set it on the girl's head, the girl's eyes lit up and she squealed with delight.
 
 “Whoa...! Amazing, amazing! How'd you do that!? Was it a spell!?”
 
 “Hehehe!! Onee-san knows lots of magic[^2] like that!! Want me to teach you some!!?”
 
-For a while, the Hell Witch even forgot her hunger and enjoyed their brief playtime. Maybe the girl had been starving for someone to play with. No matter what the Hell Witch did, she laughed and got so excited it was almost over-the-top, and just watching her made the Hell Witch feel warm inside.
+For a little while, the Hell Witch even forgot her hunger and enjoyed their brief game. The girl must have been starved for a playmate. Whatever the Hell Witch did, she laughed and squealed almost over the top, and just watching her warmed the Hell Witch's heart.
 
-But fun times passed quickly. Before long, the sun began to sink, and the Hell Witch stopped making a bamboo-leaf whistle.
+But good times always fly by. Before long the sun started to sink, and the Hell Witch put down the bamboo-leaf whistle she was making.
 
 “It's almost evening!! Time to go home!!”
 
-“Whattt!? No! Why do I have to go home!?”
+“Whaaat!? No! Why do I have to go home!?”
 
-The cute girl had picked up the Hell Witch's volume in that short time and protested loudly. It was adorable.
+In that short time, the cute little girl had already picked up the Hell Witch's habits, and she protested at the top of her lungs. It was adorable.
 
-The Hell Witch crouched down to meet the girl's eyes and gently ran her fingers through her hair, with its conspicuous split ends.
+The Hell Witch crouched to the girl's eye level and gently combed her fingers through her hair, split ends and all.
 
-“Sorry!! I'm a bad oni!! If we stay together too long, I'll start wanting to eat you!!”
+“Sorry!! I'm a bad oni!! If I stay with you too long, I'll start wanting to eat you!!”
 
-“Uh... I-It's okay? You can eat just the ends of my hair! So, come on, let's play more? Oh, onee-san, come to my house too! I've got cards, and Othello. I'll let you borrow my cutest doll!”
+“Huh... I-It's fine? You can eat the ends of my hair! So, come on, let's play some more? Oh, I know, onee-san, come to my house! I've got cards, and Othello too. I'll lend you my cutest doll!”
 
-One little hand gripped the Hell Witch's fingertips, tugging and pleading.
+A small hand caught hold of the Hell Witch's fingertips and tugged, pleading.
 
-Gently freeing her fingertips from that warm hand, the Hell Witch planted her khakkhara and stood up, then shook her head.
+The Hell Witch gently slipped free of that warm little hand, planted her khakkhara, stood up, and shook her head.
 
-“No!! Come on, go back to the village now!! Uncle and Auntie must be worried!! I'll eat bad kids who make grown-ups worry!! Rawr!!!”
+“No!! Come on, go back to the village now!! I bet your uncle and auntie are worried!! I eat bad kids who make grown-ups worry!! Rawr!!!”
 
-When she opened the second mouth on her belly and roared, the girl's eyes went round in surprise. Taking that chance, the Hell Witch jumped high, kicked off the trees, and vanished deeper into the mountains like a monkey.
+She roared with the second mouth on her belly wide open, and the girl's eyes went round. In that moment, the Hell Witch leaped high, kicked off from tree to tree, and vanished deep into the mountains like a monkey.
 
-Leaving the lonely girl was hard, but the Hell Witch refocused and headed for Ikegami's house, where the water source was.
+It was hard to leave the lonely little girl behind, but the Hell Witch pulled herself together and set off for Ikegami's house, where the water source was.
 
-What mattered was helping the troubled villagers. In other words, she had to do something about the dried-up water source.
+What mattered was helping the villagers in their trouble—which meant doing something about the dried-up water source.
 
-If a landslide or something had crushed the water source, she could do something about it.
+If a landslide or something had buried the water source, she could handle that.
 
-The Hell Witch had the strength, stamina, and willpower to work day and night for years. With a body like hers, she didn't need heavy machinery.
+The Hell Witch had the power, stamina, and willpower to work for years without sleep or rest. With a body like hers, who needed heavy machinery?
 
-The village's water source was behind the large, impressive house built on the highest spot in the village. There should have been a large pond there, with water flowing from it to supply the whole village.
+The village's water source lay behind an impressive house on the highest ground in the village. There should have been a large pond there, with water flowing out of it to supply the whole village.
 
-But the pond was surrounded by high piles of sandbags and fill dirt, making it impossible to see from outside.
+Instead, the pond was ringed by high walls of stacked sandbags and heaped earth that hid it from view.
 
-What could the sandbags be for? There was also a smell like dried fish coming from around them, and that made no sense either.
+What were the sandbags for? A smell like dried fish drifted from around them, too, which was just as puzzling.
 
-Wondering about that, the Hell Witch pushed through the brush toward the sandbags. A dry gunshot rang out.
+Wondering what was going on, the Hell Witch pushed through the brush toward the sandbags, and a gunshot cracked through the air.
 
-A slight pain pricked her temple, and a beat later, the Hell Witch realized she had been shot.
+Something stung her temple, and a beat later, she realized she'd been shot.
 
-When she turned around, a middle-aged man stood with a hunting rifle raised, staring at her in disbelief.
+She turned around to find a middle-aged man with a hunting rifle raised, gaping at her in disbelief.
 
-After punching her own stomach hard to calm the appetite stirred by his well-padded, fat body, the Hell Witch raised both hands to show she meant no harm and tried to explain.
+The sight of his well-fed, fat body stirred her appetite, so she punched her own stomach hard to quiet it. Then she raised both hands to show she meant no harm and tried to explain.
 
-“No, sorry!! I'm not up to anything suspicious!! It's just that it looked like water wasn't coming to the village!! I came to look into why!! I don't mean any harm!!”
+“No, sorry!! I'm not anyone suspicious!! It's just, it looked like no water was reaching the village!! So I came to find out why!! I'm not hostile!!”
 
 “Oh... uh...?”
 
-“Do you live in this house!!? I'm the Hell Witch, traveling to help people!! Don't worry about how loud I am!!”
+“Are you from this house!!? I'm the Hell Witch, and I'm traveling around helping people!! Don't mind how loud I am!!”
 
-The man with the hunting rifle had been overwhelmed and flustered, but as the Hell Witch stood still for a while with both hands raised and a smile on her face, he gradually calmed down.
+The man with the rifle was overwhelmed and flustered, but after the Hell Witch had stood still for a while with her hands up and a smile on her face, he gradually calmed down.
 
-He cautiously lowered the hunting rifle and looked her up and down. His eyes kept going back and forth between her face and chest, and she sensed his lewd desire, but tried hard not to care. It wasn't pleasant, but if he didn't do anything, it wasn't worth pointing out and making things awkward.
+He warily lowered the rifle and looked her up and down. His eyes kept crawling back and forth between her face and her chest, and she could feel the lust in them, but she did her best to ignore it. It wasn't pleasant, but as long as he didn't try anything, it wasn't worth calling out and souring the mood.
 
-While the man watched the Hell Witch, she watched him too. She had suspected he might be a mage, but he wasn't. His magic power was average.
+While he studied her, the Hell Witch studied him right back. She'd suspected he might be a mage, but no. His magic power was average.
 
-He was probably an ordinary person with no special powers. It was still possible he had some special skill that didn't rely on magic power, like that Wand Maker.
+He was probably just an ordinary person with no powers at all, though she couldn't rule out some special skill that didn't depend on magic power, like that Wand Maker had.
 
-As the Hell Witch carefully sized him up, the man asked hesitantly.
+As she carefully sized him up, the man asked hesitantly, “Are you... a yokai?”
 
-“Are you... a yokai?”
-
-“I used to be human!! Normal animals turn into monsters, um, or I guess you'd call them yokai!!? You know animals turn into yokai!!? I'm the human version!! You can think of me as a human with yokai-like power!!”
+“I used to be human!! Ordinary animals turn into monsters—um, I guess you'd call them yokai!!? You know about that, right!!? I'm the human version!! Just think of me as a human with yokai-like powers!!”
 
 “I-I see.”
 
-The booming voice made the man flinch again.
+Blasted by that booming voice, the man flinched again.
 
-“You said you were a witch? I don't know who you are, but go home. It's a nuisance having outsiders wandering around.”
+“A witch, you said? I don't know who you are, but leave. Outsiders poking around here are a nuisance.”
 
-“Yeah, sorry for an outsider sticking her nose in!! But I couldn't just leave it alone!! Could you at least tell me what's causing the village's water shortage!!? The water source is here, right!!?”
+“Yeah, sorry for butting in when I'm an outsider!! But I couldn't just leave it alone!! Can you at least tell me why the village is short on water!!? The water source is here, right!!?”
 
-“Don't know. Go home.”
+“Don't know. Leave.”
 
 “Hmm, that's a problem!!”
 
-The man's dismissive attitude made the Hell Witch suspicious.
+The man's cold shoulder struck the Hell Witch as suspicious.
 
-Of course, she understood that the truly suspicious one was the monster-looking stranger who'd appeared out of nowhere and started asking about an important village facility: her.
+Of course, she understood that the one who truly looked suspicious was her: a monster-shaped stranger who'd shown up out of nowhere wanting to know about the village's most important facility.
 
-But even allowing for that, the man seemed to be hiding something.
+But even allowing for that, he seemed to be hiding something.
 
-He was like a high schooler hiding a cigarette behind his back in front of a teacher, his eyes wandering. The sight reminded her of scenes she'd witnessed in her school days.
+He was like a high schooler hiding a cigarette behind his back in front of a teacher, eyes darting everywhere. It was a scene she'd watched play out back in her own school days.
 
-For now, the Hell Witch took only a few slow steps with both hands still raised and stood beside a thick tree that had been there for decades. Then she casually wrapped both arms around the tree, pulled it out by the roots, and threw it away.
+For now, the Hell Witch kept her hands up and took a few slow steps over to a thick tree that had to be decades old. Then, without any fuss, she wrapped both arms around it, pulled it out by the roots, and tossed it aside.
 
-The man's mouth fell open, and he dropped his hunting rifle.
+The man's jaw dropped, and the rifle fell from his hands.
 
-“This really is a problem!! I only want to know why the water dried up!! What should I do!!? Maybe I'm starting to get annoyed!!”
+“This really is a problem!! All I want to know is why the water dried up!! What should I do!!? I think I'm starting to get a little annoyed!!”
 
 “Ah. Uh, hahaha, if that's what you wanted, you should've said so from the start. Haha. The water source, the water source. Uh, this way, then. I'll show you.”
 
-The man gave in to the intimidation of that brute display of strength. His attitude changed completely, and he welcomed the Hell Witch with a meek, fake smile.
+Cowed by that primitive show of strength, the man did a complete about-face and welcomed the Hell Witch with a groveling, fake smile.
 
-The man, who introduced himself as Ikegami, brought a ladder from his shed and leaned it against the stacked sandbags so they could get inside.
+He introduced himself as Ikegami, then fetched a ladder from his shed and leaned it against the sandbag wall so they could climb in.
 
-Ikegami used the ladder to get inside the enclosure, but the Hell Witch cleared the wall with a light jump. A single monster occupied the large pond within.
+Ikegami climbed over on the ladder, but the Hell Witch cleared the wall with a light hop. Inside, in the large pond, was a single monster.
 
-It was a giant catfish at least 5 m long.
+It was a giant catfish, easily 5 m long.
 
-The pond's water level had dropped all the way, exposing soggy gray mud. The giant catfish was coiled in the center of that sludge, slurping fresh water that welled up from the bottom of the mud.
+The pond had drained almost dry, leaving soggy gray mud exposed. The giant catfish lay coiled in the middle of the muck, slurping up the clean water that welled from beneath it.
 
-The catfish glared at the intruding Hell Witch with cloudy eyes, shook its whiskers, gave a cry like a fat frog, and used some kind of magic.
+It glared at the intruding Hell Witch with cloudy eyes, quivered its whiskers, let out a croak like a fat frog, and used some kind of magic.
 
-At once, an invisible wave spread out from the giant catfish and grated on the Hell Witch's nerves.
+At once, an invisible wave rippled out from the giant catfish and rubbed the Hell Witch's nerves raw.
 
-Feelings of not wanting to be there and wanting to get away surged up in her. The Hell Witch gripped her khakkhara tightly and gritted her teeth. She threw all her mental strength and control over her magic power into suppressing the magic's interference with her mind.
+A sudden urge welled up in her to get out of there, to be anywhere but here, and the Hell Witch gripped her khakkhara hard and clenched her teeth. Summoning every scrap of willpower and magic-power control she had, she managed to force down the magic tampering with her mind.
 
-The Hell Witch let out a heavy breath through her gritted teeth and realized that this giant catfish was why monsters hadn't attacked the village.
+Letting out a heavy breath through her gritted teeth, the Hell Witch understood: this giant catfish was the reason monsters had left the village alone.
 
-One monster was staking such a powerful claim to its territory that other monsters stayed away.
+With one monster staking such a strong claim to its territory, no other monsters came near.
 
-The Hell Witch took deep breaths to calm herself, but Ikegami didn't seem to feel anything.
+While the Hell Witch took deep breaths to steady herself, Ikegami didn't seem to feel a thing.
 
-Was it magic that only affected those with strong magic power? Or magic that only worked on supernatural beings?
+Did the magic only affect people with strong magic power? Or did it only work on supernatural beings?
 
-In any case, Ikegami began explaining what had happened as he stroked the giant catfish's slimy back.
+Either way, Ikegami began explaining the whole story, stroking the giant catfish's slimy back.
 
-“This thing's a yokai that settled in the pond right after the electrical disaster. I call it the Water Eater.”
+“This thing's a yokai that moved into the pond right after the electrical disaster. I call it the Water Eater.”
 
 “The Water Eater!!?”
 
-“It drinks water until it's full. It drinks as much as there is. This thing is the village's guardian god, so I've got to give it the pond's water and keep it fed. The people down below will have to put up with being a little short on water. It's a whole lot better than getting attacked and killed by monsters, right?”
+“It drinks water by the bellyful. Drinks as much as there is. This thing's the village's guardian god, so I've gotta give it the pond water and keep it fed. The folks down below'll just have to put up with a little water shortage. Beats getting attacked and killed by monsters, right?”
 
 “...”
 
 For a moment, Ikegami's explanation sounded reasonable.
 
-Even if there wasn't enough water, it would only mean a bad harvest. But if monsters attacked, people would die right away.
+A water shortage only meant a bad harvest, but a monster attack meant people would die on the spot.
 
-Should they send the pond's water to the village, starve the Water Eater, and risk monster attacks?
+Send the pond water to the village, let the Water Eater starve, and risk monster attacks?
 
-Or should they give the pond's water to the Water Eater, bring on a poor harvest, and risk starvation?
+Or give the pond water to the Water Eater, let the crops fail, and risk starving?
 
-It was a hard choice.
+It was a tough call.
 
-But even so, something was strange. The Hell Witch gave Ikegami a doubtful look.
+But if that was the whole story, something didn't fit. The Hell Witch turned a suspicious eye on Ikegami.
 
-“Then why are you hiding the pond!!? This monster is pretty strong, right!!? You're not protecting it from the villagers, are you!!?”
+“Then why are you hiding the pond!!? This monster's pretty strong, isn't it!! You can't be protecting it from the villagers!!”
 
 “Th-That's...”
 
-At a loss for an answer, Ikegami mumbled and shuffled his feet, trying to hide something.
+Stuck for an answer, Ikegami mumbled and shuffled his feet, trying to hide something.
 
-The sharp-eyed Hell Witch noticed, shoved Ikegami aside, and checked under the Water Eater's belly. A pile of gold dust lay there, still gleaming dully through the mud.
+The Hell Witch didn't miss it. She shoved Ikegami aside and checked under the Water Eater's belly, and there lay a heap of gold dust, gleaming dully even through the mud.
 
-As the Hell Witch stared in shock at the unexpected treasure, the Water Eater let out a huge burp. A fresh piece of gold plopped out of its butt.
+As she stared in shock at the unexpected treasure, the Water Eater let out a huge burp, and a fresh bit of gold plopped out of its butt right in front of her.
 
 “Gold...!!? This monster makes gold!!”
 
-“Tch! Yeah, that's right. The Water Eater is a money tree, a gold-producing yokai. I built the wall so nobody with bad intentions could steal its gold. That's why I didn't want to show you. Got it?”
+“Tch! Yeah, that's right. The Water Eater's a money tree. A gold-making yokai. I built the wall so no crook could come steal its gold. That's why I didn't want to show you. Got it?”
 
-Ikegami seemed to have confessed resentfully, but he still hadn't told her everything.
+Ikegami made it look like a grudging confession, but he still hadn't told her everything.
 
-Now that she'd come this far, she needed to uncover everything that looked suspicious.
+Now that she'd come this far, she was going to expose every last suspicious thing.
 
-The Hell Witch pointed to one corner of the piled-up sandbags and asked about the source of the dried-fish smell.
-
-“Whose grave is that!!?”
+The Hell Witch pointed to one corner of the sandbag wall, where the dried-fish smell was coming from. “Whose grave is that!!?”
 
 “...A grave? What are you talking about?”
 
-There was a slight hesitation before he answered, and that told her he had a guilty conscience.
+He hesitated for a split second before answering, and that told her he had something to feel guilty about.
 
-The Hell Witch slipped past Ikegami as he played dumb, knelt where the smell was coming from, and began vigorously digging with both hands.
+The Hell Witch slipped past Ikegami as he played dumb, knelt where the smell was coming from, and started digging furiously with both hands.
 
 “Hey, what are you doing!? Stop! Don't dig that up!”
 
-“You don't know anything about a grave, right!!? Then you don't know what this is either—right!!?”
+“You don't know anything about a grave, right!!? Then—you don't know what this is either, do you!!?”
 
 The Hell Witch was a man-eating oni.
 
-She ate human flesh, and human bones too. She could smell them. Her nose for humans was far keener than any human's.
+She ate human flesh, and human bones too. She could smell them, far more keenly than any human could smell another.
 
-The dried-fish smell drifting up from beneath the ground definitely came from a human skeleton.
+The dried-fish smell rising from under the ground was, without a doubt, coming from a human skeleton.
 
-The Hell Witch uncovered the buried body. The corpse was nothing but bones, with tattered synthetic clothes still clinging to it. From the scraps of clothing and the skeleton, she could tell it was a woman.
+The Hell Witch's hands laid the buried body bare. It had long since been reduced to bones, with tattered synthetic clothing still clinging to it, and from the scraps of fabric and the shape of the skeleton, she could tell it was a woman.
 
-There was also a mark on the woman's skull at the temple, as though something hard and small had punched through it.
+And at the temple of the woman's skull was a mark, as though something small and hard had punched right through it.
 
-It looked as if she had been shot with a hunting rifle.
+It was just the kind of mark a hunting rifle would leave.
 
-The Hell Witch glared at Ikegami, who stood there frozen and pale.
+Seething, the Hell Witch glared at Ikegami, who stood rooted to the spot, white as a sheet.
 
-“You!!! You killed this person!!?”
+“You!!! You killed this woman!!?”
 
-When she demanded an answer, Ikegami lost his temper and shouted back.
+When she confronted him, Ikegami flew into a rage and shouted back.
 
-“...I had no choice! I said we should split the gold. But she said we should cut the Water Eater's water in half and send the rest to the village! She was an idiot! She didn't understand what gold was worth. If we cut the water in half, we only get half as much gold. She couldn't do math that even a kid could do. You get it, right?”
+“...I had no choice! I told her we'd split the gold. But she goes and says we should cut the Water Eater's water in half and let the rest flow down to the village! She was an idiot, that one! She didn't get what gold's worth. Cut the water in half, and you get half the gold. Math any kid could do, and she couldn't do it. Hey, you get it, don't you?”
 
-“I don't get it!! Gold isn't a reason to kill someone!! And gold is useless in the world now!!”
+“No, I don't!! Gold's no reason to kill someone!! Besides, gold's useless in the world these days!!”
 
-“No, you're wrong! Didn't you learn it in school? Gold has value in any age. Even if civilization collapses, gold is still gold. How much do you think all this gold is worth? Gold is worth more than a human life!”
+“Nope, you're wrong! Didn't they teach you in school? Gold's valuable in every era. Civilization can fall, and gold's still gold. How much do you think this much gold is worth? Gold's worth more than a human life!”
 
-Ikegami said those unbelievable things with absolute confidence in how smart he was.
+Ikegami spat out those unbelievable words with the conviction of a man utterly sure of his own cleverness.
 
-The Hell Witch remembered.
+The Hell Witch thought back.
 
-The villagers who had been cutting thin rice heads with sickles were as skinny as the rice heads themselves.
+The villagers cutting the thin rice with their sickles had been as thin as the rice itself.
 
-The people of this village had escaped the threat of monsters, but they were suffering from a food shortage that could have been avoided.
+The people here had been spared the threat of monsters, but they were struggling through a food shortage that never should have happened.
 
-All because one man's ugly greed had monopolized the water source.
+All because one man's ugly greed had him keeping the water source to himself.
 
-“...You're a bad person!! The villagers suffering because of you have the right to judge you!! Free the water source, confess everything, and wait for their judgment!!”
+“...You're a bad guy!! The villagers suffering because of you have the right to judge you!! Open up the water source, confess everything, and wait for their verdict!!”
 
-“Hah! It's pointless. The villagers completely believe I'm a sorcerer who uses spells to drive yokai out of the village. I guarantee it, they won't believe a word some oni like you says. My side of the story or your side of the story. Which one do you think the villagers will believe?”
+“Hah! Waste of time. The villagers are dead sure I'm a sorcerer whose spells keep yokai out of the village. I guarantee it, they won't believe a word an oni like you says. My word against yours. Who do you think they'll believe?”
 
-Ikegami backed away as the Hell Witch closed in, a faint smile on his face.
+Ikegami backed away as the Hell Witch advanced on him, but a thin smirk stayed on his face.
 
-The villagers had wanted nothing to do with the Hell Witch from the moment they saw her.
+Just showing her face had been enough for the villagers to reject the Hell Witch outright.
 
-It pissed her off, but Ikegami was right.
+It made her furious, but Ikegami had a point.
 
-When the villagers tried to drive the Hell Witch away, they had called for Ikegami's help. The little girl had clearly respected him too.
+When the villagers were driving her off, they'd talked as if Ikegami was the one to count on. The little girl, too, had spoken of him with real admiration.
 
-Ikegami had the village completely under his control. Nothing an outsider said would get through to them.
+Ikegami had the village firmly in his grip. Nothing an outsider said would get through.
 
-“I don't care if they believe me!! You only need to give half the water to the Water Eater, right!!? Here's my ultimatum: free the water source!!”
+“I don't care whether they believe me!! Half the water's enough for the Water Eater, right!!? Here's my ultimatum: open up the water source!!”
 
-“Don't make such a scary face. Hey, you look like you can handle yourself, and you've got a pretty face. You're way too tall, though. Truth is, since my wife disappeared, my nights have been boring. So how about this? I'll give you half the gold, and you can say I subdued you and become my second wife—”
+“Don't make such a scary face. Look, you seem pretty handy with your fists, and you've got a nice face. Way too tall, though. Truth is, my nights've been pretty dull since my wife disappeared. So here's the deal. I'll give you half the gold, we'll say I subdued you, and you can be my second wife—”
 
-“That's too bad!! Take this!!”
+“What a shame!! Hyah!!”
 
-He ignored her ultimatum.
+He had ignored the ultimatum.
 
-Without letting him finish, the Hell Witch tore the bad man's head off with her bare hands.
+Before he could finish, the Hell Witch tore the bad man's head off with her bare hands.
 
-She opened one of her three mouths wide, the mouth on the back of her head, and ate the torn-off head. At the same time, the mouth on her belly devoured the headless body.
+She opened wide the mouth on the back of her head, one of her three, and devoured the torn-off head, while the mouth on her belly gorged on the headless body.
 
-Sadly, fresh human flesh filled her parched body and melted away the hunger she'd endured for so long in an instant.
+Sad to say, the fresh human flesh filled her parched body to the brim and, in one go, melted away the hunger she had endured for so long.
 
-Drooling thick, stringy saliva from the mouths on the back of her head and her belly as she ate the body, the Hell Witch called into her belly.
+Sticky strings of drool hung from the mouths on the back of her head and on her belly as she ate, and the Hell Witch spoke to what was in her stomach.
 
 “Sorry, but you're going into my stomach instead of a grave!! Become my flesh and blood, and when I die, let's fall into hell together!!”
 
-The Bloodsucking Mage might have been able to talk Ikegami into changing his ways.
+The Bloodsucking Mage could have sweet-talked Ikegami into changing his ways.
 
-The Foresight Mage might have been able to see a future where the situation could be fixed without killing Ikegami.
+The Foresight Mage could have seen a future where things got better without anyone dying.
 
-Even the Edogawa Witch, the Eyeball Witch, or the Flame Witch. Surely any of them could have settled things in another, more peaceful way.
+The Edogawa Witch, the Eyeball Witch, the Flame Witch—any of them would surely have found some other, gentler way to settle this.
 
-But the Hell Witch could only do this.
+But this was all the Hell Witch could do.
 
-Kill, then eat.
+Kill. Eat.
 
-Bloody solutions were all she had.
+The only solutions she had were bloody ones.
 
-After eating half the bad man and taking a breath, the Hell Witch set the half-eaten body aside for the moment and started cleaning up.
+Once she'd eaten half the bad man and caught her breath, the Hell Witch set the half-eaten corpse aside for now and started cleaning up.
 
-First, she tore down the sandbags surrounding the pond so the clear spring water that kept bubbling up could flow to the village.
+First, she broke down the sandbags around the pond so the clear spring water that kept welling up could flow down to the village.
 
-She made a small reservoir some distance from the large pond for the fat Water Eater and shoved it in there. She dug a channel to let some water flow in from the large pond, which should keep it from starving.
+For the bloated Water Eater, she dug a small reservoir a little way from the big pond and shoved it in. She also dug a channel to let some water run in from the big pond, which should keep it from starving.
 
-The giant catfish was so fat it couldn't even jump by itself. Forced out of its comfortable mud, it wriggled unhappily. It let out a cry and tried to drive her away with magic, but when she slapped it, it flinched and went quiet.
+The giant catfish was too fat even to flop around on its own. Dragged out of its cozy mud against its will, it squirmed in protest, croaking and trying to drive her off with magic, but one slap made it flinch and go quiet.
 
-The Water Eater was just living.
+The Water Eater was just living its life.
 
-It had no intention of harming the villagers or protecting them either.
+It had no intention of hurting the villagers, or of protecting them.
 
-The Water Eater didn't care at all when Ikegami, who had probably taken such good care of it, was killed right in front of it.
+Ikegami had probably looked after it devotedly, yet it didn't care in the slightest when he was killed right in front of it.
 
-The magic the Water Eater used to keep away enemies just happened to help people.
+The magic it used to keep enemies away just happened to be useful to people.
 
-The shit the Water Eater produced after eating water just happened to be something that stirred human greed.
+The dung it produced from eating water just happened to be something that stirred human greed.
 
-In the end, Ikegami was the only bad person in this village.
+In the end, the only bad person in this village had been Ikegami.
 
-And because of that one man who laid bare his filthy greed, one person died and many suffered.
+And because of that one man and his naked, filthy greed, one person had died and many more had suffered.
 
-At least from now on, may this village head in a better direction.
+From now on, at least, may things go better for this village.
 
-With that prayer, the Hell Witch headed down to the village where everyone could see her, greedily eating Ikegami's half-eaten body with the mouth on her belly.
+With that prayer, the Hell Witch headed down into the village where everyone could see her, making a show of gorging on Ikegami's half-eaten corpse with the mouth on her belly.
 
-The villagers, who had been putting away their sickles and hoes in the deep-red sunset, were so shocked they nearly fell over. A huge commotion broke out, like someone had kicked a beehive.
+The villagers putting away their sickles and hoes in the red glow of sunset nearly jumped out of their skins, and the whole place erupted like a stirred-up hornets' nest.
 
-“Waaaaah! It's back! An oni! An oni is here!”
+“Waaaaah! Again! It's the oni! The oni's back!”
 
-“It's eating someone! Those clothes... Don't tell me that's Ikegami-san!?”
+“It's eating somebody! Those clothes... No, is that Ikegami-san!?”
 
 “The oni ate Ikegami-san!”
 
 “W-What, what have you done!?”
 
-“Don't falter! Grab your weapons! You evil oni, we can't let you get away with this!”
+“Hold your ground! Grab your weapons! We can't let you get away with this, you evil oni!”
 
 “Kill it! Kill it!”
 
-It was just like when she had first set foot in the village. But the insults and attacks were even fiercer.
+It was a replay of her first visit to the village, except the insults and attacks were even fiercer now.
 
-Then the Hell Witch spotted the little girl she had spoken to only briefly among the furious villagers.
+Then, among the enraged villagers, the Hell Witch caught sight of the little girl she'd talked with for such a short while.
 
-Their eyes met as the girl was shielded behind an adult's back.
+The girl was sheltered behind an adult's back, and their eyes met.
 
-Amid the roaring shouts, that small voice was strangely clear. Clear enough that she wished she hadn't heard it.
+Amid the roar of angry voices, that small voice came through strangely clear. So clear she wished she hadn't heard it.
 
-“Eek... M-Murderer...”
+“Eek... M-Murderer...!”
 
-When the Hell Witch saw the unmistakable fear and disgust in the girl's eyes, her chest hurt as if a dragon had bitten it.
+When the Hell Witch saw the unmistakable fear and disgust in the girl's eyes, her chest ached as if a dragon had bitten into it.
 
 A man-eating monster trying to be friends with humans was never going to work.
 
-They threw stones at her, jabbed her with spears, and showered her with abuse and curses.
+They pelted her with stones, jabbed her with spears, and showered her with abuse and curses.
 
-None of it hurt the Hell Witch, but she pretended it did and staggered away. On the way, she made sure to drop gold along with a scroll.
+None of it hurt the Hell Witch, but she pretended it did and staggered away. On the way, she made sure to drop some gold, along with a scroll.
 
-It was a scroll containing instructions for simple magic that ordinary people could use, which she had learned at the Tokyo Witches' Council.
+She had written it herself: instructions for simple magic that even ordinary people could use, the kind she'd learned at the Tokyo Witches' Council.
 
-The people of this village wouldn't listen to anything an oni said.
+The people of this village would never listen to anything an oni said.
 
-But they would probably read a secret scroll left behind by the oni they had defeated.
+But they would probably read a secret scroll dropped by the oni they'd beaten.
 
-People hated having things forced on them, but they liked things they had won with their own strength.
+People hated having things pushed on them, but they loved what they'd won with their own strength.
 
-After putting on that little performance, the Hell Witch looked back once she was far enough away from the village.
+Her little act over, the Hell Witch looked back once she was well away from the village.
 
-The villagers weren't chasing her. Their victory cries came from beyond the trees, and the Hell Witch smiled, knowing this had been for the best.
+The villagers weren't chasing her. Victory cries rose from beyond the trees, and the Hell Witch smiled. This had been for the best.
 
-Now water would return to the village.
+Now the water would come back to the village.
 
-With the Water Eater keeping monsters away, an abundant water source, and easy, useful magic, life in the village would surely become much easier from here on.
+Between the Water Eater keeping monsters away, a plentiful water source, and handy, easy magic, life in the village would surely get a lot easier from here on.
 
-What mattered was for the innocent people suffering through hard times to be happy.
+What mattered was that the innocent people struggling through hard times could be happy.
 
-For that, she didn't care how much infamy she had to carry. She didn't care if she fell into hell.
+For that, she didn't care how bad a name she had to carry. She didn't care if she fell into hell.
 
 She didn't care if people hated her.
 
-With a sense of accomplishment and a little loneliness in her chest, the Hell Witch turned her back on the village and continued her journey, tapping the khakkhara named for Kishimojin[^3] and making its rings jingle softly.
+Carrying a sense of accomplishment and a little loneliness, the Hell Witch turned her back on the village and went on with her journey, planting her khakkhara named for Kishimojin[^3] as its rings jingled softly with each step.
 
-It was a lonely journey all by herself, but whenever she held the staff, she could remember that she really did have someone who understood her beneath this sky.
+She traveled completely alone, but whenever she held the staff, she remembered that somewhere under this same sky was someone who understood her.
 
-The parting gift from the Wand Maker, who had understood what her harsh wandering journey meant, had truly become a source of strength for the Hell Witch.
+The farewell gift from the Wand Maker, who had understood the point of her grueling, wandering journey, had truly become a source of strength for the Hell Witch.
 
 ![p162.jpg](images/p162.jpg)
 

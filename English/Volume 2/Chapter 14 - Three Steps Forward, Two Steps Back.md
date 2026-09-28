@@ -1,70 +1,70 @@
-Toward evening, I reached the Bunkyo Ward Office by bicycle, towing the Blue Witch in a cart.
+Toward evening, I finally made it to the Bunkyo Ward Office on my bicycle, towing the Blue Witch behind me in the cart.
 
-The security force had set up barricades in front of the ward office and stood on guard with wands and crossbows ready. There were no bodies in front of the barricades, but bloodstains that couldn't be scrubbed away remained. The smells of blood and char still hung in the air, reminders of fierce fighting.
+The security force had barricaded the front of the ward office and stood guard behind it, wands and crossbows at the ready. There were no bodies in front of the barricade, at least, but the bloodstains hadn't all scrubbed out, and the lingering smell of blood and scorching told of a vicious fight.
 
-I hesitated, thinking they'd kill me if I approached, but inside the barricade, near the ward office entrance, I spotted a woman under guard. She held a sign saying, "Person at 9:33 AM," and looked around anxiously.
+I hesitated. Wouldn't they kill me if I got any closer? Then I spotted a woman inside the barricade, near the ward office entrance, with guards protecting her. She was holding a sign that said "Person at 9:33 AM" and looking around anxiously.
 
-Easy enough. Apparently I was supposed to hand it to her.
+Well, that was easy to follow. Apparently she was the one I was supposed to hand it to.
 
-I got off the bicycle, picked up the pail, and approached the woman with the sign. The security force all trained their wands and crossbows on me at once and demanded to know who I was.
+I got off the bicycle, picked up the pail, and headed for the woman with the sign. At once, the whole security force swung their wands and crossbows onto me and challenged me.
 
 "Who goes there! State your name and business!"
 
-The sharp, hostile shout made my stomach clench.
+The shout was sharp and out for blood, and my stomach shriveled into a knot.
 
-I was too scared to talk, so I pointed at the sign with a trembling hand. The woman had the security force lower their weapons, then beckoned me over.
+I was too scared to even speak, so I just pointed at the sign with a shaking hand. The woman had the guards lower their weapons and waved me over.
 
-When I approached to hand over the pail full of the Flower Witch's antidote, the woman spoke with both anxiety and hope in her voice.
+I went up to hand her the pail, which was full of the Flower Witch's antidote, and she spoke in a voice caught between worry and hope.
 
-"I'm very sorry, but may I confirm something? Can you tell me who the letter was addressed to?"
+"I'm terribly sorry, but I need to confirm something. Can you tell me who the letter was addressed to?"
 
 "To whoever is standing at the entrance of the Blue Witch's home at 9:33 AM on February 8, 2028."
 
-"Ah! Thank you. Thank goodness, it's here in time...! Sergeant Sasaki, take this to Foresight Mage-sama immediately! Hurry! We absolutely cannot let him die!"
+"Ah! Th-Thank you so much. Thank goodness, we made it in time...! Sergeant Sasaki, take this to Foresight-sama right now! Hurry! We absolutely cannot let him die!"
 
 "Roger!"
 
-The pail I gave the woman was immediately passed to a burly man. After giving me a crisp salute, he disappeared into the ward office at a run.
+She immediately passed the pail to a burly man, who gave me a crisp salute before running off into the ward office.
 
 "Um, is Professor Ohinata alive?"
 
-When I asked anxiously, the woman nodded emphatically.
+I asked nervously, and the woman gave a big nod.
 
-"She's in the same intensive care unit as Foresight Mage-sama. Thank you so much. If you'd taken until night, we surely wouldn't have made it in time. If, if that had happened..."
+"She's in the same intensive care unit as Foresight-sama. Thank you so much. If this had dragged on until nightfall, we never would have made it in time. If... if that had happened..."
 
-The woman's voice broke partway through, and she crumpled to the ground and burst into sobs.
+Partway through, her voice turned tearful, and she sank limply to the ground and started bawling.
 
-The security force exchanged looks. Some of them started tearing up too.
+The guards exchanged looks. A few of them were tearing up too.
 
-I'd had it rough, but apparently things had been rough here too.
+I'd had a hard time of it, but apparently so had they.
 
-I mean, it looked like mobs had stormed the place two or three times. You guys had it rough.
+I mean, there were obvious signs that rioters had stormed the place at least two or three times. Good work out there, guys.
 
 Anyway, mission complete.
 
-They said Foresight and Professor Ohinata were okay, so Professor Handa was probably okay too.
+Foresight and Professor Ohinata were supposedly okay, and Professor Handa was probably fine too.
 
 My job was over. I could leave the rest to them.
 
-When I turned on my heel, someone called after me.
+As I turned to go, a voice called after me.
 
 "Wait! What's your name!?"
 
-Of course I didn't answer. I pulled my hood down low again. Then I silently mounted my bicycle and rode off with the cart in tow.
+I didn't answer, of course. I tugged my hood back down over my eyes, then silently climbed onto my bicycle and rode off with the cart in tow.
 
 The less I talk, the easier it is on my stomach.
 
-Once I got the Blue Witch back to Ome, I started nursing her at her house.
+I brought the Blue Witch back to Ome and started nursing her at her house.
 
-The parasitic mushrooms were dead, but she'd only just come back from the brink of death. She was badly weakened and just wouldn't wake up.
+The mushrooms that had infested her were dead, but she'd only just been pulled back from the brink. She was badly weakened and wouldn't wake up.
 
-The Blue Witch slept quietly on the bed like she was half dead. She didn't react when I talked to her, pulled her cheeks, or tickled the soles of her feet. I worried that she might just keep getting weaker and die.
+Lying still on the bed, the Blue Witch looked half dead. Talking to her got no reaction, and neither did pulling her cheeks or tickling the soles of her feet. I started to worry that she would just keep getting weaker until she died.
 
-I'd heard of people dying from secondary infections despite a successful operation, or going into cardiac arrest because their strength gave out.
+I'd heard that even after a successful operation, some people died from secondary infections, or their strength gave out and their hearts stopped.
 
-Could the Blue Witch already be so weak that even getting rid of the mushrooms had come too late...?
+Surely not, but... what if the Blue Witch was already so weak that getting rid of the mushrooms had come too late...?
 
-I spent a full day and night changing her ice packs, wiping away her sweat, and keeping watch in case her condition suddenly changed. But she had not gotten better after an entire day, so I lost my patience.
+For a whole day and night, I changed her ice packs, wiped off her sweat, and kept watch in case she took a sudden turn. But twenty-four hours went by without her getting any better, and I ran out of patience.
 
 Flower Witch! That medicine was the real deal, right?
 
@@ -76,180 +76,181 @@ She said to drop by sometimes.
 
 She said she'd welcome me.
 
-She didn't have to welcome me. Just give me some extra medicine or something. A nutrient tonic, maybe.
+I don't need a welcome. Just give me some more medicine or something. A nutrient tonic, maybe.
 
-Normally, it probably would've been better to take the patient to see her. But I was scared that moving her when she needed rest would make her condition worse. I wanted the Flower Witch's opinion on whether it was safe to move her too. She was the only one in Tokyo who could do anything about mushroom disease.
+Normally, I probably should have brought the patient along to be examined. But she needed rest, and I was scared that moving her carelessly would make her worse. The Flower Witch was the only one in Tokyo who could come up with a countermeasure for mushroom disease, and I wanted her opinion, including on whether it was even safe to move her.
 
-Late that night, with hardly anyone around, I snuck back to the Flower Witch at Tokyo Bunka Kaikan in Taito Ward.
+In the dead of night, when it was dark and hardly anyone was around, I snuck back to Tokyo Bunka Kaikan in Taito Ward, where the Flower Witch lived.
 
-Unlike last time, there were sentries holding torches in front of the barricade of abandoned cars surrounding her territory. I had to crawl up to it on my stomach, squeeze through a gap between the abandoned cars, and sneak inside.
+Unlike last time, sentries with torches stood in front of the barricade of wrecked cars ringing her territory, so I had to crawl up on my belly and squeeze in through a gap between the wrecks.
 
-I had a feeling the sentries would let me through normally if I talked to them. But compared to that kind of hard labor, clearing a stealth mission was way easier.
+The sentries probably would have let me through if I'd just talked to them. But clearing a stealth mission was way easier than that kind of hard labor.
 
-The Flower Witch's sanctuary at the base of the huge, mystical white tree had not changed at all since the day before.
+The Flower Witch's sanctuary at the base of the huge, mystical white tree hadn't changed at all since the day before.
 
-The ceiling of the large room in the center of the Bunka Kaikan had fallen away, and rubble lay scattered at my feet. Rain fell through, and the damp floor had rotted through. Vigorous roots peeked through gaps in the broken floorboards.
+In the large room at the heart of the Bunka Kaikan, the ceiling had caved in and rubble littered the floor. Rain had blown in and soaked the floorboards until they rotted through, and roots bursting with life poked up through the cracks.
 
-At the center of that natural sanctuary, the Flower Witch gently held her sleeping daughter plant. Even in the middle of the moonless night, glowing lichen clinging to the walls bathed the sanctuary in soft, dreamlike light.
+At the center of that natural sanctuary, the Flower Witch gently cradled her peacefully sleeping daughter plant. Even at midnight with no moon, the glowing lichen that clung to the walls bathed the sanctuary in a soft, dreamlike light.
 
-The Flower Witch turned toward me as I slipped quietly into the room and gave me a seductive smile.
+I tiptoed into the room, and the Flower Witch turned my way with an alluring smile.
 
-"I'm glad you came. Did you come to see my child?"
+"How nice of you to visit. Have you come to see this child's face?"
 
-"No, I'm not interested in her. Um, the Blue Witch isn't waking up. Does that medicine really work?"
+"No, I'm not interested in that one. Um, the Blue Witch isn't waking up. Does that medicine actually work?"
 
-When I got straight to the point, the Flower Witch went silent for a while.
+I got straight to the point, and the Flower Witch went quiet for a while.
 
-After a moment, she spoke as if nothing had happened.
+Then, after a pause, she carried on as if nothing had happened.
 
 "You came to see my cute, cute daughter plant, didn't you?"
 
-"No. The Blue Witch's mushroom disease is cured, but she isn't waking up, so I only came to file a complaint. Isn't this different from what you told me?"
+"No. The Blue Witch's mushroom disease is cured, but she isn't waking up, so I only came to file a complaint. That's not what we agreed on, is it?"
 
-I glared as hard as I could at the base of the huge flower, trying to intimidate her. The Flower Witch let out a big sigh and reluctantly answered.
+I glared as hard as I could at the base of the giant flower to put the pressure on, and the Flower Witch heaved a big sigh and answered reluctantly.
 
-"The parasite had gotten quite deep, so she won't wake up right away. There's nothing strange about that. Even a witch can't be up and running the day after nearly dying."
+"She was infested quite deeply, so she won't wake up that quickly. There's nothing strange about that. Even a witch can't be up and running around the day after nearly dying."
 
-"But she's the Blue Witch, right? She's the strongest witch by far. She's tough, and she should recover quickly too. If there wasn't anything wrong with the medicine you gave me, can't you give me something like a nutrient tonic to help her recover faster? Her complexion is good, but she doesn't react when I talk to her, so it makes me nervous."
+"But she's the Blue Witch, you know? She's hands down the strongest witch there is. She's tough, and she should recover fast too. If there wasn't anything wrong with the medicine you gave me, couldn't you give me something like a nutrient tonic to get her back on her feet faster? Her color's good, but she doesn't react when I talk to her, and it's making me nervous."
 
-"...You truly care about the Blue Witch. Very well. If you insist, I will make you a nutrient tonic. She's likely not waking because she's so weak. If she gets enough nutrition, she should wake up quickly."
+"...You really do treasure the Blue Witch. Very well. If you insist, I will make you a nutrient tonic. She's likely not waking because she's so weak, so once she's properly nourished, she should wake up soon enough."
 
-Wood creaked overhead, and a thick branch from the huge white tree came down through a hole in the room's ceiling.
+Wood creaked and groaned overhead, and a thick bough of the huge white tree came down through a hole in the ceiling.
 
-A crack split open in the bark of the thick branch like a living thing's mouth and spat out the corpse of a monster that must have been 3 m long.
+A crack ran along its bark and opened like a creature's mouth, then spat out the corpse of a monster that had to be a good three meters long.
 
-The corpse of a powerful creature, like a rabbit blown up to elephant size with a dog head and a cat head stuck onto it, rolled onto the ground in sticky slime with a heavy thud. My legs calmly and composedly gave out.
+It looked like someone had stuck a dog's head and a cat's head onto a rabbit and blown it up to the size of an elephant. The massive, silent corpse hit the floor with a heavy thud in a mess of sticky slime, and my legs calmly and composedly gave out.
 
 Hmm. Scary as hell.
 
-Would you mind not suddenly putting a hulking monster that could one-shot me right in front of me? Even if it's a corpse.
+Would you mind not suddenly serving up a hulking monster that could one-shot me right in front of my face? Even if it is a corpse.
 
-As my legs shook so hard I could no longer stand, the Flower Witch chuckled, lifted me with vines, and sat me in a wooden chair.
+My legs were shaking so badly I couldn't stand, and the Flower Witch giggled, lifted me up with her vines, and set me in a wooden chair.
 
-"It's dead, you know? How timid."
+"It's only a corpse, you know? How timid you are."
 
-"My cerebral cortex was just temporarily paralyzed by fear and shock, making my body go limp."
+"Fear and shock just temporarily paralyzed my cerebral cortex, so my body went limp. That's all."
 
-"In other words, your legs gave out. That's what being timid means."
+"In other words, your legs gave out. That's what we call timid."
 
 "...Guh."
 
-Unable to argue with that, I shut up. The Flower Witch began making the nutrient tonic while she explained.
+Beaten down by pure logic, I shut up, and the Flower Witch started making the nutrient tonic, explaining as she went.
 
-"This white tree is a storehouse. When I'm full and can't absorb any more nutrients, I store corpses in this tree."
+"This whitewood is my storehouse. When I'm full and can't take in any more nutrients, I keep corpses stored in it."
 
-The Flower Witch wrapped roots around the bizarre chimera type monster and squeezed it hard.
+She caught the bizarre chimera monster in a tangle of roots and squeezed it tight.
 
-The thick, powerful roots pulsed like blood vessels. The monster quickly shriveled into a bone-dry mummy. Even that mummy was crushed and balled up, then sucked dry by countless roots.
+The thick, brawny roots throbbed like blood vessels, and in no time the monster had shriveled into a bone-dry mummy. Then even the mummy was crushed, rolled into a ball, and drained away completely by countless roots.
 
 "Eek."
 
-She sucked up every last bit of it. Terrifying.
+She sucked it up without even leaving a corpse behind. Terrifying.
 
 I'm glad the Flower Witch is on my side.
 
-No, is she...? Feels like she does an awful lot purely for her own convenience.
+Wait, is she, though...? It feels like she does an awful lot purely for her own convenience.
 
-Well, she isn't an enemy, so that's fine.
+Well, she isn't an enemy, so I guess that's good enough.
 
-Then again, strictly speaking, I was pestering the Flower Witch for aftercare outside our contract, so I was acting for my own convenience too.
+Then again, strictly speaking, I was pestering her for aftercare that wasn't in our contract, so we were both in it for ourselves.
 
-The Flower Witch bundled together the roots that had sucked up the monster and began dripping a blood-red liquid into a bottle-shaped container made by reshaping a branch. The droplets from the root tips had a unique fragrance that made me want to call it the scent of life.
+The Flower Witch bundled together the roots that had absorbed the monster and reshaped a branch into a bottle, then began dripping a blood-red liquid into it. The drops falling from the root tips gave off a distinctive fragrance, the kind you'd almost want to call the scent of life.
 
-"There is no better nutrient tonic for either magic power or physical health. The Blue Witch can drink it all at once. You must not drink it, all right? It would work too well."
+"Nothing makes a better nutrient tonic, for magic power or for health. The Blue Witch can drink it all at once. You mustn't drink it, though, all right? It would work too well."
 
-With that, the Flower Witch corked the container and gave me the special nutrient tonic.
+With that, she corked the bottle and handed me the special nutrient tonic.
 
-I was so grateful. Now the Blue Witch would get better faster too. So, so grateful.
+I was so grateful. With this, the Blue Witch would be better in no time. So, so grateful.
 
 "Thanks! That really helps."
 
-As I forced my still-unsteady legs under me and staggered to my feet, the Flower Witch gently extended vines to help me. Kind.
+My legs still didn't have much strength in them, but I forced them into action and wobbled to my feet, and the Flower Witch gently brought her vines over to support me. How kind.
 
-"Take good care of the Blue Witch. As long as she cares for you, she will return your care in kind."
+"Take good care of the Blue Witch. As long as she values you, she will return the favor."
 
-"No, we're friends. It's not like I'm being kind to her because I expect something in return."
+"No, we're friends. It's not like I'm being nice to her to keep score."
 
-I'd only said something completely normal, but the Flower Witch looked caught off guard. The vines around my waist went slack and slowly writhed in confusion.
+All I'd said was plain common sense, but the Flower Witch seemed caught off guard. The vine supporting my waist loosened and writhed slowly, as if confused.
 
-Wait. That reaction. What if what I thought was common sense actually wasn't?
+Hang on. That reaction... Don't tell me what I thought was common sense isn't actually common sense?
 
-There was nothing wrong with going against common sense, but knowingly ignoring it and simply not knowing it were two completely different things.
+Not that I thought breaking with common sense was bad, but knowingly ignoring it and simply not knowing it were two completely different things.
 
-Better to ask and be embarrassed for a moment than not ask and be embarrassed for a lifetime.
+The shame of asking lasts a moment; the shame of not asking lasts a lifetime.
 
-I nervously asked the Flower Witch.
+So, nervously, I asked her.
 
-"I'm new to this whole friendship thing, so I don't really know, but... If a friend gets sick, wouldn't you nurse them too, Flower Witch-san? Could it be that taking care of a sick friend isn't normal...?"
+"I'm new to this whole friend thing, so I don't really get it, but... wouldn't you nurse a friend who got sick too, Flower Witch-san? Or is taking care of a sick friend not normal...?"
 
-"I'm not sure."
+"I wonder."
 
-The Flower Witch spoke wistfully.
+The Flower Witch sounded melancholy.
 
-"Your selfless friendship is surely a wonderful thing. But ever since I took this form, I can't understand feelings like that anymore. I can pretend I do, but the feelings themselves are no longer there.
+"Selfless friendship like yours must be a wonderful thing. But ever since I took this form, I've lost any sense of it. I can pretend to understand, but the feeling at the root of it is gone.
 
-"Family or not. Useful or not. That's the only way I can see anything now."
+"Family or not family. Useful or not useful. That's the only yardstick I can measure anything by now."
 
 "...? Isn't that a good thing?"
 
-I couldn't understand why she said it as though it were a bad thing, so I tilted my head.
+I didn't get why she said it like it was a bad thing, and I tilted my head.
 
-"Isn't having clear values and boundaries a virtue? There are plenty of people with double standards who say life is precious, then say anyone who can't value life should die. Isn't a person who makes sound judgments based on their ego and acts logically more respectable than someone who pretends to be good, preaches lofty ideals, and does whatever the hell they want based on how they feel at the time? I dunno, though. There are limits, and it depends on the situation."
+"Having clear values and drawing clear lines is a virtue, isn't it? There are tons of people out there with double standards, who say life is precious and then turn around and say anyone who doesn't value life should die. Isn't somebody who makes sound calls based on their own ego and acts rationally better than someone who plays the good guy and waves lofty ideals around, then does whatever the hell they feel like in the moment? I dunno, though. There are limits, and it depends on the situation."
 
-Halfway through, I lost confidence in my own argument, so I added a timid disclaimer and wrapped it up.
+Somewhere in the middle I stopped being sure of my own argument, so I tacked on a wimpy disclaimer to cover myself and wrapped it up.
 
-The Flower Witch stayed silent beside me for a long time as I toddled around, desperately trying to get the feeling back in my numb legs.
+I toddled around, struggling to get the feeling back into my limp legs, and the Flower Witch stayed silent beside me for a long time.
 
-Once the feeling in my legs returned and I could walk properly again, the Flower Witch spoke softly.
+By the time the feeling had come back and I could walk properly again, she spoke gently.
 
-"If you and the Blue Witch ever fall out, run away to me. I'll protect you."
+"If you and the Blue Witch ever have a falling-out, come running to me. I'll protect you."
 
 "No, I'm good. If we fight, we'll just talk it out and make up."
 
-Running away after a fight makes no sense. She's not an enemy. We can just talk. Why would I need to run away?
+Running away after a fight makes no sense. She's not my enemy. We can just talk. Why would I need to run away?
 
-The Flower Witch kept saying things I couldn't make sense of.
+Nothing the Flower Witch said made much sense to me.
 
-I thanked the Flower Witch once more for the nutrient tonic, then snuck out of her territory before dawn and returned to Ome, where the Blue Witch slept.
-When I poured the whole bottle of nutrient tonic I'd gotten into the mouth of Sleeping Beauty (peerless under heaven), lying on the bed, she immediately choked on it. The Blue Witch, who hadn't reacted to anything in her sleep, woke up within a few dozen seconds.
+I thanked her once more for the nutrient tonic, slipped out of her territory before dawn, and went back to Ome, where the Blue Witch lay sleeping.
 
-"!? This kicks in fast as hell! What is this, some kind of dangerous drug?"
+Sleeping Beauty (peerless under heaven) was lying on the bed, and when I dumped the whole bottle of nutrient tonic into her mouth, she immediately choked on it. The Blue Witch, who had slept through everything, woke up in under a minute.
 
-The medicine worked so ridiculously fast that it scared me, and I checked the container for a label or something. The Blue Witch slowly spoke without fully opening her eyes, her voice hoarse and her throat raw.
+"!? That kicked in fast as hell! What is this, some kind of dangerous drug?"
+
+The stuff worked so absurdly fast that it circled back around to scary, and I was checking the bottle for a label or something when the Blue Witch spoke up, slow and hoarse, her eyes barely open and her throat raw.
 
 "Hey... What did you make me drink...? It feels like I drank a hundred nutrient tonics at once..."
 
-"That's about right. Morning. Is there anything you want?"
+"That's about right. Morning. Want anything?"
 
 "...Water."
 
-I brought her water like she asked, chilled it with basic freezing magic, and gave it to her to drink. The Blue Witch exhaled in relief, then fell asleep again.
+I brought her water like she asked, chilled it with basic freezing magic, and helped her drink. The Blue Witch let out a contented breath and fell back asleep.
 
-After waking up that first time, the Blue Witch gradually got better as she drifted in and out of shallow sleep.
+Once she'd woken up that first time, she slowly got better, drifting in and out of shallow sleep.
 
-When she woke up the second time, I made rice porridge for her as she sat blankly on the bed. I blew on each spoonful to cool it and fed it to her. The Blue Witch ate half the porridge very slowly, then went back to sleep as if just moving her mouth had used up all her strength.
+The second time she woke up, she just sat on the bed in a daze, so I made her rice porridge, blew on each spoonful to cool it, and fed it to her. She ate half of it with painfully slow movements, then fell asleep again as if just moving her mouth had used up all her strength.
 
-The third time she woke up, she ate an entire bowl of porridge and, still dazed, checked whether Professor Ohinata was safe.
+The third time, she polished off a whole bowl of porridge and groggily asked whether Professor Ohinata was safe.
 
-Then a full day passed after I gave her the nutrient tonic. When she woke up for the fourth time, she was fully conscious.
+Then, a full day after the nutrient tonic, she woke up for the fourth time, and this time her head was clear.
 
-When I came into the room carrying an ice pack I'd made with freezing magic, the Blue Witch sat halfway up in bed and said sullenly,
+I came into the room with an ice pack I'd made with freezing magic and found the Blue Witch sitting halfway up in bed, looking sulky.
 
 "Why weren't you in the room?"
 
-"Huh? You were asleep."
+"Huh? Well, you were asleep."
 
-"Weren't you nursing me? I wondered where you'd gone."
+"Weren't you taking care of me? I was wondering where you'd gone."
 
-"Do I need to be in the room the whole time? You were asleep, so it doesn't matter where I was."
+"Do I really need to be in the room the whole time? You were asleep, so it doesn't matter where I was."
 
-She'd gotten over the worst of it and was recovering smoothly, so she didn't need constant watching anymore.
+She'd made it past the worst and was recovering smoothly, so there was no need for me to stick by her side every second anymore.
 
-If she was asleep, she couldn't tell whether I was in the room or not. Even so, I didn't want her saying something unreasonable like I had to stay in the room the whole time.
+If she was asleep, she wouldn't know whether I was in the room or not. So I'd appreciate it if she didn't make unreasonable demands like staying in the room the whole time.
 
-I had stuff to do too, like sleep, eat, use the toilet, take baths, read manga, and pop the Bubble Wrap-kun I'd found in the closet.
+I had plenty of other stuff to do too, you know: sleeping, eating, going to the bathroom, taking baths, reading manga, popping the Bubble Wrap-kun I'd found in the closet.
 
-I was making a perfectly reasonable point, but the Blue Witch looked dissatisfied.
+I'd made a perfectly reasonable point, but the Blue Witch looked unhappy.
 
 "That's not the point. Ori, you're so col... Ah, no. I haven't thanked you yet."
 
@@ -257,85 +258,85 @@ I was making a perfectly reasonable point, but the Blue Witch looked dissatisfie
 
 "You saved me, didn't you? Thank you."
 
-"Don't mention it. You always save me."
+"Don't mention it. You're always saving me."
 
-As I said that, I laid the Blue Witch back down and swapped out the ice pack on her forehead.
+I laid her back down as I said it and swapped out the ice pack on her forehead.
 
-The Blue Witch narrowed her eyes in pleasure, but then suddenly touched her face with a puzzled look.
+The Blue Witch narrowed her eyes contentedly, then suddenly touched her face, looking puzzled.
 
-Then she remembered and apologized.
+It hit her, and she apologized.
 
 "Sorry. I wasn't wearing my mask."
 
-"Oh, you remembered. But it's fine until you're better. It's hard to breathe with it on, right?"
+"Oh, good of you to remember. But you can go without it until you're better. It's hard to breathe with it on, right?"
 
-"Is it? Honestly, that helps."
+"Really? Honestly, that's a relief."
 
-The Blue Witch gave a weak smile.
+The Blue Witch smiled weakly.
 
-Seeing the Blue Witch this weak made me feel weird. More than that, seeing her bare face made me uneasy. I'd gotten too used to the mask.
+Seeing the Blue Witch so weak gave me a weird feeling. Or really, it was her bare face that had me on edge. I'd gotten way too used to the mask.
 
-I took a good, long look at her bare face for the first time in a while.
+I took a good, long look at her unmasked face for the first time in ages.
 
-This girl really has a nice face. Even pale and weak, she looked like some beautiful girl fated for tragedy. That's just unfair. You could call it underhanded. Her face was so perfectly put together that it was intimidating.
+She really does have a great face. Even pale and worn out, she looks like some tragic beauty, which is just unfair. Downright dirty, even. Her features are so perfect that they're intimidating.
 
 "What are you looking at?"
 
-"Nothing. I was thinking you've got a nice face."
+"Nothing. Just thinking you've got a really nice face."
 
-"...Ori has a nice face too."
+"...Your face is nice too, Ori."
 
 "That's where we disagree. I'll go make food. You're hungry, right?"
 
-When I tried to step away from the bed, the Blue Witch reached out her hand. I took it and pushed it back under the covers.
+When I started to step away from the bed, the Blue Witch reached out for me, so I took her hand and tucked it back under the blanket.
 
-Dad's going to make rice porridge now! Stay warm and sleep like a good girl! You're not a kid anymore, so you can stay in a room by yourself, right? Honestly!
+Daddy's going to go make you porridge now! Stay warm and be a good girl and sleep! You're not a little kid anymore, so you can stay in a room by yourself, right? Honestly!
 
-I kept nursing the Blue Witch for a week after that.
+I kept nursing the Blue Witch for another week.
 
-Even with a witch's unusually tough body, it took a week before she could run around outside. That really showed how nasty mushroom disease was once it turned severe.
+Even with a witch's superhumanly tough body, it took a week before she could run around outside again. That told you just how brutal mushroom disease was once it went severe.
 
-From the first day she was properly awake, she stubbornly used the toilet and took baths by herself, so I felt like it was partly a matter of willpower. But if you can't even use the toilet or take a bath without willpower, that's a huge problem, isn't it?
+From the first day she properly woke up, she'd stubbornly insisted on going to the bathroom and taking baths by herself, so I got the feeling a lot of it came down to willpower. Then again, if you need willpower just to go to the bathroom or take a bath, that's a pretty big problem.
 
-Anyway, now that she could run around, she was fine. She'd gotten her magic-power control back and could use magic again. There weren't any lasting effects either.
+Anyway, now that she could run around, she was in the clear. She'd gotten her magic-power control back, could use magic again, and didn't have any particular aftereffects either.
 
-I'd only come to the Blue Witch's house to visit in the first place. I hadn't planned to stay over and nurse her. I cleaned up the house, which I'd messed up a little, and got ready to go back to Okutama.
+Originally, I'd only come over to the Blue Witch's house to hang out. I'd never planned on staying over to nurse her. I tidied up the house, which I'd messed up a bit, and got ready to head back to Okutama.
 
-I was worried the yamame trout I'd put in the fish pond might have been eaten by wild animals or monsters. I had a feeling I hadn't secured the net well enough.
+I was worried that wild animals or monsters might have eaten the yamame trout I'd released into my fish pond. I had a feeling I'd been sloppy with the net, too.
 
-I finished getting ready, and while I was putting on my shoes in the entryway, the Blue Witch poked her head out from the living room.
+I was all packed and putting on my shoes in the entryway when the Blue Witch poked her head out of the living room.
 
 "Are you going out?"
 
-"Hm? No, well, not going out. Going home. You're better now, right?"
+"Hm? No, not going out, exactly. Going home. You're better now, right?"
 
 "...Cough, cough."
 
 "!? Hey, are you okay?"
 
-The Blue Witch suddenly started coughing and staggered, so I hurried over and caught her.
+The Blue Witch suddenly started coughing and staggered, so I rushed over to hold her up.
 
-I'd thought she was completely better. Was she really relapsing?
+I'd thought she was completely better. Could she actually be relapsing?
 
-I took the Blue Witch by the hand and led her back to bed. She obediently lay down.
+I led her back to bed by the hand, and she lay down without a fuss.
 
-Her complexion looked good, but it seemed like she still couldn't push herself. Maybe she'd overdone it by running around yesterday.
+Her color looked good, but apparently she still couldn't push herself. Maybe running around yesterday had actually set her back.
 
-"You hadn't coughed at all until now. Did you catch another cold while you were weakened? Do you have a fever? ...No, you don't."
+"You hadn't coughed at all until now. Did you catch some other cold while you were weak? Any fever? ...Nope."
 
 "My body feels heavy. It's hard even to stand. Cough, cough."
 
-"H-Hmm. Maybe I should stay a little longer?"
+"H-Hmm. Maybe I'd better stick around a little longer?"
 
-When I asked, the Blue Witch nodded, seeming a little happy.
+The Blue Witch nodded, looking just a little happy about it.
 
-But the next moment, she looked out the window and her face changed.
+But the next moment, she glanced out the window, and her expression changed.
 
-An eyeball familiar bobbing outside the window—not mine—was staring straight at us.
+An eyeball familiar (not mine) was bobbing outside the window, staring straight at us.
 
 "Y-You little...!"
 
-The Blue Witch sprang out of bed with incredible speed and ran to the window. She threw it open, then slammed a devastating punch into the eyeball and smashed it to bits.
+The Blue Witch sprang out of bed, dashed to the window, flung it open, and drove a fist of absurd destructive power into the eyeball, smashing it to smithereens.
 
 Hey.
 
@@ -345,15 +346,15 @@ Hey!
 
 "Uh. No, this is... But the Eyeball Witch..."
 
-"You tricked me into doing your housework. I'm going home now! Take care!"
+"You just conned me into doing your chores! I'm going home! Get well soon!"
 
-I shoved her mask onto the flustered Blue Witch's face, put on my shoes this time for real, and left the house.
+I shoved her mask onto the flustered Blue Witch's face, put my shoes on for real this time, and left.
 
-Man, honestly. What a shameless woman, pretending to be weak so she could dump the housework on me. Being waited on hand and foot must've been nice, huh!?
+Geez, seriously. Faking weakness to stick me with the housework. What a shameless woman. Being waited on hand and foot must've been real comfy, huh!?
 
-Well, she'd nearly died, so a little extra care was fair. But I wasn't going to keep taking care of her forever.
+Well, she'd nearly died, so a little pampering was fine. But I had no intention of looking after her forever.
 
-Starting today, it was back to business as usual.
+As of today, it's back to business as usual.
 
 I'll leave all the negotiations with outsiders to you. I'm going all in on my hobbies. I got all kinds of ideas while I was nursing you.
 
@@ -361,66 +362,66 @@ I'll leave all the negotiations with outsiders to you. I'm going all in on my ho
 
 ---
 
-When I got back to Okutama, sure enough, the fish pond had been raided. The net over the artificial pond had been moved, and all the yamame trout I'd put in there as winter food were gone. I got seriously pissed off. I can't forgive this. Those damn animals...!
+Sure enough, when I got back to Okutama, the fish pond had been raided. The net over the artificial pond had been pushed aside, and every last yamame trout I'd stocked as winter food was gone. I totally lost it. Unforgivable, seriously. Those damn animals...!
 
-The Blue Witch's Lost Mist over Okutama made intruders lose their way, but it couldn't shut everything out 100%. Once in a while, an animal would get so lost in the mist that it happened to reach my house.
+The Lost Mist the Blue Witch had cast over Okutama kept intruders wandering, but it couldn't shut out a hundred percent of them. Every so often, an animal that got lost enough in the mist would stumble onto my house by pure chance.
 
-While I complained about that to the Blue Witch through our eyeball familiars, I heard the news that the pandemic was ending, which she'd gotten from the Eyeball Witch's familiar.
+I griped about all that to the Blue Witch through our eyeball familiars, and she filled me in on the news that the pandemic was winding down, which she'd picked up from the Eyeball Witch's familiar.
 
-The antidote I'd delivered to the Bunkyo Ward Office was diluted properly, quickly carried all over Tokyo, and sprayed. Both Foresight Mage and Professor Ohinata had pulled through. Apparently Professor Handa had only had a mild case to begin with. There had been comparatively many mild cases in the Department of Gremlin Engineering.
+The antidote I'd delivered to the Bunkyo Ward Office had been properly diluted, rushed all over Tokyo, and sprayed. Foresight and Professor Ohinata had both pulled through. Professor Handa had apparently only had a mild case to begin with (the Department of Gremlin Engineering had comparatively many mild cases).
 
-They expected the infection to have spread to other survivor communities around the country because fertility-magic teachers had relocated to them too. So in exchange for the giant kaiju's huge Gremlin at Tokyo Magic University, the Dragon Witch took on delivering the antidote around the country.
+The infection was expected to have spread to survivor communities around the country too, carried there by the fertility-magic teachers who'd relocated to them. So the Dragon Witch agreed to deliver the antidote nationwide, in exchange for the giant kaiju's huge Gremlin kept at the Magic University.
 
-They said magic was less widespread among ordinary people outside Tokyo than inside it, so there were probably fewer severe cases too. Even so, the antidote delivered by the Dragon Witch must have saved many people.
+Magic was supposedly less widespread among ordinary people outside Tokyo than inside it, so there were probably fewer severe cases out there. Even so, the antidote the Dragon Witch delivered must have saved a lot of people.
 
-On the other hand, there were people who couldn't be saved.
+But not everyone made it.
 
 The Itabashi Witch, the Sumida Witch, the Hachioji Witch, an associate professor from the Department of Magic Linguistics, and a professor from the Department of Mutation Studies all died before treatment could reach them.
 
-The Tobacco Witch herself barely survived, but apparently all the subordinates she trusted died, and she was taking it badly. There were many other important people who died too.
+The Tobacco Witch herself barely pulled through, but apparently every one of her trusted subordinates had died, and she wasn't taking it well. Plenty of other key figures had died too.
 
-In Shinagawa Ward and Setagaya Ward, powerful monsters appeared as if to take advantage of the security force and witches being down. They apparently caused an enormous number of deaths.
+In Shinagawa Ward and Setagaya Ward, as bad luck would have it, powerful monsters had shown up as if they'd been waiting for the security force and the witches to go down, and the death toll there was said to be staggering.
 
-A week had passed since antidote spraying began. The vast majority of severe cases had either been treated or died, but the antidote had not reached everyone yet, and a small number of people were coming down with it after a delay.
+It had been a week since they'd started spraying the antidote. Most of the severe cases had either recovered or died, but the antidote still hadn't reached everyone, and a small number of people were coming down with it after a delay.
 
-One characteristic of mushroom disease was that symptom onset could trigger a chain reaction. When one person grew mushrooms from their head, even people nearby who had only recently been infected would start coming down with it one after another in response. That was why the pandemic had happened all at once, but the chain reaction still had not completely run its course. We would need to stay on high alert for a while longer.
+One trait of mushroom disease was chain-reaction onset. When one person sprouted mushrooms from their head, it set off the people around them one after another, even patients who had only just been infected. That was why the pandemic had exploded all at once, and the wave of chain onsets still hadn't completely passed. We'd need to stay on high alert for a while yet.
 
-The authorities were in disarray and not functioning well enough, but based on the information gathered so far, they expected the final death toll from this pandemic to reach 500,000–700,000 people in Tokyo alone.
+The government was in chaos and barely functioning, but piecing together the information gathered so far, the final death toll from this pandemic was expected to reach 500,000 to 700,000 in Tokyo alone.
 
-Before the pandemic, Tokyo's population had been about 2.8 million. That meant one disease had killed 20% of the total population in just under two weeks. Terrifying.
+Before the pandemic, Tokyo's population had been about 2.8 million. That meant a single disease had killed 20% of the entire population in just under two weeks. Terrifying.
 
-It was callous, but I couldn't help being glad that neither I nor anyone I knew was in that 20%.
+It was a heartless thing to think, but I couldn't help being glad that neither I nor anyone I knew was part of that 20%.
 
-In terms of the scale of the damage alone, the plague, said to be the worst disease in human history, was probably worse. The infamous plague, the Black Death, had killed tens of millions in a single outbreak. But that was over one or two years, across regions with vast land and populations like Europe and China.
+In terms of sheer scale, the plague, said to be the worst epidemic in human history, was probably worse. The notorious Black Death killed people by the tens of millions in a single outbreak. But that took a year or two and spread across vast regions with enormous populations, like Europe and China.
 
-If you considered the damage inflicted in the small area of Tokyo and the short time of two weeks, mushroom disease had destructive power on par with the plague. And even that was only because a mage who could see the future had kept the damage down. If there had been no Foresight Mage or Flower Witch, Japan, which had not fully recovered from the Gremlin Disaster, would have been dealt the finishing blow and civilization would have regressed as far as a hunter-gatherer lifestyle. It would not have been strange at all if more than 90% of the population had died.
+Considering that mushroom disease had done its damage in an area as small as Tokyo, over a span as short as two weeks, it was every bit as destructive as the plague. And that was with a mage who could see the future holding the damage down. Without Foresight and the Flower Witch, Japan, which still hadn't fully recovered from the Gremlin Disaster, would have been finished off, and civilization would have slid all the way back to hunting and gathering. It wouldn't have been strange at all for more than 90% of the population to die.
 
-Tokyo's rebuilding, which had finally started to gain momentum, got punched hard right in the nose and was pushed way back.
+Tokyo's recovery had finally been picking up steam, and then it took a brutal punch square in the nose and got knocked way back.
 
-Some people had finally crawled up from the bottom of the Gremlin Disaster, only to lose their will to go on when what they'd struggled to build was destroyed and taken from them.
+Some people had only just clawed their way up from the rock bottom of the Gremlin Disaster, and when everything they'd worked so hard to build was wrecked and taken from them, they lost the will to go on.
 
-But the Eyeball Witch said this:
+But the Eyeball Witch had this to say:
 
-Humanity had definitely been pushed far back.
+True, humanity had been pushed a long way back.
 
-But not everything we had built up was lost.
+But not everything we'd built was lost.
 
-Even if we had been pushed back two steps, we had taken three steps forward.
+Even if we'd been pushed back two steps, we'd taken three steps forward.
 
-We had no choice but to keep moving forward enough to make up for the steps back.
+All we could do was keep going, hard enough to outpace the steps back.
 
-The moment we stopped moving forward would be the real end.
+The moment we stopped walking would be the real end.
 
-Words like that couldn't bring back the lives that were lost, but they were comforting.
+Nice words couldn't bring back the lives that were lost, but they were some comfort.
 
-The Eyeball Witch was famous for being a people person, and she really was good with words.
+The Eyeball Witch was famous for her social skills, and sure enough, she had a way with words.
 
-I was moved too. Self-help books didn't really do anything for me, but the words of a witch desperately struggling in a world that had actually collapsed hit home a little.
+I was moved too. Self-help books never did much for me, but coming from a witch who was desperately struggling along in a world that had actually collapsed, those words hit home a little.
 
 That's right. Let's keep moving forward.
 
-For me personally, I'd luckily lost nothing this time. You could say it was easy for me to get up from where I'd fallen.
+As far as I personally was concerned, I'd been lucky enough to lose nothing this time. Getting back up from where I'd fallen should be easy.
 
-And when I fall, I don't get back up empty-handed either.
+And I never get up from a fall empty-handed.
 
-Let's try making something that puts what I learned from this pandemic to use, so I can say I gained something from it too.
+Let's make something that puts what I went through in this pandemic to use, so I can say I got something out of it too.

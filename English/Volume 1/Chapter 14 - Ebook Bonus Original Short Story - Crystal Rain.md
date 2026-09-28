@@ -1,39 +1,39 @@
-There was a lot of rain from spring through summer, and today was another downpour.
+Spring into summer always brought a lot of rain, and today was another downpour.
 
-I leaned against my window frame, staring idly at the thick, low-hanging rain clouds and listening to the hard clatter of magical crystals falling from the sky onto the roof.
+I leaned against my window frame, staring absently at the thick, low-hanging rain clouds and listening to the hard clatter of magical crystals falling out of the sky onto the roof.
 
-The world had changed drastically after the Gremlin Disaster, but changes in the weather were one of the things that stood out.
+The Gremlin Disaster had changed the world drastically, and the weather was one of the changes that really stood out.
 
 Namely, crystal rain.
 
-This new type of weather, crystal rain, was a rain of Gremlin crystals that had replaced thunderstorms, and it was a nuisance that dropped Gremlins from the sky. Electricity that should normally have built up inside cumulonimbus clouds and struck the ground as lightning had instead turned into Gremlins and showered down over the earth.
+Crystal rain had taken the place of thunderstorms. It was a whole new kind of weather, a rain of Gremlin crystals, and a real nuisance, since it dropped Gremlins right out of the sky. The electricity that should have built up inside cumulonimbus clouds and struck the ground as lightning turned into Gremlins instead and came pelting down on the land.
 
-When it came down hard, it punched through umbrellas and battered roof tiles, causing leaks. It caused a surprising amount of property damage.
+When it came down hard, it punched through umbrellas and wrecked roof tiles until the roof leaked. The property damage added up more than you'd think.
 
-The damage to agriculture was serious too. It shredded crop leaves and damaged fruit before harvest. If huge numbers of pebbles (or rather, tiny Gremlins that looked like pebbles) got mixed into a field's soil, they hindered root growth and hurt the quality of tuber crops.
+Farms took a beating too. The crystals shredded crop leaves and nicked fruit that was nearly ready to pick. And when a field's soil got loaded with pebbles (or rather, tiny pebble-like Gremlins), they stunted root growth and made for poor tuber crops.
 
-Crystal rain came with heavy rain, so it also caused debris flows. Huge amounts of rainwater swept up huge amounts of Gremlins, forming destructive muddy torrents that caused rivers to overflow and damaged buildings. It clogged drains too.
+Since crystal rain came with heavy rain, it set off debris flows as well. Huge amounts of rainwater swept up huge amounts of Gremlins and turned into destructive muddy torrents that flooded rivers and wrecked buildings. All of that clogged the drains, too.
 
-The damage from crystal rain was worse in urban areas, and I heard it was one of the Tokyo Witches' Council's many headaches.
+The bigger the city, the worse the damage, and apparently it was one of the Tokyo Witches' Council's many headaches.
 
-On the other hand, I'd never felt that rural Okutama had suffered damage anywhere near that bad. That was because monsters there picked up Gremlins and cleaned up the huge numbers of tiny ones scattered by crystal rain all on their own.
+Flip that around, though, and out in rural Okutama, the damage had never struck me as all that bad. That was because we had monsters that gathered Gremlins, and they cleared away the flood of tiny ones the crystal rain scattered everywhere, all on their own.
 
-The monsters I called scale squirrels looked like squirrels wearing helmets made of scales. At night, they gathered in packs and scurried around, stuffed their cheek pouches full of Gremlins, then returned to the mountains. Thanks to them, hardly any Gremlins were left scattered across Okutama's roads and fields.
+I called them scale squirrels, since they looked like squirrels wearing helmets made of scales. At night they swarmed out in packs and scurried all over, then headed back to the mountains with their cheek pouches stuffed full of Gremlins. Thanks to them, hardly any Gremlins were left lying around on Okutama's roads and fields.
 
-But even scale squirrels could only collect so many Gremlins.
+But even scale squirrels could only haul away so many.
 
-When crystal rain fell for a long time and huge amounts piled up, some Gremlins were left uncollected. Then I had to get out a broom and a sieve and remove the Gremlins from the field by hand.
+If crystal rain kept falling long enough for the crystals to really pile up, some got left behind. Then I had to break out a broom and a sieve and clear the Gremlins out of the field myself.
 
-Scale squirrels couldn't dive underwater either, so Gremlins that settled on riverbeds were beyond their reach. Being small and light, they'd wash downstream on their own if left alone, but the bed of the Tama River glittered as if jewels had sunk there. Farther downstream, Gremlins had apparently started accumulating in the sand. The effect on the ecosystem was likely serious.
+Scale squirrels couldn't dive underwater either, so Gremlins that settled on riverbeds were beyond their reach. The grains were small and light enough that the current would carry them downstream if you left them alone, but the bed of the Tama River still glittered as if someone had sunk jewels there. Farther downstream, Gremlins had apparently started mixing into the sand and building up. That had to be doing a number on the ecosystem.
 
-Scale squirrels tended to avoid medium-to-large creatures, and I heard they were rarely seen in urban areas packed with humans. In cities without these cleaners, people had to devote manpower to collecting Gremlins by hand, but I heard the uniform, milky-white Gremlins were put to use in all kinds of experiments because they came in huge quantities despite their small size.
+Scale squirrels tended to avoid anything medium-sized or bigger, so they were supposedly a rare sight in cities full of people. With no cleanup crew in town, people had to sink a lot of labor into Gremlin collection, picking them up by hand. Then again, I'd heard that those uniform, milky-white Gremlins, small as they were, came in such huge quantities that they were being used in all kinds of experiments.
 
-Gremlins were products of magic. I was sure there were still plenty of uses no one had discovered.
+Gremlins were a product of magic. There had to be plenty of uses nobody had found yet.
 
 If someone figured out a good way to use them, crystal rain could literally become a blessing from heaven.
 
-But for now, it's nothing but crappy weather that gives me more fieldwork and roof repairs to do. I mean, it's pretty, though, watching Gremlins sparkle as they fall from the sky like this.
+But for now, it's just crappy weather that means more fieldwork and more roof repairs for me. I mean, it is pretty, watching Gremlins come sparkling down out of the sky like this.
 
-Pretty roses had thorns, and pretty weather had its hazards. Even as I watched the beautiful magical weather, I got depressed thinking about all the work waiting for me once the rain stopped.
+Pretty roses have thorns, and pretty weather has its downsides. Even as I watched the beautiful magical weather, thinking about the big job waiting for me once the rain let up got me down.
 
 ![image_rsrc51X.jpg](images/image_rsrc51X.jpg)

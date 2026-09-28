@@ -146,3 +146,35 @@
 ### Formatting Confirmed
 - Full source range 262–646 was audited in two chunks (262–451 and 452–646) for both passes; the source contained no scene-break marker, and none was added or removed.
 - Exact glossary terms, name and address forms, narrative/direct-thought tense, measurements, creature cries, and punctuation were verified; this scope contained no images, footnotes, or Translator Notes, consistent with Part 1.
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN lines 1–429 / JP lines 1–646; agent `reedit_v3c16_s1`; model `gpt-5.6-sol` at high reasoning; ~100 edits). Flow: mean sentence length 14.5 → 13.6 words; short-sentence share 25.6% → 23.6%; runs 6 → 5; words 4628 → 4411. No past-tense reversals.
+
+### Accuracy Fixes
+- **魔法大学にぶん投げておけば**: “dump that kind of thing on a magic university” → “dump that kind of thing on Magic University” — glossary
+- **魔法大学どうなってんの**: “What's going on at magic university?” → “What's going on at Magic University?” — glossary
+- **東京魔法大学**: later short-form reference normalized to “Magic University” — glossary
+- **首を傾げる**: replaced the literal “tilted her head” with the contextual “scratching her head” — polish
+- **一人だけ入れ替わる**: rebuilt the person-switch clause so the subject and condition are unambiguous — referent
+- **大型の核／儀式用焦点具**: corrected the prototype explanation to the larger core and ritual focus — accuracy
+
+### Register and Flow
+Naturalized the victory dance, Hiyori's aura description, and technical dialogue without raising the casual-comedy register. Source-driven short runs and punchlines were retained.
+
+### Formatting Confirmed
+- Ruby, technical terms, paragraph structure, and the absence of notes/images remained intact; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 3 --chapter 16` ALL PASS.
+
+### Lead Review (full change-by-change subagent review, 104 changes)
+- **無限にオモロそうな研究やってるじゃん** (JP 373): restored the exclamatory assertion ("You’ve got an endless supply…") in place of a question; curly apostrophes restored in dialogue — accuracy
+- **全く無関係という事はないだろう** (JP 520): returned the conjecture passage to past tense ("fed", "probably weren't") to match the surrounding narration — tense
+- **やはり…全然違う** (JP 139): restored やはり as "really was" — accuracy
+- **緑のグレムリンだったら花の魔女** (JP 208): "A green Gremlin would be…" so the color reads as a Gremlin's — worse
+- **巨大蝙蝠魔物の牙** (JP 217): restored "monster" in "giant bat monster fangs" — accuracy
+- **その程度のメンテナンスで済むのは有り難い** (JP 220): restored 有り難い as "thankfully" — accuracy
+- **サクサク削れる** (JP 223): restored サクサク as "carve through it with ease" — accuracy
+- **魔女か魔法使いぐらいだと思うが** (JP 307): restored the と思う hedge as "I figured" — accuracy
+- **確かに？** (JP 331): "Huh, good point?" keeps the half-convinced question — voice
+- **一種類だけ出す事ができる** (JP 394): "one unpronounceable sound, and only one" restores だけ — accuracy
+- **突破口が見えた** (JP 421): "found a way forward" instead of overstated "made a breakthrough" — accuracy
+- **貴重なデータが取れるならそれでいい** (JP 613): restored the conditional ("that was fine as long as the university got valuable data") — accuracy

@@ -201,3 +201,26 @@
 - **Part 1 source line 379 (continued dialogue)**: "But, but, you looked like Fu-chan." → "\"But, but, you looked like Fu-chan." — punct
 - **Part 2 Translator Note `[^1]`**: "Japanese dictionaries define the rare character `蔡` as a type of tortoise used for divination; obsolete Chinese senses include “weed” and the ancient state of Cai. The intended sense here is unclear, so the English follows the primary Japanese dictionary meaning while preserving the separate magic-language reading." → "The ambiguous character `蔡` can mean a divination tortoise, a weed, or the ancient state of Cai. Context does not establish the intended sense; “divination tortoise” is one possible dictionary sense used provisionally here while preserving the separate magic-language reading." — accuracy
 - **Evidence correction (`蔡`)**: "primary Japanese dictionary meaning" → "one possible dictionary sense; context does not establish the intended sense" — accuracy
+
+## Re-edit Pass — 2026-09-28
+
+Naturalization re-edit of the filed chapter against the JP source (segment 1 of 1: EN whole file / JP lines 1–606, incl. afterword; agent `reedit-v1c12-s1`; ~110 edits). Flow: short-sentence share 22.0% → 18.7%; runs of 3+ short sentences 4 → 2 (kept: "Surely. Probably. Most likely." punchline; the author's childhood rant). Narration was already past; no audit reversals needed.
+
+### Accuracy Fixes
+- **天高く馬肥ゆる秋**: "The autumn sky was high and clear." → "It was autumn, when the skies are high and the horses grow fat, and…" — accuracy (restores proverb)
+- **未来視 (JA 52, 85; bare form)**: "the Foresight Mage" → "Foresight" — glossary (short title)
+- **魔女集会 (JA 73; bare form)**: "Tokyo Witches' Council" → "Witches' Council" — glossary (short form)
+- **慧ちゃんのお願いだからね**: "It's Kei-chan's request." → "You're the one asking, Kei-chan." — accuracy
+- **構内では見かけないんですよね。ほとんど。**: → "I don't really see him on campus. Hardly ever." — accuracy (keeps afterthought)
+- **変質者じゃなくて変態だったとは**: → "he's not a creep, he's a pervert" — tense (live realization)
+- **八割**: "a full 80%" → "a full eighty percent" — punct (number-word rule)
+- [polish] **自分に病死した妹を重ねて見ている**: → "when the Blue Witch looked at her, she saw the younger sister she had lost to illness" — polish
+- [polish] **父の薫陶を受け…**: dangling modifier fixed — polish
+- [polish] **Ohinata lab dialogue**: uncontracted "I am researching… It is not…" → contracted, per her voice record — voice
+- [polish] **感傷的になっている大日向を拾い上げ**, **放送禁止用語を含む偏愛を叫び…**: flow rebuilds — polish
+
+### Register and Flow
+**Ohinata:** contractions restored; polite but not stiff. Joined the stranded tag "...and asked him," to Ohinata's own line; dialogue paragraphs 77 → 76, no speakers merged. "absolute pitch" (glossary) retained.
+
+### Formatting Confirmed
+- Ruby spans, `[^1]`–`[^2]`, notes text, image markers, headings unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 12` ALL PASS.
