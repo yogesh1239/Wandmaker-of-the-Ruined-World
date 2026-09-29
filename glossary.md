@@ -133,7 +133,7 @@
 | 瑞湖寺住職 | the chief priest of Zuikoji Temple | head priest of Zuikoji, Zuikoji abbot | inventor of the magic-power recovery medicine (s-p014); "Temple" is carried in the English so the otherwise unknown proper name reads |
 | タカ派 | hawks | hardliners, hawkish faction | Lake Biwa Pact faction favoring wide distribution of the magic-power recovery medicine |
 | ハト派 | doves | moderates, dovish faction | Lake Biwa Pact faction that kept the formula secret |
-| 白木 | pale, unfinished wood | white wood, plain wood | untreated, unlacquered wood; the alraune material used for the Cyanos handle |
+| 白木 | pale, unfinished wood | white wood, plain wood | generic sense: untreated, unlacquered wood (the alraune material used for the Cyanos handle); distinct from the Flower Witch tree 白木 "whitewood" (row above), which covers whitewood lumber/fiber and the Miniature Wand handle |
 | 額当て | forehead protector | brow guard, forehead guard | s-p014 |
 | 魔法暴走魔法 | magic-rampage spell | magic-rampage magic, magic-runaway magic | magic that destabilizes a target's magic-power control; project-original |
 | 超越者 | Transcendent | transcender | collective term for witches and mages |
@@ -577,6 +577,7 @@
 | 調布 | Chofu | Chofu City, Choufu | western Tokyo city |
 | 江東区 | Koto Ward | Koto, Koto-ku | eastern Tokyo ward |
 | 調布の魔女 | Chofu Witch | Witch of Chofu | Female / Chofu Transcendent title; project-original |
+| 三鷹の魔女 | Mitaka Witch | Three-Pronged Witch, Witch of Mitaka | Female / Mitaka Transcendent title (V4 booklet); project-original (2026-09-29) |
 | 東京湾 | Tokyo Bay |  | bay adjoining Tokyo |
 | 旧東京メトロ丸の内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | rail route planned for charcoal-powered transport |
 | 旧東京メトロ丸ノ内線 | former Tokyo Metro Marunouchi Line | old Tokyo Metro Marunouchi Line | alternate source spelling of the rail route |

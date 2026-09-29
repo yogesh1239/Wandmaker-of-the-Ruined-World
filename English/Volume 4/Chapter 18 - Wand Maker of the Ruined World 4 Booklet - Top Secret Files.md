@@ -38,8 +38,7 @@
 
 ## Character Profiles
 
-Grades are given by witch/mage standards unless noted otherwise: **AA** Maximum, **A** Exceptional,
-**B** Excellent, **C** Average, **D** Below Average, **E** Poor, **F** Minimum.
+Grades are given by witch/mage standards unless noted otherwise: **AA** Maximum, **A** Exceptional, **B** Excellent, **C** Average, **D** Below Average, **E** Poor, **F** Minimum.
 
 ### Fuyo
 
@@ -73,7 +72,7 @@ Grades are given by witch/mage standards unless noted otherwise: **AA** Maximum,
 
 ![s-p012.jpg](images/s-p012.jpg)
 
-> "What's this Tokyo Witches' Council crap? Like women and children could beat the **Arataki Group**."
+> "So what if it's the Tokyo Witches' Council? Like a bunch of women and kids could beat the **Arataki Group**."
 
 | | |
 |-|-|
@@ -82,35 +81,19 @@ Grades are given by witch/mage standards unless noted otherwise: **AA** Maximum,
 | Height | 180 cm |
 | Weight | 77 kg |
 
-**Combat Sense — B-.** His natural aptitude was unremarkable. He had plenty of real fighting
-experience.
+**Combat Sense — B-.** His natural aptitude was mediocre, but he had plenty of fights under his belt.
 
-**Physical Ability — AA.** He ranked at the very top even among Transcendents.
+**Physical Ability — AA.** Top tier even by Transcendent standards.
 
-**Magic Power — 8500.** His level was high even among Transcendents.
+**Magic Power — 8500.** High even for a Transcendent.
 
-**Intelligence — D+.** Originally an E. His perspective broadened after he became a Transcendent.
+**Intelligence — D+.** Originally an E, but his outlook broadened after he became a Transcendent.
 
-Third-generation boss of the Arataki Group. Until he became a mage, Kojiro was a rash, low-level
-thug. He lived by animal instinct: if someone pissed him off, he hit them; if he felt like screwing,
-he screwed; if he could not be bothered, he gave up. Whenever his temper flared he came at people
-with his fists meaning to kill them—former professional boxers and wrestlers included—so the young
-underlings held him in fearful awe as a brave, manly Young Boss. Kojiro styled himself the Fierce
-Tiger, but behind his back, people connected with the police mocked him as Rabies.
+The third-generation gang boss of the Arataki Group. Until he became a mage, Kojiro was a hotheaded small-time thug who lived by animal instinct: if someone pissed him off, he hit them; if he wanted to screw, he screwed; if he couldn't be bothered, he quit. Whenever his temper flared, he swung at whoever it was with intent to kill, ex-pro boxers and wrestlers included, so the young members held him in fearful awe as a brave, manly Young Boss. Kojiro called himself the Fierce Tiger, but the police privately mocked him as Rabies.
 
-After awakening as a mage, Kojiro developed something resembling a code of honor. He gained support
-within the organization and succeeded to the title of boss. Rather than playing favorites only with
-flatterers and people whose achievements merely happened to catch his eye, he began awarding
-positions and rewards based on results. His rewards could be excessive or inadequate, but a boss who
-personally led raids on rival organizations inspired confidence. His men surged in behind him and
-ran wild, and their looting and destruction fostered a sense of solidarity within the Arataki Group.
-At rallies and victory parties he generously passed around food and women, stoking their fervor.
+After awakening as a mage, Kojiro also awakened to something like a code of honor, and with his support inside the group growing, he took over as gang boss. Instead of favoring only flatterers and whoever happened to catch his eye with some lucky feat, he started handing out positions and rewards based on results. The rewards were sometimes too big and sometimes too small, but a gang boss who led the charge into rival organizations was someone his men could count on, and storming in behind him to loot and smash everything in sight bound the Arataki Group together. At rallies and victory parties he was generous with food and women, and whipped his men into a frenzy.
 
-In truth, the organization functioned only because his elder brother, the group's adviser, laid the
-groundwork behind the scenes. Even so, Kojiro undeniably had enough charisma to be a big fish in a
-small pond. Though the Arataki Group was a garbage heap of society, it ran smoothly when viewed from
-the inside, and Arataki Kojiro was admired as its boss. Still, it was ultimately no more than a
-garbage heap, and so the Blue Witch wiped it out.
+In reality, that setup held together only because his older brother, the group's adviser, was pulling strings behind the scenes. Even so, Kojiro undeniably had enough charisma to be a big fish in a small pond. The Arataki Group was society's garbage heap, but on the inside it ran smoothly, and its men looked up to Arataki Kojiro as their gang boss. Still, a garbage heap was all it ever was, and the Blue Witch wiped it out.
 
 ---
 
@@ -120,23 +103,23 @@ garbage heap, and so the Blue Witch wiped it out.
 
 | Date | Event |
 |-|-|
-| 2029/3/3 | Ori's emergency surgery for appendicitis. |
-| 3/9 | Discharged from hospital. Ori declares that he will receive no visitors while recovering at home. |
+| 2029/3/3 | Ori has emergency surgery for appendicitis. |
+| 3/9 | Ori is discharged and announces he'll see no visitors while he recovers at home. |
 | 4/4 | Compulsory six-year elementary education resumes. |
 | 4/20 | Fuyo, a daughter plant of the Flower Witch, arrives in Okutama. |
 | 5/10 | Fuyo begins helping with Ori's work. |
 | 5/12 | Cyanos refit: Version 3.1. |
-| 5/14 | Reconciliation between Fuyo and the fire salamanders. |
-| 5/15 | Warning that Cyanos will be stolen. Prediction of a "migration" of Class A monsters beginning around October. |
-| 5/20 | Morning: emergency declaration issued. Attack by the Arataki Group. Fall of the Bunkyo Ward Office, the Magic University, and Chofu. The Spider Witch encounters Ori. Before sunset: the Arataki Group wiped out. |
+| 5/14 | Fuyo makes peace with the fire salamanders. |
+| 5/15 | Warning that Cyanos will be stolen. A "migration" of Class A monsters is foreseen for around October onward. |
+| 5/20 | Morning: an emergency declaration is issued. The Arataki Group attacks. The Bunkyo Ward Office, the Magic University, and Chofu fall. Ori meets the Spider Witch. Before sunset, the Arataki Group is wiped out. |
 | 5/24 | Ori receives seven magic stones. |
-| 5/30 | Commission from the Spider Witch to build her home. |
-| 6/24 | Three custom wands shipped to the Lake Biwa Pact. The Blue Witch builds a 300-meter ice tower at the Magic University and moves in. |
+| 5/30 | The Spider Witch commissions Ori to build her home. |
+| 6/24 | Three custom wands are shipped to the Lake Biwa Pact. The Blue Witch builds a 300-meter ice tower at the Magic University and moves in. |
 | 6/26 | Tokyo Guard Tournament. |
-| 7/20 | All four wands completed — for the Eyeball Witch, Foresight Mage, Night Witch, and Tobacco Witch. |
-| 7/28 | Discovery and announcement of the magic-power training method by the Department of Mutation Studies. |
-| 8/14 | Ori gives the Blue Witch the Wise Wand and a robe made specifically for it. |
-| 9/1 | The Spider Witch's home completed. |
+| 7/20 | The wands for the Eyeball Witch, Foresight Mage, Night Witch, and Tobacco Witch are all finished. |
+| 7/28 | The Department of Mutation Studies discovers and announces the magic-power training method. |
+| 8/14 | Ori gives the Blue Witch the Wise Wand and a robe made just for her. |
+| 9/1 | The Spider Witch's home is completed. |
 
 ---
 
@@ -153,13 +136,7 @@ garbage heap, and so the Blue Witch wiped it out.
 | Core material | magic stone (the Blue Witch's magic stone) |
 | Length | 152 cm |
 
-A masterpiece by the Wand Maker Ori Kenshi. The handle material was replaced with pale, unfinished
-wood unique to the alraune, giving its wielder slightly better control of magic power. The Arataki
-Group's attack once again showed the world that its extraordinary performance put it in a class all
-its own. With Cyanos, custom-made specifically for her, the already formidable Blue Witch displays
-unmatched combat power. No price can be put on this wand. Even if the Blue Witch obtained a better
-wand, she would never part with Cyanos. It has already become her irreplaceable partner: a symbol of
-her bond with Ori, filled with memories of him.
+A masterpiece by the Wand Maker Ori Kenshi. Its handle has been swapped for pale, unfinished wood unique to the alraune, which gives its wielder a slight boost to magic-power control. During the Arataki Group's attack, the world saw once again just how far its performance outclasses every other wand. The Blue Witch is formidable enough on her own; wielding Cyanos, built for her alone, she is unstoppable. This wand is priceless. Even if a better wand came along, the Blue Witch would never give up Cyanos. It is already her irreplaceable partner, a token of her bond with Ori, packed with memories of him.
 
 ### Wise Wand
 
@@ -170,12 +147,7 @@ her bond with Ori, filled with memories of him.
 | Core material | neodymium magnet |
 | Length | 30 cm |
 
-The nineteenth creation of the Wand Maker Ori Kenshi. Based on the principles of the
-Magnetic-Field-Change Reverse-Playback Magic-Power Training Method, simply carrying this wand allows
-its bearer to perform magic-power training anytime, anywhere. Frankly, there is absolutely no need
-for it to be shaped like a wand. It would have been far easier to make and use as a helmet or
-forehead protector. It is an excellent piece of work in its own right, but the Wise Wand is unlikely
-ever to be standardized and widely adopted.
+The nineteenth work by the Wand Maker Ori Kenshi. It runs on the principles of the Magnetic-Field-Change Reverse-Playback Magic-Power Training Method, so simply carrying it lets you do magic-power training anytime, anywhere. Frankly, there is no reason whatsoever for it to be a wand; as a helmet or forehead protector, it would be far easier to make and to use. It is a fine piece of work in its own way, but the Wise Wand will probably never go mainstream.
 
 ### Magic-Power Recovery Medicine
 
@@ -185,16 +157,7 @@ ever to be standardized and widely adopted.
 | Produced | December 2024 onward |
 | Effect | instant magic-power recovery |
 
-A magic-power recovery medicine made by refining the sap of a monster known as a
-<ruby>Treant<rt>tree elder</rt></ruby>. Because of its side effects, it is also known as a magic
-drug. When taken, it restores magic power beyond even the user's maximum capacity. Each dose restores
-10K, but reduces the user's maximum magic power by 0.2K. The lower a person's magic-power reserve,
-the greater the risk of dependence and habitual use. It poses no such risk at all to those with
-Transcendent-class magic power. For anyone whose magic power is around the ordinary-person average,
-however, a single use is enough to ruin them. The medicine can temporarily spike an ordinary person's
-meager magic-power reserve and turn them into an effective combatant. The Lake Biwa Pact's hawks
-wanted to distribute it widely to expand their sphere of influence and ensure security. The doves,
-concerned that this would produce more drug addicts, kept the formula secret and opposed the hawks.
+A magic-power recovery medicine refined from the sap of a monster called a <ruby>Treant<rt>tree elder</rt></ruby>. Its side effects have also earned it the name "magic drug." A dose restores magic power even past the user's maximum capacity: 10K per dose, at the cost of 0.2K off their maximum magic power. The smaller a person's magic-power reserve, the more addictive and habit-forming it is. With Transcendent-class magic power, it isn't addictive at all, but for someone with about average magic power for an ordinary person, a single use is enough to ruin them. The medicine can briefly spike an ordinary person's meager magic power and turn them into a real fighting asset. The Lake Biwa Pact's hawks wanted to spread it widely to expand their sphere of influence and ensure security, while the doves, worried about a rise in drug addicts, kept the formula secret and clashed with the hawks.
 
 ![s-p015.jpg](images/s-p015.jpg)
 
@@ -207,12 +170,7 @@ concerned that this would produce more drug addicts, kept the formula secret and
 | Core material | Gremlin, 5 mm in diameter, red |
 | Length | 4 cm |
 
-An exquisitely crafted miniature wand and an exceedingly rare item. To Ori, who made it, it was
-nothing more than an ordinary toy for his pet, but its construction is remarkably elaborate: a 1.1x
-amplification ratio, a backlash-prevention mechanism, customization for a particular type of magic,
-and a pale, unfinished wooden handle. Tsubaki accidentally reduced the first miniature wand to ashes,
-so this replacement is carefully hidden among the ashes inside the nest. Its owner, Tsubaki, proudly
-had this to say about the wand: "Mimimi. Mii-mi, mimimimimmimimi. Mimimimimi, mimii-mimi!"
+An exquisitely detailed miniature wand, and a rare sight indeed. To Ori, who made it, it is just a little toy he gave his pet, but the craftsmanship is remarkably elaborate: a 1.1x amplification ratio, a backlash-prevention mechanism, magic-school customization, a whitewood handle, and more. Tsubaki accidentally burned its first miniature wand to ash, so it keeps this new one carefully hidden in the ashes of its nest. Tsubaki, its owner, proudly had this to say about the wand: "Mimimi. Mii-mi, mimimimimmimimi. Mimimimimi, mimii-mimi!"
 
 ### Witch of Arachne
 
@@ -223,13 +181,7 @@ had this to say about the wand: "Mimimi. Mii-mi, mimimimimmimimi. Mimimimimi, mi
 | Core material | magic stone (the Spider Witch's magic stone), 66 mm in diameter, bellflower purple |
 | Length | 110 cm |
 
-The fourteenth work by Ori Kenshi, the Wand Maker. The magic stone used for its core originally
-belonged to the Lake Biwa Pact. It was seized by the Arataki Group, then recovered by the Spider
-Witch amid the confusion when the Tobacco Witch defeated one of the Arataki Group's witches,
-whereupon it became hers. There was some friction over its ownership, but the Spider Witch managed to
-smooth things over. Hastily assembled from whatever materials were at hand, the wand is designed to
-slot securely into a holder on her leg. Although it was made at breakneck speed, the work of such an
-exceptional Wand Maker still performs far better than any old wand.
+The fourteenth work by the Wand Maker Ori Kenshi. The magic stone in its core originally belonged to the Lake Biwa Pact. The Arataki Group stole it, and when the Tobacco Witch defeated the Arataki Group's witch, the Spider Witch grabbed it in the confusion and made it hers. There was some wrangling over who owned it, but the Spider Witch managed to smooth things over. Thrown together from whatever materials were at hand, the wand slots into a holder on her leg to stay in place. It may have been a rush job, but as the work of a once-in-a-generation Wand Maker, it performs far better than your average wand.
 
 ### Robe Made Exclusively for the Blue Witch
 
@@ -237,17 +189,9 @@ exceptional Wand Maker still performs far better than any old wand.
 |-|-|
 | Owner | the Blue Witch |
 | Made | August 14, 2029 |
-| Materials | witch's spider silk, alraune fiber from pale, unfinished wood, specially treated steel sheep wool |
+| Materials | witch's spider silk, alraune whitewood fiber, specially treated steel sheep wool |
 
-The warp combines the Spider Witch's spider silk with fiber from Fuyo's pale, unfinished wood,
-twisted together. The weft consists of steel sheep wool soaked for seven days and seven nights in
-molten Gremlin, allowing the Gremlin's components to permeate it. The robe is tailored from a magical
-cloth painstakingly woven from these special warp and weft threads, giving it high resistance to
-heat, physical damage, and magic. It is difficult to stain or crease, lightweight, and resistant to
-fading. A Transcendent's body is extraordinarily tough, making ordinary armor pointless: bare skin is
-stronger, and armor does little but add weight. Although the protection offered by this custom-made
-robe may amount to little more than peace of mind, it nevertheless possesses enough protective power
-to genuinely shield the Blue Witch.
+The warp is the Spider Witch's spider silk twisted together with Fuyo's whitewood fiber. The weft is steel sheep wool steeped in molten Gremlin for seven days and seven nights, allowing the Gremlin's components to soak into the wool. Tailored from magical cloth painstakingly woven from these special threads, the robe is highly resistant to heat, physical damage, and magic. It is light, hard to stain or crease, and slow to fade. A Transcendent's body is so extraordinarily tough that ordinary armor is pointless: bare skin is stronger, and armor only adds weight. The protection this robe offers may be little more than peace of mind, but it really does perform well enough to shield the Blue Witch.
 
 ## Volume 4 Chapter Commentary
 
@@ -255,63 +199,47 @@ to genuinely shield the Blue Witch.
 
 ### 01 — Illness and Recovery
 
-A sudden case of appendicitis. The protagonist nearly died without warning. Life-threatening crises
-that have nothing to do with magic or witches still happen, of course. Ever since the Gremlin
-Disaster, magical threats have continued to endanger humanity. But they didn't replace the old
-threats. They merely piled new ones on top.
+Sudden appendicitis. The protagonist nearly died out of nowhere. Of course, life-threatening crises that have nothing to do with magic or witches still come along. Ever since the Gremlin Disaster, magical threats have kept endangering humanity, but they didn't replace the old threats. They just piled new ones on top.
 
-The new era has so many ways to die. It brings a tear to the eye.
+The new era offers a rich selection of ways to die. It's enough to make you cry.
 
 ### 02 — The Flower Witch's Child, Fuyo
 
 This came up in the Volume 2 special-edition booklet too, but the author loves building bases.
 
-With Fuyo joining the team, Okutama's security level went up another notch!
+With Fuyo on board, security at the Okutama base went up another notch!
 
-The secluded paradise of Okutama is now protected by the three elements of water, fire, and grass.
-Probably no weaknesses there.
+Guarded by the three elements of ice, fire, and grass, the secluded paradise of Okutama probably has no openings left.
 
 ### 03 — Savoring Peace
 
-After overcoming so many painful days, the ordinary ones are what truly matter.
+It's because they've come through such hard times that ordinary, everyday life feels so precious.
 
 If only these peaceful days could last forever.
 
 ### 04 — Take Down the Most Troublesome Enemy First
 
-Foresight magic is reassuring for your allies and far too troublesome for your enemies. Naturally,
-it gets taken out first.
+Foresight magic is a comfort to your allies and way too much of a nuisance to your enemies, so naturally it gets taken out first.
 
-Things get ugly when Foresight is crushed. They did. But without Foresight, they would have gotten
-much, much uglier.
+Take out Foresight and things get ugly. And they did. But without Foresight, they would have gotten much, much uglier.
 
 ### 05 — Favorite Treasure Announcement Dragon
 
-Zaizen pretended to betray the Dragon Witch and sit the fight out, all while watching for a chance
-to interfere in the battle between the witches. The Dragon Witch genuinely believed her deputy had
-betrayed her, so she was bound to give a convincing reaction. After seeing that unguarded response,
-the Arataki Group witch would have a hard time suspecting Zaizen's true intentions.
+Zaizen pretended to betray the Dragon Witch and sit on the fence, all while biding his time for a chance to butt into the fight between the witches. The Dragon Witch would truly believe her deputy had betrayed her, so she was bound to react convincingly, and once the Arataki Group witch saw that genuine reaction, she would have a hard time doubting Zaizen's real intentions.
 
-Sure enough, Kiwada dropped her guard around Zaizen's group, and their interference worked
-perfectly.
+Sure enough, Kiwada dropped her guard around Zaizen's group, and their interference worked perfectly.
 
-Only after the fight was settled did the Dragon Witch realize Zaizen had merely pretended to betray
-her. Zaizen knew she really had thought her deputy had turned on her and was now saying something
-convenient after the fact. But he tactfully kept quiet and helped her save face.
+Only after the fight was over did the Dragon Witch realize Zaizen had merely been pretending, but she acted as if she had known all along. Zaizen knew perfectly well that she had truly believed he'd turned on her and was only saying what suited her after the fact. But he didn't bother pointing that out; he let her save face and played along.
 
-The Dragon Witch relaxed. "That was close. I almost let it slip that I really thought Zaizen had
-betrayed me. Zaizen is useful. He may continue to serve me well."
+The Dragon Witch was relieved. "That was close. I almost got caught really believing Zaizen had betrayed me." Zaizen is a useful one. Carry on as you see fit.
 
 ### 06 — Magic University Conflict
 
-The Arataki Group was a pack of scum, but unfortunately they were scum strong enough to scatter a
-group of human mages. One person blowing away an entire group—that was a Transcendent for you. There
-was no beating that.
+The Arataki Group was a pack of scum, but the trouble was, they were scum strong enough to scatter a whole corps of human wizards. One person blowing away an entire group: a true one-man army. There was no beating that.
 
-This set up the structure of the Blue Witch scattering the Arataki Group after they scattered Magic
-University's proud force of mages.
+It was all setup for the Blue Witch to scatter the Arataki Group that had scattered the university's pride-and-joy magic corps.
 
-It also gave more depth to Associate Professor Nanase, who had only a minor role in the web version.
+I also worked in more depth for Associate Professor Nanase, who only had a bit part in the web version.
 
 ![s-p017.jpg](images/s-p017.jpg)
 
@@ -319,101 +247,79 @@ It also gave more depth to Associate Professor Nanase, who had only a minor role
 
 The Arataki Group's invasion took control of the heart of Tokyo.
 
-But hope for overturning the situation definitely remained.
+Still, there was definitely hope of turning things around.
 
-Even when he wasn't present, simply mentioning Ori Kenshi gave people the hopeful feeling that
-things might somehow be all right. That's the aura of a protagonist for you. He's an irregularity
-wearing clothes and walking around.
+Ori Kenshi didn't even have to be there; just hearing his name come up gave people hope that "maybe it'll be okay somehow." That's the aura of a protagonist for you. He's a walking irregularity.
 
 ### 08 — Spider Witch
 
-The Spider Witch's mutation awakened an urge to eat people. What set her apart from the Hell Witch
-was that she couldn't come to terms with the conflict between that urge and reality. Unable to
-accept what she had become, she kept suffering.
+Her mutation awakened the Spider Witch to an urge to eat people. Unlike the Hell Witch, she couldn't find a compromise between that urge and reality. She couldn't accept what she had become, and she kept suffering.
 
-The author didn't want the Transcendents to be nothing more than people going, "I awakened to
-superpowers in a world transformed beyond recognition! Hell yeah!" The powers they gained differed,
-and so did how they took and accepted them. The Spider Witch is a character who bears the full
-burden of the karma brought by mutation.
+The author doesn't want the Transcendents to be nothing more than people going, "I awakened to superpowers in a world transformed beyond recognition! Hell yeah!" What kind of power they get, and how they take it and come to terms with it, differs from person to person. The Spider Witch is a character built to shoulder the full karma of mutation alone.
 
 ### 09 — The Spider's Thread
 
 A single thread of salvation hanging down into desperate circumstances.
 
-Ori couldn't solve problems alone. He was a support specialist. He created a powerful engine that
-let the people whose hands he placed power into make the most of it.
+Ori couldn't solve anything on his own; he was a behind-the-scenes craftsman. But he could build the powerful engines that set big things in motion.
 
 ### 10 — The Gremlin Engineering Professor's Final Paper
 
 Settling the karma. Sins don't disappear. Neither do good deeds.
 
-Foresight's line, "Sensei, Professor... tell him not to die. Magic University. Stay alive. It's okay.
-I'll save him. I'll definitely save him," referred not to Professor Ohinata but to Professor Handa.
-He saw the moment of Handa's death, but couldn't give concrete enough instructions to change that
-future.
+Foresight's line, "Sensei, Professor... tell them, don't die. University. Live. It's okay. I'll save you. I'll save you, no matter what," was about Professor Handa, not Professor Ohinata. He foresaw the death, but couldn't get as far as giving concrete instructions to change that future.
 
 ### 11 — The Strongest Witch
 
-The Blue Witch's first full-scale battle after being called strong again and again.
+The Blue Witch's first full-scale battle, after all that talk about how strong she was.
 
-Not one word of that advance praise was exaggerated. She really was strong.
+The hype was no lie. She really was strong.
 
-The Blue Witch gave her enemies death by the shortest, fastest, most efficient route. In exchange
-for being weak at long range, she was the strongest at close and medium range. Her excellent
-moment-to-moment judgment also made her skilled at building the flow of a battle.
+The Blue Witch delivered death to her enemies by the shortest, fastest, most efficient route. The trade-off for her strength at long range was that she was the strongest there was at close and medium range, and the price of her superb split-second judgment was a real talent for structuring a fight.
 
 ### 12 — Hunting Down the Remnants
 
-Murakumo Kariya, a popular character from the web version, returned.
+Murakumo Kariya, a fan favorite from the web version, made his return.
 
-<ruby>Iwatsura<rt>Rabbit</rt></ruby> was pregnant, so Murakumo had come all the way to Tokyo as a caravan guard to buy a
-congratulatory gift. Worried it might seem creepy if a man who wasn't even a relative sent one
-personally, he planned to put the caravan members' names on it too.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby> was pregnant, so Murakumo had come all the way to Tokyo, working as a caravan guard on the side, to buy her a congratulatory gift. Worried it might come off as creepy for a man who wasn't even family to send one personally, he planned to give it jointly with his caravan comrades.
 
-Murakumo's hunter's instinct caught a foul smell from Arataki Kotaro. Kotaro gave off the same air
-as a vicious beast that lay low, pretended to be harmless, and watched its prey hungrily.
+Murakumo's hunter's instinct caught a foul stench on Arataki Kotaro: the same air as a vicious beast lying low, playing harmless, and eyeing its prey, waiting for its chance.
 
-Murakumo never learned that he had neatly plucked out the seed of a future catastrophe. The Arataki
-Group's dangerous adviser died unnoticed as a nobody and was forgotten.
+Murakumo never realized that he had neatly nipped a future catastrophe in the bud. The Arataki Group's dangerous strategist died unnoticed, a nobody, and was forgotten.
 
 ### 13 — Be Still
 
-The Blue Witch disciplined a noncombatant who had casually wandered onto a battlefield without
-permission.
+Some discipline for a noncombatant who blithely wandered onto the battlefield on his own.
 
-The result turned out all right, but as punishment for Ori's poor awareness of danger, the Blue
-Witch's emotions were shaken to pieces.
+It all worked out in the end, but as punishment for Ori acting with so little sense of danger, I gave the Blue Witch's emotions a thorough rattling.
 
 ![s-p018.jpg](images/s-p018.jpg)
 
 ### 14 — Ori Kenshi and the Ten Stones
 
-There is a famous master Wand Maker named Ollivander. Ollivander, Ori, Handa... No, there's no
-particular connection. Ha ha ha.
+In wand-making circles, there's a famous master craftsman named Ollivander. Ollivander, Ori, Handa... No, no, there's no particular connection or anything. Ha ha ha.
 
 ### 15 — Magnetic-Field-Change Reverse-Playback Magic-Power Training Method
 
 At long last, a way to raise MP was unlocked. That took forever.
 
-Conversely, being unable to raise MP at all until now was rough. As the author, I had to manage the
-story's rate of power inflation... I was reluctant to unlock a technology that would accelerate it...
+Then again, having no way at all to raise MP until now was rough. As the author, I have to keep the story's power inflation in check, you see... so I drag my feet on unlocking any tech that speeds it up...
 
 ### 16 — Sage's Wand
 
-The rule is that yoga and meditation improve your magical stats.
+Everyone knows yoga and meditation raise your magic stats.
 
-I hear yoga lets you breathe fire, so meditation should increase your magic power.
+I hear yoga lets you breathe fire, so meditation should make your magic power grow too.
 
-Meditating with a wand certainly looks like you're training your magic power.
+Meditating with a wand in hand sure looks like magic-power training.
 
 ### 17 — Side Story - Magic Architect
 
-The segment where the world is drawn from all sorts of angles. This time, the construction industry!
+It's the "Let's Show the World from All Sorts of Angles" corner. This time, the construction industry!
 
-I interviewed a professional carpenter for it.
+I interviewed a professional carpenter to write it.
 
-If this magical-construction skill tree keeps developing, it will probably produce things like the
-noncombatant safe rooms and recovery points you see in games.
+If this magic-architecture skill tree keeps growing, it'll probably end up producing things like the no-combat safe rooms and recovery points you always see in games.
 
 ---
 
@@ -425,40 +331,27 @@ noncombatant safe rooms and recovery points you see in games.
 
 Keeping ordinary animals as pets was not recommended in this era.
 
-Anyone who continued raising an existing pet or acquired a new one was required to have its blood
-tested for the potential to mutate into a monster.
+Anyone who kept an existing pet or got a new one was required to have its blood tested for any latent potential to mutate into a monster.
 
-Even a pet with no potential for monster mutation could have offspring that did, so newborn animals
-still had to undergo blood testing.
+Even a pet with no such potential could have offspring that did, so any newborn animals still had to be blood-tested.
 
-If the test came back positive, the animal could be put down or confiscated, depending on the
-district. There were rare cases in which owners concealed the result and kept the animal, only for
-it to mutate suddenly one day and kill them.
+A positive result could get the animal put down or confiscated, depending on the district. Now and then, an owner hid a positive result and kept the pet, until one day it suddenly mutated and killed them.
 
-The Department of Mutation Studies researched ways to prevent mutation in animals that tested
-positive or return them to normal. The Department of Monster Studies helped popularize magic beasts
-that had already mutated and could not mutate any further.
+The Department of Mutation Studies researched ways to keep pets that tested positive from mutating or to turn them back to normal, while the Department of Monster Studies helped popularize magic beasts that had already mutated and could not mutate any further.
 
-No one wanted to part with a pet. If that could be avoided, all the better.
+No one wanted to part with their pet. If they didn't have to, so much the better.
 
 ### Pre-Disaster Brand-Name Foods
 
-Brand-name rice and wagyu often weren't as delicious as products bearing the same names before the
-disaster. Crossbreeding, the loss of breeding expertise, shortages of feed and fertilizer, and the
-spread of new diseases and pests made it impossible to guarantee the old quality.
+Brand-name rice and wagyu often weren't as delicious as they had been before the disaster, even under the same names. Crossbreeding, the loss of breeding expertise, shortages of feed and fertilizer, and the spread of new diseases and pests meant the old quality could no longer be guaranteed.
 
-Some foods became more delicious instead. For example, the ichthyotoxin in eel blood was effective
-against most aquatic monsters. Eels avoided being eaten, and their population was rebounding
-sharply. Some of the creatures eels liked to eat had also become monsters, and new savory compounds
-from those creatures accumulated in the eels. Eels, already delicious, became even tastier.
+Some foods got more delicious instead. Take eels: the ichthyotoxin in their blood worked on most aquatic monsters too, so eels escaped being eaten, and their numbers were making a V-shaped recovery. On top of that, some of the things eels liked to eat had turned into monsters, and those monsters' new savory compounds built up in the eels. Eels had been delicious to begin with, and now they were even better.
 
 ### Standard Clairvoyance-Magic Incantation
 
 The bypass incantation was:
 
-> "<ruby>Yaya Kunnu-mu Gu-ratsugu Oon Kapaja<rt>Crushing both eyes does not make it false</rt></ruby>;
-> <ruby>Furahito Iyatsu![gaiji-0003.png](images/gaiji-0003.png) Zorisonnu-mu Kaka<rt>do you think
-> that makes what shines like the sun invisible</rt></ruby>?"
+> "<ruby>Yaya Kunnu-mu Gu-ratsugu Oon Kapaja<rt>Crushing both eyes does not make it false</rt></ruby>; <ruby>Furahito Iyatsu![gaiji-0003.png](images/gaiji-0003.png) Zorisonnu-mu Kaka<rt>do you think that makes what shines like the sun invisible</rt></ruby>?"
 
 The original incantation was:
 
@@ -468,171 +361,123 @@ The original incantation was:
 
 The bypass incantation was:
 
-> "<ruby>De-nitsu Fuetosu Iento-dotsuto Hia-zui<rt>The blood pact brought about an evil
-> revolution</rt></ruby>."
+> "<ruby>De-nitsu Fuetosu Iento-dotsuto Hia-zui<rt>The blood pact brought about an evil revolution</rt></ruby>."
 
 The original incantation was:
 
 > "The blood pact was broken."
 
-This was bloodsucking magic. The caster consumed their own blood to create a swarm of bats made of
-blood and sent them to attack the enemy. The Bloodsucking Mage, the spell's original user, could
-call the bats back after they had sucked blood and replenish what he had lost.
+A bloodsucking-type spell in which the caster spent their own blood to send a swarm of bats made of blood against the enemy. The Bloodsucking Mage, the spell's original user, could let the bats drink their fill and then call them back to replenish the blood he had lost.
 
 ### The Flower Witch's Letters
 
 There were two letters: one to Ori and one to the Blue Witch.
 
-The letter to the Blue Witch explained a reliable way to get Ori to agree to a date. In exchange,
-the Blue Witch was to approve Fuyo's move to Okutama from her own position as well.
+The letter to the Blue Witch explained a surefire way to get Ori to say yes to a date. In exchange, the Blue Witch was to give her own approval to Fuyo's move to Okutama as well.
 
 ![s-p020.jpg](images/s-p020.jpg)
 
-Ori fell neatly for a basic negotiation technique—the door-in-the-face method—and agreed to play in
-the river with the Blue Witch.
+Sure enough, Ori fell right for a basic negotiation trick—the door-in-the-face technique—and agreed to go play in the river with the Blue Witch.
 
 ### Fuyo and the Fire Salamander's Quarrel
 
-Fuyo had never hated the fire salamander as much as her words suggested. She wanted to establish
-that she ranked above it, then become friends.
+Fuyo had never hated the fire salamander as much as her words suggested. She just wanted to make it clear that she ranked above it, and then be friends.
 
-The fire salamander genuinely intended to beat Fuyo, but it somehow understood that this wasn't a
-fight to the death. It was only a ranking battle to decide which of them was number two after Ori.
+The fire salamander fully meant to beat Fuyo, but it sort of understood that this wasn't a fight to the death, only a ranking battle to settle which of them was number two after Ori.
 
-Their relationship might have improved if left alone. But as the Blue Witch said, it could just as
-easily have gone badly. Ori's mediation contributed enormously to their reconciliation, and ever
-since, Fuyo and the fire salamander had developed a friendship of equals.
+Left alone, their relationship might have improved on its own. But as the Blue Witch said, there was every chance it would have soured instead. Ori's mediation did a great deal to reconcile them, and ever since, Fuyo and the fire salamander had been building a friendship as equals.
 
 ### Gremlin Sublimation-Refining Method
 
-A method for processing natural Gremlin into Gremlin of higher purity. It could improve the quality
-of melt-recast Gremlin. Processing was expensive, but the technique was indispensable when seeking
-greater performance or carrying out more advanced research.
+A technique for processing natural Gremlin into Gremlin of higher purity, which could also improve the quality of melt-recast Gremlin. Processing was expensive, but anyone chasing higher performance or more advanced research couldn't do without it.
 
 ### Type 3 Amulet
 
-A new amulet improved through the Gremlin sublimation-refining method. Its
-magic-power-recovery acceleration efficiency was 8 percent. Handa Sakunosuke used his talent to the
-full and improved amulets at tremendous speed. His death drastically slowed progress in the field.
+A new model of amulet, improved using the Gremlin sublimation-refining method. Its magic-power-recovery acceleration efficiency was 8 percent. Handa Sakunosuke had been putting his talent to full use and improving amulets at breakneck speed, and his death slowed research in the field to a crawl.
 
 ### Futures Prevented by the Foresight Mage
 
 #### 1. Birth of a Murder Cult
 
-A cult leader would have founded a murderous religion with one hundred thousand members. Its
-doctrine held that killing living creatures granted experience points, and accumulating experience
-points led to leveling up and becoming a Transcendent. The Foresight Mage prevented it by having the
-man who would become the founder assassinated.
+In this future, a cult leader would have built a murder cult one hundred thousand strong around the doctrine that "killing living things earns you experience points, and if you save up enough experience points, you level up and become a Transcendent." The Foresight Mage prevented it by assassinating the man who would have become its founder.
 
 #### 2. War Between Estranged Witches
 
-The Setagaya Witch would have begun putting pressure on the Northern Witch. Furious over the
-bullying of his daughter, the Northern Witch's father would have led the Kita Ward Guard to protest,
-only for the Setagaya Witch to kill them and start a war. The Foresight Mage prevented it by using
-the Eyeball Witch as an intermediary to reconcile the two witches.
+The Setagaya Witch would have started leaning on the Northern Witch. The Northern Witch's father, livid at his daughter being bullied, would have led the Kita Ward Guard to protest, the Setagaya Witch would have disposed of them, and the two sides would have gone to war. The Foresight Mage prevented it by working through the Eyeball Witch to bring the two witches closer.
 
 #### 3. Formation of Class A Monster Colonies
 
-Class A monsters would have fed on the group of monsters that had eaten every human in Saitama City
-and formed several colonies. Groups of Class A monsters would then have entered Tokyo regularly in
-search of food, overwhelming its ability to respond and killing several witches. The Foresight Mage
-prevented it by killing the individuals that would have become the core of the colonies while there
-was still time.
+Class A monsters would have fed on the horde that had eaten every human in Saitama City and formed several colonies. Packs of them would then have raided Tokyo for food on a regular basis, overwhelming the city's ability to respond and costing several witches their lives. The Foresight Mage prevented it by killing the individuals that would have founded the colonies while they were still weak.
 
 ![s-p021.jpg](images/s-p021.jpg)
 
 #### 4. The Pebble Witch's Golems Becoming Autonomous
 
-If the Pebble Witch obtained a magic stone, she would crush it into thousands of fragments and use
-each as the core of a high-performance golem. Those golems would rebel, starting a war between
-humanity and golems. The Foresight Mage prevented it by ensuring that no magic stone reached her.
+If the Pebble Witch obtained a magic stone, she would crush it into thousands of fragments and use each as the core of a high-performance golem. Those golems would rebel, starting a war between humanity and golems. The Foresight Mage prevented it by ensuring that no magic stone reached her.
 
 ### The Spider Witch's Decoy
 
-A Spider Witch puppet made from a mysterious material. This decoy made anyone who saw it mistake it
-for the person closest or dearest to them, making it ideal for deceiving humans.
+The Spider Witch's puppet, made from a mysterious material. Anyone who saw the decoy mistook it for the person closest or dearest to them, which made it perfect for fooling humans.
 
-When the Spider Witch used reinforcement magic, suspended-animation magic, or another spell that
-acted on herself, the entire effect went to the decoy. It was extremely sturdy. If it broke, she
-stored it in an organ in her abdomen, where it regenerated slowly.
+When the Spider Witch used enhancement magic, suspended-animation magic, or any other spell that acted on herself, the whole effect went to the decoy. It was quite sturdy, and if it did break, she tucked it into a storage organ in her abdomen, where it slowly regenerated.
 
-The Spider Witch used a biological function meant to help a man-eating monster trick and devour
-humans to rescue and protect them instead.
+It was a biological function meant for a man-eating monster to trick and devour humans, and the Spider Witch used it to rescue and protect them instead.
 
 ### Distribution of Magic Drugs in Tokyo
 
-Every magic drug the Arataki Group tried to put into circulation behind the scenes before its
-invasion of Tokyo was recovered by <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>, a
-black-market organization based in Suginami Ward. None reached the public.
+Every magic drug the Arataki Group tried to put into circulation behind the scenes before its invasion of Tokyo was recovered by <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>, a black-market organization based in Suginami Ward, which kept them from ever reaching the surface.
 
-<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> quietly worked up a sweat in the shadows of rebuilding society. The more prosperous
-the surface became, the sweeter the juice it could suck from underneath. The Arataki Group's rule,
-which would have devastated both sides, was not in <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>'s interest. A parasite wanted its
-host healthy and fat.
+<ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> sucked the sweet juice from the underside of a society that was rebuilding itself. The more the surface prospered, the sweeter the juice it could suck from below. Arataki Group rule, which would have laid waste to surface and underside alike, was the last thing <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> wanted. A parasite wanted its host healthy and fat.
 
 ### Kurihara
 
-An Arataki Group witch assigned to monitor the Blue Witch.
+An Arataki Group witch who kept watch on the Blue Witch's movements.
 
-Formerly with the Lake Biwa Pact, she guided the Arataki Group in and then defected to it. She hid
-her magic power perfectly and stayed out of sight where she could never be found, yet a sudden
-three-pronged-spear spell fired by the Blue Witch killed her before she had time to react. Her
-hobbies were baking sweets, knitting, and bullying newcomers.
+She had belonged to the Lake Biwa Pact, but after guiding the Arataki Group in, she went over to its side. She hid her magic power perfectly and stayed where no one could ever find her, yet the Blue Witch sniped her out of nowhere with trident magic, and she died before she could so much as gasp. Her hobbies were baking sweets, knitting, and bullying newcomers.
 
 ### Samejima
 
 The Arataki Group's Young Boss, who rampaged through Magic University. A skinhead mage.
 
-He used earth magic. He could open fissures, build earthworks in an instant, and make quicksand,
-making him suited to ground combat. His hobbies were visiting hot springs, camping, and purges.
+An earth-magic user who could split the ground open, throw up earthworks in an instant, and create quicksand, which suited him to ground combat. His hobbies were visiting hot springs, camping, and purges.
 
 ### Yagyu
 
 The Arataki Group's Junior Boss, assigned to watch Professor Ohinata. A bat-faced mage.
 
-His ability to sense magic power was exceptionally sharp, and he excelled at evasion. His hobbies
-were reading, coffee, and sexually abusing preschool children.
+His magic-power perception was exceptionally sharp, and he was good at evasion. His hobbies were reading, coffee, and sexually abusing preschool children.
 
 ### Tatewaki
 
-A red-haired Arataki Group witch who guarded the user of runaway magic.
+A red-haired Arataki Group witch who guarded the user of the magic-rampage spell.
 
-Her many powerful defensive spells had saved Arataki Group members time and again. Her hobbies were
-the violin, karaoke, and listening to screams.
+Her many powerful defensive spells had saved Arataki Group members time and again. Her hobbies were the violin, karaoke, and listening to screams.
 
 ![s-p022.jpg](images/s-p022.jpg)
 
 ### Ashiya
 
-An Arataki Group witch who used runaway magic.
+An Arataki Group witch who used the magic-rampage spell.
 
-Runaway magic was difficult to control. Anyone but Ashiya, its original user, would explode into
-pieces from their own out-of-control magic power if they handled it carelessly. That made her highly
-valued within the group. Her hobbies were nail art, hairstyling, and playing with corpses.
+The spell was hard to control: if anyone but Ashiya, its original user, used it carelessly, their own magic power would run wild and blow them to pieces, so the group valued her highly. Her hobbies were nail art, hairstyling, and playing with corpses.
 
 ### Ikaruga
 
 An Arataki Group mage who attacked the Flower Witch's administrative district.
 
-Even with a magic stone, Ikaruga was dragged into a battle of attrition by the Flower Witch and
-couldn't break through. Then a dragon appeared overhead and fired down a vicious area attack,
-killing Ikaruga instantly. Their hobbies were saunas, strength training, and torture.
+Even with a magic stone, Ikaruga couldn't break through once the Flower Witch dragged the fight into a battle of attrition. Then a dragon swooped in overhead and rained down a vicious area attack that killed Ikaruga instantly. Their hobbies were saunas, strength training, and torture.
 
 ### Shishido
 
 An Arataki Group mage who captured the Chofu Witch alive.
 
-While transporting her, Shishido took a detour to loot a liquor store. They were frozen to death
-along with the entire building containing it. Their hobbies were listening to music, surfing, and
-domestic violence.
+While escorting her, Shishido stopped off to loot a liquor store and froze to death along with the whole building it was in. Their hobbies were listening to music, surfing, and domestic violence.
 
 ### Hayami
 
 An Arataki Group witch who attacked Bunkyo Ward Office and was killed by the Tobacco Witch.
 
-She had more magic power and greater physical ability, but was toyed with by an unorthodox strategy
-and fell victim to a trick that only worked once. Her hobbies were board games, making accessories,
-and murder.
+She beat the Tobacco Witch in both magic power and physical ability, but an unorthodox strategy ran her ragged, and she fell for a trick that only worked on someone seeing it for the first time. Her hobbies were board games, making accessories, and murder.
 
 ---
 
@@ -640,150 +485,107 @@ and murder.
 
 ![s-p023.jpg](images/s-p023.jpg)
 
-Since the Arataki Group's recent assault, the roles of both mage units and security guards had been
-reevaluated.
+Since the Arataki Group's recent assault, the roles of both wizard units and security forces had been under review.
 
-It had once again become clear that security guards could not defeat Transcendents. On the other
-hand, they could play a supporting role when a Transcendent fought a hostile Transcendent.
+The assault had confirmed once again that security forces could not defeat Transcendents, but it had also shown that they could play a supporting role when a Transcendent took down a hostile one.
 
-Security guards from every district therefore gathered at the Katsushika Ward training ground for
-joint exercises, further training, and an exchange of techniques. This was also important for
-improving their response to the Class A monster incidents expected to grow more intense.
+So the security forces of every district gathered at the Katsushika Ward training grounds to sharpen their skills and trade techniques through joint exercises and the like. This mattered all the more for improving their response to Class A monster anomalies, which were predicted to grow ever more intense.
 
-The joint exercise took the form of mock combat against golems summoned by the Pebble Witch. The
-Witches' Council had pressured her to work for once after she did absolutely nothing during the
-Arataki Group's assault.
+The joint exercise took the form of mock battles against golems summoned by the Pebble Witch. She had lifted not a finger during the Arataki Group's assault, so the Witches' Council had pressured her (to do some work for once).
 
-The evaluations below were calculated from the number of golems destroyed, the number of personnel
-judged unable to continue fighting, total magic power, mobility, and other criteria.
+Below are the evaluations of each ward's security force (or equivalent organization), calculated from the number of golems destroyed, the number of personnel ruled unable to fight, total magic power, mobility, and other criteria.
 
 ### Kita Ward Guard — 95 points
 
-The Kita Ward Guard had received strict instruction from a former member of the SDF special forces.
-It had high morale and demonstrated training far beyond the other units.
+Drilled hard by a former SDF special forces member, the Kita Ward Guard had high morale and showed training far beyond the other units.
 
-It excelled in every respect: area suppression with magical barrages, magical sniping, rapidly
-constructed defensive lines, decisions to retreat, and silent messengers relying on hand-sign
-relays. Its combat-support personnel for the Northern Witch were highly experienced as well.
+It excelled in every respect: area suppression with magic barrages, magic sniping, improvised defensive lines, judging when to retreat, and silent messaging by hand-signal relay. It was also well practiced at giving the Northern Witch combat support.
 
 ### Dragon Ward Guard — 84 points
 
-The Dragon Witch had dragged these guards all over Japan on treasure-hunting trips, giving them
-extensive combat experience. They had seen nearly every accident that could happen in a fight and
-showed excellent speed and adaptability.
+The Dragon Witch had dragged these guards to every corner of Japan on treasure hunts, so they had plenty of combat experience. They had already seen nearly every mishap a fight could throw at them, and they showed excellent speed and adaptability.
 
-Out of habit, they tried to collect the large Gremlin cores from the golems they defeated. Other
-golems attacked while they were distracted, causing casualties.
+Out of habit, they tried to collect the large Gremlin cores of the golems they defeated, and took losses when other golems attacked while they were busy.
 
-"That was the correct answer. Battles are fought for treasure." —The Dragon Witch
+"That's the right answer. You fight for treasure." —The Dragon Witch
 
 ### Bunkyo Ward Guard — 80 points
 
-It followed a policy of finishing off enemies it could defeat with certainty. When it encountered
-an enemy it might not beat, or one whose identity was unknown, it immediately withdrew, passed the
-information to a Transcendent, and handed the situation over.
+Its policy was to make sure it killed every enemy it could be sure of killing. Whenever it ran into an enemy it might not beat, or one it couldn't identify, it withdrew at once without exception, passing the information to a Transcendent and handing the fight over.
 
-Perhaps because the unit normally assumed it would have the Foresight Mage's command and protection,
-its solo performance fell short of its catalog specifications.
+Perhaps because the unit was built on the assumption of the Foresight Mage's command and protection, it fell short of its catalog specs when fighting alone.
 
 ![s-p024.jpg](images/s-p024.jpg)
 
 ### Nerima Ward Initial Response Team — 77 points
 
-It specialized in steady, reliable combat. Though its fights took quite a long time, it was the only
-district unit to finish the exercise with zero personnel ruled unable to fight, including anyone
-who fainted from magic depletion.
+It specialized in steady, reliable combat. Its fights took quite a long time, but it was the only district unit to finish the exercise with zero personnel ruled unable to fight, magic-power-depletion fainting included.
 
 ### Suginami Ward Armed Police — 77 points
 
-It knew the characteristics of the Pebble Witch's golems inside and out and fought them skillfully.
+It knew the Pebble Witch's golems inside and out and handled them skillfully.
 
-Its score would likely have been lower against something other than golems, but even if the opponent
-had been a monster, it probably would not have fallen below 70.
+Its score would probably drop against anything other than golems, but even against monsters, it likely wouldn't fall below 70.
 
 ### Shinagawa Ward Guard — 76 points
 
-A change in witches had forced the organization to restructure. One large wave of new hiring and
-reassignments had reduced its training below its peak. The unit excelled at fire-attack tactics.
+When the district's witch changed, the guard was reorganized, and a large wave of new hires and reassignments had left its training short of its peak. The unit excelled at fire-attack tactics.
 
 ### Minato Ward Defense Unit — 75 points
 
-It instantly killed the strongest individual golem with a ritual death curse, then surrendered
-immediately afterward.
+It killed the strongest golem instantly with a ritual incantation of death-curse magic, then surrendered right afterward.
 
-In one sense, it had the strongest attack power of any security unit, but it lacked the ability to
-keep fighting.
+In a sense, it had the strongest attack power of any security force, but it had no staying power.
 
 ### Eyeball Ward Self-Defense Police — 70 points
 
 It had more personnel than any other district unit.
 
-The exercise revealed no problems communicating orders up and down the organization, but exposed
-poor communication across it. Operational planning and decision-making took a long time. Once a
-decision had been made, however, combat operations proceeded smoothly.
+The exercise showed that communication up and down the chain of command worked fine, but communication across it was poor. Planning operations and reaching decisions took a long time, though once a decision was made, combat operations went smoothly.
 
 ### Night Ward Combat Team — 69 points
 
-It was weak at night fighting. The Night Witch handled night combat completely, so the team itself
-had almost no experience with it. Its members operated in two-person cells, and any enemy a pair
-could not handle was considered a matter for the witch.
+It was weak at night fighting. The Night Witch took care of all night combat, so the team itself had almost no experience with it. Its members operated in two-person cells, and any enemy a pair couldn't handle was a job for the witch.
 
 ### Chofu Ward Defense Team — 63 points
 
-Its fighting emphasized repelling over destroying, and driving away over killing. The scoring rules
-for this exercise valued destruction, so the low score was partly a problem with the rules.
+It fought to repel rather than destroy, to drive enemies off rather than kill them. This exercise's scoring rated "destroyed" highly, so the rules held its score down.
 
 ### Mitaka Ward Vigilance Group — 50 points
 
-It had the lowest average magic power of any district unit and a wide variety of tactics that did
-not depend on incantation magic.
+It had the lowest average magic power of any district unit, but a wide variety of tactics that didn't rely on incantation magic.
 
-Because the Three-Pronged Witch did not permit it to use expensive consumable weapons made from
-monster materials in the exercise, its tactics were limited, leading to this score. It had extensive
-practical experience operating turret balsam.
+The Mitaka Witch wouldn't authorize expensive consumable weapons made from monster materials for the exercise, so its tactics were limited, and it ended up with this score. It had a wealth of know-how on deploying turret balsam in real combat.
 
 ![s-p025.jpg](images/s-p025.jpg)
 
 ### Mermaid Ward Public-Safety Team — 44 points
 
-The Mermaid Witch handled nearly all monster extermination in Mermaid Ward, leaving the public-safety
-team with little combat experience. Its basic tactic was to knock enemies into a river or the sea
-and let the Mermaid Witch deal with them, which didn't work when the team fought alone.
+The Mermaid Witch handled nearly all monster extermination in Mermaid Ward, leaving the public-safety team with little combat experience. Its basic tactic, shoving enemies into a river or the sea and letting the Mermaid Witch take it from there, fell apart when the team fought alone.
 
 ### Flower Ward Extermination Detail — 40 points
 
-The Flower Witch handled nearly all monster extermination in Flower Ward, leaving the extermination
-detail with little combat experience.
+The Flower Witch handled nearly all monster extermination in Flower Ward, leaving the extermination detail with little combat experience.
 
-Its uniforms, marching, and salutes were magnificent. Strength aside, if the question was which unit
-looked strongest, the Flower Ward Extermination Detail would come first.
+Its uniforms, marching, and salutes were magnificent. Strength aside, if the question was which unit looked strongest, the Flower Ward Extermination Detail would come first.
 
 ### Setagaya Ward Witch's Guard — 33 points
 
-It had the highest average magic power of any district unit. Its skill did not live up to its
-attitude.
+It had the highest average magic power of any district unit. Its skill did not live up to its attitude.
 
 ### Zombie Ward Volunteer Corps — 20 points
 
-A mixed unit of humans and zombies. The humans clearly avoided the zombies, and they couldn't
-coordinate at all. After the exercise, the human volunteers appealed directly to the supervising
-Eyeball Witch and begged to move to another district.
+A mixed human-and-zombie unit. The humans plainly shunned the zombies, and the two sides couldn't coordinate at all. After the exercise, the human volunteers went straight to the supervising Eyeball Witch and begged to be allowed to move to another district.
 
 ### Tobacco Ward Blast-'Em Team — no score
 
-The instant its exercise began, the team dragged members of other districts' guards out of the
-spectator area and into the battlefield as reinforcements. Amid the resulting chaos, every golem
-except the strongest had been destroyed by the time the entire Tobacco Ward Blast-'Em Team was
-ruled unable to fight.
+The instant its exercise began, the team hauled members of other districts' security forces out of the spectator area and onto the battlefield as reinforcements. In the chaos that followed, by the time the entire Tobacco Ward Blast-'Em Team had been ruled unable to fight, every golem except the strongest had been destroyed.
 
-The rules did not forbid the tactic, but it was impossible to evaluate, so the team received no
-score.
+The rules did not forbid the tactic, but it was impossible to evaluate, so the team received no score.
 
 ### Reference: The Blue Witch — over 2,000 points
 
-Invited to demonstrate model combat, the Blue Witch fought so far beyond expectations that she
-broke the intended scoring system. The one-sided shutout was filled with cold intent to kill her
-opponents as efficiently as possible. It frightened the spectators and killed the mood in the venue.
+Invited to give a model demonstration, the Blue Witch fought so far beyond everyone's expectations that she broke the scoring system. Her one-sided, joyless beatdown brimmed with cold killing intent aimed at dispatching her opponents as efficiently as possible, which terrified the spectators and sucked the life out of the venue.
 
 ---
 ## Survivor Communities of Japan
@@ -794,64 +596,41 @@ opponents as efficiently as possible. It frightened the spectators and killed th
 
 A survivor community governing the shores of Lake Biwa.
 
-Population: 300,000. It created magic-power recovery medicine. It originally had eight
-Transcendents, but one died in the mushroom pandemic. One died and another defected during the
-Arataki Group's assault, leaving five.
+Population: 300,000. It created magic-power recovery medicine. It originally had eight Transcendents, but one died in the mushroom pandemic. One died and another defected during the Arataki Group's assault, leaving five.
 
-The organization was divided between hawks and doves, producing tension and frequent disorder in
-decision-making. The community began when Transcendents from the southern and northern shores of
-Lake Biwa made a pact on the lake and formed a cooperative structure, but it was hard to say that
-cooperation was proceeding smoothly.
+Split between hawks and doves, the organization was full of friction and often couldn't agree on anything. The community began when the Transcendents of Lake Biwa's southern and northern shores made a pact on the lake and set up a cooperative structure, but their cooperation could hardly be called smooth.
 
 ### 5. Arataki Group
 
 A survivor community in Fukuoka City.
 
-Population: 400,000. It lost every Transcendent it had, and its population was expected to decline
-rapidly.
+Population: 400,000. It lost every Transcendent it had, and its population was expected to decline rapidly.
 
-Its ten Transcendents were Arataki, the boss; Samejima, the Young Boss; Yagyu, the Junior Boss;
-Kiwada; Kurihara; Tatewaki; Ashiya; Ikaruga; Shishido; and Hayami.
+Its ten Transcendents were Arataki, the gang boss; Samejima, the Young Boss; Yagyu, the Junior Boss; Kiwada; Kurihara; Tatewaki; Ashiya; Ikaruga; Shishido; and Hayami.
 
-Every other survivor community had developed some kind of new technology. The Arataki Group had
-nothing. All it did was destroy and steal.
+Every other survivor community had developed some kind of new technology. The Arataki Group had nothing. All it did was destroy and steal.
 
 ![s-p027.jpg](images/s-p027.jpg)
 
 ### 1. Hokkaido Magic Beast Farm
 
-A Hokkaido survivor community governing the area from metropolitan Sapporo through the coast of
-Ishikari Bay and across the Ishikari Plain.
+A Hokkaido survivor community governing the area from metropolitan Sapporo through the coast of Ishikari Bay and across the Ishikari Plain.
 
-Population: 400,000. It created magic-beast-handling technology. Five mages and three witches, eight
-in total, belonged to it.
+Population: 400,000. It created magic-beast-handling technology. Eight Transcendents belonged to it: five mages and three witches.
 
-Research into magic beasts flourished at the Hokkaido Magic Beast Farm. It employed a wide variety
-not seen elsewhere and constantly experimented with handling new species. The research process
-claimed many victims, yet there were surprisingly many newcomers too, driven by dreams such as, "I
-want to handle that monster," or, "I want to be friends with that monster." Subsidies and propaganda
-also had an influence, of course.
+Magic-beast research flourished at the Hokkaido Magic Beast Farm, which put a wider variety of magic beasts to work than anywhere else and was always experimenting with handling new species. The research had cost many people their lives, yet surprisingly many newcomers still signed up, apparently driven by dreams like "I want to handle that monster" or "I want to be friends with that monster." (Subsidies and propaganda played a part too, of course.)
 
-The best known of Hokkaido's magic beasts was the Mountain Bear, a Class A-2 monster. Mountain Bears
-played a major role in defending Hokkaido's habitable zone.
+The most famous of Hokkaido's magic beasts was the Mountain Bear, a Class A-2 monster, which did a great deal to defend Hokkaido's survival zone.
 
 ### 2. Tohoku Hunting Association
 
 A Tohoku survivor community governing the area around Sendai.
 
-Population: 200,000. It created hunting-magic technology. Its five recognized Transcendents were
-<ruby>Okyaku<rt>Great Wolf</rt></ruby>, <ruby>Itazu<rt>Great Bear</rt></ruby>,
-<ruby>Aokera<rt>Serow</rt></ruby>, Dog, and <ruby>Iwatsura<rt>Rabbit</rt></ruby>. Murakumo Kariya,
-the user of hunter magic, also belonged to it, though he wasn't recognized as one of its
-Transcendents.
+Population: 200,000. It created hunting-magic technology. Its five recognized Transcendents were <ruby>Okyaku<rt>Great Wolf</rt></ruby>, <ruby>Itazu<rt>Great Bear</rt></ruby>, <ruby>Aokera<rt>Serow</rt></ruby>, Dog, and <ruby>Iwatsura<rt>Rabbit</rt></ruby>. Murakumo Kariya, the user of hunter magic, also belonged to it, though he wasn't recognized as one of its Transcendents.
 
-Research into using monster materials flourished there. The association eagerly developed and
-spread general-purpose techniques such as making monster meat edible and preventing monster
-materials from degrading. It was also researching magical guns that allowed ordinary people with
-little magic power to attack monsters without using their own.
+Research into putting monster materials to use flourished there, and the association was eager to develop and spread general-purpose techniques, such as making monster meat edible and keeping monster materials from degrading. So that ordinary people with little magic power could stand up to monsters, it was also researching magic guns that could attack without drawing on the user's own magic power.
 
-Its culture was simple, sturdy, and honest. Its people were strict with others, and stricter still
-with their own.
+Its culture was simple, sturdy, and honest, and its people were strict with outsiders and their own alike.
 
 ### 3. Tokyo Witches' Council
 
@@ -859,16 +638,11 @@ Japan's largest survivor community, governing part of Tokyo.
 
 Population: 2.2 million. It created magic wands, amulets, and magic linguistics.
 
-At its peak, it had twenty-six Transcendents. After excluding the dead; those who left, namely the
-Hell Witch and Arakawa Mage; a post inherited by a non-Transcendent, the Flame Heir Witch; and the
-sealed Flame Witch, only fifteen remained.
+At its peak, twenty-six Transcendents belonged to it. Leaving out the dead, those who had left (the Hell Witch and the Arakawa Mage), the one whose post passed to a non-Transcendent (the Flame Heir Witch), and the one under seal (the Flame Witch), it was down to fifteen.
 
-Its current Transcendents were the Foresight Mage, Blue Witch, Spider Witch, Northern Witch, Mermaid
-Witch, Flower Witch, Eyeball Witch, Pebble Witch, Dragon Witch, Night Witch, Chofu Witch,
-Three-Pronged Witch, Tobacco Witch, Setagaya Witch, and Zombie Witch.
+Its current Transcendents were the Foresight Mage, Blue Witch, Spider Witch, Northern Witch, Mermaid Witch, Flower Witch, Eyeball Witch, Pebble Witch, Dragon Witch, Night Witch, Chofu Witch, Mitaka Witch, Tobacco Witch, Setagaya Witch, and Zombie Witch.
 
-As Japan's largest survivor community, it produced a great deal of new technology and research. It
-also produced a great many problems.
+As befitted Japan's largest survivor community, it produced a great deal of new technology and research. It also produced a great many problems.
 
 ---
 
@@ -880,25 +654,19 @@ also produced a great many problems.
 
 ### Most-Cited Papers
 
-Papers sometimes had their contents cited by other papers. A paper's citation count indicated how
-great an influence it had exerted in its field. The more citations a paper received, the more
-attention and importance it was given.
+A paper's contents were sometimes cited by other papers, and its citation count showed how much influence it had had on its field. The more citations a paper had, the more attention and weight it received.
 
-The following were the most-cited papers Tokyo Magic University had accepted to date, listed in
-descending order.
+Below, in descending order, are the most-cited of all the papers Tokyo Magic University had accepted to date.
 
 #### Practical Bypass Incantation — Ohinata Kei, 2025
 
-A methodology for making bypass incantations practical. It covered word selection for constructing
-a suitable bypass incantation, magic-language grammar, and use of the dodecahedral fractal wand
-Aleister, among other subjects.
+A methodology for making bypass incantations practical. It covered word selection for constructing a suitable bypass incantation, magic-language grammar, and use of the dodecahedral fractal wand Aleister, among other subjects.
 
-This paper was said to have saved four or even five million lives.
+This paper was said to have saved four million lives, or even five million.
 
 #### Bypass Incantation — Ohinata Soichi, 2024
 
-The foundational theory for rearranging an original incantation containing unpronounceable sounds
-into sounds ordinary humans could pronounce.
+The foundational theory for rearranging an original incantation containing unpronounceable sounds into sounds ordinary humans could pronounce.
 
 It opened the way for magic linguistics, and by extension the entire study of magic.
 
@@ -906,35 +674,27 @@ It opened the way for magic linguistics, and by extension the entire study of ma
 
 A discussion of how Gremlin shape affected the flow of magic power.
 
-It became the foundation for many studies seeking to understand Gremlin properties academically and
-put them to use.
+It became the foundation for many studies seeking to understand Gremlin properties academically and put them to use.
 
-It took the form of a paper coauthored with Wand Maker 0933, though 0933 had never made any public
-statement about it.
+It took the form of a paper coauthored with Wand Maker 0933, though 0933 had never made any public statement about it.
 
 #### Correlation Between Magnetic-Field Change and Magic-Power Change — Inuikita Saburo, 2027
 
-There had been many attempts to observe changes in magic power during spell use without relying on
-magic-power control.
+There had been many attempts to observe changes in magic power during spellcasting without relying on magic-power control.
 
-This paper grew from those attempts and explained how to observe the change in magic power when
-maximum magic-power capacity decreased through the associated change in the magnetic field.
+This paper grew out of those attempts and explained how to observe the change in magic power when maximum magic-power capacity decreased by way of the accompanying change in the magnetic field.
 
-The Magnetic-Field-Change Reverse-Playback Magic-Power Training Method was the greatest result to
-grow out of this paper.
+The Magnetic-Field-Change Reverse-Playback Magic-Power Training Method was the greatest result to grow out of this paper.
 
 #### Classification of Monsters — Sendo Senji, 2027
 
-The first paper to classify monsters—which existing terrestrial biological taxonomy could not
-handle—without the system breaking down.
+The first paper to classify monsters, which existing terrestrial biological taxonomy couldn't handle, without the system breaking down.
 
-In the form of the monster threat-level quick reference, with its Class A, B, and C divisions, it
-became the paper most widely known among the general public.
+It took the form of the monster threat-level quick reference, with its Class A, B, and C divisions, and became the best known of all papers among the general public.
 
 #### Nameless Epic Hypothesis — Nanase Nanami, 2028
 
-The Nameless Epic Hypothesis was expected to help approach the root cause of the Gremlin Disaster,
-which began with the meteor shower from the constellation Shantak.
+The Nameless Epic Hypothesis was expected to help get at the root cause of the Gremlin Disaster that followed the Shantak Meteor Shower.
 
 It was also used as a theory for obtaining unknown incantations.
 
@@ -942,16 +702,13 @@ It was also used as a theory for obtaining unknown incantations.
 
 ### Tokyo Magic University 2028 Graduate Papers
 
-Tokyo Magic University graded student theses on four levels: Excellent, Good, Pass, and Fail. A
-student whose paper received an Excellent could continue on the path to becoming a university
-researcher.
+Tokyo Magic University graded student theses on four levels: Excellent, Good, Pass, and Fail. A student whose paper received an Excellent could continue on the path to becoming a university researcher.
 
 The 2028 graduating class's Excellent papers were:
 
 - Nameless Epic Hypothesis
 - Do Monster Cries Have a Language System?
-- Cycles of Periodic Change in the Magical Environment of Magic Civilization, Inferred
-  Complementarily from Individual Incantations
+- Cycles of Periodic Change in the Magical Environment of Magic Civilization, Inferred Complementarily from Individual Incantations
 - Changes in the Mass of Nearby Metallic Elements During Gremlin Combustion-Reduction Phenomena
 - Mechanisms of Hereditary Traits in Plant Monsters Seen in the Pure-Line Selection of Turret Balsam
 - Changes in Resistance to Transformation Magic by Magic-Power Capacity
@@ -959,7 +716,7 @@ The 2028 graduating class's Excellent papers were:
 
 The following papers received Good:
 
-- Relationship Between the Minimum Volume and Minimum Magic Power Required to Activate Magic
+- Relationship Between the Minimum Vocal Volume and Minimum Magic Power Required to Activate Magic
 - Incantations in a Vacuum
 - Counterspells
 - The Possible Existence of Homophones in the Magic Language
@@ -970,8 +727,7 @@ The following papers received Good:
 - Gremlin Circuits
 - Gremlin Combustion-Reduction Engines
 - The Magic-Medium Hardness-Dependence Hypothesis
-- A Mathematical Description of Magic-Power Behavior Within Dodecahedral Fractal Gremlin Based on
-  Chaos Game Theory
+- A Mathematical Description of Magic-Power Behavior Within Dodecahedral Fractal Gremlin Based on Chaos Game Theory
 - Changes in the Characteristics of Monsters Across Generations
 - Semigeneral-Purpose Monster Feed
 - Industrial Refining of Slime-Type Monster Materials
@@ -992,65 +748,51 @@ The following papers received Good:
 
 ![s-p031.jpg](images/s-p031.jpg)
 
-*Memos of instructions and similar messages that Fuyo, the Okutama Minister of Defense, received
-from Ori Kenshi.*
+*Memos of instructions and similar messages that Fuyo, the Okutama Minister of Defense, received from Ori Kenshi.*
 
-> Thank you for sharing the angelica-tree shoots. I didn't know they grew in Okutama. I'd be glad if you
-> managed them so we can harvest them every year.
+> Thanks for sharing the angelica-tree shoots. I didn't know they grew in Okutama too. I'd be happy if you looked after them so we can pick them every year.
 
-> Don't bring this many at once. I can't eat them all. Humans can't store excess nutrition in
-> whitewood like you can. I'll make dried shiitake this time, but half as much will be enough
-> from now on.
+> Don't bring me this many at once. I can't eat them all. Unlike you guys, humans can't store surplus nutrients in whitewood. This time I'll make dried shiitake out of them, so it's fine, but half as much is plenty from now on.
 
-> I appoint you caretaker of the rice field. There's a rice-growing manual in the shed, so take it
-> and read it. Use a dictionary for the hard kanji.
+> I'm appointing you caretaker of the rice field. There's a rice-growing manual in the shed, so help yourself and read it. Look up the hard kanji in a dictionary.
 
-> I dismiss you as caretaker of the rice field. Sorry, I didn't think about your roots breaking
-> through the clay layer under the field and the ridge between paddies and making the water leak.
+> I'm relieving you as caretaker of the rice field. Sorry, my bad. I didn't think about your roots punching through the clay layer under the field and the ridges between the paddies and letting the water leak out.
 
-> I'm enclosing an amulet. Use it if you like.
+> I'm enclosing an amulet. Use it if you want.
 
-> Don't remove the lattice from the bathroom window. I replaced it with iron bars.
+> Don't take the lattice off the bathroom window. I swapped it out for iron bars, you know.
 
-> Don't use human hair dye anymore. It smells strange. It definitely doesn't agree with your body.
-> Your hair color is already beautiful as it is. What are you unhappy with? If anything, humans
-> should make a new dye that imitates your hair.
+> In my experience, the safest thing is to let wasabi grow wild. Mess with it and it dies. Don't beat yourself up so much over killing a few plants. There are still plenty growing.
 
-> From experience, the safest thing is to leave wasabi to grow wild. Meddling with it only makes it
-> wither. Don't get so upset over losing a few plants. Plenty are still growing.
+> Stop using human hair dye. It smells weird, and it's definitely not agreeing with your body. Your hair color's already beautiful the way it is, so what's the problem? If anything, humans should make a new dye that copies your hair.
 
-> That is why I told you not to remove the bars from the bathroom window!
+> I told you, don't take the bars off the bathroom window!
 
-> Don't lie. If the fire salamanders really did it, they wouldn't have removed the bars. They would
-> have melted them with flame.
+> Don't lie. If the fire salamanders really did it, they wouldn't have taken the bars off. They'd have melted them with fire.
 >
-> If you lie all the time, I won't be able to believe you when you tell me something true that only
-> sounds like a lie. So don't lie. If you have an objection, I'll hear it.
+> If you lie all the time, then when you tell me something true that only sounds like a lie, I won't be able to believe you. So don't lie. If you've got an objection, I'll hear it.
 
-> All right. Do that.
+> Good. Do that.
 >
-> I'm only bragging, but when I was your age, I never lied once. That's not a lie.
+> This is just me bragging, but when I was your age, I never told a single lie. That's not a lie.
 
-> The well suddenly ran dry. You aren't drawing water from its underground vein, are you?
+> The well suddenly dried up. You aren't sucking water out of its vein, are you?
 
-> Does covering the whole of Okutama in mist really consume that much water...? Fine. I understand.
-> You may draw from the well's underground vein until your roots reach the Tama River. Once they do,
-> pull back every root you've extended into the well.
+> Does the Lost Mist really cost that much water...? Well, I guess it would if you're wrapping all of Okutama in it. Okay, I get it. You can draw from the well's vein until your roots reach the Tama River. But once they do, pull back all the roots you've got in the well's vein.
 
-> Is it thanks to you that there are no mosquitoes at all this year?
+> Wait, is it thanks to you that there are no mosquitoes at all this year?
 
-> Your mosquito control is incredible! So incredible that I'll let you extend your roots to within
-> about five centimeters of my house.
+> Getting rid of the mosquitoes: good job! Such a good job that I'll let you grow your roots about 5 centimeters closer to my house.
 
-> I have an unrelated question. Are you interested in making miso and soy sauce?
+> This may be rather out of the blue, but might I ask whether you have any interest in making miso and soy sauce?
 
-> Okay. I'll leave the miso and soy-sauce storehouses in your care too. Thanks!
+> Okay. I'll leave the miso and soy-sauce storehouses to you too. Thanks!
 
-> I locked the sake storehouse specifically because you're still too young to drink.
+> The whole reason I went to the trouble of locking the sake storehouse is that you're still too young to drink.
 >
-> I don't want a child I've known since birth growing into an alcoholic adult.
+> I don't want to watch a kid I've known since the day she was born grow up into an alcoholic.
 >
-> Be a good kid and drink liquid fertilizer!
+> Kids should shut up and drink their liquid fertilizer!
 
 ---
 
@@ -1062,71 +804,59 @@ from Ori Kenshi.*
 
 Professor Ohinata had survived being poisoned and had apparently woken up the other day.
 
-Though she was still weak, she had no lasting damage. Friends, acquaintances, and associates had
-flooded into her hospital room, where gifts were piled into a mountain.
+Though she was still weak, she had no lasting damage. Friends, acquaintances, and associates had flooded into her hospital room, where gifts were piled into a mountain.
 
 Or so Hiyori told me.
 
-I was hunched over a drafting board in the workshop, drawing plans for a new wand, when she asked as
-if expecting me to refuse.
+She asked while I was hunched over the drafting board in the workshop, drawing up plans for a new wand, and she clearly didn't expect a yes.
 
 "Ori, do you want to visit her with me? Kei-chan would be happy."
 
 "Objection one: The chances of running into other visitors are way too high. I don't want to go.
 
-"Objection two: She's sick, so she should rest. I don't want to tire her out by making her deal with
-another visitor.
+"Objection two: She's sick, so she should rest. I don't want to tire her out by making her deal with another visitor.
 
-"Objection three: I have work. I need to design a wand using one of the magic stones recovered from
-the Arataki Group, and—"
+"Objection three: I have work. I'm designing a wand around the magic stones we recovered from the Arataki Group, and—"
 
 "Enough, enough. I get it. Then at least send her a gift."
 
-As I counted my objections on my fingers, Hiyori cut me off and offered an alternative, apparently
-as a compromise.
+I was counting my objections off on my fingers when Hiyori cut me short and offered an alternative, apparently by way of compromise.
 
 A get-well gift. Hmm.
 
 Well, fair enough.
 
-The professor had plenty of friends and was apparently receiving all sorts of gifts, but you could
-never have too many gifts from friends. I could help raise the elevation of that mountain in her
-room.
+The professor had plenty of friends and was apparently drowning in gifts, but you could never have too many gifts from friends. I'd do my part to raise the elevation of that mountain.
 
 "What do you give someone in the hospital? A plastic model or something?"
 
 "That's something *you'd* want."
 
-"No good, huh? Then... flowers? That's safe."
+"No good, huh? Then... something safe, like flowers?"
 
-"Sure. Shall we make artificial ones?"
+"Sure. Going to make some artificial ones?"
 
 "Nah, I'll have Fuyo grow some."
 
-I weighted down the plans and stopped work, then took Hiyori into the mountain behind the house.
+I set a weight on the plans, put my work aside, and took Hiyori up the mountain behind the house.
 
-No one could beat Fuyo when it came to flowers. She was a plant herself.
+When it came to flowers, nobody could top Fuyo. She was a plant herself, after all.
 
-Hiyori followed me up the short mountain trail to the slope where Fuyo grew.
+Hiyori asked as she followed me up the short trail to the slope where Fuyo grew.
 
 "Fuyo can produce flowers too? Not just lumber?"
 
 "Seems like she can grow any flower she's touched before."
 
-When I told her about the miraculous blue rose, she had tried her hardest to make one, failed, and
-gotten terribly frustrated.
+When I'd told her about the miraculous blue rose, she had tried her hardest to make one and failed, and she'd been terribly frustrated about it.
 
-But as long as it wasn't something outrageously rare like that, her mother, the Flower Witch, had
-let her touch all sorts of flowers while she was still tiny, so she could grow them. Pretty
-impressive.
+Anything short of a freak rarity like that, though, she could manage, because before she struck out on her own, her mother, the Flower Witch, had let her touch all sorts of flowers. Not bad at all.
 
-Hiyori and I reached Fuyo's roots. The plant girl in question was basking in the warm sunlight,
-dozing in the pleasant heat. This place, rich with the smell of soil and a faint floral fragrance,
-was a small sanctuary for the Flower Witch's beloved daughter.
+Hiyori was suitably impressed. When we reached Fuyo's roots, the plant girl in question was dozing, basking in the warm sunshine. With its rich smell of soil and faint scent of flowers, this spot was the little sanctuary of the Flower Witch's beloved daughter.
 
 ![s-p033.jpg](images/s-p033.jpg)
 
-The instant I approached, Fuyo's eyes opened wide and she beamed.
+The moment I came near, Fuyo's eyes popped open and she beamed.
 
 "Mm. Morning, Uncle♡"
 
@@ -1142,15 +872,13 @@ The instant I approached, Fuyo's eyes opened wide and she beamed.
 
 Fuyo cocked her head, and I explained.
 
-She had never met Professor Ohinata and had no direct connection to her. But I had mentioned the
-professor plenty of times, so she had a vague idea of what sort of stoat she was.
+Fuyo had no connection to Professor Ohinata and had never met her. But I'd brought the professor up plenty of times, so she had a vague idea of what sort of stoat she was.
 
-I didn't expect her to refuse once she heard the story. But the more I said, the darker her face
-became. When I finished, she puffed out her cheeks and turned away.
+I'd figured she wouldn't say no once she heard the gist. But the more I told her, the sterner her face got, and by the time I finished, she had puffed out her cheeks and turned away.
 
-You could practically hear the *hmph!* She was openly sulking.
+You could practically hear the *hmph!* She was sulking, and not subtly.
 
-What was this? What was wrong?
+What now? What's the matter?
 
 "No."
 
@@ -1160,99 +888,83 @@ What was this? What was wrong?
 
 "What are you talking about?"
 
-Seriously, what was she talking about?
+Seriously, what is she talking about?
 
-As I stood there confused, Fuyo glared, swung her arm, and slapped the ground.
+While I stood there baffled, Fuyo glared, her eyes flashing, and whipped a tendril down hard against the ground.
 
-"Don't play dumb. Make me more important to you. Don't exploit me!"
+"Don't play dumb. Be nicer to me. Stop exploding me!"
 
-"I think you mean *exploit*."
+"*Exploiting.*"
 
 She was oddly emotional, and her vocabulary was slipping, but I understood what she meant.
 
-Maybe asking her for a favor without offering anything really was wrong. It was like asking a
-florist to put together a gift for a friend. Making her work without compensation wasn't fair.
+Then again, maybe asking a favor without offering anything in return had been wrong. It was basically like having a florist put together a get-well gift for a friend. Making her work without paying her didn't sit right.
 
-"All right. I'll pay you. Say, a thousand new yen."
+"All right, got it. I'll pay you. Say, a thousand new yen or so."
 
 "No! I won't do it!"
 
-"Huh...? What do you want, then? Fine. If you don't want to, I'll ask another florist. Sorry to
-bother you."
+"Huh...? What's your deal? Well, whatever. If you don't want to, you don't want to. I'll ask another florist. Sorry to bother you."
 
-This should have been easy money for Fuyo, using what she was good at.
+For Fuyo, this should have been a sweet gig: pocket money for doing what she was best at.
 
 But apparently she wasn't in the mood.
 
-That happened. I understood. Sometimes there were jobs I wouldn't want even if someone piled up a
-fortune in front of me.
+It happens. I get it, Fuyo. There are jobs I don't want to take even if someone stacks up a fortune in front of me.
 
-Respecting her position as a craftsperson, I turned to leave. A tendril stretched out, caught my
-shoulder, and held me back.
+Out of respect for her as a maker, I turned to go, but one of Fuyo's tendrils shot out, grabbed my shoulder, and held me back.
 
 ![s-p034.jpg](images/s-p034.jpg)
 
-I looked back. Fuyo had knitted her brows and spoke with obvious reluctance.
+When I looked back, Fuyo was frowning, and she spoke with obvious reluctance.
 
 "I-I never said I wouldn't."
 
 "You just did."
 
-"I didn't. If some other florist is going to take you from me, then I'll do it."
+"I didn't. I'll do it before some other florist steals you."
 
-"Really? Well, I'd appreciate it..."
+"Yeah? Well, if you'll do it, I'd appreciate it..."
 
 "Compliment me lots in return."
 
-"That's all? All right. Thanks for doing me this favor, Fuyo. You're amazing! Incredible! Master
-florist! Look at those thick leaves! That color on the petals is *perfect!* Are you growing a tiny
-forest on that trunk or what?!"
+"That's all? All right. Thanks for doing me this favor, Fuyo. You're amazing! Incredible! Master florist! Look at those thick leaves! That color on the petals is *perfect!* Are you growing a tiny forest on that trunk or what?!"
 
-"Eheh... Ehehehe..."
+"Ehe♡ Ehehehe♡"
 
-Compliments were cheap if they motivated her. I praised her exactly as requested, and Fuyo wriggled
-her arms and whole tree-body in delight.
+Compliments were a cheap price for getting her motivated. I heaped on the praise exactly as ordered, and Fuyo wriggled her tendrils and her whole trunk in delight.
 
-Yes, yes. I'd give her some spending money later too.
+Good, good. I'll give her some pocket money later, too.
 
-I watched the child's mood and motivation soar after a few words. Hiyori, who had observed in
-silence, leaned over and whispered in my ear.
+A little praise was all it took to blow away the kid's bad mood and fire her up. I was nodding in approval when Hiyori, who had been watching in silence, leaned in and whispered in my ear.
 
 "Ori, do you always toy with Fuyo like this?"
 
-"Huh? I'm not toying with her. That sounds terrible. Sure, she sometimes explodes with childish
-selfishness, so I teach her how the world works, but—"
+"Huh? I'm not toying with her. Don't make it sound so bad. I mean, sometimes she throws a childish tantrum, so I teach her how things work, sure, but—"
 
-"You're not even aware of it. What a malicious communication error..."
+"You don't even realize it. What a vicious communication error..."
 
-Hiyori edged away from me.
+Hiyori looked a little creeped out.
 
-That was an accusation. Sure, everyone, myself included, knew I was terrible with people. But they
-needed to stop slapping that label on every last thing I did.
+That's slander. Sure, I'm terrible with people, and everyone including me will admit it. But I'd like them to stop slapping that label on every last thing I do.
 
-That communication worked perfectly! I asked her for flowers, we negotiated terms, and we reached
-an agreement. Nothing strange about it.
+That was a perfectly successful exchange! I asked her for flowers, we negotiated terms, and we struck a deal. Nothing weird about it.
 
-"For a sick human, I recommend banyan! Its flower meaning is 'health.' Or rapeseed flowers. They
-mean 'vitality.' Which one do you want?"
+"For visiting a sick human~, my pick is banyan! Its flower meaning is 'health.' And there's rapeseed. Its flower meaning is 'energy.' Which one do you want?"
 
-Cheerful again, Fuyo grew two flowers from her roots. One was a purple banyan flower shaped like a
-morning glory with strange roots. The other was a bright yellow rapeseed flower sweet to the eye.
+In high spirits now, Fuyo promptly sprouted two flowers at her roots: a banyan with weird, knotted roots and a purple flower like a morning glory, and a rapeseed blossom of a yellow so bright it dazzled.
 
 Hmm.
 
-"Which one's better? Actually, let's make it more interesting."
+"They're both good, but as long as we're at it, I want something more interesting."
 
-"You want interesting? Then Sarracenia has an interesting flower meaning. It means 'a bit
-eccentric.'"
+"You want interesting? Then Sarracenia has an interesting flower meaning. It means 'a bit eccentric.'"
 
-As she spoke, Fuyo sprouted a slightly odd flower from her roots, shaped like a cluster of shimeji
-mushrooms.
+As she spoke, Fuyo sprouted a slightly odd flower at her roots, shaped like a clump of shimeji mushrooms.
 
-Looked exactly like its meaning. A bit odd.
+Exactly what it looks like. A bit odd.
 
-"Interesting wins! We'll use Sarracenia as the centerpiece and add a few other flowers around it.
-Got any good ones?"
+"It's interesting, so it's in! Let's make the Sarracenia the centerpiece and put a few other kinds of flowers around it. Got any good ones?"
 
 ![s-p035.jpg](images/s-p035.jpg)
 
@@ -1260,176 +972,143 @@ Got any good ones?"
 
 "Don't worry about the meanings. Let's go by looks for now."
 
-I knew the meanings of gemstones, but not flowers. Maybe I should have studied.
+Gemstone meanings I know, but flower meanings, no clue. Maybe I should have studied up.
 
-"Looks? I can do cute ones, pretty ones, all sorts."
+"Looks. There's cute ones, and pretty ones, and lots more."
 
-"Since it's a get-well gift, maybe we should use color psychology and keep it warm. We'll build
-lighter and darker variations around the color of the Sarracenia. It's striking enough already, so
-the rest should support it without drawing too much attention."
+"Since it's a get-well gift, color psychology says we should stick to warm colors. Let's build around the Sarracenia's color and vary it with lighter and darker shades. The Sarracenia already makes plenty of impact, so the rest can be supporting players that set it off without standing out too much."
 
-Fuyo sprouted flowers as ordered, and we discussed our way through the selection.
+Fuyo sprouted flower after flower to order, and we talked it over as we picked.
 
-As she worked hard to make them bloom, the petal-skirt around her own body grew larger and more
-vivid. I wouldn't say every other flower paled beside her, but she was spectacular.
+As she worked hard at blooming, her own petal skirt grew larger and more vivid than ever. I wouldn't go so far as to say every other flower paled beside her, but she was spectacular.
 
-Maybe Fuyo herself should visit the hospital. That might have been the best gift.
+Come to think of it, maybe the best thing would be for Fuyo herself to visit the professor's bedside.
 
-"Fuyo, you and the Flower Witch are flowers too, right? That's how you see yourselves. Do you have
-flower meanings?"
+"Fuyo, you and the Flower Witch are flowers, right? In your own eyes, anyway. Do you guys have flower meanings?"
 
-"Huh. Never thought about it... I know! Uncle, you think of a flower meaning for me."
+"Huh. I never thought about it... I know! Uncle, you think up a flower meaning for me."
 
 "Selfish. Cheeky."
 
-I answered at once. The cocky, demanding humanoid flower poked my leg with the tip of a tendril.
+The instant I answered, the selfish, cheeky humanoid flower poked my shoulder with the tip of a tendril.
 
-"Mmm! Think more seriously!"
+"Mmph! Think about it for real!"
 
-"I don't know what you want from me. The only flower meanings I know are banyan, rapeseed, and
-Sarracenia. Hiyori, got any ideas?"
+"Like I'd know. The only flower meanings I know are banyan, rapeseed, and Sarracenia. Hiyori, got any good ideas?"
 
-I turned to Hiyori, who had nothing to do. She sighed.
+When I passed the question to Hiyori, who had been standing around with nothing to do, she sighed at me.
 
-"You're asking me? Listen, Fuyo doesn't just want a nice flower meaning. She wants *you* to put some
-feeling into thinking of one."
+"Don't ask me. Look, Fuyo doesn't want a nice flower meaning. She wants *you* to actually put some feeling into thinking one up."
 
-"Yes, that! The Blue Witch understands. Tell him more! Uncle has no delicacy!"
+"Yes, that! Blue Witch gets it. Tell him more! Uncle's got no delicacy!"
 
-Fuyo nodded furiously, and together they blamed me.
+Fuyo nodded hard at every word, and the two of them ganged up on me.
 
-What? Was I in the wrong? I probably was.
+What? So it's my fault? I guess it is.
 
-Sorry, but my shop didn't stock delicacy.
+Sorry, but delicacy isn't something my shop carries.
 
-"I don't get it. By that theory, if I put my feelings into it, 'poop' or 'fart' would make a fine
-flower meaning. Obviously they wouldn't."
+"I don't really get it, but by that logic, if I put my feelings into it, even 'poop' or 'fart' would make a fine flower meaning, right? That's not fine at all."
 
 "You really don't get it..."
 
-Hiyori's exasperated expression belonged in a frame titled *Utter Disbelief.* She snorted.
+Hiyori muttered it with a face you could have hung in a frame titled *Exasperation*, and nobody would have argued.
 
-Yeah. That was why I said I didn't get it.
+Yeah, that's what I've been saying. I don't get it.
 
 ![s-p036.jpg](images/s-p036.jpg)
 
-"Instead of making an issue out of feelings I can't quantify, wouldn't it be better to choose a
-word that accurately captures the appearance, characteristics, and nature of the Flower Witch's
-species, and is emotional too? And are flower meanings really assigned arbitrarily? Aren't they
-officially decided, the way an academic institution or discoverer trusted by the scholarly
-community assigns a scientific name?"
+"Instead of making an issue of my feelings or whatever, which you can't measure quantitatively, wouldn't it be better to pick a word that accurately captures the appearance, traits, and essence of the Flower Witch's species and is lyrical besides? Actually, can you even just make up flower meanings? Aren't they decided officially, the way a scientific name gets assigned by an academic body the scholarly community recognizes, or by the discoverer?"
 
-After I laid out my argument and questions, Fuyo stared with her mouth half open and blinked. Maybe
-that was too complicated.
+When I finished laying out my position and my questions, Fuyo just blinked at me, mouth half open. Maybe that had gone a little over her head.
 
-Hiyori heaved an enormous sigh, then explained that the sampling and naming of plants and animals
-born since the Gremlin Disaster was still underway.
+Hiyori heaved an enormous sigh and explained that the sampling and naming of all the plants and animals that had appeared since the Gremlin Disaster was still very much in progress.
 
-The Hokkaido Magic Beast Farm and Tohoku Hunting Association had given the same new plant different
-names. A grass described in Lake Biwa Pact records turned out to be the same species as a
-differently shaped tree in Tokyo Witches' Council records. Even combining data from across Japan
-brought extraordinary labor and discoveries.
+The Hokkaido Magic Beast Farm and the Tohoku Hunting Association had given the same new plant two different names. A grass in the Lake Biwa Pact's records and a tree in the Tokyo Witches' Council's records had turned out to be one species in two different forms. Just merging the data from across Japan meant no end of trouble, and no end of discoveries.
 
-Members of the Flower Witch's species might exist somewhere in the world, just as the Arataki Group
-boss and Hiyori had turned out to be the same species. Someone somewhere might already have assigned
-them a flower meaning.
+Other members of the Flower Witch's species might be out there somewhere in the world, the same way Hiyori had turned out to share a species with the Arataki Group boss, and one of them might already have a flower meaning.
 
-Or perhaps there were no others at all, only mother and daughter, and they could call their flower
-meaning anything they liked. The truth was vague and uncertain.
+Or maybe there were no others at all besides mother and daughter, in which case they could claim any flower meaning they liked. The truth was fuzzy and unconfirmed.
 
-Taught by her mother, Fuyo knew not only Earth's native flowers but the flowers of plant monsters.
-Starting with turret balsam, there were jewel dayflowers, snow sunflowers, bubble-flower balloons,
-and many other new species she knew. Apparently none had flower meanings yet.
+Fuyo's mother had taught her not only Earth's native flowers but the flowers of plant-type monsters too. From turret balsam to jewel dayflowers, snow sunflowers, and bubble-flower balloons, none of the new species she knew of seemed to have a flower meaning.
 
-She was still a little kid who read picture books, but her knowledge of flowers impressed me.
+She was still a little kid who read picture books, but when it came to flowers, she knew her stuff. I was kind of impressed.
 
-She was a flower, so of course she liked them. If I weren't dexterity personified, I probably
-wouldn't like beavers and spiders as much as I did either.
+She's a flower, so I guess she just likes flowers. If I weren't dexterity personified, I probably wouldn't love beavers and spiders as much as I do, either.
 
-The conversation had wandered, but Fuyo finished the get-well flowers even as she complained.
+We had gotten sidetracked, but Fuyo, grumbling all the while, finished the get-well flowers properly.
 
-She arranged dandelions and pansies around a centerpiece of Sarracenia, using shades of yellow to
-create a splendid potted arrangement.
+The result was a potted arrangement we were both proud of: Sarracenia in the center, with dandelions and pansies around it, all pulled together in shades of yellow.
 
-Fuyo and I high-fived, hand to tendril. You have talent for flower arrangement and bonsai.
+Fuyo and I high-fived, hand to tendril. You've got a real talent for ikebana or bonsai.
 
-"Hey. Why did you make it a potted plant?! Cut the flowers and make a normal bouquet."
+"Hey. Why is it in a pot? Cut them and make a normal bouquet."
 
-Just as I thought Professor Ohinata's gift was finished, Hiyori found fault with it.
+Just when I thought Professor Ohinata's gift was finally done, Hiyori, for some reason, found fault with it.
 
-Hands on her hips, she lectured us as though *we* were ignorant of common sense.
+She put her hands on her hips and lectured us as though *we* were the ones with no common sense.
 
-"Potted plants are taboo as get-well gifts. They're rooted in soil, right? *Taking root* sounds like
-*staying in bed*—an omen that the illness will drag on. It's bad luck. Use cut flowers."
+"Potted plants are taboo for hospital visits. The plant's rooted in soil, right? *Taking root* sounds like *taking to bed*, which suggests the illness will drag on. It's bad luck. Use cut flowers."
 
 "Huh...?"
 
 ![s-p037.jpg](images/s-p037.jpg)
 
-She said it as if it were obvious, but it didn't click with me.
+She said it like it was common knowledge, but it didn't click.
 
-What kind of far-fetched nonsense from a tiresome etiquette instructor was that?
+What is that, some far-fetched nonsense from an obnoxious etiquette instructor?
 
-By that logic, Hiyori was bad luck because her name sounded like "playing it safe," and since I was
-Ori Kenshi, I was fated to become a swordsman.
+By that logic, Hiyori is bad luck because her name sounds like *hiyoru*, "to play it safe," and since I'm Ori Kenshi, I'm fated to become a kenshi, a swordsman.
 
-Fuyo, whose carefully selected arrangement had been rejected, looked just as confused. She poked at
-it.
+Fuyo, who by the same reasoning stood accused of being *fuyou*, "unneeded," didn't get it either. She prodded her prize potted arrangement with a tendril, bewildered.
 
-"Then sick humans want dead flowers as presents...? Isn't *that* scarier?"
+"Then you give sick humans dead flower bodies for presents...? Isn't *that* scarier?"
 
-"If you give cut flowers, the patient has to lie in bed and watch them wither. Isn't that awful?"
+"Give someone cut flowers and they have to lie in a hospital bed watching them wither. Isn't that depressing?"
 
-"Why am I outnumbered two to one on this? It's manners. Manners. Don't think too deeply. Just follow
-them. What matters is that Kei-chan can accept the gift without anything bothering her and be
-happy—not your bizarre, ah, original preferences."
+"Why is it two against one on this? It's manners. Manners. Don't think too hard about it. Just follow them. What matters isn't your twisted, ah, original ideas. It's that Kei-chan can take the gift and be happy without anything nagging at her."
 
 "Human society is such a pain..."
 
-I spoke from the heart. Fuyo nodded gravely.
+I meant it from the bottom of my heart, and Fuyo nodded deeply.
 
-Human society was too complex and mysterious. It was beyond me.
+Human society is a bizarre, tangled mess. Way more than I can handle.
 
-Still, if Okutama's minister of foreign affairs rejected it, it truly must be unacceptable. The
-special potted arrangement we had worked so hard on was scrapped.
+Still, if Okutama's minister of foreign affairs said no, then it really had to be no. The special potted arrangement we'd worked so hard on was scrapped.
 
-It had been designed as a potted arrangement, so turning it into cut flowers would destroy its
-balance.
+We had designed it to sit in a pot, so cutting the flowers would wreck the whole look.
 
-At this point, perhaps I should give her fruit instead of flowers with all their tangled manners and
-taboos. Hiyori had peeled apples and mandarins for me when I was hospitalized with appendicitis,
-and that made me happy. Surely no one could complain about fruit too.
+At this point, maybe fruit would be better than flowers, with all their fussy manners and taboos. When I was in the hospital with appendicitis, Hiyori had peeled apples and mandarins for me, and that had made me happy. Surely nobody would find fault with fruit, too.
 
-The whole thing had soured my mood. I apologized to Fuyo for wasting her work after putting her
-through so much trouble. She made one request.
+The whole thing had kind of fizzled. When I apologized to Fuyo for putting her to all that trouble only to throw her work away, she asked for one thing in return.
 
 "Then choose flowers for me. Make me a bouquet."
 
-"You want flowers? You can make them yourself. And you just chose and grew a whole arrangement."
+"You want flowers? You can make your own. Besides, you just picked and grew a whole arrangement."
 
 "Those were for the stoat. Choose some for *me.* New ones. I'll treasure them."
 
-"Fine. Sure."
+"Huh. Well, fine."
 
-Did that mean she trusted my eye and my aesthetic sense?
+Did that mean she was counting on my aesthetic sense and my eye for picking?
 
-Leave it to me. Flowers weren't my specialty, but I was confident it wouldn't be a disaster.
+Then leave it to me. Flowers aren't my field, but I'm confident it won't turn out awful.
 
-Fuyo happily sprouted one colorful candidate after another. I chose a morning glory first.
+Delighted, Fuyo sprouted one colorful candidate after another at her roots, and from those I picked a morning glory first.
 
-When you thought of flowers for a small child, the usual choices were tulips and morning glories.
+When it came to flowers for a little kid, tulips or morning glories were the standard picks.
 
 "The flower meaning of a morning glory is 'affection.' Your feelings make me so happy, Uncle♡"
 
-Fuyo puffed out her chest, smug, and shot Hiyori a sidelong look. Hiyori silently shrugged.
+Fuyo puffed out her chest with a smug look and shot Hiyori a sidelong glance. Hiyori shrugged without a word.
 
 ![s-p038.jpg](images/s-p038.jpg)
 
-Fuyo kept fussing over flower meanings, but I didn't know any. Don't read into this.
+You keep making a big deal of flower meanings, but I told you, I don't know any. Don't read into it.
 
-I was choosing entirely by looks and feeling.
+I was picking purely on looks and feel.
 
-"This one looks good. A moth orchid."
+"This one looks nice. Moth orchid."
 
 "Its flower meaning is 'pure love'!"
 
@@ -1437,21 +1116,19 @@ I was choosing entirely by looks and feeling.
 
 "'Precious memories.'"
 
-Strangely, whenever I pointed to a flower among the candidates, it cut itself free at Fuyo's roots.
-I gathered them and carefully tied them into a bouquet.
+Oddly enough, whenever I pointed out a flower among the candidates, it snipped itself off at Fuyo's roots on its own. I gathered them up and carefully bound them into a bouquet.
 
 "Mm... Sandersonia and yarrow."
 
 "'Homesickness' and 'battle'...?"
 
-Fuyo seemed to realize something. She tilted her head, then stared at Hiyori, who had been left out
-and now stood there with nothing to do.
+Something seemed to occur to Fuyo. She tilted her head and stared hard at Hiyori, who had been left out of things and was standing around idle.
 
 "Verbena. Rugosa rose."
 
 "'Magic' and 'sad beauty.'"
 
-Hiyori felt Fuyo's stare, heard the meanings she recited, and suddenly caught on.
+Under Fuyo's stare, Hiyori listened to the flower meanings Fuyo was reading out and suddenly caught on.
 
 She started fidgeting.
 
@@ -1459,38 +1136,33 @@ She started fidgeting.
 
 "'Peace of mind' and 'notice this love.'"
 
-"Last, some thoroughwort. I want another color to finish it. Can you grow a blue one?"
+"And last, some thoroughwort.[^1] I want to add one more color to top it off. Can you do a blue one?"
 
 "...That's enough!"
 
-When I asked her to finish it, Fuyo stopped producing flowers. Well, it had plenty of volume.
+When I asked for the finishing touch, Fuyo stopped growing flowers. Well, it had plenty of volume already.
 
-She glared hard enough to shoot through Hiyori, who was twirling the ends of her hair and squirming.
-Then Fuyo pinched my sleeve in a tendril and tugged.
+Fuyo glared daggers at Hiyori, who was looking down and twisting the ends of her hair around her finger, then caught my sleeve with a tendril and tugged.
 
 "Uncle, you really don't know flower meanings, right? Right?"
 
 "Of course I don't. Here, this is the bouquet I made for you. Take good care of it."
 
-Fuyo accepted the bouquet I had chosen by pure feeling, looked back and forth between Hiyori and me
-several times, and clutched her head.
+Fuyo took the bouquet I'd put together on pure feel, looked back and forth between Hiyori and me several times, then clutched her head and groaned.
 
-"Ugh... Ah... Uuuugh! I'm happy, but I hate this! Blue Witch, what are you grinning about? I can
-tell even with your mask! Stop showing off!"
+"Ugh... Ah... Uuugh, nnngh! I'm happy, but I hate it! Blue Witch, what are you smirking about? I can tell even with your mask on! Stop showing off!"
 
 "S-sorry. I wasn't trying to rub it in. Really."
 
 "I'm gonna lose it!"
 
-Fuyo screamed in emotional turmoil. For some reason Hiyori looked awkward and pleased at the same
-time as she scratched her cheek.
+Fuyo, an emotional wreck, shrieked and squawked, while Hiyori, somehow looking awkward and pleased at once, scratched her cheek.
 
-I understood that the two of them were having some high-context, highly advanced conversation
-loaded with subtext. But my communication stat wasn't high enough to decipher it.
+I could sort of tell the two of them were having some sophisticated, high-context exchange loaded with metaphor. But my communication stat apparently wasn't leveled up enough to decode it.
 
-How did choosing a get-well gift for a hospitalized friend become this complicated?
+How had picking out a get-well gift for a friend in the hospital gotten this complicated?
 
-I had no idea, but flowers clearly had the power to move people's hearts.
+I had no idea. But one thing seemed certain: flowers had the power to move people's hearts.
 
 ---
 
@@ -1499,3 +1171,7 @@ I had no idea, but flowers clearly had the power to move people's hearts.
 ![s-h3.jpg](localized-images/s-h3.jpg)
 
 ![s-h1-4.jpg](localized-images/s-h1-4.jpg)
+
+## Translator Notes
+
+[^1]: **Thoroughwort** (ヒヨドリバナ, *hiyodoribana*): The flower's Japanese name begins with the same sounds as Hiyori's, and Ori asks for it in blue, the Blue Witch's color.
