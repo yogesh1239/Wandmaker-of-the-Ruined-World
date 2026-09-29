@@ -224,3 +224,38 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Ruby spans, `[^1]`–`[^2]`, notes text, image markers, headings unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 12` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 155 reviewed, 9 flagged. Round 1: 4 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 5 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 9 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — "come about" stiff; kept "filled their stomachs" (both ate, お腹も膨れた has no subject)
+  - Final text: "In the living room, the Blue Witch cheerfully made the tea herself and cut the pumpkin pie, and the two of them ate it together. Once they had chatted a while and filled their stomachs, Ohinata brought up the first of the two things she had come to talk about."
+- **F2** — APPLIED — accuracy — 人間関係の悩み as interpersonal, not romantic "relationship problem"
+  - Final text: ""Awu. S-Sorry. My tail doesn't listen to me. Ahem. So, the other thing I wanted to ask about is a personal problem I'm having with someone.""
+- **F3** — APPLIED — worse — ambiguous "her" for who sneezed
+  - Final text: "The lab was a mess, with technical books and files overflowing the shelves and stacked high enough to block half the window. When Ohinata showed her in, the musty smell of old paper made the Blue Witch sneeze."
+- **F4** — APPLIED — worse — "slack" misreads 余裕; kept force of 奪った
+  - Final text: "The Gremlin Disaster had backed people who used to live peaceful lives into a corner and stripped them of any breathing room. It had dragged out the not-so-normal parts of people who would have stayed perfectly normal in a peaceful world."
+- **F5** — APPLIED — mechanics — narration merged into dialogue paragraph; split again (comma lead-in as in baseline)
+  - Final text: "Judging that he was at least in his right mind, Ohinata scampered right up to his face, got level with his eyes, and asked him," / ""Um. You're the one who's been hanging around me for a while now, right? It's scary, so I'd like you to stop.""
+- **F6** — APPLIED — accuracy — 身も世もなく is abandon, not shamelessness; dropped added "seemed" hedge
+  - Final text: "The stalker remembered something and broke down sobbing his heart out. With his nose running and his tears leaving dark spots on the asphalt, he didn't look like he was acting in the slightest. He had to mean every word."
+- **F7** — APPLIED — accuracy — added "always" not in 望んでいた
+  - Final text: "Ohinata had wanted the magic she researched to heal people's wounds and help them."
+- **F8** — APPLIED — accuracy — "meltdown" implies distress; JP is 興奮して…感情を大爆発
+  - Final text: "But watching a grown man turned stoat spin in circles after his own tail, shrieking his obsessive love—words you couldn't say on TV included—in a full-blown frenzy of excitement somehow didn't sit right with her."
+- **F9** — APPLIED — worse — "back then anymore" clumsy
+  - Final text: "I no longer understand how I felt back then. I get the logic, but the emotion that used to well up from deep inside is gone. Sad."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none
+
+## User Rulings — 2026-09-29
+
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

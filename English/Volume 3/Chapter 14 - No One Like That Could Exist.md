@@ -128,7 +128,7 @@ If he still couldn't accept it after seeing the undeniable genuine article for h
 
 “Oh, here it comes. Calls itself a god-slaying weapon, but it's a break-action rifle? Hah! Amateur thinking. This thing's just a cheap trick. Stuff like this always has weak joints—”
 
-Sanukino took the gun-wand Giant Slayer without hiding his mockery. The instant he gripped it in both hands and tried to flex it with all his strength, his face went blank.
+Sanukino took the gun-wand Giant Slayer without hiding his mockery. The instant he gripped it in both hands and flexed it with all his strength, his face went blank.
 
 “—It's strong. Ridiculously strong. This is... Did they use monster bone as structural material? I can see signs of self-blood tanning. W-well now? Fine, I'll grant the joint strength. Whoever made this doesn't seem foolish enough to neglect the basics. But what about the barrel?”
 
@@ -154,9 +154,13 @@ Sanukino was one of the finest craftsmen of his time after all, and a craftsman'
 
 Muttering, “Scary, scary,” Sanukino returned the gun-wand to <ruby>Okyaku<rt>Great Wolf</rt></ruby> as though handling a sacred treasure too dazzling to touch.
 
-“Convinced now?” <ruby>Okyaku<rt>Great Wolf</rt></ruby> asked the big man, whose attitude had completely changed.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> spoke to the big man, whose attitude had completely changed.
 
-“...Hate to admit it, but it looks like I was the one who couldn't see straight. You'd have to be a fool not to trust the work of a craftsman who can make a masterpiece like this. Though they don't seem human, mind you. Tokyo can't be trusted, but I've got to trust Wand Maker 0933 completely. A craftsman who makes a masterpiece like this would never swindle the person using it. It ain't possible even if heaven and earth turn upside down,” Sanukino declared firmly.
+“Convinced now?”
+
+“...Hate to admit it, but it looks like I was the one who couldn't see straight. You'd have to be a fool not to trust the work of a craftsman who can make a masterpiece like this. Though they don't seem human, mind you. Tokyo can't be trusted, but I've got to trust Wand Maker 0933 completely. A craftsman who makes a masterpiece like this would never swindle the person using it. It ain't possible even if heaven and earth turn upside down.”
+
+Sanukino declared it firmly.
 
 Then his shoulders slumped, and he slowly put the hand cannon back into his pack basket. All the eager energy he'd had before seeing the gun-wand was gone.
 

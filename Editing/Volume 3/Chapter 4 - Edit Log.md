@@ -81,3 +81,22 @@ The casual technical voice and clipped punchlines were retained. Direct craft as
 - **やっぱ** (JP 10) "after all"; **今回も** (JP 121) "too" — accuracy
 - **更に血縁まで…お手上げだ** (JP 268): fixed the imperative/past clash — polish
 - **ネーミングに特に規則性は無い** (JP 118): "my names" → "how I named them" — polish
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 59 reviewed, 3 flagged. Round 1: 2 conceded, 0 pushed back, 1 countered. Codex after round 1: 0 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 3 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — 試作した restored as "built prototypes" (連結構造 kept as "linked structures")
+  - Final text: "As an experiment, I cut magic stones into identical shapes and built prototypes of several different linked structures."
+- **F2** — APPLIED — accuracy — そう hedge restored in the もんな aside; "anyone" softened to generic "you"
+  - Final text: "No matter how slowly time flowed inside, being sealed in darkness for decades would probably drive you crazy."
+- **F3** — APPLIED — worse — 中心に稼働 rendered as operations centered on the furnaces
+  - Final text: "Its operations centered on two melting furnaces."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

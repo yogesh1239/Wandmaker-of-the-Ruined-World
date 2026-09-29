@@ -44,7 +44,7 @@ When I got to the Blue Witch's house, I was startled to find her sprawled on the
 
 "Huh?"
 
-What was she doing? Sleeping in the entryway? Who did that, besides some salaryman worked to the brink at a sweatshop company? Way too bizarre.
+What was she doing? Sleeping in the entryway? Who did that, besides some burned-out salaryman at a sweatshop company? Way too bizarre.
 
 I was about to take off my shoes, careful not to step on her, when I noticed she was holding a letter.
 
@@ -140,7 +140,7 @@ The problem is the severe type.
 
 Anyone who experiences magic-power-depletion fainting even once after infection will, without exception, go from the mild type to the severe type.
 
-In the post-onset stage of the severe type, magic power and stamina are drained violently.
+In the post-onset stage of the severe type, magic power and stamina are drained at an extreme rate.
 
 The patient can no longer use magic. Removing the mushroom only makes things worse, and it grows back at once.
 
@@ -150,9 +150,9 @@ In this way, those who develop the severe type die within 2–5 days. Unfortunat
 
 ---
 
-After reading that far, I tore my eyes from the letter and looked down at the Blue Witch. She hadn't so much as twitched on the mat.
+After reading that far, I looked away from the letter and down at the Blue Witch. She hadn't so much as twitched on the mat.
 
-Gingerly, I took off the mask she never went without. Underneath was the lovely face of a beautiful girl—lovely, but gone ashen.
+Gingerly, I took off the mask she never went without. Underneath was the face of a beautiful girl—lovely, but gone ashen.
 
 What the hell!?
 
@@ -168,7 +168,7 @@ Dumbass! Get going, now!
 
 I squished her cheeks as I said it, then ran to drag a cart out of the shed in the back garden.
 
-I gently lifted the Blue Witch in my arms, hauled her out on the muscle I'd built doing farm work, and laid her in the cart on a spread blanket.
+I gently lifted the Blue Witch in my arms, let the muscle I'd built doing farm work do the carrying, and laid her on a blanket in the cart.
 
 Then I tied the bicycle and cart tightly together with a short rope and checked a map of Tokyo for the route to Taito Ward and Arakawa Ward, where the Flower Witch had her base.
 
@@ -268,7 +268,7 @@ So the Blue Witch was my one and only... Wait, hang on.
 
 What about Professor Ohinata?
 
-That's right. That stoat girl's got to have it bad too! No way someone running experiments nonstop as a magic linguistics professor has never had magic-power-depletion fainting.
+That's right. That stoat girl's got to have the severe type too! No way someone actively running experiments as a magic linguistics professor has never had magic-power-depletion fainting.
 
 Oh crap. The professor isn't my friend, but I don't want her dying either. Once I get the antidote into the Blue Witch, I've got to hurry over to the Magic University. For now, saving the Blue Witch and Professor Ohinata comes first.
 
@@ -338,7 +338,7 @@ A young camellia by the entrance was quietly blooming red, but its handful of fl
 
 Even from a distance, it was obvious this was the Flower Witch's base, because a giant tree of some unknown species grew up from inside the building and burst through the roof. It looked a thousand, maybe two thousand years old, and it stood 50 meters tall, possibly even 60. Its thick foliage was white as snow and stood out sharply against the blue sky. That was no tree from Earth. Flocks of little birds perched in its branches, chirping back and forth, and their droppings had stained the building's roof.
 
-The Tokyo Bunka Kaikan was the only building for blocks that was overgrown with plants. Guarded by branches, leaves, and the scent of flowers, it felt like a natural sanctuary that had sprung up all alone in the concrete jungle.
+The Tokyo Bunka Kaikan was the only building in the area that was overgrown with plants. Guarded by branches, leaves, and the scent of flowers, it felt like a natural sanctuary that had sprung up all alone in the concrete jungle.
 
 At the entrance, a root beckoned me on, so I parked my bike and cart and hoisted the Blue Witch onto my back.
 
@@ -374,13 +374,15 @@ You have been filled in on all this, right? This vine isn't going to strangle me
 
 "B-but...?"
 
-"Yes. But. You will pay me a price."
+"Yes. But. You will pay me for it."
 
 With a graceful smile, the Flower Witch lifted the petals that spread around her like a skirt.
 
 Hidden underneath was a snarled mass of vines, roots, and stems, every one of them throbbing and faintly squirming. Anyone with trypophobia would faint five or six times just looking at it.
 
-"My first daughter plant was never born. I am trying to bear a second, but she is tangled up with the first one's body. At this rate, she will die," the Flower Witch said sadly.
+"My first daughter plant could not be born. I am trying to bear a second, but she is tangled up with the first one's body. At this rate, she will die."
+
+The Flower Witch said it sadly.
 
 "I cannot fix this myself. I tried to untangle them, but they only got more tangled.
 
@@ -426,9 +428,9 @@ I crawled under the Flower Witch's petal skirt and had the tangle undone in no t
 
 When I held out the daughter plant I'd delivered, the Flower Witch's eyes went wide.
 
-The little one had nearly suffocated deep in the roots, but she'd pulled through. I handed over the baby, who looked like a miniature Flower Witch, and stuck out my hand. C'mon. Antidote.
+The daughter plant had nearly suffocated deep in the roots, but she'd pulled through. I handed her over—she looked like a miniature Flower Witch—and stuck out my hand. C'mon. Antidote.
 
-For some reason, though, the Flower Witch looked a little weirded out as she took the fussing baby.
+For some reason, though, the Flower Witch looked a little weirded out as she took the fussing daughter plant.
 
 "I-I see. My daughter plant is safe. I see. So it was this easy? For you, that is. I see..."
 
@@ -436,7 +438,7 @@ For some reason, though, the Flower Witch looked a little weirded out as she too
 
 The Flower Witch had been rattled, but the moment she cradled the daughter plant in her arms, her face softened.
 
-She began to soothe the baby with a sound like a birdcall, or a song, or trees rustling in a melody.
+She began soothing the daughter plant with a sound like an animal's cry, a song, or the melodic rustling of trees.
 
 I keep asking for the antidote, and this witch keeps not handing it over. Well, she did just give birth. Naturally the baby comes first.
 
@@ -454,13 +456,13 @@ What a sad story. She never even got to be born.
 
 She died without ever getting to love anything.
 
-She never even got to live, and she'd nearly killed her little sister anyway.
+She never even got to live, and yet she'd nearly killed her little sister.
 
 So at least rest easy from here on out. It ain't much, but I'm making you a grave.
 
 Once she was buried, I grabbed a light-looking stone from the rubble and set it down as a grave marker. Then I dug a shard of broken glass out of the dead leaves, chipped it with a pointed rock into a flower shaped like her mother, and left it in front of the grave as an offering.
 
-Well, that'll about do it. So long, and good luck in the next life! Go in peace!
+Well, that'll about do it. Goodbye, and on to your next life! Rest in peace!
 
 Okay, the touching first meeting between mother and newborn should be about wrapped up.
 
@@ -498,7 +500,7 @@ Maybe she isn't going to kill me after all...?
 
 "Oh, thanks."
 
-Not only was I forgiven, the Flower Witch actually seemed to be in a good mood. Something must have struck a chord with her.
+Not only was I forgiven, the Flower Witch actually seemed to be in a good mood. Apparently something had struck a chord with her.
 
 Maybe she liked the design of my offering? See, this is why you study design.
 
@@ -512,7 +514,7 @@ At once, a fresh scent spread through the air, like a walk in the woods, and tha
 
 That's a straight-up healing aura! How does that even work?
 
-I ran over to check on the Blue Witch. Her skin, which had been nearly the color of a corpse's, was starting to come back to life. Her breathing had steadied too, settling into soft, peaceful little breaths.
+I ran over to check on the Blue Witch. Some life was beginning to return to her almost corpse-like complexion. Her breathing had steadied too, settling into soft, peaceful little breaths.
 
 While I gaped, the Flower Witch explained, still dripping liquid into the pail.
 
@@ -530,7 +532,9 @@ She totally figured out I'm socially awkward. So what if I am!
 
 "Well, obviously."
 
-I nodded. Some people might mind, but any way you sliced it, wiping out the mushroom came first.
+I nodded.
+
+Some people might mind, but any way you sliced it, wiping out the mushroom came first.
 
 "This is only my impression, but I suspect this mushroom is the kind you become immune to once you've caught it and recovered. You need not worry about a second or third pandemic. Of course, it will still need investigation, research, and countermeasures, but you can leave all that to Foresight or the Eyeball Witch. There. That is plenty."
 
@@ -542,7 +546,7 @@ But when I reached for the pail, humanity's new hope, a tree root suddenly seize
 
 As I stumbled, she grabbed my jaw, pried my mouth open, and tipped my head back without a word of answer.
 
-Smiling beautifully all the while, she let three drops of a golden liquid fall into my mouth from the tip of a bundle of petals.
+Smiling beautifully all the while, she let three drops of golden liquid, secreted from the tips of a bundle of petals, fall into my mouth.
 
 It was terror, pure and simple. Eek! What is she making me drink!?
 
@@ -552,7 +556,7 @@ Once she'd made sure the golden liquid had gone down, the Flower Witch let me go
 
 I dropped to all fours and coughed violently.
 
-It didn't feel bad, exactly. If anything, the gold she'd forced on me was sweet and richly fragrant, and there was a pleasant sense of nature's power filling my body. But I had no idea what the stuff was.
+It didn't feel bad, exactly. If anything, the golden liquid she'd forced on me was sweet and richly fragrant, and there was a pleasant sense of nature's power filling my body. But I had absolutely no idea what the stuff was.
 
 I actually drank it. What? What did she just do to me? Explain!
 
@@ -564,7 +568,7 @@ I actually drank it. What? What did she just do to me? Explain!
 
 "No, I really do want to know. What did you make me drink?"
 
-"There must be mountains of people who would kill you just to learn what you drank."
+"There must be countless people who would kill you just to learn what you drank."
 
 "Yikes..."
 

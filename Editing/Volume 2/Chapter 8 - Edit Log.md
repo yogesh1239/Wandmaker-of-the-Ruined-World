@@ -319,3 +319,66 @@ Ori's なの parody of the Dragon Witch (地味に大変そうなの) still has 
 
 ### Formatting Confirmed
 - Notes [^1]–[^5], ruby spans, scene break, and image markers unchanged; no backticks; `check_reedit.py` PASS on both slices; `run_chapter_gates.py --unit 2 --chapter 8` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 283 reviewed, 25 flagged. Round 1: 17 conceded, 3 pushed back, 5 countered. Codex after round 1: 3 withdrew, 4 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 22 changed, 3 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — mechanics — narration split back out of the dialogue paragraph
+  - Final text: "Then, in an earnest and ridiculously loud voice, she said," / ""Witch of Ome!! Look, I'm begging you!! Let me meet the Wand Maker!! I'd be breaking my code if I didn't thank my benefactor in person!!""
+- **F2** — APPLIED — mechanics — restore あのさ。 as its own beat; drop the added "right?"
+  - Final text: "Hey." / "You called this an annoying situation."
+- **F3** — APPLIED — mechanics — narration split from dialogue; keep 聞いた as "asked"
+  - Final text: "I poked my head out from behind the Blue Witch's back and asked." / ""Um, this benefactor—what did they do for you?""
+- **F4** — APPLIED — mechanics — narration split from dialogue
+  - Final text: "I whispered to the Blue Witch." / ""I want to ask her a few things. Can you let her in?""
+- **F5** — KEPT — accuracy — "right, Blue Witch?"
+  - Why kept: the JP has 青の魔女 as the subject, so the vocative recasts the JP's own name rather than adding one; the FIX would have dropped it (Codex withdrew).
+- **F6** — APPLIED — mechanics — narration split from dialogue
+  - Final text: "I whispered into the Blue Witch's ear." / ""You forgot a cup. There are three of us in here.""
+- **F7** — APPLIED — accuracy — the Hell Witch can't know the master's gender yet
+  - Final text: ""So you're apprentice-kun!! Nice to meet you!! Is your master out right now or something!!? Or, don't tell me they're sick!!?""
+- **F8** — KEPT — voice — "cutesy sentence endings"
+  - Why kept: 媚びた語尾 means the affected, play-cute なの endings; "cutesy" is the idiomatic English, and "fawning" wrongly suggests servility (Codex withdrew).
+- **F9** — APPLIED — accuracy — つつく is a nudge, not a jab (counter accepted)
+  - Final text: "I nudged the Blue Witch with my elbow, and she looked away awkwardly."
+- **F10** — APPLIED — mechanics — narration split from dialogue
+  - Final text: "The oni woman looked up at the ceiling for a moment, thinking, then nodded once and dug a hand into her pants pocket." / ""Then, apprentice-kun!! I want you to give this to your master!! Tell him it's a thank-you gift from the Hell Witch!! If he makes wands, something like this should make good material, right!!?""
+- **F11** — APPLIED — worse — "It hit me like a jolt" mixed two images
+  - Final text: "I felt a jolt."
+- **F12** — APPLIED — accuracy — restore サッと
+  - Final text: "Nodding along to the correction, I whisked the amber magic stone over to my side before the Hell Witch could change her mind."
+- **F13** — APPLIED — mechanics — narration split from dialogue
+  - Final text: "The Blue Witch looked a little fed up with the grin I couldn't hide and spoke curtly to the oni woman." / ""Hey. You sure about this?""
+- **F14** — APPLIED — accuracy — 話が通じない means she can't be reached, not that she won't talk
+  - Final text: ""It's not like she didn't!! But pretty much all she said was that the Witch of Ome had gotten cold toward anyone who wasn't a resident, so even if I came, I probably wouldn't get through to her...!! Then what about that mask!!?""
+- **F15** — APPLIED — accuracy — restore 問いただす
+  - Final text: "She hadn't seemed in a great mood to begin with, and now it soured another notch as she pressed the Hell Witch."
+- **F16** — APPLIED — mechanics — a bare "?" doesn't read as speech; use "Huh?"
+  - Final text: ""Huh? ...Oh!! Sorry, that was thoughtless!! There's hardly anybody in Ome because, I guess—no, I mean, sorry!!""
+- **F17** — APPLIED — accuracy — 勝手に means "without asking", not "alone"
+  - Final text: ""Oh, sorry, I was about to leave without asking!! What is it!!?""
+- **F18** — APPLIED — accuracy/glossary — 唱えた kept as a voice verb, using the glossary's "recited" (not "chant"; counter accepted)
+  - Final text: ""That's part of it, but not all of it!! Two spells weren't nearly enough to kill them all, so I recited three spells boosted by the magic stone, all at the same time!!""
+- **F19** — APPLIED — voice — 君はさ!! is a suspended, non-confrontational lead-in (Codex's counter accepted)
+  - Final text: ""You...!!""
+- **F20** — APPLIED — glossary — 起点 = "origin" (row 755)
+  - Final text: "Apparently that didn't hold when they used two or three spells at once, though. They had to use a magic-activation medium as the origin for the magic's focus."
+- **F21** — APPLIED — accuracy — 危険も大きい keeps its size
+  - Final text: "If anything like that happened again, the crack would probably spread, and there was a serious risk of the stone splitting or shattering."
+- **F22** — APPLIED — mechanics — restore the one-line punch; both lines stay present, as an aside to the reader (counter accepted)
+  - Final text: "She just has to carry three wands." / "She can split the magic stone into three, make three wands out of it, and cast a separate spell through each one."
+- **F23** — APPLIED — glossary — exact "magic linguistics"
+  - Final text: "After all, Gremlins and magic stones vibrating abnormally under simultaneous incantation seemed more like a problem in magic linguistics."
+- **F24** — KEPT — accuracy — "separate sheets ... labeled B-1 through B-5"
+  - Why kept: Japanese 別紙 has no number, and the Ｂ－１～５ numbering points to several attachments (Codex withdrew).
+- **F25** — APPLIED — worse — "inside out" is said of places, not books; "ransacking" keeps ひっくり返し's energy (counter accepted)
+  - Final text: "The inscription took a lot of agonizing, but after ransacking every dictionary and encyclopedia in the house, I found the perfect one."
+
+Checks: check_reedit RESULT: PASS (1 WARN: dialogue paragraphs 110 -> 109 is a false positive from the earlier re-edit. In the Adachi Ward exchange, the narration "The Blue Witch asked quietly," moved off the end of the Hell Witch's paragraph and now opens the Blue Witch's own line, so that paragraph no longer starts with a quote. No speakers were merged and no line was dropped.); gates ALL PASS.
+
+Reference flags: none

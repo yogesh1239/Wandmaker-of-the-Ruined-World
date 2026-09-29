@@ -76,19 +76,19 @@ So even counting the organizer, that's only four fighters. Doesn't sound like it
 
 It did sound insanely fun. But now really wasn't the time for it. Even I could see that, and the Blue Witch was always telling me I had no sense of danger.
 
-I'll never understand how witches think. Blue, Dragon, Tobacco—every one of them just does whatever she feels like. I've only heard about the Eyeball Witch and the Foresight Mage secondhand, but I can imagine what they go through.
+I don't get how witches think. Blue, Dragon, Tobacco—every one of them just does whatever she feels like. I've only heard about the Eyeball Witch and the Foresight Mage secondhand, but I can imagine what they go through.
 
 The Blue Witch finished eating while we hashed over the flyers, and afterward she helped with my very own reverberatory-furnace construction project.
 
 If I was going to take magic-wand making all the way, I'd need to get serious about working with fire.
 
-A campfire or a pizza oven didn't get hot enough to melt metal or run experiments on new wands. I really needed a reverberatory furnace that could reach high temperatures.
+A campfire or a pizza oven didn't get hot enough to melt metal or experiment with making new wands. I really needed a reverberatory furnace that could reach high temperatures.
 
 The heat you use in everyday life and the heat serious fabrication calls for are orders of magnitude apart. Plus, a craftsman with a real furnace in his workshop just looks cool.
 
 Through Professor Ohinata, I'd gotten hold of some old reverberatory-furnace blueprints from the National Diet Library, but even with blueprints, it wasn't going to be easy.
 
-While I worked away with a shovel, leveling the ground where the furnace would go, the Blue Witch used fire magic to bake bricks for me.
+While I worked away with a shovel, leveling the ground where the furnace would go, the Blue Witch used fire magic to fire the bricks for me.
 
 To build a reverberatory furnace, you needed firebrick.
 
@@ -112,7 +112,7 @@ The Blue Witch parroted me, stunned.
 
 “Hey, nobody told me that! There's got to be firebrick somewhere, right!? Like a home improvement store! Why are you so set on making them yourself!?”
 
-“I asked Professor Ohinata in a letter, and apparently the Flame Witch of Shinagawa Ward collected all the firebrick in Tokyo and used it up. So making our own is the only option. Let's do our best, yeah?”
+“I asked Professor Ohinata in a letter, and apparently the Flame Witch of Shinagawa Ward collected all of Tokyo's firebrick stock and used it up. So making our own is the only option. Let's do our best, yeah?”
 
 “Do our best? You... If we're doing this 50 more times, it'll take weeks and weeks.”
 
@@ -130,7 +130,7 @@ For about two months starting in early spring, we plugged away at the reverberat
 
 Once, I asked her why she helped me so much, and she said, “Because I like helping,” like some kind of saint. I was floored.
 
-Then again, every so often a story would casually slip out while we talked: people who'd trespassed into Ome, and how she'd killed them, or broken their legs and tossed them out, or beaten them until they puked and sent them packing. So the Blue Witch's free kindness was probably reserved for her own people.
+Then again, every so often while we talked, she'd casually mention how she'd killed people who'd trespassed into Ome, or broken their legs and tossed them out, or beaten them until they puked and sent them packing. So the Blue Witch's free kindness was probably reserved for her own people.
 
 You're extreme, you know that? In everything you do. The gap between how you treat people you've let in and how you treat everyone else is way too big. I guess you could call that knowing where to draw the line, though.
 
@@ -148,7 +148,7 @@ I-I've seen this before~! Two months later, it's round two!
 
 “Suit yourself.”
 
-I'd heard that the last one, “Fierce Battle! Strongest Transcendent Tournament!!”, had been postponed ten years because the Foresight Mage was dead set against it, which meant it was effectively canceled.
+I'd heard that the previous “Fierce Battle! Strongest Transcendent Tournament!!” had been postponed ten years because the Foresight Mage was dead set against it, which meant it was effectively canceled.
 
 I checked the flyers to see what she was plotting this time. It was a mahjong tournament billed as “Heated Battle! Strongest Mahjong Tournament!!!” Pretty tame compared with the last one. Then again, the last one was way over the top.
 
@@ -168,9 +168,9 @@ Booze, tobacco, horse racing, pachinko, pro wrestling—she's probably into all 
 
 Leaving the thoroughly trashed Iruma Mage aside, the Blue Witch told me about the Tobacco Witch instead.
 
-Apparently the Tobacco Witch couldn't stand anything gloomy. She had an entourage of middle-aged guys who shared her hobbies, and she was always coming up with wild schemes.
+Apparently the Tobacco Witch couldn't stand anything gloomy. She had an entourage of middle-aged guys who shared her hobbies, and she often came up with wild schemes.
 
-Right after the Gremlin Disaster, while everyone else was sunk in despair and grief, she was quick to take in the racehorses stranded at Tokyo Racecourse and put them to work hauling goods in place of the cars nobody could use anymore.
+Right after the Gremlin Disaster, while people were sunk in despair and grief, she was quick to take in the racehorses stranded at Tokyo Racecourse and put them to work hauling goods in place of the cars nobody could use anymore.
 
 She planted marijuana fields for medical anesthesia.
 
@@ -190,7 +190,7 @@ From what I heard, every one of those projects was solid work helping to rebuild
 
 When I cracked that joke, she silently clamped a hand on my side, and I let out an “Eep!” That tickles!
 
-Well, apparently the Tobacco Witch looks like an ordinary woman. I've also heard she's always puffing away, so just getting near her means breathing smoke. She sounds like a fun one, but she's not the kind of person I'd want to get close to. Not that we'll ever have a reason to meet.
+Well, apparently the Tobacco Witch looks like an ordinary woman. I've also heard she's always puffing away and that it gets smoky just from getting near her. She sounds like a fun one, but she's not the kind of person I'd want to get close to. We'll probably never get the chance to meet anyway.
 
 I hope the Tobacco Witch goes on doing fun stuff and enjoying life for the rest of her days, somewhere well out of my sight.
 

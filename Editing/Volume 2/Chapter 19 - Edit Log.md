@@ -78,3 +78,22 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 - **分かってねぇなぁ。例えば…**: removed the "Blue Witch," vocative the agent had added, which the JP doesn't have → "you know that picture your sister drew, the one hanging in the kitchen?" — accuracy
 - **絵が上手いかどうかで言えばド下手クソ**: "The drawing's total crap, sure" → "Skill-wise, it's total crap" (restores the skill qualifier) — accuracy
 - Rechecked: `check_reedit.py` PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 21 reviewed, 3 flagged. Round 1: 1 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 3 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — broken idiom for 暇を持て余している
+  - Final text: "She didn't know what to do with herself."
+- **F2** — APPLIED — accuracy — 気分が良さそう restored; "doing nothing" kept (echoes ぼーっと in the next line)
+  - Final text: "I just sat on the edge of the bed doing nothing, as she'd asked, but the Blue Witch seemed to be in a good mood."
+- **F3** — APPLIED — voice — restored the incredulous double take of いや本当に上手いな？ without over-intensifying
+  - Final text: "\"Whoa, you're good. Wait, you're really good, aren't you? It's practically a photograph. Did you graduate from art school?\""
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

@@ -1,82 +1,82 @@
-The magic stone the Spider Witch had taken from the enemy was about the size of a child's fist and an elegant bellflower purple. Its deep, quiet shade of purple suited a strong but quiet spider well.
+The magic stone the Spider Witch had taken from the enemy was about the size of a child's fist, an elegant bellflower purple. That deep, quiet purple was a good match for a spider who was strong but quiet.
 
-This time, the goal was to rescue Professor Ohinata. Professor Ohinata had apparently attempted suicide by poison, so I wanted to save her and get her to a doctor as quickly as possible. I didn't have time to try making an elaborately designed wand or come up with something new. Sadly.
+This time, the goal was to rescue Professor Ohinata. She had apparently tried to kill herself with poison, so I wanted to save her and get her in front of a doctor as fast as possible. I didn't have the luxury of taking my time on an elaborate design or trying out something new. Sadly.
 
-A basic multilayer core plus a backlash-prevention mechanism would do.
+Best to keep it basic: a multilayer core plus a backlash-prevention mechanism.
 
-I put on steel sheep gloves and took a Gremlin-bladed carving knife, magic tools, and various abrasives from my tool bag.
+I pulled on my steel sheep gloves and took a Gremlin-bladed carving knife, magic tools, and assorted abrasives out of my tool bag.
 
-The more layers there were in multilayer processing, the more time it took. It was safest to stop at two layers, which could be done fairly quickly, then add a third or fourth if the power was not enough.
+The more layers multilayer processing had, the longer it took. The safe bet was to stop at two, which went relatively quickly, and add a third or fourth layer if the power fell short.
 
-I spread out a sheet and sat down, then called the <ruby>lizards<rt>fire salamanders</rt></ruby> over to light my work. As I carved it into a sphere and shaped it, I asked the Spider Witch some questions.
+I spread out a sheet, sat down, and called the <ruby>lizards<rt>fire salamanders</rt></ruby> over to light my work. While I carved the stone into a sphere and shaped it, I asked the Spider Witch a few questions.
 
-"About the wand's design. With those legs, it's hard for you to hold a wand, right? Is there some kind of shape you'd find easier to use?"
+"So, about the wand's design. With those legs, it'd be hard for you to grip a wand, right? Is there a shape you'd find easier to handle?"
 
-"Huh. I can ask for something like that? What should I do...?"
+"Huh. I get to ask for things like that? What should I do...?"
 
-"The basic form is a normal wand. Like this thing I have stuck in my belt, Hendensho-kun."
+"The basic shape is a normal wand. Like this guy tucked in my belt, Hendensho-kun."
 
-"Hmm... It might help if I could attach it to a leg. And I might sometimes have a decoy hold it, so I'd like it to be something human hands can hold too..."
+"Hmm... It might help if I could attach it to a leg. And I might have a decoy hold it sometimes, so I'd like human hands to be able to hold it too..."
 
-"I see. Okay, then. Let's base it on a normal wand shape and make it so it can be inserted into a leg holder and fixed in place. More importantly, can decoys do that much?"
+"Got it. Okay, let's see. In that case, we'll base it on a normal wand shape and make it so it slots into a holder on your leg and locks in place. Wait, can decoys really do all that?"
 
 "Yeah. I control them with magic thread like this..."
 
-The Spider Witch raised two forelegs into the air and moved them like she was conducting, and Hiyori came over through the thin mist.
+The Spider Witch raised two forelegs and waved them through the air like a conductor, and Hiyori came toward us out of the thin mist.
 
-Or so I thought, but it was a doll made of some strange material I couldn't put into words.
+Or so I thought, but it was actually a doll made of some strange material I couldn't even begin to describe.
 
-I stopped carving without thinking and looked at it. It was a humanoid made of smooth, featureless white mineral, nothing like Hiyori at all, so why did I think it was Hiyori? I had been fooled once and knew it was not Hiyori. Is that some kind of magic?
+Before I knew it, I had stopped carving to study it. It was a humanoid figure of smooth, featureless white mineral that looked nothing like Hiyori at all. So why do I think it's her, when I've already been fooled once and know it isn't? Is that some kind of magic?
 
-"Is there magic on this that messes with people's perception?"
+"Is there a spell on this that messes with people's perception?"
 
-"No. It's a property of the decoy. There isn't any magic on it. It seems to look like your closest friend, or the person you love... It's pretty tough, too. And when I use magic that affects myself, like enhancement magic or suspended-animation magic, all of the effect goes to the decoy... So I can strengthen a decoy and control it to fight, make a decoy play dead, or turn it into a dragon and make it fly through the sky..."
+"Uh-uh. It's just how decoys are. There's no magic on it. It seems to look like whoever you're closest to, or the person you love... It's pretty tough, too. And when I use magic that works on myself, like enhancement magic or suspended-animation magic, the whole effect goes to the decoy... So I can make a decoy stronger and control it to fight, have a decoy play dead, or turn it into a dragon and fly it through the sky..."
 
 "Isn't that crazy strong?"
 
-That meant she could hide somewhere safe and remotely control a decoy to fool people or attack them, right?
+So she can hide somewhere safe and control a decoy remotely to trick people or attack them, right?
 
-She could do some nasty stuff. She could use all the underhanded tactics she wanted.
+That's some nasty stuff she can pull. She can go wild with every dirty trick there is.
 
-"I think it would be strong if the Blue Witch or Eyeball Witch, who are good at magic-power control, used it. But my control is a little questionable. When I try to control one from far away, if I raise the precision, I sacrifice strength, and if I raise the strength, I sacrifice precision..."
+"I think it would be strong if someone good at magic-power control used it, like the Blue Witch or the Eyeball Witch. But my control is a little shaky. When I try to work one from far away, raising the precision costs me strength, and raising the strength costs me precision..."
 
-"That's where my wand comes in. Leave it to me. I can solve the power and backlash problems. I'll make a custom wand that is perfect for you, Spider Witch-san."
+"And that's where my wand comes in. Leave it to me. I can fix the power and backlash problems. I'll make you a custom wand that fits you perfectly, Spider Witch-san."
 
-I stroked the Spider Witch's foreleg to encourage her when she looked unsure, then went back to carving.
+The Spider Witch looked unsure of herself, so I stroked her foreleg to encourage her and went back to carving.
 
-The Spider Witch let out a creak and stared at me with an unreadable look.
+She gave a squeak and fixed me with a long, unreadable stare.
 
-I focused, worked the purple magic stone into a double-layer structure as fast as I could, and polished it. The core was done. Next came the grip.
+I focused, worked the purple magic stone into a double-layer structure as fast as I could, and polished it up. That finished the core, so I moved on to the grip.
 
-The legs of a bench set up on the station platform looked pretty good, so I had the fire salamander squad burn one off and used it as the wand's grip as is.
+One of the benches on the station platform had nice-looking legs, so I had the fire salamander squad burn one off and used it as the wand's grip as is.
 
-I removed the Gremlin from Hendensho-kun, my partner for years, melted it down, and poured it into a mold the Spider Witch had made by shaving down platform tiles, casting a backlash-prevention mechanism. I built the cooled, hardened mechanism into the grip and fixed it firmly so it would not shift around inside. Goodbye, Hendensho-kun.
+I took the Gremlin out of Hendensho-kun, my partner of several years, and melted it down. The Spider Witch had shaved some platform tiles into a mold for me, and I poured the molten Gremlin into it to cast a backlash-prevention mechanism. Once the mechanism had cooled and hardened, I built it into the grip and fixed it firmly so it wouldn't shift around inside. Farewell, Hendensho-kun.
 
-Then I combined the core and grip, making a custom wand for the Spider Witch that looked every bit like a rush job.
+Then I joined the core to the grip, and there it was: the Spider Witch's very own custom wand, with rush job written all over it.
 
-I also made a holster fitted to the wand by cutting leather from my tool bag, and tied it to one of the Spider Witch's legs.
+I also cut leather from my tool bag to make a holster that fit the wand, and tied it onto the Spider Witch's leg.
 
-All that was left was to hand over the wand, but it was too rugged for a young woman to carry, and I felt bad about that. As a tiny bit of decoration, I quickly carved in the name Witch of Arachne and a fire salamander logo. Sorry, but it didn't look like I had time to think up a good name properly.
+All that was left was to hand it over, but it was far too rugged a wand to give a young woman, and I really did feel bad about that. So, as a token bit of decoration, I quickly carved the name Witch of Arachne and a fire salamander logo into it, nice and shallow. Sorry, but it doesn't look like I've got time to sit down and think up a good name.
 
 "It's done. Here you go."
 
 "Thank you..."
 
-When I got down on one knee to present the Spider Witch's custom wand, Witch of Arachne, the Spider Witch also took a respectful pose to receive it, so we both ended up lowering ourselves like we were meeting for an arranged marriage.
+I got down on one knee to present the Spider Witch's custom wand, Witch of Arachne, and she reverently lowered herself to receive it, so we both ended up low to the ground like we were at an arranged-marriage meeting.
 
-We laughed together. Then the Spider Witch lightly moved the magic-stone wand in the holster on her foreleg to check how it felt.
+We both laughed, and then the Spider Witch lightly moved the magic-stone wand in her foreleg holster to see how it felt.
 
 "How is it? If anything feels off, I'll fix it right away."
 
-"It's fine. It's perfect. Amazing, magic-stone wands let magic power flow through so well. Everyone is going to want one... Yeah. I think this can work. I just need to save Professor Ohinata, 0933's friend, right...?"
+"It's fine. It fits perfectly. Wow, so magic power flows this well through a magic-stone wand. No wonder everyone wants one... Yeah. I think I can do this. I just need to save Professor Ohinata, 0933's friend, right...?"
 
-"Yes. Please. Are you sure you'll be okay?"
+"Yes. Please. Will you be okay?"
 
 "Leave it to me. I'm going to cast a lot of magic, so stay back just in case..."
 
-The Spider Witch made me and the fire salamanders step back, stood in front of the decoy that was standing still, and used spell after spell.
+The Spider Witch had me and the fire salamanders move back, then stood in front of the motionless decoy and cast spell after spell.
 
-"<ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>, <ruby>Kunnu-mu Wa-a<rt>I'd be willing to gouge out this eye</rt></ruby>."
+"<ruby>Yomohoroge Juya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>, <ruby>Kunnu-mu Wa-a<rt>I'd be willing to gouge out this eye</rt></ruby>."
 
 "<ruby>Yaya Kunnu-mu Gu-ratsugu ××× Risonnu-mu Kaka<rt>Do you think crushing both eyes makes the truth invisible</rt></ruby>?"
 
@@ -86,110 +86,110 @@ The Spider Witch made me and the fire salamanders step back, stood in front of t
 
 "<ruby>××××× De-nitsu<rt>Boil, my blood</rt></ruby>."
 
-An eyeball familiar appeared and settled into the hollow in the decoy's head.
+A compound-eyed eyeball familiar appeared and settled into the hollow in the decoy's head.
 
-The eyeball familiar's eye flashed faintly for an instant.
+The familiar's eye flashed faintly for an instant.
 
-With a sound like a balloon popping, the decoy gave off smoke and transformed into something the size of a thumb.
+With a pop like a bursting balloon, the decoy let off a puff of smoke and transformed into something the size of a thumb.
 
 The decoy was sprayed with thick Lost Mist, which wrapped around it like an aura and made its presence fade.
 
-Finally, self-enhancement magic was cast on it, and the decoy ran out beyond the subway-station platform at incredible speed, following the delicate motions of the Spider Witch's two raised forelegs.
+Last came self-enhancement magic, and the decoy raced off the subway-station platform at incredible speed, guided by the delicate movements of the Spider Witch's two raised forelegs.
 
-"I'm sharing the decoy's sight and hearing. I made it hard to find, and it can see through walls, so I think I can find Professor Ohinata easily... Ah, the wand's power really is amazing. I can control it this well no matter how far away it gets. Even if I focus on precision, the base output is so high... Yeah. If I find the stoat girl, should I have the decoy carry her here...?"
+"I'm sharing the decoy's sight and hearing now. I made it hard to spot, and it can see through walls, so I think finding Professor Ohinata will be easy... Ah, the wand's power really is amazing. It keeps getting farther away, and I can still control it this well. Even when I focus on precision, the base output is so high... Yeah. When I find the stoat girl, should I have the decoy carry her back here...?"
 
-"Uh, I'm not sure. Depends on the situation, I guess? Hiyori, the Blue Witch, should be nearby, so we'll have to take her into account too, or something."
+"Uhh, I'm not sure. Depends on the situation? Hiyori, the Blue Witch, is probably somewhere nearby, so we'd have to factor her in too, sort of."
 
-"Okay. I'll find her first, then..."
+"Okay. For now, I'll just find her..."
 
 "Please."
 
-The Spider Witch and the decoy were connected through the eyeball familiar. Only the Spider Witch could see the image, but I could hear the sound too.
+The eyeball familiar linked the Spider Witch to her decoy. Only she could see the picture, but I could hear the sound too.
 
-Fast footsteps. Rushing wind.
+Footsteps at a sprint. The rush of wind.
 
-Rustling as it pushed through bushes.
+A rustle as it pushed through bushes.
 
-Before long, the footsteps changed to metallic sounds, and human voices could be heard.
+Before long, the footsteps turned into metallic clanks, and I heard people talking.
 
-"I went into a ventilation duct. I'll search from the end of the south building, one section at a time."
+"I'm in a ventilation duct. I'll check the south building one section at a time, starting from the end."
 
-I silently nodded so I would not distract the Spider Witch, who was controlling the decoy with magic thread using both legs.
+I nodded without a word so I wouldn't distract the Spider Witch, who was working the decoy with magic thread from both legs.
 
-From the voices leaking through and their Kyushu-accented conversation, it sounded like there were three mages at the university—the "gang boss," "Young Boss," and "Junior Boss"—plus two witches who had taken prisoners after the Bunkyo Ward Office fell and joined them. Five in all.
+Going by the voices leaking through and their Kyushu-accented talk, there were apparently three mages at the university, the "gang boss," the "Young Boss," and the "Junior Boss," plus two from the "witch crew" who had taken the Bunkyo Ward Office and then brought prisoners along to join them. Five in all.
 
-I learned that the several witches advancing as if to surround different parts of Tokyo were being directed by "Kiwada-nee-san."
+I also learned that the several witches advancing on different parts of Tokyo, as if to surround them, were being run by "Kiwada-nee-san."
 
-The ones wandering around campus were ordinary human underlings. I could hear screams like a screaming beaver, cries of pain, and loud stupid laughter, so I figured someone among them could use the shooting-magic core spell, "<ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>Fire</rt></ruby>."
+The ones prowling the campus were ordinary human underlings. I could hear shrieks like a screaming beaver, groans of agony, and stupid laughter, so I figured some of them could use the shooting-magic core spell, "<ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>Fire</rt></ruby>."
 
-People from Magic University had once been sent to Kyushu too, which was Arataki Group territory, and taught fertility magic. The shooting-magic core spell, "<ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>Fire</rt></ruby>," must have spread there at the same time.
+Magic University had once sent people to Kyushu as well, where the Arataki Group ruled, and they had passed on fertility magic there. "<ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>Fire</rt></ruby>" must have gotten passed along at the same time.
 
 You pieces of human garbage. This is how you repay kindness...!
 
-"She wasn't in the south building. And they've stopped using contract magic on the important people they had lined up in the courtyard. There's no one in the courtyard. It's almost night, so maybe they went inside...?"
+"She wasn't in the south building. And they've stopped the contract magic they were doing on the VIPs lined up in the courtyard. There's nobody in the courtyard now. It's almost night, so maybe they went inside...?"
 
-The Spider Witch had been muttering while moving the decoy, but suddenly flinched and stopped moving. I held my breath too and hid my presence.
+The Spider Witch had been muttering to herself as she steered the decoy, but suddenly she flinched and went still. I held my breath too and made myself as unnoticeable as I could.
 
-After remaining still for dozens of seconds, the Spider Witch slowly exhaled and moved both legs in tiny motions.
+She stayed frozen for dozens of seconds before she finally let out a slow breath and began making tiny movements with both legs.
 
-"0933, I think I found Professor Ohinata. But I almost got spotted by a mage with really sharp instincts who was on high alert. He seemed like a devil... No, maybe a bat. A bat-faced guy."
+"0933, I think I found Professor Ohinata. But a mage with really sharp instincts, on high alert, almost spotted me. He looked kind of like a devil... No, a bat, maybe. A bat-faced guy."
 
-"The Young Boss, maybe? The Junior Boss? The boss looks human, right?"
+"Is that the Young Boss? The Junior Boss? The boss looks human, right?"
 
-"Wait. I'll be quiet for a little while. Let me concentrate..."
+"Hang on. I'm going to go quiet for a bit. Let me concentrate..."
 
-After that, the Spider Witch carefully moved both forelegs for a while. I could not see it, but she was delicately controlling the decoy with the magic thread connected to the tips of her legs, trying to slip through the enemy's security net. I rooted for her internally so I would not get in the way.
+For a while after that, the Spider Witch moved both forelegs with great care. I couldn't see it, but she was delicately steering the decoy with the magic thread running from the tips of her legs, trying to slip it through the enemy's security net for us. I cheered her on silently so I wouldn't get in the way.
 
-Do your best. The whole situation is on you, Witch-sama. I'm really sorry you seem to hate dangerous situations, but you're the only one we can count on. Somehow, somehow, please.
+You can do it! Everything's riding on you, Witch-sama. I'm really sorry, since you seem to hate being in the thick of things, but you're the only one we can count on. Somehow, somehow, please.
 
-After a tense stretch of time, the Spider Witch relaxed a little and turned her compound eyes toward me to explain what was happening.
+After a breathless stretch of time, the Spider Witch relaxed a little and turned her compound eyes on me to fill me in.
 
-"Professor Ohinata is locked in what looks like a storage room full of dusty machines. She looks pale and doesn't seem conscious, but she's breathing. A bat-faced mage, the Junior Boss, is standing beside her, on edge. He seems to be on guard against the Blue Witch coming to take her back..."
+"Professor Ohinata is locked in what looks like a storage room full of dusty machines. She's pale and doesn't seem conscious, but she's breathing. The bat-faced mage, the Junior Boss, is standing beside her, all on edge. He seems to be on guard in case the Blue Witch comes to take her back..."
 
-"Where is the Blue Witch?"
+"Where's the Blue Witch?"
 
 "I don't know. There was a dead underling in a locked stall in a men's bathroom on campus. The body's nails had been torn out and its neck broken. There was frost on the body, so I think the Blue Witch did it. She seems to be on campus. But she's hiding well..."
 
-I nodded. Sure enough, Hiyori had come to the university too. That was good news.
+I nodded. So Hiyori had come to the university after all, which was good news.
 
-The fact that the university's enemy witches and mages were still alive meant that either Hiyori did not know where Professor Ohinata was, or she knew but the guard was too tight for her to make a move. It sounded like she had interrogated someone, so maybe she knew where she was.
+If the enemy witches and mages at the university were still alive, then Hiyori probably either didn't know where Professor Ohinata was, or knew but couldn't make a move because the guard was too tight. It sounded like she had interrogated someone, so maybe she did know where the professor was.
 
-"If we save Professor Ohinata and let the Blue Witch know, she'll take care of the rest. Do you think you can do it?"
+"If we rescue Professor Ohinata and let the Blue Witch know, she'll take care of everything else. Think you can do it?"
 
-"Sorry. It's a little difficult. Right now, I have the decoy in the corner of the room next to the one Professor Ohinata is locked in, but if it gets any closer, they'll notice. The room it's in now is... maybe an interrogation room? There are bloodstains on the floor..."
+"Sorry. That's a little hard. Right now I've got the decoy in a corner of the room next to the one the professor's locked in, but if it gets any closer, they'll notice. The room it's in now is... an interrogation room, maybe? There are bloodstains on the floor..."
 
-"Hmm... If we could somehow separate Professor Ohinata and her guard. Should I go make a distraction?"
+"Hmm... If only we could get Professor Ohinata away from her guard somehow. Should I go create a distraction?"
 
-"Absolutely not! Worst case, we'd end up with two hostages. Please don't go anywhere dangerous..."
+"Ab-so-lute-ly not! Worst case, that makes two hostages. Please don't go anywhere dangerous..."
 
 "S-Sorry."
 
-She said it with such force that I shrank back.
+She said it so fiercely that I shrank back.
 
-I was just throwing it out there. Well, I did think maybe I had a shot. Guess I don't have one after all.
+I was only throwing it out there. I mean, I just figured I might have an outside chance. Guess I don't even have an outside chance.
 
-The Blue Witch, the Spider Witch, and the Flower Witch's child—the capable ones all told me to stay put.
+The Blue Witch, the Spider Witch, the Flower Witch's child... all the heavy hitters say the exact same thing: you stay put and behave.
 
-I was armed with Hendensho, had guards with me, had my tool bag on my back, and had come sneaking through the underground passage. I thought I had come into this dangerous area while being careful in my own way, but maybe I had underestimated the danger.
+Armed with Hendensho, guards in tow, and tool bag on my back, I'd come sneaking through the underground passage. I'd thought I was being careful in my own way coming into this danger zone, but maybe I'd been too optimistic about how dangerous it was.
 
-"Hmm, hmm... But a distraction might be a good idea. The Junior Boss is on guard, but he's nervous too. If something startled him, it looks like we could save Professor Ohinata in that opening..."
+"Hmm, hmm... But a distraction might be a good idea. The Junior Boss is on guard, but he's jumpy too. If something startled him, it looks like we'd have an opening to rescue Professor Ohinata..."
 
-"A distraction. Startle him. Wait, what can I do? I can't go. Sending the fire salamanders, though... Tsubaki, can you make a distraction?"
+"A distraction. Startle him. Okay, but how? I can't go. And sending the fire salamanders wouldn't really... Tsubaki, think you could pull off a distraction?"
 
 "Mimimi? Mii!"
 
-"Yeah, of course. You're hungry, huh."
+"Yeah, I know. You're hungry, huh."
 
-"The wand is amplifying it, but I don't have that much magic power... I can't keep magic going forever. I'd like to settle this as soon as possible... That bat-like guy looks like he'd get more active once night comes..."
+"The wand is amplifying it, but I don't have that much magic power... I can't keep the magic going forever. I'd like to settle this as soon as I can... From the look of that bat-ish guy, he'll probably get more active once night comes..."
 
 "What about finding the Blue Witch first?"
 
-"That could work. But it could also work to stay in the next room like this and wait for an opening..."
+"That's an option. But so is staying put in the next room and waiting for an opening..."
 
-We held a strategy meeting for a while, going back and forth, but the Spider Witch suddenly went quiet and gestured for us to be quiet.
+We went back and forth on strategy for a while, until the Spider Witch suddenly fell silent and gestured for us to keep quiet.
 
-Footsteps came through the familiar, and the door to a room opened.
+Footsteps came through the familiar, then the sound of a door opening.
 
 Someone.
 
-Someone breathing weakly was dragged into the room where the decoy was hiding.
+Someone breathing weakly was forcibly dragged into the room where the decoy was hiding.

@@ -72,3 +72,22 @@
 - Whole source scope audited in three consecutive chunks (lines 4–175, 176–350, and 351–469) for both passes.
 - Locked incantations, Arataki Group terminology, honorifics, narrative/direct-thought tense distinction, and final deteriorating diction verified.
 - No source scene break or footnote; final `![p111.jpg](images/p111.jpg)` marker preserved.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–470 (`reedit-c4-s1`); subagent model Claude Opus; 132 changed paragraphs). Flow: short-sentence share 20.5% -> 16.6%; runs 4 -> 4; FLOW: ok. Codex critique: 132 changes reviewed, 8 flagged; 7 accepted; rejected F7 (もう少し視るか is self-directed, not a question).
+
+### Accuracy Fixes
+- **唱える (×2)**: "chant" (banned) → "recite the incantation" — glossary
+- **魔術師 (×2)**: "mage" → "wizard" — glossary
+- **彼に交渉を任されている青の魔女**: direction of the negotiator relation fixed — referent
+- **竜の魔女なら勝てない相手ではない**: "The Dragon Witch can beat her." → "She's not someone the Dragon Witch can't beat." — accuracy
+- **理論構築に着手 / 組み込んだばかりだ**: 理論 and ばかり restored — accuracy
+- **やだ……だめ……まだ……**: やだ restored — accuracy
+- **さて、荒瀧組の動向はどうなったか？**: narrator question kept present ("what has the Arataki Group been up to?") — tense
+
+### Register and Flow
+Kept run: "A nuclear bomb? / A Class A-1 monster? / No, this was the Arataki Group's doing." Two other runs are incantation continuation lines counted as narration. 未来視 capitalized as "Foresight" when it names the man, lowercase when it names the ability.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 4` ALL PASS.

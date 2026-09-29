@@ -2,9 +2,9 @@ The Blue Witch said she would bring me materials on magic language, so I marked 
 
 A magic wand boosted and reinforced magic cast through magic language, so you couldn't make a decent one without knowing the language.
 
-Making wands without knowing magic language was like a CEO who'd never set foot on the factory floor running a manufacturing company. Sure, it could be done, but not well.
+Making magic wands without knowing magic language was like a CEO who knew nothing about the shop floor running a manufacturing company. Sure, it could be done, but not well.
 
-I had a hunch that studying magic language was essential if I wanted to understand wand structure in theory and push it further.
+I had a hunch that studying magic language was essential to understanding and advancing the structural theory of magic wands.
 
 Plus, I was just plain interested in magic language.
 
@@ -12,7 +12,7 @@ My motivation was night and day compared to when I'd been forced to study Englis
 
 I mean, it's magic language—magic! Who wouldn't be interested?
 
-Five days later, I was eagerly waiting for the stack of magic language materials the Blue Witch was bringing me, and my hopes got dashed.
+Five days later, I was eagerly waiting for the stack of magic language materials I figured the Blue Witch would bring me, and my hopes got dashed.
 
 The Blue Witch showed up in her usual ragged black clothes, with Blue Wand Cyanos and her mask, but no materials. Instead, a little animal sat perched on her shoulder.
 
@@ -38,7 +38,7 @@ Which meant...
 
 With that, the ferret—correction, the stoat—scurried down the Blue Witch's body to my feet, stood up on its hind legs, and held out a tiny right forepaw.
 
-The gesture baffled me for a second before I caught on, crouched down, and shook it.
+The gesture baffled me for a second before I caught on, crouched down, and shook its paw.
 
 Its hand is so tiny! I'm shaking hands with a talking stoat—forget fantasy, this is a fairy tale.
 
@@ -74,9 +74,9 @@ The stoat—Ohinata—threw both her stubby little arms in the air.
 
 She's so cute! I couldn't stop grinning.
 
-I'd always hated those TV shows that dub silly voices over animals, but an animal that actually talked like a person was seriously cute.
+I'd always hated those TV shows that dub voices over animals, but an animal that actually talked like a person was seriously cute.
 
-I wasn't good with human talk, and I wasn't good with animals either (the beasts that trashed my fields had turned me against them), yet put the two together and somehow you got something cute.
+I wasn't good at talking to people, and I wasn't good with animals either (the beasts that trashed my fields had turned me against them), yet put the two together and somehow you got something cute.
 
 You made the right call giving up on being human, I thought, but I had just barely enough decency not to say it out loud.
 
@@ -130,7 +130,7 @@ Then again, Ohinata doesn't look human at all. Actually, she isn't human.
 
 Any way you look at it, she's just a talking critter. If I'm scared of a stoat this obviously weak and cute, I'd have to be scared of every living thing on earth.
 
-I'm the one who dumped all outside negotiations on the Blue Witch... If she's decided this kid can be trusted, then, well, I guess it's fine?
+I'm the one who dumped all outside negotiations on the Blue Witch... If she's decided Ohinata can be trusted, then, well, I guess it's fine?
 
 Getting the magic language materials on paper would've been best, but a talking stoat isn't bad either.
 
@@ -174,7 +174,7 @@ I led Professor Ohinata to my workshop, careful not to step on her, and the stoa
 
 "Wow...!"
 
-Her beady little eyes sparkled as she scurried up onto the worktable and looked around the room in awe.
+Her round little eyes sparkled as she scurried up onto the worktable and looked around the room in awe.
 
 "Amazing, amazing! It looks like a magic artisan's workshop!"
 
@@ -230,9 +230,9 @@ Man, this stoat's pushy. She's got "lots of friends" written all over her, and I
 
 "Aichi."
 
-"Aichi means miso katsu[^1]! It's so good, isn't it? Do you eat it all the time?"
+"Aichi means miso katsu[^1]! It's so good, isn't it? I bet you eat it a lot, huh?"
 
-At first I'd answered because I figured she was interested in a wand workshop, but something seemed a little off. She kept throwing out topics that sounded related but weren't.
+At first I'd answered because I figured she was interested in a magic wand workshop, but something seemed a little off. She kept throwing out topics that sounded related but weren't.
 
 Why is she digging this deep into my private life? It has nothing to do with magic wands or magic language. Is she trying to find out who I am?
 
@@ -258,7 +258,7 @@ You don't become friends by trying to become friends, do you?
 
 Getting along just so you can become friends makes no sense.
 
-You click, so naturally you get along, and before you know it, you're friends. That's the natural way things are supposed to go.
+You click, so inevitably you get along, and before you know it, you're friends. That's the natural way things are supposed to go.
 
 Putting in effort to get along? Come on, that's warped. It goes against the laws of human nature.
 
@@ -290,7 +290,7 @@ Professor Ohinata looked sad and deflated, but she quickly pulled herself togeth
 
 I settled into a cushioned chair, got ready to take notes, and gave her my full attention.
 
-Never thought I'd be sitting through a lecture again after graduating from university.
+Never thought I'd be listening to a lecture again after graduating from university.
 
 If any university had offered lectures on magic linguistics, they'd have been hugely popular. The professor was a super-cute stoat, after all.
 
@@ -310,9 +310,9 @@ I'd heard he was dead now, but even if he were alive, I probably never would've 
 
 "Oh, you don't have to take notes on this part. It's fine to just listen. This part's just the introduction.
 
-"Collecting language samples is the very first step of that five-stage method: observation. With Bloodsucking-san's help, the research team interviewed 13 witches and mages about their incantations and ended up with 72 spells in total. When they analyzed and classified the meanings and pronunciations of those 72 spells, they concluded they'd have to add at least seven unknown phonetic symbols for sounds humans can't pronounce. In other words, magic language was never a language spoken by humans, by Homo sapiens, in the first place."
+"Collecting language samples is the very first step of that five-stage method: observation. With Bloodsucking-san's help, the research team interviewed 13 witches and mages about their incantations and ended up with 72 spells in total. When they analyzed and classified the meanings and pronunciations of those 72 spells, they concluded they'd have to posit at least seven unknown phonetic symbols for sounds humans can't pronounce. In other words, magic language was never a language spoken by humans, by Homo sapiens, in the first place."
 
-"I've heard about that. The Blue Witch chanted in a weird voice too."
+"I've heard about that. The Blue Witch recited her incantations in a weird voice too."
 
 "That's right. The Vaa-ra school has unpronounceable sounds in it too. You know a lot!"
 
@@ -320,15 +320,15 @@ Professor Ohinata smiled and nodded.
 
 "Magic linguistics is linguistics, but it also takes in history and regional studies.
 
-"Here's a familiar example. Japanese has tons of words for snow: light snow, powder snow, big fluffy flakes, sleet, hail, blizzards, ground blizzards, wet snow, fresh snow, lingering snow, and so on. That's because Japan is a snow country. It's the language of a place where it snows a lot, so a culture of telling kinds of snow apart in fine detail grew up, and that got reflected in the language.
+"Here's a familiar example. Japanese has tons of words for snow: light snow, powder snow, big fluffy flakes, sleet, hail, blizzards, ground blizzards, wet snow, fresh snow, lingering snow, and so on. That's because Japan is a snow country. It's the language of a place where it snows a lot, so the culture developed fine distinctions between different kinds of snow, and those distinctions are reflected in the language.
 
 "In Mongolia, it's horses. They have very fine distinctions for horses, because their whole way of life is bound up with them.
 
-"If you know a language, you know the land it was born in, and if you know the land, that helps you understand the language. Basically, who speaks it, and where do they live?
+"If you know a language, you understand the environment it was born in, and if you understand that environment, it helps you understand the language. Basically, who speaks it, and where do they live?
 
-"So alongside the language research, the team also studied the witches and mages themselves. They aren't native speakers, but they're the closest thing there is. This kind of research takes enormous patience, and with machines not working anymore, the team was always short of hands. That's how I started going to the lab to help with my father's research."
+"So alongside the language research, the team also studied the witches and mages themselves. They aren't native speakers, but they're the closest thing there is. This kind of research takes enormous patience, and with machines not working anymore, the team was always short-handed. That's how I started going to the lab to help with my father's research."
 
-I'd been listening quietly up to that point, but something was bugging me too much, so I raised my hand.
+I'd been listening quietly up to that point, but something kept bugging me, so I raised my hand.
 
 "Mind if I cut in?"
 
@@ -336,7 +336,7 @@ I'd been listening quietly up to that point, but something was bugging me too mu
 
 "Professor Ohinata, are you really twelve? This isn't the kind of lecture an elementary schooler gives."
 
-"Thank you! I went to a private school, and ever since I started there, I've never gotten anything but first place on a test. My dad used to praise me for it all the time."
+"Thank you! I went to a private school, and ever since I started there, I've never gotten anything but first place on a test. My dad used to praise me for it a lot, too."
 
 With that, the stoat perked up her whiskers and proudly puffed out her chest fur.
 
@@ -358,9 +358,9 @@ The Blue Witch had warned me about that too. Accidentally going "magic, boom!" w
 
 "Specifically, the team made modifying and improving incantations its top priority.
 
-"Take the incantations of Bloodsucking-san's Deenit school, for example. Deenit school magic has to do with blood, and one of its spells is a self-enhancement spell. It burns magic power and your own blood to give your physical abilities a big boost, and it uses little enough of both that even an ordinary person can handle it. You'll be anemic afterward, but nothing serious.
+"Take the incantations of Bloodsucking-san's Deenit school, for example. Deenit school magic has to do with blood, and one of its spells is self-enhancement magic. It burns magic power and your own blood to give your physical abilities a big boost, and it uses little enough of both that even an ordinary person can handle it. You'll be anemic afterward, but nothing serious.
 
-"In theory, this self-enhancement spell would let an ordinary person holding a fairly large Gremlin take down a weak monster. It would take a huge load off the witches and mages who hunt monsters, make manual labor far more efficient, and help in all sorts of other ways."
+"In theory, this self-enhancement magic would let an ordinary person holding a fairly large Gremlin take down a weak monster. It would take a huge load off the witches and mages who hunt monsters, make manual labor far more efficient, and help in all sorts of other ways."
 
 "Ooh. I want to learn that. What's the incantation?"
 
@@ -370,7 +370,7 @@ The Blue Witch had warned me about that too. Accidentally going "magic, boom!" w
 
 I see, so that's the sticking point.
 
-Then it's no good—way too many incantations are witch-and-mage only. You can research them all you want, but it means nothing if nobody can say them.
+Then it's no good—way too many incantations are witch-and-mage only. You can research them all you want, but it means nothing if you can't recite them.
 
 "That's why we're researching and developing bypass incantations. We analyze the magic language and rebuild the incantation around words that mean the same thing but that humans can pronounce, steering clear of the unpronounceable sounds. The idea is to create a spell with the same effect that humans can actually say."
 
@@ -438,13 +438,13 @@ That fricative didn't appear anywhere in the magic language identified so far, a
 
 That meant slipping it into magic language made the pronunciation invalid, and the magic would always fizzle.
 
-A safety-device sound to prevent accidental activation. Hence, "safety sound."
+A safety-device sound to prevent accidental activation. That was why they called it a "safety sound."
 
 The safety sound was so short, quiet, and hard to catch that unless you listened really carefully, you'd dismiss it as noise. Adding it didn't get in the way of conversation at all.
 
 Witches and mages had no need for it, but for ordinary people like me, it was extremely useful.
 
-You could call it one of the magic linguists' finest research achievements.
+You could call it one of the magic linguists' impressive research achievements.
 
 Mind you, experiments with bypass incantations and modified incantations needed the magic to actually activate, so they couldn't just tack on a safety sound and make it fizzle. Knowing the safety sound still didn't save magic linguists from fatal accidents.
 
@@ -488,7 +488,7 @@ None of this makes any sense.
 
 When I got the details out of her, it sounded like there'd been some political dealing at the Witches' Council.
 
-The Foresight Mage, who had Professor Ohinata under his protection, was actually the minister in charge of the food problem. His offer went something like: "I'll lend you my subordinate, so in exchange, help out with the food-production project I've got on my plate."
+The Foresight Mage, who had Professor Ohinata under his protection, was actually the minister in charge of the food problem. His offer went something like: "I'll lend you my subordinate, so in exchange, help out with the food-production project we've got on our plate."
 
 I also got a long speech about just how bad Japan's food crisis was right now, but that was the gist.
 
@@ -518,7 +518,7 @@ I answered my own question before she could.
 
 Then Cyanos is out, and the same goes for Okutameteorite.
 
-"What about sheer manpower? It's not like I was saving them for a day like this, but I've got about 300 general-purpose dual-layer Gremlin wands I made to kill time sitting in storage. Teach regular people that fertility magic, get all 300 of them chipping away at it..."
+"What about sheer manpower? It's not like I was saving them for a day like this, but I've got about 300 general-purpose dual-layer magic wands made from Gremlins sitting in storage. I made them to kill time. Teach regular people that fertility magic, get all 300 of them chipping away at it..."
 
 "Sheer manpower won't work. Fertility magic has an unpronounceable sound in it. Only witches and mages can use it."
 
@@ -534,7 +534,7 @@ Well, what do you know—Professor Ohinata's going to solve it for us even if we
 
 "Oh yeah, they kept dying until she was the only one left, right? So hire new people."
 
-"Over ninety percent of magic-language researchers die on the job. That's a higher death rate than the guards have. They say they're recruiting, but nobody signs up."
+"Over ninety percent of magic-language researchers die on the job. That's a higher death rate than the security force has. They say they're recruiting, but nobody signs up."
 
 Every idea I threw out got shot down, and I was about to snap.
 
@@ -592,7 +592,7 @@ Okay, time to give this some serious thought.
 
 How to solve Japan's food problem and keep the stoat professor from getting killed in an accident.
 
-Professor Ohinata was still dead asleep, so she got moved into a basket lined with a fluffy blanket, and the Blue Witch carried her home with great care.
+Still dead asleep, Professor Ohinata was moved into a basket lined with a fluffy blanket, and the Blue Witch carried her home with great care.
 
 Between getting saddled with Japan's food problem, turning into a stoat, and having a one-on-one lecture with a socially awkward guy crammed into her schedule, she must have been worn out, body and mind.
 
@@ -608,11 +608,11 @@ If the death rate of magic-language experiments dropped off a cliff, people woul
 
 Once there was a fertility-magic bypass incantation anyone could recite, the 300 general-purpose magic wands sitting in my storage would finally get to cut loose. If 300 wasn't enough, I could always make more.
 
-Even unprocessed Gremlins could serve as a medium for casting magic, inefficient as they were. So worst case, if we ran short on wands, we'd only need to spread the words of the bypass incantation around. Then sheer manpower could blanket the land in low-output fertility magic, and the food problem would be solved.
+Even unprocessed Gremlins could serve as magic-activation media, inefficient as they were. So worst case, if we ran short on wands, we'd only need to spread the wording of the fertility-magic bypass incantation around. Then sheer manpower could cast low-output fertility magic over and over, and the food problem would be solved.
 
 So how was I going to lower the death rate of magic-language experiments?
 
-It was a tough problem, but my one talent was world-champion dexterity. Nobody could touch me when it came to making magic wands. The smart move was to play to my strengths and make a wand that lowered the death rate of magic-language experiments.
+It was a tough problem, but my one talent was world-champion dexterity. Nobody could touch me when it came to making magic wands. The smart move was to play to my strengths and make a magic wand that lowered the death rate of magic-language experiments.
 
 I'd heard about several fatal accidents from failed magic-language experiments, and in a lot of them, less power would've meant nobody died.
 
@@ -708,13 +708,13 @@ Since this would be the most complex processing I'd ever attempted, I went with 
 
 I'd barely started before I realized this wasn't going to be easy.
 
-The multilayered sphere for Cyanos had been hard enough, but fractal processing was on another level. Carefully carving out that tangle of the same structure nested inside itself over and over, I felt like my eyes and hands were about to go haywire.
+Cyanos's spherical multilayer processing had been hard enough, but fractal processing was on another level. Carefully carving out that tangle of the same structure nested inside itself over and over, I felt like my eyes and hands were about to go haywire.
 
 With Cyanos, I'd been able to work straight through, but the fractal wore my concentration down fast. I took break after break, resting my hands and soothing my eyes with hot towels.
 
 Making more than 300 magic wands hadn't been a waste after all.
 
-If I hadn't spent all that time training my eyes and hands and sharpening my precision, even I couldn't have pulled off work this ultra-precise.
+If I hadn't spent all that time training my eyes and hands and improving my precision, even I couldn't have pulled off work this ultra-precise.
 
 If carving a Great Buddha out of a grain of rice was dexterity level 1, this job was around level 100. And I'm not exaggerating—it was seriously that hard.
 
@@ -770,9 +770,9 @@ Hm?
 
 Wait, is this...
 
-"<ruby>Vaa-ra<rt>Freeze</rt></ruby>. Aha, just as I thought. Is it on standby? <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>. Yep, that's gotta be it. Then how about Vaa-raaa... Nothing at all. Got it."
+"<ruby>Vaa-ra<rt>Freeze</rt></ruby>. Aha, just as I thought. Activation-standby state? <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>, <ruby>Vaa-ra<rt>Freeze</rt></ruby>. Yep, that's gotta be it. Then how about Vaa-raaa... Nothing at all. Got it."
 
-After reciting it over and over to test it, I figured out that the fractal-processed piece went into activation standby on the first incantation and fired on the second. It didn't respond to incorrect incantations at all.
+After reciting it over and over to test it, I figured out that the fractal-processed piece went into an activation-standby state on the first incantation and fired on the second. It didn't respond to incorrect incantations at all.
 
 On top of that, its power had dropped through the floor.
 
@@ -856,7 +856,7 @@ Luckily, apart from the water level dropping a bit, the paddy was fine. I adjust
 
 Supposedly central Tokyo was under rationing and the food shortage there was severe, but living alone as a shut-in in Okutama, I barely felt it. The Blue Witch brought me food rations on a regular schedule, and the rice paddy was going well. Not that I could let my guard down. Come harvest time, there'd probably be a fierce battle with the pests going after the rice.
 
-On the way home, I thought I'd ask to learn the improved fertility magic too once it was done, since it was supposed to work even for ordinary people who couldn't pronounce the unpronounceable sounds. When I got back, the Blue Witch and a girl I'd never seen before were standing at my front door with the setting sun behind them.
+On the way home, I thought I'd ask to learn the improved fertility magic too once it was done, since even ordinary people who couldn't pronounce the unpronounceable sounds would be able to use it. When I got back, the Blue Witch and a girl I'd never seen before were standing at my front door with the setting sun behind them.
 
 "Ah! Ori-san! Welcome back! Were you out?"
 
@@ -972,7 +972,7 @@ A white-haired beastkin girl holding a geometric wand.
 
 And this isn't even cosplay. Unreal.
 
-Kids born after the Gremlin Disaster would probably grow up with strange wands and witches like these as a normal part of life.
+Kids born after the Gremlin Disaster would probably grow up with strange magic wands and witches like these as a normal part of life.
 
 Weird feeling. To me, it's thrilling fantasy, but to the new generation, it'll just be normal stuff that's been there since they were born.
 
@@ -1006,7 +1006,7 @@ Amazing, but scary!
 
 Now I'm scared!
 
-Professor Ohinata is such a genius she's gone right past amazing and come out scary!
+Professor Ohinata is such a genius she's gone right past amazing and looped back around to scary!
 
 "Professor Ohinata is truly a remarkable individual. I am deeply impressed."
 
@@ -1016,7 +1016,7 @@ Professor Ohinata is such a genius she's gone right past amazing and come out sc
 
 "Do you think so? Thank you."
 
-"Your dad's probably proud of you from beyond the grave, too. Bet he's bragging about his daughter."
+"Your dad's probably proud of you from beyond the grave, too. Bet he's saying, 'That's my girl.'"
 
 "..."
 
@@ -1064,7 +1064,7 @@ She agreed so easily that while the Blue Witch used my kitchen to make dinner, I
 
 ![image_rsrc508.jpg](images/image_rsrc508.jpg)
 
-It was state-secret-level magic, so I'd only asked on the off chance, figuring they wouldn't teach me. But come to think of it, they were about to spread it all over Japan anyway.
+It was state-secret-level magic, so I'd only asked on the off chance, figuring they might not teach me. But come to think of it, they were about to spread it all over Japan anyway.
 
 Learning it a little ahead of everyone else shouldn't hurt.
 
@@ -1158,7 +1158,9 @@ Professor Ohinata had the nerve to ask, with a totally straight face, "Could I b
 
 Like hell. With the Blue Witch as her bodyguard, she'd be safe on a dark road or even a battlefield. Kindly go home. I mean it.
 
-Professor Ohinata looked a little put out, but she let the Blue Witch take her hand and waited obediently in the entryway. Before stepping outside, she turned back to me, fidgeting. "Um, can I come over to play again...?"
+Professor Ohinata looked a little put out, but she let the Blue Witch take her hand and waited obediently in the entryway. Before stepping outside, she turned back to me, fidgeting.
+
+"Um, can I come over to play again...?"
 
 "No."
 
@@ -1172,11 +1174,11 @@ Professor Ohinata looked a little put out, but she let the Blue Witch take her h
 
 She made a logical case for the benefits of meeting again, but I flatly refused.
 
-Stoat mode I'd have welcomed, but animal-ear mode is a hard pass.
+Stoat mode I would have welcomed, but animal-ear mode was a hard pass.
 
-Professor Ohinata is a kid, but she's a good kid. Her stories are interesting too.
+Professor Ohinata was a kid, but she was a good kid. Her stories were interesting too.
 
-But she's so outgoing and cheerful that my instincts reject her outright. Even if she hid her face behind a mask like the Blue Witch, my body probably still wouldn't accept her.
+But she was so outgoing and cheerful that my instincts rejected her outright. Even if she'd hidden her face behind a mask like the Blue Witch, my body probably still wouldn't have accepted her.
 
 The Blue Witch bristled with killing intent at me for shooting down a kid with everything I had, like a total child, so I hurried to offer a compromise before she turned me into an ice statue.
 
@@ -1204,4 +1206,4 @@ I'll just quietly keep an eye on where Professor Ohinata goes from here.
 
 [^2]: **Aleister Crowley** (1875–1947): An English occultist and writer whose name Ori used for the wand.
 
-[^3]: In these incantations, the bracketed text gives the magic-language pronunciation of the preceding written meaning. In `ほにゃららウエウエント`, `ほにゃらら` is an intentional placeholder for the unpronounceable portion, not a pronounceable reading.
+[^3]: In these incantations, the bracketed text gives the magic-language pronunciation of the preceding written meaning. In ほにゃららウエウエント, ほにゃらら is an intentional placeholder for the unpronounceable portion, not a pronounceable reading.

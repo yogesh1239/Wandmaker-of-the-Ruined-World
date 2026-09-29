@@ -102,3 +102,27 @@ Preserved the fast comic rhythm and all source-marked dialogue. Dialogue paragra
 - **掴んで引き寄せ守った** (JP 70): “snatched the stoat back into her arms” → “snatched the stoat up and pulled her out of reach” — worse
 - **一番威張りんぼのツバキ** (JP 52): “the bossiest of the bunch” → “the bossiest one” (repeated phrase) — worse
 - Post-fix: `check_reedit.py` RESULT: PASS (FLOW: LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 12` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 81 reviewed, 5 flagged. Round 1: 4 conceded, 0 pushed back, 1 countered. Codex after round 1: 0 withdrew, 4 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 5 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — mechanics — un-merged the narration paragraph from the following dialogue line (JP 133–136)
+  - Final text: "After grooming the damp fur around her mouth with her front paws, she changed the subject." (dialogue “By the way, Ori-san. …” restored as its own paragraph; "changed the subject" for 切り出してくる before ところで)
+- **F2** — APPLIED — tense — 良さそうだ appraisal back to past narration with its hedge; also restored 上手く ("neatly"), a nuance Codex missed (JP 217)
+  - Final text: "Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed. It seemed best to put only its face on the front, then neatly work the belly pattern into the back alongside the number 100."
+- **F3** — APPLIED — glossary — bare "the Council" → "the Witches' Council" (JP 223 is 魔女集会; lead-ruling fix, also the lead's extra task)
+  - Final text: "The Witches' Council had settled only one design by unanimous vote: the Bloodsucking Mage's face on the 500-yen coin."
+- **F4** — APPLIED — accuracy — restored dropped 作業に取り掛かった (JP 289)
+  - Final text: "I couldn't hope to keep up, so I left them to it, went into the workshop, and got to work."
+- **F5** — APPLIED — accuracy — restored dropped 気持ちいい (JP 301). I argued 感じ governs 歴史の節目, not 始まる (Codex agreed); accepted Codex's counter text over my "the, like, fresh feeling … felt great", which repeated "felt".
+  - Final text: "Issuing a new currency felt like a turning point in history. Something new was getting started, and that was refreshing. It felt good."
+  - Final text: "…when a meep-meep cry came from the entryway." (was "a mewl"). The 「ミーッ！」/「ミー！」 dialogue lines ("Mii!") are the salamander's quoted cries, not narrative ミーミー鳴く, so left as filed.
+
+Checks: check_reedit RESULT: PASS (FLOW: LIGHT PASS; WARN dialogue paragraphs 35 -> 34 is the narration line "\"Tough luck\" almost came out…" that the earlier pass rephrased so it no longer opens with a quote mark; no speakers merged, no line dropped; F1 un-merge verified); gates ALL PASS (--unit 3 --chapter 12).
+
+Reference flags: The salamanders' quoted cries render as "Mii!" (EN lines 19, 39, 41) — if the series wants dialogue cries unified with "meep", that is a lead call; not changed here. Otherwise none.

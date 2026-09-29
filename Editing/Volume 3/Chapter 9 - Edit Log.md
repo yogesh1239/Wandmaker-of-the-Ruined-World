@@ -88,3 +88,25 @@ Ori's immediate questions, anxieties, recognitions, and planned experiment were 
 - **どこに連れていかれるのかと思っていると** (JP 244): restored Ori's wondering before the reveal — accuracy
 - **疲れ知らずかと思われたが、昼過ぎから…疲れたらしい** (JP 103): restored "early afternoon" and both hedges — accuracy
 - **火事は困る** (JP 31): "the house fire" → "a house fire" (hypothetical) — polish
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 49 reviewed, 3 flagged. Round 1: 1 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted (F2 silently, F3 explicitly), 0 maintained, 1 countered (F1). Round 2: no.
+Final: 3 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 喜んだ (Ori was pleased) alongside 束の間; Codex's counter adopted (no em dash, natural phrasing)
+  - Final text: "But what came next was not good. The move went unbelievably smoothly, and for one brief moment I was happy it was all settled. When I tried to head home from the reverberatory furnace, they toddled right after me."
+- **F2** — APPLIED — accuracy — 火蜥蜴たちの熱 is "the fire salamanders' heat", not "body heat"; also restored こもって (heat built up inside)
+  - Final text: "The only consolation was the fire salamanders' heat, which built up inside and kept the place pleasantly warm."
+- **F3** — APPLIED — accuracy — restore the 言うべきか hedge; my counter (hedge folded into the same sentence, no forward-pointing "that") accepted by Codex
+  - Final text: "Still, as you might expect of witches' children, they picked things up very quickly for monsters, and we were starting to communicate, sort of."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS (run_chapter_gates --unit 3 --chapter 9).
+
+Reference flags: none
+
+### Lead Fixes (series rulings)
+- ミーミー: 3× "meep meep" → "meep-meep" (series form)

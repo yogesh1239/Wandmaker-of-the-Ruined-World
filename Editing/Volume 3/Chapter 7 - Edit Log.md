@@ -97,3 +97,44 @@ The chapter's panicky, technical first-person voice stayed casual. Immediate hyp
 - **魔女を魔物として見ると** (JP 163): "Viewed as monsters, … (fire and ice, for one thing)" — accuracy
 - **はあ？…可愛い、まあ、可愛くはあるが** (JP 271): restored the interjection and the self-correction — voice
 - Split the merged narration and dialogue paragraph at JP 232/235 — punct
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 102 reviewed, 14 flagged. Round 1: 6 conceded, 0 pushed back, 8 countered. Codex after round 1: 0 withdrew, 7 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 14 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — dropped unsupported "a few"; restored 現状 and 留まる ("or at best")
+  - Final text: "More than four years had passed since the Gremlin Disaster, and compulsory education was still suspended. As things stood, education was left to each family, or at best to volunteer teachers holding open-air classes."
+- **F2** — APPLIED — accuracy — 手際よく is efficiency, not speed
+  - Final text: "...but she soon got used to it and planted more efficiently than I did."
+- **F3** — APPLIED — accuracy — restored 頬張る
+  - Final text: "We finished planting before noon, then sat together on a mat spread over the ridge between paddies and stuffed our faces with rice balls."
+- **F4** — APPLIED — accuracy — restored 器用に
+  - Final text: "Small birds (or little bird monsters?) had even managed to build nests on dead traffic lights, leaving the road below covered in white droppings."
+- **F5** — APPLIED — accuracy — restored ミーミー cry and しきりに (editor counter, Codex accepted)
+  - Final text: "Huddled together in a nest they'd made inside the refrigerator, they kept up a constant meep-meep at us, trying to scare us off."
+- **F6** — APPLIED — accuracy — 体色 is body color, not scales
+  - Final text: "Their bodies were a vivid red like flames, and a tiny fire burned at the tip of each tail."
+- **F7** — APPLIED — accuracy — よく似た not "almost the exact shade" (editor counter, Codex accepted)
+  - Final text: "A blue Gremlin, very close to the Blue Witch's personal color, clung to its chest."
+- **F8** — APPLIED — voice — 愛の結晶ですわ as mock-grave "fruit of their love"; dropped added "Yep" (editor counter, Codex accepted)
+  - Final text: "Oh... Without a doubt, these are the fruit of their love."
+- **F9** — APPLIED — accuracy — restored ミーミー and dropped まだ ("still") (editor counter, Codex accepted)
+  - Final text: "While the fire salamanders were still going meep-meep at us, trying to scare us off, I looked up their classification."
+- **F10** — APPLIED — worse — fixed their/something mismatch; kept JP's two-beat afterthought (editor counter, Codex accepted)
+  - Final text: "Holy crap, their firepower is insane. And they're this tiny."
+- **F11** — APPLIED — accuracy — 窺える is an inference
+  - Final text: "There was even an iron wok mixed into it, which suggested they could produce enough heat to melt iron."
+- **F12** — APPLIED — accuracy — trigger is observed signs (見られたら); 凶暴化 = growing ferocious (Codex's round-1 counter accepted). Also restored dropped ただ ("Still,"), a gap Codex missed.
+  - Final text: "Still, we settled on her checking on them every day and killing them immediately if she saw signs that they were growing ferocious or that their diet was changing (a switch to eating meat)."
+- **F13** — APPLIED — worse — 姿になり = "take on a form"
+  - Final text: "At some point as they grew, the fire salamanders would surely take on a pupa-like form, then emerge as humanoid fire fairies."
+- **F14** — APPLIED — accuracy — restored しばらく, 元気に, すぐにまた; removed added inference (editor counter, Codex accepted)
+  - Final text: "When they noticed me watching from a distance, they froze and stayed still as statues for a while. But when I didn't do anything, they slowly started moving, and soon they were scurrying around as lively as ever."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: none

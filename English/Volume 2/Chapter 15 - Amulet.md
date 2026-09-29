@@ -16,7 +16,7 @@ If you tore one off, it rapidly sucked up magic power and stamina and regenerate
 
 If I could work out the principles behind that and apply them to making wands, the possibilities would be limitless.
 
-To be safe, I set up an isolated dissection tent in a corner of the backyard and started with the human-faced mushroom, the one that made my skin crawl on a gut level.
+To be safe, I set up an isolated dissection tent in a corner of the backyard and started with the human-faced mushroom, the one that made my skin crawl.
 
 Its basic structure was like an ordinary mushroom's: a cap with gills on the underside, and a stalk running down from the cap, its base sending mycelium out into the host.
 
@@ -228,7 +228,7 @@ Faster magic-power recovery isn't just interesting. It's a seriously valuable ef
 
 If the magic power you spend comes back quickly, you can keep firing off spells even with a small magic-power capacity.
 
-But a 2–3% boost? Honestly, that's barely more than a placebo.
+But a 2–3% boost? Seriously, that's cold comfort.
 
 ...No! Maybe the recovery rate is low because the marbled Gremlin has cracks in it.
 
@@ -238,7 +238,7 @@ It's too early to be disappointed.
 
 I've got a foothold for profiting off mushroom disease, the very embodiment of disaster.
 
-All that's left is data. Gather data. Do that, and the answers will start to show.
+All that's left is data. Gather data. Do that, and things will start to become clear.
 
 Over the next month or so, I made a huge batch of marbled samples in the reverberatory furnace and compiled the statistics.
 
@@ -274,11 +274,11 @@ With the amulet around my neck and Okutameteorite in my hand, I struck a pose in
 
 Nice! Really nice! I look like a total mage!
 
-And it wasn't just cosplay. The amulet and the magic wand both had real meaning and real magical power in them. There were principles behind them and ingenuity in them, and they'd become magic items like this because that was how they were meant to turn out.
+And it wasn't just cosplay. The amulet and the magic wand both had a real purpose and real magical abilities packed into them. There were principles and ingenuity behind them, and they'd become magic items like this because they were always meant to.
 
 That hit me deep, and it fired up my excitement circuits like crazy.
 
-I was striking pose after pose in front of the mirror and lamenting that I couldn't take a selfie when the Blue Witch poked me with Cyanos. She'd been dropping by often during the research to help check the amulet's performance with the kind of magic-power control only a witch could manage.
+I was striking pose after pose in front of the mirror and wishing I could take a selfie when the Blue Witch poked me with Cyanos. She'd been dropping by often during the research to help check the amulet's performance with the kind of magic-power control only a witch could manage.
 
 "Where's my amulet?"
 
@@ -316,9 +316,9 @@ Part of me also wanted her to look like a witch if she was going to call herself
 
 And now she was carrying a magic wand and about to equip an amulet? That girl with the pathetic gear was all grown up. Sob sob sob.
 
-Using white-and-blue marbling made with the Blue Witch's blood, I made a six-petal snow-crystal pendant amulet and gave it to her.
+Using a white-and-blue marbled Gremlin made with the Blue Witch's blood, I made a six-petal snow-crystal pendant amulet and gave it to her.
 
-A six-petal snow crystal was the shape a snowflake formed as its icy branches grew, an artistic harmony of nature and cold. It was a fitting design for the Blue Witch, who used ice magic.
+A six-petal snow crystal was the shape a snowflake took as its icy branches grew, displaying the artistic harmony between nature and cold. It was a fitting design for the Blue Witch, who used ice magic.
 
 The Blue Witch seemed to like the amulet I had made just for her. She hooked a finger through the pendant at her neck and twirled it round and round, looking pleased.
 
@@ -326,9 +326,9 @@ Glad it went over well.
 
 As the fruit of more than a month of research, the amulet was a little underwhelming for something gained from a disaster as ridiculously huge as the mushroom pandemic.
 
-Then again, you could say the weird ones were my earlier results, like the massive magic amplification from multilayer processing and the 85% magic-backlash cut.
+Then again, you could say the weird ones were my earlier results, like the massive magic amplification from multilayer processing and the 85% cut in magic backlash.
 
-This was normal for a first try.
+That was how things normally started.
 
 At first, cars were slower than horses.
 
@@ -344,7 +344,7 @@ Because gathering data all by myself was exhausting. This kind of thing wasn't m
 
 Word was the university would resume classes next month, so it was probably about time I could get away with tossing them more work.
 
-Now then, I'm going to take a breather and have some fun making a freaky seven-branched-sword magic wand[^1].
+Now then, I'm going to take a breather and have some fun making a freaky magic wand[^1] shaped like a seven-branched sword.
 
 The rest of the amulet research is all yours. Good luck!
 

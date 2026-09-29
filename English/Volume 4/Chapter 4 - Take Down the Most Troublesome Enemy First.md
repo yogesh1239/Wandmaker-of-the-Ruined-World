@@ -1,30 +1,30 @@
 Everyone in Tokyo knew how tirelessly the Foresight Mage worked.
 
-Of course, he had foreseen disasters and monster appearances. He had also foreseen unknown threats that would have been unimaginable before the world's collapse.
+He had foreseen disasters and monster appearances, of course, but he had also foreseen unknown threats that would have been unimaginable before the world collapsed.
 
-There were cases like the mushroom pandemic where, unfortunately, even openly taking countermeasures had not been enough to prevent all the damage.
+In some cases, like the mushroom pandemic, even openly taking countermeasures had unfortunately not been enough to prevent all the damage.
 
-There were also cases like the Iruma coup and the giant kaiju's landing, which he had failed to foresee in the first place.
+In others, like the Iruma coup and the giant kaiju's landing, he had failed to see the danger coming at all.
 
-But on the other hand, there had been many cases where he had completely prevented disasters that should have happened: the birth of a murderous cult, a war between witches who had fallen out, Class A monsters forming a colony, the Pebble Witch's golems rising up after becoming autonomous, and more.
+On the other hand, there were also many cases where he had completely prevented a disaster that should have happened, without a single incident: the birth of a murderous cult, a war between witches who had fallen out, Class A monsters forming a colony, the Pebble Witch's golems becoming autonomous and rising up, and more.
 
 Everyone living in Tokyo thought highly of the Foresight Mage.
 
-But there was probably no one besides the Foresight Mage himself who could truly understand everything he had accomplished.
+But probably no one other than the Foresight Mage himself truly understood everything he had accomplished.
 
-That Foresight Mage had been especially busy since the New Year.
+And since the New Year, that same Foresight Mage had been especially busy.
 
-Of course, he was always extremely busy. On top of the foresight work needed to keep the new currency's issue, the restart of compulsory education, the establishment of a trade economic bloc, and more moving smoothly, he had seen two major threats and struggled to deal with them.
+He was always extremely busy, of course, but on top of the foresight work needed to keep the issue of the new currency, the restart of compulsory education, the establishment of a trade economic bloc, and more moving smoothly, two major threats had come clearly into view, and he was struggling with how to handle them.
 
-Of the two major threats waiting in the future, one was the increase in Class A monsters with black Gremlins.
+One of the two major threats waiting in the future was the growing number of Class A monsters with black Gremlins.
 
-This anomaly had first been confirmed during the hunt for Daidarabocchi, and it was known to get worse as time passed.
+This anomaly, first confirmed during the hunt for Daidarabocchi, was known to get worse as the months went by.
 
-Class A monsters that had learned time-acceleration magic through black Gremlins generated inside their bodies were a threat. Even types of monsters that could previously be defeated without trouble became hard to kill because of time acceleration, or could be killed only at great cost, with witches getting injured.
+Class A monsters that had learned time-acceleration magic through black Gremlins generated inside their own bodies were a threat. Thanks to time acceleration, even species that had once gone down without trouble could now be hard to kill, cause heavy damage even when they were killed, or injure witches.
 
-With healing magic still undiscovered and medical care far from sufficient, an injured witch was a devastating loss.
+With healing magic still undiscovered and medical care far from adequate, an injured witch was a devastating loss.
 
-Class A monsters that used time-acceleration magic would gradually increase.
+Class A monsters that used time acceleration would steadily grow in number.
 
 Eventually, more witches would be injured, and they would have to deploy while still wounded.
 
@@ -32,109 +32,109 @@ Deploying while wounded led to serious injuries.
 
 And serious injuries led to death.
 
-This situation would progress too quickly for mage training and combat drills to keep up.
+All of this would unfold faster than wizard training and combat drills could make up for.
 
-If nothing was done, the Tokyo Witches' Council, already declining in number every year, would inevitably lose even more members. The Eyeball Witch, who had the largest administrative district and was the Foresight Mage's friend, would be the first to die when her response capacity reached its limit.
+If nothing was done, the Tokyo Witches' Council, whose numbers were already shrinking every year, would inevitably lose even more members. The Eyeball Witch, the Foresight Mage's friend and the witch with the largest administrative district, would be the first to die, once her capacity to respond was stretched past its limit.
 
-To stop that from happening, the Foresight Mage had been pushing weapons development forward.
+To keep that from happening, the Foresight Mage had been pushing weapons development forward.
 
-If ordinary people could use weapons to deal with Class A monsters that only Transcendents could handle, things would become a lot easier.
+If ordinary people could use weapons to deal with Class A monsters that only Transcendents could handle, things would get a lot easier.
 
-He had asked Tokyo Magic University's Department of Gremlin Engineering to research magic wands, traps, and bombs that could work on Class A monsters.
+He had asked the university's Department of Gremlin Engineering to research magic wands, traps, and bombs that would work even on Class A monsters.
 
-Professor Handa of the Department of Gremlin Engineering was capable and practical. Right after taking the request, he had given up on a magical approach and proposed establishing a nitroglycerin production system.
+Professor Handa of the Department of Gremlin Engineering was capable and practical-minded. Right after taking the request, he had written off the magical approach and proposed building a system to produce nitroglycerin.
 
-It was extremely difficult for ordinary people to make attacks that worked on Class A monsters with magic. At present, even using a Monster Trap and blood wand Vampir together unfortunately couldn't land an effective blow.
+It was extremely difficult for ordinary people to use magic to make attacks that worked on Class A monsters. As things stood, even a Monster Trap combined with blood wand Vampir unfortunately couldn't land an effective blow.
 
 But chemistry was different.
 
-Not all the old era's chemical technology was dead.
+Not all of the old era's chemical technology was dead.
 
-Chemistry had lost electricity, regressed two hundred years, and was said to have no hope of advancing, but it still had techniques they could use.
+Chemistry had lost electricity and regressed two hundred years, and people said it had no hope of advancing further, but it still had techniques they could use.
 
-Nitroglycerin, the explosive that was the main ingredient in the famous explosive dynamite, was a proven weapon that had wreaked havoc in the previous civilization's wars. Estimates showed that its effect on Class A-2 monsters or above was doubtful, but it could land an effective blow on Class A-3 monsters.
+Nitroglycerin, the explosive that formed the main ingredient of the famous dynamite, was a proven weapon that had wreaked havoc in the previous civilization's wars. Estimates suggested its effect on Class A-2 monsters and above was doubtful, but it could land an effective blow on Class A-3 monsters.
 
-Professor Handa had been working with surviving chemists to make bombs, despite that probably being outside his specialty. They had succeeded in producing nitroglycerin at the laboratory level, and a report said they had begun researching highly lethal dynamite-bomb designs and developing a mass-production system feasible at the current level of civilization.
+Professor Handa had teamed up with surviving chemists to take on bomb-making, which was probably outside his field, and they had succeeded in producing nitroglycerin at the laboratory level. According to the report that had come in, they had now begun researching designs for highly lethal dynamite bombs and working out the theory for a mass-production system feasible at the current level of civilization.
 
-All he could do was pray that weapons development would make it in time before Class A monsters became more vicious and the witches' ability to respond was overwhelmed.
+All he could do was pray that weapons development would make it in time, before Class A monsters grew more vicious and the witches' ability to respond was overwhelmed.
 
-Truthfully, the Foresight Mage had wanted to ask the unknown genius craftsman 0933 to mass-produce powerful magic wands and sealing rounds.
+If he was honest, the Foresight Mage would have liked to ask the mysterious genius craftsman 0933 to mass-produce powerful magic wands, sealing rounds, and the like.
 
-But the Blue Witch, who had been entrusted with negotiating with him, was reluctant to let powerful weapons that would upset the balance of power circulate.
+But the Blue Witch, whom 0933 had entrusted with his negotiations, was reluctant to let powerful weapons that would wreck the balance of power into circulation.
 
-Also, if someone tried to force 0933, he would disappear and cut off contact.
+Besides, if anyone tried to force 0933 into anything, he would disappear and cut off all contact.
 
-They couldn't force the difficult genius craftsman to develop weapons.
+There was no forcing a temperamental genius craftsman to develop weapons.
 
-0933 had already made enormous contributions to humanity, and apparently he hated being involved in society. Rather than force an unwilling 0933 to work and have him disappear, unfortunately, it would be better to leave him out of the response to Class A monsters becoming more vicious.
+0933 had already contributed almost too much to humanity, and apparently he was the type who hated social activity to an extreme. Rather than force an unwilling 0933 to work and have him vanish, it was unfortunately better to keep him out of the response to Class A monsters growing more vicious.
 
-He seemed willing to gladly analyze a black Gremlin if they could successfully get one to him before it disappeared over time, so the Foresight Mage pinned his hopes on that.
+He did seem happy to analyze black Gremlins, though, if they could manage to deliver one to him before it disappeared with time, so the Foresight Mage was pinning his hopes on that.
 
-The anomaly that looked like monster evolution was terrifying, but what was most eerie to the Foresight Mage was that, about half a year later, Class A monsters would begin to “migrate.”
+The apparent evolution of monsters was frightening, but what the Foresight Mage found most eerie was that, starting about half a year from now, some Class A monsters would begin to “migrate.”
 
-Some of the Class A monsters with black Gremlins would make a great migration over the sea toward the east.
+Some of the Class A monsters with black Gremlins would start making great migrations eastward across the sea.
 
-The ones that could swim would swim, and the ones that could fly would fly. Ones that could do neither would be carried by other kinds of monsters that could swim or fly and were migrating.
+Those that could swim would swim, and those that could fly would fly. Those that could do neither would be carried by other species that migrated by swimming or flying.
 
-Basically, monsters only formed groups with their own kind. The Department of Monster Studies at Tokyo Magic University had confirmed cases of different kinds of monsters building some kind of symbiotic relationship, but no cases were known where they showed behavior suggesting coordination.
+As a rule, monsters only formed groups with their own species. Magic University's Department of Monster Studies had confirmed cases of different species forming a certain degree of symbiotic relationship, but there were no known cases of them showing behavior that hinted at organized leadership.
 
-The sight of Class A monsters beginning to migrate one after another as if they had coordinated with other kinds was extremely eerie and ominous.
+The scene he foresaw, of Class A monsters setting out to migrate one after another, as if they had arranged it with other species, was deeply eerie and ominous.
 
-Thinking simply, this “migration” was good news.
+Looked at simplistically, this “migration” was good news.
 
-The abnormal Class A monsters tormenting survivor communities across the country would cross the sea and head east. If people endured the worst of it, there would be casualties, but peace would follow.
+The abnormal Class A monsters tormenting survivor communities everywhere would cross the sea to the east and be gone, so if people could get through the worst of it, peace would be waiting for them, even if there were casualties along the way.
 
-But the reason for the migration was unknown.
+But no one knew why they were migrating.
 
-It would be fine if the monsters that disappeared to the east did not return.
+If the monsters that disappeared into the east never came back, that would be fine.
 
-But what if, like migratory birds, they bred in the land they migrated to, increased in number and strength, and came back?
+But what if, like migratory birds, they bred in the land at the end of their migration, grew in number and strength, and came back?
 
-What if they triggered something at their destination, and the damage spread as far as Japan?
+What if they set something off at their destination, and the damage spread all the way to Japan?
 
-If powerful Class A monsters formed groups, there was no knowing what kind of devastating damage would happen.
+If powerful Class A monsters formed packs, there was no telling what catastrophic damage they might cause.
 
-The Foresight Mage's foresight had limits.
+The Foresight Mage's foresight had its limits.
 
-It was unknown what would happen as a result of the migration, or whether anything would happen at all.
+He couldn't tell what the migration would lead to, or whether it would lead to anything at all.
 
-With a little more time, the future would draw nearer, making it easier to see what was waiting. He could only pray it wouldn't already be too late by the time he saw it.
+With a little more time, the future would draw closer, and it would become easier to see what was waiting. All he could do was pray with all his heart that it wouldn't already be too late by the time he could see it.
 
-The threat from Class A monsters was serious, but foresight had predicted one other threat.
+Serious as the Class A monster threat was, Foresight had also foreseen a second threat.
 
 The Arataki Group.
 
-The Arataki Group was a large survivor community based in Kyushu. About five months earlier, it had launched a lightning-fast takeover of the Lake Biwa Pact and brought it under its control.
+The Arataki Group was a large survivor community based in Kyushu. About five months earlier, it had seized and subjugated the Lake Biwa Pact in a lightning strike, and had only just brought it under its own umbrella.
 
-Its clutches were reaching for Tokyo as well.
+Now its clutches were closing in on Tokyo as well.
 
-The Foresight Mage would gladly hand over all of Tokyo's politics and economy if the Arataki Group would govern well. Then he could put down the burden on his shoulders and live the quiet country life he had been longing for.
+As far as the Foresight Mage was concerned, if the Arataki Group would govern well, he would gladly hand over every bit of Tokyo's politics and economy. Then he could finally set down the far-too-heavy burden on his shoulders and live the slow country life he had been longing for.
 
-But unfortunately, the Arataki Group's rule seemed terrible.
+Unfortunately, though, the Arataki Group's rule appeared to be terrible.
 
-The Arataki Group would first contact the Setagaya Witch, but if that contact was allowed, Setagaya Ward would be eaten away by dangerous addictive drugs, and public safety would rapidly worsen. Politics and the economy would collapse, order would be lost, and it would become a dangerous area where violence ruled.
+The Arataki Group would first approach the Setagaya Witch, and if that contact was allowed to happen, Setagaya Ward would be eaten away by dangerous, addictive drugs and public safety would rapidly deteriorate. Politics and the economy would collapse, order would vanish, and the ward would become a dangerous zone where violence did the talking.
 
-Then the Arataki Group would use Setagaya as a foothold to rapidly spread ruin across all of Tokyo.
+Then, using Setagaya as a foothold, the Arataki Group would rapidly spread ruin across all of Tokyo.
 
-The Arataki Group's members were unknown. All that was known was that there were at least two. The details of the drugs were also unknown.
+Who the Arataki Group's members were was unknown. All he knew was that there were at least two of them. The details of the drugs were unknown too.
 
-The Setagaya Witch revered mages and witches as sacred and had a tendency toward elitism, so it was understandable that she might sympathize with the Arataki Group's policy of oppressing powerless people.
+The Setagaya Witch revered mages and witches as sacred and leaned toward elitism, so he could understand the danger of her sympathizing with the Arataki Group's policy of oppressing the powerless.
 
-But it was hard to understand why even witches who seemed likely to resist the Arataki Group's tyranny would obediently follow it in the future he saw.
+What he couldn't understand was why he saw a future where even the witches likely to resist the Arataki Group's tyranny meekly did as they were told.
 
-Apparently, the Arataki Group thought the Setagaya Witch would be an easy mark (and it was probably right). Even when the Foresight Mage interfered repeatedly, it had remained fixated on contacting the Setagaya Witch for about a month.
+The Arataki Group apparently saw the Setagaya Witch as an easy mark (probably correctly), and for about a month it had kept fixating on contacting her, no matter how often the Foresight Mage interfered.
 
-But about a week earlier, he had stopped seeing futures where it tried to make contact.
+But about a week earlier, he had stopped seeing any future where it tried to make contact.
 
-What he saw instead was a future where the Blue Witch stormed into the Witches' Council shouting.
+Instead, he saw a future where the Blue Witch came storming into the Witches' Council, yelling.
 
-Apparently, Cyanos had been stolen by someone.
+Apparently, someone had stolen Cyanos.
 
-From the surrounding circumstances, the Arataki Group was probably the one that had stolen (or tried to steal) Cyanos. It seemed to have learned that winning over the Setagaya Witch was impossible and changed its plan. Stealing a magic wand from the Blue Witch was not an easy thing to do. The culprit was definitely a witch or a mage.
+Given the surrounding circumstances, it was probably the Arataki Group that had stolen (or tried to steal) Cyanos. Having learned it couldn't win over the Setagaya Witch, it had presumably changed tactics. Stealing a magic wand from the Blue Witch was no easy feat. The culprit was definitely a witch or a mage.
 
-But he could not see what the Cyanos thief looked like, and he could not rule out the possibility that some other situation had happened to overlap with an Arataki Group scheme.
+But he couldn't see the Cyanos thief, so he couldn't rule out the possibility that something else had just happened to coincide with an Arataki Group scheme.
 
-The Foresight Mage had once acted after deciding uncertain information was fact based on a future he had seen. The Bloodsucking Mage had cleaned up after him and scolded him for it.
+The Foresight Mage had once acted on uncertain information from a future he had seen, treating it as settled fact, and the Bloodsucking Mage had cleaned up his mess and scolded him for it.
 
 The Foresight Mage limited himself to warning the Blue Witch, “Someone is trying to steal Cyanos.”
 
@@ -142,85 +142,85 @@ The warning worked.
 
 The day Cyanos was supposed to be stolen passed without anything happening.
 
-If Cyanos was stolen by the Arataki Group, there was a high chance that abnormally amplified magic would wipe out the witches all at once. He absolutely could not hand it over.
+If the Arataki Group stole Cyanos, there was a high chance its abnormally amplified magic would mow down the witches all at once. He absolutely could not let them have it.
 
-But thanks to the warning, the Blue Witch, already highly cautious, was on maximum alert with her nerves on edge. Even the Foresight Mage would be unable to steal from the Blue Witch in that state.
+But thanks to the warning, the Blue Witch, already a highly wary person, was on maximum alert with her nerves on edge. Not even the Foresight Mage could have stolen from the Blue Witch in that state.
 
-The Foresight Mage took a breather from dealing with the Arataki Group, then spent several days focusing on seeing the future of the Class A monster anomaly.
+With the Arataki Group handled for the moment, the Foresight Mage took a breather, then spent the next several days concentrating on the future of the Class A monster anomaly.
 
-Both the Class A monster problem and the Arataki Group were headaches.
+The Class A monster problem and the Arataki Group were both headaches.
 
-But magic power was limited, and magic backlash also put strain on the brain. He could not look at both fully.
+But his magic power was limited, and magic backlash also strained his brain, so he couldn't keep a full watch on both.
 
-The Foresight Mage saw the Class A monster problem as more dangerous than the Arataki Group problem.
+The Foresight Mage considered the Class A monster problem more dangerous than the Arataki Group problem.
 
-Because bluffs worked on the Arataki Group, but not on monsters.
+Bluffs worked on the Arataki Group, after all, but not on monsters.
 
-The Foresight Mage publicly said that he could see the future, and he was in fact doing incredible work based on foresight magic.
+The Foresight Mage openly claimed that he could see the future, and he really was doing tremendous work based on foresight magic.
 
-But he kept the details of his ability hidden. To make it a deterrent.
+But he kept the details of his ability secret so that it would serve as a deterrent.
 
-If the details of foresight's limits and effects became widely known, people with bad ideas would definitely try to get around it.
+If the specifics of foresight's limits and effects became widely known, people with bad intentions would inevitably try to outwit it.
 
-In fact, when the Iruma Mage had been pretending to be a good person before the coup, he had tried to probe into foresight magic. The Foresight Mage had failed to foresee the coup because he had trusted the Iruma Mage as an ally and blabbed the details of his magic.
+In fact, back when the Iruma Mage had been pretending to be a good person before the coup, he had tried to probe for details about foresight magic. Missing the coup had been the Foresight Mage's own blunder: he had believed the Iruma Mage was a comrade and blabbed the details of his magic.
 
-He would not make the same mistake.
+He would not make the same mistake again.
 
-Other than the already dead Iruma Mage, the Foresight Mage had told no one the details of his magic.
+Apart from the Iruma Mage, who was already dead, the Foresight Mage had told no one the details of his magic.
 
-Thanks to that, he had been able to prevent quite a few crimes and incidents.
+Thanks to that, he had been able to keep quite a lot of crime and trouble in check.
 
-The fact that the Zombie Witch, who had millions of zombies packed into her administrative district, stayed quietly shut in and indulged in a <ruby>necrophilia<rt>corpse-loving</rt></ruby> reverse harem was, unless he was being conceited, thanks to the deterrent effect of foresight magic.
+Unless he was flattering himself, it was also thanks to foresight magic's deterrent effect that the Zombie Witch, who had millions of zombies packed into her administrative district, stayed quietly shut in, indulging in her <ruby>necrophilia<rt>corpse-loving</rt></ruby> reverse harem.
 
-The Setagaya Witch, for one, was quite openly watching his expression and often checked what her rule looked like from foresight's point of view.
+The Setagaya Witch, for one, was fairly blatant about trying to read his mood, and she often checked with him on how her rule looked from foresight's point of view.
 
-The Arataki Group probably knew of the Foresight Mage's existence through the Dragon Witch too (he could not imagine that Dragon Witch had thoughtfully kept information hidden), so it was likely overestimating foresight magic and being overly cautious.
+The Arataki Group had probably learned of the Foresight Mage's existence through the Dragon Witch too (he couldn't imagine the Dragon Witch had been thoughtful enough to keep the information to herself), so it was likely overestimating foresight magic and being overly cautious.
 
-But Class A monsters didn't understand caution at all.
+But Class A monsters didn't know the meaning of caution.
 
 They were just strong.
 
-They just kept getting stronger and becoming more threatening.
+They just kept getting stronger and more threatening.
 
-The lack of clarity about the situation was another threat.
+The murkiness of the situation was a threat in its own right.
 
-Since indirect approaches did not work on them, it was only natural for the Foresight Mage to decide to see futures concerning Class A monsters more broadly and deeply.
+Since indirect tactics didn't work on them, it was only natural for Foresight to decide to look into the future of Class A monsters more broadly and deeply.
 
-He spent several days using foresight to track one of the Class A-3 monsters he had deliberately left unhunted.
+He spent several days using foresight to track one of the Class A-3 monsters that had deliberately been left unhunted.
 
-So, what is the Arataki Group up to?
+So, what has the Arataki Group been up to?
 
-The Foresight Mage, working in the Bunkyo Ward Office, saw a future connected to the Arataki Group and was stunned.
+While working at the Bunkyo Ward Office, the Foresight Mage saw a future tied to the Arataki Group and was stunned.
 
-Bunkyo Ward had been leveled. People and buildings alike had vanished without exception. Everything had been blown away, completely and cleanly.
+Bunkyo Ward had been wiped flat, its people and buildings gone without exception; everything had been blown away, completely and cleanly.
 
-It had not been leveled over several days. It was a future that would happen within one day.
+And it hadn't been leveled over the course of several days. This was a future that would come within a single day.
 
-The Foresight Mage went pale.
+The color drained from the Foresight Mage's face.
 
 A nuclear bomb? A Class A-1 monster? No, this was the Arataki Group's doing.
 
-After using foresight several more times, he learned that the Arataki Group apparently intended to get rid of the Foresight Mage along with Bunkyo Ward, then attack Tokyo from multiple directions.
+Using foresight several more times in a row, he found that the Arataki Group apparently intended to dispose of him along with Bunkyo Ward, then attack Tokyo from multiple directions.
 
 “Is it an emergency?”
 
-As he sat with his elbows on his desk, breaking into a cold sweat and agonizing over the problem, the female secretary standing by his side asked tersely, her face tense.
+He was sitting with his elbows on his desk, drenched in a cold sweat and agonizing, when the female secretary standing by at his side put the question to him tersely, her face tense.
 
-The Foresight Mage nodded heavily.
+The Foresight Mage gave a heavy nod.
 
 “Call the communications team. I'll look for a future where we avoid this emergency as much as possible, but we'll probably have to issue an emergency declaration.”
 
-“Understood. Guard! Please call five people from the communications team immediately! At least one person who can take shorthand!”
+“Understood. Guard! Please call five people from the communications team, right away! At least one who can take shorthand!”
 
-As he heard an acknowledgment and footsteps running off, the Foresight Mage sorted through the futures he needed to see in his mind.
+As a voice answered and footsteps ran off, the Foresight Mage sorted out in his head which futures he needed to see.
 
-If something would happen within one day, there was little time. This was less a problem of magic power than of time and strain on his brain. Even though it was a lighter prediction within one day, if he narrowly limited what he saw and used it repeatedly in a short time, the damage to his brain would be serious.
+If it was going to happen within a day, he didn't have much time. This was less a question of magic power than of time and the strain on his brain. These might be light predictions no more than a day ahead, but narrowing their content precisely and using them back-to-back in a short span would do serious damage to his brain.
 
-He had to narrow it down to only the futures that were truly necessary. What should he see, and what should he not see?
+He had to narrow it down to only the futures that were truly necessary. What should he look at, and what should he leave unseen?
 
-He had only worried for about one minute. The communications team soon arrived, lined up, and readied their writing tools while stiff with tension, so the Foresight Mage smiled and spoke to make them relax.
+He wrestled with it for only about a minute. The communications team soon arrived, lined up, and readied their writing tools, stiff with nerves, so Foresight smiled and told them to relax.
 
-“Don't worry. Trouble is coming, but the future is bright. I'll make it bright. Just do what you can.
+“Don't worry. Trouble is coming, but the future is bright. I'll make it bright. It's enough if you just do your own jobs as well as you can.
 
 Now... <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>.”
 
@@ -228,81 +228,81 @@ The Foresight Mage began making predictions.
 
 He examined the future scenes he saw and gave instructions.
 
-“Call the Eyeball Witch, Night Witch, Tobacco Witch, and the Hachioji— No, damn it, she's gone now. Call those three here. Call the Spider Witch too if you can. Mention the Bloodsucking Mage's name, say it's fine for her to stay hidden, and somehow ask her to come.”
+“Call the Eyeball Witch, Night Witch, Tobacco Witch, and the Hachioji— No, damn it, she's gone now. Call the three I just named here. Call the Spider Witch too if you can. Bring up the Bloodsucking Mage's name, tell her it's fine to keep herself hidden, and ask her however you have to.”
 
-“The Eyeball Witch's familiars connect all three. Right away. We will send a messenger to the Spider Witch-sama immediately.”
+“All three are linked by eyeball familiars. Right away. We will send a messenger to Spider Witch-sama at once.”
 
-“I'll leave it to you. The Arataki Group will attack here at some point during daylight today. Tell everyone to stay together, watch the surroundings, and work together to deal with it. Bunkyo Ward may be leveled. Urge them to be as careful as possible. That is the first item.”
+“I'll leave it to you. Sometime during daylight today, the Arataki Group will attack here. Tell everyone to stay together, keep watch on their surroundings, and work together to deal with it. Bunkyo Ward may be leveled. Urge them to be as careful as they possibly can. That's the first item.”
 
 “Understood. Shimizu-san, please.”
 
-“Understood. I'll use the fastest messenger. Is that all right?”
+“Roger. I'll use the fastest runner. Is that all right?”
 
 “That's fine. Hurry.”
 
-One member of the communications team bowed and hurried away with a memo in one hand.
+One member of the communications team bowed and hurried off, memo in hand.
 
-The Foresight Mage made prediction after prediction.
+Foresight kept making predictions in rapid succession.
 
-“<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ... Warn the Dragon Witch. Around noon, an Arataki Group witch will come from the direction of the Saitama prefectural border.
+“<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ... Warn the Dragon Witch. Around noon, an Arataki Group witch will come in from the Saitama prefectural border.
 
-<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... That witch I just mentioned, the one coming for the Dragon Witch, has a magic stone. The Dragon Witch can beat her. I want this passed on to her deputy, Zaizen-san, more than to the Dragon Witch: please ask him to do whatever he can to fire up the Dragon Witch and get her to fight. It will be bad if that district falls. That is the second item.”
+<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... That witch I just mentioned, the one coming for the Dragon Witch, has a magic stone. She's not someone the Dragon Witch can't beat. I want this passed on to her deputy, Zaizen-san, more than to the Dragon Witch herself: ask him to egg the Dragon Witch on as much as he can and get her to fight. It'll be bad if that district falls. That's the second item.”
 
-“I will issue strict orders. Shall we send mages to support them?”
+“I will issue strict orders. Shall we send wizards to support them?”
 
-“No, there aren't enough people. They'll have to manage somehow over there. I'll begin the third item. <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ...!? ... <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. Ah, no good. This won't make it in time, damn it!
+“No, we're short-handed. They'll have to manage on their own over there. Starting the third item. <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ...!? ... <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. Ah, no good. This one won't make it in time, damn it!
 
-<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ... Should I look a little more? <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. All right, this is it. Dispatch a messenger to the Blue Witch. In southern Ome, near the city border, there is a witch watching the Blue Witch from the roof of an abandoned gas station. She is a woman with a tattoo on her shoulder. Ask the Blue Witch to eliminate her, then hurry and join up in Bunkyo Ward.”
+<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. ... Let me look a little further. <ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>. All right, here it is. Send a messenger to the Blue Witch. In southern Ome, near the city border, there's a witch watching the Blue Witch from the roof of an abandoned gas station. A woman with a tattoo on her shoulder. Ask the Blue Witch to take her out, then hurry and join up in Bunkyo Ward.”
 
-“Understood. We will use the nearest wizards' eyeball familiars as relays and send the messenger.”
+“Understood. We will send the messenger by relaying through the nearest wizards' eyeball familiars.”
 
-“Please. Why won't she carry a direct familiar, damn it! ...No, sorry. I lost my head. The third item is done. I'll begin the fourth.”
+“Please. Why won't she just carry a direct-line familiar, damn it! ...No, sorry. I lost my head. That's the third item. Starting the fourth.”
 
-As he cast magic over and over, the Foresight Mage felt deeply grateful to 0933.
+As he cast spell after spell, the Foresight Mage was grateful to 0933 from the bottom of his heart.
 
-If he had been unarmed without that man's custom magic wand, he would have had to use two or three predictions to learn what he could learn in one.
+Empty-handed, without that man's custom wand, he would have ended up spending two or three predictions to learn what one now told him.
 
-The backlash prevention was so helpful it almost brought him to tears. Even after seeing one day ahead seven times in a row, his head was clear. If he had been unarmed, his brain would be wrecked and he would be slurring his words by now.
+The backlash prevention was so welcome it almost brought tears to his eyes. Even after looking one day ahead seven times in a row, his head was clear. Had he been empty-handed, his brain would have been fried by now and he'd be slurring his words.
 
-If he could take breaks of about an hour, it would be easier.
+Taking breaks of about an hour in between would make it a lot easier.
 
-But taking that one-hour break would most likely let outlaws take over Tokyo and turn it into a lawless world.
+But that one-hour break would very likely mean outlaws seizing Tokyo and plunging it into a lawless dark age.
 
-Every prediction he made here and now was worth a fortune.
+Every prediction he made here and now was worth its weight in gold.
 
-The Foresight Mage kept casting magic with the full benefit of a custom piece from the world's best Wand Maker, but after more than thirty castings, he finally had trouble chanting the spell.
+The Foresight Mage kept firing off spells with the full benefit of a custom piece from the world's best Wand Maker, but once he passed thirty castings, even reciting the incantation finally became a struggle.
 
-Blood dripped from his nose, and his vision shook.
+Blood dripped from his nose, and his vision swayed.
 
-What he thought were tears running down his face were blood.
+What he took for tears running down his face turned out to be blood.
 
-The Foresight Mage was close to losing track of what he was doing, but he cast the magic one more time.
+Close to losing track of what he was doing, the Foresight Mage recited the spell one more time.
 
 “<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... Arataki Group... everyone has magic stones. Strong. Be careful. Why so many... Ugh, right, did they take them from the Lake Biwa Pact?”
 
 “That is enough. Foresight-sama, evacuate immediately!”
 
-Supported by the secretary, he realized a few seconds later that he had almost collapsed.
+The secretary was holding him up, and it took him a few seconds to realize he had nearly collapsed.
 
-The secretary was trying to lay him on a stretcher that had somehow been prepared in the office.
+She was trying to lay him down on a stretcher that had been brought into the office at some point without his noticing.
 
-“Foresight-sama, please, no more. You will die! At least get some rest first!”
+“Foresight-sama, please, no more. You will die! At least rest for a while first!”
 
-“No... can't... still... still, one more time... <ruby>××××× De-nitsu<rt>Boil, my blood</rt></ruby>.”
+“Don't want to... no... not yet... not yet, one more time...! <ruby>××××× De-nitsu<rt>Boil, my blood</rt></ruby>.”
 
-The Foresight Mage cast self-enhancement magic for its stimulating effect.
+The Foresight Mage cast self-enhancement magic for its stimulant effect.
 
-Self-enhancement magic temporarily increased physical ability and also produced a mild stimulating effect. While that effect was active, even if his magic power reached zero or he suffered serious brain damage, he would not lose consciousness.
+Self-enhancement magic briefly boosted physical ability and also had a mild stimulant effect. As long as that effect lasted, he would not lose consciousness, even if his magic power hit zero or his brain took serious damage.
 
-The Foresight Mage gently but firmly moved aside the sobbing secretary's hand as she tried to cover his mouth, and chanted the final spell.
+Gently but firmly, the Foresight Mage pushed aside the hand of his secretary, who was crying her eyes out as she tried to cover his mouth, and recited the final incantation.
 
-“<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... Ugh, ah... Sensei... Professor... tell them... don't die. University... live. It's okay. I'll save you. I'll save you for sure...”
+“<ruby>Zagaanu Opuo<rt>My today ends</rt></ruby>. <ruby>N-roiyutsun××× Kunatsuku<rt>A signpost for your tomorrow</rt></ruby>... Ugh, ah... Sensei... Professor... tell them... don't die. University... live. It's okay. I'll save you. I'll save you, no matter what...”
 
-After that, he could no longer form words.
+Beyond that point, nothing he said came out as words.
 
-Unable even to speak properly, the Foresight Mage was somehow put on the stretcher by his panicking secretary and rushed to the evacuation site.
+No longer able to speak properly, the Foresight Mage was somehow loaded onto the stretcher by his frantic secretary and rushed to the evacuation site.
 
-Mumbling and sucking the secretary's fingers all the way to the evacuation site, the Foresight Mage finally let out a weak breath with unclear words like a baby's babble, and lost consciousness.
+He kept mumbling and sucking on the secretary's fingers until they were inside the evacuation site. At last, with a few indistinct words like a baby's babbling, he let out a weak breath and lost consciousness.
 
 And two hours after the Foresight Mage lost consciousness.
 

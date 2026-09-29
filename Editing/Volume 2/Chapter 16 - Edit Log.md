@@ -108,3 +108,22 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 - Whole-file `check_reedit.py` PASS; no flow warning; all headings, notes, ruby, breaks, and image-marker inventories unchanged.
 - `run_chapter_gates.py --unit 2 --chapter 16` ALL PASS; all-volume consistency checks for Volumes 1–4 passed.
 - No reference-file change was required.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 44 reviewed, 3 flagged. Round 1: 2 conceded, 0 pushed back, 1 countered. Codex after round 1: 0 withdrew, 1 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 3 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — the tower (not the ward) is the receiving site; "lost" not "died" (editor counter, Codex accepted)
+  - Final text: "Minato Ward's central tower had held out throughout the unprecedented pandemic with no help from witches or mages. Now it was one of the places taking in Tokyo residents left adrift after losing their witches (protectors) to the pandemic."
+- **F2** — APPLIED — tense — closing のか？ teaser question goes present
+  - Final text: "Just what kind of people make up the Tohoku Hunting Association, a major survivor community that made it through the Gremlin Disaster in a completely different way from Tokyo?"
+- **F3** — APPLIED — tense — direct question about an unknown outcome goes present
+  - Final text: "And will the Blue Witch manage to sell them on my magic wands?"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

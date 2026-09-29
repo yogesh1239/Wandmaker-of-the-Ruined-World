@@ -2,7 +2,7 @@ Four years ago, the Gremlin Disaster stole electricity from the world.
 
 It stole lives. It stole peace.
 
-The worst disaster in human history took so much from us. It even took online shopping away from me.
+The biggest, worst disaster in human history had stolen so much. It even stole online shopping from me.
 
 This was an extremely serious, grave problem.
 
@@ -44,7 +44,7 @@ When I apologized, the Blue Witch gave a resigned sigh and sat down in a chair a
 
 After all that, she was still willing to wait for me. She really was a good person. Sorry I'm always so demanding.
 
-“But is there really that much more to improve? The quality looks good enough.”
+“But is there really that much to refine? The quality looks good enough.”
 
 As she spoke, the Blue Witch picked up the general-purpose, mass-produced magic wand that had been lying on my workbench.
 
@@ -128,13 +128,13 @@ For people who used a variety of schools equally, the downsides were probably gr
 
 With the Blue Witch's seal of approval, I confidently moved on to the samples' finishing touches.
 
-I didn't know what kind of magic the Tohoku mages used, but whatever it was, you can never have too much backlash reduction. I wanted them to try out the samples' custom options and discover how good Ori-made custom magic wands were.
+I don't know what kind of magic the Tohoku mages use, but whatever it is, you can never have too much backlash reduction. I really want them to enjoy the samples' custom options to the fullest and discover how good Ori-made custom magic wands are.
 
 The one I'm making now is customized for freezing magic, but of course I can customize a wand for any other school too. If you need a custom job, please place an order. Heh heh heh.
 
 Once I finished the custom wand, the samples were finally ready. I carefully set one general-purpose magic wand and one magic-school-customized wand in my best paulownia box, packed snugly with cushioning material.
 
-I put in the specification sheets, closed the lid, and attached a noshi marked “Gift.” Done.[^1]
+I put in the specification sheets, closed the lid, and attached a noshi[^1] marked “Gift.” Done.
 
 “All right. I have a little time left. Might as well give Cyanos magic-school customization too.”
 
@@ -146,7 +146,7 @@ I put in the specification sheets, closed the lid, and attached a noshi marked �
 
 I took Cyanos from the Blue Witch and immediately got to work improving it.
 
-The Blue Witch naturally used freezing magic all the time, so I took the handle apart and replaced its default milky-white backlash-prevention mechanism with one made from blue personal-color Gremlin. That improved its freezing-magic reduction rate even further.
+As a freezing-magic user, the Blue Witch naturally used freezing magic a lot, so I took the handle apart and replaced its default milky-white backlash-prevention mechanism with one made from blue personal-color Gremlin. That improved its freezing-magic reduction rate even further.
 
 As I worked briskly, the Blue Witch watched with her elbow on the workbench and her cheek in her hand, then spoke in awe.
 
@@ -178,7 +178,7 @@ She said it sarcastically, so I gave a big nod and puffed out my chest.
 
 I couldn't change who I was.
 
-Both my dexterity and my poor social skills were part of me. Fighting my own nature would only make life harder. Grandpa had told me to be myself in a place that let me.
+Both my dexterity and my poor social skills were part of me. Fighting my own nature would only make life harder. Grandpa had told me to be myself in a place where I could be myself.
 
 “You're a pain. If you aren't interested in people, I bet you've never liked anyone either.”
 
@@ -198,7 +198,7 @@ If I were friends with someone I hated, that wouldn't be real friendship. It wou
 
 Therefore, friends = liking the other person. The equation holds. It should.
 
-There shouldn't be any logical inconsistency, yet the conversation has, in fact, ground to an unnatural halt. That means some profound mystery of communication beyond my understanding is probably at work.
+There shouldn't be any logical inconsistency, yet the phenomenon of an unnatural interruption in the conversation has, in fact, occurred. That means some profound mystery of communication beyond my understanding is probably at work.
 
 “Why did you go quiet? Did I say something weird? If you tell me what's weird, I'll consider improving it.”
 

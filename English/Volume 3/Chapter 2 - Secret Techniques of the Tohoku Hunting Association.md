@@ -8,7 +8,7 @@ He had heard that the Tokyo survivor community led by the Tokyo Witches' Council
 
 That was a sharp drop from its peak of 14 million, but it was still a huge population. More than enough.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> figured the Tokyo Witches' Council needed outside aid because it was trying to feed too many people.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> figured the Tokyo Witches' Council needed outside aid this time because it was trying to feed too many people.
 
 To put it simply, too many people had survived in Tokyo.
 
@@ -42,15 +42,15 @@ Some died from injuries or illness. Others were killed by monsters that had muta
 
 Above all, without Hakata-sensei, the fertility-magic instructor sent free of charge by the Tokyo Witches' Council, a catastrophic famine would have struck by last year and destroyed the Tohoku Hunting Association.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> had left Sendai and come to Tokyo as a reconstruction-aid envoy to repay that debt for being taught fertility magic.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> had left Sendai and come to Tokyo as a reconstruction-aid envoy this time because he owed Tokyo for teaching his community fertility magic.
 
 Mushroom disease had reached Sendai along with fertility magic, but around 2,000 people in the Tohoku Hunting Association community had died from the disease. Compared with the catastrophic losses they'd have suffered without fertility magic, it was a small price.
 
-After facing one harsh choice after another since the Gremlin Disaster began, the people of the Tohoku Hunting Association were grateful to the Tokyo Witches' Council, not bitter toward it. At least, that was the official story. Anyone who did resent the Council kept those feelings to themselves instead of lashing out, so outsiders were told there was no ill will between them.
+After facing one harsh choice after another since the Gremlin Disaster began, the people of the Tohoku Hunting Association were grateful to the Tokyo Witches' Council, not bitter toward it. At least, that was the official story. Anyone who did hold a grudge kept those feelings to themselves instead of lashing out, so outsiders were told there was no ill will between them.
 
-Leaving Sendai to support Tokyo, even temporarily, meant <ruby>Okyaku<rt>Great Wolf</rt></ruby> left a gap in the community's hunting rotation and placed a heavy burden on those who stayed behind.
+If <ruby>Okyaku<rt>Great Wolf</rt></ruby> left Sendai to support Tokyo, even temporarily, it would leave a gap in the community's hunting rotation and put a heavy burden on those who stayed behind.
 
-But public opinion had been clear: now was the time to repay the debt they owed for fertility magic.
+But the citizens had been vocal: now was the time to repay the debt they owed for fertility magic.
 
 Hakata-sensei had been especially forceful in petitioning the leadership.
 
@@ -100,11 +100,11 @@ When <ruby>Okyaku<rt>Great Wolf</rt></ruby> held out his hand, the Flame Witch g
 
 She was so cute that he wanted to pet her, but doing that to a security guard would be rude, so he restrained himself. Besides, witches weren't necessarily as old as they looked.
 
-While <ruby>Okyaku<rt>Great Wolf</rt></ruby> struggled between the urge to pet her and his common sense, the Eyeball Witch crouched to meet the Flame Witch's eyes and spoke with concern.
+While <ruby>Okyaku<rt>Great Wolf</rt></ruby> was torn between the urge to pet her and his common sense, the Eyeball Witch crouched to meet the Flame Witch's eyes and spoke with concern.
 
 “Oh? Hii-chan, did you shrink again? Are you all right?”
 
-“Um... I'd like some time to speak with Ao-chan-san about that later. There's something I need to ask her about... Could you tell her for me, Eyeball-san?”
+“Um... I'd like some time to speak with Ao-chan-san about that later. There's something I'd like to talk over with her... Could you tell her for me, Eyeball-san?”
 
 “Hmm. I'll try to mention it when she seems to be in a good mood, but I don't know if she'll make time for you.”
 
@@ -128,7 +128,7 @@ One was a young woman who looked barely old enough to be an adult. She wore a ta
 
 What caught <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eye most was the beautiful wand in her hand, set with a brilliant blue gem. The instant he entered, he sensed her casually train it on him.
 
-She was watching him closely. He'd heard the VIP would have a personal bodyguard, so this woman had to be the guard.
+She was wary of him. He'd heard the VIP would have a personal bodyguard, so this woman had to be the guard.
 
 Beside the guard sat a girl who looked as though she was still in elementary school, or barely in middle school.
 
@@ -142,7 +142,7 @@ But the guard was the one controlling magic power, so the guard was the witch.
 
 He had heard that the important person attending this meeting was not a witch, but an ordinary expert. Why did an ordinary person have animal ears...?
 
-Once <ruby>Okyaku<rt>Great Wolf</rt></ruby> entered, the Eyeball Witch joined the two women. She personally brewed the tea and passed cups and snacks around, then settled in and made the introductions.
+Once <ruby>Okyaku<rt>Great Wolf</rt></ruby> entered, the Eyeball Witch joined the two women. She personally brewed black tea and passed cups and snacks around, then settled in and made the introductions.
 
 “Allow me to introduce them. The lovely white-haired girl on your left is Ohinata Kei. At only fourteen, she serves as president of Tokyo Magic University and teaches as a professor in the Department of Magic Linguistics. I am responsible for this meeting, but please direct most of what you have to say to her as our representative in the field.”
 
@@ -228,7 +228,7 @@ Her nerve in trying it on the spot impressed <ruby>Okyaku<rt>Great Wolf</rt></ru
 
 Professor Ohinata had casually waved her wand and cast fire magic, and <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s eyes went wide.
 
-So this was Tokyo, the home of wizards. Even ordinary people could use fire magic with ease.
+Tokyo really did live up to its reputation as the home of wizards. Even ordinary people could use fire magic with ease.
 
 Tokyo was on another level entirely. In Sendai, where no magic but fertility magic had spread very far yet, something like this was unthinkable. Then again, Professor Ohinata was a famous magic linguist, so perhaps she was exceptionally good at magic even among ordinary people.
 
@@ -302,7 +302,7 @@ The meeting was still underway, so why had the guard come in? Had something happ
 
 “I'm sorry, I overheard you. Could you use that Monster Trap on me?”
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> blinked at the unexpected question. The Flame Witch pressed on.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> blinked at the unexpected question. The Flame Witch went on pleading.
 
 “I want you to seal me away.”
 

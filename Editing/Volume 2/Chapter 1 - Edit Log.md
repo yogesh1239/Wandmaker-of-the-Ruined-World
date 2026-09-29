@@ -159,3 +159,52 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, ruby spans, notes unchanged; no backticks in prose; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 1` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 113 reviewed, 16 flagged. Round 1: 9 conceded, 1 pushed back, 6 countered. Codex after round 1: 1 withdrew, 5 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 15 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — 特に is "in particular", not "two biggest"; restore 開発
+  - Final text: "Two events in particular had come to symbolize that reconstruction: the defeat of the giant kaiju, and the development of the fertility-magic bypass incantation, which had headed off an unprecedented great famine."
+- **F2** — APPLIED — worse — "harvest had been dropped" ambiguous
+  - Final text: "...and your rice harvest had been abandoned halfway through."
+- **F3** — APPLIED — tense/accuracy — unsignaled かも知れない to past; 乗り越えてきた = overcome; restore 青の魔女
+  - Final text: "Maybe the Blue Witch's sense of danger and mine were just calibrated differently. I lived a peaceful life in Okutama, where the monsters were far fewer and weaker than in other areas and there was no messy people drama, while she'd apparently overcome some seriously tragic past."
+- **F4** — APPLIED — accuracy — 今すぐ modifies 使える; passive 送られても leaves sender unstated
+  - Final text: "“So you can learn some defensive magic you can use right away. You have a hard time picking up incantations when they're sent to you written in phonetic symbols, don't you, Ori? Learning straight from Kei-chan is fastest.”"
+- **F5** — APPLIED — voice — でも softener as tentative modal, not "or something"
+  - Final text: "...these are hash browns made with new potatoes. You could have them for dinner!”"
+- **F6** — KEPT — glossary — Agh- vs A゙-
+  - Why kept: lead ruling keeps `<ruby>Agh-<rt>Fire</rt></ruby>` as filed; ruby byte-identical to OLD. Codex withdrew.
+- **F7** — APPLIED — accuracy — 電気 = electricity, not "the power grid"
+  - Final text: "...in a world where electricity and communication networks got wiped out?"
+- **F8** — APPLIED — tense — unsignaled 十分だ
+  - Final text: "That was plenty."
+- **F9** — APPLIED — tense — unsignaled appraisal to past
+  - Final text: "I also liked that, with enough of them, it seemed to have the potential to bring back the internet and online shopping. This spell deserved to spread around the whole world. Though that would be tough, since people with little magic power couldn't use it."
+- **F10** — APPLIED — accuracy — restore らしい
+  - Final text: "...it was apparently in the custody of the Tokyo Witches' Council for the time being."
+- **F11** — APPLIED — accuracy — restore という話だ frame
+  - Final text: "The plan was that once magic-language research had progressed and ordinary people..."
+- **F12** — APPLIED — tense — plan appraisal to past (no em dash)
+  - Final text: "Smart. If the baseline of humanity's skills and abilities as a whole got raised, we wouldn't have to put up with people like the Dragon Witch, all power and a garbage personality, running wild."
+- **F13** — APPLIED — tense — plan appraisal to past
+  - Final text: "Handing magic stones to ordinary people who'd learned magic, to give them a leg up, made way more sense than handing them to witches and mages who were already strong and making them even stronger."
+- **F14** — APPLIED — tense
+  - Final text: "...but the more I learned about him, the more his stock went up in my book."
+- **F15** — APPLIED — tense/accuracy — past; 遺言 = "last wishes" (avoids "against his will" idiom)
+  - Final text: "Meanwhile, the Dragon Witch had defied the Bloodsucking Mage's last wishes, swiping the magic stone and stuffing it in her pocket, so her stock kept dropping without her even being there."
+- **F16** — APPLIED — accuracy — 成果 echo restored
+  - Final text: "Me, I'll be reaching in from just outside the circle of human bonds and helping myself to those achievements!"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: glossary row 232 still lists 撃て[ア゙ー] as `<ruby>A゙-<rt>Fire</rt></ruby>` while the chapter keeps Agh- per lead ruling (already under user review).
+
+## User Rulings — 2026-09-29
+
+- Eyeball Witch incantation: "Jyuya"/"Jiyuya" → "Juya" (ジユヤ is the big-kana print of ジュヤ; glossary rows unified, old forms banned).

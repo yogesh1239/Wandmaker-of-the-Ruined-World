@@ -4,7 +4,7 @@ Apparently, it had been announced in town that the new currency would be issued 
 
 First, the new currency would come with a revaluation. One new yen would be worth roughly ten old yen.
 
-That meant a new 500-yen coin would do the job of an old 5,000-yen bill. They had apparently chosen that ratio in anticipation of inflation down the road.
+That meant a new 500-yen coin would do the job of an old 5,000-yen bill. They had apparently chosen that ratio in anticipation of the inflation that would naturally set in over time.
 
 If they started by issuing 10,000-yen coins, they would need 100,000-yen coins once inflation took off. More digits made calculations harder, so I thought cutting the face values to one-tenth was the right call.
 
@@ -18,7 +18,7 @@ Food ration tickets had already been circulating as currency, so this was basica
 
 The setup was much like rice underpinning the economy in the Edo period, so people expected it to work despite a few problems.
 
-Thanks to livestock blood tests that screened for the latent risk of turning into monsters, along with the breeding and deployment of turret balsams, they had already begun a second round of cultivation across the vast cleared land in Katsushika Ward. If food production stabilized, the economy would stabilize too.
+Thanks to livestock blood tests that screened for the latent risk of turning into monsters, along with the breeding and deployment of turret balsams, they had already begun the second-stage reclamation of the vast cleared land in Katsushika Ward. If food production stabilized, the economy would stabilize too.
 
 Apparently, the long-term plan was to privatize food production, replace the labor assignments used in many witch-administered districts with freedom of occupation and a free-market economy, then introduce taxes, and so on... But first, everything depended on whether the new currency system worked.
 
@@ -32,7 +32,7 @@ I really hoped the Witches' Council and the council of experts would do a good j
 
 The Tohoku Hunting Association and the Hokkaido Magic Beast Farm would also launch the new currency at the same time.
 
-With the Kraken defeated, the Hokkaido Magic Beast Farm had opened a Pacific coastal shipping route using aquatic magic beasts to tow vessels. The new currency would encourage more travel and trade.
+With the Kraken defeated, the Hokkaido Magic Beast Farm could now use a Pacific coastal shipping route where aquatic magic beasts towed vessels. The new currency would encourage more exchange and trade.
 
 The Tohoku Hunting Association wanted to ride that wave too... but apparently, one major obstacle stood in its way.
 
@@ -58,7 +58,7 @@ It expanded its territory in stages every seven full moons. While no one could t
 
 Daidarabocchi never tolerated intruders in its territory.
 
-It let wolves and sheep-sized animals pass, but quickly detected anything the size of a human or bear, or anything with high magic power. Then it tried to kill the intruder with hurled trees, giant rocks, or something like magical poison gas.
+It let wolves and sheep-sized animals pass, but quickly detected anything the size of a human or bear, or anything with high magic power. Then it tried to kill the intruder by hurling huge trees or giant rocks, or by releasing something like magical poison gas.
 
 The monster was absurd, but the way it fiercely defended its territory was also a blessing. As long as you stayed out, it left you alone.
 
@@ -130,7 +130,7 @@ I read through the order form they had sent me closely and immediately started p
 
 The Tohoku Hunting Association's four mages and one witch all used guns, so it seemed best for their magic wands to double as firearms. One combined weapon would be easier to handle than carrying a separate wand and gun. Something like a bayonet, I guess.
 
-They had also sent spare hunting rifles belonging to the five hunters as both references and raw materials. I measured them, took them apart, and worked out their construction. I'd assumed guns were fairly intricate weapons, but the mechanism was much simpler than I expected. It looked like I could build them into a wand without much trouble.
+They had also sent spare hunting rifles belonging to the five hunters as both references and raw materials. I measured them, took them apart, and worked out their construction. I'd assumed guns were fairly intricate weapons, but the mechanism was much simpler than I expected. It looked like I could build them into wands without much trouble.
 
 I drew several blueprints, made wooden prototypes, and then decided on the shape of the gun-wands.
 
@@ -146,7 +146,7 @@ The Tohoku Hunting Association had a support specialist who could use detection 
 
 That meant the projectiles had to be tough enough for repeated use.
 
-I cared more about ease of maintenance than raw strength, though, so I changed the requested specifications slightly.
+I cared more about ease of maintenance than raw strength, though, so I took the liberty of changing the requested specifications slightly.
 
 However tough I made them, repeatedly firing them with propellant charges and slamming them into prey would make them warp and break. 100 percent.
 
@@ -182,7 +182,7 @@ When I called out, the three that had been playing by rolling pine cones around 
 
 “Activate the reverberatory furnace. Prepare to breathe fire.”
 
-At my solemn command, the fire salamander unit filed into the reverberatory furnace squeaking mii-mii, fanned out to face the furnace opening, and took up their “wait” positions.
+At my solemn command, the fire salamander unit filed into the reverberatory furnace meeping, fanned out to face the furnace opening, and took up their “wait” positions.
 
 Good, good. Good kids. I'll give you lots of your favorite food afterward.
 

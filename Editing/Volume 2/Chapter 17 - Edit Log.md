@@ -134,3 +134,28 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 - Whole-file `check_reedit.py` PASS with reviewed word-count WARN; `![p295.jpg](images/p295.jpg)` and the heading inventory remained unchanged.
 - `run_chapter_gates.py --unit 2 --chapter 17` ALL PASS; all-volume consistency checks for Volumes 1–4 passed.
 - No reference-file change was required.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 63 reviewed, 4 flagged. Round 1: 2 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 4 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore "for dead" (死んでしまったのだと諦めかけていた)
+  - Final text: "He'd nearly given OK Workshop up for dead, but they were alive!"
+- **F2** — APPLIED — accuracy — state that evaluation points are separate from credits (単位とは別に); editor's counter
+  - Final text: "Here, taking classes and submitting short papers earns you evaluation points, which are separate from course credits."
+- **F3** — APPLIED — accuracy — restore the reunion (再び出会った)
+  - Final text: "By some miracle, he'd been reunited with his all-time favorite artist through a new work—a masterpiece that showed how much better they'd gotten in four years. He had to have it!"
+- **F4** — APPLIED — voice — colloquial ナルホド～！の気分; editor's counter (Codex's "That had me going" means "fooled me")
+  - Final text: "I was like, Ohhh, now I get it!"
+
+Checks: check_reedit RESULT: PASS (one WARN: body word count 2468 -> 2262, -8.3%, from the original re-edit's tightening; these four edits add words); gates ALL PASS.
+
+Reference flags: none
+
+## User Rulings — 2026-09-29
+
+- "Afterword" line → `## Afterword` heading, matching V1.

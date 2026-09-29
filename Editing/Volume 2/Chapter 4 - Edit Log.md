@@ -105,3 +105,42 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - No notes, ruby, or images in this file; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 4` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 117 reviewed, 13 flagged. Round 1: 11 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 13 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — "world of hand craftsmen" restored to a relative clause
+  - Final text: "Carbon nanotubes, the latest synthetic fibers, heat-resistant materials, and so on had shaken up not just industry but the world of craftspeople who worked by hand too."
+- **F2** — APPLIED — accuracy — removed added universal "every" (counter; kept 入手が容易 as "easy to come by")
+  - Final text: "Gremlins, the core material of magic wands, were important, general-purpose, and easy to come by. If I was going to learn more, this was the place to start."
+- **F3** — APPLIED — tense — proverb (general truth) back to present
+  - Final text: "Then again, as the saying goes, failure is the mother of success."
+- **F4** — APPLIED — accuracy — dropped added "pottery" gloss for 工芸など
+  - Final text: "Assuming Gremlins melted at 1,200°C, a climbing kiln, the kind used for crafts and such, could hit that temperature. Building one would be a pain, but not insanely hard."
+- **F5** — APPLIED — accuracy — 最高値を記録 is a peak price, not a sale
+  - Final text: "To thank her, I gave her a rare card that had once hit 16,000 yen at a card shop, but she didn't seem all that happy about it."
+- **F6** — APPLIED — accuracy — 何の役に立つのか分からない is unknown use, not "seems useless"
+  - Final text: "Research with no obvious use right now might turn out to be useful as hell someday, somewhere. Or it might never be useful for anything, ever. That's basic research, and that's the kind of materials science a craftsman needs."
+- **F7** — APPLIED — tense — のに/辛い direct grumble in present, one tense throughout (counter; "would heat", "struggle" for 苦労して)
+  - Final text: "Magical fire would heat it up in no time. But the nature of the experiment means I have to struggle to get the temperature up with natural fire, and that sucks."
+- **F8** — APPLIED — accuracy — 妨害 is "interfere with," not "keep from"
+  - Final text: "Seriously useless, but if I built a prison or something out of melt-recast Gremlin, it might interfere with prisoners using magic. Maybe. Probably."
+- **F9** — APPLIED — tense — ま…たぶん direct monologue takes "will"
+  - Final text: "Well, this experimental data will come in handy someday too. Probably."
+- **F10** — APPLIED — glossary — bare 魔法大学 = "Magic University"
+  - Final text: "... (Magic University entrants were the exception and could learn it even at 11 or younger)."
+- **F11** — APPLIED — tense/accuracy — やばい/…なるよ paragraph present; hellscape is hypothetical
+  - Final text: "But when I think about it calmly, it's nuts that even with a bugged spell that can instantly more than double crop yields, the self-sufficiency rate is still only around 100%. Without magic, simple math puts it at 50%. No wonder things would turn into a hellscape."
+- **F12** — APPLIED — tense — …なんですけどね reader aside in present
+  - Final text: "Except the Wand Maker in question is actually me, living the easy craftsman life in Okutama, right next door to Ome. No way they'd ever figure that out."
+- **F13** — APPLIED — glossary — 魔法杖製作 keeps "magic wand"
+  - Final text: "... But I did have one complaint: making magic wands had been getting kind of stale lately."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

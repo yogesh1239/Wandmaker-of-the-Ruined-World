@@ -55,3 +55,22 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Closing image marker unchanged; no notes; `check_reedit.py` PASS; `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 17 reviewed, 3 flagged. Round 1: 1 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 3 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — 河川を氾濫させる is causative; "flooded rivers" misstated it
+  - Final text: "Huge amounts of rainwater swept up huge amounts of Gremlins and turned into destructive muddy torrents that sent rivers over their banks and wrecked buildings."
+- **F2** — APPLIED — glossary/accuracy — bare 魔女集会 = "Witches' Council"; 都市部ほど is urban vs. rural, not city size
+  - Final text: "Crystal rain hit urban areas hardest, and apparently it was one of the Witches' Council's many headaches."
+- **F3** — APPLIED — accuracy — 強そうだ is tentative ("had to be" overstated it); 砂に混ざって = mixing with the sand
+  - Final text: "Farther downstream, Gremlins had apparently started mixing with the sand and building up. That was probably doing a number on the ecosystem."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

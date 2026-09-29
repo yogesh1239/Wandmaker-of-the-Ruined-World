@@ -265,3 +265,60 @@ Bare 警備隊 kept as "security force" (series majority, 21 uses) rather than t
 
 ### Formatting Confirmed
 - Notes [^1]–[^2], ruby spans, scene breaks, and image markers unchanged; no backticks; `check_reedit.py` PASS on both slices; `run_chapter_gates.py --unit 2 --chapter 13` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 255 reviewed, 22 flagged. Round 1: 7 conceded, 2 pushed back, 13 countered. Codex after round 1: 2 withdrew, 9 accepted, 0 maintained, 4 countered. Round 2: no.
+Final: 21 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — "worked to the brink" dangled; 限界サラリーマン as "burned-out"
+  - Final text: "What was she doing? Sleeping in the entryway? Who did that, besides some burned-out salaryman at a sweatshop company? Way too bizarre."
+- **F2** — KEPT — worse — verbless answer line
+  - Why kept: JP 軽症型と、劇症型だ。 is itself a comma-beat listing that answers the set-up line; Codex withdrew.
+- **F3** — APPLIED — worse — "drained violently" odd collocation for 激しく
+  - Final text: "In the post-onset stage of the severe type, magic power and stamina are drained at an extreme rate."
+- **F4** — APPLIED — register — 目を離し is plain "looked away"
+  - Final text: "After reading that far, I looked away from the letter and down at the Blue Witch. She hadn't so much as twitched on the mat."
+- **F5** — APPLIED — worse — doubled "lovely" clumsy; kept 美少女 and the beautiful-but-ashen contrast (Codex counter accepted)
+  - Final text: "Gingerly, I took off the mask she never went without. Underneath was the face of a beautiful girl—lovely, but gone ashen."
+- **F6** — APPLIED — worse — "hauled her out on the muscle"; keeps 物を言わせて sense
+  - Final text: "I gently lifted the Blue Witch in my arms, let the muscle I'd built doing farm work do the carrying, and laid her on a blanket in the cart."
+- **F7** — APPLIED — accuracy — 重症化 = severe type; バリバリ not "nonstop"
+  - Final text: "That's right. That stoat girl's got to have the severe type too! No way someone actively running experiments as a magic linguistics professor has never had magic-power-depletion fainting."
+- **F8** — APPLIED — accuracy — "for blocks" overstated 周囲; kept "sprung up" for ぽつんとできた
+  - Final text: "The Tokyo Bunka Kaikan was the only building in the area that was overgrown with plants. Guarded by branches, leaves, and the scent of flowers, it felt like a natural sanctuary that had sprung up all alone in the concrete jungle."
+- **F9** — APPLIED — worse — 対価 is payment in exchange, not "pay a price"
+  - Final text: "Yes. But. You will pay me for it."
+- **F10** — APPLIED — mechanics — narration paragraph un-merged; できなかった as inability
+  - Final text: "My first daughter plant could not be born. I am trying to bear a second, but she is tangled up with the first one's body. At this rate, she will die." / (new paragraph) The Flower Witch said it sadly.
+- **F11** — APPLIED — glossary — "little one"/"baby" restored to daughter plant; second mention a pronoun
+  - Final text: "The daughter plant had nearly suffocated deep in the roots, but she'd pulled through. I handed her over—she looked like a miniature Flower Witch—and stuck out my hand. C'mon. Antidote."
+- **F12** — APPLIED — glossary — "baby" → daughter plant
+  - Final text: "For some reason, though, the Flower Witch looked a little weirded out as she took the fussing daughter plant."
+- **F13** — APPLIED — glossary/accuracy — "baby" → daughter plant; "birdcall" → animal's cry (Codex counter accepted)
+  - Final text: "She began soothing the daughter plant with a sound like an animal's cry, a song, or the melodic rustling of trees."
+- **F14** — APPLIED — accuracy — のに contrast
+  - Final text: "She never even got to live, and yet she'd nearly killed her little sister."
+- **F15** — APPLIED — accuracy — removed added "good luck"
+  - Final text: "Well, that'll about do it. Goodbye, and on to your next life! Rest in peace!"
+- **F16** — APPLIED — accuracy — らしい hedge restored
+  - Final text: "Not only was I forgiven, the Flower Witch actually seemed to be in a good mood. Apparently something had struck a chord with her."
+- **F17** — APPLIED — worse — 生気を取り戻し recast (Codex counter accepted)
+  - Final text: "I ran over to check on the Blue Witch. Some life was beginning to return to her almost corpse-like complexion. Her breathing had steadied too, settling into soft, peaceful little breaths."
+- **F18** — APPLIED — mechanics — "I nodded." un-merged; tense objection withdrawn by Codex ("might" = backshifted may)
+  - Final text: "I nodded." / (new paragraph) "Some people might mind, but any way you sliced it, wiping out the mushroom came first."
+- **F19** — APPLIED — accuracy — restored 分泌される
+  - Final text: "Smiling beautifully all the while, she let three drops of golden liquid, secreted from the tips of a bundle of petals, fall into my mouth."
+- **F20** — APPLIED — accuracy — "the gold" → golden liquid; intensity of 得体が知れなさすぎる
+  - Final text: "It didn't feel bad, exactly. If anything, the golden liquid she'd forced on me was sweet and richly fragrant, and there was a pleasant sense of nature's power filling my body. But I had absolutely no idea what the stuff was."
+- **F21** — APPLIED — worse — "mountains of people" calque
+  - Final text: "There must be countless people who would kill you just to learn what you drank."
+- **F22** — KEPT — accuracy — "he'd helped"
+  - Why kept: "he" corefers with "the midwife" (JP 仕事終わりの助産師, Ori's deliberate third-person self-framing); Codex withdrew.
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none. (Unflagged note: lines 441/443/593 use "baby"; 441 is JP 赤ちゃん and 443/593 have no 子株 in the JP, so they are fine.)

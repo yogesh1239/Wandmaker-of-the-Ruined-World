@@ -78,7 +78,7 @@ Doesn't this thing seem like it's reacting to magic power?
 
 It could've been reacting to life force or lifespan, but every effect we'd gotten from Gremlin processing so far had involved magic power or magic. This was probably more of the same.
 
-I went to the reverberatory furnace and pressed the structural-color Gremlin against each of the three fire salamanders dozing in the morning mist. It changed from black to white only while it was touching them. The reaction didn't seem to vary by individual—or even by species.
+I went to the reverberatory furnace and pressed the structural-color Gremlin against each of the three <ruby>lizards<rt>fire salamanders</rt></ruby> dozing in the morning mist. It changed from black to white only while it was touching them. The reaction didn't seem to vary by individual—or even by species.
 
 That was as far as I could test by myself, so I called in a magic-power expert.
 
@@ -90,7 +90,9 @@ I dragged Hiyori out of bed at the crack of dawn over familiar communication. Sh
 
 Hiyori pressed a finger to the structural-color Gremlin and nodded.
 
-I asked eagerly. “Hey, is this color change related to magic power? It doesn't seem like it has anything to do with an intrinsic color.”
+I asked eagerly.
+
+“Hey, is this color change related to magic power? It doesn't seem like it has anything to do with an intrinsic color.”
 
 “Wait. I'll check.”
 
@@ -204,7 +206,7 @@ I couldn't let myself wonder why I was doing this. If I came to my senses, I'd b
 
 Some mysterious sense of duty drove me to keep at it for an entire month. When I finally reached the halfway point, even I had to take a short break.
 
-I soaked in the bath, shaved my scraggly beard, cooked myself a proper meal, and slept my fill without watching the clock. When I woke up, it was time to make amends with the fire salamanders I'd neglected.
+I took a long soak in the bath, shaved my scraggly beard, cooked myself an elaborate meal, and slept my fill without watching the clock. When I woke up, it was time to make amends with the fire salamanders I'd neglected for a while.
 
 The fire salamanders pounced on the sparks from some sparklers I'd dug out of storage, and their bad mood vanished instantly. Then they clung to big bottle rockets, took to the sky, and disappeared beyond the trees with cries of wild excitement.
 
@@ -367,7 +369,7 @@ An ordinary person had about 1 K of magic power. Nice and simple.
 The name was easy to understand too.
 
 
-The unit “wisely viewed and determined” magic power, so they called it Kenshi.[^2]
+Magic power was “wisely viewed and determined,” so the unit was called Kenshi.[^2]
 
 
 ![p266.jpg](images/p266.jpg)

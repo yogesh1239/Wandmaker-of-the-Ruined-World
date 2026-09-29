@@ -153,3 +153,52 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, scene breaks, `[^1]`–`[^3]` and notes section unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 6` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 83 reviewed, 14 flagged. Round 1: 9 conceded, 2 pushed back, 3 countered. Codex after round 1: 2 withdrew, 1 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 12 changed, 2 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — tense — ね-marked direct thought restored to present
+  - Final text: "If this rice paddy works out, it'll at least solve my own food problem. Besides, I'm sick of year-old and two-year-old rice. I want fresh rice for once."
+- **F2** — APPLIED — worse — modifier chain reordered to match the order of the two escapes
+  - Final text: "I'd also found some chickens that had escaped from who knew where and gone feral in the mountains, and I'd tried raising them, but they just escaped again, so that was a bust."
+- **F3** — APPLIED — accuracy — 獣害 is concrete damage, not a nuisance (accepted Codex's round-1 counter; my "wrecking crops" asserted more than the JP)
+  - Final text: "…so some small-fry monster causing a bit of damage out in the sticks was probably nothing to her."
+- **F4** — APPLIED — accuracy — 現代日本人 = a modern Japanese person
+  - Final text: "…something that should have been alien to a modern Japanese person."
+- **F5** — APPLIED (partial) — accuracy — 振るう → "wielding" (echoes l.107); "chanting" kept, since it is the verb for 唱える and the banned "chant" is the noun for 詠唱 (Codex accepted)
+  - Final text: "…but we both worked magic the same way, by wielding a wand and chanting an incantation."
+- **F6** — APPLIED — tense — なるものか vow in present, plain description kept past
+  - Final text: "The days when you could buy tubes of wasabi online were long gone. Now this wild patch was a precious source of spice. I'm not about to let some monster have it."
+- **F7** — APPLIED — accuracy — 無造作に = casually, not carelessly jerked
+  - Final text: "I looked where the Blue Witch casually pointed with her chin, and sure enough, there was the turtle monster, …"
+- **F8** — APPLIED — mechanics — 「終わった」 restored as its own paragraph; ふわりと着地 = landed lightly
+  - Final text: "She landed lightly on the leaf mold carpeting the ground, and while I stood there dumbstruck, she said curtly." / "\"Done.\""
+- **F9** — APPLIED — tense — なんか納得いかない has no direct-thought signal, so past
+  - Final text: "It was a smart way to fight, sure, not wasting any magic power, but something about it just didn't sit right with me."
+- **F10** — APPLIED — accuracy — 扱えそう hedge restored
+  - Final text: "Something even you might be able to handle."
+- **F11** — APPLIED — tense — question-led direct thought restored to present
+  - Final text: "Why do people always insist on doing things face-to-face? It's beyond me, but the person doing the teaching says a spoken lesson is easier, so what can I do?"
+- **F12** — KEPT — glossary — "chanted one"
+  - Why kept: 唱える is a verb, and the banned "chant" is the noun for 詠唱. "One" refers back to "an incantation", and V1 uses "chanted" for 唱える throughout (Codex withdrew).
+- **F13** — KEPT — glossary — "chanted it lightly"
+  - Why kept: same verb/noun distinction as F12. "Chanted" is also the baseline wording and suits the bird simile (Codex withdrew).
+- **F14** — APPLIED — accuracy — ちょっと得意げ = a bit pleased
+  - Final text: "When I gave her a big round of applause, she looked a bit pleased with herself this time."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: glossary 詠唱 row bans "chant". Both sides agreed this applies to the noun only, so the verb "chant/chanted/chanting" stays for 唱える (V1 Ch3, 4, 6, 7, 8, 11 use it). The lead may want to add that noun/verb scope to the row's Context so future critics don't flag it again.
+
+### Lead Fixes (series rulings)
+- 唱える: 3 "chant" forms → "recite" (series ruling; overruled the debater's wish to keep "chanted")
+
+## User Rulings — 2026-09-29
+
+- 凍れ[ヴアアラー] / 凍る投げ槍[ドウ・ヴアアラー] (JP 07:205): footnoted English names → glossary ruby forms `<ruby>Vaa-ra<rt>Freeze</rt></ruby>` and `<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>`; notes [^2] and [^3] removed, [^4] renumbered [^2].
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

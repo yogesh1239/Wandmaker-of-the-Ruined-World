@@ -169,3 +169,27 @@
 - The semantic source span `火蜥蜴[とかげ]` is preserved as raw HTML `<ruby>lizard<rt>fire salamander</rt></ruby>`; no other furigana in scope required semantic ruby.
 - The pachinko marker `[^1]` remains paired with one concise note in the terminal `## Translator Notes` section under the project footnote policy; no source scene breaks or image markers occur in Part 2.
 - One-off administrative wording was translated in prose without adding glossary entries.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–539 (`reedit-c14-s1`); subagent model Claude Opus; 141 changed paragraphs). Flow: short-sentence share 18.5% -> 17.0%; runs 3 -> 3; FLOW: LIGHT PASS (choppy baseline, too little gain). Codex critique: 141 changes reviewed, 9 flagged; F1–F8 accepted; F9 accepted with lead rewording.
+
+### Accuracy Fixes
+- **毒を飲んだという / 良かろうとの事**: hearsay restored — accuracy
+- **琵琶湖協定、大変っぽいしな。俺も妥当だと思います**: "too" moved to the right clause — accuracy
+- **もう一度魔法を唱えると**: activation meaning fixed — accuracy
+- **魔法暴走の原因になる**: "runaway magic" — glossary
+- **assist magic**: banned alias removed — glossary
+- **放置していた…工場**: "left sitting idle" → "I'd been ignoring" — accuracy
+- **２００万枚**: technical value kept as "2 million" — punct
+- **Mokutan**: he/his/him → it/its (gender Unknown) — referent
+
+### Register and Flow
+FLOW LIGHT PASS accepted: remaining runs are deliberate (the magic-drug rant, "Well, human experiments, probably. Rest in peace.", and the closing "History is moving." crescendo). Two straight-quoted narration lines made curly.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 14` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Spoken salamander cries: "Mee" forms normalized to "Mii" (series majority) in quoted cries.

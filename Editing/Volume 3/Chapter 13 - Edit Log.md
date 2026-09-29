@@ -120,3 +120,33 @@ Kept the two new three-sentence runs because they carry deliberate source emphas
 - **上手く杖に組み込めそうだ** (JP 202): restored the そう hedge ("It looked like I could build them into a wand without much trouble") — accuracy
 - **色々やったが中折れ式が良さそうだ** (JP 208): fixed the dangling modifier ("I tried several options, and...") — worse
 - **俺の天才的作品の数々** (JP 349): "my brilliant creations" → "my many works of genius" (Ori's bragging, 数々 restored) — voice
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 82 reviewed, 8 flagged. Round 1: 3 conceded, 2 pushed back, 3 countered. Codex after round 1: 2 withdrew, 3 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 6 changed, 2 kept as re-edited. Plus 1 lead-ruling fix (salamander cry, line 185).
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 自然と (inflation expected to set in naturally), keep そうだ hedge
+  - Final text: "They had apparently chosen that ratio in anticipation of the inflation that would naturally set in over time."
+- **F2** — APPLIED — accuracy — 第二次開墾 is second-stage reclamation, not a second round of cultivation
+  - Final text: "Thanks to livestock blood tests that screened for the latent risk of turning into monsters, along with the breeding and deployment of turret balsams, they had already begun the second-stage reclamation of the vast cleared land in Katsushika Ward. If food production stabilized, the economy would stabilize too."
+- **F3** — APPLIED — accuracy — 使えるようになっている = route became usable (not "had opened"); 交流 = exchange
+  - Final text: "With the Kraken defeated, the Hokkaido Magic Beast Farm could now use a Pacific coastal shipping route where aquatic magic beasts towed vessels. The new currency would encourage more exchange and trade."
+- **F4** — APPLIED — accuracy — restore 大木 "huge trees"
+  - Final text: "Then it tried to kill the intruder by hurling huge trees or giant rocks, or by releasing something like magical poison gas."
+- **F5** — KEPT — mechanics — Okyaku 氏 without "-shi"
+  - Why kept: unchanged from OLD (out of scope); the series never renders narrative 氏 as "-shi", so a one-chapter change would be inconsistent. Codex withdrew. Flagged to lead.
+- **F6** — KEPT — mechanics — Okyaku 氏 without "-shi" (line 91)
+  - Why kept: same as F5. Codex withdrew.
+- **F7** — APPLIED — worse — fix plural "them" / singular "a wand", keep 上手く as "without much trouble"
+  - Final text: "It looked like I could build them into wands without much trouble."
+- **F8** — APPLIED — accuracy — restore 変えさせてもらった "took the liberty"
+  - Final text: "I cared more about ease of maintenance than raw strength, though, so I took the liberty of changing the requested specifications slightly."
+  - Final text: "At my solemn command, the fire salamander unit filed into the reverberatory furnace meeping, fanned out to face the furnace opening, and took up their “wait” positions."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS (--unit 3 --chapter 13).
+
+Reference flags: (1) Narrative 氏 convention is unsettled: the translation guide's honorific table has no entry for 氏, most chapters render 大狼[オキヤク]氏 as bare "Okyaku", but V3 Ch6 line 49 has "Mr. <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s oral teachings" (JP 大狼[オキヤク]氏の口伝), which breaks the guide's no-"Mr." rule. The lead should rule on bare vs "-shi" series-wide (other instances: V3 Ch18 JP line 28 大熊[イタズ]氏). (2) Line 185 keeps "their" for the salamander unit; it's a plural collective, not a gendered pronoun, so it stays.

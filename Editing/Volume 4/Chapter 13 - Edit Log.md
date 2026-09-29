@@ -70,3 +70,22 @@
 - Verified source lines 4–331 are fully represented in order; there are no source scene breaks or image markers in scope.
 - Verified narrative/direct-thought tense, retained honorifics, JP name order, plain roman unmarked thought, no added italics, balanced raw HTML ruby, and no footnote markers.
 - Verified the edited draft has no title heading or Translator Notes section to consolidate.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–332 (`reedit-c13-s1`); subagent model Claude Opus; 87 changed paragraphs). Flow: short-sentence share 34.1% -> 29.9%; runs 1 -> 1; FLOW: ok. Codex critique: 87 changes reviewed, 8 flagged; F1–F5, F7 accepted; F6/F8 wording accepted but present tense kept (たい reflections leading into the present closing monologue).
+
+### Accuracy Fixes
+- **奥多摩に花の魔女いない……？**: tentative question, not a negative ("By any chance… is the Flower Witch in Okutama…?") — accuracy
+- **荷物はこれで全部ですかね？**: "Is that all your luggage?" → "Is that everything?" — referent
+- **大利貴様いい加減にしろよ！**: missing line added — accuracy
+- **それは私も思う**: "I thought that too" → "I think so too" — tense
+- **突然 / 相当邪悪な奴だったらしい**: 突然 and らしい restored — accuracy
+- **救いの糸を垂らしてくれた**: "thread of salvation" keeps the spider-thread pun — accuracy
+- **なんとかなるものだ**: general truth → "things have a way of working out" — tense
+
+### Register and Flow
+Kept run: the closing punchline "It's the magic stones' turn now. / Which means it's my turn. / Looks like I'm going to be busy!" 魔石の出番/俺の出番 echo kept.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 13` ALL PASS.

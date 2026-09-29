@@ -80,3 +80,40 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, notes, scene breaks unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 89 reviewed, 12 flagged. Round 1: 6 conceded, 3 pushed back, 3 countered. Codex after round 1: 3 withdrew, 2 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 9 changed, 3 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — "I'll never understand" → plain colloquial present for 分からんね
+  - Final text: "I don't get how witches think. Blue, Dragon, Tobacco—every one of them just does whatever she feels like. I've only heard about the Eyeball Witch and the Foresight Mage secondhand, but I can imagine what they go through."
+- **F2** — APPLIED — accuracy — 新作魔法杖製作実験 is experiments in making new wands
+  - Final text: "A campfire or a pizza oven didn't get hot enough to melt metal or experiment with making new wands. I really needed a reverberatory furnace that could reach high temperatures."
+- **F3** — APPLIED — worse — bricks are fired, not baked (echoes "firing bricks" at JP 187)
+  - Final text: "While I worked away with a shovel, leveling the ground where the furnace would go, the Blue Witch used fire magic to fire the bricks for me."
+- **F4** — APPLIED — accuracy — 在庫 = stock
+  - Final text: "“I asked Professor Ohinata in a letter, and apparently the Flame Witch of Shinagawa Ward collected all of Tokyo's firebrick stock and used it up. So making our own is the only option. Let's do our best, yeah?”"
+- **F5** — KEPT — accuracy — 何十日 as "weeks and weeks"
+  - Why kept: 何十日 is an unspecific span, and "weeks and weeks" is the English idiom for it and keeps the exasperation (Codex withdrew).
+- **F6** — KEPT — accuracy — なんだかんだ as "Say what you want"
+  - Why kept: addressed to her right after ぶつくさ文句, it reads "grumble all you like", and "really are" keeps the よ/お前は emphasis (Codex withdrew).
+- **F7** — APPLIED — worse — ungrammatical colon coordination
+  - Final text: "Then again, every so often while we talked, she'd casually mention how she'd killed people who'd trespassed into Ome, or broken their legs and tossed them out, or beaten them until they puked and sent them packing. So the Blue Witch's free kindness was probably reserved for her own people."
+- **F8** — APPLIED — mechanics — comma after "!!”"; 前回の = "the previous"
+  - Final text: "I'd heard that the previous “Fierce Battle! Strongest Transcendent Tournament!!” had been postponed ten years because the Foresight Mage was dead set against it, which meant it was effectively canceled."
+- **F9** — KEPT — accuracy — "dirty your memories"
+  - Why kept: 記憶 has no number, and the plural is idiomatic for tainting what you remember (Codex withdrew).
+- **F10** — APPLIED — accuracy — たびたび = often, not always
+  - Final text: "Apparently the Tobacco Witch couldn't stand anything gloomy. She had an entourage of middle-aged guys who shared her hobbies, and she often came up with wild schemes."
+- **F11** — APPLIED — accuracy — 人々 = people, not "everyone else"
+  - Final text: "Right after the Gremlin Disaster, while people were sunk in despair and grief, she was quick to take in the racehorses stranded at Tokyo Racecourse and put them to work hauling goods in place of the cars nobody could use anymore."
+- **F12** — APPLIED — accuracy — present tense kept (まあ interjection + し…し fragments = direct musing; Codex withdrew the tense objection); らしい scope kept over 煙たい; 機会 = chance; 無かろう "probably" restored
+  - Final text: "Well, apparently the Tobacco Witch looks like an ordinary woman. I've also heard she's always puffing away and that it gets smoky just from getting near her. She sounds like a fun one, but she's not the kind of person I'd want to get close to. We'll probably never get the chance to meet anyway."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: none

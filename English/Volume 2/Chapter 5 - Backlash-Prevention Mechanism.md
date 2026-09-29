@@ -168,9 +168,9 @@ The swap would be a pain, but if someone had a magic-backlash accident with one 
 
 I didn't want to hear, "I used a magic wand, but it didn't prevent a magic-backlash accident." I wanted praise like, "Thanks to the magic wand, I avoided a magic-backlash accident, got a girlfriend, made the starting lineup in my club, and my grades went up! It's all thanks to the magic wand!" Five-star reviews only, please.
 
-Professor Ohinata accepted the recall and promptly collected the general-purpose magic wands, then had the Blue Witch bring them to me along with a personal thank-you letter and an official certificate of appreciation from Tokyo Magic University. She went all out praising me for solving the problem in a single day. I'm blushing.
+Professor Ohinata accepted the recall and promptly collected the general-purpose magic wands, then had the Blue Witch bring them to me along with a personal thank-you letter and an official certificate of appreciation from Tokyo Magic University. She went all out praising me for solving the problem in a single day. That was embarrassing.
 
-Come on, Professor, improving fertility magic and undoing your own transformation in one day is pretty impressive too. Both our lightning-fast fixes were built on a foundation of basic research, so neither of us really did it in one day. But hey, let's keep the easy compliments coming.
+Come on, Professor, improving fertility magic and undoing your own transformation in one day is pretty impressive too. Both our lightning-fast fixes were built on a foundation of basic research, so neither of us really did it in one day. But hey, let's keep patting each other on the back.
 
 The new version of the magic wand had evolved out of Professor Ohinata's assignment and the Blue Witch's testing, and I saw huge potential for further development in it.
 

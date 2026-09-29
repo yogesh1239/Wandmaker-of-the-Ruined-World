@@ -115,3 +115,30 @@ Ori's craft talk stayed casual and fast. Clearly immediate thoughts and reader a
 - **実際に見て…凄さを実感してもらう** (JP 46): rejoined the sentence to avoid back-to-back "Then" openers — polish
 - **奥多摩から…都心部まであっという間だ** (JP 322): fixed stacked word order — polish
 - **サッと顔を背け** (JP 286): "promptly" → "quickly" — polish
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 45 reviewed, 7 flagged. Round 1: 1 conceded, 0 pushed back, 6 countered. Codex after round 1: 0 withdrew, 5 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 7 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 最大最悪 and the 奪う "stole" echo from lines 1–3; drop added "from us"
+  - Final text: "The biggest, worst disaster in human history had stolen so much. It even stole online shopping from me." (Codex missed the broken 奪う echo and the added "from us"; fixed in the same edit.)
+- **F2** — APPLIED — accuracy — 凝る as "refine" (not "improve", which implies a defect; not "fuss over", which is disparaging)
+  - Final text: "“But is there really that much to refine? The quality looks good enough.”"
+- **F3** — APPLIED — tense — reader aside (…ですからね) all present; restored 是非とも and 堪能 that NEW and Codex's FIX dropped
+  - Final text: "I don't know what kind of magic the Tohoku mages use, but whatever it is, you can never have too much backlash reduction. I really want them to enjoy the samples' custom options to the fullest and discover how good Ori-made custom magic wands are."
+- **F4** — APPLIED — mechanics — noshi note marker moved onto "noshi"
+  - Final text: "I put in the specification sheets, closed the lid, and attached a noshi[^1] marked “Gift.” Done."
+- **F5** — APPLIED — accuracy — 多用 = "a lot"; restored dropped 凍結魔法の使い手
+  - Final text: "As a freezing-magic user, the Blue Witch naturally used freezing magic a lot, so I took the handle apart and replaced its default milky-white backlash-prevention mechanism with one made from blue personal-color Gremlin. That improved its freezing-magic reduction rate even further."
+- **F6** — APPLIED — accuracy — keep the 自分らしく…自分らしく echo with the idiom "be myself" (not the calque "live as myself")
+  - Final text: "Grandpa had told me to be myself in a place where I could be myself."
+- **F7** — APPLIED — tense/joke — tense kept present (Codex withdrew: one continuous signal-marked monologue chain); restored mock-scientific 中断現象が発生 jargon
+  - Final text: "There shouldn't be any logical inconsistency, yet the phenomenon of an unnatural interruption in the conversation has, in fact, occurred. That means some profound mystery of communication beyond my understanding is probably at work."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: none

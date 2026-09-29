@@ -149,3 +149,40 @@ Close-third on **Handa**: plain, adult diction. 地獄の黙示録 read as "hell
 
 ### Formatting Confirmed
 - Ruby span, note [^1], and image marker unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 6` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 134 reviewed, 12 flagged. Round 1: 5 conceded, 0 pushed back, 7 countered. Codex after round 1: 0 withdrew, 7 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 12 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — bare 警備隊 is "security force", not "guards"
+  - Final text: "The roots running under the whole territory killed any monster that appeared in an instant. Flying monsters were the one exception, and for those the security force had to fight back or ask witches from other districts for help. Still, just having no monsters on the ground made life easy."
+- **F2** — APPLIED — tense — な-marked direct thought takes present
+  - Final text: "If anything, it impressed him that people here had room to worry about what happened after they died. Tokyo really is peaceful."
+- **F3** — APPLIED — worse — restore the three conditions (counter: one comma-linked sentence, not three fragments)
+  - Final text: "But apparently that wasn't an absolute rule. If he had power, if he had status, if he could negotiate, then he wouldn't have to spend the rest of his life inside this district."
+- **F4** — APPLIED — worse — untangle comparison; 欲が出る as "want more" (counter)
+  - Final text: "Several months of peace, far beyond anything he'd had the year before, had made Handa want more. He wanted to see the other districts of Tokyo."
+- **F5** — APPLIED — accuracy — 取引 is "that deal"; 何か kept as "some price"
+  - Final text: "Of course. If the Foresight Mage had paid some price in that deal, it had to be his foresight, his greatest bargaining chip."
+- **F6** — APPLIED — accuracy/tense — 人の名前 is general; そういえば…んだな direct realization
+  - Final text: "It wasn't until after Magic University's entrance ceremony that it occurred to him. Come to think of it, she actually remembers people's names."
+- **F7** — APPLIED — tense — direct present thought, keeping the と頷くと cause/effect (counter)
+  - Final text: "That's an efficient way to handle it, he thought with a nod, and his classmate frowned and edged away from him, looking disturbed."
+- **F8** — APPLIED — worse — gradual 好きになる; avoid "grew…grew" (counter)
+  - Final text: "As he came to like Bunkyo Ward, he grew attached to the university and his classes too."
+- **F9** — APPLIED — worse — "pay it back" had the wrong antecedent
+  - Final text: "For now, all he did was benefit from Bunkyo Ward, but he started to want to give something back."
+- **F10** — APPLIED — accuracy — 構え方はとにかく sets the grip aside, no "simple enough"; echo "hold a wand properly" (counter)
+  - Final text: "Holding it properly was one thing, but even if he understood the mechanism, it wasn't something he could easily copy (how was he supposed to get his hands on a reverberatory furnace?). Still, it fascinated him."
+- **F11** — APPLIED — worse — unidiomatic "knew himself"; keep 自分でも as "had to admit" (counter)
+  - Final text: "He had to admit it was more a hunch full of holes than a theory, but it felt just like water running through a water pipe, and he found himself thinking about the heart of the problem and how to solve it."
+- **F12** — APPLIED — mechanics — restore narration/dialogue paragraph break; keep "humming" (counter)
+  - Final text: "She kept her arms folded for a while, humming as she mulled it over, until at last she clapped her hands and spoke up brightly." / "“Let's see. How about this, Handa-san?”"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

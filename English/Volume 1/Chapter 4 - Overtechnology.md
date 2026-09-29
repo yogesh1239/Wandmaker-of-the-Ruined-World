@@ -16,7 +16,7 @@ Ori Kenshi, a Wand Maker with a terror of people and a freakish level of dexteri
 
 His personality had its problems, but there wasn't any malice in him. Or any sense of danger, either. She was almost impressed that someone like that had survived this long.
 
-The wand sales deal with Okutama's strange creature suited the Blue Witch just fine, too.
+The magic wand sales deal with Okutama's strange creature suited the Blue Witch just fine, too.
 
 After all, she'd practically been handed exclusive distribution rights to the strongest weapon around, by a mile.
 
@@ -36,7 +36,7 @@ With a magic wand, Ome's defenses would be that much stronger.
 
 She owed Ori. With everything breaking, rotting, and slipping away day after day, one memory of the peaceful days, broken like all the rest, had come back to her. How happy that had made her!
 
-Just as her benefactor had asked, the Blue Witch had started vetting potential wand buyers.
+Just as her benefactor had asked, the Blue Witch had started vetting potential magic wand buyers.
 
 She'd sell to friendly factions and turn away hostile ones. That alone would let her redraw the balance of power however it suited her.
 
@@ -64,9 +64,9 @@ Ori's spec sheet did list the catalog specs. But a line like "Major amplificatio
 
 She wanted a decent target for a test shot, but naturally, no powerful monsters turned up just when she wanted one.
 
-Wand in hand, the Blue Witch leaped from roof to roof and spent several hours checking every corner of the city from above to make sure no intruders had gotten in. Then she went home and had an early lunch. When she'd disposed of the Iruma Mage a while back, she'd cleaned out every scrap of food in his territory while she was at it, so her stockpile still had plenty to spare.
+Magic wand in hand, the Blue Witch leaped from roof to roof and spent several hours checking every corner of the city from above to make sure no intruders had gotten in. Then she went home and had an early lunch. When she'd disposed of the Iruma Mage a while back, she'd cleaned out every scrap of food in his territory while she was at it, so her stockpile still had plenty to spare.
 
-After lunch, she'd take more food to Okutama, maybe with a few pieces of fruit from the tree at Nakamura-san's house next door... She was still working that out when something hit the window with a dull thud.
+Once she's done eating, she'll take more food to Okutama again, and throw in a few pieces of fruit from the tree at Nakamura-san's house next door, too... She was thinking it over when something hit the window with a dull thud.
 
 She turned around to find a floating eyeball ramming the living-room window.
 
@@ -78,15 +78,15 @@ Figuring it had come for another round of pointless small talk, she grudgingly o
 
 The voice was tense and skipped the greeting entirely. The Blue Witch raised an eyebrow.
 
-For the easygoing Eyeball Witch, that meant things were pretty desperate.
+The usually easygoing Eyeball Witch seemed pretty desperate.
 
 "What?"
 
-"A giant monster came ashore from Tokyo Bay. The whole Tokyo coast is on fire right now. I need help."
+"A giant monster came ashore from Tokyo Bay. Coastal Tokyo is a sea of fire right now. I need help."
 
-"Don't bring it to me. Whoever runs that area can deal with it."
+"Don't come to me with this. Whoever runs that area can deal with it."
 
-The Blue Witch protected Ome, out in inland Tokyo. The coast was outside her territory, and she had no interest in it.
+The Blue Witch protected Ome, well inland within Tokyo. The coast was outside her territory, and she had no interest in it.
 
 She'd brushed it off coldly, but the eyeball rolled its pupil around in a panic and pressed on.
 
@@ -96,7 +96,7 @@ She'd brushed it off coldly, but the eyeball rolled its pupil around in a panic 
 
 "The Bloodsucking Mage was killed in the fighting. The Setagaya Witch ran. Right now, the Flame Witch and the Hachioji Witch are holding it off."
 
-Up to then, the Blue Witch had tuned it out as someone else's problem, but the unexpected news made her grip her magic wand hard without meaning to. No matter how powerful this monster was, it was hard to believe.
+Up to then, the Blue Witch had tuned it out as someone else's problem, but the unexpected news made her grip her magic wand hard without meaning to. No matter how powerful the monster was, she couldn't readily believe Bloodsucking was dead.
 
 "Wait. Bloodsucking's dead? Really?"
 
@@ -204,13 +204,13 @@ The Blue Witch took a deep breath and leveled Cyanos from the rooftop.
 
 The kaiju had seemed far away, but with strides that long, it closed the distance faster than she'd expected.
 
-Right around when it came within range of her magic, the pillar of fire and the chains wrapped around it disappeared. The other two must have started pulling back, as she'd told them to.
+Right around when it came within range of her magic, the pillar of fire and the chains wrapped around it disappeared. It looked like the other two had started pulling back, as she'd told them to.
 
-Her magic is hard to control at full power.
+Her magic was hard to control at full power.
 
-Add a magic wand's amplification on top of that, and it'll be close to uncontrollable.
+With a magic wand's amplification on top of that, it would be close to uncontrollable.
 
-Still, all she has to do is fire straight ahead. With a target that big, there's no way she'll miss.
+Still, all she had to do was fire straight ahead. With a target that big, there was no way she could miss.
 
 The Blue Witch gathered the magic power surging through her body and began pouring it into the wand.
 
@@ -244,7 +244,7 @@ Let's put it to the test, shall we?
 
 The skill of the world's one and only Wand Maker!
 
-Then the Blue Witch chanted the incantation and unleashed her strongest magic, the spell that had once wiped out the Iruma Mage in a single blow.
+Then the Blue Witch recited the incantation and unleashed her strongest magic, the spell that had once wiped out the Iruma Mage in a single blow.
 
 "You, sink beneath the glacier. Sleep in the permafrost!"[^1]
 
@@ -276,4 +276,4 @@ This makes me the monster that destroys the world.
 
 ## Translator Notes
 
-[^1]: The source supplies the spoken forms `ゼイ`, `トリカ・トールカ`, and `エ・ナシエカ・ヴアアラー` for the three written clauses of the incantation.
+[^1]: The source supplies the spoken forms ゼイ, トリカ・トールカ, and エ・ナシエカ・ヴアアラー for the three written clauses of the incantation.

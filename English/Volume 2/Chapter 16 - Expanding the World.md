@@ -88,7 +88,7 @@ Tokyo Magic University wasn't the only one working to recover from the pandemic,
 
 The Tobacco Witch had reluctantly shrunk her tobacco fields to free up land for food crops, with another shortage expected.
 
-Minato Ward's central tower had held out throughout the unprecedented pandemic with no help from witches or mages. Now the ward was taking in some of the Tokyo residents left adrift when their witches (protectors) died in the pandemic.
+Minato Ward's central tower had held out throughout the unprecedented pandemic with no help from witches or mages. Now it was one of the places taking in Tokyo residents left adrift after losing their witches (protectors) to the pandemic.
 
 Workshops making standard magic wands were growing in number, streamlining production, and working flat out to get wands into people's hands as quickly as possible.
 
@@ -108,8 +108,8 @@ The Gremlin Disaster had left the Tokyo metropolitan area struggling alone for s
 
 Cooperation would spread north and south, all across Japan. The world was getting bigger.
 
-Just what kind of people were in the Tohoku Hunting Association, a major survivor community that had made it through the Gremlin Disaster in a completely different way from Tokyo?
+Just what kind of people make up the Tohoku Hunting Association, a major survivor community that made it through the Gremlin Disaster in a completely different way from Tokyo?
 
-And would the Blue Witch manage to sell them on my magic wands?
+And will the Blue Witch manage to sell them on my magic wands?
 
 I had high hopes.

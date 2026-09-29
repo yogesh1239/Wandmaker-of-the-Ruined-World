@@ -80,7 +80,7 @@ Their temperament, the fourth condition, wasn't especially gentle, but it wasn't
 
 As for the last condition, hierarchy, they seemed to have one, at least. Of the three fire salamanders, the slightly bigger, better-developed one often took the lead and scurried around ahead of the other two.
 
-My overall verdict: “Problematic to domesticate, but probably manageable as pets.”
+My overall verdict: “Problematic for monster domestication, but probably manageable as pets.”
 
 Once a monster met all five conditions, the documents moved on to the next step in monster domestication.
 
@@ -134,7 +134,7 @@ I wondered if an ordinary person could implant the Gremlin of a powerful monster
 
 Permanent loss of magic-power capacity brought irreversible death.
 
-If the implant drained you completely and reduced your magic-power capacity to zero, your body turned to dust and dissolved into nothingness.
+If Gremlin implantation stripped you of all your magic power and left your magic-power capacity at zero, you turned to dust and dissolved into nothingness.
 
 There wasn't even a body left. You simply vanished from the world.
 
@@ -154,7 +154,7 @@ You could implant a Gremlin anywhere, but normally it was implanted somewhere fr
 
 Even after taking on those risks and going through all that trouble, you had to keep firmly in mind that implanting the Gremlin only put you at the starting line of monster domestication—magic-beastification.
 
-The implant made monsters recognize you as one of their own.
+Implanting a Gremlin made monsters recognize you as one of their own.
 
 But that was all.
 
@@ -162,7 +162,7 @@ Think about it in human terms. Would you feel any affection for a person you pas
 
 Of course not.
 
-After the implantation, you still needed the effort and know-how to build either a close relationship or a hierarchy with the target monsters.
+After implanting the Gremlin, you still needed the effort and know-how to build either a close relationship or a hierarchy with the target monsters.
 
 More than half the stack documented the Hokkaido Magic Beast Farm's know-how for raising the three kinds it had sent to Tokyo. That covered how to establish a hierarchy, train them, set up their stables, and provide their preferred feed, temperature, humidity, and ventilation, all in painstaking detail.
 
@@ -184,7 +184,7 @@ This stack of paper was made of lives. I appreciated it. And it terrified me.
 
 Is it really okay for a mere genius Wand Maker like me, who just makes wands for fun out in the sticks, to shamelessly reap the benefits? I did feel a little guilty, but then a sticky note in Professor Ohinata's handwriting at the end of the documents reassured me: “It was possible to use implanted Gremlin substitutes made with the melt-recast Gremlin coloring technique.”
 
-It hadn't even been three days since I'd received the documents, yet Professor Ohinata had already completed an applied study at breakneck speed.
+It couldn't have been even three days since the documents arrived from the Hokkaido Magic Beast Farm, yet Professor Ohinata had already completed an applied study at breakneck speed.
 
 Sure enough, it seemed you didn't need to gouge a Gremlin out of a monster; you could draw its blood and make a personal-color Gremlin instead. And apparently, the substitute had actually worked.
 
@@ -232,11 +232,11 @@ I quickly drew a tiny amount of blood and ran off as fast as I could before the 
 
 Sooorry! But if I try to draw your blood in broad daylight, you guys will definitely breathe fire, right? An ambush was my only option. Forgive me.
 
-I hurried home, checking over my shoulder again and again to make sure the fire salamanders weren't chasing me. Then I started up the reverberatory furnace and made a personal-color Gremlin mixed with their blood.
+I returned home, checking over my shoulder again and again to make sure the fire salamanders weren't chasing me. Then I started up the reverberatory furnace and made a personal-color Gremlin mixed with fire salamander blood.
 
 The finished Gremlin was oval, about the size of a thumbnail, and the same blue as the fire salamanders—a color very close to the Blue Witch's personal color.
 
-All I had to do was implant it somewhere in my body and let it settle for a week. Then the fire salamanders would see me as one of their kind, giving me a shot at taming them.
+All I had to do was implant it somewhere in my body and let it settle for a week. Then the fire salamanders would see me as one of their kind, giving me a shot at raising them.
 
 If I trained them well and housed them in the furnace or kiln, I'd have a legendary magic workshop where I forged magic items with the fire of magical life-forms. So cool!
 
@@ -332,7 +332,7 @@ They warmed up to me so easily!
 
 Amazing. So much for the accepted wisdom that monsters never warm up to humans.
 
-I crouched down and poked their red scales with a finger. They went meep meep and licked the finger that had poked them.
+I crouched down and poked their red scales with a finger. They went meep-meep and licked the finger that had poked them.
 
 Even when I nervously cupped one in my palm and lifted it up, it didn't get angry at all. But its body was so hot I felt like I'd burn myself, so I put it down right away.
 

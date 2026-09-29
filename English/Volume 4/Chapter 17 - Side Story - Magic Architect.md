@@ -1,222 +1,284 @@
-For an experienced Tokyo carpenter like Sugoi Daiku, it was common knowledge: new properties built after the Gremlin Disaster were crap.
+For a veteran carpenter working in Tokyo like Sugoi Daiku, it was common knowledge: new buildings put up after the Gremlin Disaster were crap.
 
-Their foundations were unstable, their dimensions were a mess, and their earthquake-resistance standards were shot. Living in a pretty but flimsy new house built after the disaster was a hundred times worse than living in a rundown house built before it.
+The foundations were a mess, the measurements were a mess, and the earthquake-resistance standards were in tatters. A rundown house built before the disaster was a hundred times better to live in than a pretty but flimsy new one built after it.
 
-Good homes built under Japan's strict pre-disaster building standards could stubbornly hold out for years, even if they looked shaky and ready to collapse at first glance.
+A well-built home put up under Japan's strict pre-disaster building standards might look shaky and ready to collapse at any moment, but it would stubbornly hold out for years.
 
-So Tokyo carpenters rarely built new homes, except for jobs in areas like Minato Ward that had been cleared into empty lots.
+So Tokyo carpenters rarely built new homes, except for jobs in districts like Minato Ward that had been leveled to bare lots.
 
-They salvaged usable materials from collapsed buildings, fitted them into buildings still holding out, and repaired what was already there by combining parts from two or three buildings into one. That was the most efficient way.
+They salvaged usable materials from collapsed buildings, fitted them into the ones still holding out, and repaired existing buildings by combining parts from two or three into one. That was the most efficient way.
 
-The compressors had stopped, the impact drivers had fallen silent, and without electricity, carpenters' efficiency had dropped tragically low. Building a new home from scratch without powered tools or heavy equipment was possible, but far too inefficient. As a small mercy in a Tokyo where 85 percent of the population had died, empty houses were everywhere. There was no reason not to use them.
+With the compressors stopped, the impact drivers silent, and electricity gone, carpenters' efficiency had dropped tragically low. It wasn't impossible to build a new home from scratch without power tools or heavy machinery, but it was far too inefficient. And in a Tokyo where 85 percent of the population had died, there was one small mercy: empty houses were everywhere. There was no reason not to use them.
 
-Sugoi was registered in Nerima Ward, so he had a steady supply of regular work.
+Because Sugoi was registered in Nerima Ward, he had a steady, regular supply of work and never lacked for it.
 
-The Spider Witch who managed Nerima Ward valued stability. She carefully screened people moving in from other wards and prefectures, and food, medical care, education, and safety all reached everyone fairly and equally. Nothing was lacking.
+The Spider Witch, who managed Nerima Ward, valued stability. She carefully screened people moving in from other wards and prefectures, and food, medical care, education, and safety all reached everyone fairly and equally. Nothing was lacking.
 
-When it came to building materials, there was even a surplus.
+When it came to building materials, there was actually a surplus.
 
-At the witch's direction, Chofu had adopted a policy of concentrating its residents together. Every unoccupied house was torn down, and the cleared lots were turned into fields. Nerima Ward collected and stored the huge volume of lumber from the demolitions.
+At its witch's direction, Chofu had adopted a policy of consolidating its residents: every unoccupied house was torn down, and fields were planted on the cleared land. It was Nerima Ward that collected and stored the huge volume of lumber from the demolitions.
 
-Lumber had many uses: building materials, waterwheel construction, shipbuilding. You could never have too much.
+Lumber had a wide range of uses, from building materials to waterwheels to shipbuilding, and you could never have too much of it.
 
-He had heard that other wards carelessly tore down empty houses for firewood, or left leaks alone because nobody would live there anyway and let the buildings rot. What a waste. Nerima Ward was lucky to have such an understanding witch.
+In other wards, he'd heard, people sometimes carelessly tore down empty houses for firewood, or left leaky roofs alone because nobody would live there anyway and let the buildings rot. Such a waste. Nerima Ward was lucky to have such an understanding witch.
 
-One day, amid a peaceful routine that almost made him forget how lucky he was, Sugoi took the monthly work-assignment order from his mailbox. He opened it, blinked, and rubbed his stubble.
+One day, during a stretch so peaceful and uneventful that he nearly forgot how lucky he was, Sugoi took the start-of-the-month work-assignment order from his mailbox, opened it, blinked, and rubbed his stubble.
 
-Normally, it listed three to seven building-repair jobs. On rare occasions, there was also a support assignment in a neighboring ward.
+Normally it had three to seven building-repair jobs on it, and once in a while a call to help out in a neighboring ward.
 
-But this month's assignment listed only one job: a new home. On top of that, the schedule for the following month and beyond was blank.
+This month, though, there was only one job: a new build. On top of that, the schedule section for the following month onward was blank.
 
-As he frowned and wondered what this meant, he found neat handwriting at the end of the order: “I would like to talk to you in detail. Any time until the weekend is fine, so please come to the address below. If you cannot make it, please send a letter with a time that works for you. Thank you.” It was signed by the Spider Witch.
+Frowning over what this could mean, he found a note at the bottom of the order in meticulous handwriting: “I would like to discuss the details with you. Any time before the weekend is fine, so please come to the address below. If you cannot make it, please send me a letter with a date and time that works for you. Thank you.” It bore the Spider Witch's signature.
 
-Sugoi immediately hurried back inside and got ready.
+Sugoi went straight back inside and hurried to get ready.
 
-Apparently, it was a new-home job from the Spider Witch herself. There was no way he couldn't make time.
+Apparently this was a new-build job from the Spider Witch herself. Not being able to make time was out of the question.
 
-He could make time, and even if he could not, he would have rearranged everything to make it his top priority.
+He could make time, and even if he couldn't, he'd have rearranged everything to make it his top priority.
 
-Before noon, Sugoi visited the Spider Witch's home, a remodeled car dealership somewhere in Nerima Ward. The Spider Witch was huge and couldn't fit through the door of an ordinary house. He had heard that after moving from one former convenience store, gym, and similar place to another, she had settled on a car dealership.
+Before noon, Sugoi arrived at the Spider Witch's home, a converted car dealership somewhere in Nerima Ward. The Spider Witch was so huge that she couldn't fit through the door of an ordinary house. He'd heard she'd moved through former convenience stores, gyms, and similar buildings before settling at the dealership.
 
-Spiderwebs covered the dealership's broken glass walls, and spiders of all sizes waited silently for prey in the gloomy shadows.
+Webs stretched across the broken glass walls of the witch's home, and spiders of every size lay in wait for prey in the shadows, gloomy and silent.
 
-Sugoi felt his skin crawl as the spiders tracked him with their eyes, but he rang the doorbell beside the entrance.
+His skin crawled as he felt the spiders' eyes tracking his every move, and he rang the doorbell set up by the door.
 
-At once, the <ruby>interphone<rt>eyeball familiar</rt></ruby> beside the doorbell opened its eye and woke up. It fixed its eye on Sugoi and spoke gently.
+At once, the <ruby>interphone<rt>eyeball familiar</rt></ruby> that had been sitting with its eye closed beside the doorbell woke up, spotted Sugoi, and spoke to him gently.
 
-“Good morning, Sugoi-san. It's been a while... Thank you for coming... Did this work with your schedule...?”
+“Good morning, Sugoi-san. It's been a while... Thank you for coming... Was your schedule okay...?”
 
-“Of course. My schedule is to come running whenever Witch-sama summons me.”
+“Of course. When Witch-sama summons me, rushing over is my schedule.”
 
-“Thank you. Come in... Go left at the end of the hall straight ahead. I'll be in the room at the very back... I'll be waiting...”
+“Thank you. Come on in... Go straight to the end of the hall and turn left. I'm in the room at the very back... I'll be waiting...”
 
-The eyeball familiar closed its eye and went silent, and Sugoi nervously entered the building.
+The eyeball familiar shut its eye and fell silent, and Sugoi stepped gingerly into the building.
 
-Several cars that had probably once cost millions of yen sat quietly asleep beneath coats of dust in the ruined dealership. Spiders had spun webs in the gaps between the tires and bodies and under open hoods, and they followed Sugoi with eerily shining red eyes. He knew they were harmless, but they were still scary.
+In the ruined dealership, several cars that had probably once cost millions of yen slept quietly under layers of dust. Spiders nesting in the gaps between tires and bodywork and under hoods left open followed Sugoi with eerily glowing red eyes. He knew they were harmless, but they still scared him.
 
-The spiders were the Spider Witch's minions. Spider-type monsters obeyed the commands of the Spider Witch, their queen.
+The spiders were the Spider Witch's minions. Spider-type monsters obeyed the orders of their queen, the Spider Witch.
 
 In Nerima Ward, spiders were good omens. Functionally speaking, anyway.
 
-For years, the spiders had watched over and helped them without harming anyone even once. Still, he couldn't bring himself to like creatures that scuttled around on eight legs covered in fine hairs and spines. They filled him with instinctive disgust.
+The spiders had watched over and helped the residents for years now without harming them even once, and yet he couldn't bring himself to like creatures that scuttled around on eight legs covered in fine hairs and spines. No matter what, a gut-level disgust welled up in him.
 
-Sugoi walked down the short hallway while looking at the spiders as little as possible, then entered the room where the Spider Witch was waiting.
+Trying to look at the spiders as little as possible, Sugoi walked down the short hallway and entered the room where the Spider Witch was waiting.
 
-A bamboo blind hung in the room, and on the other side of the thin partition loomed the ominous silhouette of a giant spider beyond human understanding.
+A bamboo blind hung in the room, and beyond that thin partition loomed the ominous silhouette of a giant spider beyond human understanding.
 
-Sugoi froze for a moment, like a frog before a snake.
+Sugoi froze for a moment, like a frog under a snake's glare.
 
-The Spider Witch didn't eat people. She was a quiet, gentle, kind, serious witch. Even so, every time he faced her, he felt like a small animal before a predator.
+The Spider Witch didn't eat people. She was a quiet, gentle, kind, and earnest witch. Even so, every time he faced her, he felt like a small animal under a predator's glare.
 
 “Good morning, Spider Witch-sama.”
 
 “...Good morning, Sugoi-san.”
 
-Sugoi suppressed his rising fear and bowed. After a brief silence, the Spider Witch returned his greeting in a listless voice.
+Sugoi forced down his rising fear and bowed, and after a brief silence, the Spider Witch returned his greeting in a listless voice.
 
 “Thank you for coming so early... Sugoi-san, weren't you the type to take it easy in the mornings...?”
 
-“Not really. I just liked my morning coffee. Since the city's coffee ran out, I've been starting work early.”
+“Not really. I just liked my morning coffee, that's all. Ever since the city's coffee stocks ran out, I've been starting work early.”
 
-“I see... Should I order some from the Flower Witch's place...? I think she was growing some coffee beans, though not many...”
+“I see... Should I order some from the Flower Witch's place...? I'm pretty sure she was growing a few coffee beans...”
 
 “I-Is that okay? Wouldn't it be expensive?”
 
 “It's fine. Increasing our trade with the Flower Witch is a good thing... And some of my spiders like coffee too... So don't hold back...”
 
-At her gentle urging, Sugoi gratefully accepted the witch's kindness. At the same time, he dreaded what she was about to ask of him.
+At her gentle urging, Sugoi gratefully accepted the witch's kindness, even as he dreaded what she was about to ask of him.
 
-The Spider Witch was good with words. She was nothing like someone who sweet-talked people to trick and trap them. She was considerate, if anything. But somehow, the mood had become one in which it was hard to refuse her, so he braced himself.
+The Spider Witch had a way with words. She was the exact opposite of a smooth talker out to trick and trap people; she was always looking out for others. But the mood had clearly become one where it would be hard to say no, and he couldn't help bracing himself.
 
-The Spider Witch didn't seem interested in a long chat. After a little conversational warm-up, she got straight to the point.
+The Spider Witch didn't seem interested in a long chat, and after one bit of small talk to cushion things, she got straight to the point.
 
-“I wrote it in the work request too. I want you to build a new house... Sugoi-san, you have good architectural sense, so I really wanted to ask you...”
+“Like I wrote in the work request, I want you to build a new house... Sugoi-san, you have good architectural sense, so I really wanted to ask you...”
 
-“I'm honored. But why now? I'm sure you know renovating an old house would be quicker.”
+“I'm honored. But what brought this on? As I'm sure you know, renovating an old house would be quicker.”
 
-“............ Vanity, I guess. It's personal... Um, I mean... A friend might come over someday... Inviting them into this nest would be a little... you know?”
+“............ Vanity, I guess. It's personal... Um, I mean... A friend might come over... Inviting them into this nest would be a little... you know?”
 
-As she said that, the Spider Witch shifted awkwardly, as if embarrassed.
+As she said that, the Spider Witch wriggled as if embarrassed.
 
-True, even being generous, a dark ruin with no lights and webs everywhere couldn't be called suitable for guests.
+True, even to be polite, you couldn't call a dim ruin with no lights and webs everywhere fit for guests.
 
-“Is it a vacation home for hosting your witch-sama friend?”
+“So it's a vacation home for your witch-sama friend to visit?” Sugoi asked, picturing the far-too-eccentric witches of the Witches' Council.
 
-Sugoi asked while thinking of the witches of the Witches' Council, all of them far too eccentric.
-
-The Spider Witch shifted again and answered, seemingly embarrassed.
+The Spider Witch wriggled again and answered, looking somewhat embarrassed.
 
 “No... A man. I don't know if he'll come over, but... If I tell him I built a new house... Maybe he'll be interested...”
 
 Sugoi was shocked.
 
-He had thought the Spider Witch was shifting around strangely, but that was not it.
+He'd thought the Spider Witch was wriggling strangely, but he'd been wrong.
 
-She hadn't been squirming. She'd been fidgeting shyly.
+That hadn't been wriggling. That had been fidgeting.
 
-The Spider Witch, who had avoided contact with people for so long, had made a male friend and was trying to catch his interest so she could invite him to her house...! Was this love!?
+The Spider Witch, who had avoided dealing with people for so long, had actually made a male friend, and now she was trying to catch his interest and invite him over...! Could this be love!?
 
-He smiled before he knew it. If that was the story, he was fired up.
+He couldn't help smiling. If that was what this was about, he was fired up.
 
-Building a house just to invite a friend over was a pretty bold way of thinking. But even without the friend, building a fine home for a witch of the Witches' Council was a good thing.
+Building a whole house just to invite a friend over was a pretty bold line of thinking. But friend or no friend, building a fine residence for a witch of the Witches' Council was a good thing to do.
 
 Once, Sugoi had been attacked by a monster and saved by the Spider Witch.
 
-Though she had saved his life, it had only looked like a terrifying monster being killed by an even more terrifying monster. He had screamed and even wet himself.
+She had saved his life, yet to him it had looked like nothing more than one terrifying monster being killed by an even more terrifying one, and he'd ended up screaming and wetting himself.
 
-Now that he knew what had happened, he felt bad about his reaction.
+Now that he knew what had happened, he felt bad about it.
 
-But as for how the Spider Witch objectively looked, with seven expressionless eyes shining eerily, drool streaming from her mouth, and legs with vicious spines reaching out at him, he wanted to argue that there were extenuating circumstances.
+But how did the Spider Witch objectively look as she reached for him with viciously spined legs, seven blank eyes glowing eerily and drool streaming from her mouth? On that point, he wanted to argue there were extenuating circumstances.
 
 No matter how good a witch she was or how lovely she was on the inside, scary was scary. She looked like nothing but a man-eating monster.
 
-With his fear of spiders carved into his bones, Sugoi couldn't grow close to the Spider Witch. If someone else could befriend her in his place and ease her loneliness, he wanted to cheer them on.
+With a fear of spiders carved into his very bones, Sugoi couldn't grow close to the Spider Witch. If someone else could befriend her in his place and ease her loneliness, he wanted to cheer them on all the way.
 
-After hearing the Spider Witch's detailed requests for the new house, Sugoi drew up the building plans in two weeks, then began construction on the site that had been prepared for him.
+After hearing the Spider Witch's detailed requests for the new house, Sugoi drew up the plans over the next two weeks, then began construction on a site that had been conveniently prepared for him.
 
-Building laws no longer functioned in the world after the Gremlin Disaster. Without the benefits of a developed civilization, accounting for earthquake resistance, rights to sunlight, and road widths took too much work to be realistic, so ignoring all of it had become customary. Thanks to that, both the design and the start of construction were quick.
+In the world after the Gremlin Disaster, building laws no longer functioned. Without the benefits of a mature civilization, accounting for earthquake resistance, sunlight rights, and road widths took too much work to be realistic, so ignoring all of it had become standard practice. Thanks to that, both design and groundbreaking went fast.
 
-The first thing done after construction began was putting in the plumbing.
+The first job after breaking ground was laying the plumbing.
 
-Tokyo's tap water now came from water pumped up from the Arakawa River and Tama River by waterwheels. Rain gutters spread through the city like blood vessels served as water pipes. In other words, the water lines ran aboveground, so there was no need to dig up the ground.
+These days, Tokyo's tap water was pumped up from the Arakawa and Tama Rivers by waterwheels, and rain gutters running through the city like blood vessels served as the water pipes. In other words, the water lines ran aboveground, so there was no need to dig up the ground for them.
 
-The problem was sewage. Pump-out toilets were now common in Tokyo, and each household's waste was collected in the suburbs and turned into compost. But especially during summer, foul smells began wafting out of toilets while people waited for collection and made life miserable for Tokyo residents. It was even worse than a construction site's portable toilet.
+The problem was sewage. Most of Tokyo now used pump-out toilets; each household's waste was collected, gathered in the suburbs, and turned into compost. But especially in summer, the toilets started to reek while people waited for collection, and the stench made Tokyo residents miserable. It was even worse than a portable toilet on a construction site.
 
-To deal with the foul-odor problem, Bunkyo Ward, governed by the Foresight Mage, was apparently bringing back sewers and sewage-treatment facilities on a trial basis in some areas.
+Apparently, to deal with the smell, Bunkyo Ward, governed by the Foresight Mage, was bringing back sewers and sewage-treatment facilities in some areas on a trial basis.
 
-If they used the old sewage-treatment facilities unchanged, filth-eating slimes would appear, multiply rapidly, and cause a <ruby>stampede<rt>monster crowd accident</rt></ruby>. They kept slime outbreaks under control through a combination of measures, such as special bait to attract them and regularly boiling the treatment tanks.
+If they used the old sewage-treatment facilities unchanged, filth-eating slimes would appear, multiply rapidly, and cause a <ruby>stampede<rt>monster crowd accident</rt></ruby>. So they kept slime outbreaks under control with a combination of measures, such as special bait to lure them and regularly boiling the treatment tanks.
 
-Nerima Ward couldn't operate such a large, labor-intensive experimental sewage-treatment facility, so Sugoi installed a newly designed household septic tank.
+Nerima Ward couldn't run such a large, labor-intensive experimental sewage-treatment facility, so Sugoi installed a newly designed household septic tank to handle the sewage.
 
-The new septic tank was buried underground and held a new slime strain bred by the Department of Monster Studies. The strain ate voraciously but reproduced slowly, efficiently treating the waste flowing into the tank by eating it and discharging clean water.
+The new septic tank was buried underground and held a new slime strain selectively bred by the Department of Monster Studies. The strain ate voraciously but reproduced slowly, efficiently treating the waste that flowed into the tank by eating it and discharging clean water.
 
-Keeping an untamable monster under a house would normally be too dangerous. But the Spider Witch could control it well enough.
+Normally, keeping a monster that was beyond taming under your house would be far too dangerous. But the Spider Witch could keep it under control well enough.
 
-If you raised waste-treatment slimes on an industrial scale, they would get out of hand when they multiplied. In one ordinary household, though, their numbers could only get so high, making them easy to deal with.
+If you raised waste-treatment slimes on an industrial scale, they'd get out of hand once they multiplied. In a single ordinary household, though, even if they multiplied, their numbers would stay manageable, so dealing with them was easy.
 
-Once the water and sewage lines were in place, the next step was the foundation and slab work.
+Once the water and sewage lines were in, the next step was the foundation and slab work.
 
-The rebar went in as usual, but gravel was laid down instead of concrete. Then chipped-stone magic was cast on the gravel. That was the newest construction method.
+The rebar went in the same as always, but gravel was laid down in place of concrete. Casting chipped-stone magic on that gravel was the newest construction method.
 
-Chipped-stone magic, of the chipped-stone school, was what gave the Pebble Witch her name. It could infuse pebbles with magic power and slowly grow them into rock.
+Chipped-stone magic, of the chipped-stone school, was the magic the Pebble Witch had been named for. It could infuse pebbles with magic power and slowly grow them into rock.
 
-There were a few tricks to using it, but when handled properly, it made a passable substitute for concrete.
+There were a few tricks to using it, but handled properly, it made a decent substitute for concrete.
 
-After chipped-stone magic was cast and the rock grew over several days, it was shaped with a chisel. Then it was finally time to put up the scaffolding and assemble the lumber. That was when it suddenly started looking like a house.
+Once the chipped-stone magic was cast, the rock was grown over several days and shaped with a chisel. Then, at last, it was time to put up the scaffolding and start assembling the lumber. That was when the building suddenly began to look like a house.
 
-Of course, they used lumber taken from other houses. Pre-disaster lumber had been pre-cut by machines, which meant its dimensions were consistent. More than anything, it had termite treatment. That was the best.
+Naturally, the lumber came from other houses. Old-era lumber had been precut by machine, so its dimensions were uniform, which was good. But the best thing of all was that it had been termite-treated.
 
-Termite treatment was basically protection against termites. Termites lived everywhere in Japan, and without proper measures, they would quickly eat through lumber, reduce it to a crumbling mess, and cause houses to collapse.
+Termite treatment, in short, meant protection against termites. Termites lived all over Japan, and without proper precautions, they would devour lumber in no time, reduce it to a crumbling mess, and cause houses to collapse.
 
-Pre-disaster lumber had been soaked in chemicals that prevented termite damage, making it highly termite-resistant. Now that electricity was gone and chemical production had declined, new termite-treatment chemicals couldn't be made. Reusing pre-disaster materials was the best option for termite-resistant lumber.
+Old-era lumber had been soaked through with chemicals that prevented termite damage, which made it extremely resistant to termites. Now that electricity was gone and chemistry had declined, no new termite-proofing chemicals could be produced. When it came to termite-resistant lumber, reusing what the old era had left behind was the best option.
 
-The traditional topping-out ceremony after framing had changed form. At some point, instead of offering sacred sake, salt, and rice, people had begun burying a Gremlin in a jar.
+The topping-out ceremony held after framing had changed form too. At some point, instead of offering sacred sake, salt, and rice, people had started burying a Gremlin in a jar.
 
-Following the new custom, Sugoi offered a large Gremlin from a Class A-3 monster that the Spider Witch had provided. The larger the Gremlin buried under a house here, the luckier it was said to be, and the better it would protect the house.
+Following the new custom, Sugoi offered a large Gremlin from a Class A-3 monster, provided by the Spider Witch. The bigger the Gremlin buried under the house at this point, the more auspicious it was said to be, and the better it would protect the house.
 
-Gremlins probably did not have an effect that kept a household safe. But the larger a Gremlin was, the higher its amplification ratio and the more valuable it was. If you interpreted it as burying savings for an emergency, it was not totally pointless. Then again, it was uncouth to quibble over whether a ritual was wasteful or practical.
+Gremlins presumably had no power to keep a household safe. But the bigger a Gremlin was, the higher its amplification ratio and the higher its value, so if you thought of it as burying a secret stash for emergencies, it wasn't completely pointless. Then again, nitpicking a ritual as wasteful or practical was the more uncouth thing to do.
 
 Once the topping-out ceremony was over, the roof went on, and the building materials could be moved indoors.
 
-The Spider Witch made free use of her money and connections for the roof, so they chose lightweight metal tiles produced in Shinagawa Ward.
+Since the Spider Witch spared no expense and made full use of her connections, they went with lightweight metal roof tiles produced in Shinagawa Ward.
 
-Tiles made of clay or slate were weak against crystal rain. After only one or two years under the Gremlin crystals brought by rainclouds, they would crack and split, causing leaks. If you intended to live somewhere for a long time, a metal roof was essential.
+Clay or slate tiles didn't hold up against crystal rain. After just a year or two of being pelted by the Gremlin crystals the rainclouds brought, they would crack and split and start to leak. If you intended to live somewhere for a long time, a metal roof was essential.
 
-After roofing, they put in the floors and walls. Then they installed insulation and built Spider Witch amulets into the house.
+With the roof on, they put in the floors and walls, then installed insulation and built the Spider Witch's amulets into the house.
 
-Several amulets were built into carefully calculated spots in the walls. Their force fields boosted the Spider Witch's magic-power recovery anywhere in the house. There was no need for her to wear an amulet herself. It was a healing house.
+Several amulets were built into the walls at points chosen by calculating their effective ranges. Their force fields boosted the Spider Witch's magic-power recovery anywhere in the house. She didn't even need to bother wearing one. It was a healing house.
 
-He would have liked to make a dedicated magic-power-training meditation room too, but decided against it. The technology was still too new to adopt as a standard feature. After all, he was building the Spider Witch's home, not an experimental house.
+He would have liked to add a dedicated magic-power-training meditation room as well, but understandably, he was uneasy about making technology that new a standard feature of a house, so he passed on it. He was building the Spider Witch's home, after all, not an experimental house.
 
-Once the exterior materials were installed, all that remained was the interior. Sugoi finished it while frequently asking what the Spider Witch wanted.
+Once the exterior cladding was on, all that remained was the interior, which Sugoi finished while checking often on what the Spider Witch wanted.
 
-The windows were slime glass. The flooring was sturdy enough not to wear down under the Spider Witch's weight, and the wallpaper was a muted beige.
+The windows were slime glass. The flooring was made sturdy enough not to wear down under the Spider Witch's weight, and the wallpaper was a muted beige.
 
-If she was going to invite a friend over without embarrassment, then of course tasteful furniture and landscaping mattered too. But that was beyond Sugoi's abilities, so once the interior was finished, he had her inspect the house and handed it over.
+If she was going to invite a friend over without embarrassment, then of course good taste in furniture and landscaping mattered too. But that was beyond Sugoi's abilities, so once the interior was completely finished, he had her walk through the house and handed it over.
 
-With labor golems provided and extra help brought in, it took three months from the start of construction to handover.
+With labor golems supplied and extra help brought in, it took three months from groundbreaking to handover.
 
-Even with the best support system, the new home personally backed by a leading member of the Witches' Council was completed impressively fast.
+Granted, it had the best possible support system behind it, but the new home, a pet project of a heavyweight of the Witches' Council, was completed remarkably fast.
 
-At his last meeting with the witch before her move, Sugoi received her praise through the bamboo blind. Her excitement showed in her voice.
+At his last meeting with the witch before she moved in, Sugoi received her words of praise through the bamboo blind, her giddiness plain in her voice.
 
 “It went up so fast... Thank you so much for making my selfish request come true...”
 
-“Not at all. I'm getting paid too. If you like it, that's all that matters. Please invite your friend over and relax.”
+“Oh, not at all. I'm getting paid, after all. As long as you like it, that's all that matters. Please invite your friend over and take it easy.”
 
 “Y-Yeah... I wonder if he'll mind if I invite him...? First I have to move in and get furniture, but... No, anyway, thank you. It's the best house...”
 
 Sugoi chatted for a while with the elated witch, then wrapped up the big magical-construction job feeling refreshed.
 
-If she was this happy, it made being a carpenter worth it.
+If she was going to be this happy about it, that was a carpenter's greatest reward.
 
-Lately, it was all new professions for a new era: Wand Makers, beast handlers, magic researchers. But jobs that had been around since the old era were upgrading with the times too.
+Lately, everyone was making a fuss over new professions for a new era, Wand Makers this, beast handlers that, magic researchers the other. But trades that had carried on since the old era were properly upgrading to keep up with the times too.
 
-Sugoi smiled with renewed confidence, every bit as excited as the witch. I'm not so old that the times can leave me behind yet.
+Every bit as giddy as the giddy witch, Sugoi smiled with renewed confidence. I'm not so old and doddering that the times can leave me behind yet.
 
 ![p285.jpg](localized-images/p285.jpg)
 
 ---
+
+## Afterword
+
+Lately, I've been really into emotional economics.
+
+Emotional economics is a theory of creative writing I came up with. It treats the movement of emotions as an economy.
+
+For example. Say you hold an umbrella over a stray cat caught in the rain. When you get home, the cat shows up, says, “I am the cat you so kindly saved earlier,” and gives you 5 trillion yen.
+
+This is a story about a small kindness coming back to you as a big pile of money, but emotional economics looks at it differently.
+
+It sees it like this: you gave the cat a small bit of mercy (an emotion), and big-ass feelings came back in return. You handed over a small emotion and got a big emotion back as thanks, so from the standpoint of emotional economics, your emotional balance sheet shows a huge profit.
+
+The core of emotional economics is to assume that this kind of “emotional profit” is “something readers find pleasant,” and to put it to work in fiction.
+
+For example, “I'm not that into him, but my boyfriend likes me so much it's a problem” can be read as a rich person's humblebrag (an emotion-rich person's humblebrag): I'm not paying my partner any emotion at all, but they're paying me big-ass feelings, so I'm raking in a one-sided emotional fortune, and oh, it's such a problem.
+
+The principle of emotional reciprocity comes into play too.
+
+In an ordinary money economy, selling a 5-yen product for 50,000 yen is a rip-off. On the flip side, if you sell a 50,000-yen product for 5 yen, people get wary: “This is weird. Is there some kind of trap?”
+
+In a normal money economy, a 50,000-yen product sells for 50,000 yen.
+
+In the emotional economy too, trading equal amounts of emotion is the standard.
+
+If you receive a small emotion, you return a small emotion. A big emotion gets a big emotion in return. That's the standard, and it's normal.
+
+If you give a small emotion and get back a big emotion out of all proportion to what you gave, then, just like when you buy a 50,000-yen product for 5 yen, you may end up thinking, “This is too good a deal. I made such a lopsided trade, I feel bad about it.” Though of course, plenty of people just cheer, “Yay, huge profit!”
+
+If you receive a big emotion but only return a small one, you've made the other person take a loss on their emotional balance sheet, so they come out behind and feel bad.
+
+If you return an equal amount of emotion, nobody thinks better or worse of you, and it's recognized as “a normal, proper emotional trade.” So usually, an equal exchange is the safe choice for emotional trades and doesn't make waves.
+
+When it comes to applying emotional economics to writing novels, though, an equal exchange of emotion isn't always the right answer. That's because, looked at from the other side, a safe, balanced emotional trade that doesn't make waves is also a boring one with no ups and downs, no drama, no dynamism.
+
+That's where fraud comes in. You make an unequal emotional trade look as if it's balanced.
+
+The cat that brought 5 trillion yen seems to have repaid a small act of mercy with big-ass feelings far out of proportion to it.
+
+But what if the cat would have frozen to death if you hadn't held that umbrella over it? Suddenly the 5 trillion yen, the big-ass feelings it gave back as thanks, start to seem reasonable. You can accept big-ass feelings out of proportion to the amount of emotion you paid, with a clear conscience.
+
+You can tell yourself: I didn't con anyone out of this huge emotional income. I earned it fair and square.
+
+Depicting emotion in a novel comes down to “how to make a satisfying emotional trade.”
+
+You move the story along on the assumption that readers want to make an emotional killing and don't want to take an emotional loss.
+
+It's unpleasant when you shower someone with big-ass affection and they flat-out ignore you. On your emotional balance sheet, that's a massive loss, a total write-off. So anyone who ignores affection aimed at them is a bad guy committing emotional robbery. They need to give back at least a little emotion, even just a tiny bit, and put on a show of having made an emotional trade, however lopsided, so they're not simply an emotional robber. Or, if they turn you down up front with “I don't want to make emotional trades with you, so please don't give me any feelings in the first place,” they come across as sincere (because it amounts to a declaration of sincerity: “Even if it would profit me, I won't commit emotional robbery against you”).
+
+And when feelings you'd given up on, sure they'd never be accepted (and naturally never returned), not only get accepted but are met with big-ass feelings in return, you've made an emotional killing you never planned on, so of course you're over the moon. The pattern where you confess expecting to get turned down, get a yes, and hear “Actually, I've liked you for a long time too” is one of these.
+
+As you can see, emotional economics can be applied to any scene involving emotion, and it lets you break down, analyze, and logically explain how emotions move in relationships between multiple people, instead of relying on empathy or gut feeling.
+
+Since I started researching emotional economics, I've come to understand the appeal of works that used to leave me completely baffled, and I've enjoyed them a lot. I can now also explain in theoretical terms the appeal of works I used to enjoy without knowing why.
+
+And the emotional beats in my novels, which I used to land only as lucky punches, I can now land on purpose. I've managed to stabilize my novels' attack power and keep it high.
+
+For me, emotional economics is the latest weapon in my writing arsenal, and a very powerful one.
+
+Well, maybe emotional economics is aaall wrong right down to the roots, miles away from the true nature of emotion, off the mark and way out in left field, though.
+
+Still, for now, putting emotional economics into practice hasn't caused me any problems, and I plan to keep using it until I find a fatal flaw. If I find one, I'll just scrap it or fix it. That's how I've built up countless theories of writing and honed my skills as a novelist, and that's how I'll keep doing it, forever.
+
+One day in May 2026 — Kurodome Hagane
 
 ## Next Volume
 

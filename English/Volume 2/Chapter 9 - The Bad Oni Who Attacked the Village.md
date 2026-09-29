@@ -34,7 +34,7 @@ No—if they were still managing to live at all, they were the lucky ones. Most 
 
 This village had kept itself alive for more than three years with no help from anyone. That made it a rare case.
 
-They'd had no way of learning that witches existed. They probably didn't know about magic, either.
+They probably had no way of knowing that witches existed. They surely didn't know about magic, either.
 
 No wonder they had taken the Hell Witch, with her inhuman shape, for a monster and tried to drive her off.
 
@@ -54,7 +54,7 @@ Still, there wasn't a trace of fear in her bright, innocent eyes. When she reali
 
 “Wah.”
 
-The girl had greeted her so cheerfully that the Hell Witch greeted her back. Her voice came out loud whether she liked it or not, and the startled girl covered her ears. It must have hit her like a blast, but the girl only stared up at the Hell Witch with her mouth hanging open, without the least bit of wariness.
+The girl had greeted her so cheerfully that the Hell Witch greeted her back. Her voice came out loud whether she liked it or not, and the startled girl covered her ears. It must have been pretty intimidating, but the girl only stared up at the Hell Witch with her mouth hanging open, without the least bit of wariness.
 
 The Hell Witch smiled.
 
@@ -74,7 +74,7 @@ The girl did her very best to explain with every word she knew, and from what sh
 
 The soil in the village's fields and paddies was bone-dry and cracked, and the rice, which should have been hanging heavy with grain, was thin and limp.
 
-She'd suspected a drought from the moment she set foot in the village and saw how sickly the crops looked, and sure enough, she'd been right.
+She'd worried the village was suffering a water shortage from the moment she set foot in it and saw how sickly the crops looked, and sure enough, she'd been right.
 
 The water source for the stream, which ran through the village and watered its fields and paddies, was apparently behind the house of Ikegami-san, the village's big man. Uncle Ikegami used spells to protect the village from monster (yokai) attacks, the girl said, puffing out her chest with pride.
 
@@ -86,7 +86,9 @@ But something didn't add up. If Ikegami was a mage, that explained why monsters 
 
 The girl didn't seem to know any of the details either, so the Hell Witch folded her arms and thought it over.
 
-As the Hell Witch wondered how far she ought to stick her nose into the village's affairs, the girl poked her thick thigh and fidgeted. “Hey, onee-san. Will you play with me...?”
+As the Hell Witch wondered how far she ought to stick her nose into the village's affairs, the girl poked her thick thigh and fidgeted.
+
+“Hey, onee-san. Will you play with me...?”
 
 “Hweh!!? W-Well, um, why not play with kids your own age!!?”
 
@@ -102,7 +104,7 @@ The Hell Witch nodded.
 
 “Sure, but only for a little while!! <ruby>××× Euzu Nimu Teii Ueuento Uesua<rt>Even a flower without nectar may still have fragrance</rt></ruby>.”[^1]
 
-The Hell Witch put her hand to the ground and recited the incantation, and flowers sprouted from under the fallen leaves and wove themselves into a crown.
+The Hell Witch put her hand to the ground and recited the incantation, making flowers sprout from under the fallen leaves and weaving them into a crown.
 
 The crown gave off a faint, sweet scent. When she set it on the girl's head, the girl's eyes lit up and she squealed with delight.
 
@@ -130,7 +132,7 @@ A small hand caught hold of the Hell Witch's fingertips and tugged, pleading.
 
 The Hell Witch gently slipped free of that warm little hand, planted her khakkhara, stood up, and shook her head.
 
-“No!! Come on, go back to the village now!! I bet your uncle and auntie are worried!! I eat bad kids who make grown-ups worry!! Rawr!!!”
+“No!! Come on, go back to the village now!! I bet your uncle and auntie are worried!! I'll eat bad kids who make grown-ups worry!! Rawr!!!”
 
 She roared with the second mouth on her belly wide open, and the girl's eyes went round. In that moment, the Hell Witch leaped high, kicked off from tree to tree, and vanished deep into the mountains like a monkey.
 
@@ -170,7 +172,9 @@ While he studied her, the Hell Witch studied him right back. She'd suspected he 
 
 He was probably just an ordinary person with no powers at all, though she couldn't rule out some special skill that didn't depend on magic power, like that Wand Maker had.
 
-As she carefully sized him up, the man asked hesitantly, “Are you... a yokai?”
+As she carefully sized him up, the man hesitantly spoke up.
+
+“Are you... a yokai?”
 
 “I used to be human!! Ordinary animals turn into monsters—um, I guess you'd call them yokai!!? You know about that, right!!? I'm the human version!! Just think of me as a human with yokai-like powers!!”
 
@@ -188,7 +192,7 @@ Blasted by that booming voice, the man flinched again.
 
 The man's cold shoulder struck the Hell Witch as suspicious.
 
-Of course, she understood that the one who truly looked suspicious was her: a monster-shaped stranger who'd shown up out of nowhere wanting to know about the village's most important facility.
+Of course, she understood that the one who truly looked suspicious was her: a monster-shaped stranger who'd shown up out of nowhere wanting to know about an important village facility.
 
 But even allowing for that, he seemed to be hiding something.
 
@@ -208,7 +212,7 @@ He introduced himself as Ikegami, then fetched a ladder from his shed and leaned
 
 Ikegami climbed over on the ladder, but the Hell Witch cleared the wall with a light hop. Inside, in the large pond, was a single monster.
 
-It was a giant catfish, easily 5 m long.
+It was a giant catfish that looked to be a good 5 m long.
 
 The pond had drained almost dry, leaving soggy gray mud exposed. The giant catfish lay coiled in the middle of the muck, slurping up the clean water that welled from beneath it.
 
@@ -264,9 +268,11 @@ As she stared in shock at the unexpected treasure, the Water Eater let out a hug
 
 Ikegami made it look like a grudging confession, but he still hadn't told her everything.
 
-Now that she'd come this far, she was going to expose every last suspicious thing.
+Now that she'd come this far, she should dig up every last suspicious thing.
 
-The Hell Witch pointed to one corner of the sandbag wall, where the dried-fish smell was coming from. “Whose grave is that!!?”
+The Hell Witch pointed to one corner of the sandbag wall and asked about the source of the dried-fish smell.
+
+“Whose grave is that!!?”
 
 “...A grave? What are you talking about?”
 
@@ -280,11 +286,11 @@ The Hell Witch slipped past Ikegami as he played dumb, knelt where the smell was
 
 The Hell Witch was a man-eating oni.
 
-She ate human flesh, and human bones too. She could smell them, far more keenly than any human could smell another.
+She ate human flesh, and human bones too. She could smell them. Her nose for humans was far keener than any human's.
 
 The dried-fish smell rising from under the ground was, without a doubt, coming from a human skeleton.
 
-The Hell Witch's hands laid the buried body bare. It had long since been reduced to bones, with tattered synthetic clothing still clinging to it, and from the scraps of fabric and the shape of the skeleton, she could tell it was a woman.
+The Hell Witch dug up the buried body. It was nothing but bones, with tattered synthetic clothing still clinging to it, and from the scraps of fabric and the shape of the skeleton, she could tell it was a woman.
 
 And at the temple of the woman's skull was a mark, as though something small and hard had punched right through it.
 
@@ -306,7 +312,7 @@ Ikegami spat out those unbelievable words with the conviction of a man utterly s
 
 The Hell Witch thought back.
 
-The villagers cutting the thin rice with their sickles had been as thin as the rice itself.
+The villagers cutting the scrawny heads of rice with their sickles had been just as scrawny themselves.
 
 The people here had been spared the threat of monsters, but they were struggling through a food shortage that never should have happened.
 
@@ -346,7 +352,7 @@ Sticky strings of drool hung from the mouths on the back of her head and on her 
 
 The Bloodsucking Mage could have sweet-talked Ikegami into changing his ways.
 
-The Foresight Mage could have seen a future where things got better without anyone dying.
+The Foresight Mage could have seen a future where things got better without killing Ikegami.
 
 The Edogawa Witch, the Eyeball Witch, the Flame Witch—any of them would surely have found some other, gentler way to settle this.
 
@@ -446,7 +452,7 @@ The farewell gift from the Wand Maker, who had understood the point of her gruel
 
 ## Translator Notes
 
-[^1]: The brackets give the magic-language pronunciation of the written incantation; `×××` marks a sound humans cannot pronounce.
+[^1]: The brackets give the magic-language pronunciation of the written incantation; ××× marks a sound humans cannot pronounce.
 [^2]: The source writes “magic” but gives it the reading “spell,” echoing the girl's term for magic.
 
 [^3]: **Kishimojin** (鬼子母神): The Japanese Buddhist form of Hariti, a former child-eating demon who became a protector of children.

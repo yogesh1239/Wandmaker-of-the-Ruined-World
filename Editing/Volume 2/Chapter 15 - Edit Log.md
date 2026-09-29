@@ -132,3 +132,36 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Notes, image marker, and headings unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 15` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 124 reviewed, 10 flagged. Round 1: 5 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 3 accepted, 0 maintained, 2 countered. Round 2: no.
+Final: 10 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — dropped the stacked second idiom, kept the appositive (single mushroom)
+  - Final text: "To be safe, I set up an isolated dissection tent in a corner of the backyard and started with the human-faced mushroom, the one that made my skin crawl."
+- **F2** — APPLIED — accuracy — 気休め is small comfort, not a placebo
+  - Final text: "But a 2–3% boost? Seriously, that's cold comfort."
+- **F3** — APPLIED — worse — 見えてくるものがある left open-ended
+  - Final text: "All that's left is data. Gather data. Do that, and things will start to become clear."
+- **F4** — APPLIED — accuracy — 魔法能力 = abilities; kept そうなるべくして as "always meant to"
+  - Final text: "And it wasn't just cosplay. The amulet and the magic wand both had a real purpose and real magical abilities packed into them. There were principles and ingenuity behind them, and they'd become magic items like this because they were always meant to."
+- **F5** — APPLIED — register — "lamenting" too elevated for 惜しんで
+  - Final text: "I was striking pose after pose in front of the mirror and wishing I could take a selfie when the Blue Witch poked me with Cyanos. She'd been dropping by often during the research to help check the amulet's performance with the kind of magic-power control only a witch could manage."
+- **F6** — APPLIED — glossary — 白＆青マーブル is the material: "marbled Gremlin"
+  - Final text: "Using a white-and-blue marbled Gremlin made with the Blue Witch's blood, I made a six-petal snow-crystal pendant amulet and gave it to her."
+- **F7** — APPLIED — worse — Codex's round-1 counter: "took", keeps "six-petal" and 魅せる
+  - Final text: "A six-petal snow crystal was the shape a snowflake took as its icy branches grew, displaying the artistic harmony between nature and cold."
+- **F8** — APPLIED — worse — un-stacked "85% cut in magic backlash"
+  - Final text: "Then again, you could say the weird ones were my earlier results, like the massive magic amplification from multilayer processing and the 85% cut in magic backlash."
+- **F9** — APPLIED — accuracy — 最初 is the early stage of any technology, not one attempt
+  - Final text: "That was how things normally started."
+- **F10** — APPLIED — accuracy — restored 型; Codex's round-1 counter keeps [^1] on "wand"
+  - Final text: "Now then, I'm going to take a breather and have some fun making a freaky magic wand[^1] shaped like a seven-branched sword."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

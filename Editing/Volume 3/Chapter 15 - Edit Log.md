@@ -166,3 +166,36 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 - **知らぬ存ぜぬを貫き通すと決めた** (JP 520): restored 決めた → "He decided that if the Tohoku Hunting Association asked…" — accuracy
 
 Post-fix checks: `check_reedit.py` RESULT: PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 15` RESULT: ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 107 reviewed, 10 flagged. Round 1: 6 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 4 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 10 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — 反対の声: "every objection" overstated
+  - Final text: "They forced the decision through over the opposition."
+- **F2** — APPLIED — accuracy — restored など
+  - Final text: "They drove the weak, the old, the sick, and others like them beyond their defensive perimeter, out into the killing ground where man-eating monsters roamed."
+- **F3** — APPLIED — accuracy — burden is the duty of protecting (守る), not the lives
+  - Final text: "Even if they did, this ruined world couldn't possibly offer a reward to match the burden of protecting tens of thousands of lives."
+- **F4** — APPLIED — accuracy — restored 嫌でも
+  - Final text: "The scarf—and the scars hidden beneath it—reminded him, whether he liked it or not, of the bloody hunting accident that had nearly taken <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s head off."
+- **F5** — APPLIED (counter) — accuracy — restored 直後 as "right after"
+  - Final text: "<ruby>Iwatsura<rt>Rabbit</rt></ruby>'s excitement right after last month's training exercise said as much."
+- **F6** — APPLIED (counter) — accuracy — restored 超視力
+  - Final text: "Murakumo's mutated, superhuman eyesight could make out four mages and one witch."
+- **F7** — APPLIED — accuracy — restored しかし and 突如
+  - Final text: "But a huge whirlwind suddenly sprang up and scattered it high into the sky."
+- **F8** — APPLIED (counter) — accuracy — 一斉砲火: dropped added "everything they had"
+  - Final text: "More sealing rounds struck, and the hunters opened fire all at once."
+- **F9** — APPLIED — accuracy — 順調 is "smoothly", not "perfectly"
+  - Final text: "The operation had gone smoothly through the destruction of the armor, but now trouble was brewing."
+- **F10** — APPLIED (counter) — accuracy — 朧気 is perceptual haze, not depletion
+  - Final text: "Its sound and scent vanished, and even its magic power grew faint and hazy."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: none

@@ -134,3 +134,42 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Note [^1] and scene break unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 7` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 130 reviewed, 13 flagged. Round 1: 7 conceded, 1 pushed back, 5 countered. Codex after round 1: 1 withdrew, 5 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 12 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — "so far past inefficient" coinage replaced
+  - Final text: "If you asked me, shaping a Gremlin by polishing alone was inefficient. It was like taking a jagged chunk of wood and going straight to sandpaper without touching a saw or chisel. It was so wildly inefficient that I'd never even considered it."
+- **F2** — APPLIED — worse — stacked possessive removed
+  - Final text: "Someone as overly dexterous as me could never have come up with the polishing method Professor Handa's team developed."
+- **F3** — APPLIED — tense — なんだけどね aside to present (editor counter, no added "sounds like")
+  - Final text: "Once you hear it, though, it's the kind of simple idea anybody might come up with. A real Columbus's egg.[^1]"
+- **F4** — APPLIED — accuracy — blueprints go to the Flame Witch's place (ところ), production in the furnace there; no invented "people"
+  - Final text: "Melting Gremlins took temperatures close to 1,200°C, but apparently they'd solved that by sending the production method and blueprints to the Flame Witch's place and commissioning production in the reverberatory furnace there."
+- **F5** — APPLIED — tense — unsignaled 流石にビビる back to past; invented "?" and "Okay," dropped
+  - Final text: "I'd had magic-wand production all to myself that whole time, and then a rival faction suddenly sprang up and started mass-producing. Even I was spooked."
+- **F6** — APPLIED — tense — past, with 負ける kept as future-in-past projection (editor counter)
+  - Final text: "Their method was inefficient, sure, but they had manpower. They'd beat me on output."
+- **F7** — APPLIED — accuracy — 加工精度 is generic "processing precision", not the 機械加工 pillar; 理論値 "theoretical values" and 精度 echo kept (editor counter)
+  - Final text: "Their backlash-prevention mechanism was half-baked too. One look at the structure told me what they were going for, but the precision was just bad; their processing precision hadn't caught up with the theory. Me, I could hit the theoretical values with 100% precision."
+- **F8** — APPLIED — tense — 惜しまないぞ signaled resolve to present
+  - Final text: "As long as we can trade technology on paper without meeting face-to-face, I won't hold back on sharing it."
+- **F9** — APPLIED — accuracy — added "all day" removed (使い込んで = heavy use)
+  - Final text: "Naturally, working with all that abrasive stained my fingers white too. At first the color washed off, but lately it wouldn't, and I'd gotten totally used to having white fingertips."
+- **F10** — APPLIED — accuracy — 質の悪い = "low-grade", not "cheap"
+  - Final text: "Second- and third-rate craftspeople who dawdle over their wands with low-grade abrasive don't get white fingers, after all."
+- **F11** — APPLIED — worse — "learned plenty well" replaced
+  - Final text: ""No, I'm done. I understand well enough that I'm not cut out for this. I thought I was at least as good with my hands as the next person.""
+- **F12** — KEPT — accuracy — "rubbing it in"
+  - Why kept: 見せつけてきやがる is Ori's aggrieved "flaunting at me" framing, and 地味に → "casually" marks that it's unintended; Codex withdrew.
+- **F13** — APPLIED — tense — もんな aside to present in one tense (editor counter; Codex's FIX mixed "I'd heard" with "sees")
+  - Final text: "The Blue Witch tilted her head, genuinely baffled. Word is she was a model before she became a witch, after all, so she probably sees skin discoloration like this as a flaw."
+
+Checks: check_reedit RESULT: PASS (1 WARN: dialogue paragraphs 31 -> 32 is a false positive from the earlier re-edit; the narration line `"Polishing" actually came down to two research results.` now starts with a quoted word, and no speakers were merged or lines dropped); gates ALL PASS.
+
+Reference flags: none

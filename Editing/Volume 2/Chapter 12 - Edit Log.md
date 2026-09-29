@@ -111,3 +111,24 @@ Source repetitions kept (the three "When he'd foreseen…" sentences, "exploded�
 
 ### Formatting Confirmed
 - Image marker and `---` break unchanged; no notes, ruby, or headings; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 12` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 140 reviewed, 4 flagged. Round 1: 2 conceded, 1 pushed back, 1 countered. Codex after round 1: 1 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 3 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — mechanics — restored paragraph break between narration and the Blue Witch's line (JP 67/70)
+  - Final text: "The Blue Witch held Ohinata's small hand and gently stroked her cheek.\n\n"Have you seen a doctor? Want me to go get one?""
+- **F2** — KEPT — mechanics — merged two adjacent narration beats (JP 82/85)
+  - Why kept: rule bars narration-into-dialogue merges only; merged sentence keeps しかし, ぐったりと力無い, 弱々しさ and the dying image intact (Codex withdrew).
+- **F3** — APPLIED — accuracy — 半数以上 "well over half" -> "more than half"
+  - Final text: "Thanks to the spread of fertility magic and fire magic, more than half of Tokyo's residents had definitely been through magic-power-depletion fainting already."
+- **F4** — APPLIED — accuracy — 致死率 belongs to the illness: "his" -> "its"
+  - Final text: "She didn't know whether Ori had ever experienced magic-power-depletion fainting, but if he hadn't yet, she needed to warn him before the illness could turn severe—before its mortality rate could shoot up to 100%."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

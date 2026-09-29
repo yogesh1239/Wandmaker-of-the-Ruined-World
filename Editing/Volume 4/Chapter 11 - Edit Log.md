@@ -89,3 +89,25 @@
 - Exact semantic HTML ruby and source-span separation were verified; no source furigana brackets remain.
 - Final `![p208.jpg](images/p208.jpg)` and in-incantation `![gaiji-0003.png](images/gaiji-0003.png)` markers were preserved exactly.
 - No title heading, scene-break loss, or footnote/Translator Notes requirement applies to this chapter.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–368 (`reedit-c11-s1`); subagent model Claude Opus; 90 changed paragraphs). Flow: short-sentence share 17.3% -> 14.6%; runs 0 -> 0; FLOW: ok (baseline not choppy). Codex critique: 90 changes reviewed, 5 flagged; all 5 accepted.
+
+### Accuracy Fixes
+- **恐らく…避けられるだろう**: hedge restored — accuracy
+- **万が一にも巻き込んでしまったら？**: "blast" (it is a spear) removed; 万が一 restored — accuracy
+- **当然の如く即死する**: "naturally died on the spot" — accuracy
+- **何よりもまず大日向を助けに行こうとした**: "wanted to" → "started to go" — accuracy
+- **剣山**: "bed of swords" → "bed of spikes"; 虚しく restored — accuracy
+- **派手に動いたので**: "flashy entrance" → her movements — accuracy
+- **blood-magic ruby gloss**: "Wringe" → "Wring" (glossary typo) — glossary
+
+### Register and Flow
+Baseline not choppy. Kept "The Ice Queen reigned." and the JP one-line beats from "This time, Magic University had pulled together as one." through "They could be trusted."
+
+### Reference Decisions
+- glossary.md:244 blood-magic ruby gloss typo "Wringe" → "Wring"; only use was this chapter.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 11` ALL PASS.

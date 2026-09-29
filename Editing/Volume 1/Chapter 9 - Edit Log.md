@@ -240,3 +240,84 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image marker, `[^1]`, notes section unchanged; `check_reedit.py` PASS; `run_chapter_gates.py --unit 1 --chapter 9` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 168 reviewed, 34 flagged. Round 1: 24 conceded, 3 pushed back, 7 countered. Codex after round 1: 3 withdrew, 7 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 29 changed, 5 kept as re-edited (F25 and F27 were conceded, then reverted because the glossary form fails check_reedit; see Reference flags).
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 火をつけ (lighting the fire)
+  - Final text: "He huddled with refugees whose homes had burned down, tossing scrap wood into a drum can in the park and lighting a fire to keep warm."
+- **F2** — APPLIED — tense — self-thought leading into the question goes present
+  - Final text: "He can see the future. His body is tough and strong, and he can answer the cries of people asking for help."
+- **F3** — APPLIED — tense — direct question goes present
+  - Final text: "In this ruined world, if he doesn't do it, who will?"
+- **F4** — APPLIED — glossary — bare 魔女集会
+  - Final text: "It was the Bloodsucking Mage, the coordinator of the Witches' Council, who gave the Foresight Mage a long-term view."
+- **F5** — APPLIED — glossary — bare 魔女集会
+  - Final text: "He had warned the Witches' Council about the food crisis again and again, ..." (rest unchanged)
+- **F6** — APPLIED — accuracy — 二年後 is a fixed point, not "within"
+  - Final text: "...had been fated to sink into famine and collapse in two years' time."
+- **F7** — APPLIED — worse — 先行研究 becomes "prior research"
+  - Final text: "It was only possible thanks to the prior research by my father and our predecessors." (rest of the line unchanged)
+- **F8** — APPLIED — worse — averted hypothetical takes "would"; 沈む echo kept
+  - Final text: "The future where Japan would sink into a great famine had been averted."
+- **F9** — APPLIED — worse — "a dark one" becomes "a dark future" (the JP repeats 未来 three times)
+  - Final text: "Because he could see the future, the Foresight Mage had spent so long struggling in a dark future. Now, with a bright future opening up before him, he trembled, and his eyes grew hot."
+- **F10** — APPLIED — glossary — bare 魔女集会
+  - Final text: "...send some our way at the next Witches' Council meeting." (rest unchanged)
+- **F11** — APPLIED — worse — "to Matsuo" becomes "for Matsuo"
+  - Final text: "It might be a tedious procedure for Matsuo, but to the Foresight Mage, forever half-drowned in a sea of work, it was a necessity."
+- **F12** — APPLIED — tense — rant block (JP 247–268) is one direct thought, so present
+  - Final text: "He is giving this everything he has."
+- **F13** — APPLIED — tense
+  - Final text: "He is doing work no ordinary person could ever manage."
+- **F14** — APPLIED — tense
+  - Final text: "And his reward is "Bloodsucking-sama would've handled it better"?"
+- **F15** — APPLIED — tense
+  - Final text: "Isn't that just too much?"
+- **F16** — APPLIED — tense/accuracy — できるのに is a present ability
+  - Final text: "He could even use his magic to rule as a tyrant."
+- **F17** — APPLIED — tense/accuracy
+  - Final text: "He could even destroy everything, take everything, and tear it all apart."
+- **F18** — APPLIED — tense
+  - Final text: "Is this how they repay him for working so hard, for pay no better than an ordinary clerk's, nowhere near enough to match the heavy responsibility and crushing workload?"
+- **F19** — APPLIED — tense — present thought; the past fact takes simple past
+  - Final text: "The Foresight Mage was originally a mere office worker. And yet so many infuriating people act as if it's only natural for him to be a world-class politician. Then try doing it yourself!"
+- **F20** — APPLIED — glossary — bare 魔女集会 (tense stays past)
+  - Final text: "The Eyeball Witch took the lead in convening the Witches' Council and looked out for the other witches in all sorts of ways. ..." (rest unchanged)
+- **F21** — APPLIED — tense — sets up the question on JP 289
+  - Final text: "He isn't asking for luxuries like better food or more rest."
+- **F22** — APPLIED — tense
+  - Final text: "He just wants to be praised more, recognized more, fawned over more. Is that really too much to ask?"
+- **F23** — APPLIED — accuracy — 睨みを利かせる is deterrence
+  - Final text: "...had declared Professor Ohinata under her protection and was keeping everyone in line. Nothing serious was likely to happen."
+- **F24** — APPLIED — worse — ambiguous imperative fragment
+  - Final text: "They would keep Professor Ohinata at the lectern of Tokyo Magic University, bring in students from all over, and have her teach them all at once. That was the safest, most efficient plan."
+- **F25** — KEPT — glossary — <ruby>Agh-<rt>Fire</rt></ruby>
+  - Why kept: conceded in round 1, but the glossary form <ruby>A゙-</ruby> (U+3099 combining dakuten) makes check_reedit FAIL ("Japanese in prose"), and every other V1–V3 use is Agh-. Reverted to Agh-; flagged for the lead.
+- **F26** — APPLIED — glossary — bare 魔法大学
+  - Final text: "Magic University had 30 places and more than 6,000 applicants, ..." (rest unchanged)
+- **F27** — KEPT — glossary — <ruby>Agh-<rt>Fire</rt></ruby>
+  - Why kept: same reason as F25.
+- **F28** — APPLIED — glossary — "chant" is banned; 詠唱 is "incantation"
+  - Final text: "Incantations that sounded like screaming beavers echoed through the exam hall."
+- **F29** — KEPT — tense — "Until now"
+  - Why kept: "Until now" with a past perfect is standard free indirect style anchored to the character's moment (今までは). Codex withdrew.
+- **F30** — KEPT — accuracy — "counting the days on their fingers"
+  - Why kept: 日付を指折り数える is the "counting the days" idiom; "counting off dates" is a calque. Codex withdrew.
+- **F31** — APPLIED — accuracy — 機嫌の良さそう has no smugness
+  - Final text: "...Matsuo walked in looking cheerful."
+- **F32** — APPLIED — worse — natural brush-off
+  - Final text: ""Later, please. Right now, I—""
+- **F33** — KEPT — worse — "Told a second time, in a voice that was gentle and calm yet left no room to argue, ..."
+  - Why kept: correct participial that keeps the でありながら contrast. Codex withdrew.
+- **F34** — APPLIED — tense — volitional ～よう is direct resolve
+  - Final text: "He'll spread magic. He'll help people grow stronger. And once they can maintain a decent peace without depending on the personal military might of Transcendents who act on a whim, this time he really will retire early and live a slow life farming in the country..."
+
+Checks: check_reedit RESULT: PASS; gates ALL PASS.
+
+Reference flags: glossary.md row 撃て[ア゙ー] locks `<ruby>A゙-<rt>Fire</rt></ruby>` (A + U+3099 combining dakuten). No English file uses it: V1 Ch9 (lines 247, 265), V2 Ch1:167 and V3 Ch17:157 use `<ruby>Agh-<rt>Fire</rt></ruby>`, and V4 (Ch6, 9, 12, 15, 16) uses the gaiji image `![gaiji-0002.png](images/gaiji-0002.png)-`. The glossary form also trips check_reedit's Japanese-in-prose FAIL. The lead should either change the glossary row to Agh- or normalize series-wide and exempt U+3099 in check_reedit. The consistency gate does not catch this mismatch.

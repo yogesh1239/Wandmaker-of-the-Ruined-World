@@ -44,7 +44,7 @@ Without any warning, they had simply vanished.
 
 Some of <ruby>Shirokarasu<rt>White Crow</rt></ruby>’s subordinates saw an opportunity and suggested expanding into the vacant turf. She knew what was happening, smacked their empty heads, and chewed them out.
 
-Someone—probably the Foresight Mage, one of the Transcendents—was quietly disposing of criminal organizations with terrifying efficiency.
+Someone—probably the Foresight Mage, one of the Transcendents—was quietly eliminating organized crime with terrifying efficiency.
 
 If something no human could pull off was happening, then a human was not behind it.
 
@@ -86,7 +86,7 @@ But sometimes a monster passed right in front of them and they stood there like 
 
 When that happened, Suginami Ward residents followed an unspoken rule: kick the golem until it moved. NEET tendencies or not, it had work to do.
 
-And since those golems, which did the security forces’ job in other wards, were like that, Suginami’s public safety was hardly good. No one could expect responsible government from a NEET.
+And since those golems, which did the security forces’ job in other wards, were like that, Suginami’s public safety was hardly good. No one could expect a NEET to govern with anything resembling social skills.
 
 Even so, it was far better than dangerous zones with no witch, or the Zombie Witch’s managed territory.
 
@@ -102,7 +102,7 @@ In any case, <ruby>Shirokarasu<rt>White Crow</rt></ruby>’s group put down root
 
 ---
 
-It was one day after the mushroom pandemic had passed, when the cherry blossoms were all gone and the trees had begun putting out thick green leaves.
+It was a day sometime after the mushroom pandemic had passed, when the cherry blossoms had all fallen and the trees had begun putting out thick green leaves.
 
 <ruby>Shirokarasu<rt>White Crow</rt></ruby> was in a basement room beneath their pawnshop in a Suginami shopping arcade, appraising stolen goods her subordinates had brought in.
 
@@ -110,7 +110,7 @@ Her veterans knew how to judge stolen goods, but a greenhorn had brought in this
 
 The dark basement was furnished with expensive pieces that had once stood in luxury condos. Neatly arranged on the shelves were packs of <ruby>Shirokarasu<rt>White Crow</rt></ruby>’s favorite pre-collapse cigarettes. She sold the Tobacco Witch’s cigarettes and kept the precious old brands that would never be made again for herself. Bad money drives out good.
 
-In the bright glow of a magic-fire lantern, <ruby>Shirokarasu<rt>White Crow</rt></ruby> set her half-smoked cigarette in the ashtray and examined the wand on the table closely through a loupe.
+In the bright glow of a lantern lit with magical fire, <ruby>Shirokarasu<rt>White Crow</rt></ruby> set her half-smoked cigarette in the ashtray and examined the wand on the table closely through a loupe.
 
 If the greenhorn’s story was true, the item before her was a 27-model general-purpose, dual-layer Gremlin magic wand made by the legendary Wand Maker 0933. Supposedly, he had gotten it from a Magic University graduate who had ruined himself over a woman. But counterfeits were in circulation, and his word wasn’t enough.
 
@@ -118,7 +118,7 @@ If the greenhorn’s story was true, the item before her was a 27-model general-
 
 0933—the mysterious figure once known as the Craftsman of Ome—had first entered <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>’s business dealings about two and a half years earlier.
 
-When Tokyo Magic University opened, the mysterious Wand Maker rumored to exist ever since Cyanos appeared began releasing mass-produced wands to the public.
+When Magic University opened, the mysterious Wand Maker rumored to exist ever since Cyanos appeared began releasing mass-produced wands to the public.
 
 Mass-produced or not, the early 25-model wands were made with astonishing skill. They held enormous appeal in both legitimate society and the underworld.
 
@@ -150,7 +150,7 @@ That one transaction made <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby> rich,
 
 The following year’s 26-model added a backlash-prevention mechanism, improving the wand’s performance.
 
-The 25-model became obsolete, and demand for the 26-model soared.
+As the 25-model became obsolete, demand for the 26-model rose.
 
 The 26-model was especially popular with unaffiliated wizards who had picked up incantations by eavesdropping on witches but couldn’t properly use their trump cards because of magic backlash.
 
@@ -170,7 +170,7 @@ Customers immediately jumped on the standard mass-produced wands. They were chea
 
 There were still customers who wanted the very best products badly enough to use the black market, but even they lowballed them.
 
-When the wand’s value crashed, the sizeable investment in acquiring that 27-model left them deep in the red.
+When the wand’s value crashed, the sizable investment in acquiring that 27-model left them deep in the red.
 
 The Craftsman of Ome’s wands were still top-of-the-line. They performed well and looked good, after all.
 
@@ -184,7 +184,7 @@ On the other hand, they had learned more about the mysterious Wand Maker.
 
 According to a source at the Bunkyo Ward Office, insiders called the Wand Maker “0933.”
 
-0933 was under the Blue Witch’s protection, had ties to the president of Tokyo Magic University, enjoyed the Foresight Mage’s trust, and had powerful connections to the Flower Witch. More recently, he had sealed the Flame Witch and become close to her successor, the Flame Heir Witch. He was even suspected of being friendly with the Hell Witch, though that was unconfirmed. She had been seen leaving Tokyo with a strange wand.
+0933 was under the Blue Witch’s protection, had ties to the president of Tokyo Magic University, was someone the Foresight Mage relied on, and had powerful connections to the Flower Witch. More recently, he had sealed the Flame Witch and become close to her successor, the Flame Heir Witch. He was even suspected of being friendly with the Hell Witch, though that was unconfirmed. She had been seen leaving Tokyo with a strange wand.
 
 Faced with a network that was practically Tokyo’s powder keg, <ruby>Shirokarasu<rt>White Crow</rt></ruby> threw up her hands.
 
@@ -204,7 +204,7 @@ Still, that would probably depend on what her subordinates turned up in the indu
 
 The three new technologies supposedly brought by the Tohoku Hunting Association smelled like promising business opportunities too.
 
-She considered sending more people to get the information before the official announcement. There had also been a tip that a plan to issue currency and end rationing was moving ahead, and that needed checking too. She had a lot to think about.
+Should she send more people to get the information before the official announcement? There had also been a tip that a plan to issue currency and end rationing was moving ahead, and that needed checking too. She had a lot to think about.
 
 As <ruby>Shirokarasu<rt>White Crow</rt></ruby> reflected on the past and present, she found proof that the greenhorn’s wand was fake. She clicked her tongue and tossed it into the trash can in the corner.
 
@@ -220,11 +220,11 @@ The Gremlin core resisted even a diamond without a scratch, but it looked warped
 
 Annoyed, <ruby>Shirokarasu<rt>White Crow</rt></ruby> put the cigarette from the ashtray between her lips and drew the smoke deep into her lungs.
 
-Well, the greenhorn had made a mistake. He was like a puppy bringing back trash in its mouth and thinking it was treasure. A little discipline would be enough.
+Well, the greenhorn had made a mistake. It was like a puppy bringing back trash in its mouth and thinking it was treasure. A little discipline would be enough.
 
 The problem was the insolent bastard who had knowingly passed a fake off on <ruby>Watarigarasu<rt>Wandering Crow</rt></ruby>. She needed to teach them never to disrespect the organization again.
 
-As <ruby>Shirokarasu<rt>White Crow</rt></ruby> smoked and wrote out her orders, someone knocked on one of the two basement doors—the one leading upstairs.
+As <ruby>Shirokarasu<rt>White Crow</rt></ruby> smoked and wrote out her orders, someone suddenly knocked on one of the two basement doors—the one leading upstairs.
 
 “What?”
 
@@ -282,9 +282,9 @@ Of course, a witch’s magic wand would make for a deal on a scale they had neve
 
 But retaliation was certain, and it would cost them their lives. Even the Eyeball Witch would get angry over this.
 
-<ruby>Shirokarasu<rt>White Crow</rt></ruby> took a deep breath and assessed the situation. There was still hope.
+<ruby>Shirokarasu<rt>White Crow</rt></ruby> took a deep breath and tried to assess the situation. There was still hope.
 
-Perhaps one of the witches was backing Mobu and had ordered him to steal the Flame Witch’s wand. The Tokyo Witches’ Council was not one big happy family.
+Perhaps one of the witches was backing Mobu and had ordered him to steal the Flame Witch’s wand. The Witches’ Council was not one big happy family.
 
 “Who’s backing you? How many intermediaries did you use?”
 
@@ -300,7 +300,7 @@ Perhaps one of the witches was backing Mobu and had ordered him to steal the Fla
 
 The idiot proudly said something idiotic, and her head began to hurt. She wished this were a bad dream.
 
-It was hard to believe an idiot like this had managed to steal a witch’s magic wand. Then she remembered that the regular Tokyo Witches’ Council meeting was today.
+It was hard to believe an idiot like this had managed to steal a witch’s magic wand. Then she remembered that the regular Witches’ Council meeting was today.
 
 He could have stolen her older sister’s wand from the home of the Flame Heir Witch, who had only just taken over, while she was out. With enough good luck—or perhaps enough bad luck—it was entirely possible.
 
@@ -334,13 +334,13 @@ She pointed to the door upstairs, but Mobu kept arguing.
 
 “So what?”
 
-“It means the Flame Heir Witch is going to come kill you in a rage because you stole her sister’s precious wand. The Pebble Witch hates other witches interfering, but she won’t protect you from one who’s seriously pissed off.”
+“It means the Flame Heir Witch is going to come kill you in a rage because you stole her older sister’s precious wand. The Pebble Witch hates other witches interfering, but she won’t protect you from one who’s seriously pissed off.”
 
 “Hah! The Flame Heir Witch gets called a witch, but she ain’t one. You think I’m scared of some brat acting big because she’s got a wand?”
 
 “Ah, I see...”
 
-He wasn’t going to listen.
+There was just no getting through to him.
 
 <ruby>Shirokarasu<rt>White Crow</rt></ruby> decided Mobu would not leave alive. She would send his corpse to the Flame Heir Witch instead.
 

@@ -1,212 +1,212 @@
 Just over a year ago, I acted as midwife when the Flower Witch's second daughter was born.
 
-The daughter plant had been soft and squishy, a tiny baby small enough to hold in both hands, but in no time at all, she'd grown to about the size of an elementary schooler.
+The daughter plant had been a tiny, soft, squishy baby small enough to hold in both hands, but in no time at all, she'd grown to about the size of an elementary schooler.
 
-She'd grown fast, but her face looked so much like the Flower Witch's that it was obvious they were related.
+She'd shot up fast, but her face looked so much like the Flower Witch's that they were clearly related.
 
 “Uncle, I've been looking for you foreeeever. I wanted to see you♡”
 
-The daughter plant slid right up, wrapped both arms around my waist, and held me tight. Then she wound vines and roots tightly around my legs.
+The daughter plant slid right up to me, wrapped both arms around my waist to pin me in place, and then wound her vines and roots around and around my legs.
 
 The blood drained from my face.
 
-The story that the Flower Witch ate people crossed my mind. Like mother, like daughter.
+The story that the Flower Witch ate people flashed through my mind. Like mother, like daughter.
 
 “Uh, er, ah... P-Please don't eat me...!”
 
 “Huh? Oh, sorry...!”
 
-When I squeezed out a plea for my life, the daughter plant hurriedly released me and moved a little away. Even then, the tips of her thin vines kept lightly brushing my hands, but they didn't feel like they were trying to squeeze.
+When I squeezed out a plea for my life, the daughter plant hurriedly let go and backed off a little. The tips of her thin vines kept lightly brushing my hands even after she let go, but they didn't squeeze.
 
-Or rather, even the strength she'd used to hold me hadn't been enough to suggest she was trying to strangle me to death.
+Actually, even the grip she'd held me with hadn't been strong enough to mean she wanted to strangle me.
 
 R-Right?
 
 ![p048.jpg](images/p048.jpg)
 
-She's not thinking something terrifying like, I'll squeeze my lifesaver to death, kill him, and suck him dry, right?
+She isn't thinking anything as terrifying as strangling the man who saved her life, killing him, and sucking him dry, right?
 
-It's okay to think that, right?
+I'm allowed to believe that, right?
 
-“Mee...!”
+“Mii...!”
 
 “Mii...!”
 
 “Mimimi...!”
 
-My fear spread to the fire salamanders too. Sekitan and Mokutan curled up in my hands, while Tsubaki hid behind my legs, making itself as small as it could.
+My fear had rubbed off on the fire salamanders, and they were scared too. Sekitan and Mokutan curled up in my hands, while Tsubaki hid behind my legs, making itself as small as it possibly could.
 
-Crap. My reliable guards had gotten intimidated. All because I wasn't standing proud like a boss...!
+Crap, my trusty bodyguards had lost their nerve. All because I couldn't stand tall like a proper boss...!
 
-“U-Um, it's true the Flower Witch told me, ‘You should come show your face every once in a while,’ but, uh, I didn't mean anything bad by it. I wasn't trying to neglect her or anything, it's just, um, I don't like going out. I'll come if I'm summoned, so p-p-please go easy on me...”
+“U-Um, it's true the Flower Witch told me, ‘You should come show your face every once in a while,’ but, uh, I didn't mean anything bad by it. I wasn't trying to neglect her or anything, it's just, um, I'm kind of a homebody. I'll answer the summons, so p-p-please go easy on me...”
 
-If the Flower Witch and her daughter plant had a reason to contact me, that had to be it.
+If the Flower Witch and her daughter plant had any reason to contact me, that had to be it.
 
-As I turned into a super-vibration human shaker and shook Sekitan and Mokutan around while groveling, the daughter plant blinked and tilted her head.
+As I groveled, rattling Sekitan and Mokutan in my hands like a super-vibration human shaker, the daughter plant blinked blankly and tilted her head.
 
-“??? I don't really get it. Oh! Hey, hey, I've got a letter from Mommy. I'll give it to you, Uncle.”
+“??? I don't really get it. Oh! Hey, hey, I've got a letter from Mommy. It's for you, Uncle.”
 
-The daughter plant rummaged around inside her petal skirt and held out a letter to me.
+The daughter plant rummaged around under her petal skirt and held out a letter.
 
-Trembling all over, I set the fire salamanders in my hands down on the ground. I was shaking so badly that I missed the letter several times. Once I finally got hold of it, I read it, still trembling all over.
+Shaking, I set the fire salamanders in my hands down on the ground. I was shaking so hard that I fumbled the letter again and again, but I finally managed to take it with shaking hands and read it, shaking, shaking, shaking.
 
-This letter's pretty long. And isn't the writing shaky too? No, that's because I'm shaking.
+This letter's pretty long. And isn't the writing all shaky too? No, wait, that's just me shaking.
 
 To the benefactor of my beloved daughters,
 
 It has been a long time. This is the Flower Witch.
 
-More than a year has passed without my even asking your name, the seasons have turned, and spring has come.
+More than a year has passed without my having found a chance to ask your name; the seasons have turned, and spring has come.
 
-I have occasionally had the Foresight Mage check on you. I wanted to send my daughter sooner, but I could see only futures where the Blue Witch interfered. Whatever the reason, I apologize for visiting so suddenly.
+I have occasionally had the Foresight Mage look in on you. I wanted to send my daughter sooner, but the only futures to be seen were ones where the Blue Witch interfered. Whatever the reason, I apologize for visiting so suddenly.
 
-The daughter who gave you this letter is named <ruby>Fuyo<rt>hibiscus</rt></ruby>. She was named after the fuyo flower. I put into her name my wish that she would grow up beautiful and graceful, blessed with wealth, and live happily.
+The daughter who gave you this letter is named <ruby>Fuyo<rt>hibiscus</rt></ruby>. I named her after the fuyo flower, and into that name I put my wish that she would grow up beautiful and graceful, blessed with wealth, and live happily.
 
 Now then.
 
 There are two reasons Fuyo has come to visit you.
 
-One is that Fuyo wanted to see you.
+The first is that Fuyo wanted to see you.
 
-Daughter plants grow quickly. She soon learned words, developed a rich range of emotions, and learned to speak with humans. Every day has been eye-opening for me as her mother. It seems that children of my species grow at a considerably different speed from humans.
+Daughter plants grow quickly. She soon learned words, developed a rich range of emotions, and became able to talk with humans. As her mother, I marvel at her every day. It seems the children of my species grow at a considerably different pace from human children.
 
-Fuyo vaguely remembers the feel of your kind, warm hands that delivered her. Perhaps because I occasionally praised you as well, she often made the adorable, selfish demand: she wanted to see you, she wanted to see you.
+Fuyo dimly remembers the feel of the kind, warm hands that delivered her, and perhaps partly because I praised you now and then, she often made an adorably selfish demand: she wanted to see you, she wanted to see you.
 
-When she was small, I stopped her because the outdoors were dangerous. But her body grew, she became able to speak with some fluency, and she developed at least some judgment, so I gave her permission to travel like this.
+While she was little, I kept her home because it was dangerous outside. But her body has grown, she can speak with some fluency, and she has developed at least a minimum of judgment, so I have given her permission to make this journey.
 
-On the way from my territory to Okutama, Fuyo should have enjoyed a safe outing without meeting anyone. If the Foresight Mage is not lying, that is.
+On the way from my district to Okutama, Fuyo should have met no one and enjoyed a safe outing. If the Foresight Mage is not lying, that is.
 
-Fuyo must be happy to have met you. You do not seem very happy, however. Fuyo likes you. Please be kind to her. At least, do not be cold to her. If you are too cold, benefactor or not, I will be angry.
+Fuyo must be happy to have met you, though you do not seem very happy yourself. Fuyo likes you. Please be kind to her. Or at least, do not be cold to her. If you are too cold, I will be angry, benefactor or not.
 
-The second reason Fuyo visited you is to make your land a place where she can put down roots.
+The second reason Fuyo has come to you is to make your land the place where she puts down roots.
 
-Our species spreads its roots widely through the earth and makes that its territory. However, I have already spread my roots throughout the land I manage from Arakawa Ward to Taito Ward, so there is no room for my daughter to put down roots.
+Our species spreads its roots far and wide through the earth and makes that ground its territory. However, my own roots already fill the land I manage, from Arakawa Ward to Taito Ward, so there is no room left for my daughter to put down hers.
 
-Lately, Fuyo has spent more time staying still instead of moving around, and she has gotten worse at walking. She has also begun putting down roots in her sleep more often. We needed to move her as quickly as possible to good prospective territory where she could put down roots and spend the rest of her life.
+Lately, Fuyo has been moving around less and staying still more, and she has grown clumsy at walking. More and more often, she starts to take root in her sleep. She needed to move, as soon as possible, to a good candidate territory where she could put down roots and spend the rest of her life.
 
-Okutama, where you live, is suitable territory for Fuyo.
+Okutama, where you live, is well suited to be Fuyo's territory.
 
-It has enough space, and for some reason, only weak monsters appear there. She will not be attacked by powerful monsters too strong for the still-small Fuyo to deal with. She can grow up safely and healthily. There is clean water, and the soil is rich.
+It has enough space, and for some reason, only weak monsters appear there. Fuyo is still very small, but no monster too powerful for her to deal with will attack her. She can grow up safe and healthy. The water is clean, and the soil is rich.
 
-As her mother, I also wish to keep Fuyo close and have her put down roots in a nearby district. However, the land near me is either territory managed by other witches or home to powerful monsters that would endanger young Fuyo.
+Part of me, as her mother, also wishes to keep Fuyo close and have her put down roots in a nearby district. However, the land around me is either managed by other witches or roamed by powerful monsters that would endanger young Fuyo.
 
-Without a doubt, the best land for Fuyo is Okutama. I would very much like you to accept my daughter's migration.
+Without a doubt, the best land for Fuyo is Okutama. I would very much like you to accept my daughter's move there.
 
 That said.
 
-I understand that you would refuse if I simply asked. So I have arranged favorable conditions for you.
+I know that if I simply asked, you would refuse. So I have arranged terms that work in your favor.
 
 First, you can be with my adorable, adorable Fuyo, who adores you. You can see her, talk with her, and hug her every day. Though you probably have no intention of doing so. This is without a doubt the greatest advantage. I will hear no objections.
 
-Next, she can serve as a guard. I have taught Fuyo several useful types of magic. She can use, of course, the Lost Mist magic currently cast over Okutama, as well as eyeball-familiar magic and fertility magic. She has learned night magic and Flame Witch magic too. Fuyo will gladly use the spells she has learned for you whenever you need them. She can also scatter essential oil to rid your fields of insect pests.
+Next, she can serve as a guard. I have taught Fuyo several useful spells. She can use the Lost Mist magic currently cast over Okutama, of course, as well as eyeball-familiar magic and fertility magic. She has learned night magic and Flame Witch magic too. Fuyo will gladly use any magic she has learned for your sake, whenever you need it. She can also scatter essential oil to rid your fields of insect pests.
 
-Fuyo can pronounce unpronounceable sounds, so if possible, please teach her plenty of new magic. They say skills will help you through life, after all. I would be happy if my daughter grows strong, wise, and beautiful.
+Fuyo can pronounce unpronounceable sounds, so if possible, please teach her plenty of new magic. They do say a skill will see you through hard times. I would be glad to see my daughter grow up strong, wise, and beautiful.
 
-The final advantage is a supply of wand materials. Our species can produce wood with all kinds of properties. A year ago, you saw me make a wooden pail, did you not? Fuyo can do the same. She can control its hardness, flexibility, and weight at will. She has not quite mastered it yet, but once she grows up, she will become an indispensable partner in your work.
+The final advantage is a supply of wand materials. Our species can produce wood with all kinds of properties. A year ago, you saw me make a wooden pail, did you not? Fuyo can do the same, making it as hard, flexible, or heavy as she likes. She is still a little unsteady at it, but once she grows up, she will become an indispensable partner in your work.
 
-There. Your mind is made up now, isn't it?
+Now. Your mind is made up, isn't it?
 
-From here, I have four requests of you regarding my daughter's education.
+Next, I have four requests for you concerning my daughter's upbringing.
 
-① No matter how much she wants it, please give her chemical fertilizer only once every three days, and only one bag. Chemical fertilizer is bad for her body.
+① No matter how much she wants it, please limit her chemical fertilizer to one bag once every three days. Chemical fertilizer is bad for her health.
 
 ② Do not be lazy about pulling the weeds around her. You may pull them for her, but if possible, please make her pull them herself.
 
 ③ Make her bathe in the evening or morning! Please tell her this over and over. If she bathes during the day, water droplets can act as lenses and burn her leaves, or on scorching summer days, the water can heat up and boil her roots.
 
-④ Please tell her to have an eyeball familiar carry letters and send me a letter every day. She will probably start slacking off on her letters after the first month. Fuyo can create her own writing implements, so that will not be a problem.
+④ Please tell her to have an eyeball familiar carry a letter to me every day. I expect she will start slacking off on her letters once the first month or so has passed. Fuyo can create her own writing implements, so that will not be a problem.
 
 Those are the four points.
 
 Please take very good care of her.
 
-I have spoken only about my daughter, but personally, I am fond of you as well. You are always welcome to visit. I would like us to have a long and good relationship from now on, too.
+I have written of nothing but my daughter, but personally, I am fond of you as well. You are always welcome to visit. I hope we will continue to enjoy a long and good relationship.
 
 Flower Witch
 
 By the time I finished reading, my whole body had stopped shaking.
 
-When I looked up from the letter, Fuyo was wriggling her short roots and threatening the fire salamanders right back as they hid behind me.
+When I looked up from the letter, the fire salamanders were hiding behind me and threatening Fuyo, and she was wriggling her short roots and threatening them right back.
 
 “Cheeky! You're smaller than me!”
 
-“Mee!”
+“Mii!”
 
 “Hmph! I'm the big sister!”
 
-“Mee!”
+“Mii!”
 
 “Surrender! Come on, roll over and surrender!”
 
 “Mimimi!”
 
-Tsubaki was hiding half its body behind my shoe, sticking out its tongue with a taunting grin. Fuyo smacked the asphalt over and over with her vines in frustration. The asphalt cracked a little, and I freaked out.
+Tsubaki, half hidden behind my shoe, stuck out its tongue with a taunting grin, and Fuyo smacked the asphalt again and again with her vines in frustration. The asphalt cracked a little, which freaked me out.
 
-No, you're strong. Are you really one year old? You grew up way too fast. When you were born, you were so soft I felt like you'd get squashed if I used even a little force.
+Hey, that's strong. Are you really one year old? You grew up way too fast. When you were born, you were so soft and squishy it seemed like you'd get squashed if I used even a little force.
 
 “What? You understand these guys' language?”
 
-“Huh? I don't! But I know they don't respect me. I'm the big sister!”
+“Huh? I don't! But I can tell they don't respect me. I'm the big sister!”
 
-“Mee! Mimi, mimimi!”
+“Mii! Mimi, mimimi!”
 
-“Hey, Tsubaki, don't get too big-headed. Settle the pecking order later.”
+“Hey, Tsubaki, don't get too full of yourself. Settle the pecking order later.”
 
 “Mii...”
 
-It would be bad if this turned into an exchange of blasts of fire and vine whips across me, so I made them behave for now.
+I didn't want this turning into flamethrower blasts and vine whips flying back and forth with me in the middle, so I made them settle down for now.
 
-Having my every move seen through with foresight didn't feel very good.
+It didn't feel great, having Foresight see my every move coming.
 
-Supporting Fuyo[^1] was definitely a good deal, though. Basically, it meant Okutama's defenses would get stronger and I'd get high-quality wand materials, right? That's a seriously big benefit.
+Supporting Fuyo[^1] is definitely a good deal, though. Basically, Okutama's defenses get stronger and I get high-quality wand materials, right? That's a seriously big plus.
 
-Well, I was going to agree to the migration, but having the whole thing laid out on the assumption that I would agree still kind of rubbed me the wrong way.
+Well, I'm going to say yes to the move anyway, but when the whole thing is laid out on the assumption that I'll say yes, it kind of bugs me.
 
-I took the blue-white eyeball familiar from my pocket, tapped it a few times to make a call, then spoke into it.
+I pulled the blue-white eyeball familiar out of my pocket, gave it a few taps to place a call, and spoke into it.
 
-“Hello, Hiyori? The Flower Witch's daughter plant is here around the entrance to Okutama right now. I've decided to give her permission to migrate. Come over and meet her.”
+“Hello, Hiyori? The Flower Witch's daughter plant is here near the entrance to Okutama right now. I've decided to let her move here. Come over and meet her.”
 
-“...Huh? What are you talking about? What did you say about the Flower Witch?”
+“...Huh? What are you talking about? What about the Flower Witch?”
 
-“I'll explain here. Bye.”
+“I'll fill you in when you get here. Bye.”
 
 “Hey, you—”
 
-I shoved the eyeball familiar, which was saying something, into my pocket. Then I spoke to Fuyo, who was spreading her vines and roots as wide as she could to threaten the fire salamanders.
+I stuffed the still-talking eyeball familiar into my pocket and spoke to Fuyo, who was spreading her vines and roots as wide as she possibly could to threaten the fire salamanders.
 
 “I read your mother's letter all the way through. You can live in Okutama.”
 
 “Huh, really!? Yay! I love you, Uncle♡”
 
-Fuyo stopped threatening them and tried to hug me, openly delighted, but I stepped back to avoid her.
+Fuyo dropped the threats and, openly delighted, tried to throw her arms around me, but I stepped back out of reach.
 
-I held the daughter plant off by the head as she stubbornly kept trying to hug me, then laid out the conditions for her migration.
+Undeterred, the daughter plant kept trying to hug me. Holding her off with a hand on her head, I laid out the conditions for her move.
 
-“But. Don't come near the house or the fields. And don't come near the riverbank where the waterwheel is, either. Don't put down roots or stretch vines into the places I just named. Don't show your face there. The only part of Okutama you can make your territory is outside my living area.”
+“There's a catch, though. Don't come near the house or the fields. Or the riverbank where the waterwheel is, either. Don't put down roots or stretch your vines into any of the places I just named. Don't show your face. The only part of Okutama you can make your territory is outside the area where I live.”
 
 “........? Huh, say that one more time?”
 
-“Don't come around my house. If you can follow that, you can live in Okutama.”
+“Don't come around my house. If you can manage that, you can live in Okutama.”
 
 “? Okay!”
 
-You're definitely not getting it... Well, I'll teach you later while I show you around.
+“You definitely don't get it... Well, I'll teach you later while I show you around.”
 
 “A huuuge territory! With Uncle♡”
 
-Fuyo happily danced her vines and roots around.
+Fuyo happily set her vines and roots dancing.
 
-I'd barely met her, but her affection level was weirdly high.
+We've barely met, but her affection level is weirdly high.
 
-...That was high, right? It was, wasn't it? The Flower Witch's letter said Fuyo liked me too.
+...This is high, right? The Flower Witch's letter said Fuyo liked me too.
 
 I don't get it. I understand feeling indebted to someone who saved your life, but does that make you like them?
 
-By that logic, I should be head-over-heels in LOVE with the doctor who operated on my appendix. That makes no sense, right?
+By that logic, I should be head over heels in LOVE with the doctor who operated on my appendix. That makes no sense, right?
 
-After spending a few minutes philosophically considering the connection between human emotions and gratitude, I saw Hiyori come running down the road at absurd speed, gripping Cyanos.
+I spent a few minutes in deep philosophical contemplation of the connection between human emotions and gratitude, until Hiyori came racing down the road at ludicrous speed, gripping Cyanos.
 
-She jumped between Fuyo and me, came to a sudden stop and sent a gust of wind scattering, then pointed the tip of Cyanos right at Fuyo. At that point, her terrifying intensity deflated.
+She leaped in between Fuyo and me, came to a dead stop that sent a gust of wind scattering, and aimed the tip of Cyanos squarely at Fuyo, at which point her ferocious intensity deflated.
 
 “What are you...? You're not the Flower Witch...?”
 
@@ -218,7 +218,7 @@ She jumped between Fuyo and me, came to a sudden stop and sent a gust of wind sc
 
 Still pointing Cyanos at Fuyo, Hiyori took the letter in confusion.
 
-Hiyori opened the letter with one hand and read it, then silently crushed it and shoved it into her pocket.
+She opened it one-handed and read it, then wordlessly crumpled it up and shoved it into her pocket.
 
 “What did it say?”
 
@@ -228,9 +228,9 @@ Hiyori opened the letter with one hand and read it, then silently crushed it and
 
 “The question is whether this child can be trusted in the first place.”
 
-Hiyori stared suspiciously at Fuyo. When Fuyo noticed, she turned squarely to Blue Witch-sama, daintily held the edge of her petal skirt, and <ruby>curtsied<rt>gave a greeting</rt></ruby>.
+Hiyori looked Fuyo up and down suspiciously. Noticing the stare, Fuyo turned properly to face Blue Witch-sama, daintily pinched the edge of her petal skirt, and <ruby>curtsied<rt>gave a greeting</rt></ruby>.
 
-“Blue Witch. My name's Fuyo! I'm 1 year old. I'm a good girl!”
+“Blue Witch. My name's Fuyo! I'm one year old. I'm a good girl!”
 
 “...Yeah, okay. I'm the Blue Witch. Good job introducing yourself.”
 
@@ -238,95 +238,95 @@ Hiyori stared suspiciously at Fuyo. When Fuyo noticed, she turned squarely to Bl
 
 Fuyo smiled happily at the praise.
 
-As the wary tension drained out of Hiyori, she lowered Cyanos.
+The wary tension drained out of Hiyori's body, and Cyanos came down.
 
-Didn't she drop her guard pretty fast? Well, fine. I thought Fuyo was mostly safe too.
+Isn't she dropping her guard kind of fast? I mean, fine. I think Fuyo's mostly safe too.
 
-“Is that okay?”
+“You're okay with this?”
 
-“The Flower Witch isn't stupid. There is no way she would use her daughter in a scheme. She might devise a scheme for her daughter's sake, though.”
+“The Flower Witch isn't stupid. There is no way she would use her daughter in a scheme. She might scheme for her daughter's sake, though.”
 
-“True. That's true.”
+“True. Fair point.”
 
-During the mushroom pandemic too, she'd weighed millions of lives against her daughter's and chosen her daughter without hesitation. We'd only known each other for a short time, but even I could tell she wouldn't use her daughter to do something to me.
+Back during the mushroom pandemic, she'd weighed millions of lives against her daughter's and picked her daughter without breaking a sweat. We'd only known each other for a short time, but even I could tell she wasn't likely to use her daughter to pull something on me.
 
-If anything, I should worry about hurting Fuyo without meaning to and making the Flower Witch mad.
+If anything, it looked like I'd do better to worry about hurting Fuyo by accident and making the Flower Witch snap.
 
-I brushed away the vine that had quietly been reaching toward my hand, signaled the fire salamanders, and headed for my house. Either way, I'd settled things with the person in charge of security. If Fuyo was moving here, nothing could start until I showed her where I lived. I needed to show her the fields and house, then make her understand that she couldn't come near them.
+I brushed off the vine that had been quietly creeping toward my hand, signaled the fire salamanders, and headed home. Whatever else happened, I'd squared things with the person in charge of security, and if Fuyo was moving in, nothing could start until I'd shown her my place. I had to show her the fields and the house and drill it into her that she couldn't come near them.
 
-Hiyori and I walked side by side in front, with the fire salamanders and Fuyo noisily following behind us.
+Hiyori and I walked side by side in front, while the fire salamanders and Fuyo followed behind us in a noisy jumble.
 
-There wasn't anything in particular to talk about, so I walked along absentmindedly. Hiyori had been fiddling with the letter in her pocket, and after a while, she cleared her throat and spoke to me.
+We didn't have anything in particular to talk about, so I was walking along absentmindedly when Hiyori, who'd been rustling the letter in her pocket, cleared her throat and spoke up.
 
 “Hey, Ori.”
 
 “Hm?”
 
-“This summer, do you want to go to the ocean together?”
+“About this summer. Do you want to go to the beach together?”
 
 “No.”
 
 I wished she wouldn't say such terrifying things. If I did something like that, the midsummer sun and crowds of normies would burn me to ash.
 
-As I shuddered, Hiyori continued.
+I shuddered in horror, and Hiyori went on.
 
 “Thought so. Then what about the river? We could fish or play in the water together in one of Okutama's rivers.”
 
 “Oh, sounds good.”
 
-It wasn't like I especially loved playing in rivers, but after hearing about a living hell, it sounded weirdly appealing. Come to think of it, I hadn't played in a river for a long time.
+Not that I especially loved playing in rivers, but right after hearing about a living hell, it sounded weirdly appealing. Come to think of it, I hadn't played in a river in ages.
 
 “Then let's have a contest to see who can catch the bigger softshell turtle! Mississippi red-eared sliders don't count.”
 
-“All right. Then it's a promise. Get a swimsuit ready. I'll get one ready too.”
+“All right. It's a promise, then. Get a swimsuit ready. I'll get one ready too.”
 
-“Huh, aren't shorts fine? Ah, no, I guess they aren't for you. Sorry, that was thoughtless. Okay, I'll get something ready too. I wonder if I still have my high school swim goggles...”
+“Huh, can't I just wear shorts? Ah, no, I guess you can't. Sorry, my bad. Okay, I'll find something too. Did I ever throw out my high school swim goggles...?”
 
-I headed home with Hiyori, who seemed to be in a slightly better mood, and the whole gang of monsters.
+I headed home with Hiyori, who seemed to be in a slightly better mood, the whole gang of monsters trooping along behind us.
 
-Fuyo's words and behavior were very childlike, but she learned things well.
+Fuyo might talk and act like a little kid, but she was a quick learner.
 
-She quickly remembered the riverside waterwheel and fishing spot, along with where the fields and rice paddies were.
+She quickly memorized the waterwheel and fishing spot by the river, along with where the fields and rice paddies were.
 
-She'd even managed to remember the reverberatory furnace on the mountain behind the house and the location of the house itself. So far, so good. But that was where the problem began.
+She even had the reverberatory furnace on the mountain behind the house and the location of the house itself firmly memorized. So far, so good. The trouble started after that.
 
-Fuyo happily hurried over beside the backyard well and started sticking her roots into the ground. I pulled her out with all my strength.
+Fuyo hurried happily over to the backyard well and started sticking her roots into the ground beside it, so I yanked her out with all my strength.
 
-When I grabbed her by the sides and pulled her out with a pop, Fuyo looked surprised.
+I got my hands around her sides and pulled her free with a pop, and Fuyo looked startled.
 
-“Huh. This place isn't okay? Do you want me closer to the house?”
+“Huh. Not here? Do you want me closer to the house?”
 
 “You were trying to put down roots, right?”
 
 “Yeah.”
 
-Fuyo nodded honestly.
+Fuyo nodded readily.
 
-“You listened while I explained all those places, and you remembered, right?”
+“You heard me explain all those places, and you remembered them, right?”
 
 “I remembered!”
 
-Fuyo energetically thrust a hand into the air.
+Fuyo thrust a hand into the air with gusto.
 
-“Listen, and listen good. You can't go into the places I explained and showed you earlier. Of course, this house is off limits too. Only put down roots in places I didn't explain. In other words, don't come near me.”
+“Listen, and listen good. You can't go into the places I explained and showed you earlier. Of course, this house is off limits too. Only put down roots in places I didn't tell you about. In other words, don't come near me.”
 
 “...Why? Uncle, do you hate me?”
 
-Fuyo looked up at me with hurt, watery eyes.
+Fuyo looked up at me, her hurt eyes welling with tears.
 
-Why are you acting like the victim, you little brat? I'm hurt too. Specifically, my stomach. And my appendix.
+What are you playing the victim for, you little brat? I'm hurt too. Specifically, my stomach. And my appendix.
 
-I'd grown as a person too now that I had friends. I'd learned to pretend I was somewhat sociable and talk a little.
+Making friends had helped me grow up emotionally, too. I'd learned to put on a reasonably sociable front, like now, and manage a bit of conversation.
 
 But that didn't mean I'd stopped feeling stressed.
 
-I'd only learned to talk while pretending I wasn't stressed.
+I'd only learned to talk while pretending I wasn't.
 
-And even that didn't last long. I could only manage to keep it up because I was dealing with a child.
+And even that didn't last long; the only reason I could keep up appearances at all was that I was dealing with a child.
 
-She needed to hurry up and understand her territory, then get out of my sight.
+I needed her to hurry up, learn her territory, and get out of my sight.
 
-I didn't want stress taking a toll on my stomach and guts.
+I didn't want stress taking a toll on my gut.
 
 “I don't hate Fuyo, but I can't handle you. Go somewhere else.”
 
@@ -334,49 +334,49 @@ I didn't want stress taking a toll on my stomach and guts.
 
 “She won't get it unless I say it straight.”
 
-Hiyori scolded me, but I had no choice. This was the only way Fuyo would understand.
+Hiyori chided me, but there was nothing for it. It didn't look like anything less blunt would get through.
 
 Fuyo was freakishly smart for a one-year-old, but she had a limited vocabulary and didn't seem to understand difficult words.
 
-I can barely hold a conversation even with a proper adult. There's no way I can choose my words and have a considerate conversation with a child! Sorry!!!
+My conversations are shaky even with proper adults. There's no way I can choose my words and tiptoe around a kid's feelings! Sorry!!!
 
-When I made a shooing gesture with my hand, Fuyo sucked her tears back in, swung her roots and vines around, and let her frustration explode.
+When I made a shooing gesture, Fuyo reeled her tears right back in, flailed her roots and vines, and let her frustration explode.
 
-Those were fake tears? Crafty little brat.
+So those were fake tears? Crafty little brat.
 
 “Nooo! I'm gonna live in Uncle's house tooooo!”
 
-“I don't want that either! Why do I have to see some kid who's not even my friend every day? I absolutely refuse!”
+“Well, I don't wanna either! Why do I have to see the face of some brat who's not even my friend every day? I absolutely refuse!”
 
-Not to be outdone, I threw a fit right back, but Fuyo cheekily tried to outdo me.
+Not to be outdone, I let my own frustration explode right back, but the cheeky brat kept right on matching me.
 
 Hiyori pressed a hand to her forehead over her mask in exasperation.
 
 “Tsubaki and Sekitan and Mokutan live there too! Why am I the only one who can't!?”
 
-“Mee! Mi-mi-mi!”
+“Mii! Mi-mi-mi!”
 
 “Hey, don't laugh, Tsubaki.”
 
 “Not fair! Cheaters! They took it! I was gonna live there! They took ittt!”
 
-“Yeah, yeah, you're so loud. If you keep being selfish, I've got an idea too.”
+“Yeah, yeah, you're so loud. If you keep being selfish, I've got my own ways of dealing with that.”
 
-This selfishness. It looked like the Flower Witch had spoiled her quite a lot.
+Such selfishness. It looked like the Flower Witch had spoiled her rotten.
 
-I gave her a light threat, but she didn't look like she'd taken it seriously at all. Fuyo threw an even bigger tantrum.
+I threatened her lightly, but she didn't seem to take it seriously at all, and her tantrum only got worse.
 
 “No, no! No means no!”
 
-“You sure? If you won't be sensible, I'll do what I have to do too.”
+“You sure? If you won't be sensible, I'll do what I have to do.”
 
 “No! I'm gonna live in Uncle's house too!”
 
 “Fine, then... Noooo! No no no no! Noooo!!!”
 
-When I rolled around on the backyard dirt, shouted as loud as I could, and started thrashing around in a tantrum, Fuyo froze in surprise.
+I flopped down on the backyard dirt and started throwing a tantrum, thrashing around and screaming at the top of my lungs, and Fuyo froze in shock.
 
-Hiyori and the fire salamanders, who had been watching us from a little way away, stepped back at the sheer force of it.
+Hiyori and the fire salamanders, who'd been watching us from a little way off, backed away too at the sheer force of it.
 
 “I don't want Fuyo living in my houseeeee! I don't even want to see your face! You have to live happily and healthily somewhere I can't see you, or no no no no no! Noooo!!!!”
 
@@ -384,139 +384,139 @@ Hiyori and the fire salamanders, who had been watching us from a little way away
 
 “Hmph. You should've said that right away.”
 
-I nodded at Fuyo, who was now completely intimidated and seemed to understand the difference in our ranks. Then I stood and brushed the dirt off my clothes.
+Fuyo was thoroughly cowed and seemed to grasp that we were in different leagues. I nodded at her, stood up, and brushed the dirt off my clothes.
 
-Hah. I showed that brat how terrifying adults could be.
+Heh. I sure showed that brat how scary grown-ups can be.
 
 Did you see that? That's the kind of intensity no child could ever match. Don't you ever defy me again.
 
-I wanted the Flower Witch to learn from my firm discipline.
+I hoped the Flower Witch would take a page from my firm discipline.
 
-Fuyo nervously watched my expression for a while, but when I told her to give me an eyeball familiar for contact, she happily cast her magic. She produced a brownish familiar like a nut, pressed it into my hand, and eagerly headed into the mountain.
+For a while, Fuyo nervously watched my face, but when I told her to give me an eyeball familiar so we could keep in touch, she happily cast the spell. She produced a brownish familiar that looked like a nut, pressed it into my hand, and set off into the mountain in high spirits.
 
-I saw her off, and before Fuyo had quite disappeared beyond the trees, a voice came through the familiar.
+I watched her go, and she had barely vanished beyond the trees when a voice came through the familiar.
 
 “Uncle, I'm settling here!”
 
-“That was fast. Too close, too close. Well, I can just barely not see you, so I guess it's fine...”
+“That was fast. Too close, too close. Well, you're just barely out of sight, so I guess it's fine...”
 
-“Hey, when I spread my roots, I get a little sleepy. But talk to me lots today and tomorrow, okay! And then, someday I'll become pretty like Mommy, so come see me then, okay?”
+“Hey, when I spread my roots, I get a little sleepy. But talk to me lots today and tomorrow, okay! And then, someday I'll be pretty like Mommy, so come see me then, okay?”
 
-“What are you talking about? I delivered you myself. And you're growing up here in Okutama. Of course you're going to be prettier than the Flower Witch.”
+“What are you talking about? You were delivered by none other than me. And you're growing up here in Okutama. Of course you're going to be prettier than the Flower Witch.”
 
-When I taught this simple fact to an ignorant child who didn't know how things worked, a crylike sound came through the familiar, packed with complicated emotions.
+When I taught this simple fact to an ignorant child who didn't know the way of the world, a sound came through the familiar, almost like an animal's cry, packed with some complicated emotion.
 
-Then Hiyori's hand suddenly reached in from the side and crushed the familiar.
+Then Hiyori's hand slid in from the side and crushed the familiar.
 
-When I gave her a questioning look, Hiyori stayed quiet for a moment, then answered briefly.
+When I gave her a questioning look, Hiyori was silent for a moment before answering briefly.
 
 “You don't like long calls, right? Cut it off early.”
 
 “Oh, I see? Was that a long-call flag?”
 
-“And... even if she's a child, try to refrain from suddenly saying things that cut deep.”
+“And... ah, even if she's a child, try to refrain from suddenly saying such piercing things.”
 
-“Huh. What? Which thing I said?”
+“Huh. What? Which remark?”
 
-“If you don't understand, that's fine. How does your mind even work? Are you socially awkward or good with words? Pick one. Honestly.”
+“If you don't understand, never mind. How does your mind even work? Are you socially awkward or good with words? Pick one. Honestly.”
 
-Hiyori went home, somehow a little angry.
+Hiyori went home, a little angry for some reason.
 
-What was with her? She keeps calling me socially awkward, but she doesn't make sense sometimes either, okay? We're even.
+What's with her? She keeps calling me socially awkward over and over, but you don't make sense sometimes either, you know? We're even.
 
 ---
 
 Just as she'd said, Fuyo spent the next several weeks spreading her roots and was sleepy the entire time.
 
-She did contact me through her familiar every day, but the reports never went beyond alarming, self-contained updates. She'd caught a bug she'd never seen before, strangled a monster to death by herself for the first time, or found an old skeleton crushed beneath a rock at the bottom of a cliff.
+She did check in through her familiar every day, but only with news that was alarming yet already over and done with: she'd caught a bug she'd never seen before, or strangled a monster to death on her own for the first time, or found an old skeleton pinned under a rock at the bottom of a cliff.
 
-She hardly made the selfish requests I'd been afraid of, like Do this for me or Do that for me. Coming down hard on her that first time seemed to have worked.
+She hardly ever made the selfish do-this, do-that demands I'd been dreading. Coming down hard on her that first time seemed to have worked.
 
-Unlike Hiyori, she also didn't make long calls or suddenly call in the middle of the night. Her calls came at one of three times: sunrise, solar noon, or sunset. Maybe those were simply the times a plant could clearly keep track of. Probably.
+And unlike Hiyori, she didn't make long calls or suddenly ring me in the middle of the night. Her calls came at one of three times: sunrise, solar noon, or sunset. I figured those were the times a plant could sense most clearly. Probably.
 
-As far as I was concerned, I was happy to have a good new neighbor.
+For my part, I was glad my new neighbor was being a good kid.
 
 The fire salamanders weren't happy.
 
-The fire type and grass type that had threatened each other when they first met were still throwing sparks weeks later.
+The fire types and the grass type had tried to intimidate each other the moment they met, and weeks later they were still throwing sparks.
 
-Every day, they brawled, fought for dominance, and sent sparks flying.
+Every day it was shoving matches and fights over who was top dog, the two sides constantly at each other's throats.
 
-Today too, Tsubaki came to my bedroom early in the morning to summon me to another territorial battle.
+This morning was no different. Tsubaki showed up in my bedroom bright and early to muster me for another turf war.
 
-Tsubaki, your boss is still asleep, you know?
+Tsubaki, in case you haven't noticed, your boss is still asleep.
 
-“Mimimee-mi, meemi!”
+“Mimimii-mi, miimi!”
 
-“Again... I don't need to come. You guys do it yourselves...”
+“Again...? Leave me out of it. Just do it yourselves...”
 
-“Meemi, meemi, meemeemi!”
+“Miimi, miimi, miimiimi!”
 
 “Okay, okay, but at least let me get changed.”
 
-Tsubaki woke me by meeping and bouncing around on the covers. Rubbing my sleepy eyes, I changed out of my pajamas and went to the backyard.
+Tsubaki woke me by meeping and bouncing all over the covers, so I rubbed my bleary eyes, changed out of my pajamas, and headed to the backyard.
 
-Mokutan was already waiting there, armed with an acorn cap perched on its head, apparently as a helmet. Sekitan was too, with mud smeared all over its face as camouflage.
+Mokutan and Sekitan were already waiting there. Mokutan was armed with an acorn cap perched on its head, presumably as a helmet, and Sekitan had smeared mud all over its face for camouflage.
 
-Seriously? How cute do you guys have to be before you're satisfied? Cut it out already.
+What's this? Just how cute are you guys planning to get? Knock it off already.
 
-“Meemi. Mimimimi, mimi. Mimeemi, mimimee!”
+“Miimi. Mimimimi, mimi. Mimiimi, mimimii!”
 
-“Mee!”
+“Mii!”
 
-“Mee!”
+“Mii!”
 
-When Tsubaki, which had called me out here, stood on its hind legs and gave some kind of battle cry, the other two answered energetically.
+Tsubaki, the one who'd dragged me out here, rose excitedly onto its hind legs and let out some kind of rallying cry, and the other two meeped back with gusto.
 
-They were really fired up. Ever since Fuyo appeared, it felt like the three of them had grown more united.
+They were pumped about something. Ever since Fuyo showed up, the three of them seemed to have banded together more.
 
-As I watched to see what they planned to do, the three of them scurried over to where broccoli was planted in the backyard vegetable garden and started working hard to dig up the soil with their front paws.
+I watched, wondering what they were up to, as the three of them scurried over to the broccoli in the backyard vegetable garden and started digging at the soil with their front paws for all they were worth.
 
 ![p068.jpg](images/p068.jpg)
 
-They meeped at me like they were urging me on, so I helped dig. We uncovered a hefty root as thick as my upper arm.
+They meeped at me as if hurrying me along, so I pitched in, and we dug up a hefty root as thick as my upper arm.
 
 “Whoa. What's this? I should've removed all the big roots and stones when I made the field... Wait, is this Fuyo's root?”
 
-“Mee!”
+“Mii!”
 
 “Mii!”
 
 “Mimimi!”
 
-As I put a hand to my chin and marveled at how fast Fuyo's roots had grown, the fire salamanders all breathed fire at the exposed root at once.
+I was stroking my chin, impressed by how fast Fuyo's roots were spreading, when the fire salamanders all breathed fire on the exposed root at once.
 
-The root, full of moisture, gave off billowing white steam as it quickly withered and caught fire. In no time, it had turned to ash.
+Plump with water, the root gave off billowing clouds of white steam, shriveled before my eyes, and burst into flame. In no time at all, it was ash.
 
-From beyond the trees on the mountain slope facing the backyard came a pained scream, like someone had stubbed their little toe on the corner of a dresser.
+A scream rang out from beyond the trees on the mountain slope facing the backyard, the kind of pained yelp you let out when you stub your little toe on the corner of a dresser.
 
-The three fire salamanders heard Fuyo scream and let out evil-sounding meeping laughter.
+At the sound of Fuyo's scream, the three fire salamanders let out wicked little meeping laughs.
 
-At it again, huh?
+You guys are at it again with these little skirmishes, huh?
 
-As I stood there exasperated, I heard Fuyo shout angrily.
+I was standing there, exasperated, when I heard Fuyo yell.
 
-“What are you doing!? That hurts!”
+“How could you do thaaat!? That huuurts!”
 
-“Mee!”
+“Mii!”
 
-“You made fun of me! Come over here! I'm gonna beat you up!”
+“Don't make fun of meee! Get over heeere! I'm gonna beat you up!”
 
-“Mimimee!”
+“Mimimii!”
 
-I didn't understand fire salamander language, but one look at Tsubaki's resolute expression told me it meant, Bring it on. It was aggressive.
+I couldn't speak fire salamander, but one look at Tsubaki's determined face told me exactly what it was thinking: Bring it on. Spoiling for a fight, that one.
 
-Tsubaki always led the territorial dispute with Fuyo, but even Sekitan, the gentlest of the three, was wearing war paint. This must have been the fire salamanders' shared decision.
+Tsubaki always led the turf war with Fuyo, but if even Sekitan, the gentlest of the three, was wearing war paint, this was probably the whole group's consensus.
 
-“You guys. It's fine if you fight, and you don't have to get along, but don't overdo it.”
+“Listen, you guys. Fighting's fine, and you don't have to be friends, but don't overdo it.”
 
-“Meemi!”
+“Miimi!”
 
-Whether it understood or not, Tsubaki bravely scattered sparks from its mouth and began advancing at the head of the group toward the mountain slope where Fuyo had planted herself.
+Whether it had understood or not, Tsubaki boldly spat a shower of sparks and marched at the head of the troops toward the slope where Fuyo was planted.
 
-We climbed the scorched, narrow animal path along the mountain slope, clear proof that the fire salamanders went back and forth there every day. Fuyo greeted us, now firmly rooted in the ground with more branches than before.
+A narrow, scorched animal trail ran up the slope, clear proof that the fire salamanders went back and forth on it every day. We climbed it and were greeted by Fuyo, who had put down firm roots and grown more branches.
 
-Fuyo narrowed her eyes and threatened the fire salamanders, then noticed me. Her voice turned sugary as she stretched out a vine.
+Fuyo glared at the fire salamanders to intimidate them, then noticed me and reached out a vine, her voice gone all sugary.
 
 “Ah! Good morning, Uncle♡ Would you like some tea?”
 
@@ -524,15 +524,15 @@ Fuyo narrowed her eyes and threatened the fire salamanders, then noticed me. Her
 
 “Mimi!”
 
-“Tsubaki and the others can lick a puddle or something.”
+“Tsubaki and the others can go lick a puddle or something.”
 
-“Mee!”
+“Mii!”
 
 The fire salamanders and Fuyo stuck their tongues out at each other and went, “Bleeh!”
 
-This was such a childish fight. The Blue Witch's fights involved ripping off other witches' legs. Compared to that, this was cute.
+Talk about a kids' fight. When the Blue Witch got into a fight, she'd do stuff like rip other witches' legs off. Compared to that, this was cute.
 
-I told the fire salamanders, who were snorting and leaning forward like they might charge at any second, “Wait.” Since I had the chance, I asked Fuyo how the request I'd made was coming along.
+The fire salamanders were snorting and leaning forward, ready to charge any second, so I told them, “Wait.” Then, since I had the chance, I asked Fuyo how my request was coming along.
 
 “Fuyo. How are the wand materials coming?”
 
@@ -542,65 +542,65 @@ I told the fire salamanders, who were snorting and leaning forward like they mig
 
 “Umm, whitewood might take a little longer. It's hard to grow.”
 
-Fuyo looked back apologetically at the young tree behind her, whose leaves were pure white too.
+Fuyo sounded apologetic as she looked back at the young tree growing behind her, pure white right down to its leaves.
 
 Apparently, each member of the Flower Witch's species had one special auxiliary tree: a whitewood.
 
-White from its roots to the tips of its leaves, a whitewood was an organ that stored nutrients and magic power. It was connected to the main body through underground stems. When its owner was hungry, she could draw out stored nutrients and fill her stomach. When she had taken in too much nutrition and looked like she might get fat, she could deposit the surplus nutrients there.
+A whitewood was white from root to leaf tip, a storage organ for nutrients and magic power connected to the main body by underground stems. When its owner went hungry, she could draw on the stored nutrients to fill her stomach, and when she'd taken in too much and was in danger of getting fat, she could deposit the surplus there.
 
-The Flower Witch had a huge whitewood 50 m tall, reaching into the sky. It was a megabank of nutrients, grown carefully over years by absorbing great numbers of human and monster corpses. During the mushroom pandemic, she had used the nutrients stored in that whitewood to make a nutrient tonic for the weakened Hiyori.
+The Flower Witch had a gigantic, sky-piercing whitewood 50 m tall: a megabank of nutrients she'd patiently grown over many years by sucking up huge numbers of human and monster corpses. During the mushroom pandemic, she'd even used up some of the nutrients stored in it to make a nutrient tonic for Hiyori when she was weakened.
 
-Fuyo, the Flower Witch's beloved one-year-old daughter, had a whitewood much smaller than her mother's. This young whitewood, less than a month old since Fuyo took root in Okutama, was only as high as my shoulder. Its branches were thin, its trunk swayed whenever the wind blew, and it didn't look very dependable.
+Fuyo, the Flower Witch's beloved one-year-old daughter, had a much smaller whitewood than her mother. Fuyo had taken root in Okutama less than a month ago, so hers was still young and only came up to my shoulder. Its branches were thin and its trunk swayed with every gust of wind; it didn't look very dependable.
 
-Even so, that whitewood showed excellent properties as a wand material.
+Even so, a whitewood like that still had excellent properties as a wand material.
 
-The Flower Witch's letter had said something like, “Why don't you have Fuyo make wand materials?” I had Fuyo make samples of every kind of wood she could, but after testing them, whitewood was the best.
+The Flower Witch's letter had suggested something like “Why not have Fuyo make wand materials?” so I'd had her make one of every kind of wood she could, and in testing, whitewood came out on top.
 
-According to Hiyori, who had helped with the tests, whitewood lumber helped control magic power.
+According to Hiyori, who'd assisted with the testing, whitewood lumber helped with magic-power control.
 
-It was like how I used magic tools. With ordinary tools, I couldn't fully bring out my natural dexterity. Only when I had magic tools specialized for precision work could I put all of my dexterity to use.
+It was like me and my magic tools. Ordinary tools couldn't bring out the full extent of my natural dexterity; only magic tools specialized for precision work let me put every bit of it to use.
 
-That whitewood lumber likewise served as a good tool for getting the most out of magic-power-control techniques.
+In the same way, whitewood lumber was a quality tool for getting the most out of your magic-power-control skills.
 
-For people who couldn't control magic power in the first place, whitewood lumber did nothing at all. But for people who could, it had the kind of effect they could manage without but were happy to have.
+For anyone who couldn't control magic power to begin with, whitewood lumber did nothing at all. But according to people who could, the effect was along the lines of: you'd be fine without it, but it's nice to have.
 
-It was like a shoehorn when you put on shoes. Or fukujinzuke[^2] served with curry rice.
+It was probably something like a shoehorn when you put on your shoes. Or the fukujinzuke[^2] served with curry rice.
 
-Magic stones were popular because magic power flowed through them well and they felt good to use. For Transcendents who controlled magic power as naturally as breathing, wands made from whitewood lumber, which made magic power easier to handle, had to make a good impression too.
+Magic stones had a reputation for letting magic power flow smoothly and feeling good to use, so Transcendents, who controlled magic power as naturally as breathing, were bound to like wands made from whitewood lumber too, since the material made magic power easier to handle.
 
-For my Wand Maker 0933 brand, which touted high-performance, high-end products, I definitely wanted to use whitewood in the wands I made from now on.
+For my Wand Maker 0933 brand, which promised high-performance, high-end products, I definitely wanted to use whitewood in the wands I'd be making from now on.
 
-So I had high hopes for Fuyo, the supplier of whitewood.
+So I had high hopes for Fuyo, my whitewood supplier, but...
 
 “I swapped out Cyanos's handle, but I want to swap out the handles of Okutameteorite and Hendensho too. I also want spares to test primer on. When do you think the next batch will be ready?”
 
-“Umm... I'll work hard, but... the sun has moods too... Ah! If Uncle gives me head pats, I'll work muuuch harder♡”
+“Hmmm... I'll try hard, but... it depends on the sun's mood too... Ah! If Uncle gives me head pats, I'll try muuuch harder♡”
 
-“No. You said something like that last week too, then acted needy until you were satisfied and didn't do anything. You little brat, didn't your mommy teach you to keep your promises?”
+“No way. You said the same kind of thing last week, made me fuss over you, then got satisfied and didn't do a thing. You little brat, didn't your mommy teach you to keep your promises?”
 
-“Mommy said you should use promises well!”
+“Mommy said you should use promises cleverly!”
 
-“Use them? That's some lousy education.”
+“Use them? What a lousy upbringing.”
 
-The Flower Witch had also made outrageous profits in exchange for teaching fertility magic and providing the mushroom-disease antidote. Maybe her species had that kind of selfish mindset. Or was it simply how her mother had raised her? I didn't know.
+Then again, the Flower Witch had also raked in outrageous profits in exchange for teaching fertility magic and supplying the mushroom-disease antidote, so maybe selfish thinking was just wired into her species. Or was it simply her mother's parenting? Beats me.
 
-The Flower Witch certainly seemed skilled at using promises as contracts to her advantage. But she did not break them. If Fuyo was going to imitate her mother, I wanted her to imitate not just the surface but the real core too.
+The Flower Witch certainly did seem skilled at exploiting promises as a form of contract. But she never broke one. If Fuyo was going to copy her mother, I wished she'd copy her all the way to the core, not just on the surface.
 
-As I talked about this and that with Fuyo, the fire salamanders, who had been fired up only to be ignored, impatiently grabbed my shoelaces in their mouths and pulled.
+While I chatted with Fuyo about this and that, the fire salamanders, all fired up and then left hanging, got impatient and started tugging at my shoelaces with their mouths.
 
-The fire salamanders looked up at Fuyo and me in turn and meeped. Fuyo gave them a smug, triumphant look and said,
+They meeped and looked from me to Fuyo and back. Fuyo turned a smug, triumphant face on them.
 
 “Hehe♡ I'm helping Uncle. I'm his partner. Tsubaki and Sekitan and Mokutan are just pets! Uncle's pets! I win!”
 
 “Mii...?”
 
-“Mee...?”
+“Mii...?”
 
 “Mimimi...?”
 
-But Fuyo's all-out attempt to one-up them seemed to have used words too difficult for the fire salamanders to understand.
+But the words in Fuyo's all-out power play were apparently too difficult, and it went right over the fire salamanders' heads.
 
-The fire salamanders tilted their heads and looked at each other. Fuyo looked stumped for a moment and thought it over, then put on her triumphant expression again and rephrased it more simply.
+As they tilted their heads and exchanged looks, Fuyo looked stumped for a moment and thought it over. Then her triumphant expression came back, and she put it more simply.
 
 “Tsubaki's a weakling! Sekitan's a loooser too! Even Mokutan is weak!”
 
@@ -610,27 +610,27 @@ The fire salamanders tilted their heads and looked at each other. Fuyo looked st
 
 “![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)![gaiji-0003.png](images/gaiji-0003.png)—!!”
 
-This time, they understood properly. The fire salamanders got angry and spat sparks from their mouths. Seeing that, Fuyo cackled happily.
+This time it got through, and the fire salamanders flew into a rage, spitting sparks from their mouths. Fuyo watched them and cackled with glee.
 
-You guys do get along after all. I had thought the saying, “The more you fight, the closer you are,” was a complete lie. If people fight, they normally just have a bad relationship. But watching these guys, I started to wonder if it might be true. If they really hated each other, they wouldn't even want to see each other's faces.
+You guys really do get along, don't you? I'd always thought the saying “The more you fight, the closer you are” was a total lie, since people who fought obviously just didn't get along. But watching these guys, I started to think it might be true after all. If they really hated each other, they wouldn't even want to see each other's faces.
 
-Provoked, the fire salamanders jumped at Fuyo and started breathing fire. Fuyo fought back by controlling several vine whips.
+The provoked fire salamanders pounced on Fuyo and started breathing fire, and Fuyo fought back, wielding several vine whips.
 
-I erased my presence and quietly retreated. Tsubaki had apparently wanted to fight Fuyo under my banner, but if I got dragged in, I was sure to get badly hurt. They could do whatever they wanted.
+I faded into the background and quietly slipped away. Tsubaki had apparently wanted to fight Fuyo with me as its standard-bearer, but if I got caught up in that, I'd get badly hurt for sure. Knock yourselves out.
 
-Getting dragged into a kids' fight first thing in the morning had worn me out. I went back to the house to heat up last night's leftovers for breakfast, and found Hiyori just opening the front door with her spare key.
+Being hauled into a kids' fight first thing in the morning had left me mentally worn out. When I went back to the house to heat up last night's leftovers for breakfast, Hiyori was just opening the front door with her spare key.
 
 “Hm? Oh, you're here. Morning, Ori.”
 
-“Oh. What's up? Something happen?”
+“Hey. What's up? Something happen?”
 
-“No, it's something minor. You told me to say anything at all if a wand had a problem, right? The paint on the handle peeled off.”
+“No, it's something minor. You told me to tell you about any problem with a wand, however small, right? The paint on the handle peeled off.”
 
-“Ah... So the primer and the material really didn't get along. I had a feeling that would happen.”
+“Ah... So the primer and the material really were a bad match. I had a feeling.”
 
-I let Hiyori in to have her wand serviced, stopped by the kitchen to quickly make rice balls from cold rice, then moved to the workshop.
+Hiyori had come for maintenance, so I let her in, swung by the kitchen to throw together some rice balls from cold rice, and headed to the workshop.
 
-I took Cyanos from her with a rice ball held in my mouth. As I used paint remover to strip away the rough, flaky paint, Hiyori looked toward the mountain behind the house as if she could see through the wall and muttered:
+With a rice ball in my mouth, I took Cyanos from her and used paint remover to strip off the rough, flaky paint. Meanwhile, Hiyori looked toward the mountain behind the house as if she could see right through the wall, and muttered something.
 
 “Are the fire salamanders and Fuyo fighting again?”
 
@@ -640,67 +640,67 @@ I took Cyanos from her with a rice ball held in my mouth. As I used paint remove
 
 “Ah, got it.”
 
-Maybe you couldn't tell the exact model of car or the distance, but you could tell something was happening over in that direction. Hiyori was good at analogies.
+So it was like how you couldn't tell the exact model or the distance, but you could tell something was going on over that way. Hiyori was good at analogies.
 
-As I marveled at the magic-power sense Transcendents got as a special perk, Hiyori continued tentatively.
+I was still impressed by that magic-power sense, practically a Transcendent-exclusive perk, when Hiyori went on, a little hesitantly.
 
 “Is it okay? Leaving them alone.”
 
 “Why?”
 
-“Those children have fought every day since they met. I don't think that's a good thing.”
+“Those children have done nothing but fight every day since they met. I don't think that's a good thing.”
 
-I could hear the seriousness in her voice. After swallowing all the rice in my mouth, I turned to face Hiyori.
+She sounded serious, so I swallowed every last grain of rice in my mouth before turning to face her.
 
 What, you got a problem with how I raise them?
 
-“It's fine if they fight. It's not like they're killing each other, and it seems like it ends whenever one of them says they surrender. They're just roughhousing. Leave them alone.”
+“So what if they fight? It's not like they're trying to kill each other, and it seems to end whenever one of them gives up. It's just kids roughhousing. Leave them be.”
 
-“Fuyo and the fire salamanders are monsters. They are not human children. What if they get seriously hurt from all that fire-breathing and beating with vines? They are not old enough to know how to hold back.”
+“Fuyo and the fire salamanders are monsters. They're not human children. What if they get badly hurt with all that fire-breathing and vine-beating? They're not old enough to know how to hold back.”
 
-“Come on, that's overprotective. They don't want us telling them what to do at every turn either. They have minds that can think for themselves, even if they're children. They'll work it out on their own. You only need to scold them when they do something really bad.”
+“Come on, that's overprotective. They don't want someone bossing them around over every little thing either. They're kids, but they've got heads of their own to think with, so they'll work it out on their own. You only have to scold them when they do something really bad.”
 
-Her instinct to look after everyone was one of Hiyori's good points, but it depended on the situation.
+Hiyori's urge to look after people was one of her good points, but there was a time and a place.
 
-I had never once been glad that my parents had nagged me to “MAKE FRIENDS” or “BE MORE FRIENDLY.” Obviously. That was like ordering a penguin to fly.
+Not once had I been glad my parents nagged me to “MAKE FRIENDS” or “BE MORE FRIENDLY.” Obviously not. It was like ordering a penguin to fly.
 
-People have aptitudes, you know. Monsters do too.
+People have these things called aptitudes, you know. So do monsters.
 
-Telling them to do this or do that doesn't lead to anything good. Adults' condescending advice is often nothing but annoying, harmful orders to children.
+Telling someone to do this and do that does no good. To kids, adults' condescending advice is usually nothing but annoying, harmful orders.
 
-“You can't just leave them alone. The fire salamanders are your precious pets, and Fuyo is the child you delivered, right? You should get more personally involved and give them affection. Shouldn't you mediate their fights?”
+“You can't just leave them to their own devices. The fire salamanders are your precious pets, and Fuyo is a child you delivered with your own hands, isn't she? You should be more involved and show them some love. Shouldn't you be mediating their fights?”
 
-“That's why I'm saying that's overprotective. When parents or teachers butt into children's fights and force them both to say sorry, does that make everything nice and settled? It obviously doesn't solve the root problem at all.”
+“I'm telling you, that is overprotective. Kids get into a fight, and parents or teachers butt in, and they get forced to say sorry to each other, and that ties everything up nice and neat? It's obvious that doesn't solve the root problem, like, at all.”
 
-Even though I was making an undeniably correct argument, Hiyori did not look convinced.
+My argument was undeniably sound, and yet Hiyori didn't look convinced.
 
-Why did I have to have a conversation like parents fighting over how to raise children?
+Why did I have to have a conversation like a couple arguing over how to raise their kids?
 
-As I got a little irritated, Hiyori carefully chose her words and gently put her hand on my knee.
+I was getting a little irritated when Hiyori, choosing her words carefully, gently laid a hand on my knee.
 
-“I understand your point too. From your perspective, what you're doing is right. But not everyone in the world is like you, Ori. Everyone thinks and feels differently from you.”
+“I understand your point too. For you, what you're doing is right. But not everyone in the world is like you, Ori. It's full of people who think and feel differently from you.”
 
-“You mean everyone's different, right? I know that.”
+“You're saying different strokes for different folks, right? I know that.”
 
-“Really? Are you not thinking that if Fuyo and the fire salamanders truly hated each other, they would keep their distance and refuse to talk, and that if they are fighting while seeing each other every day, they must get along?”
+“Really? Aren't you thinking that if Fuyo and the fire salamanders truly hated each other, they'd keep their distance and refuse to talk, so if they're face-to-face fighting every day, they must get along?”
 
-“Huh. Scary. Did you use mind-reading magic?”
+“Huh. Yikes. Did you use mind-reading magic?”
 
-She had perfectly read thoughts I had not said out loud, and I shook with fear.
+She had perfectly read thoughts I was sure I hadn't said out loud, and I quaked in terror.
 
 Witches are scary! They always do this!
 
-Hiyori smiled wryly at me as I trembled in fear, then continued.
+Hiyori gave me a wry smile as I trembled in fear, then went on.
 
-“Your thoughts are simply easy to understand. Well, sometimes you come up with incomprehensible ideas from way out in left field... But putting that aside... Ahem. Anyway! I think we should step in and break up the fights between Fuyo and the fire salamanders. What you want and what those children want are different things.”
+“You're just easy to read. Well, sometimes you come up with baffling ideas from way out in left field... but that's beside the point... Ahem. Anyway! I think we should step in and mediate between Fuyo and the fire salamanders. What you'd want and what those children want are different things.”
 
 “Hmm...?”
 
-“More than that, what those children want and what is good for them are different things too. They may be play-fighting now, but what if it escalates and they begin to genuinely hate each other? You are their guardian. Stop them while you still can.”
+“Going further, what those children want and what's good for them are different things too. They may be play-fighting now, but what if it escalates until they truly hate each other? You're their guardian. Stop them while you still can.”
 
 “Hmm...”
 
-As she earnestly reasoned with me, I started to think Hiyori had a point too.
+The way she earnestly laid it out for me, I started to feel like Hiyori kind of had a point too.
 
 Fuyo and the fire salamanders were both one year old. They were babies.
 
@@ -708,33 +708,33 @@ And my communication skills were baby-level too.
 
 Maybe respecting their independence was too much to ask of babies. It might be worth trying things Hiyori's way for now.
 
-“Fuyo and the fire salamanders like you, Ori. If someone unrelated like me said it, it would probably have the opposite effect. But if you tell them, they will both stand down.”
+“Fuyo and the fire salamanders like you, Ori. Coming from someone unrelated like me, it would probably backfire, but if you talk to them, they'll both lay down their arms.”
 
 “O-Okay.”
 
-I thought she wasn't unrelated at all—she was the fire salamanders' real mother—but I did not say anything. There was no need to make an already difficult communication problem even more difficult.
+You're not exactly unrelated when you're the fire salamanders' real mom, I thought, but I kept that to myself. No need to make an already difficult communication problem any harder.
 
-After I finished Cyanos's maintenance and got some more advice from Hiyori, I went to visit Fuyo at her base again.
+I finished Cyanos's maintenance, got a few more pointers from Hiyori, and went back to see Fuyo at the foot of her trunk.
 
-Fuyo had won this round. The fire salamanders were bound all together with thin vines and hung in the air, meeping their protests.
+Fuyo had won this skirmish. She'd trussed up all three fire salamanders together with thin vines and left them dangling in midair, meeping in protest.
 
-“Surrender? Surrender?”
+“Give up? Give up?”
 
-“Meemi, meemeemimmi, mimimi!”
+“Miimi, miimiimimmi, mimimi!”
 
-“If you raise your hands and surrender, I'll let you down. If you don't surrender, I'll squeeze you tighter, okay?”
+“Put your hands up and say you give up, and I'll let you down. If you don't give up, I'll squeeze you tight, okay?”
 
 “![gaiji-0003.png](images/gaiji-0003.png)—!”
 
-The three fire salamanders thrashed around, blowing blackish exhaust from their mouths. They seemed to be out of gas. Fire salamanders could not breathe fire forever.
+The three fire salamanders were flailing around, coughing blackish exhaust from their mouths. They seemed to be out of gas. Fire salamanders couldn't breathe fire forever, after all.
 
-Fuyo, on the other hand, had scorched vines and leaves all over, and the edge of her petal skirt was smoldering.
+Fuyo, meanwhile, had vines and leaves scorched all over, and the hem of her petal skirt was smoldering.
 
-Fuyo had won, though it was close to a draw with both sides battered.
+A win for Fuyo, then, but closer to a draw where both sides got hurt.
 
 “Fuyo, let them down. Tsubaki, Sekitan, Mokutan, come here.”
 
-When I called out, Fuyo obediently released her captives, and the beaten-up fire salamanders staggered over to my feet.
+At my call, Fuyo obediently released her prey, and the beaten-up fire salamanders tottered over to my feet.
 
 I gave the three of them charcoal, coal, and camellia oil, then tossed Fuyo a bottle of liquid fertilizer.
 
@@ -742,11 +742,11 @@ Eat something and calm down for now. Then tell me why you're fighting.
 
 “Bit late to ask, but what don't you like about the fire salamanders, Fuyo? Is it because your territories overlap?”
 
-“I'm letting them stay by you, Uncle, but Tsubaki's cheeky. Sekitan ignores me, and Mokutan scratches me. I hate them!”
+“I'm letting them have the spot next to you, Uncle, but Tsubaki's so cheeky. And Sekitan ignores me, and Mokutan scratches me. I hate them!”
 
 Fuyo pouted as she unscrewed the cap on the liquid fertilizer and poured it over her scorched petals.
 
-Mm-hm. So it wasn't like she couldn't stand them on a gut level. Fuyo didn't seem to feel any species-wide divide like extroverts versus introverts. She just hated their attitude.
+Mm-hm. So it wasn't a can't-stand-them-on-a-gut-level thing. Fuyo apparently didn't feel any species-level divide, like extroverts versus introverts. She just didn't like their attitude.
 
 I looked down at the pets by my feet.
 
@@ -754,33 +754,33 @@ I looked down at the pets by my feet.
 
 “Mimi, mimimimimimi.”
 
-“Mimeemimeemi!”
+“Mimiimimiimi!”
 
-“Mee... Mi-meemi.”
+“Mii... Mi-miimi.”
 
-The three of them earnestly presented their cases, meeping while stuffing their mouths with food.
+Cheeks stuffed with food, the three of them meeped earnestly as they stated their cases.
 
-I nodded deeply.
+I nodded gravely.
 
 “I see. I have no idea what you're saying.”
 
-“Tsubaki and the others burn me when I spread my roots. They're mean! Isn't that awful?”
+“Tsubaki and the otheeers burn me whenever I spread my roots. They're mean! Isn't that awful?”
 
-“Hmm. Then it sounds like territorial instinct.”
+“Huh. Sounds like a territorial thing, then.”
 
-The fire salamanders' behavior couldn't really be helped. They pulled my shirts out of the dresser and carried them off to their nest, and they bathed in sesame oil from the kitchen, then walked around all greasy and made the whole house sticky. Even I, the boss they respected as their pack leader, had a hard time handling them. There was no way I could make them behave politely toward Fuyo.
+The fire salamanders couldn't help their attitude. These guys pulled my shirts out of the dresser without asking and hauled them off to their nest, and they bathed in the kitchen's cooking sesame oil, then wandered around glistening and got the whole house sticky. If even I, the pack boss they respected, had my hands full with them, there was no way I could make them mind their manners around Fuyo.
 
-Fuyo couldn't help expanding her territory either. She was a plant. Growing roots was in her nature. If I kept her so cramped that she got rootbound, there'd be no point in the Flower Witch sending her daughter to spacious Okutama. Her mother would complain to me.
+Fuyo couldn't help expanding her territory either. She was a plant, so spreading her roots was instinct. If I cramped her until she got rootbound, there'd be no point in the Flower Witch sending her daughter to wide-open Okutama, and I'd get complaints from the parent.
 
 ........
 
-...Hey, wait. I'd ended up concluding that neither side could help what they were doing.
+...Hey, wait a sec. I'd just concluded that neither side could help it.
 
-Crap. I'm stuck. They're bound to fight.
+Crap. I'm stuck. Fighting's unavoidable.
 
-Hiyori-sensei! Mediating fights is too hard for a socially awkward guy! Bring me the Stoat Professor!
+Hiyori-sensei! Mediating fights is too hard for a socially awkward guy! Bring me the stoat professor!
 
-I agonized over it, but the more I thought, the less I understood. So I decided to drag the conversation onto my home turf.
+I racked my brain, but the more I thought, the less I understood, so I decided to drag the discussion onto my home turf.
 
 I didn't understand fights, falling-outs, or any of that interpersonal-friction stuff.
 
@@ -798,63 +798,63 @@ Let's try that angle.
 
 “This. Wand. Material. Processing. This. Get it?”
 
-I put Tsubaki on my palm and carried it right up to the whitewood. After staring closely at the white tree in puzzlement, it suddenly opened its eyes wide.
+I set Tsubaki on my palm and held it right up to the whitewood. It peered at the white tree up close, puzzled, then suddenly caught on, its eyes going wide.
 
 “Mimi! Mimi! Mimi!”
 
-“Yeah. Wand. A wand.”
+“That's right. Wand. A wand.”
 
 It got it.
 
 Your favorite treasure was made with sponsorship from Fuyo.
 
-“Sekitan's favorite little boat was made from Fuyo's leaves too.”
+“Sekitan's favorite leaf boat was made from Fuyo's leaves too.”
 
 “Mii...”
 
-“Mokutan, you secretly eat Fuyo's branches after they turn into charcoal in fights too, right?”
+“And Mokutan, you sneak bites of Fuyo's branches after they get charred in a fight, don't you?”
 
 “Mimimi...”
 
 When I showed them Fuyo's leaves and scraps of her carbonized branches, Sekitan and Mokutan looked away guiltily too.
 
-Fire salamanders. If you're part of the Ori Workshop too, you should understand showing respect to your material supplier.
+Listen up, fire salamanders. If you're members of the Ori Workshop, you ought to understand respect for your material supplier.
 
-I also spoke to Fuyo, who was looking down at the quiet fire salamanders with a smug winner's grin.
+Fuyo was looking down at the now-meek fire salamanders with a smug winner's grin, so I spoke to her too.
 
-“Fuyo. That amulet you're wearing around your neck.”
+“Fuyo. That amulet around your neck—”
 
-“Huh, no! I'm not giving it back. Uncle gave it to me, so it's mine now!”
+“Huh? No! I'm not giving it back. Uncle gave it to me as a present, so it's mine now!”
 
 “No, that's not what I mean. That amulet uses metal and a Gremlin forged in the fire salamanders' flames. It's a collaboration between me and the fire salamanders.”
 
 “Huh...”
 
-Fuyo had been looking down on the fire salamanders, and this was clearly beyond anything she'd imagined. It caught her completely off guard.
+Fuyo had been sneering at the fire salamanders, so this must have been beyond anything she'd imagined. She seemed completely caught off guard.
 
 “You guys can make something this pretty...?”
 
-“Mee.”
+“Mii.”
 
 “Mii.”
 
 “Mimimi.”
 
-When Fuyo hooked the amulet with the tip of a vine, swung it, and asked in surprise, the fire salamanders puffed out their chests proudly.
+Fuyo had hooked the amulet on the tip of a vine and was swinging it as she asked, amazed. The fire salamanders puffed out their chests with pride.
 
-Even my hopeless people skills could tell the mood had turned warm and fuzzy.
+The air turned so warm and fuzzy that even my hopelessly dense social radar could pick it up.
 
 “It's fine if there are things you don't like about each other. But try looking for each other's good points too. Don't just fight all the time.”
 
-After that final push, Mokutan was the first to shake its head, take off its acorn helmet, and drop it on the ground.
+I gave them one last nudge, and Mokutan went first: it gave its head a little shake, took off its acorn helmet, and let it drop to the ground.
 
-Next, Sekitan rubbed its face against a pebble and wiped off its muddy war paint.
+Then Sekitan rubbed its face on a pebble to wipe off its mud war paint.
 
-Watching the other two, Tsubaki reluctantly put its tongue away and lowered the flame on its tail.
+Seeing the other two, Tsubaki reluctantly put its tongue away and turned down the flame on its tail.
 
-Good! So obedient! The fire salamanders were offering peace. What about you, Fuyo?
+Good kids! So obedient! The fire salamanders had shown they were ready to make peace. What about you, Fuyo?
 
-“H-Hmph? So you're surrendering. Then apologize. For everything you've done so far.”
+“H-Hmph? So you give up. Then apologize. For everything you've done so far, and—”
 
 “Fuyo. Be honest.”
 
@@ -862,37 +862,37 @@ Good! So obedient! The fire salamanders were offering peace. What about you, Fuy
 
 Fuyo relaxed her shoulders, smiled a little, and poked the three fire salamanders' foreheads with the tip of a vine.
 
-After hesitating a little, the fire salamanders gave the vine a gentle nip, puffed out smoke, and went back to their nest.
+The fire salamanders hesitated a moment, then gave the vine a gentle nip, let out a puff of smoke, and headed back to their nest.
 
-I left Fuyo where she was, fiddling with the amulet and thinking, then went home.
+I left Fuyo there, fiddling with her amulet and lost in thought, and went home too.
 
-Mediation mission complete. From the look of things, this probably wouldn't cause any more trouble.
+Fight-mediation mission complete. The way things looked, they shouldn't cause me any more trouble.
 
-They were all cheerful companions in Okutama who helped me make magic wands, so the better they got along, the better.
+They were all part of my merry Okutama crew who helped me make magic wands, so the better they got along, the better.
 
-It had settled down for now, but I was still a little worried whether this had been the right way to handle it.
+Things had been smoothed over for now, but I still had a nagging worry: had this really been okay?
 
-For my own convenience, because I wanted them to stop fighting, I felt like I had guided and controlled the natural feelings of Fuyo and the fire salamanders.
+It felt like I'd steered and controlled the natural feelings of the fire salamanders and Fuyo for my own convenience, just because I wanted them to stop fighting.
 
-Isn't that warped?
+Isn't that kind of twisted?
 
-Can this be called a healthy relationship...?
+Can you really call that a healthy relationship...?
 
-No, but.
+No, but still.
 
-Hiyori had said, “What those children want and what's good for them are different things.” I wanted to think mediating their fight had not been wrong. Letting them do what they wanted however they wanted was not necessarily the best move... probably...
+Hiyori had said, “What those children want and what's good for them are different things.” I wanted to believe mediating their fight hadn't been a mistake. Letting them do whatever they wanted, however they wanted, wasn't necessarily the best move... probably...
 
-The more I thought, the deeper I seemed to wander into a maze until I didn't know what to think anymore.
+The more I thought about it, the deeper I seemed to wander into a maze of my own thoughts, until I couldn't make heads or tails of anything.
 
-Relationships between monsters were just as troublesome as human relationships.
+Relationships between monsters were just as much of a pain as human ones.
 
-But it did not look like the fire salamanders' relationship with Fuyo had gotten worse because of my intervention.
+Still, it didn't look like my intervention had made things any worse between the fire salamanders and Fuyo.
 
-I wanted to think I was starting to understand emotional nuances too.
+I'd like to think I'm starting to get a feel for the subtleties of emotion too.
 
 I'm sure it'll all work itself out.
 
 ## Translator Notes
 
-[^1]: **Supporting Fuyo**: Fuyo's name (`フヨウ`) is pronounced the same as `扶養`, meaning to support or maintain a dependent.
+[^1]: **Supporting Fuyo**: Fuyo's name (フヨウ) is pronounced the same as 扶養, meaning to support or maintain a dependent.
 [^2]: **Fukujinzuke** (福神漬): A Japanese condiment of sweet pickled vegetables, commonly served with curry rice.

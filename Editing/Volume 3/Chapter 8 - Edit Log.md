@@ -119,3 +119,33 @@ Ori's immediate questions, fears, refusals, and current appraisals stayed in pre
 - **俺の看病はしないで欲しい** (JP 460): “But don't nurse me.” → “But I don't want anyone nursing me.” — voice
 
 `check_reedit.py` RESULT: PASS (FLOW LIGHT PASS); `run_chapter_gates.py --unit 3 --chapter 8` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 107 reviewed, 7 flagged. Round 1: 3 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 4 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 7 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — 家畜化 restored to "monster domestication"
+  - Final text: "My overall verdict: “Problematic for monster domestication, but probably manageable as pets.”"
+- **F2** — APPLIED — glossary — グレムリン埋め込み restored to "Gremlin implantation"; magic-power loss made explicit; person, not "your body", turns to dust (next line is "There wasn't even a body left")
+  - Final text: "If Gremlin implantation stripped you of all your magic power and left your magic-power capacity at zero, you turned to dust and dissolved into nothingness."
+- **F3** — APPLIED — glossary — "the implant" replaced with verb form matching グレムリンを埋め込めば
+  - Final text: "Implanting a Gremlin made monsters recognize you as one of their own."
+- **F4** — APPLIED — glossary — "the implantation" replaced with verb form matching グレムリンを埋め込んだ後
+  - Final text: "After implanting the Gremlin, you still needed the effort and know-how to build either a close relationship or a hierarchy with the target monsters."
+- **F5** — APPLIED — accuracy — だろうに inference restored; also restored dropped 北海道魔獣農場から (gap Codex missed) and left the unstated receiver unstated
+  - Final text: "It couldn't have been even three days since the documents arrived from the Hokkaido Magic Beast Farm, yet Professor Ohinata had already completed an applied study at breakneck speed."
+- **F6** — APPLIED — accuracy — added "hurried" removed (家に戻り); blood from the single bled salamander
+  - Final text: "I returned home, checking over my shoulder again and again to make sure the fire salamanders weren't chasing me. Then I started up the reverberatory furnace and made a personal-color Gremlin mixed with fire salamander blood."
+- **F7** — APPLIED — accuracy — 飼育チャレンジ is raising, not 馴致 taming
+  - Final text: "All I had to do was implant it somewhere in my body and let it settle for a week. Then the fire salamanders would see me as one of their kind, giving me a shot at raising them."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: none
+
+### Lead Fixes (series rulings)
+- ミーミー: "meep meep" → "meep-meep" (series form)

@@ -144,3 +144,36 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, scene breaks, notes unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 5` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 121 reviewed, 10 flagged. Round 1: 8 conceded, 1 pushed back, 1 countered. Codex after round 1: 1 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 9 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — voice — restore the aggrieved question mark on そうなんですけどね？
+  - Final text: "Well, yeah, but still?"
+- **F2** — APPLIED — worse — "that flashily" replaced
+  - Final text: "If she'd used Cyanos to take down a giant kaiju attacking Tokyo so spectacularly, I was all for it. Perfect advertising!"
+- **F3** — APPLIED (editor counter, Codex accepted) — accuracy — 売っても良い奴 kept vague ("okay"), not "worth" or "safely"
+  - Final text: "\"Fine. If I find someone I'm okay selling to, I'll sell.\""
+- **F4** — APPLIED — tense — じゃん direct monologue into present, matching the next line
+  - Final text: "She's totally never going to sell any."
+- **F5** — APPLIED — accuracy — restore the 売れなそう hedge
+  - Final text: "This is hopeless. Doesn't look like a single wand is going to sell."
+- **F6** — APPLIED — accuracy — バッキバキ = cracked all over, not in pieces
+  - Final text: "The Blue Witch sheepishly held out Cyanos, and it was cracked all over. Spectacularly."
+- **F7** — APPLIED — worse — "it was in this state?" replaced
+  - Final text: "I'd noticed she was kind of holding Cyanos behind her back, like she was hiding it, but had it really gotten this bad?"
+- **F8** — KEPT — accuracy — "bigger monsters" for 遥かにバケモン
+  - Why kept: "bigger monster" is the standard figurative idiom for degree and keeps the hunted-魔物 / witch-as-monster joke; Codex withdrew.
+- **F9** — APPLIED — mechanics — drop "the" before the proper name Cyanos
+  - Final text: "While I stood there, impressed and terrified at once, the Blue Witch eyed Cyanos in my hand suspiciously."
+- **F10** — APPLIED — worse — させてもらおう as asking permission
+  - Final text: "From now on, I'll ask her to let me do regular maintenance checks."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

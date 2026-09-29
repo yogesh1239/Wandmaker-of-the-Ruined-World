@@ -1,6 +1,6 @@
 The Blue Witch and Ori Kenshi had known each other for almost four years.
 
-The longer you knew someone, the better you understood them. One look at Ori, absorbed in Gremlin processing in his workshop yet again, told the Blue Witch he wouldn't be coming back to reality anytime soon.
+The longer you knew someone, the better you understood them. One look at Ori, absorbed in Gremlin processing in his workshop again today, told the Blue Witch he wouldn't be coming back to reality anytime soon.
 
 Ori was hopeless at communicating. Ori didn't understand the Blue Witch nearly as well as she understood him. She wanted to talk more and learn more about him, but every attempt got the same sluggish response. It was like pushing on a curtain.
 
@@ -46,7 +46,7 @@ Its mouth dropped open and its eyes went wide. It froze like a statue.
 
 “Mih...!?”
 
-That was Sekitan, all right—so laid-back it hadn't even noticed the Blue Witch approach.
+That was Sekitan, all right—so laid-back it apparently hadn't even noticed the Blue Witch approach.
 
 “So you can cook, Sekitan. Good job.”
 
@@ -66,7 +66,7 @@ The Blue Witch left the kitchen and headed for the bedroom. She couldn't hear an
 
 When she opened the bedroom door, she found the bottom drawer of the clothes chest beside the bed slightly ajar. A fire salamander had shoved its face into the narrow gap and was wagging its tail happily.
 
-As she watched, the fire salamander took one of Ori's shirts in its mouth and tugged it out of the chest.
+After watching for a while, she saw the fire salamander take one of Ori's shirts in its mouth and tug it out of the chest.
 
 This one was smaller than Sekitan and made needy little cries as it played with Ori's shirt. It had to be Mokutan, the clingiest of the three.
 
@@ -100,7 +100,7 @@ The Blue Witch didn't think her judgment at the time had been wrong. Her role wa
 
 Still, either the danger had faded from memory or she was simply fickle, because once the fire salamanders had been tamed, grown used to Ori, and become magic beasts, she had stopped thinking about getting rid of them altogether.
 
-They were sweet, innocent creatures. They saw Ori as one of their own, and there was no chance they'd hurt him—not on purpose, at least. If anything, they would probably try to protect him in a crisis.
+They were cute, innocent kids. They saw Ori as one of their own, and there was no chance they'd hurt him—not on purpose, at least. If anything, they would probably try to protect him in a crisis.
 
 Gremlin implantation seemed a bit much just to make friends with them. Even so, it hurt when they feared and avoided her. How selfish.
 
@@ -116,7 +116,7 @@ Mokutan wagged its tail whenever Ori called its name, but answered the Blue Witc
 
 She moved the charcoal right, and Mokutan looked right. She moved it left, and Mokutan looked left. Cute.
 
-It rumbled longingly in its throat but refused to come any closer, so the Blue Witch set the charcoal down and backed away. Only then did Mokutan creep toward the food. It snatched the charcoal in its mouth and darted straight back under the safe.
+It rumbled longingly in its throat but wouldn't come any closer, so the Blue Witch set the charcoal down and backed away. Only then did Mokutan creep toward the food. It snatched the charcoal in its mouth and darted straight back under the safe.
 
 Mokutan didn't show itself again. All she heard was the crisp crunch of charcoal from beneath the safe.
 
@@ -170,13 +170,13 @@ It was trying to focus magic power into both the Gremlin it was born with and th
 
 The Blue Witch thought for a moment.
 
-“Tsubaki. Try doing it like this.”
+“Tsubaki. How about trying it like this?”
 
 “Mi...?”
 
 Unable to just stand by and watch, she showed Tsubaki a form of magic-power control that seemed better suited to it. Tsubaki tilted its head, watched closely, and copied her at once. Its scattered magic power snapped into perfect focus.
 
-The Blue Witch stared.
+The Blue Witch's eyes widened.
 
 Even the strongest member of the Tokyo Witches' Council couldn't hide her surprise. Tsubaki was smart enough to understand that it should copy her example, and getting it right immediately took pure talent.
 
@@ -194,9 +194,9 @@ With a sharp cry, Tsubaki breathed fire at the startled Blue Witch, the wand sti
 
 Tsubaki froze in shock as pure-white ash trickled from its mouth.
 
-The Blue Witch clutched her head.
+The Blue Witch clutched her head too.
 
-She had overlooked the obvious. Except for the core, the wand was made of wood. Of course it would burn if Tsubaki breathed fire with it in its mouth. A fire salamander's flames would turn it to ash in an instant. It should have been obvious, but she hadn't thought that far ahead.
+She had stepped straight into an obvious pitfall. Except for the core, the wand was made of wood. Of course it would burn if Tsubaki breathed fire with it in its mouth. A fire salamander's flames would turn it to ash in an instant. It should have been obvious, but she hadn't thought that far ahead.
 
 Between hating herself for being so stupid and feeling awful for Tsubaki after it burned Ori's present, her chest ached.
 
@@ -204,7 +204,7 @@ Between hating herself for being so stupid and feeling awful for Tsubaki after i
 
 “...”
 
-Tsubaki didn't react. It sat stunned, seemingly oblivious even to the Blue Witch beside it.
+Tsubaki didn't react. It was dazed with shock, seemingly oblivious even to the Blue Witch beside it.
 
 Unable to bear the awkwardness, the Blue Witch set the entire can of camellia oil in front of Tsubaki and hurried off.
 
@@ -216,9 +216,9 @@ She'd meant to help Ori by feeding the fire salamanders, but now she might have 
 
 Everyone, including the Blue Witch herself, agreed that she was the strongest witch, and she wielded the strongest wand. She could mow down every enemy in her path.
 
-But she was helpless against problems that couldn't be solved by defeating an enemy.
+But she was bad at dealing with problems that couldn't be solved by defeating an enemy.
 
-That helplessness had once left the Blue Witch deeply depressed, but now she wasn't nearly so pessimistic.
+That said, the Blue Witch had been down for a while because of that, but now she wasn't nearly so pessimistic.
 
 ![p284.jpg](images/p284.jpg)
 
@@ -284,7 +284,7 @@ Q2. The answer is ④.
 
 Magic-excitation acoustic appraisal exists. In its excited state, a mediating crystal's amplification ratio and sound absorption are in inverse proportion, which makes it possible to gauge the amplification ratio by ear.
 
-The heated-tourmaline adsorption method exists. Tourmaline is a mineral that generates a faint electric charge when heated. By observing how well a 0.01 g tourmaline disk, water-bathed to 100°C, adsorbs to a Gremlin, the amplification ratio can be measured.
+The heated-tourmaline adsorption method exists. Tourmaline is a mineral that generates a faint electric charge when heated. By observing how strongly a 0.01 g tourmaline disk heated to 100°C in a water bath adheres to a Gremlin, the amplification ratio can be measured.
 
 The magic-power manipulation sensing method exists. It is a rough estimate of the amplification ratio made through a Transcendent's senses, and it is the least precise of the known methods for measuring amplification ratio.
 
@@ -301,3 +301,23 @@ Q4. The answer is ③.
 Dragons, pouch sparrows, and shadow-lurking bats are all monsters that have spatial-storage belly pouches.
 
 The man-eating angel is a monster mutated from the clione (also called the angel of the drift ice), and its buccal cone is the tentacle it uses to catch prey. The man-eating angel does not have a spatial-storage belly pouch.
+
+## Afterword
+
+This is the number one afterword in Japan.
+
+No lie, and no exaggeration either. Why? Because I'm writing this at Cape Soya, the northernmost point in Japan, the country's number one spot for north. This is, without a doubt, Japan's number one (written the farthest north) afterword!
+
+If I could put my soul into my words, that soul would definitely be shivering and freezing. After all, I'm tap-tap-tapping away at my phone under a cold sky with a bitter wind howling, so it's not just my fingertips, my whole body won't stop shaking, and with the screen and my fingers both shaking like crazy, it's ridiculously hard to type. And maybe it's just me, but I feel like the other tourists are giving me suspicious looks.
+
+As I slowly draw my gaze back from the horizon of the vast sea spread out before me to the ground at my feet, I notice that the color of the water changes partway. Maybe it has to do with the depth, or maybe it's the viewing angle changing how the light scatters, but the distant sea looks blue, while the shallows up close look nearly black. A big whitecap pushes in from the blue sea into the black shallows, breaks apart, and splits off into squads that race for the shore. One or two of those individuals close in on the shore with smooth, quick movements, almost like living things, as if they were hiding some giant fish beneath them. But they don't make it, and vanish into the ripples. I see. I think I get what people who say “the sea is alive” saw, and what they were thinking.
+
+Then again, it might just be people forcing a phenomenon whose causes and patterns they can't grasp at first glance into the shape of something they already know. Well, scholarly analysis aside, it's a fun thing to imagine.
+
+That this afterword has had absolutely nothing to do with the novel so far is absolutely true, and I do feel a tiny bit sorry about it, but more than anything, I'm ridiculously proud of myself for going all the way out to Cape Soya just to write Japan's number one afterword.
+
+Dear readers, please do feel free to use “I once read the number one afterword in Japan” as material for a tall tale or two.
+
+Finally, I'd like to give special thanks to one lone seabird, name unknown, that skimmed low over the waves while I was writing this. And with that, I put down my pen.
+
+One day in January 2026 — Kurodome Hagane

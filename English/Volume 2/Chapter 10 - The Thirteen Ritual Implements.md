@@ -122,7 +122,7 @@ What to do... Talk about a luxury problem.
 
 I spent the whole night zoning out in front of the giant Gremlin, torn, but in the end I decided to use it for processing experiments.
 
-Decorating the workshop with it was tempting, but Tokyo Magic University was using theirs for research, and it spooked me a little to think I might fall behind on technique if I got too relaxed about my hobby. Professor Handa's research team was seriously no joke.
+Decorating the workshop with it was tempting, but Tokyo Magic University was using theirs for research, and it spooked me a little to think I might fall behind technologically if I got too relaxed about my hobby. Professor Handa's research team was seriously no joke.
 
 If both giant Gremlins had been mine, I could have displayed one and experimented on the other. Oh well, that's how it goes.
 
@@ -156,7 +156,7 @@ In that case, the magic-power cost got split between them.
 
 Let's take a case that had actually been tested and confirmed: the freezing-magic core spell “<ruby>Vaa-ra<rt>Freeze</rt></ruby>.”
 
-When twins held a Moebius ring Gremlin together and both said “<ruby>Vaa-ra<rt>Freeze</rt></ruby>” at the same moment, only one freezing beam came out, with the power and magic-power cost of a single casting by one person.
+When twins held a Moebius ring Gremlin together and both recited “<ruby>Vaa-ra<rt>Freeze</rt></ruby>” at the same moment, only one freezing beam came out, with the power and magic-power cost of a single casting by one person.
 
 However, the twins split that cost in half.
 
@@ -176,7 +176,7 @@ Very, very interesting.
 
 Magic that two people cast by matching their voices and combining their power! Cool as hell! And practical too!
 
-The catch was that their voices had to match perfectly.
+The catch was that their vocal quality had to match perfectly.
 
 Because of that restriction, only exceptions like twins, triplets, and the Hell Witch could use a “chorus.”
 
@@ -188,7 +188,7 @@ Unrelated people can't do a “chorus”?
 
 Only twins can do a “chorus”?
 
-Then I'll just make the Gremlins into twins!
+Then I'll make the Gremlins the twins instead!
 
 The Blue Witch had told me once, a long time ago, that all Gremlins were related, parent and child, born from an original magic stone.
 
@@ -198,7 +198,7 @@ Making twin Gremlins was simple.
 
 Carve several perfectly identical Moebius rings out of one giant Gremlin.
 
-The same finished piece, carved out of the same lump.
+Carve identical finished pieces out of the same lump.
 
 That should count as twins.
 
@@ -216,7 +216,7 @@ To get a 100% shape match, I worked slower than a snail, taking a ridiculous amo
 
 At one point I got a nosebleed from concentrating to the absolute limit, and before I knew it, my chin and lap were covered in blood.
 
-But thanks to that, I didn't make a single mistake, and I was sure the precision had hit the theoretical limit of what I could do.
+But thanks to that, I didn't make a single mistake, and I thought the precision had hit the theoretical limit of what I could do.
 
 If there was any error in the processing at all, it couldn't possibly be 1.0 micron or more.
 
@@ -226,7 +226,9 @@ After finishing the 12+1 Moebius rings, I slept like the dead for three whole da
 
 The processing was done. All that was left was the experiment: would they actually work the way I expected?
 
-A while later, the Blue Witch made it through the Lost Mist. She took one look at my face at the front door and frowned with worry. “Ori, aren't you looking a little worn out?”
+A while later, the Blue Witch made it through the Lost Mist. She took one look at my face at the front door and asked worriedly,
+
+“Ori, aren't you looking a little worn out?”
 
 “N... No? Probably?”
 
@@ -260,7 +262,7 @@ The Blue Witch nodded and aimed her Gremlin somewhere it couldn't possibly hit m
 
 I aimed mine somewhere it couldn't possibly hit the Blue Witch either.
 
-Then we cast the spell.
+Then we recited the spell.
 
 “One, two, three! ‘<ruby>Vaa-ra<rt>Freeze</rt></ruby>’!”
 
@@ -322,7 +324,7 @@ And the bit of ear I glimpsed between her mask and her hair had gone red. Maybe 
 
 I wasn't dense enough to actually think that.
 
-Oh, I could tell.
+Oh, I can tell.
 
 The Blue Witch had been embarrassed! So embarrassed her ears turned red!
 

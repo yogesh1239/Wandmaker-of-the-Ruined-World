@@ -108,3 +108,29 @@ Kept the short story conversational, tactful where the source is tactful, and bl
 - **好きな女を取った男を好きになれるはずもない** (OCR line 19): changed “loved” back to “liked” to keep the 好き echo with the title — accuracy
 - **ハンティングトロフィーが厳かに飾られた** (OCR line 9): restored “solemnly displayed” — accuracy
 - Checks: `check_reedit.py` RESULT: PASS (FLOW ok; mean words/sentence 14.0 → 12.7); `check_consistency.py --glossary glossary.md` on the file exit 0.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 66 reviewed, 5 flagged. Round 1: 1 conceded, 1 pushed back, 3 countered. Codex after round 1: 1 withdrew, 3 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 4 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — "needed a very serious reason to quit" read as a requirement; restated as Okyaku's inference (思っているようだ)
+  - Final text: "<ruby>Okyaku<rt>Great Wolf</rt></ruby> seemed to think someone as capable as Murakumo would only quit for a very serious reason."
+- **F2** — APPLIED — accuracy — restored この魔力量 (this amount of magic power), dropped by both OLD and NEW
+  - Final text: "“That's right. Of course, with this much magic power, I intend to keep contributing to Tohoku, but I'd like to avoid dangerous work.”"
+- **F3** — KEPT — tense — Codex withdrew
+  - Why kept: 自分 + 欲しい/ありたい is third-person free-indirect narration in this story (direct thought is marked by 俺…と思いながら at the end); switching to "I/Let me" mid-passage would break person and tense.
+- **F4** — APPLIED — mechanics — quoted the hypothetical boast (JP 「」) so the sentence parses
+  - Final text: "Screaming his ugly jealousy at <ruby>Okyaku<rt>Great Wolf</rt></ruby> would be too pathetic. <ruby>Okyaku<rt>Great Wolf</rt></ruby> needed to stop getting on his nerves before some self-important line like “I saved you from Daidarabocchi's clutches, you know” burst out of his mouth."
+- **F5** — APPLIED — accuracy — restored the 顔/顔 parallel; also restored なってしまった (change of state), which Codex's FIX had missed
+  - Final text: "His desire to see <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s face, even if only now and then, had grown far stronger than his desire not to see <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s."
+
+Checks: check_reedit RESULT: PASS (no WARNs); normalize_romaji --check clean (macrons 0->0); check_consistency --all "English/Volume 3" clean (exit 0).
+
+Reference flags: none. Note for the lead: EN line 95 (unchanged, outside scope) renders a 「」 hypothetical outburst unquoted ("yell, Don't brag about stealing her away! I'll deck you!"), while line 105 is now quoted; harmonize if you want one convention for 「」-marked imagined speech.
+
+### Lead Fixes (series rulings)
+- The outburst is quoted as speech: “Don't brag about stealing her away! I'll deck you!”

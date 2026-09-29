@@ -153,3 +153,22 @@
 ### Formatting Confirmed
 - Audited all filed English Markdown in Volumes 1–3 and Volume 4 Chapters 1–7 against the corresponding split JP sources; Volume 4 Chapter 8 onward was excluded.
 - Updated `glossary.md`, aligned affected drafts, and retained separate ruby spans for multi-span incantations.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–466 (`reedit-c7-s1`); subagent model Claude Opus; 120 changed paragraphs). Flow: short-sentence share 9.8% -> 7.7%; runs 0 -> 0; FLOW: ok (baseline not choppy). Codex critique: 120 changes reviewed, 10 flagged; F1–F3, F5, F7, F8 accepted; F4, F6, F9, F10 fixed with lead rewordings.
+
+### Accuracy Fixes
+- **魔法暴走 (JP 220)**: "a magic-rampage spell" → "runaway magic" (phenomenon, not the spell) — glossary
+- **全員魔石持ちだという / 丸ごと更地にされる恐れがあるという / 亡き夫のものだという**: hearsay restored — accuracy
+- **貴女が。貴女が廃墟なんかを守っているせいで**: added "You did this." removed — accuracy
+- **私としては慧ちゃんさえ助かれば……**: echo with Nanase's later quote restored — accuracy
+- **最悪文京区を更地にすると聞いていた**: "might raze" → "would raze" — accuracy
+- **母子家族…その息子らしき少年**: contradiction removed ("A mother and child… the boy, apparently her son") — accuracy
+- **途端に**: restored ("At once") — accuracy
+
+### Register and Flow
+Baseline not choppy. Kept flat one-liners "Honestly, they weren't very dependable." and "The situation was still serious." Hiyori takes contractions per her voice samples; Nanase stays polite and uncontracted.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 7` ALL PASS.

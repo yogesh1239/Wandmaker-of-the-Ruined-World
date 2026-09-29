@@ -50,7 +50,7 @@ Was there anything sad about what I'd just said? She was a hard one to figure ou
 
 I made three pickled-plum rice balls, set out some pickled daikon and brown-rice tea to go with them, and was putting charcoal in the kotatsu[^1] when the Blue Witch showed up with snow in her hair.
 
-It must have been cold out there, but her black coat hung open in front, and her thighs were completely bare. Yikes, I was getting cold just looking at her.
+It must have been cold out there, but her black coat hung open in front, and her thighs were completely bare. Yikes, I'm getting cold just looking at her.
 
 “Hey. Aren't you cold in that?”
 
@@ -80,7 +80,7 @@ We both tilted our heads.
 
 Fantasy, once pure make-believe, had become real along with the catastrophe. That changed where fantasy-driven games, manga, and card games stood too.
 
-Then again, chefs probably read cooking manga too. Having the real thing around didn't stop people from loving the made-up version.
+Then again, chefs probably read cooking manga too. Having the real thing around doesn't stop people from loving the made-up version.
 
 “Is there anything that got more fun after the world changed? Besides making magic wands.”
 
@@ -92,7 +92,7 @@ The Blue Witch gathered up the cards scattered over the table and put them away,
 
 “Ahh.”
 
-I pictured the Lovely Stoat Professor (beast form) and nodded deeply. True.
+I pictured the lovely stoat professor (beast form) and nodded deeply. True.
 
 Professor Ohinata wasn't a monster, but she was, without question, a blessing the Gremlin Disaster had brought the world: cuteness incarnate. Wasn't her turning back into a human a loss for all humanity?
 
@@ -122,9 +122,11 @@ We headed out together into a silver world under a thin layer of snow.
 
 We ambled along the snowy road by the Tama River, but there were fewer creatures around than I'd expected. It was winter, so that was only natural, but maybe because I had a stupidly strong creature walking right next to me, the animals seemed even scarcer than usual.
 
-My breath trailed away white, while the Blue Witch's had no color at all. Little things like that reminded me that even though she looked human, she wasn't.
+My breath trailed away white, while the Blue Witch's had no color at all. Little things like that reminded me that even though she looked human, she wasn't human after all.
 
-After we'd walked for a while, the Blue Witch murmured, “...It really is peaceful around here. It's all weak monsters. Nothing comes at me when it sees me.”
+After we'd walked for a while, the Blue Witch murmured.
+
+“...It really is peaceful around here. It's all weak monsters. Nothing comes at me when it sees me.”
 
 “Yeah, pretty much. No clue if it's the area or what, but the only things that show up are weak enough for Hendensho to chase off.”
 
@@ -200,11 +202,11 @@ It depended on the material, but somewhere between a few days and a month at mos
 
 Bones as strong as steel turned into ordinary bones, and dazzling feathers lost their shine and became plain old feathers.
 
-Risk your life to kill a monster, and you couldn't eat the meat, and the rest of the materials soon deteriorated into junk. It wasn't worth it at all.
+Even if you risked your life to kill a monster, you couldn't eat its meat, and the rest of the materials soon deteriorated into junk. It wasn't worth it at all.
 
 I got sick of listening to the Blue Witch rattle off “Everything Wrong with Monster Materials!”
 
-They were pests when they were alive, and killing them got you nothing. Monsters were a total lost cause, man.
+They're pests while they're alive, and killing them gets you nothing. Monsters are a total lost cause, man.
 
 “So there's no upside to killing monsters at all...”
 
@@ -216,7 +218,7 @@ Confused, I pointed at myself, and the Blue Witch gave a little smile.
 
 “Out of all the materials you can get from monsters, only Gremlins don't deteriorate with time. They were too hard to process to be any use, but you, Ori, can process them. Only you can. You can draw out their performance and turn them into magic wands.”
 
-“Oh! No, yeah, you're right. That's exactly it. That giant frozen kaiju you killed—once it's done thawing, we can probably pull a fucking huge Gremlin out of it. Let's take down strong monsters left and right and rake in big Gremlins! We'll make wands like crazy!”
+“Oh! No, yeah, you're right. That's exactly it. That giant frozen kaiju you killed—once it's done thawing, we can probably pull a fucking huge Gremlin out of it. Let's take down strong monsters left and right and rake in big Gremlins! We'll make magic wands like crazy!”
 
 “And we're the ones who'd be risking our lives fighting monsters for that.”
 
@@ -228,7 +230,7 @@ Monsters had things to offer, but they just weren't worth the risk.
 
 That was the whole point.
 
-For the sake of the people putting their lives on the line against monsters, I needed to make even higher-performance magic wands.
+For the sake of the people putting their lives on the line against monsters, I need to make even higher-performance magic wands.
 
 Make better wands.
 
@@ -252,13 +254,13 @@ We still hadn't found the cute monster the Blue Witch was after.
 
 “I want to pet it, but it runs if I get too close. So I just watch.”
 
-The Blue Witch flexed her fingers longingly and sighed.
+The Blue Witch opened and closed both hands longingly and sighed.
 
-She really was into animals. I could understand liking stoats, but were wolves actually cute...? I'd call them cool, if anything.
+She's really into animals. I get liking stoats, but are wolves actually cute...? I'd call them cool, if anything.
 
-We walked along the shore of Lake Okutama for a while, but there was no sign of the white wolf. The most we found was a turtle monster with an absurdly long neck, swimming in the lake as the cold wind whipped up little waves. Several baby turtles were perched on its huge shell, a good 2 m across, looking this way and that, which was kind of funny. A parent and its kids, maybe?
+We walked along the shore of Lake Okutama for a while, but there was no sign of the white wolf. The most we found was a turtle monster with an absurdly long neck, swimming in the lake as the cold wind whipped up little waves. Several small turtles were perched on its huge shell, a good 2 m across, looking this way and that, which was kind of funny. A parent and its kids, maybe?
 
-I wished monsters would stop reminding me that they weren't unknowable horrors but living creatures doing their best to get by day to day. It just made them harder to kill, you know?
+I wish monsters would stop reminding me that they aren't unknowable horrors but living creatures doing their best to get by day to day. It just makes them harder to kill, you know?
 
 As we walked, chatting now and then, the sun sank lower and the air got colder. The falling snowflakes grew bigger and heavier, and it started to feel like time to call it a day.
 
@@ -268,7 +270,7 @@ As we walked, chatting now and then, the sun sank lower and the air got colder. 
 
 “Really? Ah!?”
 
-I'd been staring blankly at the strip where the road met the mountainside, wondering whether to just leave the Blue Witch and head home alone, when I spotted something incredible and yelled out loud.
+I'd been staring blankly at the strip where the road met the mountainside, wondering whether to just leave the Blue Witch and head home alone, when I spotted something incredible and couldn't help yelling.
 
 Footprints.
 
@@ -318,7 +320,9 @@ This could be the discovery of a new species with a huge impact on both monster 
 
 The giant footprints threaded between the trees, deeper and deeper into the mountains. They were pressed so deep into the snow that there was no losing them.
 
-The Blue Witch took the lead, following the tracks. She looked back, waited for me to catch up, and asked, “So what'll you do if the thing at the end of these tracks is just a regular old guy with ridiculously huge feet?”
+The Blue Witch took the lead, following the tracks. She looked back, waited for me to catch up, and asked.
+
+“So what'll you do if the thing at the end of these tracks is just a regular old guy with ridiculously huge feet?”
 
 “That'd be fine too. A guy with 40 cm feet walking barefoot through snowy mountains like these? That'd be pretty hilarious.”
 
@@ -338,7 +342,7 @@ What appeared in front of us as we pushed through the snowy mountains was a troo
 
 They were up in the branches of a huge tree, bare of leaves and capped with snow.
 
-And the agitated troop was shrieking kee-kee over and over, threatening a huge creature at the foot of the tree.
+And the hostile troop was shrieking kee-kee over and over, threatening a huge creature at the foot of the tree.
 
 “Hey, Ori. Look over there.”
 
@@ -378,11 +382,11 @@ It didn't look like its companions anymore, but it still tried to rejoin the tro
 
 S-So sad. Could a monster get any sadder than this?
 
-Don't do this to me. I'm the kind of guy who watches some cheap animal documentary and bawls his eyes out over it. Even if it was a hairy, smelly, giant monkey, seeing it that sad made my chest ache.
+Don't do this to me. I'm the kind of guy who watches some cheap animal documentary and bawls his eyes out over it. Even if it is a hairy, smelly, giant monkey, seeing it that sad makes my chest ache.
 
 “...Maybe I'm one of the lucky ones. I'm not human anymore, but I still get to live in human society.”
 
-“Oooof, heavy. There's a nasty amount of real feeling in that.”
+“Oooof, heavy. That's got way too much firsthand experience behind it.”
 
 The Blue Witch was hurting too, just in a different way from me.
 
@@ -420,7 +424,7 @@ What? The Blue Witch is unfamiliar with symbiosis? You were a high school girl, 
 
 “Symbiosis is when living things of different species live together and affect each other. If both sides benefit, that's mutualism. If only one side benefits, that's commensalism. If one side benefits and makes the other suffer, that's parasitism. Judging by what we just saw, the white wolf was helping Bigfoot, so at the very least it wasn't parasitism, and—”
 
-“Wait, wait, wait. I know what symbiosis is. That's not it. That's not what I mean—why do you always try to make things so complicated? Those two were friends. That's all there is to it.”
+“Wait, wait, wait. I know what symbiosis is. That's not it. That's not what I mean—why do you try to make things so complicated? Those two were friends. That's all you need to know, right?”
 
 “Huh?”
 

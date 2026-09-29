@@ -26,7 +26,7 @@ That scared the hell out of me! If you're here, say so! Why are you staring at m
 
 The Blue Witch nodded as if to say, "Right?"
 
-Well, yeah, but still.
+Well, yeah, but still?
 
 Maybe it was because the mask hid half her face, but seeing the Blue Witch had stopped being so scary.
 
@@ -74,7 +74,7 @@ She said it like something bad had happened, and I tilted my head.
 
 The whole deal was supposed to be that I made the magic wands and the Blue Witch advertised and sold them.
 
-If she'd used Cyanos to take down a giant kaiju attacking Tokyo that flashily, I was all for it. Perfect advertising!
+If she'd used Cyanos to take down a giant kaiju attacking Tokyo so spectacularly, I was all for it. Perfect advertising!
 
 The Blue Witch sighed at my confusion.
 
@@ -178,13 +178,13 @@ I did my best to talk the Blue Witch around for the sake of my own desires, but 
 
 The Blue Witch reluctantly nodded and gave a noncommittal answer.
 
-"Fine. If I find someone worth selling to, I'll sell."
+"Fine. If I find someone I'm okay selling to, I'll sell."
 
 "That's like saying, 'I'll come if I can make it.'"
 
-She was totally never going to sell any.
+She's totally never going to sell any.
 
-This is hopeless. Not a single wand is going to sell.
+This is hopeless. Doesn't look like a single wand is going to sell.
 
 Guess I'll give up for now and wait, however long it takes, for the Blue Witch to change her mind.
 
@@ -202,9 +202,9 @@ I was nodding to myself, having settled the whole thing in my own head, when the
 
 "Ugh."
 
-The Blue Witch sheepishly held out Cyanos, and it was cracked all to pieces. Spectacularly.
+The Blue Witch sheepishly held out Cyanos, and it was cracked all over. Spectacularly.
 
-I'd noticed she was kind of holding Cyanos behind her back, like she was hiding it, but it was in this state?
+I'd noticed she was kind of holding Cyanos behind her back, like she was hiding it, but had it really gotten this bad?
 
 "Sorry. I thought I was taking good care of it, but..."
 
@@ -294,7 +294,7 @@ With that, the Blue Witch dumped a clattering pile of Gremlins out of her pouch 
 
 Yikes. Is this woman for real? She hunted this many monsters in an hour? Apparently witches are way bigger monsters than I thought.
 
-While I stood there, impressed and terrified at once, the Blue Witch eyed the Cyanos in my hand suspiciously.
+While I stood there, impressed and terrified at once, the Blue Witch eyed Cyanos in my hand suspiciously.
 
 "Was that just a quick patch job? Glue or something?"
 
@@ -314,6 +314,6 @@ After a good while of being alternately exasperated and impressed, the Blue Witc
 
 Hmm. I've never actually seen a witch fight. If I get the Blue Witch's view from the field—how the wand feels in use, her feedback—I'll probably find improvements I can't see from a craftsman's side of things.
 
-From now on, I'll have her let me do regular maintenance checks.
+From now on, I'll ask her to let me do regular maintenance checks.
 
 I've got to keep honing my skills so I can make even more amazing magic wands.

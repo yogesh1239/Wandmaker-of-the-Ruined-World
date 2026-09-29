@@ -211,3 +211,48 @@ Shirokarasu's blunt, controlled authority and the rough underworld dialogue stay
 - **入れ違いに様子を見に来た部下** (JP 616): "Another subordinate arrived" → "As Moeka left, a subordinate came down" — accuracy
 - **(file-wide)**: apostrophes normalized to curly ’ to match the baseline majority (baseline 52 ’ vs 44 '; after pass 27 ’ vs 80 '; now 108 ’, 0 '); double quotes were already all curly (90 “/”, 0 straight) — mechanics
 - `check_reedit.py` RESULT: PASS (word-count warning 4871 → 4481, −8.0%, reviewed); `run_chapter_gates.py --unit 3 --chapter 5` RESULT: ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 156 reviewed, 16 flagged. Round 1: 11 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 3 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 16 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — 反社会勢力 → "organized crime"
+  - Final text: "Someone—probably the Foresight Mage, one of the Transcendents—was quietly eliminating organized crime with terrifying efficiency."
+- **F2** — APPLIED — voice — 社会性あふれる統治 restored as the NEET social-skills punchline (my counter; Codex accepted)
+  - Final text: "No one could expect a NEET to govern with anything resembling social skills."
+- **F3** — APPLIED — accuracy — ある日の事 no longer reads as "the day after" (my counter; Codex accepted)
+  - Final text: "It was a day sometime after the mushroom pandemic had passed, when the cherry blossoms had all fallen and the trees had begun putting out thick green leaves."
+- **F4** — APPLIED — glossary — 魔法火 → "magical fire"
+  - Final text: "In the bright glow of a lantern lit with magical fire, <ruby>Shirokarasu<rt>White Crow</rt></ruby> set her half-smoked cigarette in the ashtray and examined the wand on the table closely through a loupe."
+- **F5** — APPLIED — glossary — bare 魔法大学 → "Magic University"
+  - Final text: "When Magic University opened, the mysterious Wand Maker rumored to exist ever since Cyanos appeared began releasing mass-produced wands to the public."
+- **F6** — APPLIED — accuracy — 高まった "rose" not "soared"; 同時に restored
+  - Final text: "As the 25-model became obsolete, demand for the 26-model rose."
+- **F7** — APPLIED — mechanics — American spelling
+  - Final text: "When the wand’s value crashed, the sizable investment in acquiring that 27-model left them deep in the red."
+- **F8** — APPLIED — accuracy — 頼られ "relied on", not "trusted"
+  - Final text: "0933 was under the Blue Witch’s protection, had ties to the president of Tokyo Magic University, was someone the Foresight Mage relied on, and had powerful connections to the Flower Witch."
+- **F9** — APPLIED — tense — 送るべきか kept as a direct question
+  - Final text: "Should she send more people to get the information before the official announcement? There had also been a tip that a plan to issue currency and end rationing was moving ahead, and that needed checking too. She had a lot to think about."
+- **F10** — APPLIED — accuracy — unsupported "He" for the ungendered greenhorn (my counter: pronoun only; Codex accepted)
+  - Final text: "Well, the greenhorn had made a mistake. It was like a puppy bringing back trash in its mouth and thinking it was treasure. A little discipline would be enough."
+- **F11** — APPLIED — accuracy — 不意に restored
+  - Final text: "As <ruby>Shirokarasu<rt>White Crow</rt></ruby> smoked and wrote out her orders, someone suddenly knocked on one of the two basement doors—the one leading upstairs."
+- **F12** — APPLIED — accuracy — 努めようとした is an attempt
+  - Final text: "<ruby>Shirokarasu<rt>White Crow</rt></ruby> took a deep breath and tried to assess the situation. There was still hope."
+- **F13** — APPLIED — glossary — bare 魔女集会 (JP line 430 confirmed)
+  - Final text: "The Witches’ Council was not one big happy family."
+- **F14** — APPLIED — glossary — bare 魔女集会 (JP line 454 confirmed)
+  - Final text: "Then she remembered that the regular Witches’ Council meeting was today."
+- **F15** — APPLIED — accuracy — 姉 "older sister"
+  - Final text: "“It means the Flame Heir Witch is going to come kill you in a rage because you stole her older sister’s precious wand. The Pebble Witch hates other witches interfering, but she won’t protect you from one who’s seriously pissed off.”"
+- **F16** — APPLIED — accuracy — 話が通じない is inability, not refusal; "just" added for あまりに (a nuance Codex also missed)
+  - Final text: "There was just no getting through to him."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: one "chant" remains in the file, in a sentence not touched here (the lead is normalizing these series-wide). F8: I added no hedge for the という hearsay because the preceding paragraph ("According to a source at the Bunkyo Ward Office…") already frames the list as reported.

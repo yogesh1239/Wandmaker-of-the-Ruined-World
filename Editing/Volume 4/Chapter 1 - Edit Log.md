@@ -207,3 +207,31 @@
 - All four `gaiji-0003.png` markers, the terminal `## Translator Notes`, and both paired footnotes are preserved.
 - `Gremlin grenade`, `black Gremlin`, Fuyo/`daughter plant`, and all named organizations were checked against the live glossary; Fuyo is not named in this source scope and was not inserted.
 - Narrative/direct-thought tense, fire-salamander pronouns, glossary forms, romanization, and the final `Why are you here!?` endpoint were verified.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (2 segments: s1 EN start–"Once I'm home…" / JP 1–497 (`reedit-c1-s1`); s2 EN scene break–end / JP 499–907 (`reedit-c1-s2`); subagent model Claude Opus; 202 changed paragraphs). Flow: short-sentence share 31.9% -> 29.8%; runs 11 -> 7; FLOW: ok. Codex critique (gpt-5.6-sol, read-only): 204 changes reviewed, 11 flagged; 8 accepted, 3 rejected (F2 ruby placement is source-correct; F9 verbless quip; F10 一カ月は is a minimum).
+
+### Accuracy Fixes
+- **JP 495 (帰ったらリハビリしながら…火蜥蜴[とかげ]の世話)**: untranslated line added: "Once I'm home, I'll have to do my rehab while looking after the <ruby>lizards<rt>fire salamanders</rt></ruby>…" — accuracy
+- **JP 55/58 (火蜥蜴[ペツト])**: ruby moved from Ori's reply to Hiyori's line, where the source has it — glossary
+- **だろうという話**: "apparently I could make delicate movements" → "he said I could probably make delicate movements" — accuracy (hedge)
+- **石矢先生**: "Doctor Ishiya" → "Ishiya-sensei" — address
+- **一カ月は**: "for a month" → "for at least a month" — accuracy
+- **というのだから恐ろしい**: hearsay restored ("And apparently this was after…") — accuracy
+- **最大でも丙１類**: "even the strongest monsters were only Class C-1" → "Class C-1 at most" — accuracy
+- **完全に復調したと思って良さそうだ / 迷いの霧は魔法の霧 / 話の次元が違う**: audit-era present narration → past — tense
+- **親の仇のように**: "like they had a personal grudge" → "like they'd murdered the salamanders' parents" — accuracy (idiom joke)
+- **愛嬌の塊**: "charm" (banned alias of amulet) → "one big bundle of adorable" — glossary
+
+### Register and Flow
+Kept runs: the opening dogs/cats setup, "It hurts. It hurts so bad. I'm gonna die.", "It was a human voice. / A young girl's, at that. / I was confused.", "Aha. I've got it. / … / Totally possible." オコジョ大先生 rendered "Great Stoat-sensei".
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 1` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- オコジョ大先生: "Great Stoat-sensei" → "O great Stoat-sensei" (mock-reverent address; glossary row added).
+- Spoken salamander cries: "Mee" forms normalized to "Mii" (series majority) in quoted cries.
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

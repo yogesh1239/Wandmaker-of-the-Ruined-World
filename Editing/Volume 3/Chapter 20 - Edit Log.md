@@ -60,3 +60,7 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 ### Lead Review (full change-by-change subagent review, 13 changes)
 - **その時々で最も適切と判断した場所** (JP 21): restored "at the time" to "whichever location they judge best at the time" — accuracy
 - **この時** (JP 24): restored the link to the rebuild with "During this rebuilding, up to 20 pouch sparrows..." — accuracy
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only): V3 Ch20 critique — 13 changes reviewed, 0 flagged. Nothing to debate; text unchanged.

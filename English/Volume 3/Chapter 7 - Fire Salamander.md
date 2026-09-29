@@ -10,7 +10,7 @@ Something was wrong with having only one proper academic institution. The broade
 
 Unless we at least restarted elementary education, it wouldn't be long before we were overrun with adults who couldn't even read, write, add, or subtract.
 
-More than four years had passed since the Gremlin Disaster, and compulsory education was still suspended. Families had to teach their own children, with only a few volunteer teachers holding open-air classes.
+More than four years had passed since the Gremlin Disaster, and compulsory education was still suspended. As things stood, education was left to each family, or at best to volunteer teachers holding open-air classes.
 
 Schools were supposed to reopen that summer, but the mushroom pandemic had killed the plan.
 
@@ -20,11 +20,11 @@ Still, none of that was something I could do anything about.
 
 I just had to do what I could: make magic wands and get on with my daily hunting and farming.
 
-A pleasant spring breeze made it perfect weather for work. The Blue Witch had shown an interest, so we planted rice together. At first, she rolled up the hem of her black coat and stepped gingerly into the mud, but she soon got used to it and planted faster than I did.
+A pleasant spring breeze made it perfect weather for work. The Blue Witch had shown an interest, so we planted rice together. At first, she rolled up the hem of her black coat and stepped gingerly into the mud, but she soon got used to it and planted more efficiently than I did.
 
 Witches really are built different. Her rows are a little sloppy, but I'll chalk that up to the difference in dexterity.
 
-We finished planting before noon, then sat together on a mat spread over the ridge between paddies and ate rice balls.
+We finished planting before noon, then sat together on a mat spread over the ridge between paddies and stuffed our faces with rice balls.
 
 Still chewing a salted rice ball, the Blue Witch held a hand beneath the kettle and said an incantation.
 
@@ -66,7 +66,7 @@ Okutama had been left mostly untouched for four years. Surprisingly, though, nat
 
 Houses near the mountains had vines crawling up their walls, lay half-buried by landslides, or had become dens for wild animals and reeked of piss and shit. Around the town office, though, the houses stood closer together and concrete roads surrounded them, so they'd held up better.
 
-Even there, weeds poked through cracks in the concrete and plenty of windows were broken. Small birds (or little bird monsters?) had even built nests on dead traffic lights, leaving the road below covered in white droppings.
+Even there, weeds poked through cracks in the concrete and plenty of windows were broken. Small birds (or little bird monsters?) had even managed to build nests on dead traffic lights, leaving the road below covered in white droppings.
 
 It had only been four years since the Gremlin Disaster, but four whole years all the same.
 
@@ -118,9 +118,9 @@ The Blue Witch sighed, held a hand out to keep me from stepping too far forward,
 
 There were three monsters inside.
 
-They were tiny lizards about the size of an index finger. Huddled together in a nest they'd made inside the refrigerator, they squeaked at us incessantly, trying to scare us off.
+They were tiny lizards about the size of an index finger. Huddled together in a nest they'd made inside the refrigerator, they kept up a constant meep-meep at us, trying to scare us off.
 
-Their scales were a vivid red like flames, and a tiny fire burned at the tip of each tail.
+Their bodies were a vivid red like flames, and a tiny fire burned at the tip of each tail.
 
 Fire salamanders.
 
@@ -130,9 +130,9 @@ Maybe they've got nothing to do with the Flame Witch. Maybe they're just lizards
 
 I picked up a scorched metal rod and used its tip to prod one of the fire salamanders onto its back.
 
-A blue Gremlin, almost the exact shade of the Blue Witch's personal color, clung to its chest.
+A blue Gremlin, very close to the Blue Witch's personal color, clung to its chest.
 
-Oh... Yep, definitely their love children.
+Oh... Without a doubt, these are the fruit of their love.
 
 No idea how it works. Did crossbreeding two species somehow turn them into lizards? Their coloring takes after Mom, but their Gremlins take after Mom (?).
 
@@ -180,7 +180,7 @@ And now I'm the one in trouble because of it!
 
 “No, it's not that bad... Threat-wise, they're probably at the lower end of Class B or the upper end of Class C.”
 
-I pulled the monster threat-level quick reference (third edition), issued by Tokyo Magic University's Department of Monster Studies, from my back pocket. While the fire salamanders kept squeaking threats at us, I checked their classification.
+I pulled the monster threat-level quick reference (third edition), issued by Tokyo Magic University's Department of Monster Studies, from my back pocket. While the fire salamanders were still going meep-meep at us, trying to scare us off, I looked up their classification.
 
 Class A-1... Cannot be defeated by one witch. Contact the Witches' Council and issue an emergency declaration.
 
@@ -232,7 +232,7 @@ Class C-4... Runs away when it sees humans. Harmless.
 
 The rod had been sooty but intact when I'd picked it up. Now the spot they'd hit was slightly melted and warped.
 
-Holy crap, their firepower is insane for something so tiny.
+Holy crap, their firepower is insane. And they're this tiny.
 
 Could you quit handing the executioner evidence when I'm trying to keep you off death row?
 
@@ -250,7 +250,7 @@ Could you quit handing the executioner evidence when I'm trying to keep you off 
 
 After nearly an hour of arguing with the Blue Witch, I somehow won the salamanders a stay of execution.
 
-The fire salamanders had built their nest by gathering and melting metal inside the refrigerator. There was even an iron wok mixed into it, which meant they could produce enough heat to melt iron.
+The fire salamanders had built their nest by gathering and melting metal inside the refrigerator. There was even an iron wok mixed into it, which suggested they could produce enough heat to melt iron.
 
 The black charcoal crumbs around their mouths suggested they ate charcoal.
 
@@ -260,7 +260,7 @@ If I trained them right, I'd be freed from the trouble of making charcoal and bu
 
 After hearing me out, the Blue Witch reluctantly went home on the condition that I stay away from the nest.
 
-We settled on her checking them every day and killing them immediately if they grew aggressive or their diet changed (meaning they turned carnivorous).
+Still, we settled on her checking on them every day and killing them immediately if she saw signs that they were growing ferocious or that their diet was changing (a switch to eating meat).
 
 Phew, that was close. For now, they're safe.
 
@@ -302,7 +302,7 @@ The fire salamanders newly born from her were, of course, juveniles.
 
 If the Flame Witch's species underwent complete metamorphosis, that would explain why parent and children looked nothing alike.
 
-At some point as they grew, the fire salamanders would surely enter a pupa-like form, then emerge as humanoid fire fairies.
+At some point as they grew, the fire salamanders would surely take on a pupa-like form, then emerge as humanoid fire fairies.
 
 Of course, this was all speculation based on dubious materials. They might simply look so weird because the Flame Witch had conceived them with the Blue Witch, a different species, causing some kind of hybrid bug.
 
@@ -314,7 +314,7 @@ The Blue Witch had told me not to go near them, but I was worried about them.
 
 The three fire salamanders were bursting with energy, scurrying around the burned-out site, tumbling through the ash together, and stuffing their little mouths with charcoal.
 
-They froze like statues when they noticed me watching from a distance. Once they saw I wasn't going to do anything, they slowly began to move and soon went right back to scurrying around.
+When they noticed me watching from a distance, they froze and stayed still as statues for a while. But when I didn't do anything, they slowly started moving, and soon they were scurrying around as lively as ever.
 
 Cute. I want to keep them.
 

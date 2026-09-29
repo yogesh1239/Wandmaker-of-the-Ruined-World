@@ -1,4 +1,4 @@
-The Blue Witch was recovering steadily after her brush with death, and now she was getting bored in bed. She was still as unsteady on her feet as a newborn fawn, but her head was clear and she didn't seem sleepy. She had nothing to do with herself.
+The Blue Witch was recovering steadily after her brush with death, and now she was getting bored in bed. She was still as unsteady on her feet as a newborn fawn, but her head was clear and she didn't seem sleepy. She didn't know what to do with herself.
 
 I'd cleared away the Blue Witch's rice porridge, clear soup, and small dish of pickled plum and was about to leave the room when she called me back.
 
@@ -28,7 +28,7 @@ I didn't think I was the best company for someone who was sick, but the Blue Wit
 
 I didn't really get it, but apparently just being there was enough.
 
-I just sat on the edge of the bed doing nothing, as she'd asked, but the Blue Witch seemed happy.
+I just sat on the edge of the bed doing nothing, as she'd asked, but the Blue Witch seemed to be in a good mood.
 
 What's this? Am I a therapy animal now? Like having a dog around to lower stress?
 
@@ -36,7 +36,7 @@ If it helped her recover, that was fine, but sitting there doing nothing was bor
 
 I pulled over some loose-leaf paper from the vanity and doodled to keep my hands busy. The Blue Witch leaned over to see what I was doing and exclaimed at my sketch of the stuffed toy on top of the closet.
 
-"Whoa, you're good. I mean, really good. It's practically a photograph. Did you graduate from art school?"
+"Whoa, you're good. Wait, you're really good, aren't you? It's practically a photograph. Did you graduate from art school?"
 
 "No, I studied science and engineering. I told you before that I'm good at realistic drawing. It's not hard at all."
 

@@ -140,3 +140,21 @@
 - Accuracy audit completed in source-line chunks 301–445 and 448–580, followed by one bounded polish pass in the same order.
 - Exact `ground`, `chain magic`, Monster Trap, Seven Wind-Instrument Ritual Implements, Freezing Javelin, ice-spear magic, turret balsam, names, honorifics, and locked incantations verified.
 - All three embedded `gaiji-0002.png` spell-image markers and final `![p142.jpg](images/p142.jpg)` preserved exactly; no source scene break added.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–581 (`reedit-c6-s1`); subagent model Claude Opus; 144 changed paragraphs). Flow: short-sentence share 23.6% -> 13.9%; runs 3 -> 0; FLOW: ok. Codex critique: 144 changes reviewed, 7 flagged; 6 accepted (F1/F3 restore present for Nanase's direct questions); rejected F6 (一瞬だけ…次の瞬間: "for just an instant" is right).
+
+### Accuracy Fixes
+- **出入り口に対人用バリケードを構築し、罠を設置します**: order → stated plan ("We will build…") — accuracy
+- **魔法大学 (×3)**: "Tokyo Magic University" → "Magic University" (source short form) — glossary
+- **吸い込まれ / 軽々 / 生き物として**: dropped nuance restored — accuracy
+- **人の域を超越してこその超越者**: こそ emphasis kept — accuracy
+- **東京の警備隊**: "security forces" → "security force" — glossary
+- **勝算があるというのか？… / なぜ学長の指示を遵守しないのか？…**: Nanase's question-marked direct thought in present — tense
+
+### Register and Flow
+Kept: "Without even using magic." and terse combat beats. Ohinata, Nanase, and Onigawara stay uncontracted in this crisis chapter.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 6` ALL PASS.

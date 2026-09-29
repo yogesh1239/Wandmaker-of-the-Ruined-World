@@ -24,7 +24,7 @@ If spending time with her eased the Blue Witch's heartache even a little, that m
 
 She thought of the Blue Witch as an older friend, but she would be lying if she said that, as an only child, she had never daydreamed about having a kind, beautiful big sister.
 
-In the living room, the Blue Witch cheerfully made the tea herself and cut the pumpkin pie, and the two of them ate it together. Once they had chatted a while and filled their stomachs, Ohinata brought up the first of the two things she had come about.
+In the living room, the Blue Witch cheerfully made the tea herself and cut the pumpkin pie, and the two of them ate it together. Once they had chatted a while and filled their stomachs, Ohinata brought up the first of the two things she had come to talk about.
 
 "By the way, Ao-san, there's something I'd like to talk over with you."
 
@@ -92,7 +92,7 @@ Smiling reassuringly, the Blue Witch looked so dashing and cool and beautiful th
 
 Then Ohinata noticed that the Blue Witch's smiling gaze had drifted to somewhere around her rear. Blushing, she let her tail droop; she had been swishing it back and forth without realizing.
 
-"Awu. S-Sorry. My tail doesn't listen to me. Ahem. So, the other thing I wanted to ask about is a personal problem. It's about a person."
+"Awu. S-Sorry. My tail doesn't listen to me. Ahem. So, the other thing I wanted to ask about is a personal problem I'm having with someone."
 
 "Is it Ori? Want me to tell him to knock off the letter-writing already and show his face?"
 
@@ -130,7 +130,7 @@ The two of them went back and forth for a while over what to do with the stalker
 
 Ohinata brought the Blue Witch back with her to Tokyo Magic University. It was Sunday, so there were no magic-linguistics lectures, but she had work to do in her lab. Her father had brought her up on linguistics, and she had been soaking it in as naturally as breathing since she was little, so for her, magic-linguistics research felt less like work and more like everyday life.
 
-The lab was a mess, with technical books and files overflowing the shelves and stacked high enough to block half the window. When Ohinata showed the Blue Witch in, the musty smell of old paper made her sneeze.
+The lab was a mess, with technical books and files overflowing the shelves and stacked high enough to block half the window. When Ohinata showed her in, the musty smell of old paper made the Blue Witch sneeze.
 
 "I heard you finished your research on the fertility-magic bypass incantation. What are you working on now?"
 
@@ -156,7 +156,7 @@ Crystal rain was basically hail that didn't melt even when it warmed up. Greenho
 
 Ohinata gave a wry smile at the Blue Witch's blunt disgust.
 
-The Gremlin Disaster had backed people who used to live peaceful lives into a corner and stripped away their slack. It had dragged out the not-so-normal parts of people who would have stayed perfectly normal in a peaceful world.
+The Gremlin Disaster had backed people who used to live peaceful lives into a corner and stripped them of any breathing room. It had dragged out the not-so-normal parts of people who would have stayed perfectly normal in a peaceful world.
 
 Since that day, a lot of people had gotten foul-mouthed, and a lot had latched on to strange ideas or developed lopsided views.
 
@@ -224,7 +224,9 @@ The stalker nodded, shaking all over. Up close, he turned out to be just an ordi
 
 His hair was a mess, and he was haggard and hollow-cheeked, his eyes sunken. But his clothes were clean, and he kept his gaze lowered like he had given up.
 
-Judging that he was at least in his right mind, Ohinata scampered right up to his face, got level with his eyes, and asked, "Um. You're the one who's been hanging around me for a while now, right? It's scary, so I'd like you to stop."
+Judging that he was at least in his right mind, Ohinata scampered right up to his face, got level with his eyes, and asked him,
+
+"Um. You're the one who's been hanging around me for a while now, right? It's scary, so I'd like you to stop."
 
 "I-I'm sorry..."
 
@@ -248,7 +250,7 @@ Ohinata cocked her head, and the Blue Witch and the stalker both let out a stran
 
 "But, but, you looked like Fu-chan. You looked just like Fu-chan...!"
 
-Some memory seemed to hit him, and the stalker broke down sobbing with no shame at all. With his nose running and his tears leaving dark spots on the asphalt, he didn't look like he was acting in the slightest. He had to mean every word.
+The stalker remembered something and broke down sobbing his heart out. With his nose running and his tears leaving dark spots on the asphalt, he didn't look like he was acting in the slightest. He had to mean every word.
 
 "Pet loss..."
 
@@ -322,11 +324,11 @@ Then the stoat-ified stalker started yelling in excitement.
 
 Bursting with energy. As the stalker gleefully started chasing his own tail, the two of them recoiled in horror.
 
-Ohinata had always wanted the magic she researched to heal people's wounds and help them.
+Ohinata had wanted the magic she researched to heal people's wounds and help them.
 
 And her magic really had saved the stalker's heart. That was something to be happy about.
 
-But watching a grown man turned stoat spin in circles after his own tail, shrieking his obsessive love—words you couldn't say on TV included—in a full-blown emotional meltdown somehow didn't sit right with her.
+But watching a grown man turned stoat spin in circles after his own tail, shrieking his obsessive love—words you couldn't say on TV included—in a full-blown frenzy of excitement somehow didn't sit right with her.
 
 "N-Not cute. So he was a pervert with 100 times an ordinary person's magic power..."
 
@@ -368,7 +370,7 @@ Say I spend ten hours writing a novel, and eleven readers each spend an hour rea
 
 Unfortunately, I've forgotten that feeling.
 
-I can't understand how I felt back then anymore. I get the logic, but the emotion that used to well up from deep inside is gone. Sad.
+I no longer understand how I felt back then. I get the logic, but the emotion that used to well up from deep inside is gone. Sad.
 
 On the other hand, I've gained some new feelings too.
 
@@ -406,6 +408,6 @@ One day in August 2025 — Kurodome Hagane[^2]
 
 ## Translator Notes
 
-[^1]: The ambiguous character `蔡` can mean a divination tortoise, a weed, or the ancient state of Cai. Context does not establish the intended sense; “divination tortoise” is one possible dictionary sense used provisionally here while preserving the separate magic-language reading.
+[^1]: The ambiguous character 蔡 can mean a divination tortoise, a weed, or the ancient state of Cai. Context does not establish the intended sense; “divination tortoise” is one possible dictionary sense used provisionally here while preserving the separate magic-language reading.
 
 [^2]: **Reiwa 7:** The seventh year of Japan's Reiwa era, corresponding to 2025.

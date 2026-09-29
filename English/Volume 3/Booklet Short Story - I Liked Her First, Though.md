@@ -48,7 +48,7 @@ After lasting four whole years on Daidarabocchi watch duty, surely he could hand
 
 But Murakumo had submitted his resignation letter.
 
-<ruby>Okyaku<rt>Great Wolf</rt></ruby> seemed to assume someone as capable as Murakumo needed a very serious reason to quit.
+<ruby>Okyaku<rt>Great Wolf</rt></ruby> seemed to think someone as capable as Murakumo would only quit for a very serious reason.
 
 He was wrong.
 
@@ -82,7 +82,7 @@ Murakumo had chosen that answer because he figured it would keep <ruby>Okyaku<rt
 
 Murakumo seized on the misunderstanding and moved to end the conversation.
 
-“That's right. Of course, I intend to keep using my magic power to contribute to Tohoku, but I'd like to avoid dangerous work.”
+“That's right. Of course, with this much magic power, I intend to keep contributing to Tohoku, but I'd like to avoid dangerous work.”
 
 “I see. I understand the situation. Do you already have someone you're seeing?”
 
@@ -92,7 +92,7 @@ Murakumo seized on the misunderstanding and moved to end the conversation.
 
 “...That's very kind of you, but I'll have to decline.”
 
-Murakumo declined as tactfully as he could while howling inside. How good would it feel to grab <ruby>Okyaku<rt>Great Wolf</rt></ruby> by the collar and yell, Don't brag about stealing her away! I'll deck you!
+Murakumo declined as tactfully as he could while howling inside. How good would it feel to grab <ruby>Okyaku<rt>Great Wolf</rt></ruby> by the collar and yell, “Don't brag about stealing her away! I'll deck you!”
 
 He was going to lose his mind. <ruby>Okyaku<rt>Great Wolf</rt></ruby> had no idea Murakumo was heartbroken over his wife. He was only sincerely trying to keep an excellent employee from resigning.
 
@@ -102,7 +102,7 @@ He knew all that, but he still couldn't bear it.
 
 He'd lost at love. He'd lost as a man. Let him at least play it cool and lose with some dignity.
 
-Screaming his ugly jealousy at <ruby>Okyaku<rt>Great Wolf</rt></ruby> would be too pathetic. <ruby>Okyaku<rt>Great Wolf</rt></ruby> needed to stop getting on his nerves before some self-important line like I saved you from Daidarabocchi's clutches, you know, burst out of his mouth.
+Screaming his ugly jealousy at <ruby>Okyaku<rt>Great Wolf</rt></ruby> would be too pathetic. <ruby>Okyaku<rt>Great Wolf</rt></ruby> needed to stop getting on his nerves before some self-important line like “I saved you from Daidarabocchi's clutches, you know” burst out of his mouth.
 
 Murakumo took a deep breath, gathered up his last scraps of composure, and put on a calm face.
 
@@ -158,7 +158,7 @@ He could never forget her. <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s heart belonged
 
 He had no choice but to keep his feelings hidden forever and carry on this one-sided love.
 
-His desire to see <ruby>Iwatsura<rt>Rabbit</rt></ruby>, even if only now and then, far outweighed his desire to avoid <ruby>Okyaku<rt>Great Wolf</rt></ruby>.
+His desire to see <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s face, even if only now and then, had grown far stronger than his desire not to see <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s.
 
 “My conditions for staying are, first, that you not give me too many dangerous assignments. Second, even though I brought the subject up, that you stay out of my love life.”
 

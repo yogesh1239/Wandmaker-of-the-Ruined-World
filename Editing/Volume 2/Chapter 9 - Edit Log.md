@@ -180,3 +180,50 @@ Close-third on the **Hell Witch**. Dialogue-paragraph count 66 → 63 because th
 
 ### Formatting Confirmed
 - Ruby span, notes [^1]–[^3], and image markers unchanged; no backticks; `check_reedit.py` PASS; `run_chapter_gates.py --unit 2 --chapter 9` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 191 reviewed, 15 flagged. Round 1: 10 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 5 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 15 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore だろう on the first clause and きっと on the second
+  - Final text: "They probably had no way of knowing that witches existed. They surely didn't know about magic, either."
+- **F2** — APPLIED — accuracy — 圧をかける is intimidation, not an added "blast" image
+  - Final text: "It must have been pretty intimidating, but the girl only stared up at the Hell Witch with her mouth hanging open, without the least bit of wariness."
+- **F3** — APPLIED — accuracy — 渇水 = water shortage, 危惧 = worried
+  - Final text: "She'd worried the village was suffering a water shortage from the moment she set foot in it and saw how sickly the crops looked, and sure enough, she'd been right."
+- **F4** — APPLIED — mechanics — split merged narration/dialogue paragraphs
+  - Final text: "As the Hell Witch wondered how far she ought to stick her nose into the village's affairs, the girl poked her thick thigh and fidgeted." / "“Hey, onee-san. Will you play with me...?”"
+- **F5** — APPLIED — accuracy — Hell Witch is agent of both 生やして and 形作った (editor counter, accepted)
+  - Final text: "The Hell Witch put her hand to the ground and recited the incantation, making flowers sprout from under the fallen leaves and weaving them into a crown."
+- **F6** — APPLIED — accuracy — 食べちゃうぞ is a one-off threat
+  - Final text: "I'll eat bad kids who make grown-ups worry!!"
+- **F7** — APPLIED — mechanics — split merged paragraphs; "spoke up" for 尋ねてきた (editor counter, accepted)
+  - Final text: "As she carefully sized him up, the man hesitantly spoke up." / "“Are you... a yokai?”"
+- **F8** — APPLIED — accuracy — 重要施設 is not a superlative
+  - Final text: "...wanting to know about an important village facility."
+- **F9** — APPLIED — accuracy — あろうか estimate kept with size emphasis (editor counter, accepted)
+  - Final text: "It was a giant catfish that looked to be a good 5 m long."
+- **F10** — APPLIED — accuracy — べきだ = should; "dig up" keeps the 暴く echo with the corpse (editor counter, accepted)
+  - Final text: "Now that she'd come this far, she should dig up every last suspicious thing."
+- **F11** — APPLIED — mechanics — split merged paragraphs; restore 聞いた
+  - Final text: "The Hell Witch pointed to one corner of the sandbag wall and asked about the source of the dried-fish smell." / "“Whose grave is that!!?”"
+- **F12** — APPLIED — worse — reverted to OLD's clearer comparison
+  - Final text: "She ate human flesh, and human bones too. She could smell them. Her nose for humans was far keener than any human's."
+- **F13** — APPLIED — register — drop "laid bare"/"long since"; "dug up" echoes F10's 暴く (editor counter, accepted)
+  - Final text: "The Hell Witch dug up the buried body. It was nothing but bones, with tattered synthetic clothing still clinging to it, and from the scraps of fabric and the shape of the skeleton, she could tell it was a woman."
+- **F14** — APPLIED — accuracy — 稲穂 = heads of rice
+  - Final text: "The villagers cutting the scrawny heads of rice with their sickles had been just as scrawny themselves."
+- **F15** — APPLIED — accuracy — object of 殺さず is Ikegami
+  - Final text: "The Foresight Mage could have seen a future where things got better without killing Ikegami."
+
+Checks: check_reedit RESULT: PASS; gates ALL PASS.
+
+Reference flags: none
+
+## User Rulings — 2026-09-29
+
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

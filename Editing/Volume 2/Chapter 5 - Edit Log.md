@@ -96,3 +96,20 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - No notes section; ruby spans and image markers unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 5` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 85 reviewed, 2 flagged. Round 1: 1 conceded, 0 pushed back, 1 countered. Codex after round 1: 0 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 2 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — tense — bare 照れる。 has no direct-thought signal, so past; "blushing" also added a physical detail
+  - Final text: "That was embarrassing."
+- **F2** — APPLIED — accuracy — 安易に褒め合っていこう is reciprocal and facile; countered Codex's "casually praising each other"
+  - Final text: "But hey, let's keep patting each other on the back."
+
+Checks: check_reedit RESULT: PASS; gates ALL PASS.
+
+Reference flags: none

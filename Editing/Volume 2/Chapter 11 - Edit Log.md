@@ -154,3 +154,62 @@ Close third on **Dareda** throughout; no Ori voice. Lowercase "magic university"
 
 ### Formatting Confirmed
 - Three incantation ruby spans byte-identical; no notes; no backticks; `check_reedit.py` PASS; `run_chapter_gates.py --unit 2 --chapter 11` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 156 reviewed, 23 flagged. Round 1: 15 conceded, 3 pushed back, 5 countered. Codex after round 1: 3 withdrew, 5 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 20 changed, 3 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — bare 警備隊 → "security force" (Shibuya, not the Minato unit)
+  - Final text: "Dareda had evacuated to Shibuya Ward, the Eyeball Witch's territory. He kept working for the security force there and kept digging, and eventually he learned about something called Blue Wand Cyanos."
+- **F2** — KEPT — tense — question is narrator-framed free-indirect thought (そんな…期待を持ちたくなる), matching JP 85's handling at line 55
+  - Why kept: Codex withdrew; third-person past FID keeps one thought in one tense/person.
+- **F3** — APPLIED — glossary — bare 警備隊
+  - Final text: "Once, Dareda snuck a pair of binoculars out of the security force's supplies and went to scout Ome."
+- **F4** — APPLIED — accuracy — who looked through the binoculars; 自分の方 = "his way"
+  - Final text: "Then, through the binoculars, he saw her look his way, and he fled in a panic."
+- **F5** — APPLIED — glossary — bare 警備隊
+  - Final text: "Investigating the Blue Witch was too dangerous, so Dareda gave up and went back to his usual duties with the security force."
+- **F6** — APPLIED — glossary — 魔法大学 = "Magic University"
+  - Final text: "About half a year later, word went out across Tokyo that the Magic University was opening in Bunkyo Ward."
+- **F7** — APPLIED — glossary — 魔法大学 = "Magic University"
+  - Final text: "Magic University!"
+- **F8** — APPLIED — glossary — bare 警備隊
+  - Final text: "A guy who'd joined the security force at the same time as him, and who was definitely smarter than Dareda (he'd gone to a national university), had failed too."
+- **F9** — APPLIED — accuracy — それが魔石ともなれば keeps the pyrite link (editor counter, Codex accepted)
+  - Final text: "If it were a magic stone, it could surely grow into a fractal on its own."
+- **F10** — APPLIED — glossary — bare 警備隊
+  - Final text: "Dareda went for a professorship in the Department of Combat Studies on the strength of his experience in the security force, and for one in the Department of Monster Studies on the strength of the monster data he'd painstakingly compiled on his own."
+- **F11** — APPLIED — accuracy — 射撃術 does not specify a gun
+  - Final text: "The Combat Studies professorship went to a genius who wasn't just skilled at staff fighting and shooting, but had taught himself to copy a witch's magic and actually use it."
+- **F12** — APPLIED — accuracy — 電撃的に: dropped "one" strike, kept lightning image (editor counter, Codex accepted)
+  - Final text: "...would lead the charge, and they would seize the center of Minato Ward at lightning speed."
+- **F13** — APPLIED — glossary — 多層(化)加工 = "multilayer processing"
+  - Final text: "We did no internal multilayer processing, so that it can be upgraded as new processing techniques are discovered and developed."
+- **F14** — APPLIED — worse — restored OLD's tighter past/present/future line
+  - Final text: "It will make its battlefield debut in the present recapture of Minato Ward and be carried forward into the future."
+- **F15** — KEPT — glossary — JP is bare 呪殺 (the act), not the locked 呪殺魔法; "death curse" is not banned and matches V3 Ch11
+  - Why kept: Codex withdrew.
+- **F16** — APPLIED — accuracy — 素早く～向ける = quickly pointed
+  - Final text: "He shouted to get everyone under control as he quickly pointed blood wand Vampir at the beast mantises."
+- **F17** — KEPT — worse — "freak unlucky shot" is idiomatic and keeps both 馬鹿当たり and アンラッキー・ショット
+  - Why kept: Codex withdrew.
+- **F18** — APPLIED — worse — "stilled its many legs"; kept "literally rolled into its lap" (転がり込む windfall idiom made literal) (editor counter, Codex accepted)
+  - Final text: "The rainbow beast mantis stilled its many legs, cocked its head the way insects do, and eyed the wand that had literally rolled into its lap."
+- **F19** — APPLIED — accuracy — the near-madness is Dareda's, not "anyone"'s
+  - Final text: "The confusion and terror nearly drove Dareda out of his mind, and he thought he heard something snap inside his head."
+- **F20** — APPLIED — worse — 澄み渡る as a change of state (editor counter, Codex accepted)
+  - Final text: "In that instant, his mind cleared like never before."
+- **F21** — APPLIED — worse — deliberate 突き出し
+  - Final text: "The captain stuck his left hand out through the window and motioned for Dareda to hand it over."
+- **F22** — APPLIED — accuracy+glossary — 修めている = trained in; bare 警備隊
+  - Final text: "As a longtime shooter in the security force, Dareda had also trained in throwing."
+- **F23** — APPLIED — accuracy — 呪殺で周囲の安全を確保 without overstated targets
+  - Final text: "Just as planned, death-curse magic from the high ground secured the surrounding area."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

@@ -42,3 +42,21 @@
 - `![allcover-001.jpg](images/allcover-001.jpg)` preserved exactly.
 - The single kotatsu `[^1]` marker and matching note were retained under the cultural-term policy; one trailing `## Translator Notes` section only.
 - No source metadata or in-file title heading retained.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–141 (`reedit-c19-s1`); subagent model Claude Opus; 26 changed paragraphs). Flow: short-sentence share 32.5% -> 28.6%; runs 1 -> 0; FLOW: ok. Codex critique: 26 changes reviewed, 1 flagged; accepted.
+
+### Accuracy Fixes
+- **尻尾を振って**: "his tail" → "tail wagging" (Mokutan's gender is Unknown) — referent
+- **言葉が分からなくても気持ちは分かる**: direction fixed (Ori doesn't understand their cries) — accuracy
+- **あまりの暑さ / 堂々とした様子で**: nuance restored — accuracy
+- **冗談じゃねぇ。このままでは…蒸し焼きにされてしまう！**: one-tense direct thought in present — tense
+- **窓枠溶接されてるゥ！ / バタバタ**: the drawn-out ゥ and the flailing kept — sfx
+- **今夜のこの一杯**: "Tonight" restored — accuracy
+
+### Register and Flow
+Choppy desk-and-cans and door-escape sentences merged in source order.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 19` ALL PASS.

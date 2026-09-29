@@ -8,7 +8,7 @@ With a small vegetable patch, a well, delivery services (doorstep drop-off), and
 
 At first, I made money relisting things I'd repaired.
 
-If there was one thing I'd always had total confidence in, it was my skill with my hands, and just as I'd figured, every piece of junk I bought expecting to fix, I fixed.
+If there was one thing I'd always had total confidence in, it was my skill with my hands, and just as I'd figured, I fixed every piece of junk I bought thinking I could.
 
 I'd buy broken antique clocks, old mechanical dolls, rusted safes with lost keys, and the like for cheap, fix them up, repaint them, and relist them, which earned me just barely enough to live on.
 
@@ -22,7 +22,7 @@ Instead of buying broken goods, fixing them, and relisting them, I'd make origin
 
 I made all sorts of things—marquetry puzzle boxes, snow globes, artificial flowers, models—but what sold most reliably, and for the best prices, was replica weapons from popular anime.
 
-Anime were always featuring magic swords and mysterious wands, and the official rights holders would put out merchandise of them.
+Anime often featured magic swords and mysterious wands, and the official rights holders would put out merchandise based on them.
 
 But that merch often looked cheap and obviously toy-like, came in limited runs with only a handful available, cost too much, or took months to arrive after you ordered it.
 
@@ -76,7 +76,7 @@ My computer wouldn't start—no matter how many times I pressed the power button
 
 The sun had gone down and it was getting dark, so I went to turn on the lights, but they wouldn't come on. The power was out too.
 
-It struck me as more fishy than worrying.
+I was more suspicious than worried.
 
 The power's out...?
 
@@ -114,7 +114,7 @@ So first, I carved the rough stone into a sphere with a chisel and carving knive
 
 Then I crushed the chips I'd carved off, ground them down, and sifted them into a fine powder.
 
-Finally, I used that powder as an abrasive to polish the sphere, and I had a beautiful, glossy gemstone ball.
+Finally, I used that powder as an abrasive to polish it, and I had a beautiful, glossy spherical gem.
 
 There were all kinds of ways to cut gems, but given the rough stone's shape and properties, I decided a sphere was best.
 
@@ -138,9 +138,9 @@ So I'd be totally fine for at least another month.
 
 Still, it was starting to bug me.
 
-If the power still isn't back after seven days, it must have been a massive disaster.
+The power still wasn't back after seven days, which meant there must have been a massive disaster.
 
-I'd like to believe things are at least coming back in central Tokyo, but it'll probably be a while longer before the repair crews reach Okutama—technically part of Tokyo, but out in the sticks.
+I wanted to believe things were at least coming back in central Tokyo, but it would probably be a while longer before recovery efforts reached Okutama—technically part of Tokyo, but out in the sticks.
 
 I wonder what happened and what's going on out there. A localized earthquake? A tornado? It can't have been terrorism or a missile strike, can it?
 
@@ -148,9 +148,9 @@ I wanted to know how things stood—I really did—but leaving the house to find
 
 Buying a newspaper would mean the terrifying ordeal of facing a clerk at the register, and going into town to stop someone and ask what had happened would take more nerve than bungee jumping.
 
-I didn't want to meet anyone, and I didn't want to talk to anyone. That was the whole reason I lived quietly in a house by myself deep in the mountains.
+I didn't want to meet anyone, and I didn't want to talk to anyone. That was the whole reason I lived quietly in a house all by itself deep in the mountains.
 
-Well, I'm worried and a little uneasy, but it's probably nothing to get too serious about.
+Well, I'm worried and uneasy, but it's probably nothing to take too seriously.
 
 The electricity and internet have only been out for seven days.
 
@@ -204,7 +204,7 @@ Or at least, it was supposed to be.
 
 I went out into the backyard and nervously sang at Okutameteorite's natural frequency.
 
-Again, something like a white beam shot out, tore through the trees on the mountainside, and vanished into the distance.
+Again, something like a white beam shot out, streaked between the trees on the mountainside, and vanished into the distance.
 
 Huh!?
 
@@ -236,7 +236,7 @@ Swing a sword around and you use up stamina. Use your brain and you get mentally
 
 Using magic probably burns some kind of resource too... something you might as well call magic power.
 
-I must be tired right now because I've been spending magic power.
+That had to be why I was tired: I'd been using up magic power.
 
 Now things are getting interesting!
 
@@ -254,13 +254,13 @@ The water had been out for ages, and the gas had gone out the other day. In othe
 
 Luckily, I still had plenty of food, I could draw water from the old well, and as long as I gathered firewood in the mountains, I had no trouble making fires.
 
-But even this deep in the mountains, far from the city, could restoration really take this long?
+But even this deep in the mountains, far from central Tokyo, could restoration really take this long?
 
 How long did it take to recover from the Great East Japan Earthquake[^1] and the Noto Peninsula Earthquake[^2] again?
 
 Hmm. Something doesn't add up.
 
-What if the restoration work actually finished ages ago, and they just forgot my house by some mistake?
+What if the restoration work had actually finished ages ago, and my house was the only one that got forgotten through some mix-up?
 
 ...No, no. I've done nothing to deserve getting frozen out like that[^3].
 
@@ -302,13 +302,13 @@ How does something even break like this?
 
 Puzzled, I thought it over, and a hypothesis came to me.
 
-I opened up other pieces of junk and checked their power units, then pulled the batteries out of my flashlight and broke them open. I took apart my computer and refrigerator too.
+I took apart other pieces of junk to check their power units. I pulled the batteries out of my flashlight and took those apart. I took apart my computer and refrigerator too.
 
 And it turned out my hunch was right.
 
 In every electrical appliance I examined, crystals had grown out of the power supply and current-carrying parts and wrecked it from the inside.
 
-There's no way this freaky phenomenon only happened inside my house.
+There was no way this freaky phenomenon had only happened inside my house.
 
 I worked up the nerve to go out and walked to the public phone at the general store ten minutes away.
 
@@ -320,9 +320,9 @@ The streetlights, the vending machines, even an abandoned mini truck—every sin
 
 A chill ran down my spine, as if the peaceful everyday life I'd been living had suddenly turned into a horror story.
 
-This probably isn't limited to Okutama, because if it were only happening here, rescue teams would have shown up long ago.
+This probably wasn't limited to Okutama, because if it had only happened here, rescue teams would have shown up long ago.
 
-And since they haven't, this must be happening on a much bigger scale, with chaos so bad that rescue isn't even possible.
+And since they hadn't, this had to be happening on a much bigger scale, with chaos so bad that rescue wasn't even possible.
 
 All of Japan?
 
@@ -370,7 +370,7 @@ This crystal grows by eating electricity.
 
 In this changed world, rain clouds don't send down lightning anymore.
 
-They drop crystals instead.
+Now they drop crystals instead.
 
 If crystals have spread not just across the land where humanity thrives but into the sky itself, then this has to be happening all over the world.
 

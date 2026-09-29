@@ -55,3 +55,22 @@
 - `献体` remains explicit as living condemned prisoners used as lethal human specimens; it was not softened into postmortem donation.
 - Narrative/direct-thought tense, first-person Ori voice, semantic ruby, no-macron romanization, and the single culturally necessary bushido footnote were verified.
 - No source scene breaks or chapter images occur in the assigned lines; no title heading was added, and one terminal `## Translator Notes` section remains.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–356 (`reedit-c15-s1`); subagent model Claude Opus; 97 changed paragraphs). Flow: short-sentence share 20.5% -> 18.1%; runs 0 -> 0; FLOW: ok (baseline not choppy). Codex critique: 97 changes reviewed, 4 flagged; all 4 accepted.
+
+### Accuracy Fixes
+- **魔力欠乏失神 (×7)**: "magic-depletion fainting" → "magic-power-depletion fainting" — glossary (known issue)
+- **七本の杖を作って有り余っている金で**: mistranslation fixed (the seven wands were already made) — accuracy
+- **肥大化するのだそうだ / 増えていくだろう**: hearsay and hedge restored — accuracy
+- **各地の警備隊**: added "country" removed — accuracy
+- **実験室**: "experiment room", distinct from 研究室 — accuracy
+- **３～20日 / 24時間**: Arabic numerals kept for technical values — punct
+- **人の事言えないもんな / あり得ないぞ / 耐えられん / 考えてみよう**: marked direct thought → present — tense
+
+### Register and Flow
+Baseline not choppy. Kept "Magic power and Gremlins… / And electricity…", "A third… phenomenon!", and the mushroom-disease list.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 15` ALL PASS.

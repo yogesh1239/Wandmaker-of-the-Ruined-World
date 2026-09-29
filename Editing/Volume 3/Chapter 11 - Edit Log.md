@@ -142,3 +142,33 @@ Kept the casual-comedy ceiling, flat punchlines, honorifics, and unmarked direct
 - **とほざきながら** (JP 445): removed added “went around” → “the devil spouted that crap” — accuracy
 - **聖職者が言いそうな内容だし** (JP 457): “That's exactly what a cleric would say.” → “It sounds like something a cleric would say.” — accuracy
 - **魔石やグレムリンの加工は奥が深い** (JP 520): “There was an incredible amount to learn about” → “Working with magic stones and Gremlins had real depth.” — restores the 奥が深い／奥深い parallel — worse
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 129 reviewed, 8 flagged. Round 1: 4 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 4 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 8 changed, 0 kept as re-edited. (Plus 1 extra structural fix, below.)
+
+### Findings
+- **F1** — APPLIED — accuracy — burps compared to exhaust fumes again, not the salamanders to "little exhaust pipes"
+  - Final text: "All they did was let out burps like exhaust fumes."
+- **F2** — APPLIED — accuracy — 人型ではなく is about her form, not her species
+  - Final text: "If she was coming as a small, fluffy, adorable stoat rather than in human form, I had no reason to refuse."
+- **F3** — APPLIED — accuracy — professor title restored (counter: noun list instead of the lopsided verb list); also restored 更には, which NEW had dropped
+  - Final text: "She was president of Tokyo Magic University, a professor in the Department of Magic Linguistics, and on top of that an adviser to the Witches' Council."
+- **F4** — APPLIED — accuracy — 常に restored (counter: plainer than the FIX's "remained transformed")
+  - Final text: "Her default form was human, but she stayed a dragon all the time, so that became her title."
+- **F5** — APPLIED — accuracy — 改め is the narrator switching labels, so "formerly" was wrong
+  - Final text: "The Blue Witch—now Hiyori—had started grumbling, so I tugged her sleeve, caught the still-bouncing stoat in one hand, tucked her into my arms, and happily headed inside."
+- **F6** — APPLIED — accuracy — 和食 restored (counter: also restored よそった, and "fuss" became "over-the-top thrilled" for 大袈裟に喜び)
+  - Final text: "but the stoat was over-the-top thrilled, burying her face in the Japanese food I'd dished up on a little plate."
+- **F7** — APPLIED — voice — the うまかろう echo is back (counter: kept NEW's knife sentence; added "even" for だってある, which both versions had dropped)
+  - Final text: "Tasty, right? Tasty, right? ... and even left my teacher speechless."
+- **F8** — APPLIED — accuracy — やっぱ restored
+  - Final text: "“So you are usually busy after all.”"
+  - Final text: "Professor Ohinata's tail was sticking straight up, and she was a little tense. I gave her my answer." / "“It didn't feel bad. We can be friends.”"
+
+Checks: check_reedit RESULT: PASS (no WARNs after the split); gates ALL PASS.
+
+Reference flags: none

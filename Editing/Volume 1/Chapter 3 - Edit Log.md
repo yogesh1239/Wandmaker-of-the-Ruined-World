@@ -250,3 +250,105 @@ Naturalization re-edit of the filed chapter against the JP source in two segment
 
 ### Formatting Confirmed
 - Image markers, scene breaks, `[^1]` and its note unchanged; `check_reedit.py` PASS on both segment slices; `run_chapter_gates.py --unit 1 --chapter 3` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 306 reviewed, 41 flagged. Round 1: 20 conceded, 5 pushed back, 16 countered. Codex after round 1: 5 withdrew, 10 accepted, 0 maintained, 6 countered. Round 2: yes (accepted Codex's F14 and F25 counters; F16 and F38 re-countered and accepted by Codex; F19 and F31 pushed back and withdrawn by Codex).
+Final: 36 changed, 5 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore ようだ hedge
+  - Final text: "Sure enough, it looked like something bad had happened in town. Thank god I'd holed up deep in the mountains."
+- **F2** — APPLIED — tense — これはデカい。 has no signal
+  - Final text: "That was huge."
+- **F3** — APPLIED — accuracy — 感じさせる is an impression
+  - Final text: "She landed lightly, without the slightest wobble, in a way that hinted at inhuman physical abilities."
+- **F4** — KEPT — tense — intended utterance under と言おうとした
+  - Why kept: reported intended speech, not monologue; indirect speech keeps all content (Codex withdrew).
+- **F5** — APPLIED — accuracy — drop added "ma'am"
+  - Final text: "Okay, waiting. I'm smarter than a dog, so I can do "wait." Woof."
+- **F6** — APPLIED — glossary — "chanted" carries banned "chant"
+  - Final text: "I kept quiet as told so I wouldn't get on her bad side. Then, without hurrying, she raised Hendensho and recited an incantation."
+- **F7** — APPLIED — worse — smoother excited question
+  - Final text: "How'd you do that!? That was an incantation just now, right!?"
+- **F8** — KEPT — accuracy — のか。 is a realization
+  - Why kept: JP ends 駆逐してるのか with 。 against the next sentence's ？; statement form mirrors it (Codex withdrew).
+- **F9** — APPLIED — worse — 全般的に色々と
+  - Final text: ""If possible, I'd appreciate it if you could fill me in on a bit of everything, like you would a kid who doesn't know anything.""
+- **F10** — APPLIED — accuracy — 食い破って育った, restore 上手く
+  - Final text: "Most of the ones kept in aquariums were killed by Gremlins that ate through their insides as they grew, but a few managed to adapt."
+- **F11** — APPLIED — tense — ゾッとする話だ。
+  - Final text: "That was chilling."
+- **F12** — APPLIED — tense — 思える。
+  - Final text: "Still, listening to all this, it sounded like humanity's extinction was just a matter of time."
+- **F13** — APPLIED — accuracy — additive て, not causal
+  - Final text: ""...Um. You mean you can use magic and you're strong?""
+- **F14** — APPLIED — worse — 男女を合わせて呼ぶ時 (Codex's counter)
+  - Final text: "Men were mages, and witches and mages together were called Transcendents, the Blue Witch added, pouring herself more tea."
+- **F15** — APPLIED — accuracy — generic man-eating witches (JP 331 そういう魔女もいる)
+  - Final text: "...If I'd blundered into the territory of one of those man-eating witches she'd mentioned in passing, I'd be lunch by now."
+- **F16** — APPLIED — accuracy — carved, not inserted; keep 球の中に球 echo
+  - Final text: "You weren't satisfied with just making it spherical, so you carved a sphere inside the sphere!"
+- **F17** — APPLIED — accuracy — らしい hedge
+  - Final text: "The Blue Witch had apparently been through hell and back. If we kept going around in circles, she might decide I was a liar and kill me."
+- **F18** — APPLIED — accuracy — いちいち
+  - Final text: "Could you not threaten me every single time? It's scary."
+- **F19** — APPLIED — worse — transliterated sigh replaced, stacking kept
+  - Final text: "Sheesh, good grief. Guess it's up to me to step in, then."
+- **F20** — KEPT — accuracy — "From the look of the insides" carries どうやら/ようだった
+  - Why kept: evidential frame already present; adding "seemed to" doubles it (Codex withdrew).
+- **F21** — APPLIED — accuracy — ようだが hedge
+  - Final text: "It seemed to have taken a hit hard enough to warp the frame, but the mechanism was built with some clever play in it, so the parts had just popped loose instead of breaking. Hmmm. That's a useful trick, and I'm totally stealing it."
+- **F22** — APPLIED — register — "shortly" read as curt
+  - Final text: "I kept my ulterior motive hidden and buttered her up, and the Blue Witch answered briefly, looking deeply sad."
+- **F23** — APPLIED — mechanics — narration/dialogue paragraphs re-split; ハッと気付き unhedged
+  - Final text: "The Blue Witch started to nod, then suddenly realized something and hastily added:" / ""N-No lewd stuff!"" (separate paragraph)
+- **F24** — APPLIED — accuracy — 首を傾げ restored
+  - Final text: "I tilted my head at her weird overreaction, and it took me a beat to realize I'd given her a horribly wrong idea."
+- **F25** — APPLIED — tense — たぶん解けたと思う (Codex's counter)
+  - Final text: "I thought I'd probably cleared it up."
+- **F26** — APPLIED — accuracy — 魔法威力 is potency, not 魔力
+  - Final text: ""You saw that, right? That's how powerful this Gremlin's magic is right now. Next I'll process it into a sphere and show you how much stronger it gets.""
+- **F27** — APPLIED — tense — self-description, no signal
+  - Final text: "But dexterity was the one thing I had going for me."
+- **F28** — APPLIED — accuracy — 不十分
+  - Final text: "Even without proper tools, a few minutes' work left me with something I was really proud of."
+- **F29** — APPLIED — accuracy — 日本中の
+  - Final text: "> Ori, you should go into hiding. If this feat gets out, witches and mages all over Japan will come after you."
+- **F30** — APPLIED — glossary — overtechnology
+  - Final text: "Honestly, I want to crank out overtechnology magic wands only I can make, sell them by the truckload, and gloat."
+- **F31** — APPLIED — worse — "backslid"; present kept (inside ぞ/な？ monologue)
+  - Final text: "I'd never make it in a business world that's gone backward, where you have to do the legwork and the talking to sell anything."
+- **F32** — APPLIED — tense — reflective narration
+  - Final text: "Granted, when my conclusion after all that information was "best to keep living pretty much like before," the whole exchange felt kind of pointless. But at least I was free of the anxiety of having no clue what was going on around me."
+- **F33** — APPLIED — tense — also restores だろう and 至難; "the power" kept
+  - Final text: "My food problem had a solution in sight, and now that I knew the power wasn't coming back, it would probably be really hard to make my living conditions any better than they were."
+- **F34** — APPLIED — tense — 見える。 no signal
+  - Final text: "Now that I understood the situation, I could more or less see where my life was headed."
+- **F35** — APPLIED — accuracy — のか speculative, そうだ past
+  - Final text: "She seemed willing to go along with a few unreasonable requests, maybe because she thought fixing the music box was such a huge favor."
+- **F36** — APPLIED — mechanics — number words, keep １００％ emphasis
+  - Final text: "Truth was, even in my online-auction days, I hadn't managed to avoid people a hundred percent."
+- **F37** — APPLIED — tense — えっ!?/いや direct reaction
+  - Final text: "Huh!? Fairy-san!? Nah, this is definitely the Blue Witch's doing."
+- **F38** — APPLIED — accuracy — 加工が難しくなり
+  - Final text: "Around the fifth layer, the work got difficult with only the tools I had on hand. Half resigned to it being a lost cause, ..."
+- **F39** — KEPT — worse — "delivery service" as mass noun
+  - Why kept: grammatical mass use like "mail service" (Codex withdrew).
+- **F40** — APPLIED — accuracy — 見積書 is a time estimate
+  - Final text: "...by slipping a written estimate into the empty Tupperware when I left it outside to return it..."
+- **F41** — KEPT — worse — purpose infinitive "on display to admire"
+  - Why kept: grammatical, clean for 鑑賞用に; FIX doubled "just" (Codex withdrew).
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS (--unit 1 --chapter 3).
+
+Reference flags: none
+
+### Lead Fixes (series rulings)
+- 唱える: "chant" → "recite" (series ruling; V2–V4 never use "chant")
+
+## User Rulings — 2026-09-29
+
+- 凍る投げ槍[ドウ・ヴアアラー] (JP 04:193): "Freezing Javelin[^1]!" → `<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>` per glossary lock; the explanatory note [^1] and the now-empty Translator Notes section removed.

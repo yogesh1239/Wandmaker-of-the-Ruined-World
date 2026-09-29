@@ -6,7 +6,7 @@ But time had passed, and the chaos melted down in that crucible was cooling, har
 
 Humanity had entered its reconstruction phase, learning to ride the chaos flung everywhere and pull new things out of it.
 
-The two biggest symbols of that reconstruction were the defeat of the giant kaiju and the fertility-magic bypass incantation, which had headed off an unprecedented great famine. I was proud to have given magic wands to the witch and the stoat who pulled those off.
+Two events in particular had come to symbolize that reconstruction: the defeat of the giant kaiju, and the development of the fertility-magic bypass incantation, which had headed off an unprecedented great famine. I was proud to have given magic wands to the witch and the stoat who pulled those off.
 
 I'm an amazing Wand Maker. And that's not me being conceited.
 
@@ -32,7 +32,7 @@ Probably because you all want to protect different things? Not that I'd know.
 
 “Well, it'd be a huge help if you just dropped by now and then to check I'm okay. Don't worry about it so much. You showing up is what saved me this time, anyway. Actually, how'd you know I was locked up in the dragon's nest?”
 
-“I went over to share some apples, and your house was wrecked. There were dragon tracks out front, and your rice harvest had been dropped halfway through. I knew right away what had happened, so I rushed straight to that piece of trash's nest.”
+“I went over to share some apples, and your house was wrecked. There were dragon tracks out front, and your rice harvest had been abandoned halfway through. I knew right away what had happened, so I rushed straight to that piece of trash's nest.”
 
 “Makes sense.”
 
@@ -76,7 +76,7 @@ Hmm, do I really seem that oblivious to danger? I don't get it.
 
 I always carry Hendensho so I'm armed, I keep a compact first-aid kit with painkillers, disinfectant, and bandages in my pocket, I stay away from cliffs in the mountains, and I avoid the mountains and rivers the day after it rains. I'm actually being pretty careful here, you know.
 
-Maybe our sense of danger is just calibrated differently. I live a peaceful life in Okutama, where the monsters are far fewer and weaker than in other areas and there's no messy people drama, while she's apparently lived through some seriously tragic past.
+Maybe the Blue Witch's sense of danger and mine were just calibrated differently. I lived a peaceful life in Okutama, where the monsters were far fewer and weaker than in other areas and there was no messy people drama, while she'd apparently overcome some seriously tragic past.
 
 It hit me all over again how peaceful the Reiwa era[^1] had been. Then, as she'd told me, I locked up properly, threw a blue tarp over the broken wall as a stopgap, made a few odds and ends, ate dinner, and went to bed early instead of staying up late.
 
@@ -92,7 +92,7 @@ First things first, I waved the Blue Witch over and grilled her under my breath.
 
 “Are you screwing with me? Why'd you bring her? If there's something you need, we can do it by letter!”
 
-“So you can learn some defensive magic right now. You have a hard time picking up incantations when I send them written in phonetic symbols, don't you, Ori? Learning straight from Kei-chan is fastest.”
+“So you can learn some defensive magic you can use right away. You have a hard time picking up incantations when they're sent to you written in phonetic symbols, don't you, Ori? Learning straight from Kei-chan is fastest.”
 
 “Quit hitting me with facts.”
 
@@ -140,7 +140,7 @@ Aaaah! Scary! That right there is the problem: how organized she is, how she thi
 
 “Uh, okay, then, let's do it in the workshop again... No, wait, the workshop's wrecked right now. Is the living room okay for the lecture?”
 
-“Sure. Thanks for having me. Oh, and here, these are hash browns, made with new potatoes. Have them for dinner or something!”
+“Sure. Thanks for having me. Oh, and here, these are hash browns made with new potatoes. You could have them for dinner!”
 
 ![p018.jpg](images/p018.jpg)
 
@@ -182,7 +182,7 @@ If it's called suspended animation, I'm guessing you can't move, but for lying l
 
 “Got it. Then let's learn familiar-summoning magic. Um, so, the incantation goes like this.”
 
-On a blank sheet of loose-leaf, Professor Ohinata wrote out an ominous Japanese sentence in big letters, “<ruby>Yomohoroge Jyuya Taketatee Kunnu-mu Wa-a<rt>If it meant knowing my son was safe, I'd be willing to gouge out this eye</rt></ruby>,” added the pronunciation, and showed it to me.
+On a blank sheet of loose-leaf, Professor Ohinata wrote out an ominous Japanese sentence in big letters, “<ruby>Yomohoroge Juya Taketatee Kunnu-mu Wa-a<rt>If it meant knowing my son was safe, I'd be willing to gouge out this eye</rt></ruby>,” added the pronunciation, and showed it to me.
 
 Okay, that's scary.
 
@@ -196,7 +196,7 @@ What makes this magic special is that once you've cast it, the familiar stays ou
 
 “So it's basically a video call.”
 
-That's insane. Is she saying I can have my own communication device in a world where the power grid and communication networks got wiped out?
+That's insane. Is she saying I can have my own communication device in a world where electricity and communication networks got wiped out?
 
 Sick! From the sound of it, I could use it for recon too. All the information advantage I could ever want!
 
@@ -208,7 +208,7 @@ Sick! From the sound of it, I could use it for recon too. All the information ad
 
 “20 km...”
 
-I pulled out a map between bites of hash brown and checked: that range reached from Okutama to Ome. That's plenty.
+I pulled out a map between bites of hash brown and checked: that range reached from Okutama to Ome. That was plenty.
 
 “Also, it can carry things up to about 2 or 3 kg, and though it can't fight, it works as a decoy.”
 
@@ -218,15 +218,15 @@ I pulled out a map between bites of hash brown and checked: that range reached f
 
 “Nah, I'm going with the eyeball. Any way you look at it, it's crazy useful.”
 
-I also like that with enough of them, it might have the potential to bring back the internet and online shopping. This spell deserves to spread around the whole world. Though that'll be tough, since you can't use it without a lot of magic power.
+I also liked that, with enough of them, it seemed to have the potential to bring back the internet and online shopping. This spell deserved to spread around the whole world. Though that would be tough, since people with little magic power couldn't use it.
 
 “It really is super useful, isn't it? All right!
 
 Then let's get practicing right away. Okay, say it with me, nice and loud!
 
-<ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>!”
+<ruby>Yomohoroge Juya Taketatee<rt>If it meant knowing my son was safe</rt></ruby>!”
 
-“Yomohoroge Jyuya Taketatetat... Flubbed it.”
+“Yomohoroge Juya Taketatetat... Flubbed it.”
 
 “Are you okay? Let's see, why don't you try saying it slowly at first? ‘Taketatee’ is an especially easy spot to get your tongue tangled, so let's focus on that part.
 
@@ -238,19 +238,19 @@ Okay, nice and slow, repeat after me! <ruby>Taketatee<rt>If I could know</rt></r
 
 With breaks in between, I spent half the day learning the eyeball-familiar spell.
 
-During one of those breaks, Professor Ohinata told me what had become of Blood Moon, the red magic stone confiscated from the Dragon Witch. Under a will the Bloodsucking Mage had left with a lawyer, it was in the custody of the Tokyo Witches' Council for the time being.
+During one of those breaks, Professor Ohinata told me what had become of Blood Moon, the red magic stone confiscated from the Dragon Witch. Under a will the Bloodsucking Mage had left with a lawyer, it was apparently in the custody of the Tokyo Witches' Council for the time being.
 
-Once magic-language research had progressed and ordinary people with lots of magic power and real combat ability had been trained up, the stone would go to one of them, on the condition that they protect Minato Ward.
+The plan was that once magic-language research had progressed and ordinary people with lots of magic power and real combat ability had been trained up, the stone would go to one of them, on the condition that they protect Minato Ward.
 
 Apparently the Bloodsucking Mage had felt that rule by witches and mages had its limits, and had been planning to make ordinary people stronger and, in the long run, bring them into politics.
 
-Smart. Raise the baseline of humanity's skills and abilities as a whole, and people like the Dragon Witch, all power and a garbage personality, won't get to run wild.
+Smart. If the baseline of humanity's skills and abilities as a whole got raised, we wouldn't have to put up with people like the Dragon Witch, all power and a garbage personality, running wild.
 
-Handing magic stones to ordinary people who've learned magic, to give them a leg up, makes way more sense than handing them to witches and mages who are already strong and making them even stronger.
+Handing magic stones to ordinary people who'd learned magic, to give them a leg up, made way more sense than handing them to witches and mages who were already strong and making them even stronger.
 
-I only found out about the Bloodsucking Mage after he died, but the more I learn about him, the more his stock goes up in my book.
+I only found out about the Bloodsucking Mage after he died, but the more I learned about him, the more his stock went up in my book.
 
-Meanwhile, the Dragon Witch swiped the magic stone and stuffed it in her pocket against his will, so her stock keeps dropping, and she isn't even here.
+Meanwhile, the Dragon Witch had defied the Bloodsucking Mage's last wishes, swiping the magic stone and stuffing it in her pocket, so her stock kept dropping without her even being there.
 
 I still think killing her would've been the better call. Then again, if the lesson doesn't stick and she pulls something else, the Blue Witch will probably go finish her off for real this time, no prompting from me needed.
 
@@ -258,7 +258,7 @@ Anyway, the magic-language research at Ohinata Laboratory, started by the Bloods
 
 I poked at the eyeball familiar bobbing in the air, which I'd finally managed to summon after endless pronunciation practice, and felt grateful for the will people had passed down from one to the next, and for everything it had achieved.
 
-Me, I'll be reaching in from just outside the circle of human bonds and helping myself to the results!
+Me, I'll be reaching in from just outside the circle of human bonds and helping myself to those achievements!
 
 ## Translator Notes
 

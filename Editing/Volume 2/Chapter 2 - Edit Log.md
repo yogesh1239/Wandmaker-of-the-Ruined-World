@@ -235,3 +235,54 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, notes, scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 2` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 185 reviewed, 19 flagged. Round 1: 15 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 3 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 19 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — tense — ヒエーッ reaction is direct thought, present
+  - Final text: "It must have been cold out there, but her black coat hung open in front, and her thighs were completely bare. Yikes, I'm getting cold just looking at her."
+- **F2** — APPLIED — tense — general-truth musing unified in present (editor counter; "too" kept for だって)
+  - Final text: "Then again, chefs probably read cooking manga too. Having the real thing around doesn't stop people from loving the made-up version."
+- **F3** — APPLIED — glossary — オコジョ教授 lowercase
+  - Final text: "I pictured the lovely stoat professor (beast form) and nodded deeply. True."
+- **F4** — APPLIED — accuracy — restored やっぱり
+  - Final text: "My breath trailed away white, while the Blue Witch's had no color at all. Little things like that reminded me that even though she looked human, she wasn't human after all."
+- **F5** — APPLIED — mechanics — split narration from dialogue paragraph
+  - Final text: "After we'd walked for a while, the Blue Witch murmured." / "“...It really is peaceful around here. It's all weak monsters. Nothing comes at me when it sees me.”"
+- **F6** — APPLIED — worse — imperative-conditional replaced with concessive
+  - Final text: "Even if you risked your life to kill a monster, you couldn't eat its meat, and the rest of the materials soon deteriorated into junk. It wasn't worth it at all."
+- **F7** — APPLIED — tense — 終わってんな direct verdict, present
+  - Final text: "They're pests while they're alive, and killing them gets you nothing. Monsters are a total lost cause, man."
+- **F8** — APPLIED — glossary — 魔法杖 "magic wands"
+  - Final text: "...Let's take down strong monsters left and right and rake in big Gremlins! We'll make magic wands like crazy!”"
+- **F9** — APPLIED — tense — 作らないとな resolution, present
+  - Final text: "For the sake of the people putting their lives on the line against monsters, I need to make even higher-performance magic wands."
+- **F10** — APPLIED — accuracy — 両手をニギニギ restored
+  - Final text: "The Blue Witch opened and closed both hands longingly and sighed."
+- **F11** — APPLIED — tense — whole よな thought in present (editor counter; Codex FIX split tenses mid-sentence)
+  - Final text: "She's really into animals. I get liking stoats, but are wolves actually cute...? I'd call them cool, if anything."
+- **F12** — APPLIED — accuracy — 小さな亀 "small turtles", not babies
+  - Final text: "...Several small turtles were perched on its huge shell, a good 2 m across, looking this way and that, which was kind of funny. A parent and its kids, maybe?"
+- **F13** — APPLIED — tense — やめて欲しい/だろ complaint, present
+  - Final text: "I wish monsters would stop reminding me that they aren't unknowable horrors but living creatures doing their best to get by day to day. It just makes them harder to kill, you know?"
+- **F14** — APPLIED — worse — 上げてしまった as "couldn't help yelling" (editor counter)
+  - Final text: "...when I spotted something incredible and couldn't help yelling."
+- **F15** — APPLIED — mechanics — split narration from dialogue paragraph
+  - Final text: "The Blue Witch took the lead, following the tracks. She looked back, waited for me to catch up, and asked." / "“So what'll you do if the thing at the end of these tracks is just a regular old guy with ridiculously huge feet?”"
+- **F16** — APPLIED — accuracy — 殺気立った "hostile"
+  - Final text: "And the hostile troop was shrieking kee-kee over and over, threatening a huge creature at the foot of the tree."
+- **F17** — APPLIED — tense — やめてくれよ thought kept present throughout
+  - Final text: "Don't do this to me. I'm the kind of guy who watches some cheap animal documentary and bawls his eyes out over it. Even if it is a hairy, smelly, giant monkey, seeing it that sad makes my chest ache."
+- **F18** — APPLIED — accuracy — 嫌な実感の籠り方 (Codex round-1 counter accepted: 嫌な modifies the loading, not the experience)
+  - Final text: "“Oooof, heavy. That's got way too much firsthand experience behind it.”"
+- **F19** — APPLIED — accuracy — dropped added "always"; restored だろう appeal
+  - Final text: "“Wait, wait, wait. I know what symbiosis is. That's not it. That's not what I mean—why do you try to make things so complicated? Those two were friends. That's all you need to know, right?”"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

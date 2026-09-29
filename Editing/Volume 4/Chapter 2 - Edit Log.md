@@ -281,3 +281,30 @@
 - Audited source lines 1102–1342 in two ordered chunks; accuracy pass completed before one bounded polish pass.
 - Preserved all four `amulet[アミユレツト]` occurrences exactly; this scope contains no image markers, scene breaks, or translator notes.
 - Narrative/direct-thought tense, `whitewood`, names, address forms, creature cries, and final scope endpoint verified.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (2 segments: s1 EN start–"What's with her?…" / JP 1–642 (`reedit-c2-s1`); s2 EN scene break–end / JP 644–1343 (`reedit-c2-s2`); subagent model Claude Opus; 275 changed paragraphs). Flow: short-sentence share 27.4% -> 25.6%; runs 11 -> 6; FLOW: ok. Codex critique: 275 changes reviewed, 6 flagged; F1–F5 accepted; F6 resolved the other way (思いたい joins the closing だろう direct thought in present).
+
+### Accuracy Fixes
+- **絶対分かってないやつだ……まあ後で色々案内しながら教えてやる**: spoken line restored as dialogue (was unquoted narration) — accuracy
+- **顔を見せるな**: "Don't show your face there." → "Don't show your face." — accuracy (added "there")
+- **俺の後ろに隠れながら威嚇する火蜥蜴たちに威嚇を返していた**: agency fixed (salamanders threatened first) — referent
+- **ガタガタ…ガタガタ…ガタガタ**: repetition gag restored ("shaking, shaking, shaking") — sfx
+- **俺にも考えがあるぞ**: "I've got an idea too" → "I've got my own ways of dealing with that" — accuracy
+- **未来視で行動を見透かされる**: bare "Foresight" — glossary
+- **オコジョ教授**: "the Stoat Professor" → "the stoat professor" — glossary
+- **…という話だった / 靴ベラのようなものだろう / 総意なのだろう**: hearsay and hedges restored — accuracy
+- **違いない…虚を突かれたようだった**: "clearly…caught her completely off guard" → "must have been… She seemed completely caught off guard" — accuracy
+- **だけどさあ / たけーな / 早くね？ / なんだあいつ**: marked direct thought moved to present — tense
+
+### Register and Flow
+Kept runs: "Crap. I'm stuck. Fighting's unavoidable." (やばい詰んだ。喧嘩不可避。), the babies beat, the letter's "Fuyo likes you. Please be kind to her." 仕方ない echo kept across its three uses. Dialogue paragraphs 184 → 185 (restored spoken line).
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 2` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Spoken salamander cries: "Mee" forms normalized to "Mii" (series majority) in quoted cries.
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

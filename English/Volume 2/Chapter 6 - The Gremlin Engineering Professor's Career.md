@@ -50,13 +50,13 @@ Then again, that was about the only downside.
 
 Thanks to her fertility magic, everyone ate three solid meals a day, even if the rations were only grains, vegetables, and fruit.
 
-The roots running under the whole territory killed any monster that appeared in an instant. Flying monsters were the one exception, and for those the guards had to fight back or ask witches from other districts for help. Still, just having no monsters on the ground made life easy.
+The roots running under the whole territory killed any monster that appeared in an instant. Flying monsters were the one exception, and for those the security force had to fight back or ask witches from other districts for help. Still, just having no monsters on the ground made life easy.
 
 The Flower Witch laid down only the most basic laws, like no stealing, no killing, and no deceiving, and otherwise didn't meddle much in residents' lives.
 
 The corpse-eating that some residents talked about with a shudder didn't bother Handa at all.
 
-If anything, it impressed him that people here had room to worry about what happened after they died. Tokyo really was peaceful.
+If anything, it impressed him that people here had room to worry about what happened after they died. Tokyo really is peaceful.
 
 She only fed on the dead. She didn't go out of her way to make more of them, so there was nothing to worry about.
 
@@ -68,9 +68,9 @@ Watching the Foresight Mage come in from outside and leave again unharmed opened
 
 The Flower Witch fed on dead residents, and since she didn't want her food running off, she forbade her people to leave the district.
 
-But apparently that wasn't an absolute rule. With power, with status, with negotiation, he wouldn't have to spend the rest of his life inside this district.
+But apparently that wasn't an absolute rule. If he had power, if he had status, if he could negotiate, then he wouldn't have to spend the rest of his life inside this district.
 
-Several months of peace, beyond anything the year before could compare to, had made Handa greedy. He wanted to see the other districts of Tokyo.
+Several months of peace, far beyond anything he'd had the year before, had made Handa want more. He wanted to see the other districts of Tokyo.
 
 His life now was good, but if he could live even better somewhere else, he wanted to.
 
@@ -88,7 +88,7 @@ The Flower Witch listened to his plea, smiled gracefully, and whispered in his e
 
 Handa went pale as he began to grasp what kind of deal the Flower Witch and the Foresight Mage had struck.
 
-Of course. If the Foresight Mage had paid a price in some deal, it had to be his foresight, his greatest bargaining chip.
+Of course. If the Foresight Mage had paid some price in that deal, it had to be his foresight, his greatest bargaining chip.
 
 Handa braced himself to be seized by the roots and torn limb from limb. Instead, to his surprise, the Flower Witch drew back and giggled, as if his reaction amused her.
 
@@ -96,7 +96,7 @@ Handa braced himself to be seized by the roots and torn limb from limb. Instead,
 
 Feeling more dead than alive, Handa withdrew from the Flower Witch's presence.
 
-It wasn't until after Magic University's entrance ceremony that it occurred to him: she had actually remembered his name.
+It wasn't until after Magic University's entrance ceremony that it occurred to him. Come to think of it, she actually remembers people's names.
 
 At the time, Tokyo Magic University had just one department, the Department of Magic Linguistics, so that was naturally where Handa enrolled.
 
@@ -126,7 +126,7 @@ Handa was impressed.
 
 Sure, if corpses walked on their own, that saved a lot of cleanup.
 
-When he nodded at what an efficient solution it was, his classmate frowned and edged away from him, looking disturbed.
+That's an efficient way to handle it, he thought with a nod, and his classmate frowned and edged away from him, looking disturbed.
 
 Really, if mountains of corpses had been left in a city as crowded as Tokyo, scavenging monsters and wild animals would have kept swarming in, flies would have multiplied like crazy, and the bodies would have fouled the soil and water and turned into a breeding ground for disease.
 
@@ -168,15 +168,15 @@ But just as Minato Ward had been razed and its residents scattered when the Bloo
 
 That was exactly why Tokyo Magic University existed, Professor Ohinata had said in a short speech before class: to develop the technology and people to keep it from happening. By then Handa felt right at home in Bunkyo Ward, and her words struck a chord.
 
-Once he liked Bunkyo Ward, he grew attached to the university and his classes too.
+As he came to like Bunkyo Ward, he grew attached to the university and his classes too.
 
-For now, all he did was benefit from Bunkyo Ward, but he started to want to pay it back.
+For now, all he did was benefit from Bunkyo Ward, but he started to want to give something back.
 
 After the uproar over the recall of the general-purpose magic wands used in class, Handa sat in his dorm room examining the wand that had come back to him, improved.
 
 According to Professor Ohinata, a backlash-prevention mechanism had been built into the handle, and at the start of class that day, they'd had a lesson on how to hold a wand properly and how the mechanism worked.
 
-The grip was simple enough, but even if he understood the mechanism, it wasn't something he could easily copy (how was he supposed to get his hands on a reverberatory furnace?). Still, it fascinated him.
+Holding it properly was one thing, but even if he understood the mechanism, it wasn't something he could easily copy (how was he supposed to get his hands on a reverberatory furnace?). Still, it fascinated him.
 
 Handa had worked at a plumbing shop for years. His boss had drilled all sorts of knowledge into him that seemed like it should come in handy on the job but never did, so he knew a fair bit about fluid mechanics.
 
@@ -186,7 +186,7 @@ The mechanism supposedly relied on magic-power loss: when backflowing magic powe
 
 In other words: magic power, flowing, through a pipe.
 
-He knew himself it was more a hunch full of holes than a theory, but it felt just like water running through a water pipe, and he found himself thinking about the heart of the problem and how to solve it.
+He had to admit it was more a hunch full of holes than a theory, but it felt just like water running through a water pipe, and he found himself thinking about the heart of the problem and how to solve it.
 
 Then, to test an idea, Handa started taking apart the magic wand he had been told never to disassemble.
 
@@ -236,7 +236,9 @@ Professor Ohinata heard his explanation in the president's office, then flattene
 
 When she tilted her head, Professor Ohinata looked as cute as any girl her age, but she talked and acted like a seasoned educator. Handa felt more pathetic than ever.
 
-She kept her arms folded for a while, humming as she mulled it over, until at last she clapped her hands. “Let's see,” she said brightly. “How about this, Handa-san?”
+She kept her arms folded for a while, humming as she mulled it over, until at last she clapped her hands and spoke up brightly.
+
+“Let's see. How about this, Handa-san?”
 
 “Y-Yes?”
 

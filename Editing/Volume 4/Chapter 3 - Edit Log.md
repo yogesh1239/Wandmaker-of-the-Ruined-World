@@ -79,3 +79,27 @@
 - Exact glossary terms, honorifics, name order, narrative/direct-thought tense, and footnote state verified.
 - No source scene break occurs; exact `![gaiji-0002.png](images/gaiji-0002.png)` marker preserved.
 - No translator notes were required.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–299 (`reedit-c3-s1`); subagent model Claude Opus; 75 changed paragraphs). Flow: short-sentence share 17.2% -> 10.7%; runs 1 -> 0; FLOW: ok. Codex critique: 74 changes reviewed, 10 flagged; 7 accepted (F8 with a lead rewrite); rejected F6 (Gremlin exposition stays past narration), F7 (してのけたし inside よな direct thought), F9 (bare 杖泥棒 has no glossary lock).
+
+### Accuracy Fixes
+- **未来視の警告が無ければ、キュアノスは盗まれていただろう**: "would have been stolen" → "probably would have been stolen"; bare "Foresight" — accuracy
+- **成功させる（はずだった）**: parenthetical self-correction restored ("pulled off stealing… (well, would have)") — accuracy
+- **（だから様々な色がついている）**: restored as a parenthetical — punct
+- **やっぱり悔し…… / 悔しくはねぇよ？ / 間違いあるまい / 見ろセキタンを…放心してるぞ**: marked direct thought → present, one tense per thought — tense
+- **計測して**: "calculated" → "measured" — accuracy
+- **のんびり…精を出している**: "working hard" → "working away… at a leisurely pace" — accuracy
+- **いつになく**: "more desperate than I'd ever heard" → "unusually desperate" — accuracy
+
+### Register and Flow
+Kept short beats: "Crap.", "Talk about giant-killing.", "I was speechless.", "Or it already had.", and the closing punchline. Stray curly apostrophe normalized to straight.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 3` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Spoken salamander cries: "Mee" forms normalized to "Mii" (series majority) in quoted cries.
+- Narrative ミーミー鳴いた: "meemi-meemi" → "meep-meep" (series form).

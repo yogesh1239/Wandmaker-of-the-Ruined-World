@@ -1,18 +1,18 @@
 Toward evening, I finally made it to the Bunkyo Ward Office on my bicycle, towing the Blue Witch behind me in the cart.
 
-The security force had barricaded the front of the ward office and stood guard behind it, wands and crossbows at the ready. There were no bodies in front of the barricade, at least, but the bloodstains hadn't all scrubbed out, and the lingering smell of blood and scorching told of a vicious fight.
+The security force had barricaded the front of the ward office and stood guard behind it, wands and crossbows at the ready. There were no bodies in front of the barricade, at least, but the bloodstains hadn't all scrubbed out, and the lingering smell of blood and char told of a vicious fight.
 
 I hesitated. Wouldn't they kill me if I got any closer? Then I spotted a woman inside the barricade, near the ward office entrance, with guards protecting her. She was holding a sign that said "Person at 9:33 AM" and looking around anxiously.
 
 Well, that was easy to follow. Apparently she was the one I was supposed to hand it to.
 
-I got off the bicycle, picked up the pail, and headed for the woman with the sign. At once, the whole security force swung their wands and crossbows onto me and challenged me.
+I got off the bicycle, picked up the pail, and headed for the woman with the sign. At once, the whole security force trained their wands and crossbows on me and challenged me.
 
 "Who goes there! State your name and business!"
 
-The shout was sharp and out for blood, and my stomach shriveled into a knot.
+The shout was sharp and murderous, and my stomach knotted up.
 
-I was too scared to even speak, so I just pointed at the sign with a shaking hand. The woman had the guards lower their weapons and waved me over.
+I was too scared to even speak, so I just pointed at the sign with a shaking hand. The woman had the security force lower their weapons and waved me over.
 
 I went up to hand her the pail, which was full of the Flower Witch's antidote, and she spoke in a voice caught between worry and hope.
 
@@ -34,7 +34,7 @@ I asked nervously, and the woman gave a big nod.
 
 Partway through, her voice turned tearful, and she sank limply to the ground and started bawling.
 
-The guards exchanged looks. A few of them were tearing up too.
+The security force exchanged looks. A few of them were tearing up too.
 
 I'd had a hard time of it, but apparently so had they.
 
@@ -108,17 +108,17 @@ Then, after a pause, she carried on as if nothing had happened.
 
 I glared as hard as I could at the base of the giant flower to put the pressure on, and the Flower Witch heaved a big sigh and answered reluctantly.
 
-"She was infested quite deeply, so she won't wake up that quickly. There's nothing strange about that. Even a witch can't be up and running around the day after nearly dying."
+"It seems she was infested quite deeply, so she won't wake up that quickly. There's nothing strange about that. Even a witch can't be up and running around the day after nearly dying."
 
 "But she's the Blue Witch, you know? She's hands down the strongest witch there is. She's tough, and she should recover fast too. If there wasn't anything wrong with the medicine you gave me, couldn't you give me something like a nutrient tonic to get her back on her feet faster? Her color's good, but she doesn't react when I talk to her, and it's making me nervous."
 
 "...You really do treasure the Blue Witch. Very well. If you insist, I will make you a nutrient tonic. She's likely not waking because she's so weak, so once she's properly nourished, she should wake up soon enough."
 
-Wood creaked and groaned overhead, and a thick bough of the huge white tree came down through a hole in the ceiling.
+Wood creaked and groaned overhead, and a thick branch of the huge white tree came down through a hole in the ceiling.
 
 A crack ran along its bark and opened like a creature's mouth, then spat out the corpse of a monster that had to be a good three meters long.
 
-It looked like someone had stuck a dog's head and a cat's head onto a rabbit and blown it up to the size of an elephant. The massive, silent corpse hit the floor with a heavy thud in a mess of sticky slime, and my legs calmly and composedly gave out.
+It looked like someone had stuck a dog's head and a cat's head onto a rabbit and blown it up to the size of an elephant. The burly creature's silent corpse tumbled onto the floor with a heavy thud in a mess of sticky slime, and my legs calmly and composedly gave out.
 
 Hmm. Scary as hell.
 
@@ -130,7 +130,7 @@ My legs were shaking so badly I couldn't stand, and the Flower Witch giggled, li
 
 "Fear and shock just temporarily paralyzed my cerebral cortex, so my body went limp. That's all."
 
-"In other words, your legs gave out. That's what we call timid."
+"In other words, your legs gave out. That's what we call being timid."
 
 "...Guh."
 
@@ -156,7 +156,7 @@ Then again, strictly speaking, I was pestering her for aftercare that wasn't in 
 
 The Flower Witch bundled together the roots that had absorbed the monster and reshaped a branch into a bottle, then began dripping a blood-red liquid into it. The drops falling from the root tips gave off a distinctive fragrance, the kind you'd almost want to call the scent of life.
 
-"Nothing makes a better nutrient tonic, for magic power or for health. The Blue Witch can drink it all at once. You mustn't drink it, though, all right? It would work too well."
+"There's no better nutrient tonic, for magic power or for health. The Blue Witch can drink it all at once. You mustn't drink it, though, all right? It would work too well."
 
 With that, she corked the bottle and handed me the special nutrient tonic.
 
@@ -246,7 +246,7 @@ I came into the room with an ice pack I'd made with freezing magic and found the
 
 She'd made it past the worst and was recovering smoothly, so there was no need for me to stick by her side every second anymore.
 
-If she was asleep, she wouldn't know whether I was in the room or not. So I'd appreciate it if she didn't make unreasonable demands like staying in the room the whole time.
+If she was asleep, she wouldn't know whether I was in the room or not. And yet she was telling me to stay in the room the whole time. I wished she wouldn't make such unreasonable demands.
 
 I had plenty of other stuff to do too, you know: sleeping, eating, going to the bathroom, taking baths, reading manga, popping the Bubble Wrap-kun I'd found in the closet.
 
@@ -294,7 +294,7 @@ Daddy's going to go make you porridge now! Stay warm and be a good girl and slee
 
 I kept nursing the Blue Witch for another week.
 
-Even with a witch's superhumanly tough body, it took a week before she could run around outside again. That told you just how brutal mushroom disease was once it went severe.
+Even with a witch's superhumanly tough body, it took a week before she could run around outside again. That told you just how brutal mushroom disease was once it turned severe.
 
 From the first day she properly woke up, she'd stubbornly insisted on going to the bathroom and taking baths by herself, so I got the feeling a lot of it came down to willpower. Then again, if you need willpower just to go to the bathroom or take a bath, that's a pretty big problem.
 
@@ -380,17 +380,17 @@ The Itabashi Witch, the Sumida Witch, the Hachioji Witch, an associate professor
 
 The Tobacco Witch herself barely pulled through, but apparently every one of her trusted subordinates had died, and she wasn't taking it well. Plenty of other key figures had died too.
 
-In Shinagawa Ward and Setagaya Ward, as bad luck would have it, powerful monsters had shown up as if they'd been waiting for the security force and the witches to go down, and the death toll there was said to be staggering.
+In Shinagawa Ward and Setagaya Ward, as bad luck would have it, powerful monsters had shown up as if to take advantage of the security force and the witches being down, and the death toll there was said to be staggering.
 
-It had been a week since they'd started spraying the antidote. Most of the severe cases had either recovered or died, but the antidote still hadn't reached everyone, and a small number of people were coming down with it after a delay.
+It had been a week since they'd started spraying the antidote. Most people with severe cases had either been treated or died, but the antidote still hadn't reached everyone, and a small number of people were coming down with it after a delay.
 
-One trait of mushroom disease was chain-reaction onset. When one person sprouted mushrooms from their head, it set off the people around them one after another, even patients who had only just been infected. That was why the pandemic had exploded all at once, and the wave of chain onsets still hadn't completely passed. We'd need to stay on high alert for a while yet.
+One trait of mushroom disease was chain-reaction onset. When one person sprouted mushrooms from their head, even people nearby who had only just been infected would start developing symptoms one after another in response. That was why the pandemic had exploded all at once, but the wave of chain-reaction onsets still hadn't completely passed. We'd need to stay on high alert for a while yet.
 
-The government was in chaos and barely functioning, but piecing together the information gathered so far, the final death toll from this pandemic was expected to reach 500,000 to 700,000 in Tokyo alone.
+The government was in chaos and barely functioning, but based on the information gathered so far, the final death toll from this pandemic was apparently expected to reach 500,000 to 700,000 in Tokyo alone.
 
 Before the pandemic, Tokyo's population had been about 2.8 million. That meant a single disease had killed 20% of the entire population in just under two weeks. Terrifying.
 
-It was a heartless thing to think, but I couldn't help being glad that neither I nor anyone I knew was part of that 20%.
+It was an insensitive thing to think, but I couldn't help being glad that neither I nor anyone I knew was part of that 20%.
 
 In terms of sheer scale, the plague, said to be the worst epidemic in human history, was probably worse. The notorious Black Death killed people by the tens of millions in a single outbreak. But that took a year or two and spread across vast regions with enormous populations, like Europe and China.
 
@@ -408,7 +408,7 @@ But not everything we'd built was lost.
 
 Even if we'd been pushed back two steps, we'd taken three steps forward.
 
-All we could do was keep going, hard enough to outpace the steps back.
+All we could do was keep moving forward, enough to outpace the steps back.
 
 The moment we stopped walking would be the real end.
 
@@ -420,7 +420,7 @@ I was moved too. Self-help books never did much for me, but coming from a witch 
 
 That's right. Let's keep moving forward.
 
-As far as I personally was concerned, I'd been lucky enough to lose nothing this time. Getting back up from where I'd fallen should be easy.
+As far as I personally was concerned, I'd been lucky enough to lose nothing this time. You could say getting back up from where I'd fallen would be easy.
 
 And I never get up from a fall empty-handed.
 

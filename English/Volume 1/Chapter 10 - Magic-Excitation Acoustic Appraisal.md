@@ -1,4 +1,4 @@
-The way I saw it, new technology had always spread with a glaring gap between regions, no matter the era. And that wasn't the paranoia of some socially awkward country bumpkin talking. It was a fact.
+The way I saw it, new technology had always spread with a glaring gap between regions, no matter the era. And that wasn't some socially awkward country bumpkin's paranoia talking. It was a fact.
 
 Phone service, for example, started in city centers, and supposedly it took more than ten years for phone lines to reach private homes in the middle of nowhere.
 
@@ -50,7 +50,7 @@ Now that I'd shown the world what spherical polishing could do, and the fertilit
 
 I listened to the Blue Witch while I sorted the Gremlins by color and size and lined them up on the worktable.
 
-They ranged from the size of a grain of rice to the size of a ping-pong ball, and they came in every color: red, blue, yellow, green, purple.
+They ranged from the size of a grain of rice to the size of a ping-pong ball, and they came in all kinds of colors: red, blue, yellow, green, and purple.
 
 Hmm?
 
@@ -108,7 +108,7 @@ A Wand Maker who laughs at 5% will cry over 5%. I just made that proverb up.
 
 As a Wand Maker on the cutting edge, I was going to obsess over every last 5%.
 
-With the Blue Witch helping out with the experiments, my Gremlin-appraisal know-how piled up fast.
+With the Blue Witch helping out with the experiments, my Gremlin-appraisal know-how built up fast.
 
 She looked pretty fed up with the grind of checking hundreds of Gremlins one at a time and logging the data. But whenever I shoved a graph of the results or some newly discovered fact in her face, she was openly impressed.
 
@@ -180,7 +180,7 @@ I tapped and tapped and tapped away with my fingernail at thousands of Gremlins 
 
 To cap off a week of Gremlin-appraisal research, I decided to test myself.
 
-I set a dodecahedral fractal I'd made just for appraisal on the worktable, recited the fertility-magic bypass incantation, and put it on activation standby.
+I set a dodecahedral fractal I'd made just for appraisal on the worktable, recited the fertility-magic bypass incantation, and put it into an activation-standby state.
 
 The blinking fractal was in a magic-excitation state, so any Gremlin near it would take a "listening posture" and enter a sound-absorption state.
 
@@ -200,7 +200,7 @@ When I took off my blindfold, the Blue Witch hurriedly shook her head.
 
 "Because you're relying on your ears. They feel slightly different when you tap them too. Sound's just vibration in the end, so the trick to precise appraisal is feeling that vibration with your fingertips. Combine the sound and feel, then judge the whole thing."
 
-I'd given her a perfectly easy tip to follow, but the Blue Witch was left speechless.
+I'd given her perfectly clear advice, but the Blue Witch was left speechless.
 
 "...You're dexterity incarnate. You're further from human than a witch is."
 
@@ -254,7 +254,7 @@ If just asking, "How about an accessory?" counts as hitting on someone, then eve
 
 That's ridiculous, right? Right?
 
-"Well, you've got a stupidly pretty face, the kind guys probably hit on nonstop, so it's not like you're full of yourself, but... Huh? Wait, you're actually not full of yourself, are you?"
+"Well, you've got a stupidly pretty face and guys probably hit on you nonstop, so it's not like you're full of yourself, but... Huh? Wait, you're actually not full of yourself, are you?"
 
 I realized it even as the words came out. Isn't it only natural for a beautiful woman to talk like her beauty's a given? I talk like my insane dexterity's a given too.
 

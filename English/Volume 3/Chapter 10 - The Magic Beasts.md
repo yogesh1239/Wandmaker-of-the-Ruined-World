@@ -1,6 +1,6 @@
 Even with Gremlin implantation, getting monsters used to people and completing magic-beastification took time.
 
-Even with the taming methods developed by the Hokkaido Magic Beast Farm, it took a full two months to get them ready to show the Blue Witch.
+Even with the taming methods developed by the Hokkaido Magic Beast Farm, it took a full two months to get them tame enough to show the Blue Witch what their training had achieved.
 
 Two months might not sound like much, but two months was still two months.
 
@@ -38,7 +38,7 @@ The fire salamanders stopped breathing fire at my signal. I gave them their resp
 
 The Blue Witch had watched the whole demonstration from behind me. Now she clapped, impressed.
 
-“This is amazing. You did well training them this far.”
+“This is amazing. You managed to train them this well.”
 
 “It really is. I did spend two months on it.”
 
@@ -58,7 +58,7 @@ I'd overcome more trouble than I could count to get here. The burns were the wor
 
 The only reason I hadn't suffered any serious, permanent burns was that, for all the trouble they caused, the fire salamanders reacted quickly to my screams. They didn't do anything a companion truly hated.
 
-Once we started communicating, we no longer had to spend every moment together. By then, we even slept in separate places.
+Once we started communicating, we stopped spending every moment together. Now we even slept in separate places.
 
 The reverberatory furnace sat on the back mountain, a short distance from my house. It was far enough away that any fire wouldn't spread to the house, but close enough to make caring for them and checking in easy.
 
@@ -82,7 +82,7 @@ The most laid-back one would come bask in the fire whenever I lit a bonfire, the
 
 And the most curious, people-friendly one liked charcoal best.
 
-At first, I didn't name them. I just called them things like “hey,” “you,” “fire salamander,” and “little one.” Before long, though, each began answering to the name of its favorite food, and those became their names.
+At first, I didn't name them. I just called them things like “hey,” “you,” “fire salamander,” and “little one.” Gradually, though, each began answering to the name of its favorite food, and those just became their names.
 
 Even after I'd won them over with food, I spent as much time with them as possible, observing their behavior.
 
@@ -98,7 +98,7 @@ Maybe the habit had originally helped with parasites or something. It was like c
 
 They also tended to fall asleep after eating their fill. Come to think of it, the Flame Witch slept after eating charcoal too. Maybe it ran in the family rather than the species.
 
-A fire salamander's daily routine went like this: wake up, eat, play chase or roughhouse, eat lunch, play some more, eat again, and sleep. They lived entirely on instinct.
+A fire salamander's daily routine went like this: wake up in the morning, eat, play chase or roughhouse, eat lunch, play some more, eat again, and sleep. They lived entirely on instinct.
 
 They weren't big on maintaining their nest. Even though I'd filled the reverberatory furnace with metal nesting material, the hemispherical nest they'd melted together stayed rickety and beat-up no matter how much time passed. They didn't seem to care even when parts of it rusted.
 
@@ -114,7 +114,7 @@ Even when I stood nearby as they breathed fire on partly burned wood to turn it 
 
 I built a thermometer using spectral reflection and took some measurements. Only the objects the fire salamanders meant to burn showed a physically impossible heat distribution, with all the heat concentrated on them.
 
-In other words, fire salamanders could burn only what they wanted and leave everything else untouched.
+In other words, fire salamanders could burn only what they wanted to and leave everything else unburned.
 
 Of course, there were limits. Stray flames could still ignite something by accident, and their control wasn't so precise that the fire formed a perfect border around whatever they wanted to spare.
 
@@ -124,13 +124,13 @@ The fire salamanders' breath couldn't melt ice made with the Blue Witch's Great 
 
 Apparently, the fire from the <ruby>Jin Ga<rt>Flame</rt></ruby> line was special even among magical flames. I guess fire magic really does come with some weird special effect built in by default.
 
-Gremlin implantation had greatly reduced my magic power, so I was grateful to have the fire salamanders take over at least my fire magic. There was a real risk their behavior would change once they grew up, but while they were little, they seemed unlikely to start any fires.
+Gremlin implantation had greatly reduced my magic power, so I was grateful to have the fire salamanders take over at least my fire magic. There was a real risk their behavior would change once they grew up, but while they were little, there didn't seem to be any risk of them starting fires at all.
 
 I didn't know what ordinary fire salamanders were like, but my kids were careful with their fire breath.
 
 After listening to my whole presentation—and the accompanying bragging—the Blue Witch was convinced and stood down.
 
-She promised she wouldn't try to kill them again, which was a relief.
+She promised she wouldn't kill them anymore, which was a relief.
 
 The Blue Witch killing her own kids: avoided! And now monsters lived in my reverberatory furnace.
 
@@ -172,7 +172,7 @@ Pouch sparrows looked just like oversized sparrows. They were heavier and slower
 
 Instead, they had a floppy pouch of fat on their bellies, like a kangaroo's. It could carry far more supplies than should possibly have fit inside.
 
-The pouch had plenty of capacity—about the volume of a small refrigerator—and anything stored inside became weightless as an added bonus.
+The pouch had plenty of capacity—up to roughly the volume of a small refrigerator—and anything stored inside became weightless as an added bonus.
 
 When a pouch sparrow died, its belly pouch lost its storage function and spilled out everything inside. Any living creature placed in one suffered something like severe carsickness, so transporting passengers wasn't practical. Time passed normally in there, and the pouch was slightly damp and lukewarm, making it a poor pantry too.
 
@@ -234,7 +234,7 @@ I definitely wanted some steel sheep wool myself as protection against burns whi
 
 Like pouch sparrows, steel sheep did not attack people.
 
-Their main food was grass, and they ate almost any weed. But they also needed small amounts of salt and iron, so their feed had to be nutritionally balanced.
+Their main food was grass, and they ate weeds or pretty much anything else. But they also wanted small amounts of salt and iron, so their feed had to be nutritionally balanced.
 
 Steel sheep ran as soon as anyone outside their flock came near. Since they saw whoever had the largest horns as their leader, steel sheep beast handlers had to wear fake horns. Apparently, the extra weight on their heads was a real pain.
 
@@ -260,7 +260,7 @@ However, turret balsam would fire its shells at humans too, so raising and using
 
 Pouch sparrows, steel sheep, and turret balsam all had their quirks, but they were all excellent magic beasts.
 
-The Hokkaido Magic Beast Farm was trying to domesticate new monsters every day, and supposedly it would keep sending Tokyo any species with a stable raising method. Are they gods?
+The Hokkaido Magic Beast Farm was attempting monster domestication with new species every day, and supposedly it would keep sending monsters to Tokyo once it had established stable raising methods for them. Are they gods?
 
 Of course, it wasn't free. Apparently, Tokyo had been made to promise magic-wand exports and the dispatch of magic linguistics instructors.
 

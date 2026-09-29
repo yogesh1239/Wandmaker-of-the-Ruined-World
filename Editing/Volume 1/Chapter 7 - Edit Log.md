@@ -93,3 +93,51 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Ruby span, `[^1]`, image markers, scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 7` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 100 reviewed, 14 flagged. Round 1: 5 conceded, 1 pushed back, 8 countered. Codex after round 1: 1 withdrew, 6 accepted, 0 maintained, 2 countered. Round 2: no.
+Final: 13 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — 政治に疎い is ignorance, not incompetence; "hopeless" → "clueless"
+  - Final text: "But most witches and mages were clueless about politics."
+- **F2** — APPLIED — glossary — "the Council's coordinator" → Witches' Council
+  - Final text: "After the Bloodsucking Mage's death, the Eyeball Witch had taken over as coordinator of the Witches' Council. To put it kindly, she valued harmony; to put it unkindly, she couldn't make a decision."
+- **F3** — APPLIED — glossary — clipped "the Council"; Codex's counter also removes the one-meeting misreading of 定期開催を続け
+  - Final text: "Still, nobody was better suited to the job. Keep holding Witches' Council meetings regularly, keep up at least the appearance of cooperation, and stop things from getting any worse—that alone took everything she had."
+- **F4** — APPLIED — glossary — clipped term and dangling "its"; my counter accepted
+  - Final text: "Since the Blue Witch never left Ome, she'd only been a regular at the Witches' Council in Shinjuku back when it first formed."
+- **F5** — APPLIED — glossary — bare 未来視 capitalized as "Foresight"
+  - Final text: "Didn't that Foresight you're so proud of show you a future where I say no? ..." (rest unchanged)
+- **F6** — APPLIED — accuracy — お前のいない is neutral; drop the "you skipped" reproach; glossary form
+  - Final text: "I heard you. But listen to me, Blue Witch. I've been saying this over and over at the Witches' Council meetings you weren't at."
+- **F7** — APPLIED — accuracy — 餓死者 = starvation deaths
+  - Final text: "... Even next year, nobody will actually starve to death, but people will be dropping from malnutrition left and right."
+- **F8** — APPLIED — worse — 寸断: "cut" → "cut off"
+  - Final text: "The roads are cut off, so freight trains and delivery trucks aren't running. ..."
+- **F9** — APPLIED — accuracy — 壊滅的 keeps its qualification; my counter accepted
+  - Final text: "... The people who knew how the work was done were all but wiped out."
+- **F10** — APPLIED — accuracy — restored the 種苗会社 referent; Codex withdrew the "you" reassignment (the subject of 守ってる is unstated, and the Blue Witch never left Ome)
+  - Final text: "... It probably doesn't mean much to you, but anyone with time to guard the National Diet Building should've been guarding even one of those companies instead."
+- **F11** — APPLIED — accuracy — という hearsay kept as "he said", without adding doubt; my counter accepted
+  - Final text: "She'd brought down the giant kaiju single-handedly and felt as if she'd saved Tokyo. But faced with the food crisis he said was coming in two years, maybe Tokyo's end had only ever been a question of sooner or later."
+- **F12** — APPLIED — worse — "shriveled" was odd; Codex's counter echoes line 91's "found some strength", which また points back to
+  - Final text: "The Foresight Mage's voice lost its strength again, as if all that talking had worn him out."
+- **F13** — KEPT — voice — "Eahh... me fine!"
+  - Why kept: the source itself marks the line as 幼児退行 and slurred (ぼく swapped in for 俺, particle and copula dropped); "me fine" matches that level and does not exceed it. Codex withdrew.
+- **F14** — APPLIED — glossary — "Council witches" → "The Witches' Council members" (avoids "witches" twice; my counter accepted)
+  - Final text: "The Witches' Council members, who had listened to the whole exchange in silence, started whispering among themselves, and over the murmuring came the Eyeball Witch's voice, openly moved."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: no glossary or voice-file problems. Tooling note: the consistency gate passed all five clipped "Council" forms (F2, F3, F4, F6, F14). The lead may want the gate to enforce the rule that 魔女集会 is never "the Council".
+
+### Lead Fixes (series rulings)
+- 唱える: "chant" → "recite" (series ruling)
+
+## User Rulings — 2026-09-29
+
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

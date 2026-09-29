@@ -12,9 +12,9 @@ When it came down hard, it punched through umbrellas and wrecked roof tiles unti
 
 Farms took a beating too. The crystals shredded crop leaves and nicked fruit that was nearly ready to pick. And when a field's soil got loaded with pebbles (or rather, tiny pebble-like Gremlins), they stunted root growth and made for poor tuber crops.
 
-Since crystal rain came with heavy rain, it set off debris flows as well. Huge amounts of rainwater swept up huge amounts of Gremlins and turned into destructive muddy torrents that flooded rivers and wrecked buildings. All of that clogged the drains, too.
+Since crystal rain came with heavy rain, it set off debris flows as well. Huge amounts of rainwater swept up huge amounts of Gremlins and turned into destructive muddy torrents that sent rivers over their banks and wrecked buildings. All of that clogged the drains, too.
 
-The bigger the city, the worse the damage, and apparently it was one of the Tokyo Witches' Council's many headaches.
+Crystal rain hit urban areas hardest, and apparently it was one of the Witches' Council's many headaches.
 
 Flip that around, though, and out in rural Okutama, the damage had never struck me as all that bad. That was because we had monsters that gathered Gremlins, and they cleared away the flood of tiny ones the crystal rain scattered everywhere, all on their own.
 
@@ -24,7 +24,7 @@ But even scale squirrels could only haul away so many.
 
 If crystal rain kept falling long enough for the crystals to really pile up, some got left behind. Then I had to break out a broom and a sieve and clear the Gremlins out of the field myself.
 
-Scale squirrels couldn't dive underwater either, so Gremlins that settled on riverbeds were beyond their reach. The grains were small and light enough that the current would carry them downstream if you left them alone, but the bed of the Tama River still glittered as if someone had sunk jewels there. Farther downstream, Gremlins had apparently started mixing into the sand and building up. That had to be doing a number on the ecosystem.
+Scale squirrels couldn't dive underwater either, so Gremlins that settled on riverbeds were beyond their reach. The grains were small and light enough that the current would carry them downstream if you left them alone, but the bed of the Tama River still glittered as if someone had sunk jewels there. Farther downstream, Gremlins had apparently started mixing with the sand and building up. That was probably doing a number on the ecosystem.
 
 Scale squirrels tended to avoid anything medium-sized or bigger, so they were supposedly a rare sight in cities full of people. With no cleanup crew in town, people had to sink a lot of labor into Gremlin collection, picking them up by hand. Then again, I'd heard that those uniform, milky-white Gremlins, small as they were, came in such huge quantities that they were being used in all kinds of experiments.
 

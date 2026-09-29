@@ -61,3 +61,26 @@
 - No source scene break occurs. All semantic-ruby spans remain separate and use actual HTML.
 - Both `![gaiji-0002.png](images/gaiji-0002.png)` markers in `撃て[...]` are preserved inside their ruby baselines.
 - Narrative/direct-thought tense, exact glossary terms, honorifics, romanization, and footnote-marker integrity verified.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–296 (`reedit-c9-s1`); subagent model Claude Opus; 79 changed paragraphs). Flow: short-sentence share 25.3% -> 19.5%; runs 1 -> 1; FLOW: ok. Codex critique: 81 changes reviewed, 7 flagged; all 7 accepted.
+
+### Accuracy Fixes
+- **複眼の目玉の使い魔**: "compound-eyed" restored — accuracy
+- **文京区役所を落としてから捕虜を連行し合流した二名の「魔女衆」**: agency fixed; one-off label rendered "witch crew" in quotes — referent
+- **手を出しあぐねているのだろう**: hedge restored — accuracy
+- **「撃て」もその時に伝わってしまったのだろう**: added "shooting-magic core spell" label removed — accuracy
+- **無理やりに引きずられた**: "forcibly dragged" — accuracy
+- **ワンチャンあるかな…ワンチャンも無いかぁ**: echo and も kept — accuracy
+- **だろ？/ぞ / んだよな / じゃん/ですよ/かぁ**: marked direct thought → present — tense
+
+### Register and Flow
+Kept run: the footsteps / rush of wind / rustle SFX beat. The 50-word casting sentence rebuilt as three.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 9` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Eyeball Witch incantation: "Jiyuya" → "Juya" (glossary unified).

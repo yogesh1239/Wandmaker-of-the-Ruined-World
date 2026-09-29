@@ -14,7 +14,7 @@ The Flame Witch gave a little bow, burrowed into the ashes in the workshop furna
 
 The Flame Witch's biology was perverted, but I knew she wasn't an indiscriminate arsonist, so I left her alone and got on with my work. Forget unwitting yuri arson sex and focus on the job.
 
-Cyanos's multilayer structure and Aleister's dodecahedral fractal were both examples of the same principle: repeating an identical structure often mattered in magic-stone processing. As an experiment, I cut magic stones into identical shapes and tried several ways of connecting them.
+Cyanos's multilayer structure and Aleister's dodecahedral fractal were both examples of the same principle: repeating an identical structure often mattered in magic-stone processing. As an experiment, I cut magic stones into identical shapes and built prototypes of several different linked structures.
 
 When I went to wake the Flame Witch and have her charge them with magic power for activation testing, she'd fallen asleep inside the furnace.
 
@@ -50,7 +50,7 @@ When the Flame Witch entered the prototype seal, I found out that she could appa
 
 She didn't want to spend all those years in darkness; at the very least, she wanted a view outside. Fair enough.
 
-No matter how slowly time flowed inside, being sealed in darkness for decades would drive anyone crazy. It wouldn't hurt to let her at least enjoy the view while she was in there.
+No matter how slowly time flowed inside, being sealed in darkness for decades would probably drive you crazy. It wouldn't hurt to let her at least enjoy the view while she was in there.
 
 So I built the sealing system into a lantern with crystal panels that wouldn't deteriorate easily over the years.
 
@@ -126,7 +126,7 @@ Farewell, Flame Witch.
 
 As payment for making Himori Wand, the Flame Witch transferred all rights to a private factory she owned in Shinagawa Ward to me. It was one of the vital factories that melted down the wealth of metal salvaged from the urban mine and cast it into whatever forms people needed now.
 
-It operated around two melting furnaces. Forty people worked there in all, including factory hands, fuel-procurement staff, transport staff, and clerks.
+Its operations centered on two melting furnaces. Forty people worked there in all, including factory hands, fuel-procurement staff, transport staff, and clerks.
 
 Under the name 0933, I acquired all rights to this factory.
 

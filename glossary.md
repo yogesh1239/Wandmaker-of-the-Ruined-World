@@ -159,6 +159,7 @@
 | 油舐め | oil-licker | Aburaname, oil licker | oily monster whose materials repel self-blood; source sets it in 「」; project-original |
 | 油蜂 | oil bee | Aburabachi, oil-bee | oily monster whose materials repel self-blood; source sets it in 「」; project-original |
 | 自己強化状態 | self-enhanced state | self-strengthened state | a dragon's boosted state after eating Gremlins; its blood cannot be self-blood tanned; project-original |
+| 自己強化魔法 | self-enhancement magic | self-strengthening magic, self-buff magic | magic that boosts the caster's own body; series usage V1 Ch8/Ch11, V4 Ch1/4/9 |
 | 軟泥[スライム] | <ruby>slime<rt>soft mud</rt></ruby> | slime monster | magic-depleted slime; plain baseline remains machine-readable for non-ruby source uses |
 | 精製スライム充填剤 | purified-slime filler | purified slime filler | refined slime material used to fill a multilayer wand core; project-original |
 | 怪獣 | kaiju |  | large destructive monster |
@@ -216,7 +217,7 @@
 | 発音不可音 | unpronounceable sound | impossible sound, unpronounceable phoneme | magic-language sound a human throat cannot produce |
 | 吉田予想 | Yoshida Conjecture | Yoshida Prediction | hypothesis that twelve unpronounceable sounds exist |
 | 基幹単語 | core word | root word, foundational word | fixed basic spell term within a magic school |
-| 詠唱 | incantation | chant, spell chant | spoken spell text |
+| 詠唱 | incantation | chant, spell chant | spoken spell text; the verb 唱える is "recite", never "chant" |
 | 改造呪文 | modified spell | altered spell | experimentally restructured incantation |
 | 改造詠唱 | modified incantation | altered incantation | experimentally restructured incantation |
 | 焔魔法 | fire magic | flame magic | fire spell school originating with the Flame Witch |
@@ -224,12 +225,13 @@
 | 焔魔法基幹呪文 | fire-magic core spell | flame-magic core spell | basic spell of the fire-magic school |
 | 変身魔法 | transformation magic | shapeshifting magic | magic that transforms the caster's body |
 | オコジョ教授 | the stoat professor |  | Ori's nickname for Ohinata Kei in stoat form; lowercase common-noun form, capitalize only at sentence start; project-original (added 2026-09-28 re-edit) |
+| オコジョ大先生 | O great Stoat-sensei |  | Ori's mock-reverent address to Ohinata Kei (V4 Ch1 direct thought); project-original (2026-09-29) |
 | オコジョ変身魔法 | stoat-transformation magic | stoat transformation spell | self-only transformation magic stabilized by Ohinata Kei |
 | 裏を渡り[イエーヴ・ササ]、蔡を吐けば[ニムテツトツタナ]、窮鼠も白獣[ヤオグ・ヤヨグ・エンイエンシユオア] | <ruby>Ie-vu Sasa<rt>Cross the underside</rt></ruby>, <ruby>Nimutetsutotsutana<rt>spit out the divination tortoise</rt></ruby>, and <ruby>Yaogu Yayogu Enien Shiyuoa<rt>even a cornered rat becomes a white beast</rt></ruby> |  | stoat-transformation incantation; three source spans preserved; `蔡` remains provisional |
 | デーニッ系統 | Deenit school | Deenit system | Bloodsucking Mage's blood-magic school |
 | 射撃魔法 | shooting magic | projectile magic | basic ranged magic school |
 | 射撃魔法基幹呪文 | shooting-magic core spell | shooting magic core spell, projectile-magic core spell | basic spell of shooting-magic school; project-original |
-| 撃て[ア゙ー] | <ruby>A゙-<rt>Fire</rt></ruby> | Fire[ア゙ー], Fire[ー], Shoot[ー] | shooting-magic core spell; Latin baseline retains the source's dakuten |
+| 撃て[ア゙ー] | <ruby>Agh-<rt>Fire</rt></ruby> | Fire[ア゙ー], Fire[ー], Shoot[ー], A゙- | shooting-magic core spell; Latin baseline renders the voiced ア゙ as "Agh-" (series form; changed from A゙- 2026-09-29) |
 | 撃て[![gaiji-0002.png](images/gaiji-0002.png)ー] | <ruby>![gaiji-0002.png](images/gaiji-0002.png)-<rt>Fire</rt></ruby> | Fire[![gaiji-0002.png](images/gaiji-0002.png)ー], Shoot[![gaiji-0002.png](images/gaiji-0002.png)ー] | shooting-magic core spell; Volume 4 extraction uses a gaiji for the magic-language onset |
 | 撃ち砕け[ダウ![gaiji-0002.png](images/gaiji-0002.png)ー] | <ruby>Dau![gaiji-0002.png](images/gaiji-0002.png)-<rt>Smash</rt></ruby> | Smash[ダウ![gaiji-0002.png](images/gaiji-0002.png)ー] | shooting-magic incantation; gaiji remains in the baseline |
 | 鎖で留め置かれた勇士は師を恃んだ[ナエタク・ジーシオヲンタルクエア×××マブイナイ××] | <ruby>Naetaku Ji-shio Ontaruku Ea××× Mabuinai××<rt>The warrior held fast by chains relied on his master</rt></ruby> | The warrior held fast by chains relied on his master[ナエタク・ジーシオヲンタルクエア×××マブイナイ××] | chain-magic ritual incantation |
@@ -241,7 +243,7 @@
 | 大地の大穴より来たりて[プーラプギヤガボヲロオ] | <ruby>Puurapugiya ga booroo<rt>Come from the great hole in the earth</rt></ruby> |  | interrupted earth-spike incantation; project-original |
 | よくも踏んだな[×××プーラプツタ] | <ruby>××× Puuraputsuta<rt>How dare you step on me</rt></ruby> |  | earth-spike incantation; project-original |
 | 我が怒り[××ギユナ] | <ruby>×× Giyuna<rt>my rage</rt></ruby> |  | continuation of the blood-magic incantation; project-original |
-| 貴様の血を一滴残らず絞り出し[ハトバトデーニツダワータグ・ミ![gaiji-0003.png](images/gaiji-0003.png)ン] | <ruby>Hatobato De-nitsu Dawa-tagu Mi![gaiji-0003.png](images/gaiji-0003.png)n<rt>Wringe every last drop of blood from you</rt></ruby> |  | blood-magic incantation; preserve gaiji in baseline; project-original |
+| 貴様の血を一滴残らず絞り出し[ハトバトデーニツダワータグ・ミ![gaiji-0003.png](images/gaiji-0003.png)ン] | <ruby>Hatobato De-nitsu Dawa-tagu Mi![gaiji-0003.png](images/gaiji-0003.png)n<rt>Wring every last drop of blood from you</rt></ruby> |  | blood-magic incantation; preserve gaiji in baseline; project-original |
 | 先祖への贖いとしよう[ラソテフ××リ×クワワ] | <ruby>Rasotefu ×× Ri × Kuwawa<rt>Let it atone to your ancestors</rt></ruby> |  | blood-magic incantation; preserve omitted magic-language characters; project-original |
 | 凍れ | Freeze | Freeze spell | Blue Witch's basic freezing spell |
 | 凍れ[ヴアアラー] | <ruby>Vaa-ra<rt>Freeze</rt></ruby> | Freeze[ヴアアラー], Freeze[Vaa-ra] | freezing core spell; ruby baseline is the spoken magic-language reading |
@@ -270,9 +272,9 @@
 | 火山もその星灯りに耐え兼ねて[×××××キアキヤロヲウオリ] | <ruby>××××× Kiakiyaro Wouori<rt>Even the volcano could not bear that starlight</rt></ruby> |  | interrupted Dragon Witch incantation |
 | 身を縮め大地に隠れた[エンイエンシユオアベギ・チツーテツピカ] | <ruby>Enien Shiyuoa Begi Chitsuutepika<rt>it shrank down and hid in the earth</rt></ruby> |  | Spider Witch's transformation-magic incantation span; project-original |
 | 月影も涼風も全て氷になればいい[××・××フイフイ・イイヴアアラー] | <ruby>×× ×× Fuifui Ii Vaa-ra<rt>Let moonlight and cool breezes alike all become ice</rt></ruby> |  | Blue Witch's object-freezing incantation |
-| 息子の無事が分かるなら、この目を抉ってもいい[ヨモホロゲジュヤ・タケタテェエ、クンヌム・ワーア] | <ruby>Yomohoroge Jyuya Taketatee Kunnu-mu Wa-a<rt>If it meant knowing my son was safe, I'd be willing to gouge out this eye</rt></ruby> |  | Eyeball Witch's familiar-summoning incantation as displayed with ruby |
-| 息子の無事が分かるなら[ヨモホロゲジユヤタケタテエエ] | <ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby> |  | interrupted familiar-summoning incantation |
-| 息子の無事が分かるなら[ヨモホロゲジユヤ・タケタテエエ] | <ruby>Yomohoroge Jiyuya Taketatee<rt>If it meant knowing my son was safe</rt></ruby> |  | familiar-summoning incantation span; punctuated source variant |
+| 息子の無事が分かるなら、この目を抉ってもいい[ヨモホロゲジュヤ・タケタテェエ、クンヌム・ワーア] | <ruby>Yomohoroge Juya Taketatee Kunnu-mu Wa-a<rt>If it meant knowing my son was safe, I'd be willing to gouge out this eye</rt></ruby> | Jyuya, Jiyuya | Eyeball Witch's familiar-summoning incantation as displayed with ruby |
+| 息子の無事が分かるなら[ヨモホロゲジユヤタケタテエエ] | <ruby>Yomohoroge Juya Taketatee<rt>If it meant knowing my son was safe</rt></ruby> | Jyuya, Jiyuya | interrupted familiar-summoning incantation |
+| 息子の無事が分かるなら[ヨモホロゲジユヤ・タケタテエエ] | <ruby>Yomohoroge Juya Taketatee<rt>If it meant knowing my son was safe</rt></ruby> | Jyuya, Jiyuya | familiar-summoning incantation span; punctuated source variant |
 | この目を抉ってもいい[クンヌム・ワーア] | <ruby>Kunnu-mu Wa-a<rt>I'd be willing to gouge out this eye</rt></ruby> |  | familiar-summoning incantation span; project-original |
 | 両目を潰せば真実が見えなくなるとでも[ヤヤクンヌムグーラツグ・×××リソンヌム・カカ] | <ruby>Yaya Kunnu-mu Gu-ratsugu ××× Risonnu-mu Kaka<rt>Do you think crushing both eyes makes the truth invisible</rt></ruby> |  | Spider Witch's clairvoyance-magic incantation; project-original |
 | 迷い惑え[カナンジエロ] | <ruby>Kananjiero<rt>Wander in confusion</rt></ruby> |  | Lost Mist incantation span; project-original |
@@ -328,7 +330,7 @@
 | 地下部 | below-ground part | underground part, subterranean part | plant-monster body division: roots and similar buried growth; project-original |
 | 繁殖部 | reproductive part | propagation part, breeding part | plant-monster body division: flowers, fruit and other reproductive growth; project-original |
 | 粘体 | viscous body | viscous mass, gel body | the bulk outer layer of a slime, over 99% of its mass; project-original |
-| 粘液 | mucus | slime fluid, viscous fluid | liquid strained from the 粘体; distinct from it; project-original |
+| 粘液 | mucus | slime fluid, viscous fluid | liquid strained from the 粘体; distinct from it; the lock covers this slime-material sense only, generic 粘液 on other subjects (e.g. V2 Ch14 corpse) is rendered naturally; project-original |
 | ゴム質 | rubbery layer | rubber quality, rubbery matter | a slime's elastic middle layer, around the Gremlin; project-original |
 | マモノバサミ | Monster Trap | monster clamp, Mamono Trap | time-stasis trap magic tool |
 | 隠し玉 | trump card | hidden card | decisive held-back advantage; project-original |
@@ -441,15 +443,17 @@
 | メテオフレイム | Meteoflame | Meteor Flame | Dragon Witch's claimed name for Blood Moon |
 | 東北狩猟組合 | Tohoku Hunting Association | Touhoku Hunting Association | northeastern hunter organization |
 | 北海道魔獣農場 | Hokkaido Magic Beast Farm | Hokkaidou Magic Beast Farm | northern monster-livestock community |
+| 宗谷岬 | Cape Soya | Cape Souya, Soya Cape | northernmost point of Japan; V3 afterword (2026-09-29) |
 | 琵琶湖協定 | Lake Biwa Pact | Biwako Pact, Lake Biwa Agreement | large Japanese survivor community; project-original |
 | 荒瀧組 | Arataki Group | Arataki-gumi | large yakuza survivor organization invading Tokyo; project-original |
 | 指定暴力団 | designated crime syndicate | designated organized crime group, designated violent group | the Arataki Group's legal designation; project-original |
 | 反社会勢力 | organized crime | antisocial forces, antisocial elements | the euphemistic collective term; rendered as plain English rather than the literal calque; appears on the Volume 4 next-volume preview page (p285) |
 | 暴力団対策法 | Boryokudan Countermeasures Act | Anti-Boryokudan Act, Bota Law | 1992 Japanese anti-organized-crime law; one-off historical reference in Volume 4, Chapter 12; project-original |
 | 暴対法 | Boryokudan Countermeasures Act | Anti-Boryokudan Act, Bota Law | shortened source form of 暴力団対策法; one-off historical reference in Volume 4, Chapter 12; project-original |
-| 組長 | boss | group leader | head of a yakuza organization; distinct from 若頭 "Young Boss"; project-original |
+| 組長 | gang boss | group leader | head of a yakuza organization; distinct from 若頭 "Young Boss"; lowercase common noun ("the gang boss"); project-original |
 | 若頭 | Young Boss | underboss | Arataki Group title; project-original |
 | 舎弟頭 | Junior Boss |  | Arataki Group title; project-original |
+| 魔女衆 | witch crew |  | Arataki Group's label for its witches, quoted alongside 組長/若頭/舎弟頭 (V4 Ch9); project-original (2026-09-29) |
 | 東京魔女集会 | Tokyo Witches' Council | Tokyo Witch Assembly | political council of Tokyo Transcendents |
 | 魔女集会 | Witches' Council | witches' gathering, witches' assembly, coven | bare short form of 東京魔女集会; must match the full form |
 | 交換市 | barter market | exchange market, trade fair | recurring market where goods are exchanged without currency; project-original |

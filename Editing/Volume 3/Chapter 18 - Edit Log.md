@@ -120,3 +120,48 @@ Kept the Blue Witch's close-third narration plain and past-tense, consolidated t
 - **●　次の問い** (JP 360): restored leading "●" on the instruction line — mechanics
 - **![p292-293.jpg]** (JP 468): removed the trailing post-afterword preview-spread image marker; neither ad spread follows the omitted afterword in English, and the file now ends with the Q4 explanation — mechanics
 - Gates: `run_chapter_gates.py --unit 3 --chapter 18` ALL PASS (normalize_romaji, consistency_chapter, consistency_unit); `normalize_romaji.py --check` PASS (macrons 0->0).
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 90 reviewed, 12 flagged. Round 1: 8 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 12 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 今日 of 今日もまた
+  - Final text: "The longer you knew someone, the better you understood them. One look at Ori, absorbed in Gremlin processing in his workshop again today, told the Blue Witch he wouldn't be coming back to reality anytime soon."
+- **F2** — APPLIED — accuracy — restore らしい hedge
+  - Final text: "That was Sekitan, all right—so laid-back it apparently hadn't even noticed the Blue Witch approach."
+- **F3** — APPLIED — accuracy — restore しばらく duration
+  - Final text: "After watching for a while, she saw the fire salamander take one of Ori's shirts in its mouth and tug it out of the chest."
+- **F4** — APPLIED — voice — 子たち back to "kids" (also removes echo of line 21 "creatures")
+  - Final text: "They were cute, innocent kids."
+- **F5** — APPLIED — accuracy — "refused" → "wouldn't" (editor counter; Codex accepted)
+  - Final text: "It rumbled longingly in its throat but wouldn't come any closer, so the Blue Witch set the charcoal down and backed away."
+- **F6** — APPLIED — accuracy — やってみたらどうだ as suggestion
+  - Final text: "“Tsubaki. How about trying it like this?”"
+- **F7** — APPLIED — accuracy — 目を見開いた restored
+  - Final text: "The Blue Witch's eyes widened."
+- **F8** — APPLIED — voice — keep the pitfall image
+  - Final text: "She had stepped straight into an obvious pitfall."
+- **F9** — APPLIED — accuracy — drop added "sat"; restore ショックで (editor counter; Codex accepted)
+  - Final text: "Tsubaki didn't react. It was dazed with shock, seemingly oblivious even to the Blue Witch beside it."
+- **F10** — APPLIED — accuracy — 弱かった not "helpless"
+  - Final text: "But she was bad at dealing with problems that couldn't be solved by defeating an enemy."
+- **F11** — APPLIED — accuracy — drop "deeply"/"helplessness"; 塞ぎ込む as "down" (Codex counter accepted over editor's "moping")
+  - Final text: "That said, the Blue Witch had been down for a while because of that, but now she wasn't nearly so pessimistic."
+- **F12** — APPLIED — worse — "water-bathed ... adsorbs to" smoothed; method name keeps glossary form
+  - Final text: "By observing how strongly a 0.01 g tourmaline disk heated to 100°C in a water bath adheres to a Gremlin, the amplification ratio can be measured."
+
+Checks: check_reedit RESULT: FAIL (pre-existing, not from this debate: "headings 0 -> 2" for the two exam-section headings the earlier re-edit added in C90; the baseline lacked the JP's 入試問題 抜粋 / 解答 section, and the filed HEAD version fails identically; only other WARN is word count +12.9%, from the same added section). Gates: ALL PASS.
+
+Reference flags: none. Note for lead: line 197 "The Blue Witch clutched her head." drops the も of 青の魔女も頭を抱える ("too", mirroring Tsubaki's shock); unchanged line, outside this debate's scope.
+
+### Lead Fixes (series rulings)
+- も restored (JP 304 青の魔女も頭を抱える): "The Blue Witch clutched her head." → "…her head too."
+- check_reedit headings 0 → 2 accepted: the two exam headings are the JP section titles (JP 357, 398) restored by the 2026-09-28 pass
+
+## User Rulings — 2026-09-29
+
+- Afterword (あとがき) translated for the first time and inserted as `## Afterword`; translated by a subagent, critiqued by Codex (gpt-5.6-sol, high, read-only), findings adjudicated by the lead: 12 Codex flags across the V3/V4 afterwords; V3: dropped added "teeth chattering", singular whitecap, "tall tale" for 与太話, pun line reworked, 名も知らない softened.

@@ -40,7 +40,9 @@ The Blue Witch pried the fountain pen from her fingers, pushed the papers aside,
 
 Ohinata fussed a little and reached for her unfinished work, but once she was lying on the soft sofa with a blanket over her, her will to get up seemed to crumble.
 
-The Blue Witch held Ohinata's small hand and gently stroked her cheek. "Have you seen a doctor? Want me to go get one?"
+The Blue Witch held Ohinata's small hand and gently stroked her cheek.
+
+"Have you seen a doctor? Want me to go get one?"
 
 "The doctors are sick too. Have you seen what the city's like? Half the people are ill. And not just in Bunkyo Ward. These symptoms might be spreading across all of Tokyo—no, all of Japan..."
 
@@ -110,7 +112,7 @@ The Blue Witch crushed the paper in her fist.
 
 The warning had come far too late.
 
-Thanks to the spread of fertility magic and fire magic, well over half of Tokyo's residents had definitely been through magic-power-depletion fainting already.
+Thanks to the spread of fertility magic and fire magic, more than half of Tokyo's residents had definitely been through magic-power-depletion fainting already.
 
 At the Magic University especially, the entrance exam included a magic-power capacity test that pushed applicants to their absolute limit, so 99% of its people had experienced magic-power-depletion fainting.
 
@@ -218,7 +220,7 @@ Then it suddenly came back to her: Ori lived deep in the mountains and probably 
 
 The Blue Witch was Ori's source of news. If the Blue Witch said nothing, Ori knew nothing.
 
-She didn't know whether Ori had ever experienced magic-power-depletion fainting, but if he hadn't yet, she needed to warn him before the illness could turn severe—before his mortality rate could shoot up to 100%.
+She didn't know whether Ori had ever experienced magic-power-depletion fainting, but if he hadn't yet, she needed to warn him before the illness could turn severe—before its mortality rate could shoot up to 100%.
 
 Her head had gotten so sluggish that she hadn't even realized that until now.
 

@@ -57,3 +57,22 @@
 - Verified the Wise Wand semantic ruby, all three equipment semantic-ruby spans, and the gaiji-bearing shooting spell against locked glossary forms.
 - Verified exact material and magic-power-training apparatus terms; added durable glossary rows only for the recurring apparatus/material concepts, not one-off products.
 - Narrative/direct-thought tense distinction, image marker `![p271.jpg](images/p271.jpg)`, no title heading, and absence of footnotes verified.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–287 (`reedit-c16-s1`); subagent model Claude Opus; 68 changed paragraphs). Flow: short-sentence share 27.5% -> 27.2%; runs 2 -> 1; FLOW: ok. Codex critique: 69 changes reviewed, 7 flagged; all 7 accepted (F5 with lead rewording).
+
+### Accuracy Fixes
+- **…鍛錬し続けているというから / 彼女らの肌感として…という話だ**: hearsay restored — accuracy
+- **２００Ｋぐらいまで伸びる**: "by around 200 K" → "reaching around 200 K" — accuracy
+- **も / 何事も / なんか**: nuance restored — accuracy
+- **嬉しそうに受け取ってくれた**: "she looked happy to accept it" — accuracy
+- **二番目に飛んだ飛行機は全く知られていない… / 大切なのである**: general truths in present — tense
+- **童話から飛び出してきたような王道魔女の姿を見たい**: "you" restored — accuracy
+- "A amulet" → "An amulet" — punct
+
+### Register and Flow
+Kept the "Hiyori was happy… / I was happy… / Everybody was happy." triple. Dialogue paragraphs 11 → 12: the missing opening quote restored on Ori's second robe-spec paragraph.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 16` ALL PASS.

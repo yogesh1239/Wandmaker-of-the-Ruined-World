@@ -209,3 +209,60 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image marker, scene breaks, ruby span, and `[^1]`–`[^3]` notes unchanged; `check_reedit.py` PASS (FLOW ok); `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 156 reviewed, 22 flagged. Round 1: 5 conceded, 5 pushed back, 12 countered. Codex after round 1: 4 withdrew, 10 accepted, 0 maintained, 2 countered. Round 2: yes (F7 conceded to Codex's counter; F22 pushed back, Codex withdrew).
+Final: 17 changed, 5 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — removed garden-path fronting and doubled "fix"
+  - Final text: "If there was one thing I'd always had total confidence in, it was my skill with my hands, and just as I'd figured, I fixed every piece of junk I bought thinking I could."
+- **F2** — APPLIED — worse — "Anime were always featuring" / "merchandise of them"
+  - Final text: "Anime often featured magic swords and mysterious wands, and the official rights holders would put out merchandise based on them."
+- **F3** — APPLIED — accuracy — 不安よりも不審が勝った is about his feelings, not a verdict
+  - Final text: "I was more suspicious than worried."
+- **F4** — KEPT — tense — 数日の辛抱だ is one self-encouraging thought with the following volitional 待とうじゃないか
+  - Why kept: past here would split one thought across tenses; Codex withdrew.
+- **F5** — APPLIED — worse — "gemstone ball" for 球体宝石; avoided Codex's dangling participle
+  - Final text: "Finally, I used that powder as an abrasive to polish it, and I had a beautiful, glossy spherical gem."
+- **F6** — APPLIED — tense — らしい inference to past; という事は as "which meant", not a hypothetical "if"
+  - Final text: "The power still wasn't back after seven days, which meant there must have been a massive disaster."
+- **F7** — APPLIED — tense — …のだろう to past; 復旧の手 as "recovery efforts" (Codex's round-1 counter)
+  - Final text: "I wanted to believe things were at least coming back in central Tokyo, but it would probably be a while longer before recovery efforts reached Okutama—technically part of Tokyo, but out in the sticks."
+- **F8** — APPLIED — accuracy — 一軒家 restored as a standalone house, without "detached house" jargon
+  - Final text: "I didn't want to meet anyone, and I didn't want to talk to anyone. That was the whole reason I lived quietly in a house all by itself deep in the mountains."
+- **F9** — APPLIED — accuracy — dropped unsupported "a little"; kept あるまい hedge idiomatically
+  - Final text: "Well, I'm worried and uneasy, but it's probably nothing to take too seriously."
+- **F10** — KEPT — accuracy — "playing music at full volume" / "wavelength of the music" (音楽の音)
+  - Why kept: faithful and natural; Codex withdrew.
+- **F11** — APPLIED — accuracy — 木々の間を貫き passes between trees; no damage
+  - Final text: "Again, something like a white beam shot out, streaked between the trees on the mountainside, and vanished into the distance."
+- **F12** — APPLIED — tense — きっと…のだ inference, no signal, to past
+  - Final text: "That had to be why I was tired: I'd been using up magic power."
+- **F13** — KEPT — worse — three-clause series mirrors the JP's …し、…し parallel; not a comma splice
+  - Why kept: grammatical and faithful to the parallel; Codex withdrew.
+- **F14** — APPLIED — accuracy — 都心 = central Tokyo, matching EN line 143
+  - Final text: "But even this deep in the mountains, far from central Tokyo, could restoration really take this long?"
+- **F15** — APPLIED — accuracy — restored だけ and 手違い
+  - Final text: "What if the restoration work had actually finished ages ago, and my house was the only one that got forgotten through some mix-up?"
+- **F16** — KEPT — accuracy — "so naturally" carries 当然's junk-origin logic; "won cheap" is casual register
+  - Why kept: the causal link is the JP's own implied reasoning; Codex withdrew.
+- **F17** — APPLIED — accuracy — triple 分解 echo restored as "took apart"
+  - Final text: "I took apart other pieces of junk to check their power units. I pulled the batteries out of my flashlight and took those apart. I took apart my computer and refrigerator too."
+- **F18** — APPLIED — tense — …とは思えない appraisal to past
+  - Final text: "There was no way this freaky phenomenon had only happened inside my house."
+- **F19** — APPLIED — tense — 恐らく…収まらない inference to past
+  - Final text: "This probably wasn't limited to Okutama, because if it had only happened here, rescue teams would have shown up long ago."
+- **F20** — APPLIED — tense — same thought as F19
+  - Final text: "And since they hadn't, this had to be happening on a much bigger scale, with chaos so bad that rescue wasn't even possible."
+- **F21** — APPLIED — accuracy — ようになった change of state as "Now"
+  - Final text: "Now they drop crystals instead."
+- **F22** — KEPT — tense — conclusion of a single present-tense general-truth reasoning chain ending in もうおしまいだ
+  - Why kept: Codex's past-tense counter misrendered 謳歌する ("had flourished") and split one observed state across two tenses; Codex withdrew in round 2.
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

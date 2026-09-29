@@ -186,3 +186,26 @@
 - No source image marker or scene break occurs in scope; none was added.
 - Narrative/direct-thought tense, honorifics, JP name order, romanization, exact glossary renderings, and the semantic-ruby HTML standard were verified.
 - No footnote markers or Translator Notes occur in scope.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–638 (`reedit-c8-s1`); subagent model Claude Opus; 128 changed paragraphs). Flow: short-sentence share 35.5% -> 30.2%; runs 6 -> 6; FLOW: ok. Codex critique: 128 changes reviewed, 7 flagged; all 7 accepted.
+
+### Accuracy Fixes
+- **申し訳なさそうに謝り**: "sheepishly" restored — accuracy
+- **強制契約が行われ…という / 悪いとは思ったが…怖かったそうだ**: hearsay restored — accuracy
+- **行動不能になってしまっているはずだ**: はず inference restored ("must be all but unable to act") — accuracy
+- **区役所 (JP 571)**: "Bunkyo Ward Office" → "the ward office" (source has no ward name) — accuracy
+- **俺は昔から蜘蛛が好きだ**: no direct-thought signal → past — tense
+- **じゃん!? / でけぇ！ / 気まずいんですけど！ / 苦労してるんすね**: marked direct thought → present — tense
+- **Tsubaki**: "her tail flame" → "its tail flame" (gender Unknown) — referent
+
+### Register and Flow
+Kept six comic-reaction runs ("I-It's huge! Way too huge!", "So cool! / Hobbies?", "There, there. Calm down, you three.", etc.). File stays straight-quoted.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 8` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Spoken salamander cries: "Mee" forms normalized to "Mii" (series majority) in quoted cries.

@@ -30,7 +30,7 @@ The lack of people was another plus. It was the perfect place to loot.
 
 With my magic wand Hendensho in one hand, I snuck warily into a house with a broken window and looted it for food. Nobody was home, but one room reeked of something rotting and had dried blood in front of its door, so I stayed out of that one.
 
-So something bad really had happened in town. Thank god I'd holed up deep in the mountains.
+Sure enough, it looked like something bad had happened in town. Thank god I'd holed up deep in the mountains.
 
 There wasn't much food, but I still came away with a decent haul of unopened canned goods, seasonings, and dried noodles. The bookshelf also had volumes of a manga I'd been low-key wanting to keep reading, which was a big score. I shoved it all into my hiking backpack and moved on to the house next door.
 
@@ -40,7 +40,7 @@ A line added underneath bothered me, though: "Be more careful of monsters than p
 
 The evacuees from Okutama should have come to Ome, but there was no sign of anyone, and I couldn't get a read on the situation. I'd grab what I could and head straight home.
 
-The second house had no food at all, but in the storage room I found strawberry and edamame seeds for growing in planters. My home garden didn't have either of those. This is huge.
+The second house had no food at all, but in the storage room I found strawberry and edamame seeds for growing in planters. My home garden didn't have either of those. That was huge.
 
 Other than that, the house didn't have much. Just a fish tank whose water had evaporated completely, with dried-up goldfish lying on the gravel. That one got to me a little. The end of the world sure is depressing.
 
@@ -70,7 +70,7 @@ I surrender! I surrender! I don't want a magic shootout! I'll die!
 
 I frantically tossed my wand aside and threw both hands up in surrender. Keeping her eyes on me the whole time, the girl jumped down from the roof.
 
-She landed lightly, without the slightest wobble—no normal human moved like that.
+She landed lightly, without the slightest wobble, in a way that hinted at inhuman physical abilities.
 
 W-Who even are you? People are scary enough already. Add that overbearing attitude and what you just pulled, and you're three times scarier.
 
@@ -120,11 +120,11 @@ She ran her fingers along the wand and held the electric crystal up to the sun, 
 
 I'd been about to ask whether she'd let me go if I gave her the wand, but she cut me off, so I shut my mouth.
 
-Yes, ma'am, waiting. I'm smarter than a dog, so I can do "wait." Woof.
+Okay, waiting. I'm smarter than a dog, so I can do "wait." Woof.
 
-I kept quiet as told so I wouldn't get on her bad side. Then, without hurrying, she raised Hendensho and chanted a spell.
+I kept quiet as told so I wouldn't get on her bad side. Then, without hurrying, she raised Hendensho and recited an incantation.
 
-"Freezing Javelin[^1]!"
+"<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>!"
 
 The strange words came out in an odd, unfamiliar intonation, and a spear of ice about as thick as I could wrap my arms around shot out of Hendensho-kun, slammed into the wall of a house, and shook the whole building.
 
@@ -132,7 +132,7 @@ The strange words came out in an odd, unfamiliar intonation, and a spear of ice 
 
 M-Magic!? That's awesome! It looks like way higher-level magic than the white beams I always use!
 
-How'd you do that!? That was an incantation you just said, right!?
+How'd you do that!? That was an incantation just now, right!?
 
 The surprise made me forget my fear for a second, and all at once I was dying to know. But the girl was even more surprised than I was.
 
@@ -224,7 +224,7 @@ You're only pretending to reassure me so you can scare me, aren't you?
 
 To show I wasn't scared, I elegantly raised my tea to my lips, but my hands shook so much that half of it spilled down my front.
 
-"If possible, I'd appreciate it if you could just cover everything in general, like you're teaching a kid who doesn't know anything."
+"If possible, I'd appreciate it if you could fill me in on a bit of everything, like you would a kid who doesn't know anything."
 
 "Your tea's... Well, whatever. Let's see, where should I start? Do you know about Gremlins?"
 
@@ -246,7 +246,7 @@ Like when someone dumped bluegill into a lake, and in no time they'd eaten up th
 
 I'd thought Okutameteorite was the stuff of dreams, but it turned out to be seriously bad news.
 
-"Gremlins grow by absorbing electricity, and not just from machines. You know electric eels, right? Most of the ones kept in aquariums were killed by Gremlins that grew inside them and ate their way out, but a few adapted. They gained magic and became monsters. Then there are animals that started using magic by circulating Gremlins through their bodies, whether it's their constitution or something else, I don't know, and animals that mutated into creatures nothing like what they used to be. Lump them all together, and those are monsters."
+"Gremlins grow by absorbing electricity, and not just from machines. You know electric eels, right? Most of the ones kept in aquariums were killed by Gremlins that ate through their insides as they grew, but a few managed to adapt. They gained magic and became monsters. Then there are animals that started using magic by circulating Gremlins through their bodies, whether it's their constitution or something else, I don't know, and animals that mutated into creatures nothing like what they used to be. Lump them all together, and those are monsters."
 
 "Sensei. On my way to Ome, I saw some houses that were totally wrecked."
 
@@ -256,11 +256,11 @@ I raised my hand as I said it, and the Blue Witch nodded.
 
 "Ah..."
 
-That's chilling.
+That was chilling.
 
 Man, holing up at home really was the right call. If I'd evacuated, I'd have been done for. It all worked out.
 
-Still, listening to all this, it sounds like humanity's extinction is just a matter of time.
+Still, listening to all this, it sounded like humanity's extinction was just a matter of time.
 
 With electricity gone, the arms factories can't run, so the ammo's going to run out soon, right? Isn't it game over?
 
@@ -270,7 +270,7 @@ But one thing still bothered me.
 
 "I'm a witch, after all."
 
-"...Um. You mean you can use magic, so you're strong?"
+"...Um. You mean you can use magic and you're strong?"
 
 It didn't quite click, so I checked, and the Blue Witch filled in the details, swinging her empty teacup.
 
@@ -278,7 +278,7 @@ It didn't quite click, so I checked, and the Blue Witch filled in the details, s
 
 "But I survived. Women who survive having their bodies invaded by Gremlins are called witches. Monster women. Witches, in other words."
 
-Men were mages, and both together were Transcendents, the Blue Witch added, pouring herself more tea.
+Men were mages, and witches and mages together were called Transcendents, the Blue Witch added, pouring herself more tea.
 
 Sounds like you've been through a lot. Phew, good thing I'm not static-prone.
 
@@ -304,7 +304,7 @@ What? Did I step on a landmine? Scary, scary!
 
 So the "who gave you permission to be here, blah blah" thing she'd said when we met basically meant "Which witch sent you?"
 
-Ignorance was a scary thing. The Blue Witch was intimidating and dangerous, but at least you could talk to her. If I'd blundered into the territory of that man-eating witch she'd mentioned in passing, I'd be lunch by now.
+Ignorance was a scary thing. The Blue Witch was intimidating and dangerous, but at least you could talk to her. If I'd blundered into the territory of one of those man-eating witches she'd mentioned in passing, I'd be lunch by now.
 
 I was glad I'd gotten this crash course in the basics.
 
@@ -360,13 +360,13 @@ I don't have any secret method.
 
 I answered honestly, and the Blue Witch drummed her fingertips on the table in irritation.
 
-"'Dexterous' doesn't begin to cover this, you idiot! If being dexterous were enough to process Gremlins, I'd have polished this magic stone into a sphere ages ago. Look at the Gremlin in this wand. What is this? Huh? You weren't satisfied with just making it spherical, so you put a sphere inside the sphere! It makes no sense. No human being should be able to pull off a miracle like this. Tell me the truth. What did you use? Laser machining? Hm?"
+"'Dexterous' doesn't begin to cover this, you idiot! If being dexterous were enough to process Gremlins, I'd have polished this magic stone into a sphere ages ago. Look at the Gremlin in this wand. What is this? Huh? You weren't satisfied with just making it spherical, so you carved a sphere inside the sphere! It makes no sense. No human being should be able to pull off a miracle like this. Tell me the truth. What did you use? Laser machining? Hm?"
 
 She kept pressing me, but I really didn't have a secret method. I'd just carved it the normal way.
 
 But if I told her the truth, "I'm dexterous," she'd just call it a lie.
 
-The Blue Witch had clearly been through hell and back. If we kept going around in circles, she might decide I was a liar and kill me.
+The Blue Witch had apparently been through hell and back. If we kept going around in circles, she might decide I was a liar and kill me.
 
 So I decided to demonstrate on the spot.
 
@@ -388,7 +388,7 @@ Her tone made it obvious she didn't believe a word. She said she'd go get a Grem
 
 I nodded frantically, over and over.
 
-Could you not threaten me every five seconds? It's scary.
+Could you not threaten me every single time? It's scary.
 
 I get it, to you I'm probably just some suspicious guy who wandered into your turf. But to me, you're basically the yakuza. Sure, we can talk, but I have no idea if talking means I get out of here alive.
 
@@ -428,13 +428,13 @@ It was enough to make me want to click my tongue.
 
 What is the Blue Witch even doing? This is a rare, expensive masterpiece that set a new record for the highest-priced piece of official made-to-order anime merch. If it's broken, she should send it in for repairs. Does she even know what this is worth? Idiot!
 
-Haah, good grief. Guess it's up to me to step in, then.
+Sheesh, good grief. Guess it's up to me to step in, then.
 
 I borrowed some tools from the gun-maintenance toolbox on the worktable and quickly took the music box apart, careful not to scratch it. From the look of the insides, it had been dropped or banged hard, and the gears had slipped out of place.
 
 Phew. This is an easy fix.
 
-The hit had been hard enough to warp the frame, but the mechanism was built with some clever play in it, so the parts had just popped loose instead of breaking. Hmmm. That's a useful trick, and I'm totally stealing it.
+It seemed to have taken a hit hard enough to warp the frame, but the mechanism was built with some clever play in it, so the parts had just popped loose instead of breaking. Hmmm. That's a useful trick, and I'm totally stealing it.
 
 Impressed, I fixed it, put it back together, and wound the key.
 
@@ -480,7 +480,7 @@ Eventually the music box ran down and the song stopped. The Blue Witch turned aw
 
 And, with any luck, talk her out of that music box. I'd trade her about half my other merch for it.
 
-I kept my ulterior motive hidden and buttered her up, and the Blue Witch answered shortly, a deep sadness hanging over her.
+I kept my ulterior motive hidden and buttered her up, and the Blue Witch answered briefly, looking deeply sad.
 
 "My little sister died. She got sick."
 
@@ -522,7 +522,9 @@ I refused across the board, but the Blue Witch kept pushing, in full meddling mo
 
 "...Anything?"
 
-The Blue Witch started to nod, then seemed to realize something and hastily added, "N-No lewd stuff!"
+The Blue Witch started to nod, then suddenly realized something and hastily added:
+
+"N-No lewd stuff!"
 
 "Then could you not talk to me? Please don't come near me. I don't even want to see your face."
 
@@ -530,13 +532,13 @@ The Blue Witch started to nod, then seemed to realize something and hastily adde
 
 She'd said anything, so I honestly told her what I wanted most. The Blue Witch froze in shock, and the little chunk of Gremlin in her hand dropped to the floor.
 
-Her overreaction seemed weird, and it took me a beat to realize I'd given her a horribly wrong idea.
+I tilted my head at her weird overreaction, and it took me a beat to realize I'd given her a horribly wrong idea.
 
 "No! It's not that you're creepy, Blue Witch-san, or that I hate you or anything! It's just that hearing someone's voice or seeing their face makes me want to throw up. Ah, no, that sounds wrong too!? No, no, no, that's not it!"
 
 Despairing at my own lousy communication skills, I spent the better part of an hour finally clearing up the misunderstanding.
 
-At least, I think I cleared it up.
+I thought I'd probably cleared it up.
 
 Apparently the Blue Witch had never run into a social misfit like me before, and it took a lot of work to get her to understand that I didn't hate her. I just had trouble with every human being, period.
 
@@ -570,7 +572,7 @@ I blasted it with my stupidly loud voice at its natural frequency, and a weak li
 
 The Blue Witch covered her ears against the noise.
 
-"You saw that, right? That's how much magic power this Gremlin has right now. Next I'll process it into a sphere and show you how much stronger it gets."
+"You saw that, right? That's how powerful this Gremlin's magic is right now. Next I'll process it into a sphere and show you how much stronger it gets."
 
 "...?"
 
@@ -584,9 +586,9 @@ No questions? Good enough for me, so I got straight to processing it.
 
 I had nothing to hold the rice-grain-sized Gremlin in place, so I had to shave it down with the tip of my knife while it rolled around on the desk, which really frayed my nerves. I should've at least brought tweezers.
 
-But dexterity is the one thing I've got going for me.
+But dexterity was the one thing I had going for me.
 
-Even with makeshift tools, a few minutes' work left me with something I was really proud of.
+Even without proper tools, a few minutes' work left me with something I was really proud of.
 
 "Done. I haven't polished it, but I think its power's gone up a fair bit. Here goes."
 
@@ -600,7 +602,7 @@ The Blue Witch was quiet for a while. Then she wrote something on a sheet of dra
 
 It was cute, round, super girly handwriting that didn't fit her cool look at all. The gap was enough to make my brain glitch.
 
-> Ori, you should go into hiding. If this feat gets out, every witch and mage in Japan will come after you.
+> Ori, you should go into hiding. If this feat gets out, witches and mages all over Japan will come after you.
 
 "That bad...?"
 
@@ -620,13 +622,13 @@ This is world-changing stuff. Way too dangerous. If my abilities and identity ge
 
 ...But having the power to change the world is kind of exciting, isn't it?
 
-Honestly, I want to crank out overtech magic wands only I can make, sell them by the truckload, and gloat.
+Honestly, I want to crank out overtechnology magic wands only I can make, sell them by the truckload, and gloat.
 
 The power can stay off for all I care, if only online auctions would come back. I want to sit there grinning while the bids on my magic wands climb higher and higher!
 
 But that's a pipe dream: online auctions are gone, and they're never coming back.
 
-I'd never make it in a backslid business world where you have to do the legwork and the talking to sell anything.
+I'd never make it in a business world that's gone backward, where you have to do the legwork and the talking to sell anything.
 
 Just hearing the words "sales pitch" gives me goosebumps.
 
@@ -654,11 +656,11 @@ I'll be careful not to bump into her from now on, and she'll probably do the sam
 
 She really helped me out today, filling me in on all kinds of stuff.
 
-Granted, when my conclusion after all that information is "best to keep living pretty much like before," the whole exchange feels kind of pointless. But at least I'm free of the anxiety of having no clue what's going on around me.
+Granted, when my conclusion after all that information was "best to keep living pretty much like before," the whole exchange felt kind of pointless. But at least I was free of the anxiety of having no clue what was going on around me.
 
-My food problem has a solution in sight, and now that I know the power isn't coming back, it'll be tough to make my living conditions any better than this.
+My food problem had a solution in sight, and now that I knew the power wasn't coming back, it would probably be really hard to make my living conditions any better than they were.
 
-Now that I understand the situation, I can more or less see where my life is headed.
+Now that I understood the situation, I could more or less see where my life was headed.
 
 I bet it's going to be the same old thing, day after day, forever.
 
@@ -688,7 +690,7 @@ The Blue Witch.
 
 Here she was, dutifully putting up with my full-on social-misfit refusal to talk.
 
-She must think fixing the music box was a huge favor, because it looks like she'd go along with a few unreasonable requests.
+She seemed willing to go along with a few unreasonable requests, maybe because she thought fixing the music box was such a huge favor.
 
 Wouldn't hurt to ask, right?
 
@@ -712,7 +714,7 @@ Not expecting much, I asked.
 
 "Would you be the sales rep for my magic wands?"
 
-Truth was, even in my online-auction days, I hadn't been 100 percent people-free.
+Truth was, even in my online-auction days, I hadn't managed to avoid people a hundred percent.
 
 When I bought something, a delivery company brought it to my door and left it there. When I sold something, a company would likewise come pick up the package I'd left outside.
 
@@ -756,7 +758,7 @@ I kept working by candlelight, day and night.
 
 At some point my hands started shaking and my vision went blurry, and I realized I hadn't eaten in 24 hours. I grudgingly headed out to maybe catch a fish or something, only to find a paper bag stuffed with food, plus some firewood, sitting outside the front door.
 
-Huh!? Fairy-san!? Nah, this was definitely the Blue Witch's doing.
+Huh!? Fairy-san!? Nah, this is definitely the Blue Witch's doing.
 
 Inside were canned corned beef, fresh lettuce in Tupperware, and salted rice balls: about the best nutritional balance you could ask for these days. Rice had to be precious, too, so I was grateful.
 
@@ -768,13 +770,13 @@ For three days and three nights, I did almost nothing but eat, sleep, and proces
 
 Now and then I felt Fairy-san watching me through the window, but once I hit deep focus, I stopped noticing.
 
-Around the fifth layer, my tools stopped cutting it. Half resigned to it being a lost cause, I wrote the Blue Witch a letter asking for tools, and a day later, exactly what I'd ordered was sitting outside my door.
+Around the fifth layer, the work got difficult with only the tools I had on hand. Half resigned to it being a lost cause, I wrote the Blue Witch a letter asking for tools, and a day later, exactly what I'd ordered was sitting outside my door.
 
 Seriously, what a lifesaver. She'd deliver anything—it was like delivery service had come back just for me.
 
 In the end, all the processing and assembly, handle, joint, and protective materials included, took seven days. Massaging my rock-hard shoulders, I wrapped the finished wand in a simple layer of paper and left it at the front door. Job finally done.
 
-Man, what a job. My original estimate had been two weeks, and I'd told her so by slipping a written quote into the empty Tupperware when I left it outside to return it. But between getting better at the work and developing a new technique, I'd cut the schedule way down.
+Man, what a job. My original estimate had been two weeks, and I'd told her so by slipping a written estimate into the empty Tupperware when I left it outside to return it. But between getting better at the work and developing a new technique, I'd cut the schedule way down.
 
 Mm-hm, mm-hm. I made a good piece, and I learned a lot, too.
 
@@ -793,7 +795,3 @@ I left the Blue Wand Cyanos at the front door with a delivery spec sheet, and wh
 I really hoped the Blue Witch would put Cyanos to work and do great things with it.
 
 Though I'd be just as happy if she put it on display to admire.
-
-## Translator Notes
-
-[^1]: The source writes “Freezing Javelin” but gives the spoken incantation as `ドウ・ヴアアラー`.

@@ -108,13 +108,17 @@ After the ice spears had sent her flying again and again, the huge oni woman put
 
 Or so I thought, until she went straight down on all fours and into a flawless bow, forehead to the ground.
 
-Then, in an earnest and ridiculously loud voice, she said, "Witch of Ome!! Look, I'm begging you!! Let me meet the Wand Maker!! I'd be breaking my code if I didn't thank my benefactor in person!!"
+Then, in an earnest and ridiculously loud voice, she said,
+
+"Witch of Ome!! Look, I'm begging you!! Let me meet the Wand Maker!! I'd be breaking my code if I didn't thank my benefactor in person!!"
 
 The Blue Witch fell silent.
 
 I fell silent too.
 
-Hey, you said this was an annoying situation, right?
+Hey.
+
+You called this an annoying situation.
 
 But hasn't it kind of turned into an interesting one?
 
@@ -122,7 +126,9 @@ The Wand Maker she's after is standing right in front of her, and she has no clu
 
 Then again, I probably just look like some card gamer with a deck case, not a Wand Maker. Good thing I kept Hendensho in my inside pocket.
 
-I poked my head out from behind the Blue Witch's back. "Um, this benefactor—what did they do for you?"
+I poked my head out from behind the Blue Witch's back and asked.
+
+"Um, this benefactor—what did they do for you?"
 
 I don't know any oni woman like this.
 
@@ -154,7 +160,9 @@ And then she used my wand to stop it?
 
 You almost never get field data that off-the-wall. I have to hear what the wand was like to use.
 
-"I want to ask her a few things," I whispered to the Blue Witch. "Can you let her in?"
+I whispered to the Blue Witch.
+
+"I want to ask her a few things. Can you let her in?"
 
 "...You sure? She's not rotten at heart, but she is a witch who eats people."
 
@@ -174,7 +182,9 @@ Ugh, so I have to do the talking? I don't wanna... but it's for valuable data, s
 
 The Blue Witch showed the Hell Witch into the living room, made just two cups of tea, and sat down at the table, with me beside her and the Hell Witch across from us.
 
-"You forgot a cup," I whispered into the Blue Witch's ear. "There are three of us in here."
+I whispered into the Blue Witch's ear.
+
+"You forgot a cup. There are three of us in here."
 
 "I know. I did it on purpose."
 
@@ -198,7 +208,7 @@ I looked at the Blue Witch, but she just sipped her tea and didn't seem about to
 
 "Er, um, I'm actually the Wand Maker's apprentice. I'll pass your thanks along."
 
-"So you're apprentice-kun!! Nice to meet you!! Is your master out right now or something!!? Or, don't tell me he's sick!!?"
+"So you're apprentice-kun!! Nice to meet you!! Is your master out right now or something!!? Or, don't tell me they're sick!!?"
 
 "Oh, no. He's just got crippling social anxiety, so he doesn't like meeting people."
 
@@ -220,11 +230,13 @@ While I was thinking of that dragon and her cutesy sentence endings, the Hell Wi
 
 "Shut up."
 
-I elbowed the Blue Witch in the ribs, and she looked away awkwardly.
+I nudged the Blue Witch with my elbow, and she looked away awkwardly.
 
 You're always calling me a socially anxious misfit, but you're pretty messed up yourself, you know.
 
-The oni woman looked up at the ceiling for a moment, thinking, then nodded once and dug a hand into her pants pocket. "Then, apprentice-kun!! I want you to give this to your master!! Tell him it's a thank-you gift from the Hell Witch!! If he makes wands, something like this should make good material, right!!?"
+The oni woman looked up at the ceiling for a moment, thinking, then nodded once and dug a hand into her pants pocket.
+
+"Then, apprentice-kun!! I want you to give this to your master!! Tell him it's a thank-you gift from the Hell Witch!! If he makes wands, something like this should make good material, right!!?"
 
 With that, she set a huge gemstone on the table.
 
@@ -232,7 +244,7 @@ It was a flat stone a little smaller than an open palm, with the vivid color of 
 
 But what really stood out was how beautiful it was!
 
-It hit me like a jolt.
+I felt a jolt.
 
 That unique presence.
 
@@ -244,7 +256,7 @@ No doubt about it.
 
 "I mean, not you, your master, okay!!?"
 
-Nodding along to the correction, I slid the amber magic stone over to my side before the Hell Witch could change her mind.
+Nodding along to the correction, I whisked the amber magic stone over to my side before the Hell Witch could change her mind.
 
 Yes! Talk about a windfall!
 
@@ -252,7 +264,9 @@ I made a wand with a Gremlin, and it came back to me as a magic stone!
 
 This thank-you gift is bugged! How great is that!?
 
-"Hey," the Blue Witch said curtly to the oni woman, looking a little fed up with the grin I couldn't hide. "You sure about this?"
+The Blue Witch looked a little fed up with the grin I couldn't hide and spoke curtly to the oni woman.
+
+"Hey. You sure about this?"
 
 "About what!!?"
 
@@ -272,7 +286,7 @@ At the Blue Witch's warning, the Hell Witch sprayed out her tea and started coug
 
 "So Eyeball didn't fill you in."
 
-"It's not like she didn't!! But pretty much all she said was that the Witch of Ome had gotten cold toward anyone who wasn't a resident, so even if I came, she probably wouldn't talk to me...!! Then what about that mask!!?"
+"It's not like she didn't!! But pretty much all she said was that the Witch of Ome had gotten cold toward anyone who wasn't a resident, so even if I came, I probably wouldn't get through to her...!! Then what about that mask!!?"
 
 "What's it to you what I wear?"
 
@@ -288,7 +302,7 @@ Um, you seem to think the mask came from some big incident too, but actually she
 
 The Blue Witch's hand stopped for a second as she poured me a refill.
 
-She hadn't seemed in a great mood to begin with, and now it dropped another notch.
+She hadn't seemed in a great mood to begin with, and now it soured another notch as she pressed the Hell Witch.
 
 "Why? You're from Tokyo, aren't you? It's not as if you left family behind in some hometown."
 
@@ -310,7 +324,7 @@ The Blue Witch asked quietly, "Don't you want to keep protecting the city?"
 
 "I see..."
 
-"? ...Oh!! Sorry, that was thoughtless!! There's hardly anybody in Ome because, I guess—no, I mean, sorry!!"
+"Huh? ...Oh!! Sorry, that was thoughtless!! There's hardly anybody in Ome because, I guess—no, I mean, sorry!!"
 
 "..."
 
@@ -328,7 +342,7 @@ Reviews! Usability! Give me your wand usage data!
 
 "Ah, um, sorry, there's still something..."
 
-"Oh, sorry, I was about to leave on my own!! What is it!!?"
+"Oh, sorry, I was about to leave without asking!! What is it!!?"
 
 "Um, would you mind telling me how the wand felt to use?"
 
@@ -368,7 +382,7 @@ But one day, an emergency left her no choice.
 
 "So you used your area magic, and it ran away on you?"
 
-"That's part of it, but not all of it!! Two spells weren't nearly enough to kill them all, so I cast three spells boosted by the magic stone, all at the same time!!"
+"That's part of it, but not all of it!! Two spells weren't nearly enough to kill them all, so I recited three spells boosted by the magic stone, all at the same time!!"
 
 "Three at the same time? How?"
 
@@ -464,7 +478,7 @@ She was painfully aware of her own good and evil, and she'd made up her mind to 
 
 The Hell Witch loomed over me with her enormous frame, looking blank for a while, and then she spoke up.
 
-"Hey, you!!"
+"You...!!"
 
 "Yes."
 
@@ -520,7 +534,7 @@ Specifically, it put a strain on the magic-activation medium.
 
 Witches and mages were superhumans who could use magic with their bare hands even without a magic-activation medium like a Gremlin or magic stone.
 
-Apparently that didn't hold when they used two or three spells at once, though. They had to use a magic-activation medium as the anchor for focusing the magic.
+Apparently that didn't hold when they used two or three spells at once, though. They had to use a magic-activation medium as the origin for the magic's focus.
 
 Cast several spells at once through a Gremlin, and it would vibrate abnormally and shatter after a single use. An irregularly shaped Gremlin could even shatter partway through the incantation, so the magic never activated at all. That was how much strain simultaneous incantation put on it.
 
@@ -530,13 +544,15 @@ Three big spells at once, though, had apparently been too much, and the abnormal
 
 That was why the amber magic stone the Hell Witch had given me had a small crack running through its center.
 
-If anything like that happened again, the crack would probably spread, and there was a real risk of the stone splitting or shattering.
+If anything like that happened again, the crack would probably spread, and there was a serious risk of the stone splitting or shattering.
 
 There is an extremely simple solution to this problem.
 
 The trouble comes from piling all the strain onto one magic stone and one wand.
 
-She just has to carry three wands: split the magic stone into three, make three wands out of it, and cast a separate spell through each one.
+She just has to carry three wands.
+
+She can split the magic stone into three, make three wands out of it, and cast a separate spell through each one.
 
 But this nice, simple solution, the three-wand setup, has one fatal flaw.
 
@@ -562,7 +578,7 @@ Those are the three things I have to keep in mind while making this wand.
 
 First, I wrote to Professor Ohinata to ask her opinion.
 
-After all, Gremlins and magic stones vibrating abnormally under simultaneous incantation seemed more like a magic-linguistics problem.
+After all, Gremlins and magic stones vibrating abnormally under simultaneous incantation seemed more like a problem in magic linguistics.
 
 I sent her a detailed write-up of everything I'd gotten from interviewing the Hell Witch, and for once, her reply took a while.
 
@@ -714,7 +730,7 @@ It was her companion on a hard journey.
 
 I wanted it to carry a meaning worthy of that.
 
-The inscription took a lot of agonizing, but after turning every dictionary and encyclopedia in the house inside out, I found the perfect one.
+The inscription took a lot of agonizing, but after ransacking every dictionary and encyclopedia in the house, I found the perfect one.
 
 Kishimojin[^5] is a Buddhist figure who once ate people, then gave it up and became a god. Her Sanskrit name is हारीती, which Japanese reads as "Hariti."
 

@@ -137,3 +137,38 @@ The chapter's dialogue stayed casual and character-specific. No tense reversal w
 - **大狼は知る限りの情報を話す** (JP 427): restored dropped clause "Okyaku told her everything he knew" — accuracy
 - **縋るように聞いてきた** (JP 454): removed added "but … only" — accuracy
 - Re-checked: `check_reedit.py` PASS; `run_chapter_gates.py --unit 3 --chapter 2` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 115 reviewed, 11 flagged. Round 1: 6 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 3 countered. Round 2: no.
+Final: 11 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 今回 ("this time")
+  - Final text: "<ruby>Okyaku<rt>Great Wolf</rt></ruby> figured the Tokyo Witches' Council needed outside aid this time because it was trying to feed too many people."
+- **F2** — APPLIED — worse — revert to OLD (keeps 今回 and the から cause)
+  - Final text: "<ruby>Okyaku<rt>Great Wolf</rt></ruby> had left Sendai and come to Tokyo as a reconstruction-aid envoy this time because he owed Tokyo for teaching his community fertility magic."
+- **F3** — APPLIED — glossary — bare "the Council" removed; JP 恨みを持つ者 has no object, so the object is dropped (my counter, Codex accepted)
+  - Final text: "...Anyone who did hold a grudge kept those feelings to themselves instead of lashing out, so outsiders were told there was no ill will between them."
+- **F4** — APPLIED — worse — conditional (～すると) keeps 一時的にでも, which OLD had dropped (my counter, Codex accepted)
+  - Final text: "If <ruby>Okyaku<rt>Great Wolf</rt></ruby> left Sendai to support Tokyo, even temporarily, it would leave a gap in the community's hunting rotation and put a heavy burden on those who stayed behind."
+- **F5** — APPLIED — accuracy — 声は大きかった as vocal calls (Codex's counter to my counter)
+  - Final text: "But the citizens had been vocal: now was the time to repay the debt they owed for fertility magic."
+- **F6** — APPLIED — worse — "torn between"
+  - Final text: "While <ruby>Okyaku<rt>Great Wolf</rt></ruby> was torn between the urge to pet her and his common sense, the Eyeball Witch crouched to meet the Flame Witch's eyes and spoke with concern."
+- **F7** — APPLIED — accuracy — 少し相談したい softened
+  - Final text: "“Um... I'd like some time to speak with Ao-chan-san about that later. There's something I'd like to talk over with her... Could you tell her for me, Eyeball-san?”"
+- **F8** — APPLIED — accuracy — 警戒されている = wary
+  - Final text: "She was wary of him. He'd heard the VIP would have a personal bodyguard, so this woman had to be the guard."
+- **F9** — APPLIED — accuracy — restore 紅茶 "black tea"
+  - Final text: "Once <ruby>Okyaku<rt>Great Wolf</rt></ruby> entered, the Eyeball Witch joined the two women. She personally brewed black tea and passed cups and snacks around, then settled in and made the introductions."
+- **F10** — APPLIED — accuracy — 流石 as living up to expectations (Codex's counter to my counter)
+  - Final text: "Tokyo really did live up to its reputation as the home of wizards. Even ordinary people could use fire magic with ease."
+- **F11** — APPLIED — voice — restore pleading of 頼み込んだ (Codex's counter to my counter)
+  - Final text: "<ruby>Okyaku<rt>Great Wolf</rt></ruby> blinked at the unexpected question. The Flame Witch went on pleading."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

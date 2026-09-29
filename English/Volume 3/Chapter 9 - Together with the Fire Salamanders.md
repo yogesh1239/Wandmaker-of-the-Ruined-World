@@ -8,7 +8,7 @@ But they had gotten too attached, and that was becoming a problem. No matter how
 
 I collected nesting material from inside the refrigerator at the burned-out site, loaded it onto a handcart, and moved it to the reverberatory furnace. The fire salamanders immediately understood what was happening and used the metal nesting material to make a new nest inside the furnace.
 
-But what came next was not good. The move went unbelievably smoothly, and for one brief moment I thought that settled it. Then I tried to head home from the reverberatory furnace, and they toddled right after me.
+But what came next was not good. The move went unbelievably smoothly, and for one brief moment I was happy it was all settled. When I tried to head home from the reverberatory furnace, they toddled right after me.
 
 Apparently, they thought I was the boss of their group, and they would not leave my side.
 
@@ -34,7 +34,7 @@ I even tried losing them in a full-on sprint, but they were three times as quick
 
 For now, I decided to make a cage, since it would be bad if they set the house on fire.
 
-I dug a barbecue griddle and some wire out of the storeroom and built them a sturdy metal cage. Once I put the fire salamanders inside, the three looked around, gazed up at me unhappily, and cried meep meep.
+I dug a barbecue griddle and some wire out of the storeroom and built them a sturdy metal cage. Once I put the fire salamanders inside, the three looked around, gazed up at me unhappily, and cried meep-meep.
 
 “Put up with it. If you want to follow me, stay quiet in here! I can't let you walk around freely inside the house.”
 
@@ -158,7 +158,7 @@ Nothing I said got through to them. I couldn't just ignore the energetic little 
 
 After the electricity went out, nights became dark. The vending machines had fallen silent, the houses had no lights, and the streetlights had long since become nothing but poles. The fire salamanders' tail flames glowed bright and otherworldly in the cold, dark air as they led me onward.
 
-I wondered where they were taking me, but after a short walk, we ended up at the reverberatory furnace. The fire salamanders burrowed inside ahead of me, poked their faces out of the darkness, and cried meep meep at me.
+I wondered where they were taking me, but after a short walk, we ended up at the reverberatory furnace. The fire salamanders burrowed inside ahead of me, poked their faces out of the darkness, and cried meep-meep at me.
 
 My face twitched. Seriously?
 
@@ -188,7 +188,7 @@ If I ignored them and went home, they would probably come get me again. I had no
 
 I braced myself and squeezed through the narrow entrance of the reverberatory furnace. The fire salamanders stopped crying as if relieved, curled up, and closed their eyes. Fine, fine. I get it. I just have to sleep here too, right?
 
-My burned butt stung, the inside of the reverberatory furnace smelled scorched, there was no pillow, and it was cramped. This was going to be a rough night. The only consolation was their body heat, which kept the furnace pleasantly warm.
+My burned butt stung, the inside of the reverberatory furnace smelled scorched, there was no pillow, and it was cramped. This was going to be a rough night. The only consolation was the fire salamanders' heat, which built up inside and kept the place pleasantly warm.
 
 Keeping fantasy creatures was not easy.
 
@@ -200,7 +200,7 @@ For several days, the fire salamanders ran me ragged with one strange new behavi
 
 I had countless burn marks. I was short on sleep every day, and I couldn't let go of the fire extinguisher.
 
-Still, they were witches' children, after all. For monsters, they picked things up very quickly, and we were starting to communicate, sort of.
+Still, as you might expect of witches' children, they picked things up very quickly for monsters, and we were starting to communicate, sort of.
 
 If I said “No” or “Stop” in an angry voice, they learned to stop. If I tempted them with food and said, “Breathe fire,” they learned to breathe fire.
 
@@ -250,7 +250,7 @@ It poked the cup with its snout curiously, and it seemed to understand at least 
 
 Hmm? Maybe its throat isn't built to make human words?
 
-Maybe they're simply too young. Even by a generous estimate, these guys are only around sixty days old. They're total babies. A human baby that age can't even babble yet. The fact that they can cry meep meep is impressive enough.
+Maybe they're simply too young. Even by a generous estimate, these guys are only around sixty days old. They're total babies. A human baby that age can't even babble yet. The fact that they can cry meep-meep is impressive enough.
 
 “Hmm. Then, one final question. What is this?”
 

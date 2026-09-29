@@ -1,6 +1,6 @@
 In any era, a first-rate craftsman had to be well versed in materials science.
 
-Carbon nanotubes, the latest synthetic fibers, heat-resistant materials, and so on had shaken up not just industry but the world of hand craftsmen too.
+Carbon nanotubes, the latest synthetic fibers, heat-resistant materials, and so on had shaken up not just industry but the world of craftspeople who worked by hand too.
 
 Long ago, blacksmiths set up their workshops near mines and iron-sand deposits to get good iron, and carpenters knew their building materials well enough to pick the right ones for each building.
 
@@ -24,7 +24,7 @@ Never, ever let your guard down.
 
 One autumn day, a year after the Dragon Witch kidnapped and imprisoned me, I finished the reverberatory furnace on the mountain behind my house and began a Gremlin-melting experiment.
 
-Gremlins, the core of every magic wand, were an important general-purpose material and easy to come by. If I was going to learn more, this was the place to start.
+Gremlins, the core material of magic wands, were important, general-purpose, and easy to come by. If I was going to learn more, this was the place to start.
 
 Being able to judge a Gremlin's quality by magic-excitation acoustic appraisal wasn't nearly enough. I wanted my knowledge to go much wider and much deeper.
 
@@ -46,7 +46,7 @@ That result led people to guess that Gremlins, which grew by absorbing electrici
 
 A pretty interesting result, but a failure was a failure.
 
-Then again, they said failure was the mother of success.
+Then again, as the saying goes, failure is the mother of success.
 
 The destruction of Minato Ward had put the Gremlin experiments on hold indefinitely, but that same destruction had also brought a new fact to light.
 
@@ -88,7 +88,7 @@ But this experiment was worth the effort. It would've been one thing if the outc
 
 According to data I'd dug up after breaking into a fire station, a major fire could reach as high as 1,200°C.
 
-Assuming Gremlins melted at 1,200°C, a climbing kiln, the kind used for pottery and other crafts, could hit that temperature. Building one would be a pain, but not insanely hard.
+Assuming Gremlins melted at 1,200°C, a climbing kiln, the kind used for crafts and such, could hit that temperature. Building one would be a pain, but not insanely hard.
 
 But as long as I was at it, I wanted enough heat to melt iron too. I'd used up every decent iron plate I had reinforcing the walls of the workshop the Dragon Witch smashed, so a furnace that could melt iron would come in handy for making iron goods down the line.
 
@@ -104,7 +104,7 @@ Lost Mist spread fog over a wide area and made every intruder except the caster 
 
 She was even considerate enough to keep the fog off the rice paddies and fields so they still got sunlight. Seriously, that was a huge help. Even if I cast Lost Mist myself, I couldn't pull off anything that delicate.
 
-To thank her, I gave her a rare card that had once sold for as much as 16,000 yen at a card shop, but she didn't seem all that happy about it.
+To thank her, I gave her a rare card that had once hit 16,000 yen at a card shop, but she didn't seem all that happy about it.
 
 Anyway, with the Blue Witch's help, I built the reverberatory furnace on the mountain behind my house, working from old reverberatory-furnace blueprints and the fanbook of a TV variety group that had built one of their own in modern times. But partway through, a problem came up.
 
@@ -140,7 +140,7 @@ And so on. There was a lot I could do with melting experiments in the reverberat
 
 Not that knowing all about dyeing Gremlins had any real benefit, but that was only true for now.
 
-Research that seems useless today might turn out to be useful as hell someday, somewhere. Or it might never be useful for anything, ever. That's basic research, and that's the kind of materials science a craftsman needs.
+Research with no obvious use right now might turn out to be useful as hell someday, somewhere. Or it might never be useful for anything, ever. That's basic research, and that's the kind of materials science a craftsman needs.
 
 Besides, a craftsman sitting on a mountain of useless but fun knowledge gives off a serious pro vibe. It's cool.
 
@@ -152,7 +152,7 @@ I finished rereading every bit of research history and analysis in my notebook, 
 
 At this rate, I'd have to keep pumping the bellows for another two hours.
 
-Magical fire would have heated it up in no time. But the nature of the experiment meant I had to grind the temperature up with natural fire, and that was rough.
+Magical fire would heat it up in no time. But the nature of the experiment means I have to struggle to get the temperature up with natural fire, and that sucks.
 
 I wiped away sweat and kept pumping the bellows. This is harder than I thought. I'm gonna wreck my back.
 
@@ -178,11 +178,11 @@ Doing the same with ordinary crow blood didn't produce any color, so it seemed c
 
 While I was at it, the coloring experiments also taught me something that was nothing but downside: wrap an ordinary Gremlin in melt-recast Gremlin, cast magic through it, and the magic-power consumption doubled.
 
-Seriously useless, but if I built a prison or something out of melt-recast Gremlin, it might keep prisoners from using magic. Maybe. Probably.
+Seriously useless, but if I built a prison or something out of melt-recast Gremlin, it might interfere with prisoners using magic. Maybe. Probably.
 
 Then again, it only doubled magic-power consumption, so anyone willing to spend twice the magic power could still cast normally. As a way to stop magic, it wasn't all that reliable.
 
-Well, this experimental data would come in handy someday too. Probably.
+Well, this experimental data will come in handy someday too. Probably.
 
 Besides, even if the principle behind coloring Gremlins was no use for my main job of making magic wands, it did help with my side job making accessories. Looked at that way, it wasn't bad at all.
 
@@ -208,13 +208,13 @@ The fertility-magic bypass incantation had spread fast over the past year.
 
 Since learning it was a matter of life or death, more than 95% of Tokyo residents aged 12 and over had picked it up.
 
-For children 11 and under, the policy was apparently not to teach it, as a rule. People worried about kids casting fertility magic on crops the wrong way out of curiosity, or passing out when they ran out of magic power and hitting their heads or falling (Tokyo Magic University entrants were the exception and could learn it even at 11 or younger).
+For children 11 and under, the policy was apparently not to teach it, as a rule. People worried about kids casting fertility magic on crops the wrong way out of curiosity, or passing out when they ran out of magic power and hitting their heads or falling (Magic University entrants were the exception and could learn it even at 11 or younger).
 
 This year's food production had reached 98% of what was needed, and projections said that next year, with farmland expanding, the food self-sufficiency rate would hit 102%.
 
 That was an unbelievably fast turnaround, considering that until last year people had been screaming, “Impossible. We're headed for starvation hell.”
 
-But when I thought about it calmly, it was nuts that even with a bugged spell that could instantly more than double crop yields, the self-sufficiency rate was still only around 100%. Without magic, simple math put it at 50%. No wonder things had turned into a hellscape.
+But when I think about it calmly, it's nuts that even with a bugged spell that can instantly more than double crop yields, the self-sufficiency rate is still only around 100%. Without magic, simple math puts it at 50%. No wonder things would turn into a hellscape.
 
 Even I, enjoying the carefree bachelor life out in the country, had been helped a ton when the yields from my fields and rice paddies doubled. The people in the cities who'd been rationing food must have cried so many happy tears they'd dried themselves out.
 
@@ -232,9 +232,9 @@ On top of that, rumor had it that the Dragon Witch had kidnapped someone from Om
 
 You'd have to be an idiot not to suspect Ome after all that.
 
-Except the Wand Maker in question was actually me, living the easy craftsman life in Okutama, right next door to Ome. No way they'd ever figure that out.
+Except the Wand Maker in question is actually me, living the easy craftsman life in Okutama, right next door to Ome. No way they'd ever figure that out.
 
-Thanks to the Blue Witch and Professor Ohinata protecting my secret and my safety (and to the Dragon Witch, whom the Blue Witch had threatened into keeping my secret), I got to live alone in this collapsed world just like I wanted. But I did have one complaint: wand making had been getting kind of stale lately.
+Thanks to the Blue Witch and Professor Ohinata protecting my secret and my safety (and to the Dragon Witch, whom the Blue Witch had threatened into keeping my secret), I got to live alone in this collapsed world just like I wanted. But I did have one complaint: making magic wands had been getting kind of stale lately.
 
 For the past year, all I'd done was obsess over wand details, with no progress on better performance or new features. I ran useless experiments here and there, melt-recast Gremlin chief among them, but no good ideas for pushing wands forward came to me. I was in a slump of sorts.
 

@@ -34,9 +34,9 @@ But. Even then. Still.
 
 Murakumo's relief was short-lived.
 
-Sendai's heroes, the Tohoku Hunting Association, soon reached their limits. They knew there wasn't enough food and that the territory they could protect was limited, so they decided to reduce the number of mouths they had to feed. They forced the decision through over every objection.
+Sendai's heroes, the Tohoku Hunting Association, soon reached their limits. They knew there wasn't enough food and that the territory they could protect was limited, so they decided to reduce the number of mouths they had to feed. They forced the decision through over the opposition.
 
-They drove the weak, the old, and the sick beyond their defensive perimeter, out into the killing ground where man-eating monsters roamed.
+They drove the weak, the old, the sick, and others like them beyond their defensive perimeter, out into the killing ground where man-eating monsters roamed.
 
 Looking back, it had been the right choice.
 
@@ -64,7 +64,7 @@ Murakumo did not want to die.
 
 Even though he had awakened to supernatural power, that did not make him immortal. He would die when his time came.
 
-Mages had no duty to protect anyone in the first place. Even if they did, this ruined world couldn't possibly offer a reward worth the burden of tens of thousands of lives.
+Mages had no duty to protect anyone in the first place. Even if they did, this ruined world couldn't possibly offer a reward to match the burden of protecting tens of thousands of lives.
 
 Murakumo suspected other witches and mages were doing the same thing he was: hiding their power and quietly blending in.
 
@@ -100,7 +100,7 @@ Once Murakumo realized how he felt, he tried to woo <ruby>Iwatsura<rt>Rabbit</rt
 
 More than once, he had considered telling her that he was a mage so he could get closer to her.
 
-But whenever the words rose to his throat, one look at the scarf around her neck forced them back down. The scarf—and the scars hidden beneath it—reminded him of the bloody hunting accident that had nearly taken <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s head off.
+But whenever the words rose to his throat, one look at the scarf around her neck forced them back down. The scarf—and the scars hidden beneath it—reminded him, whether he liked it or not, of the bloody hunting accident that had nearly taken <ruby>Iwatsura<rt>Rabbit</rt></ruby>'s head off.
 
 Murakumo didn't have the courage to trade his quiet life in the watchtower for life-or-death battlefields.
 
@@ -158,7 +158,7 @@ Murakumo had never seen the actual magic items said to have been imported from t
 
 But <ruby>Itazu<rt>Great Bear</rt></ruby> had gone so far as to withdraw his standing order not to touch Daidarabocchi, so they had to be something extraordinary.
 
-<ruby>Iwatsura<rt>Rabbit</rt></ruby>'s excitement after last month's training exercise said as much. Murakumo couldn't imagine weapons that surpassed even Sanukino's masterpieces.
+<ruby>Iwatsura<rt>Rabbit</rt></ruby>'s excitement right after last month's training exercise said as much. Murakumo couldn't imagine weapons that surpassed even Sanukino's masterpieces.
 
 Sure enough, a sniper struck Daidarabocchi with a special projectile called a sealing round. The giant rose as slowly as a turtle and let out an unnaturally drawn-out roar.
 
@@ -166,9 +166,9 @@ Its movements—no, time itself—had slowed. Apparently, sealing rounds worked 
 
 With Daidarabocchi slowed, five figures burst from five observation posts and raced in from five directions to surround the giant at its feet.
 
-Murakumo's mutated eyes could make out four mages and one witch.
+Murakumo's mutated, superhuman eyesight could make out four mages and one witch.
 
-Daidarabocchi noticed the approaching hunters and spewed a vast cloud of sickly purple gas from its waist. A huge whirlwind sprang up and scattered it high into the sky.
+Daidarabocchi noticed the approaching hunters and spewed a vast cloud of sickly purple gas from its waist. But a huge whirlwind suddenly sprang up and scattered it high into the sky.
 
 It was the magic of <ruby>Aokera<rt>Serow</rt></ruby>, a member of the Tohoku Hunting Association.
 
@@ -176,7 +176,7 @@ The whirlwind could have blown houses away and ground them to pieces, but it did
 
 The deadly magic smoke had been swept clear of the ground, allowing the hunters to reach the giant's feet.
 
-More sealing rounds struck, and the hunters opened up with everything they had.
+More sealing rounds struck, and the hunters opened fire all at once.
 
 As a mage, Murakumo knew the limits of magic. Every one of the hunters' spells blew several levels past them.
 
@@ -192,7 +192,7 @@ The troublesome armor was destroyed. All that was left was to beat it to a pulp.
 
 If it weren't for you, I bet <ruby>Iwatsura<rt>Rabbit</rt></ruby> and I would be together by now. Murakumo worked himself into an incoherent rage over that, but as his excitement cooled, unease began to creep in.
 
-The operation had gone perfectly through the destruction of the armor, but now trouble was brewing.
+The operation had gone smoothly through the destruction of the armor, but now trouble was brewing.
 
 The time delay was definitely working. Daidarabocchi's stomping feet and swinging arms were so slow they did not even graze the hunters.
 
@@ -278,7 +278,7 @@ He poured in every drop of magic power he could, stopping just short of runaway 
 
 At the next incantation, the golden bow and arrow vanished. Only the tension of the drawn bow remained in his hands.
 
-Its sound and scent vanished, and even its magic power faded to almost nothing.
+Its sound and scent vanished, and even its magic power grew faint and hazy.
 
 Murakumo didn't hesitate to cast a third spell, one he'd never used before.
 

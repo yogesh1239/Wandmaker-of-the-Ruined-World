@@ -6,9 +6,9 @@ There were still canned goods and preserved food left over from before civilizat
 
 But they would run out someday. A stable food supply was a major challenge.
 
-If this rice paddy worked out, it would at least solve my own food problem. Besides, I was sick of year-old and two-year-old rice. I wanted fresh rice for once.
+If this rice paddy works out, it'll at least solve my own food problem. Besides, I'm sick of year-old and two-year-old rice. I want fresh rice for once.
 
-I'd also found some chickens gone feral in the mountains, escaped from who knew where, and tried raising them, but they just escaped again, so that was a bust. When I found a feather stuck to the top of my two-meter fence, I despaired.
+I'd also found some chickens that had escaped from who knew where and gone feral in the mountains, and I'd tried raising them, but they just escaped again, so that was a bust. When I found a feather stuck to the top of my two-meter fence, I despaired.
 
 They'd put on a face like, "Our wings are stunted, we can't fly," and then the bastards flew off! They tricked me! Damn them!
 
@@ -38,11 +38,11 @@ I spent my days learning about a world gone fantastical and working hard in the 
 
 Then one day, when the Blue Witch came by for Cyanos's regular maintenance, I told her about a monster that had moved into the wild wasabi patch up the stream. She agreed to kill it, just like that.
 
-She'd taken down a giant kaiju bigger than a building when it came ashore in Tokyo, so some small-fry monster making a nuisance of itself out in the sticks was probably nothing to her.
+She'd taken down a giant kaiju bigger than a building when it came ashore in Tokyo, so some small-fry monster causing a bit of damage out in the sticks was probably nothing to her.
 
-Even so, she didn't hesitate at all. Part of that was probably her strength, but her whole mindset was different, too. Three months ago she'd wiped out Okutama's monsters at breakneck speed, and it was obvious she'd gotten completely used to fighting for her life, something that should have been alien to anyone living in modern Japan.
+Even so, she didn't hesitate at all. Part of that was probably her strength, but her whole mindset was different, too. Three months ago she'd wiped out Okutama's monsters at breakneck speed, and it was obvious she'd gotten completely used to fighting for her life, something that should have been alien to a modern Japanese person.
 
-The Blue Witch and I were as far apart in power as heaven and earth, but we both worked magic the same way, by swinging a wand and chanting an incantation. Figuring I might learn something useful, I asked if I could tag along and watch her deal with the monster, and once again she said OK without much thought.
+The Blue Witch and I were as far apart in power as heaven and earth, but we both worked magic the same way, by wielding a wand and reciting an incantation. Figuring I might learn something useful, I asked if I could tag along and watch her deal with the monster, and once again she said OK without much thought.
 
 "I'll keep an eye on you, but look after yourself as much as you can."
 
@@ -60,7 +60,7 @@ Just what you'd expect from an ice-type witch. I'd love to keep her around all s
 
 About ten minutes up the stream, we reached its source. Clear spring water seeped from a crack in a low cliff to form a small pond, and lush green wasabi plants spread their leaves around it.
 
-The days when you could buy tubes of wasabi online were long gone. Now this wild patch was a precious source of spice, and I wasn't about to let some monster have it.
+The days when you could buy tubes of wasabi online were long gone. Now this wild patch was a precious source of spice. I'm not about to let some monster have it.
 
 "Not here? No, it's hiding somewhere."
 
@@ -76,7 +76,7 @@ The Blue Witch, meanwhile, just stood there holding Cyanos, not tense in the sli
 
 "Huh!?"
 
-I looked where the Blue Witch had carelessly jerked her chin, and sure enough, there was the turtle monster, the bumps and colors of its shell blending perfectly into the bark.
+I looked where the Blue Witch casually pointed with her chin, and sure enough, there was the turtle monster, the bumps and colors of its shell blending perfectly into the bark.
 
 Whoa!? How'd she even spot that thing?
 
@@ -96,7 +96,9 @@ She used the momentum of the leap to spin her body and landed a vicious somersau
 
 Her boot sliced through the air in a flash, and the turtle monster blew apart like a popped balloon.
 
-With a single kick, the Blue Witch had killed the monster that made an ordinary Wand Maker throw in the towel. She floated down onto the leaf mold carpeting the ground, and while I stood there dumbstruck, she said simply, "Done."
+With a single kick, the Blue Witch had killed the monster that made an ordinary Wand Maker throw in the towel. She landed lightly on the leaf mold carpeting the ground, and while I stood there dumbstruck, she said curtly.
+
+"Done."
 
 "O-Oh. Nice work. You're a witch, but you didn't use magic...?"
 
@@ -108,7 +110,7 @@ She was a woman people called a witch, so part of me had expected a fantasy-styl
 
 The reality, as you can see, was this.
 
-It's a smart way to fight, sure, not wasting any magic power, but something about it just doesn't sit right with me.
+It was a smart way to fight, sure, not wasting any magic power, but something about it just didn't sit right with me.
 
 I mean, talk about meathead brute force. Is Blue Witch-sama perhaps a <ruby>gorilla<rt>forest sage</rt></ruby>[^1]?
 
@@ -118,7 +120,7 @@ I mean, talk about meathead brute force. Is Blue Witch-sama perhaps a <ruby>gori
 
 When I told her how I really felt, the Blue Witch seemed to get it.
 
-"Oh. If that's what you wanted, you should've said so sooner. Your noisy magic that sounds like a screaming beaver is next to useless in a real fight. Want me to teach you some new magic? Something even you could handle."
+"Oh. If that's what you wanted, you should've said so sooner. Your noisy magic that sounds like a screaming beaver is next to useless in a real fight. Want me to teach you some new magic? Something even you might be able to handle."
 
 "Seriously? Please do. Then write me up a concise report, about three A4 pages, on practical magic even I can use, and submit it."
 
@@ -126,11 +128,11 @@ When I told her how I really felt, the Blue Witch seemed to get it.
 
 I tried to push for doing this in writing, pointing out how handy it would be to reread later or pass on to other people, but the Blue Witch couldn't be bothered to write it all up.
 
-Why did people always insist on doing things face-to-face? It was beyond me, but the person doing the teaching said a spoken lesson was easier, so what could I do?
+Why do people always insist on doing things face-to-face? It's beyond me, but the person doing the teaching says a spoken lesson is easier, so what can I do?
 
 I didn't want to annoy the Blue Witch and have her stop teaching me magic, so as soon as we got down the mountain, I set up a shooting target in the backyard and sat obediently through Sensei's lesson.
 
-The Blue Witch was apparently going to teach me the most basic freezing spell, "Freeze[^2]," and an attack spell derived from it, "Freezing Javelin[^3]."
+The Blue Witch was apparently going to teach me the most basic freezing spell, "<ruby>Vaa-ra<rt>Freeze</rt></ruby>," and an attack spell derived from it, "<ruby>Do Vaa-ra<rt>Freezing Javelin</rt></ruby>."
 
 I held Hendensho at the ready and the Blue Witch went bare-handed, and we each took aim at a target drawn on cardboard and hung from a tree branch.
 
@@ -192,15 +194,15 @@ She didn't seem to know all that much about it herself. Well, she had said it wa
 
 "Transcendents can control magic power, so even if they pronounce an incantation correctly, they can keep magic from going off by accident. But you're not a mage, Ori. If you pronounce an incantation correctly with a Gremlin or magic stone nearby, the magic will activate on its own even if you don't mean it to, so be careful."
 
-"Wait, that'd be bad if I accidentally chanted one mid-conversation."
+"Wait, that'd be bad if I accidentally recited one mid-conversation."
 
 "Magic-language pronunciation is completely different from Japanese. That almost never happens. Also, magic language contains at least seven sounds that only a Transcendent's mutated throat can produce. They're especially common in advanced magic."
 
 "Sounds I can't pronounce? Those exist? I kinda want to hear one."
 
-"Let's see... Let moonlight and cool breezes alike all become ice[^4]."
+"Let's see... Let moonlight and cool breezes alike all become ice[^2]."
 
-The Blue Witch chanted it lightly, like a chirping bird, and laid her palm on the log she was sitting on. The whole log turned to ice, keeping its exact shape.
+The Blue Witch recited it lightly, like a chirping bird, and laid her palm on the log she was sitting on. The whole log turned to ice, keeping its exact shape.
 
 Seriously? Holy crap! That isn't alchemy—it's ice-chemy!
 
@@ -208,7 +210,7 @@ Seriously? Holy crap! That isn't alchemy—it's ice-chemy!
 
 "No, it's fine, it's fine. Don't worry about it. That's amazing!"
 
-That was a real treat to see. When I gave her a big round of applause, she looked pretty pleased with herself this time.
+That was a real treat to see. When I gave her a big round of applause, she looked a bit pleased with herself this time.
 
 Makes sense. Witch-only incantations, huh? Lucky.
 
@@ -240,8 +242,4 @@ Score! Five days can't come soon enough!
 
 [^1]: The ruby's baseline “gorilla” undercuts its grand upper gloss, “forest sage.”
 
-[^2]: The written spell name means “Freeze,” while its spoken magic-language form is `Vaa-ra`; the pronunciation lesson distinguishes it from Ori's mistaken elongated version.
-
-[^3]: The source writes “Freezing Javelin” but gives its spoken incantation as `ドウ・ヴアアラー`.
-
-[^4]: The source gives the spoken form as `××・××フイフイ・イイヴアアラー`; the `××` marks sounds ordinary humans cannot pronounce. The English renders the written meaning without supplying those redacted sounds.
+[^2]: The source gives the spoken form as ××・××フイフイ・イイヴアアラー; the ×× marks sounds ordinary humans cannot pronounce. The English renders the written meaning without supplying those redacted sounds.

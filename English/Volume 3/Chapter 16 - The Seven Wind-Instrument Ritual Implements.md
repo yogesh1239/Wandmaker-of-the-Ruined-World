@@ -10,7 +10,7 @@ But the second they used my wands and sealing rounds, they scored a perfect win.
 
 Well, you know? How do I put this? I guess this is what you call talent. My own genius scares me.
 
-As promised, the Tohoku Hunting Association sent me the Gremlins harvested from Daidarabocchi via the Tokyo Witches' Council and Hiyori. That called for a victory dance.
+As promised, the Tohoku Hunting Association sent me the Gremlins harvested from Daidarabocchi via the Witches' Council and Hiyori. I couldn't help breaking into a victory dance.
 
 But the letter included with the huge Gremlins had two things in it I didn't understand.
 
@@ -28,7 +28,7 @@ What's that? Never heard of it. Scary...
 
 According to the explanation in the letter, when Daidarabocchi tried one last act of desperation just before it died, its torso suddenly burst apart, and that finished it off.
 
-The Tohoku Hunting Association thought the Tokyo Witches' Council had helped, but the Council denied it.
+The Tohoku Hunting Association thought the Tokyo Witches' Council had helped, but the Witches' Council denied it.
 
 So they'd asked in case it was a hidden function the Wand Maker had built into the magic wands.
 
@@ -42,7 +42,7 @@ But the cause was a mystery. Creepy.
 
 My wands had nothing to do with it, so maybe some helpful wandering witch like the Hell Witch happened to step in...? Even then, I had no idea why it would suddenly explode.
 
-I didn't really get it, but apparently my wands alone weren't what gave them a clean win over Daidarabocchi. It had been too soon to get cocky and think it was all thanks to them.
+I didn't really get it, but apparently my wands alone weren't what gave them a clean win over Daidarabocchi. It had been too soon to get cocky and think it was all thanks to my wands.
 
 Still, gun-wand Giant Slayer's reputation had apparently shot through the roof at the Tohoku Hunting Association. I would humbly accept that I'd done my part in the major operation to hunt Daidarabocchi.
 
@@ -240,7 +240,7 @@ The stoat twitched her whiskers, looking thoughtful.
 
 With magical knowledge and techniques coming in from Hokkaido and Tohoku, research had advanced far beyond where it was when Tokyo stood alone. But they still didn't have enough to see the whole picture.
 
-They hadn't collected any incantation samples from regions south of Tokyo. And if there were Transcendents overseas too, all with their own innate magic, then Professor Ohinata's current samples probably accounted for only a few percent of the total at best.
+They hadn't collected any incantation samples from regions south of Tokyo. And if there were Transcendents overseas too, and all of them knew their own unique magic, then Professor Ohinata's current samples probably accounted for only a few percent of the total at best.
 
 “A recent research topic that might interest you, Ori-san, would be... wind-instrument ritual-magic implements, perhaps?”
 
@@ -334,7 +334,7 @@ I couldn’t believe my ears. It was a nostalgic sound I hadn’t heard in years
 
 I blew the harmonica again and confirmed I hadn’t misheard it. It was definitely a mechanical sound.
 
-The harmonica was producing an artificial, synthesized sound, the kind programmed with electronics. It had been everywhere before the Gremlin Disaster, but it should've been impossible to hear without electricity!
+The harmonica was producing a synthetic-sounding artificial noise, the electronically programmed kind. It had been everywhere before the Gremlin Disaster, but it should've been impossible to hear without electricity!
 
 “...Wait. But maybe... Could that actually happen?”
 

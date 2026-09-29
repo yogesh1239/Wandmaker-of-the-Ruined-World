@@ -215,3 +215,28 @@ Kept Ori's immediate thoughts in natural speech tense and retained the clipped c
 - **暴れたという** (JP 676): restored hearsay "Apparently," — accuracy
 - **大真面目に言われると有り得る気がしてくる** (JP 715): "with a straight face, it almost sounded" → "in such dead earnest, it started to sound" — accuracy
 - **一人では挫ける壁も二人揃えば乗り越えられる** (JP 754): "Even if a wall would break me alone" → "A wall that would break me on my own is one the two of us can overcome together" — worse
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 152 reviewed, 6 flagged. Round 1: 3 conceded, 2 pushed back, 1 countered. Codex after round 1: 1 withdrew, 1 accepted, 1 maintained, 0 countered. Round 2: no.
+Final: 4 changed, 2 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — 火蜥蜴[とかげ] restored as semantic ruby (plural)
+  - Final text: "I went to the reverberatory furnace and pressed the structural-color Gremlin against each of the three <ruby>lizards<rt>fire salamanders</rt></ruby> dozing in the morning mist. It changed from black to white only while it was touching them. The reaction didn't seem to vary by individual—or even by species."
+- **F2** — APPLIED — mechanics — narration line split back out from the dialogue paragraph
+  - Final text: "I asked eagerly." / "“Hey, is this color change related to magic power? It doesn't seem like it has anything to do with an intrinsic color.”" (two paragraphs)
+- **F3** — KEPT — glossary — Fire spell stays Agh-
+  - Why kept: binding lead ruling (glossary row 233 A゙- under user review; A゙- fails check_reedit). Codex maintained on glossary authority with no new JP argument, so no round 2.
+- **F4** — APPLIED — accuracy — 手の込んだ "elaborate"; also restored dropped 長風呂 "long" and しばらく "for a while" (gaps Codex missed)
+  - Final text: "I took a long soak in the bath, shaved my scraggly beard, cooked myself an elaborate meal, and slept my fill without watching the clock. When I woke up, it was time to make amends with the fire salamanders I'd neglected for a while."
+- **F5** — APPLIED — accuracy — the name comes from viewing magic power; the unit isn't the one doing the viewing
+  - Final text: "Magic power was “wisely viewed and determined,” so the unit was called Kenshi.[^2]"
+- **F6** — KEPT — tense — "It shows" belongs to the direct present musing in JP 605–609 (今思うと, もんな, ヤバすぎ, 知は力なり, よな); Codex withdrew
+  - Why kept: one continuous direct thought, so one tense; よく分かる is Ori's realization in the present.
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: glossary row 233 still locks 撃て[ア゙ー] as `<ruby>A゙-<rt>Fire</rt></ruby>`, but the files use Agh-. Codex will keep flagging this until the row is resolved.

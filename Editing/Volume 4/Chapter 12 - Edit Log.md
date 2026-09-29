@@ -76,3 +76,26 @@
 - Narrative action, description, and reported thought remain past tense; the immediate thought at source line 448 remains natural speech tense and roman type.
 - Source gaiji image markers, semantic HTML ruby, honorifics, names, paragraph order, and punctuation energy were checked; no scene break occurs in scope.
 - Draft has no title heading or Illustration Mapping section. A single `## Translator Notes` section is required only if notes exist; this chapter uses none.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–485 (`reedit-c12-s1`); subagent model Claude Opus; 143 changed paragraphs). Flow: short-sentence share 19.9% -> 17.9%; runs 1 -> 0; FLOW: ok. Codex critique: 143 changes reviewed, 15 flagged; all 15 accepted.
+
+### Accuracy Fixes
+- **望遠鏡 (×2)**: "binoculars" → "telescope" — accuracy
+- **すぐに舞い上がったかと思えば**: かと思えば construction fixed — accuracy
+- **同じように巨大な白い渦を出現させ**: agency returned to the dragon — referent
+- **今はそうも言っていられない**: "he could not say that now" → "this was no time to be picky" — accuracy
+- **樹老人[トレント]**: plain "Treant" → glossary ruby <ruby>Treant<rt>tree elder</rt></ruby> — glossary
+- **狼煙**: "signal flare" → "smoke signal" — accuracy
+- **弟の愛人 / 代表者らしき / 蹴り転がし / 密かに**: nuance restored after critique — accuracy
+- **うまく行くときは全てが上手く行くもので**: general truth in present — tense
+
+### Register and Flow
+Kept: "This was it." / "They could win." beats, the "That made two… That made ten." countdown, "Arataki Kotaro ran. / He ran for his life."
+
+### Reference Decisions
+- 樹老人[トレント] now follows glossary.md:132 (ruby form), matching the Vol. 4 booklet.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 12` ALL PASS.

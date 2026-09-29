@@ -114,3 +114,22 @@
 - Footnote `[^1]` resolves under one final `## Translator Notes` section.
 - Final image marker `![p196-197.jpg](images/p196-197.jpg)` preserved exactly.
 - No scene breaks or source image markers omitted; family-name-first forms and no-macron romanization verified.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–334 (`reedit-c10-s1`); subagent model Claude Opus; 74 changed paragraphs). Flow: short-sentence share 28.7% -> 25.7%; runs 3 -> 3; FLOW: LIGHT PASS (choppy baseline, too little gain). Codex critique: 75 changes reviewed, 4 flagged; all 4 accepted.
+
+### Accuracy Fixes
+- **ポーズだけでいい… / 潜伏するのが正解だ…それと同じだ (JP 166–175)**: unmarked close-third thought in present → past — tense
+- **失望しているだろうか、嫌悪しているだろうか、恐怖しているだろうか**: kept as present direct questions — tense
+- **当然である事が難しいモノを当然にするため**: added interpretation removed; 当然 echo kept — accuracy
+- **示しがつかん**: "it won't set an example" → "it sets a bad example" — accuracy
+- **棚に上げ… 半田こそ**: both nuances carried — accuracy
+- **都民**: "you Tokyo folk" reverted to "Tokyo residents" (Handa is addressing the Kyushu gang boss) — referent
+- **詠唱**: "chanted" → "recited" (banned "chant") — glossary
+
+### Register and Flow
+FLOW LIGHT PASS accepted: remaining runs are deliberate (the research-achievements list, JP 67–79; "That's right. / I brought this on myself. / What you do comes back to you. / But."; and the three short direct questions at JP 160).
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 10` ALL PASS.

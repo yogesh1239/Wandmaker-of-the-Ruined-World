@@ -20,7 +20,7 @@ If I forced the temperature up with fire or boiling water, I'd kill the microorg
 
 That was why making good compost on my own was so difficult.
 
-My household had recently grown to one person and three <ruby>lizards<rt>fire salamanders</rt></ruby>, but those guys lived on charcoal and didn't poop. All they did was burp like little exhaust pipes.
+My household had recently grown to one person and three <ruby>lizards<rt>fire salamanders</rt></ruby>, but those guys lived on charcoal and didn't poop. All they did was let out burps like exhaust fumes.
 
 City centers produced huge amounts of household waste, so apparently their fertilizer production was going well. I could've just had them send me some, but I didn't want the basics of my life to depend too much on outsiders. What if they started saying, “If you want fertilizer, do this! Do that!” Probably just paranoia, but still.
 
@@ -36,11 +36,11 @@ So this means you can switch freely between stoat mode and beastkin mode?!
 
 Whoa, this is huge!
 
-If she was coming as a small, fluffy, adorable stoat instead of a human, I had no reason to refuse. I happily wrote back with an enthusiastic welcome.
+If she was coming as a small, fluffy, adorable stoat rather than in human form, I had no reason to refuse. I happily wrote back with an enthusiastic welcome.
 
 The Blue Witch, our mail carrier, had already seen the professor transform. She'd even given her seal of approval: “Kei-chan is cute as a stoat too.” That only made me look forward to the visit more.
 
-Professor Ohinata was swamped. She served as president of Tokyo Magic University, taught in the Department of Magic Linguistics, and advised the Witches' Council. Still, she managed to clear her schedule and came to Okutama for the first time in quite a while at the beginning of September.
+Professor Ohinata was swamped. She was president of Tokyo Magic University, a professor in the Department of Magic Linguistics, and on top of that an adviser to the Witches' Council. Still, she managed to clear her schedule and came to Okutama for the first time in quite a while at the beginning of September.
 
 I couldn't help smiling when a white stoat came trotting out from beyond the Lost Mist at the Blue Witch's feet. Welcome! Welcome to Okutama Park!
 
@@ -66,7 +66,7 @@ I hadn't thought twice about the request at the time, but there had been a good 
 
 “You like being in human form, right? Oh, or do you get some special ability when you go into stoat mode?”
 
-The Dragon Witch, for example, used transformation magic. Her default form was human, but she stayed a dragon so much that it became her title.
+The Dragon Witch, for example, used transformation magic. Her default form was human, but she stayed a dragon all the time, so that became her title.
 
 Dragons could breathe fire without an incantation, fly, and protect themselves with tough scales. They had all sorts of powerful, useful abilities. Apparently, the Dragon Witch's temperament also matched a dragon's nature, so the form felt right to her.
 
@@ -156,7 +156,9 @@ Her asking to be friends had scared me, but it hadn't bothered me.
 
 With that, I turned back to the stoat.
 
-Professor Ohinata's tail was sticking straight up, and she looked a little tense. I told her, “It didn't feel bad. We can be friends.”
+Professor Ohinata's tail was sticking straight up, and she was a little tense. I gave her my answer.
+
+“It didn't feel bad. We can be friends.”
 
 “You'll be my friend?”
 
@@ -202,7 +204,7 @@ She sure freezes up a lot. The mask makes it hard to tell what she's thinking so
 
 “You're really going straight to my given name...? What is wrong with your sense of distance? Honestly.”
 
-Hiyori—formerly the Blue Witch—had started grumbling, so I tugged her sleeve, caught the still-bouncing stoat in one hand, tucked her in my arms, and happily headed inside.
+The Blue Witch—now Hiyori—had started grumbling, so I tugged her sleeve, caught the still-bouncing stoat in one hand, tucked her into my arms, and happily headed inside.
 
 There are three of us now, so let's play cards in the living room! The card games you can play with two people are pretty limited, and that was getting boring. Three players give you way more options for board games too.
 
@@ -220,9 +222,9 @@ I couldn't tell whether Professor Ohinata had really let her win. If she had, sh
 
 For lunch, I made a simple meal of salt-grilled ayu, pot-cooked rice, lightly pickled cucumber, and miso soup. All of it was homemade.
 
-Hiyori ate lunch at my place often enough that she didn't react, but the stoat made a huge fuss over the meal and buried her face in the food on her little plate.
+Hiyori ate lunch at my place often enough that she didn't react, but the stoat was over-the-top thrilled, burying her face in the Japanese food I'd dished up on a little plate.
 
-Tasty, right? Of course it is. I'm a good cook, and my food's delicious. The first time I ever held a kitchen knife, in elementary school home economics, I made an apple rabbit—the realistic version—and left my teacher speechless. Nobody in the dexterity crowd is a bad cook.
+Tasty, right? Tasty, right? I'm a good cook, and my food's delicious. The first time I ever held a kitchen knife, in elementary school home economics, I made an apple rabbit—the realistic version—and even left my teacher speechless. Nobody in the dexterity crowd is a bad cook.
 
 Once we'd eaten our fill, none of us really felt like playing more games, so we naturally settled in to relax for a while.
 
@@ -234,7 +236,7 @@ Over after-lunch tea—Professor Ohinata had brought the leaves—I asked what s
 
 “Don't worry. I cleared my schedule for the whole day.”
 
-“So you usually are busy.”
+“So you are usually busy after all.”
 
 “Yes. I suppose I keep pretty busy.”
 

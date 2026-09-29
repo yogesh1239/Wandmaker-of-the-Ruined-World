@@ -113,3 +113,38 @@ The animal-training comedy and technical exposition stayed contemporary and dire
 - **鉄の刃も通さない** (JP 337): strengthened "resisted" → "not even an iron blade could cut through it" — accuracy
 - **東京への支援どころではないようだ** (JP 415): restored the ようだ hedge → "They didn't seem to be in any position to support Tokyo." — accuracy
 - **確かに挫ける事なく…推し進めていた** (JP 442): restored 確かに → "humanity was steadily rebuilding the ruined world" — accuracy
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 106 reviewed, 11 flagged. Round 1: 6 conceded, 0 pushed back, 5 countered. Codex after round 1: 0 withdrew, 3 accepted, 0 maintained, 2 countered. Round 2: no.
+Final: 11 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore "tame enough" + results of training (調教の成果…ぐらいまで慣らす)
+  - Final text: "Even with the taming methods developed by the Hokkaido Magic Beast Farm, it took a full two months to get them tame enough to show the Blue Witch what their training had achieved."
+- **F2** — APPLIED — worse — よくここまで調教できたものだ as admiration
+  - Final text: "“This is amazing. You managed to train them this well.”"
+- **F3** — APPLIED — accuracy — drop added "had to"; also restored 今では "now" (was "By then"; Codex missed, accepted)
+  - Final text: "Once we started communicating, we stopped spending every moment together. Now we even slept in separate places."
+- **F4** — APPLIED — accuracy — だんだん "gradually"; also restored そのまま as "just"
+  - Final text: "At first, I didn't name them. I just called them things like “hey,” “you,” “fire salamander,” and “little one.” Gradually, though, each began answering to the name of its favorite food, and those just became their names."
+- **F5** — APPLIED — accuracy — restore 朝 "in the morning"
+  - Final text: "A fire salamander's daily routine went like this: wake up in the morning, eat, play chase or roughhouse, eat lunch, play some more, eat again, and sleep. They lived entirely on instinct."
+- **F6** — APPLIED — accuracy — "untouched" overstated 燃やさない (hot air still reaches him); countered with lighter wording, Codex accepted
+  - Final text: "In other words, fire salamanders could burn only what they wanted to and leave everything else unburned."
+- **F7** — APPLIED — accuracy — 全然…なさそう restored to "no risk at all"; kept "behavior" for 生態 (Codex agreed); took Codex's 出火 = "starting fires" counter
+  - Final text: "Gremlin implantation had greatly reduced my magic power, so I was grateful to have the fire salamanders take over at least my fire magic. There was a real risk their behavior would change once they grew up, but while they were little, there didn't seem to be any risk of them starting fires at all."
+- **F8** — APPLIED — accuracy — drop added "try to" (もう殺さない)
+  - Final text: "She promised she wouldn't kill them anymore, which was a relief."
+- **F9** — APPLIED — accuracy — ぐらいまで "up to roughly"
+  - Final text: "The pouch had plenty of capacity—up to roughly the volume of a small refrigerator—and anything stored inside became weightless as an added bonus."
+- **F10** — APPLIED — accuracy — 雑草でもなんでも restored; also 欲しがる "needed"→"wanted" (Codex missed; its counter "wanted" over my "craved" accepted)
+  - Final text: "Their main food was grass, and they ate weeds or pretty much anything else. But they also wanted small amounts of salt and iron, so their feed had to be nutritionally balanced."
+- **F11** — APPLIED — glossary — 家畜化 = "monster domestication"; restored "once established" condition; rejected Codex's "domestication trials on new monsters" (echo, jargon), Codex accepted
+  - Final text: "The Hokkaido Magic Beast Farm was attempting monster domestication with new species every day, and supposedly it would keep sending monsters to Tokyo once it had established stable raising methods for them. Are they gods?"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS (run_chapter_gates --unit 3 --chapter 10).
+
+Reference flags: lines 13 and 23 render the salamanders' spoken cries as quoted “Mii.” / “Mii!” (untouched by this debate). The meep ruling covers narrative ミーミー鳴く; the lead may want to decide whether quoted cries should also become “Meep.” for consistency.

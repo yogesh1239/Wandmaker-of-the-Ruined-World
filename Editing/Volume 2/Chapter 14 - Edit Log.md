@@ -208,3 +208,61 @@ A paragraph break lost between JA 322 and 325 was restored. JA 256 agent ambigui
 
 ### Formatting Confirmed
 - Markers, notes, and breaks unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 14` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 169 reviewed, 23 flagged. Round 1: 13 conceded, 5 pushed back, 5 countered. Codex after round 1: 3 withdrew, 4 accepted, 0 maintained, 2 countered. Round 2: no.
+Final: 19 changed, 4 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — "scorching" smell → "char" (焦げついた臭い)
+  - Final text: "There were no bodies in front of the barricade, at least, but the bloodstains hadn't all scrubbed out, and the lingering smell of blood and char told of a vicious fight."
+- **F2** — APPLIED — worse — 狙い = trained on, not "swung onto"
+  - Final text: "At once, the whole security force trained their wands and crossbows on me and challenged me."
+- **F3** — APPLIED — register — mixed image removed; 縮み上がる kept strong (my counter, Codex accepted)
+  - Final text: "The shout was sharp and murderous, and my stomach knotted up."
+- **F4** — APPLIED — glossary — 警備隊 = security force
+  - Final text: "The woman had the security force lower their weapons and waved me over."
+- **F5** — KEPT — voice — Why kept: 確認させて下さい is a stock checkpoint formula; apology carries deference; FIX stacked two questions (Codex withdrew).
+- **F6** — KEPT — accuracy — Why kept: あ、ありがとう is a stuttered onset ("Th-Thank"), "!!" is the separate gasp ("Ah!") (Codex withdrew).
+- **F7** — APPLIED — glossary — 警備隊 = security force
+  - Final text: "The security force exchanged looks. A few of them were tearing up too."
+- **F8** — KEPT — accuracy — Why kept: 二、三回は is minimum-quantity は = "at least two or three times" (Codex withdrew).
+- **F9** — APPLIED — accuracy — restored ようだ hedge
+  - Final text: "It seems she was infested quite deeply, so she won't wake up that quickly. ..."
+- **F10** — APPLIED — register — "bough" → "branch" (太枝)
+  - Final text: "Wood creaked and groaned overhead, and a thick branch of the huge white tree came down through a hole in the ceiling."
+- **F11** — APPLIED — accuracy — restored 屈強 and 転がり, kept 物言わぬ (my counter, Codex accepted)
+  - Final text: "The burly creature's silent corpse tumbled onto the floor with a heavy thud in a mess of sticky slime, and my legs calmly and composedly gave out."
+- **F12** — APPLIED — worse — noun phrase for そういうのを気が小さいと言う
+  - Final text: "In other words, your legs gave out. That's what we call being timid."
+- **F13** — APPLIED — accuracy — これ以上の栄養剤は無い
+  - Final text: "There's no better nutrient tonic, for magic power or for health. ..."
+- **F14** — KEPT — accuracy — Why kept: ものの数十秒 is an emphatic "a mere few tens of seconds"; "in under a minute" is the natural English and 数十秒 in this idiom does not mean over a minute; Codex's counter "after only a few dozen seconds" is a calque (Codex's round-1 counter declined, no round 2 needed for one taste-level point).
+- **F15** — APPLIED — accuracy/tense — それなのに restored as "And yet," demand made explicit (Codex's counter on my counter), past narration
+  - Final text: "And yet she was telling me to stay in the room the whole time. I wished she wouldn't make such unreasonable demands."
+- **F16** — APPLIED — worse — "went severe" → "turned severe"
+  - Final text: "That told you just how brutal mushroom disease was once it turned severe."
+- **F17** — APPLIED — accuracy — 隙を突くように, no "waiting"
+  - Final text: "...powerful monsters had shown up as if to take advantage of the security force and the witches being down, and the death toll there was said to be staggering."
+- **F18** — APPLIED — accuracy — 治療される = treated
+  - Final text: "Most people with severe cases had either been treated or died, but the antidote still hadn't reached everyone, ..."
+- **F19** — APPLIED — accuracy — onset in nearby patients; だが restored as "but"
+  - Final text: "When one person sprouted mushrooms from their head, even people nearby who had only just been infected would start developing symptoms one after another in response. That was why the pandemic had exploded all at once, but the wave of chain-reaction onsets still hadn't completely passed."
+- **F20** — APPLIED — mechanics — dangling modifier fixed
+  - Final text: "The government was in chaos and barely functioning, but based on the information gathered so far, the final death toll from this pandemic was expected to reach 500,000 to 700,000 in Tokyo alone."
+- **F21** — APPLIED — accuracy — 不謹慎 = insensitive
+  - Final text: "It was an insensitive thing to think, but I couldn't help being glad that neither I nor anyone I knew was part of that 20%."
+- **F22** — APPLIED — accuracy — 進み restored, "hard" dropped, 負けないぐらい as "outpace" (my counter, Codex accepted)
+  - Final text: "All we could do was keep moving forward, enough to outpace the steps back."
+- **F23** — APPLIED — tense — past narration, prospective "would," と言える kept (my counter, Codex accepted)
+  - Final text: "As far as I personally was concerned, I'd been lucky enough to lose nothing this time. You could say getting back up from where I'd fallen would be easy."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: F20 — 見込みだとの事だ carries hearsay (との事) that neither OLD nor NEW renders; left as is (not flagged by Codex, pre-existing in baseline). Otherwise none.
+
+### Lead Fixes (series rulings)
+- との事 hedge restored: "the final death toll from this pandemic was apparently expected to reach…"

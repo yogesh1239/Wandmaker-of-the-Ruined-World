@@ -38,13 +38,13 @@ Use abrasive by the bucketload, never cut a thing, and shape the whole piece by 
 
 When I first heard it, I cracked up at how brute-force it was. But the more I thought about it, the more sense it made, until I stopped laughing and was genuinely impressed.
 
-If you asked me, shaping a Gremlin by polishing alone was inefficient. It was like taking a jagged chunk of wood and going straight to the sandpaper without touching a saw or chisel. It was so far past inefficient that I'd never even considered it.
+If you asked me, shaping a Gremlin by polishing alone was inefficient. It was like taking a jagged chunk of wood and going straight to sandpaper without touching a saw or chisel. It was so wildly inefficient that I'd never even considered it.
 
 But at least polishing didn't break, chip, or crack the piece while you worked it. It was inefficient but reliable.
 
 Thanks to my natural dexterity, I'd been able to work Gremlins from day one without any clever tricks, so I'd never bothered with a method that ate up that much labor and time.
 
-Someone as overly dexterous as me could never have come up with Professor Handa's team's polishing method.
+Someone as overly dexterous as me could never have come up with the polishing method Professor Handa's team developed.
 
 Apparently this kind of polishing was standard practice in the gem-cutting world; I just hadn't known.
 
@@ -62,9 +62,9 @@ He poured gooey molten Gremlin into a mold, let it cool and harden, and cast it 
 
 I could carve Gremlins into shape with my natural dexterity, no mold needed, so I'd never have thought of this method either.
 
-Once you heard it, though, it was the kind of simple idea anybody might have had. A real Columbus's egg.[^1]
+Once you hear it, though, it's the kind of simple idea anybody might come up with. A real Columbus's egg.[^1]
 
-Melting Gremlins took temperatures close to 1,200°C, but apparently they'd solved that by sending the production method and blueprints to the reverberatory furnace at the Flame Witch's place and commissioning the work there.
+Melting Gremlins took temperatures close to 1,200°C, but apparently they'd solved that by sending the production method and blueprints to the Flame Witch's place and commissioning production in the reverberatory furnace there.
 
 The Flame Witch was good with fire: her territory had heating even in winter and a permanent public bathhouse, and fire-based industries there, public and private alike, were recovering fast.
 
@@ -84,9 +84,9 @@ A grinder was way more efficient than mind-numbing hand polishing. It turned a s
 
 And so, with the Handa Laboratory's three pillars of "polishing, casting, and machining" in place, magic-wand processing and production got underway.
 
-I've had magic-wand production all to myself this whole time, and now a rival faction suddenly sprouts up and starts mass-producing? Okay, even I'm spooked.
+I'd had magic-wand production all to myself that whole time, and then a rival faction suddenly sprang up and started mass-producing. Even I was spooked.
 
-Their method may be inefficient, but they've got manpower. They'll beat me on output.
+Their method was inefficient, sure, but they had manpower. They'd beat me on output.
 
 At this rate, they'll eat my market share, I'll fall from my throne as the legendary Wand Maker, and before long I'll be some dusty relic of the past!?
 
@@ -110,7 +110,7 @@ And if you asked me, their spheres were so rough you'd think they'd shaped them 
 
 Besides, they only got as far as the sphere. They couldn't hollow out the inside for a two-layer structure, so their amplification ratio fell way short of wands made by yours truly.
 
-Their backlash-prevention mechanism was half-baked too. One look at the structure told me what they were going for, but the precision was just bad; their machining hadn't caught up with the theory. Me, I could hit the theoretical values with 100% precision.
+Their backlash-prevention mechanism was half-baked too. One look at the structure told me what they were going for, but the precision was just bad; their processing precision hadn't caught up with the theory. Me, I could hit the theoretical values with 100% precision.
 
 And on top of all that, they had no design sense.
 
@@ -166,7 +166,7 @@ But meanwhile, my own wands would keep getting better too. I had no intention of
 
 Plenty of my techniques were beyond what ordinary people could copy anyway. I stood to gain way more by teaching than I'd ever lose.
 
-As long as we could trade technology on paper without meeting face-to-face, I wasn't going to hold anything back.
+As long as we can trade technology on paper without meeting face-to-face, I won't hold back on sharing it.
 
 I'm the world's greatest Wand Maker anyway!
 
@@ -192,13 +192,13 @@ Keep using high-quality abrasive refined as fine as baby powder, and it works it
 
 The abrasive was made from the small, milky-white Gremlins that fell in crystal rain, so the refined powder was white.
 
-Naturally, fingers that worked with it all day got stained white too. At first the color washed off, but lately it wouldn't, and I'd gotten totally used to having white fingertips.
+Naturally, working with all that abrasive stained my fingers white too. At first the color washed off, but lately it wouldn't, and I'd gotten totally used to having white fingertips.
 
 "Did you know? In town, they're saying 'White Fingers are the mark of a first-rate Wand Maker.'"
 
 "What's that supposed to mean? ...Actually, it's not exactly wrong."
 
-Second- and third-rate craftspeople who dawdle over their wands with cheap abrasive don't get white fingers, after all.
+Second- and third-rate craftspeople who dawdle over their wands with low-grade abrasive don't get white fingers, after all.
 
 White fingers don't necessarily make you first-rate, but every first-rate Wand Maker probably has them.
 
@@ -214,7 +214,7 @@ I spent a while coaching her on the proper posture and technique in detail, but 
 
 "Don't sweat it, don't sweat it. You don't need that much force. Just touch it to the wheel and it'll wear down. Finesse over force! Loosen up your shoulders. Here, one more time."
 
-"No, I'm done. I've learned plenty well that I'm not cut out for this. I thought I was at least as good with my hands as the next person."
+"No, I'm done. I understand well enough that I'm not cut out for this. I thought I was at least as good with my hands as the next person."
 
 The Blue Witch drooped, then stopped the whirring wheel by grabbing it with her bare hand.
 
@@ -234,7 +234,7 @@ Witches are ridiculously tough. She's casually rubbing it in that we're not even
 
 "...I really don't get your tastes, Ori."
 
-The Blue Witch tilted her head, genuinely baffled. Word was she'd been a model before she became a witch, so she probably saw skin discoloration like this as a flaw.
+The Blue Witch tilted her head, genuinely baffled. Word is she was a model before she became a witch, after all, so she probably sees skin discoloration like this as a flaw.
 
 White Fingers wasn't the only town gossip the Blue Witch had brought back. She also told me about a finger-dexterity training method that had lately caught on among craftspeople.
 

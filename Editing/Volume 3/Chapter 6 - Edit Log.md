@@ -144,3 +144,41 @@ Ori's casual, craft-obsessed voice stayed direct. Five clearly immediate complai
 - **細く研いだ鉤針** (JP 370): "hooks and needles" → "hook needles" (a single tool) — accuracy
 - **お前だって…気に入ってるの** (JP 382): restored お前だって → "…Blue Wand Cyanos” yourself." — accuracy
 - Rechecked: `check_reedit.py` PASS; `run_chapter_gates.py --unit 3 --chapter 6` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 75 reviewed, 11 flagged. Round 1: 7 conceded, 0 pushed back, 4 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 11 changed, 0 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 魔道具 as a plain appositive (my counter, accepted by Codex)
+  - Final text: "Another was the Monster Trap, a time-stasis trap magic tool I'd put to use in Himori Wand."
+- **F2** — APPLIED — accuracy — 返り血 = blood spatter
+  - Final text: "I tied on a work apron to protect myself from blood spatter, sat down on the blue tarp I'd spread out, and got straight to work."
+- **F3** — APPLIED — accuracy — restore ゆっくり
+  - Final text: "Once it came to a boil, I took the washbasin off the heat and let it cool slowly on its own."
+- **F4** — APPLIED — worse — fix malformed fragment, kept in past perfect (my counter, accepted)
+  - Final text: "Hmm. That had been easier than I expected. It hadn't been the kind of difficult job worth bracing myself for. Very bloody, though."
+- **F5** — APPLIED — worse — 名のある大規模 = "large, well-known"
+  - Final text: "From what the Dragon Witch had seen while flying around the Japanese archipelago, Japan had five large, well-known survivor communities that had managed to keep civilization functioning."
+- **F6** — APPLIED — accuracy — confirmatory やっぱり as "really does"
+  - Final text: "Eating meat really does make me feel powerful."
+- **F7** — APPLIED — tense — うむ、うむ + ではないか mark direct monologue; the whole thought goes present
+  - Final text: "Not bad. Not bad at all. My workshop's really coming together, isn't it? I want to keep improving both how it works and how it looks."
+- **F8** — APPLIED — voice — すげぇな restored to "That's incredible"
+  - Final text: "“Y-Yeah. That's incredible.”"
+- **F9** — APPLIED — tense — けど-ended guess goes past; used Codex's counter ("a lot" fits 詳しそう better than "all about")
+  - Final text: "I'd assumed she knew, but to my surprise, the Blue Witch shook her head. I'd have figured a witch who killed monsters nonstop would know a lot about this stuff."
+- **F10** — APPLIED — worse — removed the stray object "it"
+  - Final text: "I didn't know how long slime material would last, but unlike acrylic resin, which could never be manufactured again, it was something I could keep obtaining and replacing indefinitely. That was huge."
+- **F11** — APPLIED — glossary — 粘液 = "mucus"
+  - Final text: "I squeezed and filtered it to extract viscous, nearly transparent mucus."
+
+Checks: check_reedit RESULT: PASS (no WARNs; FLOW: LIGHT PASS); gates ALL PASS.
+
+Reference flags: 粘液 is "mucus" in glossary row 332, and its Context scopes it to liquid strained from a slime's 粘体. V2 Ch14 line 121 ("in a mess of sticky slime") renders 粘液 from a non-slime monster corpse (V2 source 16, line 184). That usage is outside the row's scope, so the lead should decide whether the row covers all 粘液 or only the slime extract. After this change, "mucus" appears in the English only at V3 Ch6 line 205.
+
+### Lead Fixes (series rulings)
+- 氏: "Mr. <ruby>Okyaku…</ruby>'s oral teachings" → bare name (guide bans "Mr."; series renders narrative 氏 as the bare name)

@@ -142,3 +142,26 @@ Preserved the source's bedtime-event order, Sanukino Banzo's light rustic cadenc
 - **紛れも無き『本物』** (JP 196): "the genuine article" → "the undeniable genuine article"; restored 紛れも無き — accuracy
 - **勝手に盛り上がった挙句** (JP 232): "got so worked up" → "worked himself up so much"; restored 勝手に self-generated nuance — accuracy
 - **力強く断言した** (JP 253): "Sanukino declared." → "Sanukino declared firmly."; restored 力強く — accuracy
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 72 reviewed, 5 flagged. Round 1: 2 conceded, 2 pushed back, 1 countered. Codex after round 1: 2 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 3 changed, 2 kept as re-edited.
+
+### Findings
+- **F1** — KEPT — mechanics — narration-to-narration merge (pandemic changed Sanukino / lost his wife)
+  - Why kept: the convention bans only narration merged into the next dialogue paragraph. This is a topic sentence plus its explanation, nothing is lost, and Codex withdrew.
+- **F2** — KEPT — mechanics — そのまま早口でまくし立てる joined to the shoving sentence
+  - Why kept: そのまま marks it as one continuous action by the same subject, the join is narration to narration, and 慎重に and 尊重しつつ are kept. Codex withdrew.
+- **F3** — APPLIED — accuracy — たわませた is a completed flex, not an attempt
+  - Final text: "Sanukino took the gun-wand Giant Slayer without hiding his mockery. The instant he gripped it in both hands and flexed it with all his strength, his face went blank."
+- **F4** — APPLIED — mechanics — narration paragraph had been folded into the following dialogue
+  - Final text: "<ruby>Okyaku<rt>Great Wolf</rt></ruby> spoke to the big man, whose attitude had completely changed." / "“Convinced now?”"
+- **F5** — APPLIED — mechanics — 佐貫野は力強く断言した restored as its own beat before かと思えば (countered wording)
+  - Final text: "…It ain't possible even if heaven and earth turn upside down.”" / "Sanukino declared it firmly."
+
+Checks: check_reedit RESULT: PASS (no WARNs; one new run of 3+ short narration sentences, FLOW ok); gates ALL PASS.
+
+Reference flags: none

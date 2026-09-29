@@ -14,7 +14,7 @@ They'd made plenty of other useful political decisions, too. They set up a syste
 
 When the Iruma Mage staged his coup, they crushed it, at heavy cost, and even managed to turn the victory into public support.
 
-But most witches and mages were hopeless at politics.
+But most witches and mages were clueless about politics.
 
 They were just ordinary people who'd been handed power. Hunting monsters was simple enough: kill them with magic and you were done. Politics, built on a tangle of competing interests, was a lot harder.
 
@@ -26,13 +26,13 @@ At its peak, the Witches' Council had gathered six mages and twenty witches. Now
 
 Only six of them showed up to the regular meetings.
 
-After the Bloodsucking Mage's death, the Eyeball Witch had taken over as the Council's coordinator. To put it kindly, she valued harmony; to put it unkindly, she couldn't make a decision.
+After the Bloodsucking Mage's death, the Eyeball Witch had taken over as coordinator of the Witches' Council. To put it kindly, she valued harmony; to put it unkindly, she couldn't make a decision.
 
 She knew it herself: she could have handled something like PTA president in peaceful times, but holding together a Witches' Council that decided Tokyo's fate was more than she could carry.
 
-Still, nobody was better suited to the job. Keep the Council meeting on schedule, keep up at least the appearance of cooperation, and stop things from getting any worse—that alone took everything she had.
+Still, nobody was better suited to the job. Keep holding Witches' Council meetings regularly, keep up at least the appearance of cooperation, and stop things from getting any worse—that alone took everything she had.
 
-Since the Blue Witch never left Ome, she had only come to the Council meetings in Shinjuku regularly in its early days.
+Since the Blue Witch never left Ome, she'd only been a regular at the Witches' Council in Shinjuku back when it first formed.
 
 Today's remote appearance was her first since the emergency meeting held in Akiruno right after the giant kaiju invasion incident.
 
@@ -84,13 +84,13 @@ The Foresight Mage had wanted Cyanos all along. When the Blue Witch asked for th
 
 The Blue Witch clicked her tongue.
 
-"Didn't that foresight you're so proud of show you a future where I say no? I told you again and again at the emergency meeting. I'm not handing Cyanos over to anyone. I'm not lending it out, either."
+"Didn't that Foresight you're so proud of show you a future where I say no? I told you again and again at the emergency meeting. I'm not handing Cyanos over to anyone. I'm not lending it out, either."
 
-"I heard you. But listen to me, Blue Witch. I've been saying this over and over at the Council meetings you skipped."
+"I heard you. But listen to me, Blue Witch. I've been saying this over and over at the Witches' Council meetings you weren't at."
 
 With that preface, his listless middle-aged voice found some strength.
 
-"At this rate, two years from now, food shortages are going to cause a famine like nothing we've ever seen. Even next year, nobody will actually starve, but people will be dropping from malnutrition left and right."
+"At this rate, two years from now, food shortages are going to cause a famine like nothing we've ever seen. Even next year, nobody will actually starve to death, but people will be dropping from malnutrition left and right."
 
 "Which is why you're pushing the agriculture, forestry, and fisheries reforms."
 
@@ -102,9 +102,9 @@ With that preface, his listless middle-aged voice found some strength.
 
 "Chemical fertilizer is down a full 100%. We can't farm on the assumption of plentiful fertilizer anymore.
 
-"The roads are cut, so freight trains and delivery trucks aren't running. Crops grown in the breadbasket regions can't reach the cities anymore.
+"The roads are cut off, so freight trains and delivery trucks aren't running. Crops grown in the breadbasket regions can't reach the cities anymore.
 
-"The average age of the people working in farming, forestry, and fisheries was 68. With monsters running wild, medical care stopped, and so did heating and air conditioning in summer and winter. The elderly were the first to die. The people who knew how the work was done got wiped out."
+"The average age of the people working in farming, forestry, and fisheries was 68. With monsters running wild, medical care stopped, and so did heating and air conditioning in summer and winter. The elderly were the first to die. The people who knew how the work was done were all but wiped out."
 
 The Foresight Mage rattled off the grim state of Japan's food production, backing every point with numbers.
 
@@ -120,7 +120,7 @@ If they didn't build industries fit for the new era, and fast, an already exhaus
 
 "Even the farmland, stables, and fish farms that are somehow still producing get devoured by monsters. Funny, huh? By the time we sense a monster's shown up, get there, and kill it, the precious food's already in its stomach. Deer, monkeys, sparrows—ordinary pests like that are cute by comparison. The newly cleared farmland in Katsushika Ward got stripped bare.
 
-"Seed and nursery companies literally got crushed, and hundreds of high-yield varieties were lost. That damage can't be undone. It probably doesn't mean much to you, but anyone with time to guard the National Diet Building should've been guarding even one seed company instead.
+"Seed and nursery companies literally got crushed, and hundreds of high-yield varieties were lost. That damage can't be undone. It probably doesn't mean much to you, but anyone with time to guard the National Diet Building should've been guarding even one of those companies instead.
 
 "About 80% of Tokyo's population died, so the food we need dropped 80% too, but food production fell by a lot more than 80%. Listen—"
 
@@ -130,11 +130,11 @@ Fed up, the Blue Witch cut off the depressing lecture.
 
 It had been her own choice to hole up alone in Ome and ignore the problems outside. Even so, hearing how bad things were spelled out all over again left her feeling bleak.
 
-She'd brought down the giant kaiju single-handedly and felt as if she'd saved Tokyo. But with the food supply set to run dry in two years, maybe Tokyo's end had only ever been a question of sooner or later.
+She'd brought down the giant kaiju single-handedly and felt as if she'd saved Tokyo. But faced with the food crisis he said was coming in two years, maybe Tokyo's end had only ever been a question of sooner or later.
 
 "That's why I need your wand."
 
-The Foresight Mage's voice shriveled again, as if all that talking had worn him out.
+The Foresight Mage's voice lost its strength again, as if all that talking had worn him out.
 
 She'd always thought he seemed worn out, but given the size of the problem he was taking on, it made sense.
 
@@ -182,7 +182,7 @@ She thought it over and offered a compromise.
 
 The Blue Witch was hinting at a trump card to buy his trust, stopping just short of revealing that Ori existed, and her words left the Foresight Mage agonizing for a good while.
 
-But true to his name, the Foresight Mage could see the future. To look ahead at the outcome of his choice, he chanted an incantation.
+But true to his name, the Foresight Mage could see the future. To look ahead at the outcome of his choice, he recited an incantation.
 
 "<ruby>××× Kunatsuku<rt>Tell me</rt></ruby>[^1], <ruby>Subasuhasu Toshiyachia<rt>will there be a full moon next month?</rt></ruby>"
 
@@ -210,7 +210,7 @@ At first she thought someone else was talking, but none of the other witches, wh
 
 The Flame Witch's voice came next, gently coaxing the middle-aged guy like a toddler: "Okay, let's go to the break room now. There's a good boy." The Foresight Mage's voice faded into the distance.
 
-The Council witches, who had listened to the whole exchange in silence, started whispering among themselves, and over the murmuring came the Eyeball Witch's voice, openly moved.
+The Witches' Council members, who had listened to the whole exchange in silence, started whispering among themselves, and over the murmuring came the Eyeball Witch's voice, openly moved.
 
 "Hey, Ao-chan. Won't you come to the meetings every month after all? I haven't seen a negotiation wrap up this peacefully in ages. You both said what you thought, heard each other out, and met in the middle. Onee-san's getting all choked up."
 
@@ -224,4 +224,4 @@ After all, he was the man who had made Cyanos, a magic wand that held the power 
 
 ## Translator Notes
 
-[^1]: The ruby baselines transliterate the supplied spoken forms; `×××` redacts an unrenderable sound.
+[^1]: The ruby baselines transliterate the supplied spoken forms; ××× redacts an unrenderable sound.

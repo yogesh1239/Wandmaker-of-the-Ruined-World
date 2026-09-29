@@ -1,266 +1,266 @@
 For several days after the Arataki Group was driven back, Tokyo was busy with cleanup.
 
-I thought that, as punishment for running away, Hiyori would keep me under her direct watch for a while. But surprisingly, she just gave Fuyo strict orders to stop me from escaping and flew all around Tokyo herself.
+I'd figured Hiyori would keep me under her direct watch for a while as punishment for running away, but to my surprise, she just gave Fuyo strict orders to keep me from escaping and went flying all over Tokyo herself.
 
-Other than checking on me and Professor Ohinata in her hospital bed once a day, she didn't even return to Ome and spent her time helping with cleanup all over the place.
+Aside from checking in on me and on Professor Ohinata in her hospital bed once a day, she didn't even go back to Ome; she spent all her time helping with cleanup here and there.
 
-What brought on that change of heart? I felt like she had gotten a little brighter. I dunno, but if my best friend is happy, I'm happy-happy-happy too.
+What brought on that change of heart? Her whole vibe seemed a little brighter. I dunno, but if my best friend is happy, I'm happy-happy-happy too.
 
-Professor Ohinata, who had drunk poison, didn't seem to be in any danger. When I sent her a get-well gift of locally picked amanatsu oranges soaked in Fuyo's sap syrup, I got a thank-you letter back like normal. Hiyori had written it for her, though.
+Professor Ohinata, who had reportedly drunk poison, didn't seem to be in any danger either. When I sent her a get-well gift of locally picked amanatsu oranges soaked in Fuyo's sap syrup, I got a perfectly normal thank-you letter back. Hiyori had written it for her, though.
 
-Well, she was well enough to dictate a letter, and I heard she was getting better, so that was good enough for now.
+Well, she was healthy enough to dictate a letter, and I heard she was on the mend, so that was good enough for now.
 
-After a few days, the confusion in Tokyo had mostly settled down, the emergency declaration was lifted, and the Foresight Mage, who had been unconscious, woke up. Things went back to normal.
+Over the next few days, the chaos in Tokyo mostly settled down and the emergency declaration was lifted. The Foresight Mage, who'd been out cold, woke up too, and things went back to normal.
 
-The damage investigation found that the Arataki Group had killed very few people considering how wildly they had rampaged.
+When the damage was surveyed, it turned out the Arataki Group had killed very few people for how wildly they'd rampaged.
 
-They hadn't confirmed everything yet, but even their highest estimate put the death toll under 100. That was a lot, but considering ten Transcendents had stormed Tokyo, it was miraculously low.
+Not everything had been confirmed yet, but even the highest estimate put the death toll under a hundred. That was a lot of people, but for a raid by ten whole Transcendents, it was miraculously low.
 
-That was because of the Arataki Group's gang boss and his magic.
+The reason was the Arataki Group gang boss's magic.
 
-The Arataki Group preferred to overpower hostile groups, take prisoners, use magic to make them obey, and absorb them into the organization.
+The Arataki Group's preferred tactic was to overpower hostile groups, take prisoners, and use magic to make them obey and fold them into the organization.
 
-It was way more efficient to turn enemies into allies than to defeat them. That was the best option in theory but almost impossible in practice, and the gang boss had actually pulled it off.
+Turning enemies into allies was way more efficient than defeating them. It was the best move in theory and next to impossible in practice, but the gang boss had actually pulled it off.
 
-It was the worst kind of magic, turning your allies against you, but it also kept the number of victims down.
+It was the worst kind of magic, turning your own allies into enemies, but it was also the reason so few people had died.
 
-Really, a silver lining.
+A real silver lining.
 
 The Arataki Group's attack started in the morning and ended in the evening.
 
-If it had taken longer, there was a good chance the captured witches would have given in to torture, agreed to contract magic, and become enemies. Scary stuff. It was good that the fighting ended quickly.
+Had it dragged on, there was a good chance the captured witches would have broken under torture, agreed to contract magic, and ended up on the enemy's side. Scary stuff. Good thing it was settled fast.
 
-From all the information gathered from Arataki Group small fry caught by the unharmed witches patrolling Tokyo, it sounded like the Lake Biwa Pact and Fukuoka, the Arataki Group's home city, were in the same situation.
+The witches who'd come through unharmed patrolled all over Tokyo and caught Arataki Group small fry. Once the information from those small fry had been pieced together, it sounded like things were the same at the Lake Biwa Pact and in the Arataki Group's home city of Fukuoka.
 
-In other words, there were a lot of people west of Tokyo whom the gang boss had forced into obedience.
+In other words, west of Tokyo there were a lot of people the gang boss had forced into obedience.
 
-And all of them had been freed by the gang boss's death.
+And his death had freed every one of them.
 
-When the Arataki Group took over the Lake Biwa Pact, one witch there and an Arataki Group witch killed each other, but the rest were alive.
+When the Arataki Group conquered the Lake Biwa Pact, one of the Pact's witches and an Arataki Group witch had killed each other, but everyone else was alive.
 
-The Lake Biwa Pact's strength had fallen, and its political structure had been destroyed. The magic drug that the dove faction had considered dangerous and hidden away had spread widely among ordinary people, and public safety had gotten seriously worse.
+The Lake Biwa Pact's fighting strength had dropped, and its political structure lay in ruins. The magic drug the dove faction had deemed dangerous and hidden away had spread widely among ordinary people, and public order had gone badly downhill.
 
-But now that the restraints of contract magic were gone, they would gradually rebuild. It was an organization that had originally had factional conflicts inside it, though, so they probably would not all unite as one.
+But now that the contract magic's hold was gone, they'd probably rebuild bit by bit. The organization had always had internal factional conflicts, though, so they probably wouldn't all pull together as one.
 
-As for Fukuoka, the Arataki Group's home, every witch and mage had come to Tokyo aiming to conquer the whole country (!?), so it was practically empty.
+As for the Arataki Group's home of Fukuoka, all its witches and mages had come to Tokyo aiming to conquer the whole country (!?), so the place was practically empty.
 
-Apparently, the Lake Biwa Pact had sent two mages to Fukuoka to defend it while the Arataki Group was away. But now that the gang boss's contract was gone, I didn't think they'd dutifully keep defending their hated enemy's home city. They'd hurry back to Lake Biwa.
+Apparently, two Lake Biwa Pact mages had been sent to Fukuoka to guard it while the Arataki Group was away, but with the gang boss's contract gone, I couldn't see them dutifully guarding their sworn enemy's home turf—they'd probably hurry back to Lake Biwa.
 
 That would leave Fukuoka without a single witch or mage.
 
-Fukuoka's 400,000 citizens, or so they said, would have no way to resist if even one Class A monster showed up. They'd be overrun. Even Class B was questionable.
+Its citizens, said to number four hundred thousand, would be trampled without any way to fight back if even one Class A monster showed up. Even a Class B would be dicey.
 
-...But there was not much the Tokyo Witches' Council could do.
+...But there wasn't much the Tokyo Witches' Council could do about it.
 
-Tokyo did not have enough witches and mages either. The Iruma coup, the giant kaiju invasion, the mushroom pandemic—the number of Transcendents kept falling. The survival zone kept getting smaller.
+Tokyo was short on witches and mages too. Between the Iruma coup, the giant kaiju invasion, and the mushroom pandemic, its Transcendents just kept dwindling, and the survival zone kept shrinking.
 
-Minato Ward had barely been retaken from the monsters infesting it and was being maintained, but every time they drew up plans to retake another district, some accident happened and delayed them. None of those plans had been carried out yet.
+They'd barely managed to take Minato Ward back from the monsters overrunning it and were holding on to it, but every time they drew up a plan to retake another district, some accident pushed it back, and none of them had gotten off the ground yet.
 
-Giving a little technical support or supplies to Fukuoka, which had none of the Transcendents needed at the core of defending a survival zone, would not fix anything. The monsters would wipe them all out, and that would be the end. Tokyo and Kyushu were too far apart in the first place, and just sending people or things there was a huge pain. I felt bad for the 400,000 people, but they had to manage somehow on their own.
+Transcendents were the core of any survival zone's defense, and Fukuoka didn't have a single one, so sending them a little technical support or supplies wouldn't fix a thing. The monsters would crush them all, and that would be the end of it. Besides, Tokyo and Kyushu were way too far apart; just sending people or goods over there was a huge pain. I felt bad for those four hundred thousand people, but they'd have to figure something out on their own.
 
-The Arataki Group's idiotic ambitions and stupid actions had caused enormous damage everywhere.
+The Arataki Group's idiotic ambitions and stupid stunts had caused enormous damage all over.
 
-But they did leave something behind.
+But it wasn't like they'd left no parting gifts.
 
-Four things, mainly.
+Four of them, mainly.
 
 The first was the Arataki Group small fry.
 
-The Arataki Group's core had consisted of ten witches and mages, and all of them were dead.
+The Arataki Group's core had been its ten witches and mages, and all of them were dead.
 
-But the just-under-500 small fry who had come along as errand runners and foot soldiers were rounded up by the witches and were currently in jail.
+But the small fry who'd tagged along as errand runners and foot soldiers, just under five hundred of them, had been hunted down by the witches and were now sitting in jail.
 
-According to Hiyori, who'd helped hunt down small fry all over Tokyo, "If the people at the top are trash, the people below them are trash too."
+In the words of Hiyori, who'd taken part in hunting down the small fry scattered across Tokyo: “If the ones on top are trash, so are the ones below.”
 
-They were beyond saving, so apparently all of them would be put to good use somehow.
+They were beyond saving, so apparently they'd all be put to good use one way or another.
 
-Human experiments, probably. Rest in peace.
+Well, human experiments, probably. Rest in peace.
 
 The second was the magic drug.
 
-The magic drug was a dangerous substance the Lake Biwa Pact had originally kept hidden. Taking it restored magic power past even the capacity limit. In exchange, it reduced your maximum magic power.
+The magic drug was a dangerous substance the Lake Biwa Pact had originally kept hidden away. Taking it restored your magic power even past your capacity limit. In exchange, it whittled down your maximum magic power.
 
 It restored around 10 K.
 
-The reduction in maximum capacity, on the other hand, was 0.2 K.
+The tradeoff was a 0.2 K reduction in your maximum magic power.
 
-An ordinary person would lose all their magic-power capacity after using it only five times, turn to dust, and disappear from this world.
+Just five uses would drop an ordinary person's magic-power capacity to zero, and their body would crumble to dust and vanish from this world.
 
-And as a garbage bonus, the less magic-power capacity you had, the more addictive and habit-forming it got.
+And it came with a garbage bonus: the lower your magic-power capacity, the more addictive and habit-forming it got.
 
-Not even close to worth it. Trash.
+Nowhere near worth it. Trash.
 
-At least restore around 100 K. What is 10 K? You've gotta be kidding me. It's not even a trump card.
+At least restore something like 100 K. What's 10 K supposed to be? Don't screw with me. That's not even trump-card material.
 
-Still, technically, it was magic-power recovery medicine.
+Still, technically, it was a magic-power recovery medicine.
 
-It was an interesting drug with an effect completely unknown in Tokyo.
+It was an interesting drug, with an effect completely unheard of in Tokyo.
 
-Supplies of magic drug carried by the small fry and circulating in Tokyo's underworld were collected, and Magic University was planning to research them.
+The magic drug the small fry had been carrying and the stuff circulating in Tokyo's underworld had been collected, and Magic University was planning to research it.
 
-Magic medicine was outside my specialty, so I didn't plan to get involved. But it'd be huge if they could make a new medicine that got rid of all the downsides and only restored magic power. I had high hopes for future research.
+Magic medicine wasn't my specialty, so I had no plans to get involved, but a new medicine that got rid of all the downsides and only restored magic power would be huge, right? I had high hopes for the research to come.
 
 The third was magic.
 
-The Arataki Group had recited incantations all over Tokyo. Anyone with even a little knowledge of magic knew how important incantations were. The witches and Tokyo residents had started trying to collect the incantations they remembered hearing in different places, compare them to correct mistakes and omissions, fill in the gaps, and recreate them.
+The Arataki Group had recited incantations all over Tokyo, and anyone with even a little knowledge of magic knew how important incantations were. Witches and Tokyo residents had started an effort to gather the incantations people remembered hearing around the city, cross-check them to fix mistakes and omissions, fill in the gaps, and reconstruct them.
 
-Magic only worked if you pronounced it insanely precisely. Unless you had absolute pitch, remembering it after hearing it only a few times was impossible.
+Magic didn't work unless you pronounced it insanely precisely, and unless you had absolute pitch, memorizing a spell after hearing it just a few times was asking too much.
 
-But if you combined a lot of people's memories, it was not impossible.
+But pool enough people's memories, and it wasn't impossible.
 
-The Arataki Group had used a lot of useful magic, so it would be great if they could salvage even one or two spells.
+The Arataki Group had used a lot of useful magic, so salvaging even one or two spells would be a real blessing.
 
-And the fourth was the big one.
+And the fourth was the main event.
 
-The ten magic stones that the ten dead Arataki Group members had carried.
+The ten magic stones carried by the ten dead Arataki Group members.
 
-Hiyori had recovered most of the magic stones while hunting down the remaining small fry.
+Hiyori had collected most of them while she was out hunting down the remaining small fry.
 
-The Dragon Witch had tried to secretly swipe two of them without learning her lesson—the magic stones carried by the guard witch Hiyori defeated and by the mage who had been taking the Chofu Witch away. But when Hiyori threatened her, she fessed up. Seriously, what a lame dragon.
+The Dragon Witch, who never learned, had tried to quietly swipe two of them (the ones carried by the guard witch Hiyori defeated and by the mage who'd been hauling off the Chofu Witch), but she spilled everything the moment Hiyori threatened her. Seriously, what a lame dragon.
 
-Still, the Dragon Witch had taken down one of the enemy's key fighters this time. They decided she could have the one from the enemy she defeated, so she was allowed to keep one magic stone. She was happy.
+Still, she had taken down one of the enemy's main fighters this time, so the verdict was that she could at least have the one from the enemy she'd beaten. She was allowed to keep one magic stone and was thrilled.
 
-Then she said she wanted to trade the one she had for the other nine, got shut up by a slap from Hiyori, and apparently slunk back to her nest. Greedy dragon, go home.
+Then she proposed trading her one stone for the other nine, got slapped quiet by Hiyori, and apparently slunk back to her nest. Greedy dragon, go home.
 
-Anyway, magic stones were among the most prized resources of the post-Gremlin Disaster world.
+Now, when it came to precious resources in the post-Gremlin Disaster world, magic stones were the prime example.
 
-They could become powerful wands or Monster Traps. They were top-grade material that probably still had plenty of hidden uses.
+They could be made into powerful wands or Monster Traps, and they were top-grade material that probably had plenty more uses still waiting to be discovered.
 
-Since we had gotten as many as ten, we had to be careful about where and how we used them.
+We'd gotten a whole ten of them, so we had to think carefully about where and how to use them.
 
-For me, though, the good news was that most of them would become wand materials.
+That said, happily for me, they'd basically be used as wand materials.
 
-Class A monsters with black Gremlins that used time acceleration had gradually been increasing, and the witches were having trouble with them. If the witches got magic-stone wands, the balance of power would recover. They could get the upper hand against monsters again.
+Time-accelerating Class A monsters with black Gremlins had been gradually increasing, and the witches were struggling against them. Put magic-stone wands in the witches' hands, and the balance of power would be restored; they'd have the upper hand against monsters again.
 
-The Arataki Group was trash, but if you looked only at the fact that it had brought magic stones to Tokyo, it was just what we needed.
+The Arataki Group was trash, but looking only at the fact that they'd brought magic stones to Tokyo, they'd been exactly what we needed.
 
-One of the ten had already been made into the Spider Witch's wand and given to her.
+I'd already turned one of the ten into a wand and given it to the Spider Witch.
 
-Another belonged to the Dragon Witch, who had taken down an enemy alone.
+Another belonged to the Dragon Witch, who'd taken down an enemy single-handedly.
 
-Another belonged to the Flower Witch, who had stopped the enemy by dragging them into a drawn-out war of attrition.
+One more belonged to the Flower Witch, who'd held off an enemy by dragging them into a war of attrition that turned into a quagmire.
 
 The remaining seven had been carried by the Arataki Group Transcendents Hiyori defeated.
 
-Hiyori recovered those seven and brought every last one to me, with the condition that I turn them into wands.
+Hiyori had recovered those seven and brought every last one of them straight to me, on the condition that I turn them into wands.
 
 Hmm, is she a goddess?
 
-I would make seven wands from the seven magic stones, but Hiyori decided who I would make them for.
+I'd be making seven wands from the seven magic stones, but Hiyori decided who they were for.
 
-I had no objections to the choice made by my advertising, public-relations, and negotiation rep either.
+I had no objections to what my advertising, PR, and negotiations rep had to say either.
 
-Everyone in the Witches' Council wanted a magic-stone wand.
+Every member of the Witches' Council wanted a magic-stone wand.
 
-But first, the Zombie Witch already had a magic stone, and she was shady, so she was out.
+But first off, the Zombie Witch already had a magic stone of her own, and her character was shady, so she was out.
 
-The Mermaid Witch was a good witch, but unfortunately her intelligence was questionable. There was a risk that she would leave the wand somewhere or give it to somebody, so she was out.
+The Mermaid Witch was a good witch, but sadly, her intelligence was questionable. She might leave the wand lying around somewhere or give it away to someone, so she was out.
 
-The Pebble Witch had done nothing this time, and we could not expect her to do anything in the future either, so she was out.
+The Pebble Witch hadn't done a thing this time and couldn't be expected to do anything in the future either, so she was out.
 
-The Setagaya Witch could not be trusted, so she was out.
+The Setagaya Witch couldn't be trusted, so she was out.
 
-The Flame Heir Witch declined, saying, "I have the Himori Wand."
+The Flame Heir Witch turned it down, saying, “I have the Himori Wand.”
 
-Among the remaining Witches' Council members, Hiyori first selected the Eyeball Witch, the Foresight Mage, and the Night Witch. I didn't know much about the Night Witch, but Eyeball and Foresight came up all the time, so those were solid picks.
+From the remaining Witches' Council members, Hiyori first chose the Eyeball Witch, the Foresight Mage, and the Night Witch. I didn't know much about the Night Witch, but I heard about Eyeball and Foresight all the time, so those were solid picks.
 
-The Tobacco Witch's conduct had been suspicious until now, but her actions during the Arataki Group invasion proved she could be trusted, so Hiyori selected her too.
+The Tobacco Witch had behaved suspiciously up to now, but her work during the Arataki Group invasion showed she could be trusted, so Hiyori chose her too.
 
 And the remaining three magic stones would be made into wands and handed over to the Lake Biwa Pact.
 
-Apparently, the Lake Biwa Pact originally had five magic stones (according to the Dragon Witch. Really?), but the Tokyo Witches' Council would get two as payment for dealing with the Arataki Group.
+The Lake Biwa Pact had apparently started out with five magic stones (according to the Dragon Witch—is that even true?), but the Tokyo Witches' Council was taking two as its fee for disposing of the Arataki Group.
 
-The judgment was that if we turned the three into wands and returned them, they probably would not complain about things later. Tokyo monopolizing magic stones would create friction.
+The thinking was that if we turned the other three into wands and gave them back, they probably wouldn't have anything to complain about later. Tokyo hogging all the magic stones would create friction.
 
-The Lake Biwa Pact looked like it was having a rough time too. I thought it was reasonable. And I wanted to spread the reputation of my brand's magic-stone wands there.
+The Lake Biwa Pact seemed to be having a rough time, after all. I thought it was a fair call too. Besides, I wanted to spread the name of my brand's magic-stone wands through the Lake Biwa Pact.
 
 Of the seven wands, six would be multilayer magic wands with three to five layers.
 
-This was partly because the Blue Witch did not want to increase the number of <ruby>Cyanos<rt>weapons of mass destruction</rt></ruby>, which were practically nuclear weapons. Also, boosting the power too much made the wands hard to control and could cause magic to go out of control. Even with a backlash-prevention mechanism, the seven-layer Cyanos was extremely hard to handle.
+Part of the reason was that the Blue Witch didn't want any more <ruby>Cyanos<rt>weapons of mass destruction</rt></ruby> in the world—they were practically nuclear weapons. The other part was that amplifying the power too much made a wand hard to control and could lead to runaway magic in the first place. Even with a backlash-prevention mechanism, the seven-layer Cyanos was extremely hard to handle.
 
-It was best to keep them at three to five layers based on each user's skill at magic-power control. The wands for the Lake Biwa Pact would all be four layers.
+Apparently, it was best to cap them at three to five layers to match each user's skill at magic-power control. The Lake Biwa Pact's wands would all be four layers across the board.
 
-Formally, the Witches' Council had placed an order for seven magic-stone wands with the Blue Witch's personal Wand Maker, 0933.
+On paper, the Witches' Council had ordered seven magic-stone wands from the Blue Witch's personal Wand Maker, 0933.
 
-The payment was 150 million new yen per wand in new coins that had only been issued half a year ago. With a little discount, all seven came to 1 billion new yen (10 billion old yen).
+The fee was 150 million new yen per wand, paid in the new coins that had only been issued half a year earlier. With a small discount, all seven came to 1 billion new yen (10 billion old yen).
 
 My sense of money is getting wrecked all at once! Isn't inflation hitting me way harder than everyone else?
 
-But this payment was not excessive at all.
+But the payment wasn't excessive in the slightest.
 
-In the previous era, a single ballistic missile was worth 300 million to 1 billion old yen. Assuming each three-to-five-layer wand was worth roughly that much, then factoring in things like their not being single-use and having a limited pool of users, this price seemed about right.
+Back in the old era, a single ballistic missile had been worth 300 million to 1 billion old yen. The reasoning was that if you roughly assumed each three-to-five-layer wand was worth about that much, then factored in things like their not being single-use and having only a limited pool of users, this price came out about right.
 
-By the way, Cyanos was definitely worth at least 30 billion old yen by itself (reference price: a nuclear bomb).
+By the way, Cyanos alone was definitely worth at least 30 billion old yen (reference price: a nuclear bomb).
 
-So I made something crazy, huh?
+Man, I really made something insane, huh.
 
-Once you put a price on it, I could really understand how wary Hiyori had been when she learned Cyanos's value. I'd done something that made no sense even by my own standards. I still was, though.
+With an actual price tag on it, I totally got why Hiyori had been so wary when she learned what Cyanos was worth. Even I thought I'd done something that made no sense. Still doing it now, though.
 
-If they paid my 1 billion new yen reward in coins, it would take 2 million coins.
+Paying my 1 billion new yen fee in coins would take 2 million of them.
 
-There was still not much new currency in circulation, so paying that much cash to me alone would affect the economy. I took only 100 million new yen, then asked them to put the rest through a bank into the metalworking factory in Shinagawa Ward that I had left sitting idle ever since the Flame Witch gave it to me.
+Not much of the new currency was in circulation yet, so paying that much cash to me alone would affect the economy. I took just 100 million new yen and asked them to dump the rest, through a bank, into the metalworking factory in Shinagawa Ward that I'd been ignoring ever since the Flame Witch gave it to me.
 
 Take that! An investment from your owner in name only! I'm never showing my face at the factory, so do whatever you want! Also, a 1 million new yen bonus for every employee!
 
-With that, the uses for the magic stones were decided, I received the order, and the payment was settled.
+With that, the magic stones' uses were decided, the order was placed with me, and the payment was settled.
 
 All that was left was for me to make the magic wands.
 
 First, I made the three for the Lake Biwa Pact.
 
-They had four-layer cores finished with purified-slime filler, backlash-prevention mechanisms, and handles of Fuyo's whitewood that assisted magic-power control. I also built in structural-color Gremlin magic-power meters. Simply gripping a wand moved its gauge, accurately displaying your remaining magic power.
+Each had a four-layer core finished with purified-slime filler, a backlash-prevention mechanism, and a handle of Fuyo's whitewood that helped with magic-power control. I also built in a structural-color Gremlin magic-power meter: just holding the wand moved the gauge, which showed your remaining magic power accurately.
 
-Even without a magic-power meter, witches and mages knew how much magic power they had left. But it was not like they knew it precisely down to 1 K. There would probably be times when it helped to know exactly how much magic power remained.
+Witches and mages could tell how much magic power they had left even without a magic-power meter, but not precisely, to the nearest 1 K. There would probably be times when knowing the exact amount would come in handy.
 
-More than anything, I wanted to load them up with useful functions and show off to the Lake Biwa Pact. My wands are awesome, right?
+More than anything, I wanted to load them up with useful features and show off to the Lake Biwa Pact. My wands are awesome, right?
 
-After a month, I finished making all three (I spent about 80 percent of the time making the magic-power-meter parts) and sent them to the Lake Biwa Pact. Around then, repairs to the university buildings were finished. Professor Ohinata recovered and was discharged from the hospital. I heard that if she kept up rehab, her weakened body would return to normal. University classes resumed too.
+It took a month to finish all three (about 80 percent of that went into making the magic-power-meter parts), and around the time I sent them off to the Lake Biwa Pact, repairs on the university buildings were completed. Professor Ohinata recovered and was discharged from the hospital; I heard her weakened body would probably get back to normal if she kept up with rehab. University classes started up again too.
 
 And Hiyori moved her base from Ome to Tokyo Magic University.
 
-She skillfully controlled lower-powered Great Glacier magic and built a 300-meter-tall ice tower that would not melt. Apparently, she would live at the top and watch for enemies trying to get close to Professor Ohinata at Magic University, as well as keep an eye on Tokyo while she was at it.
+Deftly handling a toned-down version of her Great Glacier magic, she built a 300-meter-tall tower of ice that wouldn't melt. Apparently, she would live at the top and watch for enemies trying to get close to Magic University—or rather, Professor Ohinata—and keep an eye on Tokyo while she was at it.
 
-Freed from the constraints of Ome, Hiyori looked happier.
+Free of Ome's hold on her, Hiyori looked brighter.
 
-For me, it sucked that my friend had moved far away and would be harder to hang out with. But I couldn't exactly tell her not to move just because it inconvenienced me.
+Personally, it sucked that my friend had moved far away and would be harder to hang out with, but I could hardly tell her, “Please don't move,” just for my own convenience.
 
-Even after moving, Hiyori came back to the old house in Ome to visit the grave, and she came over to my house too. It looked like we weren't going to stop being friends, so that was a relief.
+Even after the move, Hiyori still came back to her old house in Ome to visit the grave and came over to my place to hang out, so it didn't look like our friendship was going to end, which was a relief.
 
-She said our promise to play in the river together that summer was still good. We also made plans to play a late-night tabletop RPG over an eyeball familiar next time, with Professor Ohinata joining us. I was wondering whether to invite the Spider Witch too.
+She'd said our promise to go play in the river together in the summer still stood. We'd also made plans for the three of us, including Professor Ohinata, to play a late-night tabletop RPG over an eyeball familiar sometime. I was debating whether to invite the Spider Witch too.
 
-Once I finished the three for the Lake Biwa Pact and caught my breath, I kept going and made the remaining four for the Witches' Council.
+After finishing the three for the Lake Biwa Pact and taking a breather, I moved straight on to the remaining four for the Witches' Council.
 
 The wands for the Eyeball Witch and the Night Witch each had a five-layer multilayer core, a backlash-prevention mechanism, and a whitewood handle with a magic-power meter.
 
-Their names were Witch of Gaze and Nyx Cane. The Night Witch had specified the name for hers. Apparently, her husband had come up with it. She had been torn between that and a hellish name idea with the couple's names written under a shared umbrella, so I was relieved she went with Nyx Cane.
+They were named Witch of Gaze and Nyx Cane, and the Night Witch had specified the name for hers. Apparently, her husband had come up with it. She'd been torn between that and a hellish alternative with the couple's names written under a lovers' umbrella, so I was relieved she'd gone with Nyx Cane.
 
-It felt like I had barely avoided giving my own kid a ridiculous sparkly name. Why did that make me so nervous?
+It felt like I'd narrowly avoided saddling my own kid with a ridiculous sparkly name. Why did that make me sweat so much?
 
-For the Foresight Mage's wand, he wanted to prioritize magic-backlash reduction and magic-power control, so I kept it to three layers. I added a backlash-prevention mechanism, and for the whitewood handle, I used the rarest, best-quality core stock. I was told he didn't need a magic-power meter, so I didn't add one. Apparently, his head would go nuts before he ran out of magic power anyway.
+The Foresight Mage wanted his wand to prioritize magic-backlash reduction and magic-power control, so I held it to three layers. I gave it a backlash-prevention mechanism and used the rarest, highest-quality heartwood for the whitewood handle. I was told he didn't need a magic-power meter, so I left that off (apparently his head would go haywire before he ran out of magic power anyway).
 
-He had asked for an extremely high-performance backlash-prevention mechanism when I sent him that Gremlin wand last time too. So I got hold of every past paper by the late Professor Handa and built the best mechanism current theory allowed, with the highest precision possible.
+He'd made the same request with the Gremlin wand I sent him last time: above all, he wanted a high-performance backlash-prevention mechanism. So I got hold of every paper the late Professor Handa had ever written and built the best mechanism the latest theory allowed, finished to the highest precision possible.
 
-He said he did not need a name, so I only put a <ruby>lizard<rt>fire salamander</rt></ruby> logo on it.
+He said he didn't need a name for it, so I only put a <ruby>lizard<rt>fire salamander</rt></ruby> logo on it.
 
-I think Foresight bro could use a little more playfulness. He didn't seem to have the headspace to think about that stuff, though.
+I think Foresight bro could stand to have a little more fun. Doesn't look like he's got the headspace to think about that stuff, though.
 
-Well, after waking up following the Arataki Group attack, it looked like his secretary had tearfully begged him to take a secret vacation, and he'd spent about two weeks resting. So I would believe there was no future where Foresight worked himself to death.
+Well, it sounded like his secretary had tearfully begged him into a secret vacation after he woke up from the Arataki Group attack, and he'd spent about two weeks resting up. So I'll go ahead and believe there's no future where Foresight works himself to death.
 
-The last one was for the Tobacco Witch. She asked for an interesting wand, so I was happy to play around and not worry too much about practicality.
+The last one was for the Tobacco Witch. Her request was “an interesting wand,” so I gratefully took the chance to have fun with it and went light on practicality.
 
 Specifically, I made an experimental new wand with a dodecahedral fractal structure enclosed in a spherical shell.
 
-The dodecahedral fractal structure in this wand's core had fewer repetitions than Professor Ohinata's Aleister. In other words, it was easier to process. With a ship-in-a-bottle approach, where I inserted tools through a small gap in the spherical shell, I couldn't do anything too intricate.
+The dodecahedral fractal structure at this wand's core repeated fewer times than the one in Professor Ohinata's Aleister, which meant the work was simpler. I was working ship-in-a-bottle style, sticking tools in through a small gap in the spherical shell, so I couldn't do anything too intricate.
 
-Partly because of that, and partly because the spherical shell covered it, its spell power was reduced to about 1/10.
+Partly because of that, and partly thanks to the spherical shell covering it, its spell power was reduced to about 1/10.
 
-Reducing the spell power of a witch who frequently fought monsters to 1/10 would be stupid. So I embedded another two-layer magic-stone core in the butt of the wand, letting her switch between 1/10 and normal amplification.
+Cutting the spell power of a witch who fought monsters all the time down to 1/10 would be stupid, so I embedded a second, two-layer magic-stone core in the butt of the wand, letting her switch between 1/10 and normal amplification.
 
-The interesting thing about this wand was that it could sort of use two spells at the same time.
+The fun part about this wand was that it let you use two spells at once, sort of.
 
-When someone cast a spell using the dodecahedral fractal core, the spell wouldn't activate. Instead, the core blinked and entered an activation-standby state. Casting another spell activated the one on standby.
+When you cast a spell through the dodecahedral fractal core, it didn't activate; instead, the core blinked and went into an activation-standby state. Casting a spell again set off the one on standby.
 
-But witches and mages could release the spell in activation standby through magic-power control without vocalizing.
+But witches and mages could release that standby spell through magic-power control, without saying a word.
 
 In other words:
 
@@ -272,31 +272,31 @@ In other words:
 
 That let you use two spells at once.
 
-Of course, putting a spell into activation standby dropped it to 1/10 power, so it didn't have much punch. I wasn't a fighter, so I didn't know how practical it would be in actual combat.
+Of course, once a spell went into standby, its power dropped to 1/10, so it was pretty weak as far as punch went. I wasn't a fighter, so I had no idea how practical it would be in actual combat.
 
-But there is no other wand this fun. It's pseudo-wordless magic! You can play around with all kinds of stuff.
+But there's no other wand this fun. It's pseudo-wordless magic! You can play around with all kinds of stuff.
 
-At the Tobacco Witch's request, the wand's name was Gushiken Stakes. It had nothing to do with wands or tobacco.
+At the Tobacco Witch's request, the wand was named Gushiken Stakes, a name that had nothing whatsoever to do with wands or tobacco.
 
 Stakes is a horse-racing term, right...?
 
-Between that and the Tobacco Witch's title, I could kind of tell what she was like. She was probably sad that electricity was gone and she couldn't go to pachinko parlors anymore.[^1]
+Put that together with her title, and I could sort of guess what kind of person the Tobacco Witch was. She was probably sad now that electricity was gone and she couldn't go to pachinko parlors anymore.[^1]
 
-And that was how I finished making all seven wands and shipped them all out.
+And so I finished making all seven wands and shipped every one of them out.
 
-Before I knew it, it was late July, and I had spent nearly two months making wands.
+Before I knew it, it was late July, and I'd spent nearly two months making wands.
 
-The watermelons growing in the field for my river trip with Hiyori got bigger by the day, making me feel that high summer had arrived.
+The watermelons I was growing in the field for my river trip with Hiyori got bigger every day, a sign that high summer had arrived.
 
-The cicadas in the mountain behind my house made a huge chorus like a forest orchestra, lively with buzz-buzz, chirr-chirr, zee-zee. When it got this loud, it was not much different from the sound of the wind. The irritating byoi-byoi shrieks of the monster cicadas I heard now and then usually stopped soon enough, replaced by Fuyo's or the fire salamanders' victory cries.
+On the mountain behind my house, the cicadas' huge chorus was practically a forest orchestra, a lively racket of buzz-buzz, chirr-chirr, zee-zee. Once the noise got this loud, it was hardly different from the sound of the wind. Now and then I heard the grating byoi-byoi shriek of a monster cicada, but it usually cut off soon enough, replaced by a victory cry from Fuyo or the fire salamanders.
 
-The sweltering heat had made the monsters more active, so I left all the outdoor stuff to them and kept shutting myself in the workshop, cooling off with blocks of ice made using freezing magic. Doing fine work while soaking my feet in the cold ice water in a basin under my desk was a summer staple, and the coolness and convenience of an air conditioner cranked all the way up had been fading into distant memory.
+The sweltering heat had made the monsters livelier, so I left all the outdoor stuff to them and stayed holed up in the workshop, cooling off with blocks of ice I'd made with freezing magic. Doing detail work with my feet soaking in a basin of cold ice water under my desk was a summer staple, and the cool comfort and convenience of an air conditioner cranked all the way up were fading into distant memory.
 
-“Meemi, meemi. Mimimimi!”
+“Miimi, miimi. Mimimimi!”
 
-While I was designing an experimental Monster Trap using magic-stone scraps left over from wand making, Mokutan came into the workshop with light footsteps and called to me.
+I was designing an experimental Monster Trap from magic-stone scraps left over from the wand making when Mokutan pattered into the workshop and called to me.
 
-When I stopped working and looked, Mokutan was proudly dragging in a charred eyeball familiar by one wing. I held my head.
+I stopped working and looked over to find Mokutan proudly dragging in a charred eyeball familiar, its wing clamped in its mouth, and I put my head in my hands.
 
 “Hey, Mokutan. No. You can't take down familiars.”
 
@@ -306,23 +306,23 @@ When I stopped working and looked, Mokutan was proudly dragging in a charred eye
 
 “Mimimi.”
 
-When I took the pitiful prey, burned and disabled, out of Mokutan's mouth, he gave a kind of disappointed cry. He seemed to have thought I would praise him.
+When I took the poor, burned-out prey from Mokutan's mouth, it let out a kind of disappointed cry. Apparently it'd been expecting praise.
 
-Well, yeah. It might be hard for Mokutan to tell the difference between a monster cicada and an eyeball familiar. Same sort of size, same way of flying, about the same amount of magic power. Of course he would want to take it down.
+Well, yeah. Telling a monster cicada from an eyeball familiar might be hard for Mokutan. Same sort of size, same way of flying, about the same amount of magic power. No wonder he'd want to take it down.
 
-Mokutan had really grown up, shooting down a familiar sent by the great Blue Witch herself. He could not do that before.
+Shooting down a familiar sent by the great Blue Witch herself—Mokutan had really grown. He couldn't have done that before.
 
 “Mii...”
 
 “No, don't be sad. It's proof that you're doing a good job protecting Okutama from outside threats. And look at this. The package is wrapped in a fireproof sheet, so it's fine.”
 
-When I reassured him, Mokutan chirped mimimi.
+Once I'd reassured him, Mokutan chirped mimimi.
 
-The fire salamanders didn't seem to understand every word I said, but they did seem to remember a few common ones. More than that, they were sensitive to my emotions.
+The fire salamanders didn't seem to understand every word I said, but they did seem to remember a few common ones, and more than anything, they were sensitive to my emotions.
 
-Even if he did not understand the logic, he probably understood that Ori would not be happy if he took down the Blue Witch's familiar. That was enough.
+He might not get the reasoning, but he'd probably understood that Ori wouldn't be happy if he took down the Blue Witch's familiar. That was enough.
 
-When I opened the package that had been delivered, there were several pieces of mail inside.
+I unwrapped the delivered package and found several pieces of mail inside.
 
 A flyer for the Tobacco Witch's Midsummer BIG Jumbo Lottery.
 
@@ -332,29 +332,29 @@ A notice of shipping delays due to a Class A monster anomaly.
 
 A reply to a letter of inquiry I had sent to Magic University.
 
-And the last, thick envelope held a copy of some paper with annotations credited to Professor Ohinata.
+And the last one, a thick envelope, held a copy of some paper annotated under Professor Ohinata's name.
 
-“The title is... Magnetic-Field-Change Reverse-Playback Magic-Power Training Method...? My eyes just slide right off it... But doesn't that sound like something amazing? Just from the wording.”
+“The title is... Magnetic-Field-Change Reverse-Playback Magic-Power Training Method...? My eyes just slide right off it... But isn't this saying something amazing? Just going by the wording.”
 
 “Mii.”
 
-Mokutan took an interest in the vial of magic-power recovery medicine I had left on the desk and tried to play with it. I caught him, pulled him back, and absently punished him with tickles while I read through the interesting paper.
+Mokutan got curious about the vial of magic-power recovery medicine I'd left out on the desk and tried to play with it. I caught it, hauled it back, and absently tickled it as punishment while I read through the fascinating paper.
 
-What it described was research so shocking I could not believe my eyes.
+It described research so shocking I couldn't believe my eyes.
 
-I thought I had read it wrong or misunderstood it, so I read it over and over. But I'd read it exactly right.
+Thinking I'd misread or misunderstood something, I read it over and over, but no, I'd read it exactly right.
 
-It said that a research team in Tokyo Magic University's Department of Mutation Studies had discovered a magic-power training method!
+It actually said that a research team in Tokyo Magic University's Department of Mutation Studies had discovered a magic-power training method!
 
-More than two months had passed since the Arataki Group attack, and Tokyo was steadily returning to normal.
+More than two months had passed since the Arataki Group attack, and Tokyo was gamely getting back to everyday life.
 
-No big incident had happened since then.
+There hadn't been a big incident since.
 
 But this was a huge, earth-shaking incident.
 
 History is moving.
 
-At last, the age has come when we can train and increase the magic-power capacity we'd only ever been able to reduce before!!
+At last, the age has come when we can train up our magic-power capacity, which until now we could only ever reduce, never increase!!
 
 ## Translator Notes
 

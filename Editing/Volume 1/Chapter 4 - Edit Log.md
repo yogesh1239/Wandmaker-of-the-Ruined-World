@@ -180,3 +180,51 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image markers, scene breaks, notes unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 4` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 123 reviewed, 14 flagged. Round 1: 10 conceded, 1 pushed back, 3 countered. Codex after round 1: 1 withdrew, 3 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 13 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — glossary — 魔法杖 restored to "magic wand" (kept "deal")
+  - Final text: "The magic wand sales deal with Okutama's strange creature suited the Blue Witch just fine, too."
+- **F2** — APPLIED — glossary — "wand buyers" -> "magic wand buyers"
+  - Final text: "Just as her benefactor had asked, the Blue Witch had started vetting potential magic wand buyers."
+- **F3** — APPLIED — glossary — "Wand in hand" -> "Magic wand in hand"
+  - Final text: "Magic wand in hand, the Blue Witch leaped from roof to roof and spent several hours checking every corner of the city from above to make sure no intruders had gotten in. [rest of paragraph unchanged]"
+- **F4** — APPLIED — tense — volitional 行こう as third-person present direct thought (chapter convention), また restored, unsourced "still/maybe" dropped
+  - Final text: "Once she's done eating, she'll take more food to Okutama again, and throw in a few pieces of fruit from the tree at Nakamura-san's house next door, too... She was thinking it over when something hit the window with a dull thud."
+- **F5** — APPLIED — accuracy — らしい hedge restored, のんびり屋 contrast kept (editor counter)
+  - Final text: "The usually easygoing Eyeball Witch seemed pretty desperate."
+- **F6** — APPLIED — accuracy — 火の海 as "a sea of fire", added "whole" removed
+  - Final text: "\"A giant monster came ashore from Tokyo Bay. Coastal Tokyo is a sea of fire right now. I need help.\""
+- **F7** — APPLIED — accuracy — 私に言うな without the "bring it (the monster)" ambiguity (editor counter)
+  - Final text: "\"Don't come to me with this. Whoever runs that area can deal with it.\""
+- **F8** — APPLIED — worse — reverted to "well inland within Tokyo"
+  - Final text: "The Blue Witch protected Ome, well inland within Tokyo. The coast was outside her territory, and she had no interest in it."
+- **F9** — APPLIED — accuracy — object of 信じ難い (Bloodsucking's death) and にわかには restored
+  - Final text: "... No matter how powerful the monster was, she couldn't readily believe Bloodsucking was dead."
+- **F10** — KEPT — accuracy — 殺しても死なない
+  - Why kept: stock idiom, not a pun; "you couldn't kill that guy if you tried" is the natural equivalent and keeps the irony (Codex withdrew).
+- **F11** — APPLIED — accuracy — らしい: "must have" -> "It looked like"
+  - Final text: "... It looked like the other two had started pulling back, as she'd told them to."
+- **F12** — APPLIED — tense — unsignaled appraisal after past narration -> past
+  - Final text: "Her magic was hard to control at full power."
+- **F13** — APPLIED — tense — same thought unit -> past
+  - Final text: "With a magic wand's amplification on top of that, it would be close to uncontrollable."
+- **F14** — APPLIED — tense — same thought unit -> past
+  - Final text: "Still, all she had to do was fire straight ahead. With a target that big, there was no way she could miss."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none
+
+### Lead Fixes (series rulings)
+- 唱える: "chant" → "recite" (series ruling)
+
+## User Rulings — 2026-09-29
+
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

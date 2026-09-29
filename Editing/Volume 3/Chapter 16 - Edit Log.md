@@ -178,3 +178,29 @@ Naturalized the victory dance, Hiyori's aura description, and technical dialogue
 - **一種類だけ出す事ができる** (JP 394): "one unpronounceable sound, and only one" restores だけ — accuracy
 - **突破口が見えた** (JP 421): "found a way forward" instead of overstated "made a breakthrough" — accuracy
 - **貴重なデータが取れるならそれでいい** (JP 613): restored the conditional ("that was fine as long as the university got valuable data") — accuracy
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 104 reviewed, 4 flagged. Round 1: 2 conceded, 0 pushed back, 2 countered. Codex after round 1: 0 withdrew, 2 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 4 changed, 0 kept as re-edited. Plus 1 lead-ruling fix (L1).
+
+### Findings
+- **F1** — APPLIED — accuracy — restore 思わず (involuntary dance)
+  - Final text: "I couldn't help breaking into a victory dance."
+- **F2** — APPLIED — worse — second "them" clashed with the first; JP repeats 俺の杖
+  - Final text: "I didn't really get it, but apparently my wands alone weren't what gave them a clean win over Daidarabocchi. It had been too soon to get cocky and think it was all thanks to my wands."
+- **F3** — APPLIED — accuracy — "innate" misread 固有魔法を覚えている (countered: keep 固有 as "unique", stative "knew" instead of "learned")
+  - Final text: "And if there were Transcendents overseas too, and all of them knew their own unique magic, then Professor Ohinata's current samples probably accounted for only a few percent of the total at best."
+- **F4** — APPLIED — worse/accuracy — "programmed with electronics" clunky; countered Codex's added "used to" and also restored the 合成音じみた hedge ("synthetic-sounding") that NEW had flattened into "synthesized sound" (gap Codex missed)
+  - Final text: "The harmonica was producing a synthetic-sounding artificial noise, the electronically programmed kind. It had been everywhere before the Gremlin Disaster, but it should've been impossible to hear without electricity!"
+- **L1** — APPLIED — lead-ruling fix — bare "the Council" (EN line 31); JP line 49 is 魔女集会はこれを否定, so "the Witches' Council"
+  - Final text: "The Tohoku Hunting Association thought the Tokyo Witches' Council had helped, but the Witches' Council denied it."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS (--unit 3 --chapter 16).
+
+Reference flags: EN line 13 says "via the Tokyo Witches' Council and Hiyori" but JP line 22 is bare 魔女集会→ヒヨリ (pre-dates the re-edit; baseline has it too). Per the lead ruling it would be "the Witches' Council"; left for the lead since it is not in a sentence at issue (contextually the body is the Tokyo one, so it is an expansion, not an error of referent).
+
+### Lead Fixes (series rulings)
+- 魔女集会 (JP 22): "via the Tokyo Witches' Council and Hiyori" → "via the Witches' Council and Hiyori" (JP has no 東京)

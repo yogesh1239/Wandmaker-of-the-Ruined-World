@@ -10,11 +10,11 @@ The savings in his account, his digital investments, his stocks—all of it vani
 
 With his life plan in ruins, the Foresight Mage drifted like an empty shell for a while.
 
-But then he saved a neighbor in his company housing from monsters, got swept into rescuing people at shelters under monster attack, and accepted sweets from a grateful child he'd rescued. He huddled with refugees whose homes had burned down, tossing scrap wood into a drum can in the park to keep warm. Little by little, a sense of duty grew in him.
+But then he saved a neighbor in his company housing from monsters, got swept into rescuing people at shelters under monster attack, and accepted sweets from a grateful child he'd rescued. He huddled with refugees whose homes had burned down, tossing scrap wood into a drum can in the park and lighting a fire to keep warm. Little by little, a sense of duty grew in him.
 
-He could see the future. His body was tough and strong, and he could answer the cries of people asking for help.
+He can see the future. His body is tough and strong, and he can answer the cries of people asking for help.
 
-In this ruined world, if he didn't do it, who would?
+In this ruined world, if he doesn't do it, who will?
 
 From then on, the Foresight Mage helped people because he chose to, not because he'd been swept along.
 
@@ -30,7 +30,7 @@ Being treated like a hero felt good, good deeds were satisfying, and being fawne
 
 He could see the future, yet he worked like a man possessed for praise in the here and now, pouring himself into the most obvious job at hand: keeping the peace in his home turf of Bunkyo Ward.
 
-It was the Bloodsucking Mage, the coordinator of the Tokyo Witches' Council, who gave the Foresight Mage a long-term view.
+It was the Bloodsucking Mage, the coordinator of the Witches' Council, who gave the Foresight Mage a long-term view.
 
 The Bloodsucking Mage talked him into using a powerful foresight spell he'd always avoided for fear of feedback damage from magic backlash. It let him see three orbital periods ahead—three Earth years when cast on Earth.
 
@@ -38,7 +38,7 @@ Until then, the Foresight Mage had vaguely pictured "annihilation by monsters" a
 
 He worked even more frantically than he had in his office days.
 
-He had warned the Tokyo Witches' Council about the food crisis again and again, but only one person truly understood the threat: the Foresight Mage himself, the only one who had vividly "seen" the living hell of people eating people to stave off hunger.
+He had warned the Witches' Council about the food crisis again and again, but only one person truly understood the threat: the Foresight Mage himself, the only one who had vividly "seen" the living hell of people eating people to stave off hunger.
 
 He rolled out one policy after another to solve the food crisis, and with the Bloodsucking Mage laying the groundwork behind the scenes, a few of them became reality.
 
@@ -64,7 +64,7 @@ Bunkyo Ward's streets were as well preserved as Ome's, where the Blue Witch hunt
 
 Work was underway to clear and dismantle the broken-down cars that had choked the roads and to restore old technology, and next year a charcoal-powered vehicle transport line would open along the former Tokyo Metro Marunouchi Line.
 
-Yet even Bunkyo Ward, Tokyo's hope as it inched toward recovery, had been fated to sink into famine and collapse within two years.
+Yet even Bunkyo Ward, Tokyo's hope as it inched toward recovery, had been fated to sink into famine and collapse in two years' time.
 
 What changed that future was the historic achievement of the magic-language research team he had taken in after they fled Minato Ward.
 
@@ -86,7 +86,7 @@ Professor Ohinata smoothed her mussed hair, flattened the wrinkles in the papers
 
 "Yeah. And I'll say it as many times as I want—you really did a great job."
 
-"It was only possible because of the research my father and our predecessors did first. Well, um. I'll keep on researching magic language. If anything comes up, please don't hesitate to ask."
+"It was only possible thanks to the prior research by my father and our predecessors. Well, um. I'll keep on researching magic language. If anything comes up, please don't hesitate to ask."
 
 "Yeah. I'll let you know about your reward later, Ohinata-kun. I promise it'll be worthy of what you've achieved."
 
@@ -98,11 +98,11 @@ She really was an exceptional girl. Far from being overhyped as a child genius, 
 
 He had no idea how every problem had been solved in a single day, but it didn't matter anymore.
 
-The future where Japan sank into a great famine had been averted.
+The future where Japan would sink into a great famine had been averted.
 
 That fact was enough.
 
-Because he could see the future, the Foresight Mage had spent so long struggling inside a dark one. Now, with a bright future opening up before him, he trembled, and his eyes grew hot.
+Because he could see the future, the Foresight Mage had spent so long struggling in a dark future. Now, with a bright future opening up before him, he trembled, and his eyes grew hot.
 
 But even as he wiped his eyes with his sleeve, the next job arrived.
 
@@ -110,7 +110,7 @@ The Foresight Mage was, without question, the busiest man in Japan right now. He
 
 The clerk who came in as Professor Ohinata left set a stack of sticky-noted documents on his desk and flipped through them, talking a mile a minute.
 
-"Because of the new fuel restrictions, some ward residents have stopped boiling their drinking water. The medical team reports more patients complaining of stomach pain and diarrhea. I've summarized two proposals here: one for the administration to boil water in bulk and distribute it, and one to increase fuel allocations. Shinagawa Ward seems to have fuel to spare, so I'd like you to ask Flame Witch-sama to send some our way at the next Tokyo Witches' Council meeting. That should tide us over for now. And then—"
+"Because of the new fuel restrictions, some ward residents have stopped boiling their drinking water. The medical team reports more patients complaining of stomach pain and diarrhea. I've summarized two proposals here: one for the administration to boil water in bulk and distribute it, and one to increase fuel allocations. Shinagawa Ward seems to have fuel to spare, so I'd like you to ask Flame Witch-sama to send some our way at the next Witches' Council meeting. That should tide us over for now. And then—"
 
 "Hold on, Matsuo-kun."
 
@@ -126,7 +126,7 @@ That was because he could make full use of foresight magic to see the results of
 
 Still, if he handled even low-priority decisions like searches for lost pets, he'd need more bodies than he could ever have. Thanks to his secretary, who vetted the information, ranked it by importance, and summarized it concisely, his workload stayed at a level that would merely kill an ordinary person from overwork a few times over.
 
-Bringing documents without going through the secretary broke the rules. It might be a tedious procedure to Matsuo, but to the Foresight Mage, forever half-drowned in a sea of work, it was a necessity.
+Bringing documents without going through the secretary broke the rules. It might be a tedious procedure for Matsuo, but to the Foresight Mage, forever half-drowned in a sea of work, it was a necessity.
 
 Cut off mid-appeal, Matsuo made no effort to hide his displeasure.
 
@@ -160,21 +160,21 @@ He didn't have the brains or the ability to use foresight magic to its full pote
 
 The fury he'd held back for so long leaked out through his gritted teeth.
 
-He was giving this everything he had.
+He is giving this everything he has.
 
-He was doing work no ordinary person could ever manage.
+He is doing work no ordinary person could ever manage.
 
-And his reward was "Bloodsucking-sama would've handled it better"?
+And his reward is "Bloodsucking-sama would've handled it better"?
 
-Wasn't that just too much?
+Isn't that just too much?
 
-He could have used his magic to rule as a tyrant.
+He could even use his magic to rule as a tyrant.
 
-He could have destroyed everything, taken everything, and torn it all apart.
+He could even destroy everything, take everything, and tear it all apart.
 
-Was this how they repaid him for working so hard, for pay no better than an ordinary clerk's, nowhere near enough to match the heavy responsibility and crushing workload?
+Is this how they repay him for working so hard, for pay no better than an ordinary clerk's, nowhere near enough to match the heavy responsibility and crushing workload?
 
-The Foresight Mage had originally been a mere office worker. And yet so many infuriating people acted as if it was only natural for him to be a world-class politician. Then try doing it yourself!
+The Foresight Mage was originally a mere office worker. And yet so many infuriating people act as if it's only natural for him to be a world-class politician. Then try doing it yourself!
 
 "No, calm down. I'm doing well. I'm fine."
 
@@ -182,13 +182,13 @@ Realizing his mind was tilting in a bad direction, the Foresight Mage took a dee
 
 There were people who understood him.
 
-The Eyeball Witch took the lead in convening the Tokyo Witches' Council and looked out for the other witches in all sorts of ways. Since the Bloodsucking Mage's death, she had been a friend who shared his hardships.
+The Eyeball Witch took the lead in convening the Witches' Council and looked out for the other witches in all sorts of ways. Since the Bloodsucking Mage's death, she had been a friend who shared his hardships.
 
 His secretary was young, but she picked up the work like a dry sponge soaking up water and supported him devotedly. Not once had he felt disappointment or dismay from her.
 
-He wasn't asking for luxuries like better food or more rest.
+He isn't asking for luxuries like better food or more rest.
 
-He just wanted to be praised more, recognized more, fawned over more. Was that really too much to ask?
+He just wants to be praised more, recognized more, fawned over more. Is that really too much to ask?
 
 The completion of the fertility-magic research had put the Foresight Mage in high spirits, only for Matsuo to throw cold water on them and rub him badly the wrong way. Still, he sank those bottled-up feelings deep inside again, let out a heavy sigh, and got back to work.
 
@@ -234,9 +234,9 @@ Foresight magic had already shown him that if he sent Professor Ohinata on a nat
 
 That was extremely hard to avoid. Even if she dodged it once, she'd get caught up in something else in another region.
 
-Tokyo, on the other hand, was relatively safe thanks to what remained of the Bloodsucking Mage's political legacy, and none other than the Blue Witch had declared Professor Ohinata under her protection and was keeping watch. Nothing serious was likely to happen.
+Tokyo, on the other hand, was relatively safe thanks to what remained of the Bloodsucking Mage's political legacy, and none other than the Blue Witch had declared Professor Ohinata under her protection and was keeping everyone in line. Nothing serious was likely to happen.
 
-Keep Professor Ohinata at the lectern of Tokyo Magic University, send her students gathered from all over, and have her teach them all at once. That was the safest, most efficient plan.
+They would keep Professor Ohinata at the lectern of Tokyo Magic University, bring in students from all over, and have her teach them all at once. That was the safest, most efficient plan.
 
 To start, after careful meetings and groundwork, he had the Information Division's Letterpress Printing Section print a flood of flyers reading "Magic University Opening, Students Wanted," and gathered an outstanding first cohort.
 
@@ -250,7 +250,7 @@ Third, many witches kept their magic secret and were unwilling to share their in
 
 People had resented being shut out of magic, the new technology of a new era, and when the chance to learn it finally came, they scrambled over each other to grab it.
 
-Tokyo Magic University had 30 places and more than 6,000 applicants, and the Foresight Mage selected among them strictly by exam. Anyone of any age could apply, but the tests would weed them out.
+Magic University had 30 places and more than 6,000 applicants, and the Foresight Mage selected among them strictly by exam. Anyone of any age could apply, but the tests would weed them out.
 
 First came an intelligence test and an explanation-skills test.
 
@@ -264,7 +264,7 @@ Next came the magic-power test.
 
 Both the original fertility magic and its bypass incantation were fuel-efficient spells that used about as much magic power as <ruby>Agh-<rt>Fire</rt></ruby>. But if first cohort students, who were expected to serve as teachers, fainted after a single recitation, they couldn't even give a proper demonstration.
 
-Chanting like screaming beavers echoed through the exam hall. Only those with enough magic power to recite it five or more times without passing out made the cut; anyone who fainted failed and was hauled out of the hall.
+Incantations that sounded like screaming beavers echoed through the exam hall. Only those with enough magic power to recite it five or more times without passing out made the cut; anyone who fainted failed and was hauled out of the hall.
 
 Last came the articulation test.
 
@@ -308,7 +308,7 @@ His secretary, who had been sorting documents at another desk, her fingers stain
 
 Having enough slack to nod off at all was good enough. Wanting to lie down in a soft bed was asking too much.
 
-While he and his secretary were going over the day's schedule in his office, Matsuo walked in looking pleased with himself. The Foresight Mage flinched, and when his secretary saw him flinch, her smile froze.
+While he and his secretary were going over the day's schedule in his office, Matsuo walked in looking cheerful. The Foresight Mage flinched, and when his secretary saw him flinch, her smile froze.
 
 Matsuo was a capable man, but he tended to take the Foresight Mage lightly, and the Foresight Mage found him hard to deal with.
 
@@ -328,7 +328,7 @@ Stung by Matsuo's words, the Foresight Mage clutched his chest and fell silent. 
 
 "Matsuo-san, come this way for a moment."
 
-"Please, later. Right now, I—"
+"Later, please. Right now, I—"
 
 "This. Way."
 
@@ -414,7 +414,7 @@ The world still needed the Foresight Mage. Being relied on and praised felt good
 
 But he couldn't keep up this crushing workload forever.
 
-He would spread magic. He would help people grow stronger. And once they could maintain a decent peace without depending on the personal military might of Transcendents who acted on a whim, this time he really would retire early and live a slow life farming in the country...
+He'll spread magic. He'll help people grow stronger. And once they can maintain a decent peace without depending on the personal military might of Transcendents who act on a whim, this time he really will retire early and live a slow life farming in the country...
 
 The Foresight Mage smiled at the future he pictured and set his hopes on what lay ahead for Tokyo Magic University.
 

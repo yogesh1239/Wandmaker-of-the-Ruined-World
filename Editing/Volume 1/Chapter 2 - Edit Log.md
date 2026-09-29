@@ -176,3 +176,50 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - No images or notes in chapter; scene breaks unchanged; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 2` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 165 reviewed, 17 flagged. Round 1: 9 conceded, 1 pushed back, 7 countered. Codex after round 1: 1 withdrew, 4 accepted, 0 maintained, 2 countered. Round 2: yes (F11 only; Codex accepted the editor's text; editor accepted Codex's F10 counter).
+Final: 16 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — anime/books were references, not materials
+  - Final text: "I caught rabbits and raccoon dogs in traps I'd built using what I'd learned from anime and books in the community center library."
+- **F2** — APPLIED — worse — doubled haste in 突貫工事 line
+  - Final text: "My backyard vegetable patch, which I'd only kept as a hobby so I could eat fresh and healthy, became my lifeline, and I rushed to expand it."
+- **F3** — APPLIED — tense — imperative/past hybrid; conditional keeps 出せる capability
+  - Final text: "My cute, cute magic wand-chan, my most treasured possession, worked as a medium for casting magic: if I sang at its natural frequency, it would fire a white beam."
+- **F4** — APPLIED — glossary — restored 魔法杖 "the magic wand"
+  - Final text: "I'd made the magic wand Okutameteorite as a hobby and brought it along for self-defense, but it turned out to be incredibly useful for hunting."
+- **F5** — APPLIED — glossary — "wand beam" -> "magic-wand beam"
+  - Final text: "I took careful aim and hit the deer dead-on with a magic-wand beam. It didn't die instantly, but it couldn't move, so I just walked up and finished it off with a knife. Seriously, thank god for Okutameteorite."
+- **F6** — APPLIED — worse — 嬉しい悲鳴 idiom
+  - Final text: "My whole body was screaming, but in a good way."
+- **F7** — APPLIED — tense — unsignaled appraisal/plan to past
+  - Final text: "That was way too much to eat in one go. It was only early spring, but with the fridge dead, it would rot if I left it out at room temperature. I'd have to slice it thin and sun-dry it."
+- **F8** — APPLIED — tense — reported result + だろう hedge to past
+  - Final text: "Operation Sun-Dry had already worked on the pale chub I'd caught in the Tama River. If it worked for fish, it should work for meat too..."
+- **F9** — APPLIED — accuracy — のんきに "cheerfully" -> "casually" (editor counter, minimal change)
+  - Final text: "When society had collapsed and nobody knew if they'd make it through tomorrow, the weird one was probably me, for casually taking up fishing, trapping, and farming."
+- **F10** — APPLIED — worse — ones/my agreement slip (Codex's round-1 counter)
+  - Final text: "Looking on the bright side, I was probably still doing all right on my own. I didn't have to loot. I was tilling my fields and catching deer to keep myself fed."
+- **F11** — APPLIED — glossary — restored "natural-frequency" while keeping "same" back-reference (JP 232/250 identical 固有振動数の声; editor counter, accepted round 2)
+  - Final text: "I gathered up some of the electric crystals that had come down with the heavy rain and were still lying by the roadside, and sang the same natural-frequency note at those bead-sized crystals, but nothing happened: no beam, no resonance."
+- **F12** — APPLIED — accuracy — ぶん殴って: "senseless" overstated
+  - Final text: "If there was a whole group of them, I couldn't win, and I'd just have to take the loss again. But if it was one person, I'd beat them up and send them running."
+- **F13** — KEPT — accuracy — incredulous "This X is who's been...?"
+  - Why kept: standard English incredulity construction matching こんな…に奪われ怯えていたのか？, not an identity question; Codex withdrew.
+- **F14** — APPLIED — glossary — restored "magic wand"; also "I'd carved" for anteriority
+  - Final text: "This magic wand, Hendensho-kun, was pretty capable. I'd carved it with a new processing method, using electric crystals I'd collected on a trip out to Okutama Substation over the winter."
+- **F15** — APPLIED — worse — "to make a spherical cavity"
+  - Final text: "First, I carved a fairly large electric crystal into a sphere and split it in half. Then I hollowed out the inside to make a spherical cavity and fitted in a smaller electric-crystal sphere, carved to fit perfectly. All that was left was to glue the shell back together."
+- **F16** — APPLIED — accuracy — 枯渇: "picked clean" -> "run dry" (editor counter, accepted)
+  - Final text: "Okutama had already run dry, so I needed to get out of Okutama and look elsewhere."
+- **F17** — APPLIED — worse — 物資探索略奪行 mock-compound, restoring 探索 (editor counter, accepted)
+  - Final text: "Either way, all I could do was pray I wouldn't run into anyone on my scavenging-and-looting run."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

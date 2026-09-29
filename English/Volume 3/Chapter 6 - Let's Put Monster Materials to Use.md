@@ -2,7 +2,7 @@
 
 One was secret sauce, a magical concoction that made monster meat edible—meat you couldn't eat whether you boiled it or grilled it.
 
-Another was the Monster Trap, a time-stasis trap I'd put to use in Himori Wand.
+Another was the Monster Trap, a time-stasis trap magic tool I'd put to use in Himori Wand.
 
 And the last was a monster-material processing method.
 
@@ -22,7 +22,7 @@ Self-blood tanning involved a lot of blood, so I did the whole job in the yard i
 
 I was working on a rabbit monster that had been caught in a boar trap. Judging from the rigor mortis, it had probably been dead for about two hours.
 
-I tied on a work apron to protect myself from the blood, sat down on the blue tarp I'd spread out, and got straight to work.
+I tied on a work apron to protect myself from blood spatter, sat down on the blue tarp I'd spread out, and got straight to work.
 
 First, taking care not to damage the hide, I cut an artery and hung the carcass upside down to drain into a washbasin I'd prepared.
 
@@ -40,13 +40,13 @@ I had everything I needed on hand. I opened a plastic bottle of saline I'd prepa
 
 With the prep work finished, I set the washbasin on the fire stand and lit a fire beneath it. There wasn't much liquid in the basin, so it came to a boil in about ten minutes.
 
-Once it came to a boil, I took the washbasin off the heat and let it cool on its own.
+Once it came to a boil, I took the washbasin off the heat and let it cool slowly on its own.
 
 Once it cooled to around room temperature, the processing would be almost done. Then I just had to pull the materials out of the self-blood solution, rinse off the blood, and dry them.
 
-Hmm. That had been easier than I expected. Nothing so difficult I'd needed to brace myself for it. Very bloody, though.
+Hmm. That had been easier than I expected. It hadn't been the kind of difficult job worth bracing myself for. Very bloody, though.
 
-With nothing to do until it finished cooling, I flipped through the Tohoku Hunting Association's book of secret techniques (a copy of the booklet Magic University had compiled from Mr. <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s oral teachings).
+With nothing to do until it finished cooling, I flipped through the Tohoku Hunting Association's book of secret techniques (a copy of the booklet Magic University had compiled from <ruby>Okyaku<rt>Great Wolf</rt></ruby>'s oral teachings).
 
 The more I read, the more I felt that how people adapted to the age of magic brought on by the Gremlin Disaster said a lot about their region—or maybe just the people who lived there.
 
@@ -62,7 +62,7 @@ If Tohoku's tech tree had already branched off this far, how different would pla
 
 Of course, that assumed they'd survived the Gremlin Disaster...
 
-From what the Dragon Witch had seen while flying around the Japanese archipelago, Japan had five notable major survivor communities that had managed to keep civilization functioning.
+From what the Dragon Witch had seen while flying around the Japanese archipelago, Japan had five large, well-known survivor communities that had managed to keep civilization functioning.
 
 Hokkaido's “Hokkaido Magic Beast Farm.”
 
@@ -100,7 +100,7 @@ Secret sauce, a new technology passed down from the Tohoku Hunting Association, 
 
 Now that all the monster meat we'd once thrown away was edible, Tokyo's protein supply improved dramatically. Meat production, which had temporarily fallen due to the mushroom pandemic, rebounded past its pre-pandemic level, and my meals, which had felt a little bare lately, grew lavish again.
 
-I even treated myself to five homemade monster-meat sausages first thing in the morning. I added some asparagus from the yard too, so it was a balanced meal. When I shoveled it all down with white rice, the rich, nourishing flavor spread through my whole body. Eating meat really makes me feel powerful.
+I even treated myself to five homemade monster-meat sausages first thing in the morning. I added some asparagus from the yard too, so it was a balanced meal. When I shoveled it all down with white rice, the rich, nourishing flavor spread through my whole body. Eating meat really does make me feel powerful.
 
 After that fine breakfast, I opened the storm shutters with my toothbrush in my mouth and felt the monster materials drying in the shade. They'd dried nicely.
 
@@ -108,7 +108,7 @@ Frankly, the materials from this rabbit monster had no special magical propertie
 
 That was exactly why I wouldn't mind ruining them. They were perfect materials for a self-blood-tanning beginner.
 
-As a memento of the first monster materials I'd processed myself, I hung the pelt and bones on the workshop wall as trophies. Not bad. Not bad at all. My workshop was really coming together, wasn't it? I wanted to keep improving both how it worked and how it looked.
+As a memento of the first monster materials I'd processed myself, I hung the pelt and bones on the workshop wall as trophies. Not bad. Not bad at all. My workshop's really coming together, isn't it? I want to keep improving both how it works and how it looks.
 
 While I prayed to Okutameteorite and adjusted the pelt's tension, the Blue Witch sent me a short message through an eyeball familiar.
 
@@ -118,7 +118,7 @@ She was casually pulling a large dump truck loaded with monster carcasses, its t
 
 “Morning, Ori. I brought them.”
 
-“Y-Yeah. That's something.”
+“Y-Yeah. That's incredible.”
 
 She was so absurdly powerful that I gave a strained laugh. Why is she moving a large vehicle so easily? What kind of power is that? Even walking a dog takes more effort than that.
 
@@ -168,7 +168,7 @@ The Blue Witch nudged a squishy, translucent slime carcass that looked like a je
 
 “Ah, you didn't know?”
 
-I'd assumed she knew, but to my surprise, the Blue Witch shook her head. You'd think a witch who killed monsters nonstop would know all about this stuff.
+I'd assumed she knew, but to my surprise, the Blue Witch shook her head. I'd have figured a witch who killed monsters nonstop would know a lot about this stuff.
 
 “No. Until now, when I killed a monster, I only took out the Gremlin, then burned or buried the rest.”
 
@@ -200,9 +200,9 @@ Just imagining Cyanos-chan aging and deteriorating over time made me want to tea
 
 That was why I had my eye on slime material. Apparently, the Tohoku Hunting Association shaped it and used it in place of glass, and it showed no sign of deterioration even after three years.
 
-I didn't know how long slime material would last, but unlike acrylic resin, which could never be manufactured again, it was something I could keep obtaining and replacing it indefinitely. That was huge.
+I didn't know how long slime material would last, but unlike acrylic resin, which could never be manufactured again, it was something I could keep obtaining and replacing indefinitely. That was huge.
 
-Slime material hardened once its magic power drained regardless of individual differences, so I had the Blue Witch pick the weakest carcass, the one with the least magic power and therefore the quickest to drain. I squeezed and filtered it to extract a viscous, nearly transparent liquid.
+Slime material hardened once its magic power drained regardless of individual differences, so I had the Blue Witch pick the weakest carcass, the one with the least magic power and therefore the quickest to drain. I squeezed and filtered it to extract viscous, nearly transparent mucus.
 
 After that, all I had to do was borrow Cyanos for a moment, scrape out the acrylic-resin filler with a hooked tool, carefully pour in the slime solution without letting bubbles get into it, and seal it up.
 

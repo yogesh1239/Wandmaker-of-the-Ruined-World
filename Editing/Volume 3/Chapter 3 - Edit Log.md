@@ -246,3 +246,38 @@ Immediate questions, reactions, hypotheses, and reader asides remained present; 
 - **なんとも言い難い複雑な気持ちだ** (JP 235): restored "hard to put into words" and dropped the added "Yeah" — accuracy
 - **見上げ** (JP 259): kill-list "gazed" → "looked" — register
 - **全然見習いたくないぜ** (JP 655): "Not an example I ever want to follow." — accuracy
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 118 reviewed, 11 flagged. Round 1: 6 conceded, 1 pushed back, 4 countered. Codex after round 1: 1 withdrew, 3 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 10 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — はず restored without "should have known" (which would mean she failed to know)
+  - Final text: "I thought I understood that I'd die someday too." (rest of line 93 unchanged)
+- **F2** — APPLIED — accuracy — bookend なるほど echo restored
+  - Final text: "... but two kinds. I see."
+- **F3** — APPLIED — accuracy/mechanics — crying-materials joke restored; semantic ruby for 魔石[そざい] per novel.config.md:30; ぞ exclamation in present
+  - Final text: "The construction was so crude you couldn't make it this bad on purpose. The <ruby>materials<rt>magic stones</rt></ruby> are crying over this thing."
+- **F4** — APPLIED — glossary — 発動待機状態 = activation-standby state ("armed" banned)
+  - Final text: "“Charging it with magic power puts it into an activation-standby state. If prey passes over it in that state, it captures it. Charging takes magic-power control, so ask me or the Flame Witch when you need it.”"
+- **F5** — APPLIED — accuracy — ちょ and 一回 restored
+  - Final text: "“Wait, then I'm asking now. I want to see it activate once.”"
+- **F6** — APPLIED — accuracy — 十数年 bounded
+  - Final text: "... but I can make it last a dozen or so years. Probably."
+- **F7** — KEPT — accuracy — "chemical compounds" for 化学成分
+  - Why kept: accurate for the vented constituents, and "substances" would collide with 化学物質 in the next paragraph; Codex withdrew.
+- **F8** — APPLIED — accuracy — 火仕事 and こういう restored; ～んだな realization, not a question
+  - Final text: "“So fire fairies know their way around fire chemistry like this too, huh.”"
+- **F9** — APPLIED — accuracy — unhedged 思いつき
+  - Final text: "When I asked, the Flame Witch thought it over. An idea struck her, and she fidgeted as she spoke."
+- **F10** — APPLIED — register — "uttered" → "said"
+  - Final text: "That was the purest “Huh?” I'd said in the last ten years. ..."
+- **F11** — APPLIED — accuracy — 機微 = subtleties, Ori's ？ hesitation kept
+  - Final text: "“Listen. I'm no expert on the... subtleties? of conversations like this either, but you probably shouldn't tell anyone else about that fetish.”"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

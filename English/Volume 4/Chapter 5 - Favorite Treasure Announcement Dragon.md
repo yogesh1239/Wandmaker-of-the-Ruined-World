@@ -1,283 +1,283 @@
-“Come on, Dragon Witch-sama. Eat, eat.”
+“Come on, Dragon Witch-sama. Eat up, eat up.”
 
 “Ugh, what a waste...”
 
-The Dragon Witch tearfully ate Gremlins inside the huge cave she had dug into the side of a collapsed dam. Her slightly chubby deputy, Zaizen Kintaro, urged her on as she balked at eating the shiny treasures she had worked so hard to collect.
+The Dragon Witch tearfully ate Gremlins inside the huge cave she had dug into the flank of a burst dam. Her slightly chubby deputy, Zaizen Kintaro, urged her on as she balked at eating the shiny treasures she had worked so hard to collect.
 
 This was how the Dragon Witch prepared for battle.
 
-Dragons had fire inside their bodies and could unleash powerful <ruby>breath<rt>flaming breath</rt></ruby>. But that fire had another important role.
+Dragons carried fire inside their bodies, which let them unleash a powerful <ruby>breath<rt>flaming breath</rt></ruby>. But that inner fire had one more important job.
 
 Digesting Gremlins.
 
-Dragons could eat Gremlins, melt them into sludge with the fire inside them, circulate the melted Gremlins through their whole bodies, and enhance themselves. Their breath became stronger, their flight speed rose, and their physical strength increased. Everything from agility and dynamic visual acuity to magic resistance was boosted. That was why dragons were counted among the strongest kinds of monsters.
+Dragons could eat Gremlins, melt them into sludge with that inner fire, and circulate the molten Gremlins through their whole bodies to enhance themselves. Their breath grew stronger, their flight speed rose, and their physical strength increased. Nearly every physical ability got a boost, from agility and dynamic visual acuity all the way to magic resistance. That was why dragons were counted among the very strongest species of monster.
 
-“They say the Arataki Group coming here has magic stones. If you hold back and lose, that defeats the point.”
+“They say the Arataki Group coming here has magic stones, don't they? If you hold back and then lose, it'll all be for nothing.”
 
-“I know. But then I'll have less treasure.”
+“I know. But my treasure's going to shrink.”
 
-The greedy dragon looked at the mountainous piles of gold, silver, and treasure spread across her nest, yet balked at eating just one mound of Gremlins. She was not making much progress.
+Even with mountain ranges of gold, silver, and treasure carpeting her nest right in front of her, the greedy dragon dragged her feet over one measly mound of Gremlins. She was barely getting any down.
 
-Zaizen somehow managed to coax the Dragon Witch into eating.
+One way or another, Zaizen coaxed and cajoled the Dragon Witch along.
 
-“Dragon Witch-sama, this is an advance investment. You eat the Gremlins, crush the enemy, and get the magic stones. You like magic stones, don't you?”
+“Dragon Witch-sama, think of this as an upfront investment. You eat the Gremlins, crush the enemy, and get your hands on their magic stones. You like magic stones, don't you?”
 
-“I like them, I like them. I love them! Ugh, this is an advance investment. An advance investment...!”
+“I do, I do. I love them! Ugh, this is an upfront investment. An upfront investment...!”
 
-While telling herself that, the Dragon Witch managed to eat the required amount of Gremlins. The Gremlins started circulating through her huge body, her red scales took on a faint magical glow, and her presence grew more intimidating.
+Repeating it to herself, the Dragon Witch managed to get the necessary amount of Gremlins down. As the Gremlins began circulating through her huge body, her red scales took on a faint magical glow, and her presence grew more intimidating.
 
-The pouch sparrow Zaizen carried around to deliver messages could not bear the dragon's presence and fainted in his breast pocket. The loyal pouch sparrow had resisted the urge to flee from the dragon who had entered battle mode, but it could not bear the pressure. Touching, really.
+The pouch sparrow Zaizen carried around for message deliveries couldn't take the dragon's presence and fainted in his breast pocket. The loyal bird had held out against its instinct to flee a dragon in battle mode, but it couldn't hold out against the pressure. Touching, really.
 
-Once she had finished preparing, the Dragon Witch lumbered out of her nest. As she led the waiting security force toward the Saitama prefectural border, a witch approached from Belluna Dome, the ballpark whose roof had been completely destroyed.
+Her preparations finished, the Dragon Witch lumbered out of her nest. As she led the security force waiting outside toward the Saitama prefectural border, a witch approached them from Belluna Dome, the ballpark that had lost its entire roof.
 
-She was a woman around her forties. Her black kimono hung loose, and below the waist, she had the body of a horse. She held a drawn sword in her right hand.
+She looked to be in her forties, wore her black kimono loose, and was a horse from the waist down. In her right hand she held a drawn sword.
 
 “Huh? I know that face. Um, Kiwada?”
 
-“Ah, long time no see, Dragon Witch. Looks like you got the foresight warning, then.”
+“Ah, long time no see, Dragon Witch. Looks like Foresight's warning got to you, judging by the look of things.”
 
-The centaur witch Kiwada Yoko smiled seductively at the Dragon Witch, who had brought a crowd of security guards with her.
+Kiwada, the centaur witch, smiled seductively at the Dragon Witch, who had a whole crowd of security guards trailing along behind her.
 
-The Dragon Witch's eyes were fixed not on Kiwada herself, but on the magic stone gripped in her left hand.
+The Dragon Witch's eyes were glued not to Kiwada herself but to the magic stone clutched in her left hand.
 
-“I heard about your invasion plan. Leave the magic stone, your head, and all the accessories around your neck and waist, then get lost already. And the sword too. Then I'll let you go.”
+“I heard about your invasion plan. Leave the magic stone and all the accessories on your neck and waist, then get lost. The sword too. Do that and I'll let you go.”
 
-“You sure talk big. You're a troublesome witch. But you think you can beat me when I've got a magic stone? I'm telling you for your own good, surrender. I'll put in a word with the boss so you're treated well. Your little followers too. You like a world ruled by violence, don't you?”
+“Big talk. You're a troublesome witch. But you really think you can beat me when I've got a magic stone? I'm telling you for your own good: surrender. I'll put in a word with the boss to make sure you're treated well. Your hangers-on too. You like a world ruled by violence, don't you?”
 
-At the blunt invitation, the Dragon Witch gave a firm nod.
+The Dragon Witch nodded firmly at the blunt pitch.
 
-“I do! But in that world, the Blue Witch is queen. I'd feel out of place. I like the world best the way it is now.”
+“I do! But in that world, the Blue Witch is queen. I'd have to tiptoe around. A world about like this one is the comfiest.”
 
-“Is that so, is that so...”
+“I see, I see...”
 
-Kiwada's smile changed.
+Something in Kiwada's smile changed.
 
-It was the smile of a fierce beast licking its lips before prey.
+It became the smile of a wild beast licking its lips over its prey.
 
-That wasn't a metaphor. The air shook.
+The air shook, and not as a figure of speech.
 
-Magic power amplified through Kiwada's magic stone burst from her and stung their skin with a crackle. Leaves and gravel on the ground shook, and an unnatural whirlwind swirled.
+Magic power, amplified through the magic stone, surged out of Kiwada and prickled against their skin like static. Fallen leaves and gravel trembled on the ground, and an unnatural whirlwind spun up.
 
-The Dragon Witch stayed calm. She crouched her huge body and leaned forward, brimming with magic power and bloodlust.
+The Dragon Witch didn't bat an eye. She lowered her huge body into a forward crouch, brimming with magic power and bloodlust.
 
-In the suffocating, taut air where a fight could break out at any moment, the security force and Zaizen backed away and whispered together.
+The air was stifling and stretched tight, ready to explode at a touch. In the middle of it, the security force and Zaizen edged backward and traded whispers.
 
-“Um, excuse me. Can I have a moment?”
+“Ah, excuse me. May I have a moment?”
 
-After their brief whispering, Zaizen raised his hand on behalf of the security force, who were visibly shrinking back, and brazenly said:
+After a short huddle, Zaizen raised his hand on behalf of the security force, who were plainly getting cold feet, and made his announcement without a shred of shame.
 
-“We've changed our minds. We'll side with whoever wins. As long as they're strong enough to protect the citizens from monsters, it doesn't matter who is on top.”
+“We've had a change of heart. We'll side with whoever wins. So long as they're strong enough to protect the citizens from monsters, it doesn't really matter who's on top, does it?”
 
-“Huh!? Zaaaizen! You betrayed me!? Just you wait, you bastard!”
+“Huh!? Zaaaizen! You betrayed me!? You bastard, I won't forget this!”
 
-“Ahaha, I don't hate that! Then you weathercocks, get out of here!”
+“Ahaha, I kinda like that! Then you weathercocks can butt out!”
 
-Kiwada laughed as the security force threw down their weapons and scurried away. Then she held her sword low behind her, burst forward, and started the fight.
+Kiwada laughed as the security force threw down their weapons and scampered off. Then she held her sword low and back and opened the battle with an explosive charge.
 
 “<ruby>Ketenereratsusu ×××× Jiejiyu<rt>The way to cut wind was learned from rock steel</rt></ruby>.”
 
 “<ruby>××× Pupupopu Toraetotsu Karifusu×× Jijimigu<rt>That statue will guard the grave until the end of the world</rt></ruby>.”
 
-Before Kiwada's blade could reach her, the Dragon Witch spat out a large Gremlin, recited the Pebble Witch's incantation, and took off into the sky.
+Before Kiwada's blade could reach her, the Dragon Witch spat a large Gremlin out of her mouth and took off into the sky, reciting the Pebble Witch's incantation as she went.
 
-Kiwada tried to cut the rock-winged <ruby>gargoyle<rt>rock doll</rt></ruby> that had formed around the Gremlin down in one stroke, but its amazingly tough rock stopped her. She only managed to cut halfway through its torso.
+In an instant, a <ruby>gargoyle<rt>rock doll</rt></ruby> with a pair of rock wings had formed around the Gremlin. Kiwada tried to cut it down in one stroke, but the rock was astonishingly tough, and her blade stopped halfway through its torso.
 
-She quickly pulled back her blade and slashed at it several times, but its crossed arms caught every strike, and it kicked her instead.
+She quickly pulled her blade back and slashed at it several more times, but its crossed arms caught the blows, and it answered with a kick.
 
 ![p116.jpg](images/p116.jpg)
 
-Kiwada caught the kick with her front legs, was blown back several meters, landed heavily on all fours, and cursed.
+Kiwada took the kick on her front legs and was sent flying several meters. She landed heavily on all fours and swore.
 
-“It's too hard! You magic-power freak! How much magic power did you pour into it!?”
+“It's too hard! You magic-power freak! How much magic power did you pump into that thing!?”
 
-“Keep playing down there! I'll roast you from above!”
+“You just keep playing down there! I'll roast you from above!”
 
-The Dragon Witch circled overhead and laughed loudly, breathing fierce <ruby>breath<rt>crimson flame</rt></ruby> down at the ground. The ruins and roadside trees instantly became a hell of fire and burst into flames.
+Circling high overhead, the Dragon Witch cackled and blasted the ground with a fierce <ruby>breath<rt>crimson flame</rt></ruby>. In an instant, the ruins and roadside trees turned into a fiery hell and went up in an explosive blaze.
 
-The monsters that had failed to escape were caught in the flames and burned alive. They quickly charred black, collapsed, and died.
+Monsters too slow to escape were engulfed and burned alive, charring black in moments before they gave out and dropped.
 
-From in front of Kiwada came a powerful golem's charge. From behind came a deadly tidal wave of scorching heat.
+In front of Kiwada, a powerful golem was charging. Behind her rolled a deadly tidal wave of searing heat.
 
-Caught between them, Kiwada clicked her tongue and recited another incantation.
+Caught in the pincer, Kiwada clicked her tongue and recited another incantation.
 
 “<ruby>Giyodotashitsua Keteneru Jiejiyu<rt>The way to run rainbows was learned from wind</rt></ruby>.”
 
-“Geh.”
+“Ugh.”
 
-Kiwada's legs flashed for an instant. She caught the air and ran up into the sky.
+Kiwada's legs flashed for an instant. She caught hold of the air and ran up into the sky.
 
-Kiwada looked down, wary of the gargoyle flying up from the ground after her, but in the crimson tidal wave, all it did was swing both arms toward the sky.
+She looked down, wary that the gargoyle would fly up from the ground after her, but down in the crimson tidal wave, all it did was flail both arms at the sky.
 
-It seemed the pincer attack she had feared would not happen once she got into the air. Kiwada mocked them, though inwardly she had been scared stiff.
+Apparently the pincer attack she'd feared couldn't happen once she was up in the air. Kiwada sneered, though inside she'd had a real scare.
 
-“What, those stone wings are just decorations!?”
+“What, are those rock wings just for show!?”
 
-“I never heard you could fly!”
+“Nobody told me you could fly!”
 
-“Of course you didn't. I never told you!”
+“That's 'cause I never told you!”
 
-The centaur witch ran through the sky and chased after the flustered Dragon Witch.
+The centaur witch ran across the sky, chasing the flustered Dragon Witch.
 
-The Dragon Witch beat her wings, shot through the clouds, and rapidly accelerated, but Kiwada kept close behind.
+The Dragon Witch beat her wings and punched through the clouds in a sudden burst of speed, but Kiwada stayed right on her tail.
 
-The two witches were faster than the wind, picking up more and more speed until they even broke the sound barrier. sonic booms roared through the sky with ear-splitting blasts, reaching the ground and shaking the lake's surface and the trees.
+The two witches were faster than the wind, and they kept picking up speed until they broke even the sound barrier. Sonic booms thundered across the sky in ear-splitting blasts that carried all the way to the ground, shaking the lake's surface and the trees.
 
-But even with sky-walking magic enhanced by a magic stone, the Dragon Witch was faster. Kiwada was gradually left behind.
+But even against sky-walking magic enhanced by a magic stone, the Dragon Witch was still faster, and little by little she pulled away.
 
-The Dragon Witch had more experience in aerial combat. Kiwada could not catch her, and the Dragon Witch flew in acrobatic patterns, skillfully firing breath behind herself and forcing Kiwada to work hard to dodge.
+In aerial combat, the Dragon Witch had the edge in experience. Not only could Kiwada not catch up, but she had to wear herself out dodging the breath the dragon deftly spat behind her while flying like a stunt plane.
 
 “Gah-hah-hah! Come on, come on, fall already!”
 
-“You...”
+“Why you...!”
 
-The Dragon Witch's repeated breath attacks, fired along with her loud laughter, turned the cold air high above into heat waves. Kiwada could not fully dodge a stream of flames on a direct course for her and had no choice but to slash it away with her sword. To her shock, the sword melted and fell away from its base.
+Cackling, the Dragon Witch fired breath after breath, turning the cold upper air into waves of heat. When one stream of fire came straight at Kiwada and she couldn't get clear of it, she had no choice but to slash it aside with her sword, and incredibly, the blade melted and dripped away right from the base.
 
-Kiwada's eyes went wide. She tossed aside the remains of her sword and kept running through the air after the dragon, cursing.
+Kiwada's eyes bulged. She tossed away what was left of her sword and swore as she kept sprinting through the air after the dragon.
 
 “Don't fuck with me. You keep spitting out flames like they're nothing!”
 
-“Hmm, the losing horse is snorting about something. Your weapon's gone, so now you'll just have to die!”
+“Mmm, the loser horse is snorting about something. Your weapon's gone, so now you'll just have to die!”
 
-Even the gleeful Dragon Witch was using magic power every time she breathed fire. She could not shoot flames forever. Nor could the troublesome enhanced state unique to dragons last forever.
+For all her glee, the Dragon Witch was spending magic power every time she breathed fire. She couldn't keep up the flamethrowing forever, and the troublesome enhanced state unique to dragons wouldn't last forever either.
 
-Even so, being hit again and again with a high-power attack guaranteed to cause serious burns, with no incantation and literally as casually as breathing, was more than Kiwada could take.
+Even so, getting pelted over and over with high-powered attacks that guaranteed severe burns, with no incantation and literally as easily as breathing, was more than Kiwada could take.
 
-Kiwada clicked her tongue, poured a considerable amount of magic power into her magic stone to amplify it, and recited an incantation.
+With a click of her tongue, Kiwada poured no small amount of magic power into the magic stone to amplify it and recited an incantation.
 
 “<ruby>×××× Egurofu Ho-wa- Ajiejiyu<rt>The way to forge rock steel was learned from my grandfather</rt></ruby>.”
 
-“Geh.”
+“Ugh.”
 
-The dragon groaned in annoyance when she saw the swordswoman pull a new sword from thin air, its surface gleaming in the sunlight. The battle continued.
+When she saw the swordswoman pull a new sword out of thin air, its blade flashing in the sunlight, the dragon let out an irritated groan. The battle wasn't over yet.
 
-Kiwada held her sword, stomped hard on a cloud, and charged, but she did not gain on the Dragon Witch at all.
+Kiwada readied the sword, stamped down hard on a cloud, and charged to close the distance, but the gap didn't shrink one bit.
 
-Kiwada furrowed her brow, sheathed the sword she had just made, and held both hands toward the Dragon Witch.
+Frowning, Kiwada sheathed the sword she had only just conjured and pointed both hands at the Dragon Witch.
 
-“No choice. If I amplify it, even from this distance... <ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby>.”
+“Guess I've got no choice. If I amplify it, even at this range... <ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby>.”
 
-An invisible wave amplified by the magic stone was released and struck the Dragon Witch.
+An invisible wave, amplified by the magic stone, shot out and slammed into the Dragon Witch.
 
-The Dragon Witch lost a great deal of altitude and stalled, as though something huge had pressed her down from above. But the shining red scales over her whole body immediately canceled out the invisible pressure, and she regained her balance.
+As if something enormous had shoved her down from above, the Dragon Witch lost a lot of altitude and stalled, but the glowing red scales all over her body quickly canceled out the invisible pressure, and she righted herself.
 
-“Geh!? Nngh, y-you weakling! It d-doesn't work at all!”
+“Gbuh!? Nnngh, y-you weakling! Th-th-that doesn't work on me at all!”
 
-“You won't fall!? You're stubborn! <ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby>.”
+“Still not falling!? Tough one, aren't you! <ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby>.”
 
-“Gah!? I-I said it doesn't work!”
+“Gabuh!? I-I told you, it doesn't work—”
 
 “<ruby>Niyankiyau Koiro Giyodo Jiejiyu<rt>The way to bring down birds was learned from rainbows</rt></ruby>.”
 
 “Bogeah!!!”
 
-After being forced down three times, the Dragon Witch crashed into Tama Lake near where the battle had started, throwing up a huge column of water.
+Forced down a third time, the Dragon Witch crashed into Tama Lake, near where the battle had started, and sent up a huge column of water.
 
-Doing a dragon paddle instead of a dog paddle, the Dragon Witch sprayed water from her nose as she crawled onto the shore. Then she shook her huge body back and forth, flinging off the water.
+Spraying water from her nose, the Dragon Witch did the dragon paddle, not the dog paddle, over to the bank and crawled up onto the shore. She gave her huge body a hard shake, flinging off the water.
 
-Then she took a few steps back, saw Kiwada holding her sword before her, and went pale.
+Then she saw Kiwada a few paces off, sword at the ready right in front of her, and went pale.
 
-She gulped, then put on a brave face.
+She swallowed hard and put on a brave face.
 
-“I-is that okay? If you're standing there, I'll burn you.”
+“A-are you sure about this? If you stay there, I'll roast you.”
 
-“At this distance, I can cut you before you can breathe fire. You can't even bite me, can you? Of course, I won't give you an opening to recite an incantation.”
+“At this range, I can cut you faster than you can breathe fire. You can't bite me either, can you? And of course I won't give you an opening to recite an incantation.”
 
 “Urgh...!”
 
-“Without one leg, you can't fight me up close, can you? Surrender.”
+“Missing a leg like that, you can't fight me up close. Give up.”
 
 “............”
 
-Kiwada looked down on the silent Dragon Witch in triumph.
+Kiwada looked down at the silent Dragon Witch, gloating.
 
-Even with the magic stone's boost, she had been forced to use a great deal of magic power.
+Even with the magic stone's boost, she'd been made to spend a great deal of magic power.
 
-But Kiwada was the one who had brought the dragon down to earth and held her life in her hands.
+But it was Kiwada who had brought the dragon down to earth, and Kiwada who held her life in her hands.
 
 “Say something, why don't you? Hm?”
 
 “...Something.”
 
-“Hm? Ah, stalling for time, are you? You're trying to have that gargoyle attack me from behind, right? If you don't make the gargoyle destroy itself and surrender within five seconds, I'll cut you down. One, two.”
+“Hm? Ah, stalling for time. You're planning to have that gargoyle from earlier jump me from behind, aren't you? Make the gargoyle destroy itself and surrender within five seconds, or I'll cut you down. One, two.”
 
-“Guh...”
+“Grrgh...!”
 
 “Three, four,”
 
 “S-surre—”
 
-Kiwada wore a sadistic smile that made her look as though she wanted to cut the Dragon Witch down anyway. Just before she could hear the word of surrender, four ice spears struck the side of her horse body and made her stagger.
+Kiwada wore a sadistic smile that suggested she'd just as soon cut the dragon down anyway. But an instant before she could hear the surrender, four ice spears slammed into the flank of her horse body, and she staggered.
 
-Caught completely off guard, she stumbled and instinctively looked to the side.
+Blindsided by an attack she had never seen coming, she stumbled and reflexively turned to look.
 
-There, lying low in the bushes, were the security force and Zaizen, who were supposed to have thrown down their weapons and fled.
+Lying low in the bushes were the security force and Zaizen, the same ones who had supposedly thrown down their weapons and run.
 
 “Get her, Dragon Witch-sama!”
 
 “If you can't finish her here, you're just a lizard!”
 
-Hearing the security force's jeers, Kiwada hurriedly turned back to the front.
+At the security force's jeers, Kiwada hastily snapped her gaze back to the front.
 
-There stood the Dragon Witch, her eyes gleaming with desire and a vicious smile on her face. Her belly glowed red-hot, and a superheated flame burned deep inside her great jaws.
+There stood the Dragon Witch, grinning viciously, her eyes glittering with greed. Her belly glowed red-hot, and a superheated flame burned deep inside her great jaws.
 
 “<ruby>××××<rt>Great discovery</rt></ruby>! <ruby>Jin Gatsushin Gana Ashinka<rt>Apparently flames burn</rt></ruby>!”
 
-“Damn—”
+“Oh sh—”
 
-The dragon's breath, enhanced by the Gremlins circulating through her whole body, was layered with fire magic.
+Dragon breath, boosted by the Gremlins coursing through her whole body, with fire magic layered on top.
 
-A crimson heat ray that shone with blinding brightness swallowed Kiwada.
+The crimson heat ray, so bright it was blinding, swallowed Kiwada.
 
-Kiwada became a black shadow writhing and dancing in the flames, and the shadow quickly burned apart and crumbled away.
+She became a black shadow writhing and dancing in the flames, and in no time the shadow burned and crumbled away.
 
-A few seconds later, when the breath stopped, all that remained was a small mound of white ash giving off smoke.
+When the breath stopped a few seconds later, all that was left was a small, smoking mound of white ash.
 
 Kiwada had burned to death.
 
-“Hmph! You weakling! That's right, I really am strong after all! Gah-hah-hah-hah!”
+“Hmph! Weakling! That's right, I really am strong after all! Gah-hah-hah-hah!”
 
-The Dragon Witch laughed loudly and lumbered over to the mound of ash, then blew the ash away with a snort. A magic stone giving off heat appeared.
+Cackling, the Dragon Witch lumbered over to the ash heap and blew it away with a snort, revealing a magic stone that radiated heat.
 
-All magic stones were meteorites, and unlike Gremlins, they had extremely high heat resistance, enough to withstand the heat of atmospheric entry. Even a dragon's flames would not melt one.
+All magic stones were meteorites, and unlike Gremlins, they were extremely heat-resistant, tough enough to survive the heat of atmospheric entry. Even dragon fire wouldn't melt one.
 
-Drooling, the Dragon Witch eagerly put the hot magic stone away in her belly pouch and danced for joy. The security force and Zaizen came over, chattering noisily.
+Drooling, the Dragon Witch eagerly tucked the hot magic stone into her belly pouch and broke into a happy dance, and the security force and Zaizen came crowding over, chattering away.
 
-“I thought she was a sharp witch, but she was surprisingly stupid. To fall for such a classic plan so perfectly.”
+“I took her for a sharp witch, but she turned out to be quite the fool. Imagine falling so neatly for such a classic ploy.”
 
-“A plan? ...Oh. Z-Zaizen, you're a capable guy. I knew it. Of course I trusted you.”
+“A ploy? ...Oh. Z-Zaizen, you're a guy who gets things done. I knew it. Of course I trusted you.”
 
-“Oh, I'm honored. Dragon Witch-sama, your acting was quite convincing too. You looked as though you really thought I had betrayed you.”
+“Why, I'm honored. Your acting was very convincing as well, Dragon Witch-sama. It looked just as if you really believed I'd betrayed you.”
 
-Zaizen shook his fat belly as he laughed in amusement, and the Dragon Witch laughed along with him, looking a little awkward.
+Zaizen laughed merrily, his fat belly jiggling, and the Dragon Witch laughed along, a little awkwardly.
 
-The security force talked and laughed while rudely spitting on the witch's ashes and giving her remains the finger.
+The security force chatted and laughed, crudely spitting on the witch's ashes and giving her remains the finger.
 
-“Idiot. Our Dragon Witch-sama isn't gonna lose to some small-fry witch who's just holding a magic stone.”
+“Moron. No way our Dragon Witch-sama loses to some small-fry witch who's just clutching a magic stone.”
 
-“Yeah, yeah. Being strong's her only good point.”
+“Yeah, yeah. Being strong's the one thing she's got going for her.”
 
 “We would've lost without Zaizen-san's plan, though...”
 
-“Well, Zaizen-san is Dragon Witch-sama's external brain. So it's basically Dragon Witch-sama's solo win.”
+“Well, Zaizen-san is Dragon Witch-sama's external brain, so it basically counts as her solo win.”
 
-“Is it? Maybe it is.”
+“You think? Maybe so.”
 
-It had been a narrow victory, but looking only at the result, it was a complete victory over a witch with a magic stone, with no casualties and not a single injury. Zaizen cleared his throat and made a suggestion to the excited Dragon Witch.
+It had been a narrow win, but on results alone, it was a total victory over a witch with a magic stone: no casualties, not even a single injury. Zaizen cleared his throat and made a suggestion to the giddy Dragon Witch.
 
-“Dragon Witch-sama, should you not go help the other witches? You can get more magic stones.”
+“Dragon Witch-sama, are you sure you don't want to go help the other witches? There are more magic stones to be had.”
 
-“Hmm, I'm exhausted. Today I'm going to sleep holding magic stone-chan. Then tomorrow I'll attack those pieces of trash again and rescue poor magic stone-chan. One a day!”
+“Nnn, I'm beat. Today I'm going to sleep holding magic stone-chan. Then tomorrow I'll attack those pieces of trash again and rescue poor magic stone-chan. One a day!”
 
-“I see. Then please leave us to guard your territory while you are away. Well, if a witch or mage comes, we will surrender, but we will make it easy for you to take it back afterward.”
+“Very well. Then please leave the defense of your territory to us while you're out. Well, if a witch or mage shows up, we'll surrender, but we'll make sure it's easy for you to take it back afterward.”
 
-“Handle it as you see fit. Fwaaah, I'm going to sleep now. I'll leave the rest to you.”
+“Handle it however you see fit. Fwaaah, I'm going to bed now. You take care of the rest.”
 
 “Good night, Dragon Witch-sama.”
 
-Zaizen bowed politely and saw off the Dragon Witch as she lumbered back to her nest.
+Zaizen bowed politely and watched the Dragon Witch lumber back to her nest.
 
-The Dragon Witch kidnapped people, squandered manpower, stole things, and did whatever she wanted on instinct, but one thing was certain: she was strong.
+Kidnapping, wasting talent, stealing: the Dragon Witch did whatever her instincts told her, but whatever else you could say about her, she was strong.
 
-If not for the Blue Witch, she was the Tokyo Witches' Council's top fighting force, so even among the Transcendents, her strength put her a cut above.
+If it weren't for the Blue Witch, she would be the Witches' Council's top fighting force, which put her a head above the rest even among Transcendents.
 
 As long as the Dragon Witch was there, her territory was safe.

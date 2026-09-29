@@ -160,3 +160,27 @@
 - Sugoi Daiku, exact interphone ruby, chipped-stone magic, slime glass, labor golem, and semantic stampede ruby were verified against the glossary.
 - Honorifics, close-third referents, past-tense narration, unmarked direct thought, and the final image marker were verified.
 - No scene breaks or footnotes occur; no title heading or Translator Notes section was introduced.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN story section up to the p285 image marker / JP 4–328 (`reedit-c17-s1`); the Next Volume / manga ad tail is byte-identical to baseline; subagent model Claude Opus; 93 changed paragraphs). Flow: short-sentence share 16.0% -> 11.5%; runs 1 -> 0; FLOW: ok. Codex critique: 93 changes reviewed, 15 flagged; all 15 accepted (F8, F9, F15 with lead rewordings).
+
+### Accuracy Fixes
+- **JP 324 (closing line)**: truncated line 213 completed from the source — accuracy
+- **meditation room for magic-power training**: unit-consistency form restored — glossary
+- **調布市では魔女の意向で**: "At the witch's direction" → "At its witch's direction" (Chofu's own witch) — referent
+- **決まりが悪そうにモゾモゾ**: "wriggled as if embarrassed" keeps the モゾモゾ/モジモジ setup — accuracy
+- **馴致不能**: "a monster that was beyond taming" (glossary taming) — glossary
+- **たかが知れていて**: household slime numbers "would stay manageable", not an inherent limit — accuracy
+- **防蟻処理 / 金とコネ / 効果範囲を計算し**: plain protection-against-termites wording, money-and-connections coordination, amulet placement clarified — accuracy
+- **老いぼれちゃいない**: closing direct thought "I'm not so old and doddering that the times can leave me behind yet." kept present — tense
+
+### Register and Flow
+Kept the ガタガタ/ガタガタ/ボロボロ triple as a parallel "a mess, a mess, in tatters" line. Construction-process exposition merged in source order.
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 17` ALL PASS.
+
+## User Rulings — 2026-09-29
+
+- Afterword (あとがき) translated for the first time and inserted as `## Afterword`; translated by a subagent, critiqued by Codex (gpt-5.6-sol, high, read-only), findings adjudicated by the lead: V4: comma splice, "flip it around" grammar, "shower with affection", 意図せず as "you never planned on", logic/empathy contrast, lucky-punch metaphor, plus lead fixes (やったー line as a cheer, trailing けど as "though").

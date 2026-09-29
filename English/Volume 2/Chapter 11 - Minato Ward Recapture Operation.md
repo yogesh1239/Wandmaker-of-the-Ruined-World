@@ -46,7 +46,7 @@ Magic had its limits too.
 
 It was only a gut feeling, but judging from the scale of the damage, the Blue Witch's magic seemed to go past the limits of any witch.
 
-Dareda had evacuated to Shibuya Ward, the Eyeball Witch's territory. He kept working for the guard there and kept digging, and eventually he learned about something called Blue Wand Cyanos.
+Dareda had evacuated to Shibuya Ward, the Eyeball Witch's territory. He kept working for the security force there and kept digging, and eventually he learned about something called Blue Wand Cyanos.
 
 Anyone in the know had heard of magic stones, the mysterious treasures that amplified the power of magic.
 
@@ -58,17 +58,17 @@ The Blue Witch's magic had been off the charts during the Iruma coup too, but ev
 
 There was some secret to it. Maybe if he got his hands on Cyanos, even he could use magic? It was the kind of thing that tempted a person into baseless hopes like that.
 
-Once, Dareda snuck a pair of binoculars out of the Civilian Guard's supplies and went to scout Ome.
+Once, Dareda snuck a pair of binoculars out of the security force's supplies and went to scout Ome.
 
-After staking out the city from outside its limits for half a day, he managed to catch the Blue Witch running across the rooftops on patrol. Then she looked straight at him through the binoculars, and he fled in a panic.
+After staking out the city from outside its limits for half a day, he managed to catch the Blue Witch running across the rooftops on patrol. Then, through the binoculars, he saw her look his way, and he fled in a panic.
 
 He couldn't risk getting on her bad side and getting killed for it.
 
-He'd confirmed that she carried a beautiful wand with a blue gemstone set into it, but he hadn't had the chance to get a closer look. Investigating the Blue Witch was too dangerous, so Dareda gave up and went back to his usual Civilian Guard duties.
+He'd confirmed that she carried a beautiful wand with a blue gemstone set into it, but he hadn't had the chance to get a closer look. Investigating the Blue Witch was too dangerous, so Dareda gave up and went back to his usual duties with the security force.
 
-About half a year later, word went out across Tokyo that a magic university was opening in Bunkyo Ward.
+About half a year later, word went out across Tokyo that the Magic University was opening in Bunkyo Ward.
 
-A magic university!
+Magic University!
 
 Of course, Dareda jumped at it.
 
@@ -78,7 +78,7 @@ Dareda was in the first group. He failed anyway, flat out, and was crushed.
 
 He passed the articulation test and put up an excellent score on the magic-power test, but he flunked the intelligence test.
 
-A guy who'd joined the guard at the same time as him, and who was definitely smarter than Dareda (he'd gone to a national university), had failed too. So it wasn't that Dareda was stupid. Tokyo Magic University's standards were just too high.
+A guy who'd joined the security force at the same time as him, and who was definitely smarter than Dareda (he'd gone to a national university), had failed too. So it wasn't that Dareda was stupid. Tokyo Magic University's standards were just too high.
 
 Only a handful of truly exceptional people could get into the Magic University.
 
@@ -92,7 +92,7 @@ Aleister was a different kind of magic wand from Cyanos, with a dodecahedral fra
 
 Dareda's guess was that Aleister was a wand built around some special magic stone.
 
-Pyrite was famous for forming natural crystals in neat, perfect cubes. Make it a magic stone, and it could surely grow into a fractal on its own.
+Pyrite was famous for forming natural crystals in neat, perfect cubes. If it were a magic stone, it could surely grow into a fractal on its own.
 
 Some people said someone had made it, but to Dareda, that was ignorant nonsense from people who had no idea what an artisan's work was like. Gremlin processing was extremely difficult. In a world where precision machinery had broken down and could no longer be used, who could carve out the intricate fractal he had heard about? No artisan capable of that existed.
 
@@ -108,9 +108,9 @@ That second one had been especially close.
 
 Up to the year before, the Magic University had only had one department, the Department of Magic Linguistics. That year it was adding four more, the Department of Gremlin Engineering, the Department of Monster Studies, the Department of Mutation Studies, and the Department of Combat Studies, and it was recruiting professors as well as students.
 
-Dareda went for a professorship in the Department of Combat Studies on the strength of his Civilian Guard experience, and for one in the Department of Monster Studies on the strength of the monster data he'd painstakingly compiled on his own. Both times, he lost to someone who was basically an upgraded version of him.
+Dareda went for a professorship in the Department of Combat Studies on the strength of his experience in the security force, and for one in the Department of Monster Studies on the strength of the monster data he'd painstakingly compiled on his own. Both times, he lost to someone who was basically an upgraded version of him.
 
-The Combat Studies professorship went to a genius who wasn't just skilled with a staff and a gun, but had taught himself to copy a witch's magic and actually use it. The man who got the Monster Studies job hadn't just collected monster data like Dareda had. He'd organized it statistically and worked out a system for classifying monsters by type.
+The Combat Studies professorship went to a genius who wasn't just skilled at staff fighting and shooting, but had taught himself to copy a witch's magic and actually use it. The man who got the Monster Studies job hadn't just collected monster data like Dareda had. He'd organized it statistically and worked out a system for classifying monsters by type.
 
 Compared to most people, who were struggling just to get through each day's work, Dareda had thought he'd put a lot into his own research. But there was always someone better.
 
@@ -170,15 +170,15 @@ The Tokyo Witches' Council judged that the time was ripe.
 
 Here was the plan.
 
-A wizard carrying a wand made from Blood Moon, the magic stone the Bloodsucking Mage had left behind, would lead the charge, and they would take the center of Minato Ward in one lightning strike.
+A wizard carrying a wand made from Blood Moon, the magic stone the Bloodsucking Mage had left behind, would lead the charge, and they would seize the center of Minato Ward at lightning speed.
 
 They would turn the ruins of Tokyo Tower into a watchtower and station a ritual magic group on it. From that high ground, they would watch the whole ward and curse every monster in sight to death with ritual magic, one after another.
 
 Even after Minato Ward was under control, ritual magic from the watchtower would be the heart of its monster watch-and-response system.
 
-“This blood wand Vampir, which uses Blood Moon, is the first magic-stone wand manufactured by our university. In terms of performance, it falls far short of Blue Wand Cyanos, but we outsourced only the final polishing, and its core is a perfect sphere. We did no internal multilayering, so that it can be upgraded as new processing techniques are discovered and developed.
+“This blood wand Vampir, which uses Blood Moon, is the first magic-stone wand manufactured by our university. In terms of performance, it falls far short of Blue Wand Cyanos, but we outsourced only the final polishing, and its core is a perfect sphere. We did no internal multilayer processing, so that it can be upgraded as new processing techniques are discovered and developed.
 
-“Blood wand Vampir comes from Minato Ward's past. It will make its debut in battle in the present, with the recapture of Minato Ward, and it will be carried on into the future.
+“Blood wand Vampir comes from Minato Ward's past. It will make its battlefield debut in the present recapture of Minato Ward and be carried forward into the future.
 
 “Kyogoku Yamato-san, top-ranked student of the Department of Combat Studies. Please come forward.”
 
@@ -290,7 +290,7 @@ He was on the verge of panic, but he still managed to call out an accurate situa
 
 Not everyone could react the way Dareda had, though. Two beast mantises smashed through the kiosk window and tumbled inside, and the resting unit was thrown into complete disarray.
 
-Captain Kyogoku moved like the captain he was. He shouted to get everyone under control and swung blood wand Vampir toward the beast mantises.
+Captain Kyogoku moved like the captain he was. He shouted to get everyone under control as he quickly pointed blood wand Vampir at the beast mantises.
 
 But the mantis was faster. It fired a spray of spikes from its rear end at the unit.
 
@@ -300,7 +300,7 @@ Of all things, it knocked Vampir out of Kyogoku's hand and sent it flying out th
 
 Worse, the wand rolled right to the feet of an especially big, flashy rainbow-colored beast mantis that had been creeping closer from Tokyo Tower.
 
-The rainbow beast mantis stopped its many legs, cocked its head the way insects do, and eyed the wand that had literally rolled into its lap.
+The rainbow beast mantis stilled its many legs, cocked its head the way insects do, and eyed the wand that had literally rolled into its lap.
 
 Kyogoku stood dumbfounded at a disaster that felt like a lifetime's worth of bad luck hitting all at once, and for a moment, his eyes met Dareda's.
 
@@ -310,9 +310,9 @@ Things had spiraled completely out of control.
 
 The kiosk was bedlam, and no one could attack the beast mantises properly for fear of hitting each other. Blood sprayed, and screams echoed. The captain they were counting on had lost his trump card and was pinned under a beast mantis, and that crucial trump card was lying at the enemy's feet.
 
-The confusion and terror were enough to drive anyone mad, and inside Dareda's head, he thought he heard something snap.
+The confusion and terror nearly drove Dareda out of his mind, and he thought he heard something snap inside his head.
 
-In that instant, his mind went clearer than it had ever been.
+In that instant, his mind cleared like never before.
 
 Dareda made a split-second call he probably could never make again. He snatched the focus wand from Kobayashi, who was floundering nearby, shoved his own wand into Kobayashi's hands, and ran for the exit.
 
@@ -340,9 +340,9 @@ With Dareda as its focus, the ritual death-curse magic went off as a murky black
 
 The rainbow beast mantis went limp in midair and dropped. Dareda ran to its corpse and wrenched Vampir out of its sickle.
 
-When he turned around, he saw the captain at the kiosk window, covered in blood, holding the beast mantises off with a short sword in his right hand. The captain's left hand was stuck out the window, motioning for Dareda to hand it over.
+When he turned around, he saw the captain at the kiosk window, covered in blood, holding the beast mantises off with a short sword in his right hand. The captain stuck his left hand out through the window and motioned for Dareda to hand it over.
 
-Dareda had been a Civilian Guard shooter for a long time, and he'd picked up throwing along the way.
+As a longtime shooter in the security force, Dareda had also trained in throwing.
 
 The blood wand Vampir he tossed landed in Captain Kyogoku's hand as if pulled there, and in the blink of an eye, it blasted away the two beast mantises that had thrown the kiosk into chaos.
 
@@ -356,7 +356,7 @@ The beast mantises' ambush had cost them several lives.
 
 But after that, no one else was hurt, and they took Tokyo Tower.
 
-Just as planned, they cursed everything around them to death from the high ground and made the area safe.
+Just as planned, death-curse magic from the high ground secured the surrounding area.
 
 The date was December 25. Christmas.
 

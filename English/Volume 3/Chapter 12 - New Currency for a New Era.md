@@ -4,7 +4,7 @@ With the long-awaited rice harvest finally over, I slept in and gave my overwork
 
 I'd gotten used to the harvest over the years, but hard work was still hard work. The weather kept me on edge, too. I knew it wouldn't happen again, yet I still worried that the dragon might dive out of the sky and kidnap me. Why does she have to look so cool and have such a lousy personality?
 
-I was curled up snug in my futon, eating rice straight from the rice tub like a slob and reading a precious new issue of a manga magazine, when a mewl came from the entryway. It was Mokutan's cry of surprise and alarm.
+I was curled up snug in my futon, eating rice straight from the rice tub like a slob and reading a precious new issue of a manga magazine, when a meep-meep cry came from the entryway. It was Mokutan's cry of surprise and alarm.
 
 The fire salamanders had made the reverberatory furnace on the hill behind my house their nest and home base. They'd also learned the route from there to my place, so they often came over to play during the day.
 
@@ -84,7 +84,9 @@ Good thing I'm a normal human! I want special superpowers, but not if they mess 
 
 Professor Ohinata was a little down, but she recovered as she lapped tea from a tiny doll's cup.
 
-After grooming the damp fur around her mouth with her front paws, she said, “By the way, Ori-san. You make amulets besides magic wands too, don't you?”
+After grooming the damp fur around her mouth with her front paws, she changed the subject.
+
+“By the way, Ori-san. You make amulets besides magic wands too, don't you?”
 
 “Yeah, well, as a side job. Magic wands are my main thing, though.”
 
@@ -138,11 +140,11 @@ The reference materials included a realistic painting of the Mountain Bear by wh
 
 It had a sun-like pattern on its belly, divine rings of light around both wrists, and some serious <ruby>kamuy<rt>guardian god of the northern land</rt></ruby>[^3] vibes. Hokkaido is wild!
 
-Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed. Better to put only its face on the front, then work the belly pattern into the back alongside the number 100.
+Trying to fit the whole Mountain Bear onto one side of a coin would make the design too detailed. It seemed best to put only its face on the front, then neatly work the belly pattern into the back alongside the number 100.
 
 The Witches' Council had led the new-currency project and would handle the minting, so it held the design rights for the 1-yen, 5-yen, 50-yen, and 500-yen coins.
 
-The Council had settled only one design by unanimous vote: the Bloodsucking Mage's face on the 500-yen coin.
+The Witches' Council had settled only one design by unanimous vote: the Bloodsucking Mage's face on the 500-yen coin.
 
 The Bloodsucking Mage's portrait made him look like the most stereotypical middle-aged vampire imaginable. He wore a tailcoat, his salt-and-pepper hair was slicked back, and he had the trim build of a handsome middle-aged man. He looked every inch the refined aristocrat, but his expression was pure mischief: a bold wink with plenty of theatrical flair.
 
@@ -186,7 +188,7 @@ When I finished the plans and took a break, Hiyori and the professor were deep i
 
 They seemed to be discussing issues surrounding the circulation of money, such as credit creation, what backed a currency's value, and inflation rates.
 
-I couldn't hope to keep up, so I left them to it and headed into the workshop.
+I couldn't hope to keep up, so I left them to it, went into the workshop, and got to work.
 
 Let's make 'em, make 'em—let's get right to it! Time to make the dies for the new currency.
 
@@ -194,7 +196,7 @@ First, I'd make a wooden model and press it into a box of sand. Then I'd remove 
 
 As I carved the wooden model, I felt strangely moved.
 
-Issuing a new currency felt like a turning point in history. Something new was beginning, and there was something refreshing about that.
+Issuing a new currency felt like a turning point in history. Something new was getting started, and that was refreshing. It felt good.
 
 But soon I'd be buying and selling things with coins based on master patterns I'd made. That made me squirm a little.
 

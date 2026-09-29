@@ -10,13 +10,13 @@ I'd known some kind of disaster was going on, but I'd figured the online grocery
 
 I pushed into the mountains with a field guide to wild plants and mushrooms in hand.
 
-I caught rabbits and raccoon dogs in traps I'd built from anime knowledge and books out of the community center library.
+I caught rabbits and raccoon dogs in traps I'd built using what I'd learned from anime and books in the community center library.
 
 I dug a fishing rod out of the shed, baited it with earthworms and grasshoppers, and went fishing.
 
 I was a total survival newbie, and my skills were pretty pathetic. Hunting alone couldn't cover the calories I burned each day, so I made up the difference by dipping into my food stockpile, which was already looking pretty thin.
 
-My backyard vegetable patch, which I'd only kept as a hobby so I could eat fresh and healthy, became my lifeline, and I threw myself into expanding it in a rush.
+My backyard vegetable patch, which I'd only kept as a hobby so I could eat fresh and healthy, became my lifeline, and I rushed to expand it.
 
 Before the Crystal Disaster, when wild animals ate the vegetables in my backyard, all I did was sigh, "Ugh, what a pain." Now it made me murderous. Maybe I'll just kill the things and eat them.
 
@@ -26,13 +26,13 @@ My rice and canned food dwindled bit by bit, and life was hard with no end in si
 
 Today, once again, Okutameteorite had gotten me venison. With the deer on my shoulders, every step down the mountain was physically heavy, but my heart felt like it had sprouted wings.
 
-My cute, cute magic wand-chan, my most treasured possession, worked as a medium for casting magic: sing at its natural frequency, and it fired a white beam.
+My cute, cute magic wand-chan, my most treasured possession, worked as a medium for casting magic: if I sang at its natural frequency, it would fire a white beam.
 
 The beam was about as thick as an elephant's leg—pretty damn thick—and it shot straight out along the line running from my mouth through Okutameteorite.
 
 One shot hit hard enough to rock a small car.
 
-I'd made Okutameteorite as a hobby and brought it along for self-defense, but it turned out to be incredibly useful for hunting.
+I'd made the magic wand Okutameteorite as a hobby and brought it along for self-defense, but it turned out to be incredibly useful for hunting.
 
 I didn't have a gun, and I obviously couldn't use a bow. I didn't have the arm strength to throw a spear, either.
 
@@ -40,15 +40,15 @@ So if I stumbled on a deer twenty or thirty meters off in the mountains, munchin
 
 Not without a magic wand, anyway.
 
-I took careful aim and hit the deer dead-on with a wand beam. It didn't die instantly, but it couldn't move, so I just walked up and finished it off with a knife. Seriously, thank god for Okutameteorite.
+I took careful aim and hit the deer dead-on with a magic-wand beam. It didn't die instantly, but it couldn't move, so I just walked up and finished it off with a knife. Seriously, thank god for Okutameteorite.
 
-I bled and gutted it on the spot to lighten the load, but a whole deer was still seriously heavy. By the time I got down the mountain and home, my legs were jelly and my shoulders and arms felt ready to burst. My whole body was screaming, but they were happy screams.
+I bled and gutted it on the spot to lighten the load, but a whole deer was still seriously heavy. By the time I got down the mountain and home, my legs were jelly and my shoulders and arms felt ready to burst. My whole body was screaming, but in a good way.
 
 I set the deer down on the veranda and grinned, picturing how many dozens of kilos of meat it would give me.
 
-That's way too much to eat in one go. It's only early spring, but with the fridge dead, it'll rot if I leave it out at room temperature. I'll have to slice it thin and sun-dry it.
+That was way too much to eat in one go. It was only early spring, but with the fridge dead, it would rot if I left it out at room temperature. I'd have to slice it thin and sun-dry it.
 
-Operation Sun-Dry has already worked on the pale chub I caught in the Tama River. If it works for fish, it should work for meat too...
+Operation Sun-Dry had already worked on the pale chub I'd caught in the Tama River. If it worked for fish, it should work for meat too...
 
 "...Huh?"
 
@@ -68,7 +68,7 @@ If civilization collapsed and production and distribution stopped, the food sitt
 
 In a collapsed society, stealing food when you were short was actually the sensible thing to do.
 
-When society had collapsed and nobody knew if they'd make it through tomorrow, the weird one was probably me, for cheerfully taking up fishing, trapping, and farming.
+When society had collapsed and nobody knew if they'd make it through tomorrow, the weird one was probably me, for casually taking up fishing, trapping, and farming.
 
 Pissed at the rotten thief who'd swiped my precious food, I spent a good while combing every inch around the house, but I couldn't find them. The culprit was long gone.
 
@@ -76,7 +76,7 @@ Okutama had seemed completely empty of people, but apparently someone besides me
 
 At a time like this, I'd normally have called 110 for the police, but that was useless now. I had no choice but to take the loss.
 
-Looking on the bright side, I was probably one of the ones still managing on my own. I didn't have to loot. I was tilling my fields and catching deer to keep myself fed.
+Looking on the bright side, I was probably still doing all right on my own. I didn't have to loot. I was tilling my fields and catching deer to keep myself fed.
 
 Sure, I was making up the shortfall from my stockpile, so it couldn't last forever. But I hadn't sunk so low that I'd steal someone else's food.
 
@@ -162,7 +162,7 @@ But I'd been wrong.
 
 And if that was the case, then...
 
-I gathered up some of the electric crystals that had come down with the heavy rain and were still lying by the roadside, and sang the same note at those bead-sized crystals, but nothing happened: no beam, no resonance.
+I gathered up some of the electric crystals that had come down with the heavy rain and were still lying by the roadside, and sang the same natural-frequency note at those bead-sized crystals, but nothing happened: no beam, no resonance.
 
 Well, yeah, obviously. If electric crystals fired beams too, all the random ones scattered on the ground would've been spraying beams everywhere whenever I played with my magic wand.
 
@@ -212,7 +212,7 @@ Fell right into my alarm trap, didn't you, looter! This time, I'm ready for you!
 
 I grabbed an iron pipe, crept down the hallway, and peeked out through a gap in the storm shutters.
 
-If there was a whole group of them, I couldn't win, and I'd just have to take the loss again. But if it was one person, I'd beat them senseless and send them running.
+If there was a whole group of them, I couldn't win, and I'd just have to take the loss again. But if it was one person, I'd beat them up and send them running.
 
 I'll do it. I'll really do it...!
 
@@ -334,7 +334,7 @@ Magic wands were useful, but they couldn't solve everything.
 
 My trusty partner, Okutameteorite-chan, was now enshrined as the guardian deity of my home, and these days I carried a mass-produced magic wand instead.
 
-This wand, Hendensho-kun, was pretty capable. I carved it with a new processing method, using electric crystals I'd collected on a trip out to Okutama Substation over the winter.
+This magic wand, Hendensho-kun, was pretty capable. I'd carved it with a new processing method, using electric crystals I'd collected on a trip out to Okutama Substation over the winter.
 
 I got the idea for the method from the red-gem rabbits.
 
@@ -358,7 +358,7 @@ Yet the pinkie-nail-sized red gem fired a beam that, by my calculations, matched
 
 I suspected the secret to that high output lay in the double-layered structure, so I set out to prove it with an experiment.
 
-First, I carved a fairly large electric crystal into a sphere and split it in half. Then I hollowed out the inside into a spherical cavity and fitted in a smaller electric-crystal sphere, carved to fit perfectly. All that was left was to glue the shell back together.
+First, I carved a fairly large electric crystal into a sphere and split it in half. Then I hollowed out the inside to make a spherical cavity and fitted in a smaller electric-crystal sphere, carved to fit perfectly. All that was left was to glue the shell back together.
 
 In theory, that should have boosted the power. It didn't. All I got was the output of the electric crystal I'd used for the core.
 
@@ -390,7 +390,7 @@ But I couldn't afford to be picky anymore.
 
 I couldn't survive anymore unless I took from others.
 
-Okutama had already been picked clean, so I needed to get out of Okutama and look elsewhere.
+Okutama had already run dry, so I needed to get out of Okutama and look elsewhere.
 
 I was done with my stupid pride.
 
@@ -398,4 +398,4 @@ I had no idea what things were like in the city center now.
 
 Maybe it was all ruins. Or maybe, surprisingly, there was a survivor community still going strong and living a stable life.
 
-Either way, all I could do was pray I wouldn't run into anyone on my supply-looting run.
+Either way, all I could do was pray I wouldn't run into anyone on my scavenging-and-looting run.

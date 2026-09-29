@@ -523,3 +523,120 @@ Naturalization re-edit of the filed chapter against the JP source in three segme
 
 ### Formatting Confirmed
 - `image_rsrc506`/`image_rsrc508` markers, `[^1]`–`[^3]`, notes section unchanged; `check_reedit.py` PASS on all three slices and whole file; `normalize_romaji.py --check` and chapter `check_consistency.py` PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 438 reviewed, 48 flagged. Round 1: 25 conceded, 9 pushed back, 14 countered. Codex after round 1: 9 withdrew, 13 accepted, 0 maintained, 1 countered. Round 2: no.
+Final: 39 changed, 9 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy/glossary — "magic wands" restored; "never set foot" -> "knew nothing about"
+  - Final text: "Making magic wands without knowing magic language was like a CEO who knew nothing about the shop floor running a manufacturing company. Sure, it could be done, but not well."
+- **F2** — APPLIED — glossary — "structural theory of magic wands"
+  - Final text: "I had a hunch that studying magic language was essential to understanding and advancing the structural theory of magic wands."
+- **F3** — APPLIED — accuracy — であろう restored as "I figured ... would bring me"
+  - Final text: "Five days later, I was eagerly waiting for the stack of magic language materials I figured the Blue Witch would bring me, and my hopes got dashed."
+- **F4** — APPLIED — worse — "shook it" -> "shook its paw"
+  - Final text: "The gesture baffled me for a second before I caught on, crouched down, and shook its paw."
+- **F5** — APPLIED — accuracy — dropped added "silly"; kept "always" (Codex accepted counter)
+  - Final text: "I'd always hated those TV shows that dub voices over animals, but an animal that actually talked like a person was seriously cute."
+- **F6** — APPLIED — worse — "human talk" -> "talking to people", 苦手 parallel kept
+  - Final text: "I wasn't good at talking to people, and I wasn't good with animals either (the beasts that trashed my fields had turned me against them), yet put the two together and somehow you got something cute."
+- **F7** — APPLIED — accuracy — premature "this kid" -> bare "Ohinata" (not yet "Professor", EN 143; Codex accepted counter)
+  - Final text: "I'm the one who dumped all outside negotiations on the Blue Witch... If she's decided Ohinata can be trusted, then, well, I guess it's fine?"
+- **F8** — APPLIED — accuracy — つぶらな: "beady" -> "round little"
+  - Final text: "Her round little eyes sparkled as she scurried up onto the worktable and looked around the room in awe."
+- **F9** — APPLIED — accuracy — kept "Aichi means"; よく "a lot" and やっぱり "I bet" restored (Codex accepted counter)
+  - Final text: "\"Aichi means miso katsu[^1]! It's so good, isn't it? I bet you eat it a lot, huh?\""
+- **F10** — APPLIED — glossary — "magic wand workshop"
+  - Final text: "At first I'd answered because I figured she was interested in a magic wand workshop, but something seemed a little off. She kept throwing out topics that sounded related but weren't."
+- **F11** — APPLIED — accuracy — 必然的 "inevitably" vs 自然の成り行き contrast restored
+  - Final text: "You click, so inevitably you get along, and before you know it, you're friends. That's the natural way things are supposed to go."
+- **F12** — APPLIED — worse — "sitting through" -> "listening to"; ぜ clipped voice kept (Codex accepted counter)
+  - Final text: "Never thought I'd be listening to a lecture again after graduating from university."
+- **F13** — KEPT — accuracy — "logically and efficiently"
+  - Why kept: English "theoretically" reads as "only in theory", misreading 理論的 (theory-driven method); Codex withdrew.
+- **F14** — APPLIED — accuracy — 設定 "posit"
+  - Final text: "...they concluded they'd have to posit at least seven unknown phonetic symbols for sounds humans can't pronounce..." (rest of paragraph unchanged)
+- **F15** — APPLIED — worse — culture clause rebuilt (Codex counter, with "are reflected" for JP present 反映されている); "big fluffy flakes" kept (牡丹雪; Codex agreed)
+  - Final text: "...It's the language of a place where it snows a lot, so the culture developed fine distinctions between different kinds of snow, and those distinctions are reflected in the language." (rest of paragraph unchanged)
+- **F16** — APPLIED — accuracy — 風土 "land" -> "environment"
+  - Final text: "\"If you know a language, you understand the environment it was born in, and if you understand that environment, it helps you understand the language. Basically, who speaks it, and where do they live?"
+- **F17** — APPLIED — worse — "short-handed"
+  - Final text: "...and with machines not working anymore, the team was always short-handed..." (rest unchanged)
+- **F18** — APPLIED — worse — "something kept bugging me"
+  - Final text: "I'd been listening quietly up to that point, but something kept bugging me, so I raised my hand."
+- **F19** — APPLIED — accuracy — よく "a lot"; dropped も restored as "too" (Codex accepted counter)
+  - Final text: "...My dad used to praise me for it a lot, too.\""
+- **F20** — APPLIED — consistency — "self-enhancement magic" (series form; not a glossary row)
+  - Final text: "...and one of its spells is self-enhancement magic..." (rest unchanged)
+- **F21** — APPLIED — consistency — "self-enhancement magic"
+  - Final text: "\"In theory, this self-enhancement magic would let an ordinary person holding a fairly large Gremlin take down a weak monster..." (rest unchanged)
+- **F22** — APPLIED — accuracy — "nobody can say them" -> "you can't recite them" (not "humans": witches are human; 唱える = recite; Codex accepted counter)
+  - Final text: "Then it's no good—way too many incantations are witch-and-mage only. You can research them all you want, but it means nothing if you can't recite them."
+- **F23** — KEPT — accuracy — "Just leave the research to..."
+  - Why kept: "Just leave it to X" is the idiomatic English for the exasperated suggestion 〜に任せればいいだろ; Codex withdrew.
+- **F24** — APPLIED — register — "Hence" -> past "That was why they called it" (surrounding explanation is past; Codex accepted counter)
+  - Final text: "A safety-device sound to prevent accidental activation. That was why they called it a \"safety sound.\""
+- **F25** — APPLIED — accuracy — 立派 "impressive", no superlative (Codex accepted counter)
+  - Final text: "You could call it one of the magic linguists' impressive research achievements."
+- **F26** — APPLIED — accuracy — ウチ = "we/our"; paraphrased-quote frame kept (Codex accepted counter)
+  - Final text: "...His offer went something like: \"I'll lend you my subordinate, so in exchange, help out with the food-production project we've got on our plate.\""
+- **F27** — KEPT — tense — present conclusion of the まあ…しな direct thought
+  - Why kept: JP 775 concludes the signaled monologue at JP 774 (EN 511, present); one thought, one tense; Codex withdrew.
+- **F28** — APPLIED — glossary — "magic wands made from Gremlins"
+  - Final text: "\"What about sheer manpower? It's not like I was saving them for a day like this, but I've got about 300 general-purpose dual-layer magic wands made from Gremlins sitting in storage. I made them to kill time. Teach regular people that fertility magic, get all 300 of them chipping away at it...\""
+- **F29** — APPLIED — glossary — bare 警備隊 "security force"
+  - Final text: "...That's a higher death rate than the security force has..." (rest unchanged)
+- **F30** — KEPT — accuracy — "So what do you want me to do!?"
+  - Why kept: どうしろってんだよ's quotative って is aimed at the person rejecting every proposal; standard English; Codex withdrew.
+- **F31** — APPLIED — worse — "she got moved" rebuilt
+  - Final text: "Still dead asleep, Professor Ohinata was moved into a basket lined with a fluffy blanket, and the Blue Witch carried her home with great care."
+- **F32** — APPLIED — glossary — "fertility-magic bypass incantation", "magic-activation media" (row 658), かけまくり "over and over"
+  - Final text: "Even unprocessed Gremlins could serve as magic-activation media, inefficient as they were. So worst case, if we ran short on wands, we'd only need to spread the wording of the fertility-magic bypass incantation around. Then sheer manpower could cast low-output fertility magic over and over, and the food problem would be solved."
+- **F33** — KEPT — tense — past narrative-pivot question
+  - Why kept: the question pivots a past planning passage and is answered by past JP 928 in the same thought; Codex withdrew.
+- **F34** — APPLIED — glossary — "make a magic wand"
+  - Final text: "...The smart move was to play to my strengths and make a magic wand that lowered the death rate of magic-language experiments."
+- **F35** — KEPT — worse — "one look at ..., and I got it instantly"
+  - Why kept: standard English construction, keeps 一発で; Codex withdrew.
+- **F36** — KEPT — accuracy — "Is that a coincidence, or no coincidence at all?"
+  - Why kept: idiomatic chance-vs-meant-to-be contrast for 偶然か必然か; Codex withdrew.
+- **F37** — APPLIED — glossary — 球形多層加工 "spherical multilayer processing"
+  - Final text: "Cyanos's spherical multilayer processing had been hard enough, but fractal processing was on another level..." (rest unchanged)
+- **F38** — APPLIED — worse — "improving my precision"
+  - Final text: "If I hadn't spent all that time training my eyes and hands and improving my precision, even I couldn't have pulled off work this ultra-precise."
+- **F39** — APPLIED — glossary — muttered fragment "Activation-standby state?" (Codex accepted counter)
+  - Final text: "\"<ruby>Vaa-ra<rt>Freeze</rt></ruby>. Aha, just as I thought. Activation-standby state? <ruby>Vaa-ra<rt>Freeze</rt></ruby>, ... Nothing at all. Got it.\"" (rest unchanged)
+- **F40** — APPLIED — glossary — "an activation-standby state"
+  - Final text: "After reciting it over and over to test it, I figured out that the fractal-processed piece went into an activation-standby state on the first incantation and fired on the second. It didn't respond to incorrect incantations at all."
+- **F41** — APPLIED — accuracy — hedge "was supposed to" removed; no teacher named (JP names none; Codex accepted counter)
+  - Final text: "On the way home, I thought I'd ask to learn the improved fertility magic too once it was done, since even ordinary people who couldn't pronounce the unpronounceable sounds would be able to use it. ..." (second sentence unchanged)
+- **F42** — APPLIED — glossary — "strange magic wands"
+  - Final text: "Kids born after the Gremlin Disaster would probably grow up with strange magic wands and witches like these as a normal part of life."
+- **F43** — KEPT — tense — present between よな (JP 1471) and なー (JP 1477) monologue lines
+  - Why kept: immediate reaction with speech-like …わけで ending inside a signaled direct-thought run; Codex withdrew.
+- **F44** — APPLIED — worse — 一周回って "looped back around"
+  - Final text: "Professor Ohinata is such a genius she's gone right past amazing and looped back around to scary!"
+- **F45** — APPLIED — accuracy — 自慢の娘だって as his quoted words (Codex accepted counter)
+  - Final text: "\"Your dad's probably proud of you from beyond the grave, too. Bet he's saying, 'That's my girl.'\""
+- **F46** — APPLIED — accuracy — かも "might not"
+  - Final text: "It was state-secret-level magic, so I'd only asked on the off chance, figuring they might not teach me. ..." (rest unchanged)
+- **F47** — KEPT — accuracy — "paid her to teach it to him"
+  - Why kept: 対価を支払って is literally "paid"; English "paid" is not necessarily monetary; Codex withdrew.
+- **F48** — APPLIED — tense — whole unsignaled appraisal unit EN 1175–1179 to past (Codex accepted counter; EN 1175/1177 changed alongside 1179 to avoid a one-thought tense split)
+  - Final text: "Stoat mode I would have welcomed, but animal-ear mode was a hard pass." / "Professor Ohinata was a kid, but she was a good kid. Her stories were interesting too." / "But she was so outgoing and cheerful that my instincts rejected her outright. Even if she'd hidden her face behind a mask like the Blue Witch, my body probably still wouldn't have accepted her."
+
+Checks: check_reedit RESULT: PASS (one WARN: dialogue paragraphs 220 -> 221. It comes from the earlier pass. Every edit in this debate was an in-line replacement with no paragraph breaks added or removed); gates ALL PASS.
+
+Reference flags: 自己強化魔法 has no glossary row. The series uses "self-enhancement magic" (V1 Ch8/Ch11, V4 Ch1/4/9), so the lead may want to add it (only 自己強化状態 "self-enhanced state" exists).
+
+### Lead Fixes (series rulings)
+- 唱える: "The Blue Witch chanted her incantations…" → "recited" (series ruling)
+- Merged narration split back out of dialogue: "…she turned back to me, fidgeting." / "Um, can I come over to play again...?"
+
+## User Rulings — 2026-09-29
+
+- Translator-note backticks removed (code-span formatting in the EPUB); note text unchanged.

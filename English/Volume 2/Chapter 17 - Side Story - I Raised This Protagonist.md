@@ -112,7 +112,7 @@ A staff member busy holding back people trying to get a close look at the wand c
 
 But he couldn't hold back his excitement.
 
-He'd nearly given up on OK Workshop, but they were alive!
+He'd nearly given OK Workshop up for dead, but they were alive!
 
 It was a fated reunion.
 
@@ -132,7 +132,7 @@ His OK Workshop fever reignited in an instant, and Takuo flagged down a staff me
 
 “I-I see. Then what does the one hundred sixty listed as the price mean...?”
 
-“Those are evaluation points. Here, taking classes and submitting short papers earns you evaluation points as well as course credits. You can save up your points and spend them on things like this at the campus store. The more you study, the nicer the things you can buy and the better you can live.”
+“Those are evaluation points. Here, taking classes and submitting short papers earns you evaluation points, which are separate from course credits. You can save up your points and spend them on things like this at the campus store. The more you study, the nicer the things you can buy and the better you can live.”
 
 That made sense to Takuo. It was a much healthier setup than having students sacrifice study time to part-time jobs just to pay for their education.
 
@@ -140,7 +140,7 @@ Of course, the university must have been scrambling to make ends meet behind the
 
 What mattered now, though, wasn't Magic University's unusual policy.
 
-By some miracle, he'd found a new work by his all-time favorite artist—a masterpiece that showed how much better they'd gotten in four years. He had to have it!
+By some miracle, he'd been reunited with his all-time favorite artist through a new work—a masterpiece that showed how much better they'd gotten in four years. He had to have it!
 
 Takuo leaned forward and asked again.
 
@@ -188,13 +188,13 @@ Takuo couldn't stop grinning smugly as he chuckled and puffed out his chest at t
 
 “Heh heh heh heh...! I raised OK Workshop!”
 
-Afterword
+## Afterword
 
 I realized something. Manga don't have afterwords, do they? Not usually. Movies don't either, just credits. Why is writing afterwords a thing only novels do? I flew to the Amazon to solve this mystery, then came home and Googled it like normal.
 
 From what I found, afterwords apparently date back to ancient Rome, when people would add extra information and acknowledgments at the end of a book. The evidence is a little shaky, but it seems broadly right.
 
-If that's true, it would also explain why manga and movies don't have afterwords. They're newer art forms that didn't exist in Rome (or did, but died out without passing anything down), so they can develop independently of ancient Roman customs. My reaction was: Ohhh, now I get it!
+If that's true, it would also explain why manga and movies don't have afterwords. They're newer art forms that didn't exist in Rome (or did, but died out without passing anything down), so they can develop independently of ancient Roman customs. I was like, Ohhh, now I get it!
 
 But then again, manga have fan books, and movies sell programs. Maybe every kind of entertainment has what amounts to an afterword, just in a different form. Acknowledgments aside, I guess there's a demand for extra information throughout the entertainment business.
 

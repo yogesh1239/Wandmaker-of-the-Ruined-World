@@ -71,3 +71,22 @@
 - Preserved `![p116.jpg](images/p116.jpg)` exactly at the corresponding position.
 - Narrative tense, glossary forms, name order, honorifics, Dragon Witch voice, and absence of unmatched footnotes verified.
 - No source scene break was introduced; no title heading or Translator Notes section was needed.
+
+## Re-edit Pass — 2026-09-29
+
+Naturalization re-edit of the filed chapter against the JP source (1 segment: EN whole file / JP 1–428 (`reedit-c5-s1`); subagent model Claude Opus; 116 changed paragraphs). Flow: short-sentence share 14.9% -> 9.3%; runs 0 -> 0; FLOW: ok (baseline not choppy). Codex critique: 116 changes reviewed, 6 flagged; all 6 accepted.
+
+### Accuracy Fixes
+- **魔石と首と腰のアクセ全部置いて**: "your head" mistranslation removed (首 goes with the accessories) — accuracy
+- **数歩の距離を取り目の前で刀を構える木和田**: agency fixed (Kiwada keeps the distance) — referent
+- **木和田**: "Kiwada Yoko" → "Kiwada, the centaur witch" (source gives only the family name) — accuracy
+- **未来視の警告が飛んでるみたいだねぇ**: "Foresight's warning", みたい kept — glossary
+- **魔女集会トップ戦力**: "Tokyo Witches' Council" → "Witches' Council" — glossary
+- **一瞬にして / 凡そ全ての身体能力**: nuance restored — accuracy
+- **岩人形**: "rock doll" (banned) → "gargoyle" — glossary
+
+### Register and Flow
+Baseline not choppy; flow work was mostly stranded speech tags and literal interjections ("Geh." → "Ugh.").
+
+### Formatting Confirmed
+- Image markers, scene breaks, ruby spans, note markers and notes unchanged; `check_reedit.py` RESULT: PASS; `run_chapter_gates.py --unit 4 --chapter 5` ALL PASS.

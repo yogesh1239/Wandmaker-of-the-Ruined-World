@@ -90,7 +90,7 @@ Four years after her mutation, the fire-fairy Flame Witch had aged almost to the
 
 Sitting on the Blue Witch's shoulder, the Flame Witch miserably confessed her fear, as though it were something to be ashamed of.
 
-“I've burned countless enemies to death. I knew I'd die someday too. But when I realized the time had come, I was scared. So scared. I know it can't be helped. It's my natural lifespan. I know that, but I'm still scared. I don't care what form it takes. If there's any way I can keep living, I want to cling to <ruby>Okyaku<rt>Great Wolf</rt></ruby>-san's magic item.”
+“I've burned countless enemies to death. I thought I understood that I'd die someday too. But when I realized the time had come, I was scared. So scared. I know it can't be helped. It's my natural lifespan. I know that, but I'm still scared. I don't care what form it takes. If there's any way I can keep living, I want to cling to <ruby>Okyaku<rt>Great Wolf</rt></ruby>-san's magic item.”
 
 “A customer? Who?”
 
@@ -100,9 +100,9 @@ With that, the Blue Witch handed me a bear trap.
 
 At a glance, I understood more or less how the bear trap worked.
 
-Oh, I see. They've made a circuit by connecting two types of magic stone. Huh. Such a simple idea, yet I've never thought of it. I've tried connecting and combining fragments from a single kind of magic stone before, but two kinds. Of course.
+Oh, I see. They've made a circuit by connecting two types of magic stone. Huh. Such a simple idea, yet I've never thought of it. I've tried connecting and combining fragments from a single kind of magic stone before, but two kinds. I see.
 
-The construction was so crude you couldn't make it this bad on purpose. What a waste of good material.
+The construction was so crude you couldn't make it this bad on purpose. The <ruby>materials<rt>magic stones</rt></ruby> are crying over this thing.
 
 Several of the fragments clearly matched, so it looked like the maker had carelessly smashed the stones apart—wham!—slapped down alternating shards of two colors, and connected the ends.
 
@@ -116,9 +116,9 @@ Sure, magic stones are hard to polish and cut, and I know they probably couldn't
 
 “No, I don't understand all of it. So?”
 
-“Charging it with magic power arms it. Once it's armed, it captures any prey that passes over it. The charging takes magic-power control, so ask me or the Flame Witch when you need it.”
+“Charging it with magic power puts it into an activation-standby state. If prey passes over it in that state, it captures it. Charging takes magic-power control, so ask me or the Flame Witch when you need it.”
 
-“Then I'm asking now. I want to see it activate.”
+“Wait, then I'm asking now. I want to see it activate once.”
 
 Eagerly, I held the Monster Trap out to the Blue Witch, but she only sighed.
 
@@ -132,7 +132,7 @@ At the Blue Witch's prompting, the Flame Witch hopped to the ground and gave me 
 
 “I want you to make a magic item that will seal me away. Not one that wears off after a dozen or so days at most, but one that can keep me sealed for decades. I want to place my hopes in the future. Even if nothing can be done about my lifespan now, someone might find a solution in a few decades. Please, could you do this for me?”
 
-“Oh, sure. If that's all, you basically want cryosleep. I can already think of a few upgrades. I don't know about decades, but I can make it last ten years or more. Probably.”
+“Oh, sure. If that's all, you basically want cryosleep. I can already think of a few upgrades. I don't know about decades, but I can make it last a dozen or so years. Probably.”
 
 “R-Really!? Just like that...? Th-Thank you! Thank you, thank you so much...!”
 
@@ -262,7 +262,7 @@ Every diagram came straight from memory. She had the whole thing in her head.
 
 Isn't that amazing?
 
-“Fire fairies know this much about chemistry too?”
+“So fire fairies know their way around fire chemistry like this too, huh.”
 
 “Ah, no. I studied all of this. We're developing fire-based industries in Shinagawa Ward.”
 
@@ -304,7 +304,7 @@ The Flame Witch's revised blueprints looked like they'd make my life in the coun
 
 If everything goes smoothly, she'll be sealed in a few days and spend a long time trapped in that drawn-out flow of time. Better make some good memories while you can.
 
-When I asked, the Flame Witch thought it over. An idea seemed to strike her, and she fidgeted as she spoke.
+When I asked, the Flame Witch thought it over. An idea struck her, and she fidgeted as she spoke.
 
 “Then... I spotted an abandoned house on the way here.”
 
@@ -350,7 +350,7 @@ What?
 
 Can an explanation leave you more confused than before?
 
-That was the purest “Huh?” I'd uttered in the last ten years. The Flame Witch heard it, turned bright red, and rattled off her explanation in a desperate rush.
+That was the purest “Huh?” I'd said in the last ten years. The Flame Witch heard it, turned bright red, and rattled off her explanation in a desperate rush.
 
 “I'm that kind of creature. You know how witches' fetishes can change when they mutate, right? The creature I turned into seems to reproduce when a mating pair sets something on fire together. So when I get horny, I want to set fires so badly I can't stand it.
 
@@ -368,7 +368,7 @@ You might've confessed in an “I might die soon, so screw it, I'll say it” ki
 
 I'd heard a ridiculous story, but there was one thing I could say for sure.
 
-“Listen. I don't know much about the etiquette for conversations like this either, but you probably shouldn't tell anyone else about that fetish.”
+“Listen. I'm no expert on the... subtleties? of conversations like this either, but you probably shouldn't tell anyone else about that fetish.”
 
 ![p057.jpg](images/p057.jpg)
 

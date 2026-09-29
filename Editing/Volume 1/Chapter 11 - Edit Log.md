@@ -506,3 +506,111 @@ Naturalization re-edit of the filed chapter against the JP source in two segment
 
 ### User Ruling — 2026-09-28
 - **花の魔法使い** (JP line 154): "Flower Mage" → "Flower Witch". The same sentence says 花の魔女, and the series title is Flower Witch everywhere else. Ruled by the user. — glossary
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 359 reviewed, 44 flagged. Round 1: 24 conceded, 10 pushed back, 10 countered. Codex after round 1: 10 withdrew, 10 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 34 changed, 10 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — accuracy — "finished letter" read as a finished-writing letter
+  - Final text: "I tossed the letter I'd finished reading into my letter case and wolfed down the pumpkin cookies from their oil-paper wrapping."
+- **F2** — APPLIED — worse — "side business to my work"
+  - Final text: "...sell a few here and there as a side business alongside my work as a Wand Maker."
+- **F3** — APPLIED — glossary — 花の魔法使い is Flower Mage
+  - Final text: "...when he learned the magic from the Flower Mage. But finer points the manual didn't cover, ones even the Flower Witch hadn't known, were apparently turning up all the time."
+- **F4** — APPLIED — accuracy — restored かかりそうだ hedge and やっぱり
+  - Final text: "It looked like it would take a while before humanity could use fertility magic reliably. New technology really did take time to spread."
+- **F5** — APPLIED — tense — よな-marked direct thought to present
+  - Final text: "Civilization's gone downhill since the Gremlin Disaster, but being able to use freezing magic anytime, anywhere is a real upgrade on life before it. It's fun to use, too."
+- **F6** — KEPT — worse — "shouted it out loud"
+  - Why kept: "it" points to the unvoiced outburst on the previous line; "out loud" marks that it stayed internal (Codex withdrew).
+- **F7** — KEPT — tense — "I knew... but it's doing absolutely nothing"
+  - Why kept: marked direct monologue (やべぇ, もん); 効いてない is a present state (Codex withdrew).
+- **F8** — APPLIED — accuracy — だろ + ちょっとは
+  - Final text: "...and it should hurt at least a little."
+- **F9** — APPLIED — accuracy — dropped added "doubled over"
+  - Final text: "The wind was knocked out of me, and I started coughing."
+- **F10** — APPLIED — worse — "faded uselessly"
+  - Final text: "My scream was swallowed up, unanswered, by the mountains of Okutama."
+- **F11** — APPLIED — worse — bungee jump phrasing
+  - Final text: "Right now, I could probably laugh my way through a bungee jump."
+- **F12** — KEPT — accuracy — "murder in her eyes"
+  - Why kept: the preceding line is her 「ぶっ殺されたいの？」, so the killing intent is in the JP (Codex withdrew).
+- **F13** — APPLIED — accuracy — はず expectation restored (counter)
+  - Final text: "Surely she won't squish me flat just because I've annoyed her a little."
+- **F14** — APPLIED — accuracy — 私だって分かってる made her own admission (counter)
+  - Final text: "“Shut up. I know it's rough, talking like this when I'm pushing thirty. It just started after I mutated. I can't help it.”"
+- **F15** — APPLIED — tense — unmarked appraisal to past
+  - Final text: "Picturing it was seriously creepy. She sounded like the evil witch from some old fairy tale."
+- **F16** — KEPT — accuracy — "they really are witches"
+  - Why kept: 忘れそうになる with the Blue Witch as counterexample makes it a class-level statement (Codex withdrew).
+- **F17** — APPLIED — accuracy — ちょいちょい = "pretty often" (counter)
+  - Final text: "“Nah, she pops over to the neighboring cities pretty often. ...”"
+- **F18** — KEPT — accuracy — "self-proclaimed woman pushing thirty"
+  - Why kept: 自称 governs アラサー女子 whole; the FIX dropped 女子 and the dragon joke (Codex withdrew).
+- **F19** — APPLIED — mechanics — restored the source's separate narration paragraph (counter)
+  - Final text: "The Dragon Witch spoke up proudly." / "“This is my magic stone, Meteoflame. Turn it into a necklace that looks good around my neck.”"
+- **F20** — APPLIED — worse — "tomorrow or so"
+  - Final text: "I'll have your tools brought over sometime tomorrow, so work on the design today."
+- **F21** — APPLIED — worse — boast keeps the 男だぞ frame (counter)
+  - Final text: "You underestimated my dexterity. I'm a man who could conquer the world with my dexterity!"
+- **F22** — APPLIED — glossary — bare 魔女集会
+  - Final text: "...apparently she had enough social skills to take jobs from the Witches' Council."
+- **F23** — APPLIED — worse — "is still going"
+  - Final text: "So wait, does that mean livestock farming has survived around here...?"
+- **F24** — APPLIED — tense — unmarked はずだが to past
+  - Final text: "Getting feed and looking after livestock had to be a ton of work, though."
+- **F25** — KEPT — tense — "I want to go back to Okutama."
+  - Why kept: ends the もん/やだ-marked direct-thought block; one thought, one tense (Codex withdrew).
+- **F26** — APPLIED — worse — "pushed over a shopping cart" ambiguity
+  - Final text: "A girl of about grade-school age came pushing a shopping cart loaded with a huge cooler and stopped in front of me."
+- **F27** — APPLIED — accuracy — 他人 = strangers
+  - Final text: "...the only times you get to touch strangers are when you're handing over change..."
+- **F28** — APPLIED — worse — she had already touched him (counter)
+  - Final text: "...and now she'd gone for physical contact. My stress gauge shot straight past the max."
+- **F29** — KEPT — tense — "Anyway, I'm glad she's alive."
+  - Why kept: concludes the そうか/question-marked direct thought; 良かった is the relief idiom (Codex withdrew).
+- **F30** — APPLIED — glossary — bare 魔女集会
+  - Final text: "When it's done, I'll show it off at the Witches' Council."
+- **F31** — KEPT — accuracy — "I'd seen them all a hundred times"
+  - Why kept: stock idiom for 見慣れた, not a count; "but somehow" carries はず (Codex withdrew).
+- **F32** — APPLIED — worse — "hook up" and stiff "bug in my own psychology" (counter)
+  - Final text: "So this is why the suspension-bridge effect makes couples fall for each other so easily. I was doing my best to calmly analyze the bug in my head when..."
+- **F33** — APPLIED — worse — tucked tail; also restored でさえ
+  - Final text: "If even I was this rattled, the Dragon Witch, who was taking that killing intent head-on, had it far worse. She tucked her tail in tight."
+- **F34** — APPLIED — accuracy — two different questions, back to back (counter)
+  - Final text: "Hit with two honest questions in a row, the Blue Witch put a hand to her head as if fighting off a headache."
+- **F35** — APPLIED — worse — kept "pronounce sentence" idiom, tightened metaphor (counter)
+  - Final text: "The Blue Witch leveled Cyanos at her hip and pronounced a sentence as cold as absolute zero."
+- **F36** — APPLIED — glossary — bare 魔女集会
+  - Final text: "As a courtesy between members of the Witches' Council, I'll make it instant if you don't resist."
+- **F37** — APPLIED — glossary — bare 警備隊 = security force (counter)
+  - Final text: "Was this the security force on an emergency call-out?"
+- **F38** — APPLIED — worse — "rescue him" → "me"
+  - Final text: "...needed her to come rescue me, I was in no position to butt into her decision."
+- **F39** — APPLIED — accuracy — 気がする hedge
+  - Final text: "It felt like we were going about 50 km/h."
+- **F40** — APPLIED — accuracy — single look back
+  - Final text: "She looked back worriedly as she ran with the cart, so I gave her a casual wave."
+- **F41** — APPLIED — accuracy — antecedent fixed; 暴走 = out of control
+  - Final text: "A while back, a witch went out of control and turned the land beneath it into a world where people can't live."
+- **F42** — APPLIED — accuracy — dropped added "what's left of"
+  - Final text: "...the kind that could finish off battered humanity."
+- **F43** — KEPT — tense — "The grueling age of looting and echoes is over."
+  - Why kept: closing credo ending in a general truth and 俺はそう信じている (present); 終わった resultative (Codex withdrew).
+- **F44** — KEPT — tense — "...an exciting age of reconstruction and magic will begin."
+  - Why kept: same credo; きっと…だろう conjecture feeding into "I believe that" (Codex withdrew).
+
+Checks: check_reedit RESULT: PASS (WARN dialogue paragraphs 155 -> 156 predates this debate, same on the committed HEAD version; total paragraphs 536 -> 536, so nothing was merged or dropped: two narration-side paragraphs now carry quoted text, e.g. the attribution "she said, her voice shaking" moved onto the 「生きてる……！」 line); gates ALL PASS (--unit 1 --chapter 11).
+
+Reference flags: none. (Agh- Fire ruby left as filed per lead ruling; no "chant" in any touched sentence.)
+
+### Lead Fixes (series rulings)
+- 唱える: 2 "chant" forms → "recite" (series ruling)
+
+## User Rulings — 2026-09-29
+
+- 花の魔法使い (JP 12:154): "Flower Mage" → "Flower Witch" (user ruling: both mentions in the sentence are the Flower Witch; supersedes debate F3).

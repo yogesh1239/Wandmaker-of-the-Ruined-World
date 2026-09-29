@@ -147,3 +147,32 @@ Naturalization re-edit of the filed chapter against the JP source (segment 1 of 
 
 ### Formatting Confirmed
 - Image marker, headings, quote style unchanged; no notes section; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 1 --chapter 10` ALL PASS.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 92 reviewed, 8 flagged. Round 1: 5 conceded, 2 pushed back, 1 countered. Codex after round 1: 2 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 6 changed, 2 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — possessive idiom "X's paranoia talking"
+  - Final text: "The way I saw it, new technology had always spread with a glaring gap between regions, no matter the era. And that wasn't some socially awkward country bumpkin's paranoia talking. It was a fact."
+- **F2** — KEPT — accuracy — らしい closes the 語ったところによると hearsay frame, already rendered by "she explained that"
+  - Why kept: adding "apparently" would double the hearsay marking; Codex withdrew.
+- **F3** — APPLIED — accuracy — カラフル is "all kinds of colors," not "every color"
+  - Final text: "They ranged from the size of a grain of rice to the size of a ping-pong ball, and they came in all kinds of colors: red, blue, yellow, green, and purple."
+- **F4** — APPLIED — worse — "know-how piled up" → "built up," keeping casual "fast" (my counter, Codex accepted)
+  - Final text: "With the Blue Witch helping out with the experiments, my Gremlin-appraisal know-how built up fast."
+- **F5** — APPLIED — glossary — 発動待機状態 = "activation-standby state"
+  - Final text: "I set a dodecahedral fractal I'd made just for appraisal on the worktable, recited the fertility-magic bypass incantation, and put it into an activation-standby state."
+- **F6** — APPLIED — accuracy — 分かりやすい = clear, not easy to do
+  - Final text: "I'd given her perfectly clear advice, but the Blue Witch was left speechless."
+- **F7** — KEPT — tense — part of a continuous direct monologue (だな, 貰おう, general truth); same paragraph and next stay present
+  - Why kept: past here would break one-thought-one-tense; OLD was present too; Codex withdrew.
+- **F8** — APPLIED — worse — face was the object of "hit on"; "kind guys" misparse
+  - Final text: "Well, you've got a stupidly pretty face and guys probably hit on you nonstop, so it's not like you're full of yourself, but... Huh? Wait, you're actually not full of yourself, are you?"
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none

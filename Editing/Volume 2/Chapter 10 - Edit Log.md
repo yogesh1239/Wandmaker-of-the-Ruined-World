@@ -120,3 +120,36 @@ Stranded speech tag at JA 346/349 (Blue Witch, 心配そうに) joined to her ow
 
 ### Formatting Confirmed
 - Ruby spans, notes, and image markers unchanged; no backticks; `check_reedit.py` PASS (FLOW ok); `run_chapter_gates.py --unit 2 --chapter 10` ALL PASS; `check_consistency.py --all` PASS for Volumes 1–4 after the glossary additions.
+
+## Codex Critique Debate — 2026-09-29
+
+Independent critique of the 2026-09-28 re-edit by Codex (gpt-5.6-sol, high reasoning, read-only) against the JP; the editor debated each finding (concede / push back / counter, up to two rounds in Codex's own session) and applied what survived on the merits.
+
+Codex: 145 reviewed, 10 flagged. Round 1: 8 conceded, 1 pushed back, 1 countered. Codex after round 1: 1 withdrew, 1 accepted, 0 maintained, 0 countered. Round 2: no.
+Final: 9 changed, 1 kept as re-edited.
+
+### Findings
+- **F1** — APPLIED — worse — 技術的に: "on technique" narrowed it
+  - Final text: "Decorating the workshop with it was tempting, but Tokyo Magic University was using theirs for research, and it spooked me a little to think I might fall behind technologically if I got too relaxed about my hobby. Professor Handa's research team was seriously no joke."
+- **F2** — APPLIED — glossary — 唱えた is "recited", not "said"
+  - Final text: "When twins held a Moebius ring Gremlin together and both recited “<ruby>Vaa-ra<rt>Freeze</rt></ruby>” at the same moment, only one freezing beam came out, with the power and magic-power cost of a single casting by one person."
+- **F3** — APPLIED — accuracy — 声質 is vocal quality, not unison
+  - Final text: "The catch was that their vocal quality had to match perfectly."
+- **F4** — APPLIED — accuracy — contrastive グレムリンの方 restored (Claude counter, Codex accepted)
+  - Final text: "Then I'll make the Gremlins the twins instead!"
+- **F5** — APPLIED — accuracy — plural 加工品, procedural line restored
+  - Final text: "Carve identical finished pieces out of the same lump."
+- **F6** — APPLIED — accuracy — と思う hedge restored
+  - Final text: "But thanks to that, I didn't make a single mistake, and I thought the precision had hit the theoretical limit of what I could do."
+- **F7** — APPLIED — mechanics — added frown removed; dialogue split back into its own paragraph
+  - Final text: "A while later, the Blue Witch made it through the Lost Mist. She took one look at my face at the front door and asked worriedly," / "“Ori, aren't you looking a little worn out?”"
+- **F8** — KEPT — worse — "I do a chorus with you"
+  - Why kept: 合唱 is the technique name and the chapter already uses "do a 'chorus'" (EN 187, 189); Codex withdrew.
+- **F9** — APPLIED — glossary — 唱える is "recite"
+  - Final text: "Then we recited the spell."
+- **F10** — APPLIED — tense — ぞ marks direct monologue, so present
+  - Final text: "Oh, I can tell."
+
+Checks: check_reedit RESULT: PASS (no WARNs); gates ALL PASS.
+
+Reference flags: none
